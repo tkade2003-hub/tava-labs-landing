@@ -1,11 +1,18 @@
 /* ============================================================
    Tava Labs — shared stylesheet
-   Landing page + legal pages. White / gold premium styling.
+   Landing page + legal pages. White / gold premium styling,
+   with the Forest Luxe palette worked into the landing page:
+   champagne golds #D8C19A / #B78B45, forest greens
+   #123B2C / #08251D, alongside the brand gold #C19A3D.
    ============================================================ */
 :root{
   --gold:#C19A3D;
   --gold-dark:#9A7B2D;
   --gold-light:#e9cf8f;
+  --champagne:#D8C19A;
+  --champagne-deep:#B78B45;
+  --forest:#123B2C;
+  --forest-deep:#08251D;
   --ink:#141414;
   --muted:#6d675c;
   --ivory:#faf7f1;
@@ -56,7 +63,7 @@ nav a.shop:hover{ background:var(--ink); color:#fff; transform:translateY(-1px);
 .hero h1{ font-family:'Playfair Display',serif; font-size:clamp(38px,5.2vw,68px); line-height:1.08; font-weight:600; }
 .hero h1 em{
   font-style:italic;
-  background:linear-gradient(100deg, var(--gold-dark) 10%, var(--gold) 35%, var(--gold-light) 50%, var(--gold) 65%, var(--gold-dark) 90%);
+  background:linear-gradient(100deg, var(--gold-dark) 10%, var(--champagne-deep) 30%, var(--champagne) 50%, var(--gold) 68%, var(--gold-dark) 90%);
   background-size:220% 100%;
   -webkit-background-clip:text; background-clip:text;
   -webkit-text-fill-color:transparent; color:transparent;
@@ -101,12 +108,12 @@ nav a.shop:hover{ background:var(--ink); color:#fff; transform:translateY(-1px);
 
 /* ---------- Buttons ---------- */
 .cta{
-  display:inline-block; background:var(--gold); color:#fff; text-decoration:none; font-weight:600;
+  display:inline-block; background:linear-gradient(120deg, var(--champagne-deep), var(--gold) 60%); color:#fff; text-decoration:none; font-weight:600;
   padding:15px 34px; border-radius:999px; font-size:15px; letter-spacing:.04em;
   box-shadow:0 10px 24px rgba(193,154,61,.35);
   transition:background .3s var(--ease), transform .3s var(--ease), box-shadow .3s var(--ease);
 }
-.cta:hover{ background:var(--gold-dark); transform:translateY(-2px); box-shadow:0 16px 32px rgba(193,154,61,.4); }
+.cta:hover{ background:linear-gradient(120deg, var(--gold-dark), var(--champagne-deep) 60%); transform:translateY(-2px); box-shadow:0 16px 32px rgba(193,154,61,.4); }
 .cta.ghost{ background:transparent; color:var(--ink); border:1px solid var(--ink); box-shadow:none; }
 .cta.ghost:hover{ background:var(--ink); color:#fff; }
 .hint{ margin-top:14px; font-size:12.5px; color:var(--muted); }
@@ -154,26 +161,26 @@ section p.lede{ text-align:center; color:var(--muted); margin:12px auto 40px; ma
 .card h3{ font-size:16px; margin:10px 0 8px; }
 .card p{ font-size:14px; color:var(--muted); line-height:1.55; }
 
-/* Parallax band between sections */
+/* Parallax band between sections — Forest Luxe dark section */
 .band{
   position:relative; overflow:hidden; text-align:center;
-  padding:90px 6vw; border-top:1px solid var(--line); border-bottom:1px solid var(--line);
-  background:linear-gradient(180deg,#f7efdb, #f1e6cb);
+  padding:90px 6vw; border-top:1px solid rgba(216,193,154,.28); border-bottom:1px solid rgba(216,193,154,.28);
+  background:linear-gradient(180deg, var(--forest), var(--forest-deep));
 }
 .band .band-bg{
   position:absolute; inset:-30% 0; pointer-events:none; will-change:transform;
   background:
-    radial-gradient(circle at 18% 30%, rgba(193,154,61,.28), rgba(193,154,61,0) 34%),
-    radial-gradient(circle at 82% 65%, rgba(154,123,45,.22), rgba(154,123,45,0) 36%),
-    radial-gradient(circle at 55% 15%, rgba(233,207,143,.35), rgba(233,207,143,0) 30%);
+    radial-gradient(circle at 18% 30%, rgba(216,193,154,.20), rgba(216,193,154,0) 34%),
+    radial-gradient(circle at 82% 65%, rgba(183,139,69,.18), rgba(183,139,69,0) 36%),
+    radial-gradient(circle at 55% 15%, rgba(216,193,154,.13), rgba(216,193,154,0) 30%);
 }
 .band blockquote{
-  position:relative; z-index:2;
+  position:relative; z-index:2; color:#f5efe2;
   font-family:'Playfair Display',serif; font-size:clamp(24px,3.2vw,38px); font-weight:600; line-height:1.3;
   max-width:22em; margin:0 auto;
 }
-.band blockquote em{ color:var(--gold-dark); font-style:italic; }
-.band p{ position:relative; z-index:2; margin-top:16px; color:var(--muted); font-size:14px; letter-spacing:.14em; text-transform:uppercase; }
+.band blockquote em{ color:var(--champagne); font-style:italic; }
+.band p{ position:relative; z-index:2; margin-top:16px; color:rgba(216,193,154,.85); font-size:14px; letter-spacing:.14em; text-transform:uppercase; }
 
 /* ---------- Pricing ---------- */
 .pricing{ display:grid; grid-template-columns:repeat(2,1fr); gap:22px; max-width:880px; margin:0 auto; align-items:stretch; }
@@ -187,12 +194,12 @@ section p.lede{ text-align:center; color:var(--muted); margin:12px auto 40px; ma
 .price-card.featured{
   border:1px solid transparent;
   background:linear-gradient(var(--card), var(--card)) padding-box,
-             linear-gradient(150deg, var(--gold-light), var(--gold), var(--gold-dark)) border-box;
+             linear-gradient(150deg, var(--champagne), var(--gold), var(--champagne-deep)) border-box;
   box-shadow:0 18px 42px rgba(193,154,61,.22);
 }
 .price-card .badge{
   position:absolute; top:-14px; left:50%; transform:translateX(-50%);
-  background:var(--gold); color:#fff; font-size:11px; font-weight:600; letter-spacing:.16em; text-transform:uppercase;
+  background:var(--champagne-deep); color:#fff; font-size:11px; font-weight:600; letter-spacing:.16em; text-transform:uppercase;
   padding:6px 14px; border-radius:999px; white-space:nowrap;
 }
 .price-card h3{ font-family:'Playfair Display',serif; font-size:21px; font-weight:600; }
@@ -234,6 +241,18 @@ footer a:hover{ text-decoration:underline; }
 }
 .legal-links a{ font-size:13px; letter-spacing:.04em; }
 footer .fineprint{ margin-top:16px; font-size:12px; color:#a39a86; line-height:1.6; max-width:44em; margin-left:auto; margin-right:auto; }
+
+/* Landing page footer — Forest Luxe dark (landing only; legal pages keep the light footer) */
+body.landing footer{
+  background:linear-gradient(180deg, var(--forest), var(--forest-deep));
+  border-top:1px solid rgba(216,193,154,.28);
+  color:#ddd5c1;
+}
+body.landing footer .wordmark{ color:#fff; }
+body.landing footer .wordmark small{ color:var(--champagne); }
+body.landing footer a{ color:var(--champagne); }
+body.landing footer a:hover{ color:#fff; }
+body.landing footer .fineprint{ color:rgba(221,213,193,.6); }
 
 /* ---------- Legal pages ---------- */
 .legal{ max-width:840px; margin:0 auto; padding:26px 6vw 76px; }
