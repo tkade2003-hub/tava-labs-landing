@@ -108,9 +108,27 @@
   const key = new THREE.DirectionalLight(0xffffff, 1.6); key.position.set(4, 6, 4); scene.add(key);
   const rim = new THREE.DirectionalLight(0xffe9bb, 0.9); rim.position.set(-5, 3, -4); scene.add(rim);
 
-  // ---------- 3D serum bottle (procedurally modelled) ----------
+  // ---------- 3D serum bottle ----------
+  // Loads the studio model (assets/t__nottle-reduced.glb), normalised to
+  // the stage and seated on the ground shadow. If the model cannot be
+  // loaded, the procedurally modelled bottle below is used instead.
   const bottle = new THREE.Group();
+  let useModel = false;
+  try {
+    const { GLTFLoader } = await import('three/addons/loaders/GLTFLoader.js');
+    const gltf = await new GLTFLoader().loadAsync('assets/t__nottle-reduced.glb');
+    const model = gltf.scene;
+    const box = new THREE.Box3().setFromObject(model);
+    const size = box.getSize(new THREE.Vector3());
+    const centre = box.getCenter(new THREE.Vector3());
+    const s = 3.6 / size.y;
+    model.scale.setScalar(s);
+    model.position.set(-centre.x * s, -1.5 - box.min.y * s, -centre.z * s);
+    bottle.add(model);
+    useModel = true;
+  } catch (e) { /* fall back to the procedural bottle */ }
 
+  if (!useModel) {
   // Glass body — lathe profile: base, straight body, shoulder, neck
   const pts = [];
   pts.push(new THREE.Vector2(0.0, -1.45));
@@ -190,6 +208,7 @@
     new THREE.MeshPhysicalMaterial({ color: 0xffffff, roughness: 0.05, transmission: 0.9, thickness: 0.2 })
   );
   tube.position.y = 0.35; bottle.add(tube);
+  }
 
   scene.add(bottle);
 
