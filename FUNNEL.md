@@ -203,3 +203,37 @@ orders already succeed; the first live order will confirm entitlement).
   at `https://tavalabs.app/checkout/success` / `/checkout/cancel` (the
   URLs Stripe redirects to, built from `APP_PUBLIC_URL`) only once this
   repo is hosted at that domain. That hosting step is still pending.
+
+## App handoff: claim codes — BUILT 2026-11-17 (test mode)
+
+The app is **not on the App Store yet**, so the handoff does not use a
+store link. It uses a claim code:
+
+- When `stripe-webhook` marks a funnel order paid, it issues a claim code
+  (migration `0010_app_claims.sql` + `_shared/claims.ts` in the serum repo)
+  and best-effort emails it (`claimEmail` template; email sending activates
+  when Resend config lands in the Supabase project — it is not set today).
+- `checkout/success.html` fetches the same code from the public
+  `claim-lookup` function using the Stripe session id in its URL (the
+  lookup only answers once the order is paid), and shows: the code, a
+  **Copy claim code** button, a **Copy claim link** button
+  (`https://tavalabs.app/claim?code=…`), and an **Open in the app**
+  deep-link button (`tavalabs://claim?code=…`) labelled "if it's
+  installed". Wording is explicit that the app isn't in the App Store
+  yet and the code is what carries the purchase over.
+- In the app: the deep link (or a code typed into Orders → "Bought on
+  our website?") calls `claim-purchase` with the user's sign-in token.
+  The server merges the lead profile into the app account — quiz
+  answers, plan, routine times, shipping address, Stripe customer /
+  subscription state — and re-keys all of the lead's orders to the app
+  user. No new order is created, and the Shop refuses a second checkout
+  for anyone with a paid order.
+- Security: a code is single-use, expires after 90 days, and is the
+  proof of purchase — email alone never merges anything (anyone can
+  type anyone's email into the quiz). Codes are verified by SHA-256
+  hash; the `app_claims` table is service-role only.
+
+Proven in test mode 2026-11-17: funnel order TL-86773 (subscribe, $39)
+claimed into a test app account — plan + answers + address + active
+subscription transferred, orders total unchanged (no duplicate), replay
+by the same account idempotent, claim by a different account refused.

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Tava Labs — Order Confirmed</title>
-<meta name="description" content="Your Tava Labs Glow Brightening Serum order is confirmed. Get the app and sign in with the same email — your 30-day plan and answers are already there.">
+<meta name="description" content="Your Tava Labs Glow Brightening Serum order is confirmed. Your claim code connects this purchase to the app — your 30-day plan, answers, and order move with it.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
@@ -46,16 +46,28 @@
   <p class="lede">Your Glow Brightening Serum order is confirmed and being prepared. Here's what happens next:</p>
 
   <div class="cardbox">
-    <div class="planrow"><span class="k">Email</span><span class="v">A confirmation email is on its way to the email you checked out with — keep it, it's your receipt.</span></div>
+    <div class="planrow"><span class="k">Email</span><span class="v">A confirmation email is on its way to the email you checked out with — keep it: it's your receipt and it carries the same claim code shown below.</span></div>
     <div class="planrow"><span class="k">Shipping</span><span class="v">Your bottle ships from our fulfillment partner in the next few business days. Tracking goes to the same email the moment it's on its way.</span></div>
     <div class="planrow"><span class="k">Your plan</span><span class="v">Your personalized 30-day plan — your answers, your ramp schedule, your AM/PM times — is saved and waiting in the app.</span></div>
     <p id="refLine" style="margin-top:12px;" hidden>Checkout reference: <span id="refValue" style="word-break:break-all;"></span></p>
   </div>
 
-  <h3 style="font-family:'Playfair Display',serif; font-size:22px; font-weight:600; margin:26px 0 8px;">Now get the app</h3>
-  <p class="lede" style="margin-top:0;">Your plan lives in the Tava app — daily AM/PM check-offs, your streak, and your shipment tracking. <strong>Sign in with the same email you checked out with</strong> and your plan and answers are already there. Nothing to re-type.</p>
-  <!-- PLACEHOLDER: replace href with the real App Store URL once the app is listed. -->
-  <a class="cta" href="#" id="appStoreBtn">Download on the App Store</a>
+  <h3 style="font-family:'Playfair Display',serif; font-size:22px; font-weight:600; margin:26px 0 8px;">Your purchase follows you into the app</h3>
+  <p class="lede" style="margin-top:0;">Your plan lives in the Tava app — daily AM/PM check-offs, your streak, and your shipment tracking. The app isn't on the App Store just yet, so here's your <strong>claim code</strong>: keep it somewhere safe. When you install the app, sign in and enter this code — your plan, your answers, and this order move into your account with it. Nothing to re-type, and no buying again.</p>
+
+  <div class="cardbox" id="claimBox">
+    <h3>Your app claim code</h3>
+    <p id="claimStatus">Finding your claim code…</p>
+    <div id="claimReady" hidden>
+      <p style="font-family:'Playfair Display',serif; font-size:30px; letter-spacing:.14em; text-align:center; color:var(--ink); margin:14px 0 4px;" id="claimCode"></p>
+      <p style="text-align:center; font-size:12.5px;" id="claimExpiry"></p>
+      <button class="cta" id="copyCodeBtn" type="button" style="margin-top:14px;">Copy claim code</button>
+      <button class="cta" id="copyLinkBtn" type="button" style="margin-top:10px; background:#fff; color:var(--gold-dark); border:1.5px solid var(--gold); box-shadow:none;">Copy claim link</button>
+      <a class="cta" href="#" id="openAppBtn" style="margin-top:10px; background:var(--ink); box-shadow:none;">Open in the app — if it's installed</a>
+      <p class="note">Got the code by email too — same code, keep whichever is easier. The code works once, only for your account, and it's how we know the purchase is yours (your email alone is never enough).</p>
+    </div>
+  </div>
+
   <p class="note">Questions about your order? Email <a href="mailto:talia@tavalabs.app" style="color:var(--gold-dark);">talia@tavalabs.app</a> and we'll sort it out.</p>
 
   <footer>Tava Labs · The Science of Attractive Health · Questions? talia@tavalabs.app</footer>
@@ -65,12 +77,72 @@
 "use strict";
 /* Stripe appends ?session_id={CHECKOUT_SESSION_ID} to this URL. We show it
    as a support reference; the order itself is confirmed server-side by the
-   Stripe webhook, never by this page. */
-const sid = new URLSearchParams(window.location.search).get("session_id");
+   Stripe webhook, never by this page.
+   The claim code is fetched from the claim-lookup edge function using
+   that same session id as the capability — it only answers once the
+   order is PAID, so we retry for a little while in case the webhook is
+   still landing. */
+const CLAIM_LOOKUP_URL = "https://evzfibetybqhwikwhfbd.supabase.co/functions/v1/claim-lookup";
+const params = new URLSearchParams(window.location.search);
+const sid = params.get("session_id");
 if (sid) {
   document.getElementById("refValue").textContent = sid;
   document.getElementById("refLine").hidden = false;
 }
+
+const claimStatus = document.getElementById("claimStatus");
+function copyText(text, btn, label) {
+  const done = () => { btn.textContent = "Copied ✓"; setTimeout(() => { btn.textContent = label; }, 2000); };
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(text).then(done).catch(() => { window.prompt("Copy this:", text); });
+  } else {
+    window.prompt("Copy this:", text);
+  }
+}
+
+async function loadClaim(attempt) {
+  if (!sid) {
+    claimStatus.textContent = "We couldn't find your checkout reference on this page — your claim code is also in your confirmation email. Keep that email and use the code when you install the app.";
+    return;
+  }
+  try {
+    const res = await fetch(CLAIM_LOOKUP_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ session_id: sid })
+    });
+    const data = await res.json().catch(() => null);
+    if (data && data.paid && data.claim) {
+      const c = data.claim;
+      document.getElementById("claimCode").textContent = c.code;
+      const exp = c.expiresAt ? new Date(c.expiresAt) : null;
+      document.getElementById("claimExpiry").textContent =
+        (c.alreadyClaimed ? "Already claimed into your app account. " : "") +
+        (exp ? "Keep it until " + exp.toLocaleDateString(undefined, { year: "numeric", month: "long", day: "numeric" }) + "." : "");
+      document.getElementById("openAppBtn").href = c.deepLink;
+      const codeBtn = document.getElementById("copyCodeBtn");
+      const linkBtn = document.getElementById("copyLinkBtn");
+      codeBtn.addEventListener("click", () => copyText(c.code, codeBtn, "Copy claim code"));
+      linkBtn.addEventListener("click", () => copyText(c.webLink, linkBtn, "Copy claim link"));
+      claimStatus.textContent = "This code connects your purchase to your app account:";
+      document.getElementById("claimReady").hidden = false;
+      return;
+    }
+    if (data && data.paid && !data.claim) {
+      claimStatus.textContent = "This purchase already lives in an app account, so there's no code to claim — just sign in to the app.";
+      return;
+    }
+    throw new Error("not paid yet");
+  } catch (e) {
+    if (attempt < 6) {
+      claimStatus.textContent = "Confirming your payment — your claim code will appear here in a few seconds…";
+      setTimeout(() => loadClaim(attempt + 1), 4000);
+    } else {
+      claimStatus.textContent = "Your payment is confirmed by email — your claim code is in that email too. Keep it, and enter it in the app when you install it.";
+    }
+  }
+}
+loadClaim(0);
 </script>
 </body>
 </html>

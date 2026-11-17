@@ -256,10 +256,13 @@
     <h1>Your glow era <em>starts now.</em></h1>
     <div class="banner demo" id="thanksDemo" hidden><strong>Demo checkout — no charge was made.</strong> Your order payload was saved in this browser so you can inspect exactly what the live version will send.</div>
     <div class="cardbox" id="thanksBox"></div>
-    <h2 style="font-size:24px;">Now get the app</h2>
-    <p class="lede" style="margin-bottom:16px;">Your plan lives in the Tava app — daily AM/PM check-offs, your streak, and your shipment tracking.</p>
-    <!-- PLACEHOLDER: replace href with the real App Store URL once the app is listed. -->
-    <a class="cta" href="#" id="appStoreBtn">Download on the App Store</a>
+    <h2 style="font-size:24px;">Your purchase follows you into the app</h2>
+    <p class="lede" style="margin-bottom:16px;">Your plan lives in the Tava app — daily AM/PM check-offs, your streak, and your shipment tracking. The app isn't on the App Store just yet: after checkout, your confirmation page and email give you a <strong>claim code</strong>. When you install the app, sign in and enter that code — your plan, answers, and order are already there. No buying again.</p>
+    <!-- The app is not published yet, so there is deliberately no store
+         button here. The claim code on checkout/success.html (and in the
+         confirmation email) is the handoff. Add the real App Store link
+         next to the claim code once the app is listed. -->
+    <a class="cta" href="checkout/success.html" id="appStoreBtn">See my claim code after checkout</a>
     <p class="note" id="carryLine"></p>
   </section>
 
