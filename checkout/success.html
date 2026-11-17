@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tava Labs — Order Confirmed</title>
+<meta name="description" content="Your Tava Labs Glow Brightening Serum order is confirmed. Get the app and sign in with the same email — your 30-day plan and answers are already there.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{ --gold:#C19A3D; --gold-dark:#9A7B2D; --ink:#141414; --muted:#6d675c; --ivory:#faf7f1; --card:#ffffff; --line:#ece4d2; }
+  *{ margin:0; padding:0; box-sizing:border-box; }
+  body{ font-family:'Inter',sans-serif; color:var(--ink); background:linear-gradient(180deg,#fdfbf7 0%, var(--ivory) 55%, #f3ecdd 100%); min-height:100vh; }
+  .wrap{ max-width:560px; margin:0 auto; padding:0 20px 64px; }
+  header.top{ display:flex; justify-content:space-between; align-items:center; padding:20px 0 6px; }
+  .wordmark{ font-family:'Playfair Display',serif; font-weight:700; letter-spacing:.35em; font-size:17px; }
+  .wordmark small{ display:block; letter-spacing:.55em; font-size:9px; font-weight:600; color:var(--gold-dark); margin-top:2px; }
+  .eyebrow{ font-size:12px; letter-spacing:.22em; text-transform:uppercase; color:var(--gold-dark); font-weight:600; margin-bottom:12px; }
+  h1{ font-family:'Playfair Display',serif; font-size:clamp(32px,7.4vw,44px); line-height:1.12; font-weight:600; }
+  h1 em{ color:var(--gold-dark); font-style:italic; }
+  p.lede{ color:var(--muted); font-size:16px; line-height:1.6; margin:14px 0 26px; }
+  p.note{ color:var(--muted); font-size:13.5px; line-height:1.55; margin-top:14px; }
+  .cta{ display:block; width:100%; background:var(--gold); color:#fff; border:none; font:600 16px 'Inter',sans-serif; padding:16px 30px; border-radius:999px; cursor:pointer; letter-spacing:.03em; box-shadow:0 10px 24px rgba(193,154,61,.35); text-align:center; text-decoration:none; }
+  .cta:hover{ background:var(--gold-dark); }
+  .cardbox{ background:var(--card); border:1px solid var(--line); border-radius:18px; padding:24px 22px; box-shadow:0 6px 18px rgba(60,48,20,.05); margin:18px 0; }
+  .cardbox h3{ font-family:'Playfair Display',serif; font-size:20px; font-weight:600; margin-bottom:8px; }
+  .cardbox p{ color:var(--muted); font-size:14.5px; line-height:1.6; }
+  .planrow{ display:flex; gap:12px; padding:11px 0; border-top:1px solid var(--line); font-size:14.5px; }
+  .planrow:first-of-type{ border-top:none; }
+  .planrow .k{ flex:0 0 108px; color:var(--gold-dark); font-weight:600; font-size:12.5px; letter-spacing:.06em; text-transform:uppercase; padding-top:2px; }
+  .planrow .v{ line-height:1.5; }
+  .check{ width:64px; height:64px; border-radius:50%; background:#fff8e8; border:1.5px solid var(--gold); color:var(--gold-dark); font-size:30px; line-height:64px; text-align:center; margin:26px 0 18px; }
+  footer{ text-align:center; color:var(--muted); font-size:12.5px; padding:30px 0 6px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="wordmark">TAVA<small>LABS</small></div>
+    <span style="font-size:12.5px;color:var(--muted);">Glow Brightening Serum</span>
+  </header>
+
+  <div class="check" aria-hidden="true">&#10003;</div>
+  <p class="eyebrow">Order confirmed</p>
+  <h1>You're in. <em>Welcome to your 30 days.</em></h1>
+  <p class="lede">Your Glow Brightening Serum order is confirmed and being prepared. Here's what happens next:</p>
+
+  <div class="cardbox">
+    <div class="planrow"><span class="k">Email</span><span class="v">A confirmation email is on its way to the email you checked out with — keep it, it's your receipt.</span></div>
+    <div class="planrow"><span class="k">Shipping</span><span class="v">Your bottle ships from our fulfillment partner in the next few business days. Tracking goes to the same email the moment it's on its way.</span></div>
+    <div class="planrow"><span class="k">Your plan</span><span class="v">Your personalized 30-day plan — your answers, your ramp schedule, your AM/PM times — is saved and waiting in the app.</span></div>
+    <p id="refLine" style="margin-top:12px;" hidden>Checkout reference: <span id="refValue" style="word-break:break-all;"></span></p>
+  </div>
+
+  <h3 style="font-family:'Playfair Display',serif; font-size:22px; font-weight:600; margin:26px 0 8px;">Now get the app</h3>
+  <p class="lede" style="margin-top:0;">Your plan lives in the Tava app — daily AM/PM check-offs, your streak, and your shipment tracking. <strong>Sign in with the same email you checked out with</strong> and your plan and answers are already there. Nothing to re-type.</p>
+  <!-- PLACEHOLDER: replace href with the real App Store URL once the app is listed. -->
+  <a class="cta" href="#" id="appStoreBtn">Download on the App Store</a>
+  <p class="note">Questions about your order? Email <a href="mailto:talia@tavalabs.app" style="color:var(--gold-dark);">talia@tavalabs.app</a> and we'll sort it out.</p>
+
+  <footer>Tava Labs · The Science of Attractive Health · Questions? talia@tavalabs.app</footer>
+</div>
+
+<script>
+"use strict";
+/* Stripe appends ?session_id={CHECKOUT_SESSION_ID} to this URL. We show it
+   as a support reference; the order itself is confirmed server-side by the
+   Stripe webhook, never by this page. */
+const sid = new URLSearchParams(window.location.search).get("session_id");
+if (sid) {
+  document.getElementById("refValue").textContent = sid;
+  document.getElementById("refLine").hidden = false;
+}
+</script>
+</body>
+</html>

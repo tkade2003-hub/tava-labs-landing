@@ -1,28 +1,35 @@
 // Funnel intake for the Tava Labs quiz funnel (quiz.html in tava-labs-landing).
 //
-// DEPLOY: copy this file to the serum app's Supabase project as
-//   supabase/functions/funnel-intake/index.ts
-// in tkade2003-hub/tava-labs-serum. The ../_shared imports below resolve
-// against that repo's existing shared modules. Run the migration in
-// FUNNEL.md first (adds profiles.quiz_answers, profiles.plan and an
-// email lookup index).
+// This is the funnel's public, anonymous endpoint (verify_jwt off, by
+// design): the quiz page has no user account and no credentials to present.
+// What protects it is strict payload validation plus server-owned pricing —
+// it can only ever create an UNPAID order and a Stripe Checkout Session for
+// the one serum product at the prices in _shared/pricing.ts. Nothing ships
+// from here: fulfillment happens only after the Stripe webhook confirms
+// payment (stripe-webhook -> markOrderPaid -> handoffToSupliful, in-process).
 //
 // What it does, in order:
-//   1. Verifies the shared secret header (x-funnel-secret vs FUNNEL_INTAKE_SECRET).
-//   2. Validates the funnel payload (shape mirrors quiz.html exactly).
-//   3. Finds the customer by email — or creates a lead profile keyed by that
+//   1. Validates the funnel payload (shape mirrors quiz.html exactly).
+//      Amount-shaped fields (order.price) are ignored, never trusted.
+//   2. Finds the customer by email — or creates a lead profile keyed by that
 //      email (id "lead:<uuid>") so the data exists before the person ever
 //      installs the app. When they later sign in to the app with the same
 //      email, the app-side merge (see FUNNEL.md) re-keys everything to
 //      their real profile id.
-//   4. Upserts quiz answers + plan onto profiles, routine times onto the
+//   3. Upserts quiz answers + plan onto profiles, routine times onto the
 //      existing morning_time / night_time columns, and the shipping
 //      address onto customer_details.
-//   5. Creates the orders row (status 0 = ordered, ship_to snapshot).
-//   6. Hands off to Supliful placement — GATED on payment confirmation.
-//      See the TODO in placeSuplifulOrder() before enabling it live.
+//   4. Creates the order + Stripe Checkout Session IN-PROCESS via
+//      _shared/checkout.ts (the same code create-checkout runs).
+//      Function-to-function HTTP invokes are broken in this project, so
+//      there is deliberately no HTTP hop to create-checkout here.
+//   5. Returns { checkoutUrl, orderId, ... } — quiz.html redirects the
+//      buyer to checkoutUrl (Stripe-hosted checkout).
 import { createAdminClient } from "../_shared/auth.ts";
 import { corsHeaders, json } from "../_shared/messaging.ts";
+import { PricingError } from "../_shared/pricing.ts";
+import { createCheckoutSession } from "../_shared/checkout.ts";
+import type { ShippingAddress } from "../_shared/orders.ts";
 
 // ---------- Payload types (mirror quiz.html's payload contract) ----------
 
@@ -46,7 +53,6 @@ interface FunnelPayload {
     sku: string;
     quantity: number;
     purchaseType: "subscribe" | "one_time";
-    price: number;
   };
   shippingAddress: {
     firstName: string;
@@ -61,15 +67,11 @@ interface FunnelPayload {
   };
 }
 
-// Server-side source of truth. Never trust the prices/product the client sent.
+// Server-side source of truth for which product the funnel sells. The
+// client-sent productId/sku are checked against these, never trusted.
 const PRODUCT = {
   productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", // Supliful: Glow Brightening Serum
   sku: "VASHO-PBS-8FB6",
-  itemName: "Glow Brightening Serum",
-};
-const PRICES: Record<FunnelPayload["order"]["purchaseType"], number> = {
-  subscribe: 39,
-  one_time: 49,
 };
 
 const GOALS = ["radiance", "fine_lines", "hydration", "even_tone"];
@@ -129,7 +131,8 @@ function validatePayload(raw: unknown): { ok: true; value: FunnelPayload } | { o
     return { ok: false, error: "Unknown product" };
   }
   if (raw.order.quantity !== 1) return { ok: false, error: "Quantity must be 1" };
-  if (raw.order.price !== PRICES[purchaseType]) return { ok: false, error: "Price mismatch" };
+  // raw.order.price is deliberately NOT read: pricing is server-owned
+  // (_shared/pricing.ts) and any amount the client sends is ignored.
 
   if (!isRecord(raw.shippingAddress)) return { ok: false, error: "shippingAddress missing" };
   const s = raw.shippingAddress;
@@ -157,79 +160,10 @@ function validatePayload(raw: unknown): { ok: true; value: FunnelPayload } | { o
       source: "quiz-funnel",
       answers,
       plan: { rampSchedule, summary },
-      order: { productId: PRODUCT.productId, sku: PRODUCT.sku, quantity: 1, purchaseType, price: PRICES[purchaseType] },
+      order: { productId: PRODUCT.productId, sku: PRODUCT.sku, quantity: 1, purchaseType },
       shippingAddress,
     },
   };
-}
-
-// ---------- Supliful placement (payment-gated) ----------
-
-// Places the fulfillment order with Supliful. This is the single server-side
-// point that turns a funnel order row into a real Supliful order.
-async function placeSuplifulOrder(
-  admin: ReturnType<typeof createAdminClient>,
-  orderId: string,
-  payload: FunnelPayload,
-): Promise<{ placed: boolean; reason?: string }> {
-  // TODO(payment): Do NOT place live Supliful orders until payment is
-  // confirmed for this order. Payment architecture (decided 2026-11-16):
-  // Stripe checkout on the funnel/landing page, Apple Pay in the app with
-  // Stripe behind it. The gate goes here: verify the Stripe payment for
-  // this order (e.g. a paid payment_intent recorded on the orders row by
-  // the Stripe webhook) and return early unless it is confirmed paid.
-  // Until that exists, placement stays off — an unpaid funnel submission
-  // must never become a real shipment. Nothing here fakes a charge.
-  const paymentConfirmed = false;
-  if (!paymentConfirmed) {
-    return { placed: false, reason: "awaiting_payment_integration" };
-  }
-
-  const apiKey = Deno.env.get("SUPLIFUL_API_KEY");
-  if (!apiKey) return { placed: false, reason: "supliful_not_configured" };
-
-  const s = payload.shippingAddress;
-  const res = await fetch("https://public-api.supliful.com/v1/orders", {
-    method: "POST",
-    headers: {
-      "Authorization": `Bearer ${apiKey}`,
-      "Content-Type": "application/json",
-      // Cloudflare in front of the API bans the default client signature.
-      "User-Agent": "TavaLabs-FunnelIntake/1.0 (+https://tavalabs.app)",
-    },
-    body: JSON.stringify({
-      // Idempotency: our orders.id is the externalOrderId, so a retry
-      // returns the existing Supliful order instead of double-shipping.
-      externalOrderId: orderId,
-      testMode: Deno.env.get("SUPLIFUL_TEST_MODE") === "true",
-      shippingAddress: {
-        firstName: s.firstName,
-        lastName: s.lastName,
-        address1: s.address1,
-        ...(s.address2 ? { address2: s.address2 } : {}),
-        city: s.city,
-        stateCode: s.stateCode,
-        zip: s.zip,
-        countryCode: s.countryCode,
-        ...(s.phone ? { phone: s.phone } : {}),
-      },
-      lines: [{ productId: PRODUCT.productId, quantity: 1 }],
-    }),
-  });
-  if (!res.ok) {
-    const detail = await res.text().catch(() => "");
-    console.error("funnel-intake: Supliful order failed", res.status, detail.slice(0, 500));
-    return { placed: false, reason: `supliful_${res.status}` };
-  }
-  const created = await res.json().catch(() => null) as { id?: string } | null;
-  if (created?.id) {
-    // The Supliful order id is recoverable at any time via
-    // GET /v1/orders/<our orders.id> thanks to the externalOrderId above.
-    // Persist it on the order row once the fulfillment-columns migration
-    // (supliful_order_id etc., from the serum integration branch) lands.
-    console.log("funnel-intake: Supliful order placed", created.id, "for order", orderId);
-  }
-  return { placed: true };
 }
 
 // ---------- Handler ----------
@@ -239,15 +173,6 @@ Deno.serve(async (req) => {
   if (req.method !== "POST") return json({ error: "Method not allowed" }, 405);
 
   try {
-    // The funnel page is public and anonymous, so the endpoint is protected
-    // by a shared secret instead of a user JWT (same pattern family as the
-    // messaging-cron x-cron-key). quiz.html must send this header once live:
-    // add "x-funnel-secret" to its fetch headers alongside FUNNEL_INTAKE_URL.
-    const secret = Deno.env.get("FUNNEL_INTAKE_SECRET");
-    if (!secret || req.headers.get("x-funnel-secret") !== secret) {
-      return json({ error: "Unauthorized" }, 401);
-    }
-
     const raw = await req.json().catch(() => null);
     const validated = validatePayload(raw);
     if (!validated.ok) return json({ error: validated.error }, 400);
@@ -304,37 +229,34 @@ Deno.serve(async (req) => {
     }, { onConflict: "user_id" });
     if (detailsError) throw detailsError;
 
-    // 4) Create the order row. total is recomputed server-side from PRICES.
-    const shipTo = [fullName, s.address1, s.address2, `${s.city}, ${s.stateCode} ${s.zip}`, s.countryCode]
-      .filter(Boolean)
-      .join(", ");
-    const orderNumber = `TV-${Date.now().toString(36).toUpperCase()}`;
-    const { data: order, error: orderError } = await admin.from("orders").insert({
-      user_id: userId,
-      order_number: orderNumber,
-      item: PRODUCT.itemName,
+    // 4) Create the order + Stripe Checkout Session in-process. The order
+    //    row, its server-computed total, and the session all come from the
+    //    same shared code create-checkout runs.
+    const shippingAddress: ShippingAddress = {
+      name: fullName,
+      line1: s.address1,
+      line2: s.address2,
+      city: s.city,
+      state: s.stateCode,
+      postalCode: s.zip,
+      country: s.countryCode,
+    };
+    const result = await createCheckoutSession(admin, {
+      userId,
+      purchaseType: payload.order.purchaseType,
       quantity: 1,
-      total: payload.order.price,
-      is_subscription: payload.order.purchaseType === "subscribe",
-      status: 0,
-      ship_to: shipTo,
-    }).select("id,order_number").single();
-    if (orderError) throw orderError;
-
-    // 5) Supliful placement — currently gated off until payment exists.
-    const placement = await placeSuplifulOrder(admin, order.id as string, payload);
-    if (!placement.placed && placement.reason !== "awaiting_payment_integration") {
-      console.error("funnel-intake: placement issue", placement.reason, "order", order.id);
-    }
+      shippingAddress,
+    });
 
     return json({
       ok: true,
-      orderId: order.id,
-      orderNumber: order.order_number,
+      checkoutUrl: result.checkoutUrl,
+      orderId: result.orderId,
+      orderNumber: result.orderNumber,
       leadCreated: isNewLead,
-      fulfillment: placement.placed ? "placed" : "pending_payment",
     });
   } catch (err) {
+    if (err instanceof PricingError) return json({ error: err.message }, 400);
     console.error("funnel-intake", err);
     return json({ error: "Internal error" }, 500);
   }

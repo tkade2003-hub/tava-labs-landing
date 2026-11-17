@@ -275,7 +275,7 @@
    While it is empty the page runs in DEMO mode: no charge, no
    network call — the payload is logged + saved to localStorage.
    ============================================================ */
-const FUNNEL_INTAKE_URL = "";
+const FUNNEL_INTAKE_URL = "https://evzfibetybqhwikwhfbd.supabase.co/functions/v1/funnel-intake";
 
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { subscribe: 39, one_time: 49 };
@@ -530,6 +530,16 @@ $("#shipForm").addEventListener("submit", async e => {
       body: JSON.stringify(payload)
     });
     if (!res.ok) throw new Error("Intake returned " + res.status);
+    const data = await res.json().catch(() => null);
+    if (data && data.checkoutUrl) {
+      // Stripe-hosted checkout: hand the buyer off. After payment, Stripe
+      // returns them to APP_PUBLIC_URL/checkout/success; if they back out,
+      // to /checkout/cancel. The thank-you screen below is only a fallback
+      // for an intake response without a checkout URL.
+      btn.textContent = "Taking you to secure checkout…";
+      window.location.href = data.checkoutUrl;
+      return;
+    }
     renderThanks(payload, false);
     next();
   } catch (err) {

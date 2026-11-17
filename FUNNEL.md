@@ -43,9 +43,15 @@ Files:
 11. **Plan reveal** — the generated 30-day plan: goal, skin profile, ramp
     schedule, AM/PM times, routine fit.
 12. **Offer + checkout** — Subscribe $39 vs one-time $49 (the app's existing
-    prices), quantity fixed at 1, then the shipping form.
-13. **Thank-you** — order summary, app download section, and the carry-over
-    line (below).
+    prices), quantity fixed at 1, then the shipping form. On submit the page
+    POSTs the payload to `funnel-intake`, which creates the order and a
+    Stripe Checkout Session server-side and returns its URL; the page
+    redirects the buyer to Stripe-hosted checkout.
+13. **Stripe return pages** — after payment Stripe sends the buyer to
+    `checkout/success.html` (order confirmed + get-the-app handoff); if they
+    back out, `checkout/cancel.html` (nothing was charged, plan and answers
+    are saved, link back here). The in-page thank-you screen remains only as
+    a fallback for an intake response without a checkout URL.
 
 ## Payload contract
 
@@ -93,64 +99,49 @@ forward them to Supliful unchanged.
 const FUNNEL_INTAKE_URL = "";
 ```
 
-- **Empty (demo mode, current state):** the page never pretends to charge.
+- **Empty (demo mode):** the page never pretends to charge.
   A visible "Demo checkout — no charge" banner shows on the checkout and
   thank-you screens. On purchase click it validates the form, assembles the
   full payload, logs it to the browser console, saves it to `localStorage`
   under `tava_funnel_payload`, and shows the thank-you screen.
-- **Set (live mode):** the page POSTs the payload to that URL and only
-  shows the thank-you screen on a 2xx response; otherwise it shows a plain
-  error and keeps the visitor's details in place for a retry.
+- **Set (live mode — CURRENT state since 2026-11-17):** the page POSTs the
+  payload to that URL; on a 2xx response it reads `checkoutUrl` from the
+  JSON and redirects the buyer to Stripe-hosted checkout. On failure it
+  shows a plain error and keeps the visitor's details in place for a retry.
 
-`FUNNEL_INTAKE_URL` must point to the deployed `funnel-intake` edge
-function in the serum app's Supabase project:
+`FUNNEL_INTAKE_URL` points to the deployed `funnel-intake` edge function
+in the serum app's Supabase project:
 
 ```
-https://<serum-project-ref>.supabase.co/functions/v1/funnel-intake
+https://evzfibetybqhwikwhfbd.supabase.co/functions/v1/funnel-intake
 ```
 
-One addition is required when going live: `funnel-intake` expects a shared
-secret header (`x-funnel-secret`), because the endpoint is public and
-anonymous. Add that header to the `fetch` call in `quiz.html` at the same
-time as setting the URL, and set the matching `FUNNEL_INTAKE_SECRET` env var
-on the function (deploy steps below).
+The endpoint is public and anonymous **by design** (deployed with JWT
+verification off, no shared-secret header — a secret shipped in a public
+page would be no secret at all). What protects it is strict payload
+validation plus server-owned pricing: it can only ever create an *unpaid*
+order and a Stripe Checkout Session for the one serum product. Nothing
+ships from a funnel submission — fulfillment starts only when the Stripe
+webhook confirms payment (see the payment gate below).
 
-## Deploying funnel-intake
+## Deploying funnel-intake — DONE 2026-11-17
 
 Target: the serum app's Supabase project (repo
 `tkade2003-hub/tava-labs-serum`). Do not deploy it from this repo.
 
-1. **Run this migration first** (adds the two columns the function writes
-   and a case-insensitive email index). Save as the next migration in
-   `supabase/migrations/` in the serum repo:
-
-   ```sql
-   -- Quiz funnel data on the customer record.
-   ALTER TABLE profiles ADD COLUMN IF NOT EXISTS quiz_answers jsonb;
-   ALTER TABLE profiles ADD COLUMN IF NOT EXISTS plan jsonb;
-   CREATE UNIQUE INDEX IF NOT EXISTS profiles_email_lower_idx
-     ON profiles (lower(email)) WHERE email IS NOT NULL;
-   ```
-
-2. **Copy the function** into the serum repo at
-   `supabase/functions/funnel-intake/index.ts`. Its imports
-   (`../_shared/auth.ts`, `../_shared/messaging.ts`) resolve against that
-   repo's existing shared modules.
-
-3. **Set the function secrets:**
-
-   - `FUNNEL_INTAKE_SECRET` — a long random string; the same value goes
-     into the `x-funnel-secret` header in `quiz.html`.
-   - `SUPLIFUL_API_KEY` — the Supliful store API key (only read by the
-     placement step; see the payment gate below).
-
-4. **Deploy:** `supabase functions deploy funnel-intake` (deploy with JWT
-   verification off — the function authenticates via the shared secret, the
-   same pattern family as `messaging-cron`'s cron key).
-
-5. **Point the page at it:** set `FUNNEL_INTAKE_URL` in `quiz.html` to the
-   deployed function URL, add the `x-funnel-secret` header to its fetch,
-   and push `quiz.html`.
+1. **Migration applied:** `supabase/migrations/0009_funnel_quiz_data.sql`
+   (adds `profiles.quiz_answers`, `profiles.plan`, and the unique
+   `profiles_email_lower_idx` on `lower(email)`).
+2. **Function live** at `supabase/functions/funnel-intake/index.ts`,
+   deployed with JWT verification off. It validates the payload, finds or
+   creates the lead profile by email, stores answers/plan/address, then
+   creates the order + Stripe Checkout Session **in-process** via
+   `_shared/checkout.ts` (`createCheckoutSession`) — the same shared code
+   `create-checkout` runs. There is deliberately no HTTP hop to
+   `create-checkout`: function-to-function invokes are broken in this
+   project (the edge gateway rejects the project's own service keys).
+3. **Page wired:** `FUNNEL_INTAKE_URL` in `quiz.html` is set to the URL
+   above and the fetch redirects to the returned `checkoutUrl`.
 
 ## How data carry-over works
 
@@ -165,8 +156,8 @@ Email is the identity bridge between the funnel and the app:
   `profiles.night_time` columns (so the app's reminder machinery uses them
   as-is), the shipping address in `customer_details`, and the purchase as a
   normal `orders` row (`status 0`, `is_subscription` from the purchase
-  type, `total` recomputed server-side — the client-sent price is only
-  checked, never trusted).
+  type, `total` computed server-side in `_shared/pricing.ts` — the
+  client-sent price is ignored entirely, never trusted).
 - When the buyer later installs the app and signs in (Apple/Google via
   Rork), the app account carries the same email. The remaining app-side
   step — still to build with the serum integration work — is a one-time
@@ -178,32 +169,37 @@ Email is the identity bridge between the funnel and the app:
 - The thank-you screen tells the buyer exactly this: sign in with the same
   email and their answers, plan, and order are already there.
 
-## Supliful placement and the payment gate
+## Supliful placement and the payment gate — WIRED 2026-11-17
 
-`funnel-intake` is the single server-side point that will place the
-Supliful order (POST `https://public-api.supliful.com/v1/orders`, product
-`cbbc7de1-994e-45be-94d8-ac4be3b8cc18` / SKU `VASHO-PBS-8FB6`, with our
-`orders.id` as the `externalOrderId` so retries can never double-ship).
+`funnel-intake` never places a Supliful order. The gate is the payment
+chain itself, and it is fully wired and proven in test mode:
 
-It is deliberately **not** live yet. Payment architecture (decided
-2026-11-16): Stripe for the funnel/landing checkout, Apple Pay in the app
-with Stripe behind it. Until the Stripe confirmation exists for an order,
-`placeSuplifulOrder()` returns `awaiting_payment_integration` at a clearly
-marked `TODO(payment)` gate — an unpaid funnel submission must never become
-a real shipment, and nothing in the funnel or the intake fakes a charge.
-Wiring the gate means: record the confirmed Stripe payment on the order
-row (via the Stripe webhook), then let the gate read it.
+1. `funnel-intake` creates the order row (`payment_status = 'unpaid'`) and
+   the Stripe Checkout Session.
+2. The buyer pays on Stripe-hosted checkout.
+3. `stripe-webhook` receives `checkout.session.completed`, marks the order
+   paid (`markOrderPaid`), and hands off to Supliful **in-process**
+   (`handoffToSupliful` → `_shared/supliful.ts` `placeSuplifulOrder`, with
+   our `orders.id` as the `externalOrderId` so retries can never
+   double-ship).
+
+An unpaid funnel submission can never become a shipment: placement reads
+the order's `payment_status` and refuses anything not paid. Proven end to
+end in test mode on 2026-11-16 (orders TL-25572 and TL-25573: paid →
+Supliful test orders created, status NEW).
 
 Note the account requirement from the Supliful connector doc: live API
 order placement needs a Pro or Enterprise Supliful membership (test-mode
 orders already succeed; the first live order will confirm entitlement).
-Set `SUPLIFUL_TEST_MODE=true` in the function env to rehearse placement
-end-to-end without charging or shipping anything.
+`SUPLIFUL_TEST_MODE` stays ON in the project until launch.
 
 ## Placeholders still to replace
 
-- **App Store link** — the thank-you screen's "Download on the App Store"
-  button is `href="#"`, marked with a `PLACEHOLDER` comment in `quiz.html`.
-  Swap in the real App Store URL once the app is listed.
-- **FUNNEL_INTAKE_URL + secret header** — see live-mode steps above.
-- **Payment gate** — see above.
+- **App Store link** — the "Download on the App Store" buttons in
+  `quiz.html` and `checkout/success.html` are `href="#"`, marked with
+  `PLACEHOLDER` comments. Swap in the real App Store URL once the app is
+  listed.
+- **Hosting** — `checkout/success.html` and `checkout/cancel.html` resolve
+  at `https://tavalabs.app/checkout/success` / `/checkout/cancel` (the
+  URLs Stripe redirects to, built from `APP_PUBLIC_URL`) only once this
+  repo is hosted at that domain. That hosting step is still pending.
