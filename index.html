@@ -7,47 +7,14 @@
 <meta name="description" content="Tava Labs Glow Brightening Serum. The Science of Attractive Health. Reduce fine lines, hydrate deeply, restore radiance, strengthen skin.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<style>
-  :root{ --gold:#C19A3D; --gold-dark:#9A7B2D; --ink:#141414; --muted:#6d675c; --ivory:#faf7f1; --card:#ffffff; }
-  *{ margin:0; padding:0; box-sizing:border-box; }
-  body{ font-family:'Inter',sans-serif; color:var(--ink); background:linear-gradient(180deg,#fdfbf7 0%, var(--ivory) 55%, #f3ecdd 100%); }
-  nav{ display:flex; justify-content:space-between; align-items:center; padding:22px 6vw; }
-  .wordmark{ font-family:'Playfair Display',serif; font-weight:700; letter-spacing:.35em; font-size:20px; }
-  .wordmark small{ display:block; letter-spacing:.55em; font-size:10px; font-weight:600; color:var(--gold-dark); margin-top:2px; }
-  nav a.shop{ color:var(--ink); text-decoration:none; font-weight:600; font-size:14px; border:1px solid var(--ink); padding:9px 18px; border-radius:999px; }
-  nav a.shop:hover{ background:var(--ink); color:#fff; }
-  .hero{ display:grid; grid-template-columns:1.05fr 1fr; gap:2vw; align-items:center; padding:2vh 6vw 4vh; min-height:78vh; }
-  .hero h1{ font-family:'Playfair Display',serif; font-size:clamp(38px,5.2vw,68px); line-height:1.08; font-weight:600; }
-  .hero h1 em{ color:var(--gold-dark); font-style:italic; }
-  .hero p.sub{ margin:22px 0 8px; font-size:clamp(16px,1.5vw,19px); color:var(--muted); max-width:34em; line-height:1.6; }
-  .hero p.size{ font-size:13px; letter-spacing:.18em; text-transform:uppercase; color:var(--gold-dark); font-weight:600; margin-bottom:26px; }
-  .cta{ display:inline-block; background:var(--gold); color:#fff; text-decoration:none; font-weight:600; padding:15px 34px; border-radius:999px; font-size:15px; letter-spacing:.04em; box-shadow:0 10px 24px rgba(193,154,61,.35); }
-  .cta:hover{ background:var(--gold-dark); }
-  .hint{ margin-top:14px; font-size:12.5px; color:var(--muted); }
-  #stage{ position:relative; height:min(72vh,640px); }
-  #scene{ position:absolute; inset:0; width:100%; height:100%; display:block; touch-action:none; cursor:grab; }
-  #scene:active{ cursor:grabbing; }
-  #nogl{ display:none; position:absolute; inset:0; align-items:center; justify-content:center; text-align:center; color:var(--muted); padding:20px; }
-  section{ padding:64px 6vw; }
-  section h2{ font-family:'Playfair Display',serif; font-size:clamp(28px,3.4vw,42px); text-align:center; font-weight:600; }
-  section p.lede{ text-align:center; color:var(--muted); margin:12px auto 40px; max-width:36em; line-height:1.6; }
-  .grid{ display:grid; grid-template-columns:repeat(4,1fr); gap:18px; max-width:1150px; margin:0 auto; }
-  .card{ background:var(--card); border:1px solid #ece4d2; border-radius:18px; padding:28px 22px; box-shadow:0 6px 18px rgba(60,48,20,.05); }
-  .card .num{ font-family:'Playfair Display',serif; color:var(--gold); font-size:26px; }
-  .card h3{ font-size:16px; margin:10px 0 8px; }
-  .card p{ font-size:14px; color:var(--muted); line-height:1.55; }
-  .steps{ display:grid; grid-template-columns:repeat(3,1fr); gap:18px; max-width:1000px; margin:0 auto; }
-  footer{ padding:44px 6vw 54px; text-align:center; color:var(--muted); font-size:14px; border-top:1px solid #ece4d2; }
-  footer .wordmark{ font-size:17px; margin-bottom:10px; }
-  footer a{ color:var(--gold-dark); text-decoration:none; font-weight:600; }
-  @media (max-width:900px){
-    .hero{ grid-template-columns:1fr; min-height:0; }
-    #stage{ height:56vh; order:-1; }
-    .grid{ grid-template-columns:repeat(2,1fr); }
-    .steps{ grid-template-columns:1fr; }
-  }
-  @media (max-width:520px){ .grid{ grid-template-columns:1fr; } }
-</style>
+<link rel="stylesheet" href="styles.css">
+<noscript><style>[data-reveal]{opacity:1 !important; transform:none !important;}</style></noscript>
+<script type="importmap">
+{ "imports": {
+  "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+  "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+} }
+</script>
 </head>
 <body>
 <nav>
@@ -56,37 +23,105 @@
 </nav>
 
 <header class="hero">
-  <div>
-    <h1>The Science of <em>Attractive Health</em></h1>
-    <p class="sub">Glow Brightening Serum — one serum for radiant, hydrated, healthy-looking skin. Built for your morning and night routine.</p>
-    <p class="size">Glow Brightening Serum &middot; 1 fl oz (30 ml)</p>
-    <a class="cta" href="https://tavalabs.app">Shop the Serum</a>
-    <p class="hint">Drag the bottle to spin it. Scroll to explore.</p>
+  <div class="orb orb-a" data-parallax="0.12" aria-hidden="true"></div>
+  <div class="orb orb-b" data-parallax="-0.08" aria-hidden="true"></div>
+  <div class="orb orb-c" data-parallax="0.2" aria-hidden="true"></div>
+  <div class="ring ring-a" data-parallax="0.05" aria-hidden="true"></div>
+  <div class="ring ring-b" data-parallax="-0.05" aria-hidden="true"></div>
+  <span class="drop-dot" style="left:6%; top:22%;" data-parallax="0.3" aria-hidden="true"></span>
+  <span class="drop-dot" style="left:44%; top:14%; width:7px; height:10px;" data-parallax="-0.22" aria-hidden="true"></span>
+  <span class="drop-dot" style="left:52%; top:78%; width:6px; height:9px;" data-parallax="0.26" aria-hidden="true"></span>
+
+  <div class="hero-copy">
+    <span class="eyebrow" data-reveal>Tava Labs</span>
+    <h1 data-reveal style="--d:.08s">The Science of <em>Attractive Health</em></h1>
+    <p class="sub" data-reveal style="--d:.16s">Glow Brightening Serum — one serum for radiant, hydrated, healthy-looking skin. Built for your morning and night routine.</p>
+    <p class="size" data-reveal style="--d:.24s">Glow Brightening Serum &middot; 1 fl oz (30 ml)</p>
+    <div data-reveal style="--d:.32s">
+      <a class="cta" href="https://tavalabs.app">Shop the Serum</a>
+      <p class="hint">Drag the bottle to spin it. Scroll to explore.</p>
+    </div>
   </div>
-  <div id="stage">
+  <div id="stage" data-reveal="zoom" style="--d:.2s">
+    <div class="stage-glow" aria-hidden="true"></div>
     <canvas id="scene" aria-label="Interactive 3D model of the Tava Labs Glow Brightening Serum bottle"></canvas>
     <div id="nogl">Your browser could not start WebGL, so the 3D bottle cannot be shown here.</div>
   </div>
 </header>
 
+<div class="marquee" aria-hidden="true">
+  <div class="marquee-track">
+    <span>Glow Brightening Serum <i>✦</i></span><span>Reduce Fine Lines <i>✦</i></span><span>Hydrate Deeply <i>✦</i></span><span>Restore Radiance <i>✦</i></span><span>Strengthen Skin <i>✦</i></span>
+    <span>Glow Brightening Serum <i>✦</i></span><span>Reduce Fine Lines <i>✦</i></span><span>Hydrate Deeply <i>✦</i></span><span>Restore Radiance <i>✦</i></span><span>Strengthen Skin <i>✦</i></span>
+  </div>
+</div>
+
 <section>
-  <h2>One Serum. Four Results.</h2>
-  <p class="lede">A single step in your routine, working four ways every day.</p>
+  <div class="section-head" data-reveal>
+    <span class="eyebrow center">Benefits</span>
+    <h2>One Serum. <em>Four Results.</em></h2>
+    <p class="lede">A single step in your routine, working four ways every day.</p>
+  </div>
   <div class="grid">
-    <div class="card"><div class="num">01</div><h3>Reduce Fine Lines</h3><p>Helps soften the look of fine lines so skin appears smoother and more even.</p></div>
-    <div class="card"><div class="num">02</div><h3>Hydrate Deeply</h3><p>Draws in moisture and helps skin hold it, for a plump, comfortable feel.</p></div>
-    <div class="card"><div class="num">03</div><h3>Restore Radiance</h3><p>Brings back the glow — skin looks brighter, fresher, and more awake.</p></div>
-    <div class="card"><div class="num">04</div><h3>Strengthen Skin</h3><p>Supports the skin barrier so your complexion stays resilient day after day.</p></div>
+    <div class="card" data-reveal><div class="num">01</div><h3>Reduce Fine Lines</h3><p>Helps soften the look of fine lines so skin appears smoother and more even.</p></div>
+    <div class="card" data-reveal style="--d:.1s"><div class="num">02</div><h3>Hydrate Deeply</h3><p>Draws in moisture and helps skin hold it, for a plump, comfortable feel.</p></div>
+    <div class="card" data-reveal style="--d:.2s"><div class="num">03</div><h3>Restore Radiance</h3><p>Brings back the glow — skin looks brighter, fresher, and more awake.</p></div>
+    <div class="card" data-reveal style="--d:.3s"><div class="num">04</div><h3>Strengthen Skin</h3><p>Supports the skin barrier so your complexion stays resilient day after day.</p></div>
   </div>
 </section>
 
+<div class="band">
+  <div class="band-bg" data-parallax="0.14" aria-hidden="true"></div>
+  <blockquote data-reveal>&ldquo;Healthy skin is the most <em>attractive</em> thing you can wear.&rdquo;</blockquote>
+  <p data-reveal style="--d:.12s">The Tava Labs Philosophy</p>
+</div>
+
 <section>
-  <h2>Your Glow Era Starts Now</h2>
-  <p class="lede">Two minutes, twice a day.</p>
+  <div class="section-head" data-reveal>
+    <span class="eyebrow center">Pricing</span>
+    <h2>Choose Your <em>Glow</em></h2>
+    <p class="lede">Glow Brightening Serum &middot; 1 fl oz (30 ml). Every order is covered by our 30-day happiness guarantee.</p>
+  </div>
+  <div class="pricing">
+    <div class="price-card" data-reveal="left">
+      <h3>One-Time</h3>
+      <div class="amount"><sup>$</sup>49</div>
+      <p class="per">ONE BOTTLE &middot; ONE-TIME PURCHASE</p>
+      <ul>
+        <li>Full-size Glow Brightening Serum</li>
+        <li>Morning &amp; night routine — about a one-month supply</li>
+        <li>30-day happiness guarantee</li>
+        <li>Ships within 1–2 business days</li>
+      </ul>
+      <a class="cta ghost" href="https://tavalabs.app">Shop the Serum</a>
+    </div>
+    <div class="price-card featured" data-reveal="right" style="--d:.12s">
+      <span class="badge">Most Popular — Save 20%</span>
+      <h3>Subscribe &amp; Save</h3>
+      <div class="amount"><sup>$</sup>39</div>
+      <p class="per">PER MONTH &middot; DELIVERED MONTHLY</p>
+      <ul>
+        <li>A fresh bottle every month, automatically</li>
+        <li>Save 20% on every order</li>
+        <li>Pause, skip, or cancel anytime</li>
+        <li>30-day happiness guarantee</li>
+      </ul>
+      <a class="cta" href="https://tavalabs.app">Subscribe &amp; Save</a>
+    </div>
+  </div>
+  <p class="guarantee" data-reveal>Not in love with your glow? Return it within 30 days for a refund — see our <a href="returns.html">Return &amp; Refund Policy</a> for details.</p>
+</section>
+
+<section>
+  <div class="section-head" data-reveal>
+    <span class="eyebrow center">The Ritual</span>
+    <h2>Your Glow Era <em>Starts Now</em></h2>
+    <p class="lede">Two minutes, twice a day.</p>
+  </div>
   <div class="steps">
-    <div class="card"><div class="num">Step 1</div><h3>Cleanse</h3><p>Start with clean, slightly damp skin.</p></div>
-    <div class="card"><div class="num">Step 2</div><h3>Apply the Serum</h3><p>2–3 drops, morning and night. Press gently into face and neck.</p></div>
-    <div class="card"><div class="num">Step 3</div><h3>Moisturize &amp; Glow</h3><p>Seal it in with your moisturizer and go.</p></div>
+    <div class="card" data-reveal><div class="num">Step 1</div><h3>Cleanse</h3><p>Start with clean, slightly damp skin.</p></div>
+    <div class="card" data-reveal style="--d:.12s"><div class="num">Step 2</div><h3>Apply the Serum</h3><p>2–3 drops, morning and night. Press gently into face and neck.</p></div>
+    <div class="card" data-reveal style="--d:.24s"><div class="num">Step 3</div><h3>Moisturize &amp; Glow</h3><p>Seal it in with your moisturizer and go.</p></div>
   </div>
 </section>
 
@@ -94,190 +129,17 @@
   <div class="wordmark">TAVA<small>LABS</small></div>
   <p>The Science of Attractive Health</p>
   <p style="margin-top:8px;">Questions? <a href="mailto:talia@tavalabs.app">talia@tavalabs.app</a> &middot; <a href="https://tavalabs.app">tavalabs.app</a></p>
+  <nav class="legal-links" aria-label="Legal">
+    <a href="privacy.html">Privacy Policy</a>
+    <a href="terms.html">Terms &amp; Conditions</a>
+    <a href="returns.html">Return &amp; Refund Policy</a>
+    <a href="cookies.html">Cookie Policy</a>
+    <a href="shipping.html">Shipping Policy</a>
+  </nav>
+  <p class="fineprint">Glow Brightening Serum is a cosmetic product. It is not intended to diagnose, treat, cure, or prevent any disease. Individual results may vary.</p>
   <p style="margin-top:14px;">&copy; 2026 Tava Labs</p>
 </footer>
 
-<script type="importmap">
-{ "imports": {
-  "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
-  "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
-} }
-</script>
-<script type="module">
-import * as THREE from 'three';
-import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
-import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
-
-const canvas = document.getElementById('scene');
-let renderer;
-try {
-  renderer = new THREE.WebGLRenderer({ canvas, antialias:true, alpha:true });
-} catch(e) {
-  document.getElementById('nogl').style.display = 'flex';
-  throw e;
-}
-renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
-renderer.toneMapping = THREE.ACESFilmicToneMapping;
-renderer.toneMappingExposure = 1.05;
-
-const scene = new THREE.Scene();
-const pmrem = new THREE.PMREMGenerator(renderer);
-scene.environment = pmrem.fromScene(new RoomEnvironment(), 0.04).texture;
-
-const camera = new THREE.PerspectiveCamera(38, 1, 0.1, 100);
-camera.position.set(3.4, 1.9, 5.2);
-
-const controls = new OrbitControls(camera, canvas);
-controls.enableDamping = true;
-controls.enablePan = false;
-controls.minDistance = 3.4;
-controls.maxDistance = 9;
-controls.minPolarAngle = 0.85;
-controls.maxPolarAngle = 1.85;
-controls.autoRotate = true;
-controls.autoRotateSpeed = 1.1;
-controls.target.set(0, 0.15, 0);
-
-scene.add(new THREE.AmbientLight(0xfff4e0, 0.5));
-const key = new THREE.DirectionalLight(0xffffff, 1.6); key.position.set(4, 6, 4); scene.add(key);
-const rim = new THREE.DirectionalLight(0xffe9bb, 0.9); rim.position.set(-5, 3, -4); scene.add(rim);
-
-// ---------- 3D serum bottle (procedurally modelled) ----------
-const bottle = new THREE.Group();
-
-// Glass body — lathe profile: base, straight body, shoulder, neck
-const pts = [];
-pts.push(new THREE.Vector2(0.0, -1.45));
-pts.push(new THREE.Vector2(0.78, -1.45));
-pts.push(new THREE.Vector2(0.86, -1.38));
-pts.push(new THREE.Vector2(0.88, -0.4));
-pts.push(new THREE.Vector2(0.88, 0.55));
-pts.push(new THREE.Vector2(0.80, 0.95));
-pts.push(new THREE.Vector2(0.45, 1.22));
-pts.push(new THREE.Vector2(0.30, 1.30));
-pts.push(new THREE.Vector2(0.30, 1.52));
-pts.push(new THREE.Vector2(0.0, 1.52));
-const glass = new THREE.Mesh(
-  new THREE.LatheGeometry(pts, 72),
-  new THREE.MeshPhysicalMaterial({ color:0xf7f1e3, metalness:0, roughness:0.08, transmission:0.92, thickness:1.1, ior:1.45, clearcoat:0.6, clearcoatRoughness:0.2 })
-);
-bottle.add(glass);
-
-// Serum liquid inside
-const lpts = [];
-lpts.push(new THREE.Vector2(0.0, -1.36));
-lpts.push(new THREE.Vector2(0.72, -1.36));
-lpts.push(new THREE.Vector2(0.79, -0.4));
-lpts.push(new THREE.Vector2(0.79, 0.45));
-lpts.push(new THREE.Vector2(0.55, 0.82));
-lpts.push(new THREE.Vector2(0.0, 0.9));
-const liquid = new THREE.Mesh(
-  new THREE.LatheGeometry(lpts, 72),
-  new THREE.MeshPhysicalMaterial({ color:0xe8a93c, metalness:0, roughness:0.25, transmission:0.55, thickness:0.8, ior:1.36 })
-);
-bottle.add(liquid);
-
-// Label — canvas texture with the Tava branding
-function makeLabel(){
-  const c = document.createElement('canvas'); c.width = 1024; c.height = 512;
-  const x = c.getContext('2d');
-  x.fillStyle = '#fdfcf9'; x.fillRect(0,0,1024,512);
-  x.strokeStyle = '#C19A3D'; x.lineWidth = 6; x.strokeRect(18,18,988,476);
-  x.fillStyle = '#141414'; x.textAlign = 'center';
-  x.font = '700 150px Georgia, serif';
-  x.fillText('T', 512, 185);
-  x.beginPath(); x.arc(512, 62, 17, 0, Math.PI*2); x.fillStyle = '#C19A3D'; x.fill();
-  x.fillStyle = '#141414'; x.font = '600 64px Georgia, serif';
-  x.fillText('T A V A', 512, 285);
-  x.font = '500 30px Arial'; x.fillStyle = '#9A7B2D';
-  x.fillText('L A B S', 512, 330);
-  x.font = '500 37px Arial'; x.fillStyle = '#141414';
-  x.fillText('GLOW BRIGHTENING SERUM', 512, 405);
-  x.font = '400 28px Arial'; x.fillStyle = '#6d675c';
-  x.fillText('1 fl oz (30 ml)', 512, 452);
-  const t = new THREE.CanvasTexture(c);
-  t.colorSpace = THREE.SRGBColorSpace;
-  t.anisotropy = 8;
-  return t;
-}
-const label = new THREE.Mesh(
-  new THREE.CylinderGeometry(0.895, 0.895, 1.55, 72, 1, true, -Math.PI/2.6, Math.PI/1.3),
-  new THREE.MeshStandardMaterial({ map: makeLabel(), roughness:0.55, metalness:0.02 })
-);
-label.position.y = -0.35;
-bottle.add(label);
-
-// Gold dropper cap + black bulb
-const gold = new THREE.MeshStandardMaterial({ color:0xc9a227, metalness:1.0, roughness:0.27 });
-const cap = new THREE.Mesh(new THREE.CylinderGeometry(0.34, 0.34, 0.62, 48), gold);
-cap.position.y = 1.83; bottle.add(cap);
-const collar = new THREE.Mesh(new THREE.CylinderGeometry(0.37, 0.37, 0.1, 48), gold);
-collar.position.y = 1.55; bottle.add(collar);
-const bulb = new THREE.Mesh(
-  new THREE.SphereGeometry(0.21, 32, 24),
-  new THREE.MeshStandardMaterial({ color:0x17181a, roughness:0.45, metalness:0.1 })
-);
-bulb.scale.y = 1.25; bulb.position.y = 2.32; bottle.add(bulb);
-// Pipette tube inside the glass
-const tube = new THREE.Mesh(
-  new THREE.CylinderGeometry(0.045, 0.045, 2.3, 16),
-  new THREE.MeshPhysicalMaterial({ color:0xffffff, roughness:0.05, transmission:0.9, thickness:0.2 })
-);
-tube.position.y = 0.35; bottle.add(tube);
-
-scene.add(bottle);
-
-// Soft ground shadow
-function makeShadow(){
-  const c = document.createElement('canvas'); c.width = c.height = 256;
-  const x = c.getContext('2d');
-  const g = x.createRadialGradient(128,128,10,128,128,120);
-  g.addColorStop(0,'rgba(50,38,10,0.35)'); g.addColorStop(1,'rgba(50,38,10,0)');
-  x.fillStyle = g; x.fillRect(0,0,256,256);
-  return new THREE.CanvasTexture(c);
-}
-const shadow = new THREE.Mesh(
-  new THREE.CircleGeometry(1.7, 48),
-  new THREE.MeshBasicMaterial({ map: makeShadow(), transparent:true, depthWrite:false })
-);
-shadow.rotation.x = -Math.PI/2; shadow.position.y = -1.52;
-scene.add(shadow);
-
-// Floating gold droplets
-const drops = new THREE.Group();
-const dropMat = new THREE.MeshPhysicalMaterial({ color:0xd9ab3c, metalness:0.4, roughness:0.15, transmission:0.35, thickness:0.4 });
-for (let i = 0; i < 26; i++){
-  const s = 0.03 + Math.random()*0.05;
-  const m = new THREE.Mesh(new THREE.SphereGeometry(s, 16, 12), dropMat);
-  const a = Math.random()*Math.PI*2, r = 1.6 + Math.random()*1.6;
-  m.position.set(Math.cos(a)*r, -1.3 + Math.random()*3.6, Math.sin(a)*r);
-  m.userData.speed = 0.15 + Math.random()*0.35;
-  m.userData.phase = Math.random()*Math.PI*2;
-  drops.add(m);
-}
-scene.add(drops);
-
-function resize(){
-  const w = canvas.clientWidth, h = canvas.clientHeight;
-  if (canvas.width !== w || canvas.height !== h){
-    renderer.setSize(w, h, false);
-    camera.aspect = w/h;
-    camera.updateProjectionMatrix();
-  }
-}
-const clock = new THREE.Clock();
-function tick(){
-  requestAnimationFrame(tick);
-  const t = clock.getElapsedTime();
-  resize();
-  bottle.position.y = Math.sin(t*0.9)*0.07;
-  bottle.rotation.z = Math.sin(t*0.5)*0.015;
-  drops.children.forEach(d => { d.position.y += Math.sin(t*d.userData.speed + d.userData.phase)*0.0016; });
-  drops.rotation.y = t*0.05;
-  controls.update();
-  renderer.render(scene, camera);
-}
-tick();
-</script>
+<script type="module" src="main.js"></script>
 </body>
 </html>
