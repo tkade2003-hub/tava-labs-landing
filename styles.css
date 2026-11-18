@@ -752,3 +752,59 @@ body.landing .price-card .badge{ background:var(--forest); }
   .kj-circle{ padding:13% 9%; }
   .kj-outline{ -webkit-text-stroke-width:2.2px; }
 }
+
+/* ============================================================
+   Asset & finish pass — badge artwork, band transitions,
+   AR chip, static stage
+   ============================================================ */
+
+/* Static 3D stage: visitors cannot drag or spin the bottle */
+body.landing #scene{ pointer-events:none; }
+
+/* Gradient fall-off: a band's top edge fades in from the band above it.
+   --from is set inline per section to the previous band's colour. */
+.kj-fade{ position:relative; }
+.kj-fade::before{
+  content:""; position:absolute; left:0; right:0; top:0; height:160px;
+  background:linear-gradient(180deg, var(--from, rgba(0,0,0,0)) 0%, rgba(0,0,0,0) 100%);
+  pointer-events:none;
+}
+.kj-fade > *{ position:relative; }
+
+/* Curved wave edges where one band meets the next */
+.kj-wave{ line-height:0; margin-bottom:-1px; }
+.kj-wave svg{ display:block; width:100%; height:64px; }
+.kj-wave--flip svg{ transform:scaleX(-1); }
+
+/* Values: the eight free-from badges as their actual artwork
+   (each image carries its own icon + label on white) */
+.kj-badges{
+  list-style:none; display:grid; grid-template-columns:repeat(4,1fr);
+  gap:22px; max-width:980px; margin:52px auto 0;
+}
+.kj-badges li{
+  background:#fff; border-radius:20px; overflow:hidden;
+  box-shadow:0 18px 36px rgba(0,0,0,.28);
+}
+.kj-badges img{ display:block; width:100%; height:auto; }
+
+/* iPhone AR Quick Look chip (rel="ar" anchor wrapping the bottle image) */
+.kj-ar{ margin-top:28px; }
+.kj-ar-link{
+  display:inline-flex; align-items:center; gap:14px;
+  background:#FFFDF7; border:3px solid var(--forest-deep); border-radius:999px;
+  padding:8px 28px 8px 10px; color:var(--forest-deep); text-decoration:none;
+  font-weight:800; letter-spacing:.05em; text-transform:uppercase; font-size:13.5px;
+  box-shadow:0 14px 28px rgba(8,37,29,.16);
+  transition:transform .3s var(--ease), background .3s var(--ease);
+}
+.kj-ar-link:hover{ transform:translateY(-2px); }
+.kj-ar-link img{
+  width:44px; height:44px; border-radius:50%; object-fit:cover; display:block;
+}
+.kj-ar-note{ margin-top:11px; font-size:12.5px; font-weight:600; color:#5C6656; }
+
+@media (max-width:700px){
+  .kj-badges{ grid-template-columns:repeat(2,1fr); gap:14px; }
+  .kj-wave svg{ height:42px; }
+}

@@ -1,7 +1,7 @@
 /* ============================================================
    Tava Labs — main.js
    1. Scroll reveal animations + parallax + sticky nav state
-   2. Interactive 3D serum bottle (Three.js)
+   2. Static 3D serum bottle (Three.js) — fixed pose, no interaction
    ============================================================ */
 
 /* ---------- 1. Scroll animations & parallax ---------- */
@@ -60,15 +60,14 @@
   }
 })();
 
-/* ---------- 2. Interactive 3D serum bottle ---------- */
+/* ---------- 2. Static 3D serum bottle ---------- */
 (async function initBottle() {
   const canvas = document.getElementById('scene');
   if (!canvas) return; // Legal pages have no stage — nothing to do.
 
-  let THREE, OrbitControls, RoomEnvironment;
+  let THREE, RoomEnvironment;
   try {
     THREE = await import('three');
-    ({ OrbitControls } = await import('three/addons/controls/OrbitControls.js'));
     ({ RoomEnvironment } = await import('three/addons/environments/RoomEnvironment.js'));
   } catch (e) {
     document.getElementById('nogl').style.display = 'flex';
@@ -93,16 +92,8 @@
   const camera = new THREE.PerspectiveCamera(38, 1, 0.1, 100);
   camera.position.set(3.4, 1.9, 5.2);
 
-  const controls = new OrbitControls(camera, canvas);
-  controls.enableDamping = true;
-  controls.enablePan = false;
-  controls.minDistance = 3.4;
-  controls.maxDistance = 9;
-  controls.minPolarAngle = 0.85;
-  controls.maxPolarAngle = 1.85;
-  controls.autoRotate = true;
-  controls.autoRotateSpeed = 1.1;
-  controls.target.set(0, 0.15, 0);
+  // Fixed, naturally-posed camera — no orbit controls, no drag, no spin.
+  camera.lookAt(0, 0.15, 0);
 
   scene.add(new THREE.AmbientLight(0xfff4e0, 0.5));
   const key = new THREE.DirectionalLight(0xffffff, 1.6); key.position.set(4, 6, 4); scene.add(key);
@@ -228,19 +219,6 @@
   shadow.rotation.x = -Math.PI / 2; shadow.position.y = -1.52;
   scene.add(shadow);
 
-  // Floating gold droplets
-  const drops = new THREE.Group();
-  const dropMat = new THREE.MeshPhysicalMaterial({ color: 0xd9ab3c, metalness: 0.4, roughness: 0.15, transmission: 0.35, thickness: 0.4 });
-  for (let i = 0; i < 26; i++) {
-    const s = 0.03 + Math.random() * 0.05;
-    const m = new THREE.Mesh(new THREE.SphereGeometry(s, 16, 12), dropMat);
-    const a = Math.random() * Math.PI * 2, r = 1.6 + Math.random() * 1.6;
-    m.position.set(Math.cos(a) * r, -1.3 + Math.random() * 3.6, Math.sin(a) * r);
-    m.userData.speed = 0.15 + Math.random() * 0.35;
-    m.userData.phase = Math.random() * Math.PI * 2;
-    drops.add(m);
-  }
-  scene.add(drops);
 
   function resize() {
     const w = canvas.clientWidth, h = canvas.clientHeight;
@@ -250,17 +228,13 @@
       camera.updateProjectionMatrix();
     }
   }
-  const clock = new THREE.Clock();
-  function tick() {
-    requestAnimationFrame(tick);
-    const t = clock.getElapsedTime();
+  // Static stage: the bottle sits completely still. Render once — the
+  // model has finished loading by this point — and re-render on resize.
+  function render() {
     resize();
-    bottle.position.y = Math.sin(t * 0.9) * 0.07;
-    bottle.rotation.z = Math.sin(t * 0.5) * 0.015;
-    drops.children.forEach(d => { d.position.y += Math.sin(t * d.userData.speed + d.userData.phase) * 0.0016; });
-    drops.rotation.y = t * 0.05;
-    controls.update();
     renderer.render(scene, camera);
   }
-  tick();
+  window.addEventListener('resize', render);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(render);
+  render();
 })();

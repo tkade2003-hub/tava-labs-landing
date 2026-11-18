@@ -29,16 +29,15 @@
     <div data-reveal style="--d:.18s"><a class="kj-pill kj-pill-white" href="https://tavalabs.app">Shop the Serum</a></div>
     <div id="stage" data-reveal="zoom" style="--d:.24s">
       <div class="stage-glow" aria-hidden="true"></div>
-      <canvas id="scene" aria-label="Interactive 3D model of the Tava Labs Glow Brightening Serum bottle"></canvas>
+      <canvas id="scene" aria-label="3D model of the Tava Labs Glow Brightening Serum bottle"></canvas>
       <div id="nogl">Your browser could not start WebGL, so the 3D bottle cannot be shown here.</div>
     </div>
-    <p class="hint" data-reveal style="--d:.3s">Drag the bottle to spin it. Scroll to explore.</p>
   </header>
   <div class="kj-tilt" aria-hidden="true">TAVA LABS</div>
 </div>
 
 <!-- ===== Statement (reference: solid band, heavy caps headline, oval portrait) ===== -->
-<section class="kj-band kj-forest kj-statement">
+<section class="kj-band kj-forest kj-statement kj-fade" style="--from:#D3B57F">
   <h2 class="kj-h2" data-reveal>Radiant, Hydrated, Healthy-Looking Skin</h2>
   <p class="kj-para" data-reveal style="--d:.08s">Glow Brightening Serum — one serum for radiant, hydrated, healthy-looking skin. Built for your morning and night routine. A single step in your routine, working four ways every day.</p>
   <div class="kj-oval-wrap" data-reveal="zoom" style="--d:.14s">
@@ -47,13 +46,14 @@
       <text><textPath href="#kj-circle-path">Glow Brightening Serum ✦ The Science of Attractive Health ✦ </textPath></text>
     </svg>
     <div class="kj-oval">
-      <video controls playsinline preload="metadata" src="assets/Captions_AF0C36.mp4" aria-label="The Tava Labs film — the science behind the serum"></video>
+      <video id="kjFilm" controls playsinline preload="auto" src="assets/Captions_AF0C36.mp4" aria-label="The Tava Labs film — the science behind the serum"></video>
     </div>
   </div>
 </section>
+<div class="kj-wave" style="background:#EBDCBB" aria-hidden="true"><svg viewBox="0 0 1440 80" preserveAspectRatio="none" focusable="false"><path fill="#08251D" d="M0,0 L1440,0 L1440,24 C1180,66 940,80 700,58 C460,36 220,22 0,48 Z"/></svg></div>
 
 <!-- ===== Product (reference: heading, arrows, one bordered card, SHOP ALL pill) ===== -->
-<section class="kj-band kj-champagne" id="shop">
+<section class="kj-band kj-champagne kj-fade" id="shop" style="--from:#08251D">
   <p class="kj-kicker" data-reveal>The Serum</p>
   <h2 class="kj-h2" data-reveal>Choose Your Glow</h2>
   <div class="kj-arrows" data-reveal>
@@ -93,26 +93,35 @@
     </div>
   </div>
   <div class="kj-shopall" data-reveal><a class="kj-pill kj-pill-black" href="https://tavalabs.app">Shop All</a></div>
+  <div class="kj-ar" data-reveal>
+    <a class="kj-ar-link" rel="ar" href="assets/T_Nottle-reduced.usdz">
+      <img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Tava Labs Glow Brightening Serum bottle">
+      <span>View in Your Space</span>
+    </a>
+    <p class="kj-ar-note">On iPhone, tap to see the bottle in AR, true to size.</p>
+  </div>
 </section>
+<div class="kj-wave kj-wave--flip" style="background:#123B2C" aria-hidden="true"><svg viewBox="0 0 1440 80" preserveAspectRatio="none" focusable="false"><path fill="#D8C19A" d="M0,0 L1440,0 L1440,24 C1180,66 940,80 700,58 C460,36 220,22 0,48 Z"/></svg></div>
 
 <!-- ===== Values (reference: accent band, plain all-caps text list) ===== -->
-<section class="kj-band kj-forest">
+<section class="kj-band kj-forest kj-fade" style="--from:#D8C19A">
   <h2 class="kj-h2" data-reveal>High-Quality Ingredients, Combined With Care.</h2>
   <p class="kj-lede" data-reveal style="--d:.08s">What we leave out matters as much as what we put in.</p>
-  <ul class="kj-values" data-reveal style="--d:.14s">
-    <li>Cruelty Free</li>
-    <li>Fragrance Free</li>
-    <li>Mineral Oil Free</li>
-    <li>Phthalate Free</li>
-    <li>Silicone Free</li>
-    <li>Sulfate Free</li>
-    <li>Allergen Free</li>
-    <li>Alcohol Free</li>
+  <ul class="kj-badges" data-reveal style="--d:.14s">
+    <li><img src="assets/IMG_3162.jpeg" alt="Cruelty Free badge" loading="lazy"></li>
+    <li><img src="assets/IMG_3163.jpeg" alt="Fragrance Free badge" loading="lazy"></li>
+    <li><img src="assets/IMG_3164.jpeg" alt="Mineral Oil Free badge" loading="lazy"></li>
+    <li><img src="assets/IMG_3166.jpeg" alt="Phthalate Free badge" loading="lazy"></li>
+    <li><img src="assets/IMG_3167.jpeg" alt="Silicone Free badge" loading="lazy"></li>
+    <li><img src="assets/IMG_3168.jpeg" alt="Sulfate Free badge" loading="lazy"></li>
+    <li><img src="assets/IMG_3169.jpeg" alt="Allergen Free badge" loading="lazy"></li>
+    <li><img src="assets/IMG_3170.jpeg" alt="Alcohol Free badge" loading="lazy"></li>
   </ul>
 </section>
+<div class="kj-wave" style="background:#FAF5EA" aria-hidden="true"><svg viewBox="0 0 1440 80" preserveAspectRatio="none" focusable="false"><path fill="#08251D" d="M0,0 L1440,0 L1440,24 C1180,66 940,80 700,58 C460,36 220,22 0,48 Z"/></svg></div>
 
 <!-- ===== Benefits (kept content, banded styling) ===== -->
-<section class="kj-band kj-cream">
+<section class="kj-band kj-cream kj-fade" style="--from:#08251D">
   <p class="kj-kicker" data-reveal>Benefits</p>
   <h2 class="kj-h2" data-reveal>One Serum. Four Results.</h2>
   <p class="kj-lede" data-reveal style="--d:.08s">A single step in your routine, working four ways every day.</p>
@@ -125,7 +134,7 @@
 </section>
 
 <!-- ===== Subscribe & Save (reference: white band, outlined + solid italic type) ===== -->
-<section class="kj-band kj-white kj-subscribe">
+<section class="kj-band kj-white kj-subscribe kj-fade" style="--from:#FAF5EA">
   <p class="kj-kicker" data-reveal>Most Popular — Save 20%</p>
   <h2 class="kj-sub-title" data-reveal>
     <span class="kj-outline">Subscribe</span>
@@ -135,9 +144,10 @@
   <p class="kj-sub-points" data-reveal style="--d:.14s">A fresh bottle every month, automatically &middot; Save 20% on every order &middot; Pause, skip, or cancel anytime &middot; 30-day happiness guarantee</p>
   <div data-reveal style="--d:.2s"><a class="kj-pill kj-pill-black" href="https://tavalabs.app">Subscribe &amp; Save</a></div>
 </section>
+<div class="kj-wave kj-wave--flip" style="background:#EBDCBB" aria-hidden="true"><svg viewBox="0 0 1440 80" preserveAspectRatio="none" focusable="false"><path fill="#FFFFFF" d="M0,0 L1440,0 L1440,24 C1180,66 940,80 700,58 C460,36 220,22 0,48 Z"/></svg></div>
 
 <!-- ===== Founder (reference: accent band, founder message) ===== -->
-<section class="kj-band kj-champagne kj-founder">
+<section class="kj-band kj-champagne kj-founder kj-fade" style="--from:#FFFFFF">
   <div class="kj-founder-grid">
     <div class="kj-founder-copy" data-reveal="left">
       <p class="kj-kicker">A Message From Our Founder</p>
@@ -167,7 +177,7 @@
 </section>
 
 <!-- ===== Pricing (kept content, banded styling) ===== -->
-<section class="kj-band kj-cream">
+<section class="kj-band kj-cream kj-fade" style="--from:#D8C19A">
   <p class="kj-kicker" data-reveal>Pricing</p>
   <h2 class="kj-h2" data-reveal>Choose Your Glow</h2>
   <p class="kj-lede" data-reveal style="--d:.08s">Glow Brightening Serum &middot; 1 fl oz (30 ml). Every order is covered by our 30-day happiness guarantee.</p>
@@ -200,9 +210,10 @@
   </div>
   <p class="guarantee" data-reveal>Not in love with your glow? Return it within 30 days for a refund — see our <a href="returns.html">Return &amp; Refund Policy</a> for details.</p>
 </section>
+<div class="kj-wave" style="background:#123B2C" aria-hidden="true"><svg viewBox="0 0 1440 80" preserveAspectRatio="none" focusable="false"><path fill="#FAF5EA" d="M0,0 L1440,0 L1440,24 C1180,66 940,80 700,58 C460,36 220,22 0,48 Z"/></svg></div>
 
 <!-- ===== Ritual (kept content, banded styling) ===== -->
-<section class="kj-band kj-forest">
+<section class="kj-band kj-forest kj-fade" style="--from:#FAF5EA">
   <p class="kj-kicker" data-reveal>The Ritual</p>
   <h2 class="kj-h2" data-reveal>Your Glow Era Starts Now</h2>
   <p class="kj-lede" data-reveal style="--d:.08s">Two minutes, twice a day.</p>
@@ -214,7 +225,7 @@
 </section>
 
 <!-- ===== Email signup (reference: giant circle outline) ===== -->
-<section class="kj-band kj-cream">
+<section class="kj-band kj-cream kj-fade" style="--from:#08251D">
   <div class="kj-circle" data-reveal="zoom">
     <h3>Keep Up To Date With All Things Tava</h3>
     <form action="mailto:talia@tavalabs.app" method="post" enctype="text/plain">
@@ -224,9 +235,10 @@
     <p class="fine">Glow notes, launches, and offers — straight to your inbox.</p>
   </div>
 </section>
+<div class="kj-wave kj-wave--flip" style="background:#123B2C" aria-hidden="true"><svg viewBox="0 0 1440 80" preserveAspectRatio="none" focusable="false"><path fill="#FAF5EA" d="M0,0 L1440,0 L1440,24 C1180,66 940,80 700,58 C460,36 220,22 0,48 Z"/></svg></div>
 
 <!-- ===== Footer link columns (reference: SIGN UP row + plain link lists, on the footer band color) ===== -->
-<section class="kj-band kj-forest kj-links">
+<section class="kj-band kj-forest kj-links kj-fade" style="--from:#FAF5EA">
   <div class="kj-links-top">
     <a href="quiz.html">Take the Quiz</a>
     <a href="https://tavalabs.app">Shop</a>
@@ -290,6 +302,28 @@
   }
   document.getElementById('kjBlobPrev').addEventListener('click', function () { go(-1); });
   document.getElementById('kjBlobNext').addEventListener('click', function () { go(1); });
+})();
+</script>
+<script>
+/* Film frame-paint: seek (paused) to a real frame 12s in — the spokesperson
+   mid-explainer — so the oval shows her, not a black screen. The first time
+   the visitor presses play, playback restarts from the beginning. */
+(function () {
+  var v = document.getElementById('kjFilm');
+  if (!v) return;
+  var PAINT_AT = 12, hasPlayed = false;
+  function paint() {
+    if (hasPlayed) return;
+    try { v.currentTime = PAINT_AT; } catch (e) { /* metadata not ready yet */ }
+  }
+  if (v.readyState >= 1) paint();
+  v.addEventListener('loadedmetadata', paint);
+  v.addEventListener('play', function () {
+    if (!hasPlayed) {
+      hasPlayed = true;
+      if (v.currentTime > 1) { try { v.currentTime = 0; } catch (e) {} }
+    }
+  });
 })();
 </script>
 </body>
