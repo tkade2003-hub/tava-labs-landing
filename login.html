@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sign in — Tava Labs</title>
+<meta name="description" content="Sign in to your Tava Labs account — the same plan, orders, and routine as the Tava mobile app.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="platform.css">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js"></script>
+</head>
+<body>
+<header class="p-header">
+  <a class="brand" href="index.html">TAVA<small>LABS</small></a>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="quiz.html">Skin Quiz</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<main class="p-wrap">
+  <div class="p-card">
+    <p class="p-eyebrow">Your Tava account</p>
+    <h1 class="p-title">Sign in</h1>
+    <p class="p-sub">Use the same email you bought with or use in the Tava mobile app — your plan, orders, and routine are tied to that email, so everything shows up here exactly as it does in the app. No password: we email you a 6-digit code and a sign-in link, and either one signs you in.</p>
+
+    <div id="stepEmail">
+      <label class="p-label" for="email">Email address</label>
+      <input class="p-input" type="email" id="email" autocomplete="email" placeholder="you@example.com">
+      <div class="p-error" id="err1" role="alert"></div>
+      <button class="p-btn" id="sendBtn" type="button">Email me a sign-in code</button>
+    </div>
+
+    <div id="stepCode" class="hidden">
+      <div class="p-note" id="sentNote" style="display:block"></div>
+      <label class="p-label" for="code">6-digit code from your email</label>
+      <input class="p-input" type="text" id="code" inputmode="numeric" autocomplete="one-time-code" placeholder="123456" maxlength="6">
+      <div class="p-error" id="err2" role="alert"></div>
+      <button class="p-btn" id="verifyBtn" type="button">Verify &amp; sign in</button>
+      <p class="p-sub" style="margin-top:14px">Rather tap than type? The same email also contains a sign-in link — tap it on this device and you'll land in your account. <a href="#" id="resend">Resend the email</a></p>
+    </div>
+  </div>
+
+  <div class="p-card">
+    <p class="p-eyebrow">Bought on the web, using the app?</p>
+    <h2 style="margin:0 0 8px;font-size:22px">Use your claim code in the app</h2>
+    <p class="p-sub">When you bought through the quiz or this site, your purchase confirmation email (and the page right after checkout) showed a claim code. Open the Tava mobile app, sign in, and enter that code in the Orders tab — your purchase, plan, and quiz answers move into your app account, no second purchase.</p>
+    <p class="p-sub">On the web it's even simpler: sign in above with the same email you checked out with and your orders and plan are already here.</p>
+    <a class="p-btn secondary" href="faq.html">Questions? See the FAQ</a>
+  </div>
+</main>
+
+<footer class="p-footer">
+  <div class="in">
+    <div class="col">
+      <span class="ttl">TAVA LABS</span>
+      <a href="index.html">Home</a>
+      <a href="quiz.html">Skin Quiz</a>
+      <a href="app.html">My Account</a>
+    </div>
+    <div class="col">
+      <span class="ttl">HELP</span>
+      <a href="contact.html">Contact</a>
+      <a href="faq.html">FAQs</a>
+      <a href="shipping.html">Shipping</a>
+      <a href="returns.html">Returns Policy</a>
+    </div>
+    <div class="col">
+      <span class="ttl">CONTACT</span>
+      <a href="mailto:talia@tavalabs.app">talia@tavalabs.app</a>
+      <a href="tel:+19099061308">909-906-1308</a>
+    </div>
+  </div>
+</footer>
+
+<script>
+(function () {
+  var SUPABASE_URL = 'https://evzfibetybqhwikwhfbd.supabase.co';
+  var SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV2emZpYmV0eWJxaHdpa3doZmJkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQ4NjI1NzksImV4cCI6MjExMDQzODU3OX0.TVUI_YRewzV5OrdZIyz-XgdAQOOc_uK_X7eE7uL5XWI';
+  var sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+
+  var emailEl = document.getElementById('email');
+  var codeEl = document.getElementById('code');
+  var err1 = document.getElementById('err1');
+  var err2 = document.getElementById('err2');
+  var sendBtn = document.getElementById('sendBtn');
+  var verifyBtn = document.getElementById('verifyBtn');
+
+  function showErr(el, msg) { el.textContent = msg; el.style.display = 'block'; }
+  function hideErr(el) { el.style.display = 'none'; }
+
+  // Already signed in (e.g. just tapped the magic link)? Go straight in.
+  sb.auth.getSession().then(function (r) {
+    if (r.data && r.data.session) window.location.href = 'app.html';
+  });
+  sb.auth.onAuthStateChange(function (event, session) {
+    if (session) window.location.href = 'app.html';
+  });
+
+  function sendCode() {
+    var email = (emailEl.value || '').trim().toLowerCase();
+    if (!/^[^\\s@]+@[^\\s@]+\\.[^\\s@]{2,}$/.test(email)) {
+      showErr(err1, 'Enter a valid email address.'); return;
+    }
+    hideErr(err1);
+    sendBtn.disabled = true; sendBtn.textContent = 'Sending…';
+    sb.auth.signInWithOtp({
+      email: email,
+      options: { shouldCreateUser: true, emailRedirectTo: 'https://tavalabs.app/app.html' }
+    }).then(function (res) {
+      sendBtn.disabled = false; sendBtn.textContent = 'Email me a sign-in code';
+      if (res.error) { showErr(err1, "We couldn't send that email — check the address and try again."); return; }
+      document.getElementById('stepEmail').classList.add('hidden');
+      document.getElementById('stepCode').classList.remove('hidden');
+      document.getElementById('sentNote').textContent = 'Code sent to ' + email + '. It can take a minute to arrive — check spam if you don\'t see it.';
+      codeEl.focus();
+    });
+  }
+  sendBtn.addEventListener('click', sendCode);
+  emailEl.addEventListener('keydown', function (e) { if (e.key === 'Enter') sendCode(); });
+  document.getElementById('resend').addEventListener('click', function (e) {
+    e.preventDefault();
+    document.getElementById('stepCode').classList.add('hidden');
+    document.getElementById('stepEmail').classList.remove('hidden');
+    sendCode();
+  });
+
+  function verify() {
+    var email = (emailEl.value || '').trim().toLowerCase();
+    var token = (codeEl.value || '').trim();
+    if (!/^\\d{6}$/.test(token)) { showErr(err2, 'Enter the 6-digit code from your email.'); return; }
+    hideErr(err2);
+    verifyBtn.disabled = true; verifyBtn.textContent = 'Verifying…';
+    sb.auth.verifyOtp({ email: email, token: token, type: 'email' }).then(function (res) {
+      verifyBtn.disabled = false; verifyBtn.textContent = 'Verify & sign in';
+      if (res.error || !res.data || !res.data.session) {
+        showErr(err2, "That code didn't match — check it and try again, or resend a fresh code.");
+        return;
+      }
+      window.location.href = 'app.html';
+    });
+  }
+  verifyBtn.addEventListener('click', verify);
+  codeEl.addEventListener('keydown', function (e) { if (e.key === 'Enter') verify(); });
+})();
+</script>
+</body>
+</html>
