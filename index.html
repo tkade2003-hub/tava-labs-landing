@@ -6,7 +6,7 @@
 <title>Tava Labs — Glow Brightening Serum</title>
 <meta name="description" content="Tava Labs Glow Brightening Serum. The Science of Attractive Health. Reduce fine lines, hydrate deeply, restore radiance, strengthen skin.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 <noscript><style>[data-reveal]{opacity:1 !important; transform:none !important;}</style></noscript>
 <script type="importmap">
@@ -20,7 +20,16 @@
 <div data-component="header"></div>
 <script src="components/header.js"></script>
 
-<header class="hero">
+<!-- ===== Marquee strip (top, Kindjoy-style) ===== -->
+<div class="marquee marquee-top" aria-hidden="true">
+  <div class="marquee-track">
+    <span>Glow Brightening Serum <i>✦</i></span><span>Reduce Fine Lines <i>✦</i></span><span>Hydrate Deeply <i>✦</i></span><span>Restore Radiance <i>✦</i></span><span>Strengthen Skin <i>✦</i></span><span>Cruelty Free <i>✦</i></span><span>Fragrance Free <i>✦</i></span>
+    <span>Glow Brightening Serum <i>✦</i></span><span>Reduce Fine Lines <i>✦</i></span><span>Hydrate Deeply <i>✦</i></span><span>Restore Radiance <i>✦</i></span><span>Strengthen Skin <i>✦</i></span><span>Cruelty Free <i>✦</i></span><span>Fragrance Free <i>✦</i></span>
+  </div>
+</div>
+
+<!-- ===== Big bold hero (3D bottle kept) ===== -->
+<header class="hero hero-xl">
   <div class="orb orb-a" data-parallax="0.12" aria-hidden="true"></div>
   <div class="orb orb-b" data-parallax="-0.08" aria-hidden="true"></div>
   <div class="orb orb-c" data-parallax="0.2" aria-hidden="true"></div>
@@ -36,7 +45,7 @@
     <p class="sub" data-reveal style="--d:.16s">Glow Brightening Serum — one serum for radiant, hydrated, healthy-looking skin. Built for your morning and night routine.</p>
     <p class="size" data-reveal style="--d:.24s">Glow Brightening Serum &middot; 1 fl oz (30 ml)</p>
     <div data-reveal style="--d:.32s">
-      <a class="cta" href="https://tavalabs.app">Shop the Serum</a>
+      <a class="cta cta-xl" href="https://tavalabs.app">Shop the Serum</a>
       <p class="hint">Drag the bottle to spin it. Scroll to explore.</p>
     </div>
   </div>
@@ -47,13 +56,53 @@
   </div>
 </header>
 
-<div class="marquee" aria-hidden="true">
-  <div class="marquee-track">
-    <span>Glow Brightening Serum <i>✦</i></span><span>Reduce Fine Lines <i>✦</i></span><span>Hydrate Deeply <i>✦</i></span><span>Restore Radiance <i>✦</i></span><span>Strengthen Skin <i>✦</i></span>
-    <span>Glow Brightening Serum <i>✦</i></span><span>Reduce Fine Lines <i>✦</i></span><span>Hydrate Deeply <i>✦</i></span><span>Restore Radiance <i>✦</i></span><span>Strengthen Skin <i>✦</i></span>
-  </div>
-</div>
+<!-- ===== Intro statement (Kindjoy "be kind to your skin" slot) ===== -->
+<section class="intro-statement">
+  <span class="eyebrow center" data-reveal>The Serum</span>
+  <h2 class="statement" data-reveal>Radiant, Hydrated, <em>Healthy-Looking</em> Skin</h2>
+  <p class="lede" data-reveal style="--d:.1s">Glow Brightening Serum — one serum for radiant, hydrated, healthy-looking skin. Built for your morning and night routine. A single step in your routine, working four ways every day.</p>
+</section>
 
+<!-- ===== Oversized product block 1 — one-time ===== -->
+<section class="product-block product-dark">
+  <div class="product-media" data-reveal="left">
+    <img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Tava Labs Glow Brightening Serum bottle">
+  </div>
+  <div class="product-copy" data-reveal="right">
+    <span class="eyebrow">The Serum</span>
+    <h2 class="product-name">Glow Brightening Serum</h2>
+    <p class="product-tag">For radiant, hydrated, healthy-looking skin.</p>
+    <p class="product-price">$49 <span>ONE BOTTLE &middot; ONE-TIME PURCHASE</span></p>
+    <ul class="product-points">
+      <li>Full-size Glow Brightening Serum</li>
+      <li>Morning &amp; night routine — about a one-month supply</li>
+      <li>30-day happiness guarantee</li>
+      <li>Ships within 1–2 business days</li>
+    </ul>
+    <a class="cta cta-xl" href="https://tavalabs.app">Shop the Serum</a>
+  </div>
+</section>
+
+<!-- ===== Oversized product block 2 — subscribe ===== -->
+<section class="product-block product-light">
+  <div class="product-copy" data-reveal="left">
+    <span class="eyebrow">Subscribe &amp; Save</span>
+    <h2 class="product-name">Glow, Delivered Monthly</h2>
+    <p class="product-tag">A fresh bottle every month, automatically.</p>
+    <p class="product-price">$39 <span>PER MONTH &middot; DELIVERED MONTHLY</span></p>
+    <ul class="product-points">
+      <li>Save 20% on every order</li>
+      <li>Pause, skip, or cancel anytime</li>
+      <li>30-day happiness guarantee</li>
+    </ul>
+    <a class="cta cta-xl" href="https://tavalabs.app">Subscribe &amp; Save</a>
+  </div>
+  <div class="product-media" data-reveal="right">
+    <img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Tava Labs Glow Brightening Serum bottle">
+  </div>
+</section>
+
+<!-- ===== Benefits ===== -->
 <section>
   <div class="section-head" data-reveal>
     <span class="eyebrow center">Benefits</span>
@@ -66,34 +115,53 @@
     <div class="card" data-reveal style="--d:.2s"><div class="num">03</div><h3>Restore Radiance</h3><p>Brings back the glow — skin looks brighter, fresher, and more awake.</p></div>
     <div class="card" data-reveal style="--d:.3s"><div class="num">04</div><h3>Strengthen Skin</h3><p>Supports the skin barrier so your complexion stays resilient day after day.</p></div>
   </div>
-  <div class="badges" data-reveal>
-    <img src="assets/IMG_3162.jpeg" alt="Cruelty Free">
-    <img src="assets/IMG_3163.jpeg" alt="Fragrance Free">
-    <img src="assets/IMG_3164.jpeg" alt="Mineral Oil Free">
-    <img src="assets/IMG_3166.jpeg" alt="Phthalate Free">
-    <img src="assets/IMG_3167.jpeg" alt="Silicone Free">
-    <img src="assets/IMG_3168.jpeg" alt="Sulfate Free">
-    <img src="assets/IMG_3169.jpeg" alt="Allergen Free">
-    <img src="assets/IMG_3170.jpeg" alt="Alcohol Free">
+</section>
+
+<!-- ===== Values (free-from badges, labelled — Kindjoy values slot) ===== -->
+<section class="values">
+  <div class="section-head" data-reveal>
+    <span class="eyebrow center">Values</span>
+    <h2>High-Quality Ingredients, <em>Combined With Care</em></h2>
+    <p class="lede">What we leave out matters as much as what we put in.</p>
+  </div>
+  <div class="values-grid" data-reveal>
+    <figure class="value-item"><img src="assets/IMG_3162.jpeg" alt="Cruelty Free"><figcaption>Cruelty Free</figcaption></figure>
+    <figure class="value-item"><img src="assets/IMG_3163.jpeg" alt="Fragrance Free"><figcaption>Fragrance Free</figcaption></figure>
+    <figure class="value-item"><img src="assets/IMG_3164.jpeg" alt="Mineral Oil Free"><figcaption>Mineral Oil Free</figcaption></figure>
+    <figure class="value-item"><img src="assets/IMG_3166.jpeg" alt="Phthalate Free"><figcaption>Phthalate Free</figcaption></figure>
+    <figure class="value-item"><img src="assets/IMG_3167.jpeg" alt="Silicone Free"><figcaption>Silicone Free</figcaption></figure>
+    <figure class="value-item"><img src="assets/IMG_3168.jpeg" alt="Sulfate Free"><figcaption>Sulfate Free</figcaption></figure>
+    <figure class="value-item"><img src="assets/IMG_3169.jpeg" alt="Allergen Free"><figcaption>Allergen Free</figcaption></figure>
+    <figure class="value-item"><img src="assets/IMG_3170.jpeg" alt="Alcohol Free"><figcaption>Alcohol Free</figcaption></figure>
   </div>
 </section>
 
-<section class="film">
-  <div class="section-head" data-reveal>
-    <span class="eyebrow center">The Film</span>
-    <h2>The Science of <em>Attractive Health</em></h2>
-  </div>
-  <div class="film-frame" data-reveal="zoom">
+<!-- ===== Founder message (lab-coat film in the founder slot) ===== -->
+<section class="founder">
+  <div class="founder-media film-frame" data-reveal="left">
     <video controls playsinline preload="metadata" src="assets/Captions_AF0C36.mp4"></video>
   </div>
+  <div class="founder-copy" data-reveal="right">
+    <span class="eyebrow">A Message From Our Founder</span>
+    <h2 class="founder-heading">&ldquo;Healthy skin is the most <em>attractive</em> thing you can wear.&rdquo;</h2>
+    <p>That is the philosophy behind Tava Labs — the science of attractive health. The Glow Brightening Serum was made to be the one step your routine is built around: two minutes, twice a day, morning and night.</p>
+    <p>Watch the film to hear the science behind it, in our own words.</p>
+    <p class="founder-sign">— The Tava Labs Philosophy</p>
+    <a class="cta" href="https://tavalabs.app">Shop the Serum</a>
+  </div>
 </section>
 
-<div class="band">
+<!-- ===== Subscribe & Save banner ===== -->
+<div class="subscribe-banner">
   <div class="band-bg" data-parallax="0.14" aria-hidden="true"></div>
-  <blockquote data-reveal>&ldquo;Healthy skin is the most <em>attractive</em> thing you can wear.&rdquo;</blockquote>
-  <p data-reveal style="--d:.12s">The Tava Labs Philosophy</p>
+  <span class="eyebrow center light" data-reveal>Most Popular — Save 20%</span>
+  <h2 class="banner-heading" data-reveal>Subscribe &amp; <em>Save</em></h2>
+  <p class="banner-price" data-reveal style="--d:.08s">$39 <span>PER MONTH &middot; DELIVERED MONTHLY</span></p>
+  <p class="banner-points" data-reveal style="--d:.16s">A fresh bottle every month, automatically &middot; Pause, skip, or cancel anytime &middot; 30-day happiness guarantee</p>
+  <div data-reveal style="--d:.24s"><a class="cta cta-xl" href="https://tavalabs.app">Subscribe &amp; Save</a></div>
 </div>
 
+<!-- ===== Pricing (unchanged content) ===== -->
 <section>
   <div class="section-head" data-reveal>
     <span class="eyebrow center">Pricing</span>
@@ -128,11 +196,9 @@
     </div>
   </div>
   <p class="guarantee" data-reveal>Not in love with your glow? Return it within 30 days for a refund — see our <a href="returns.html">Return &amp; Refund Policy</a> for details.</p>
-  <figure class="showcase" data-reveal="zoom">
-    <img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Tava Labs Glow Brightening Serum bottle">
-  </figure>
 </section>
 
+<!-- ===== Ritual ===== -->
 <section>
   <div class="section-head" data-reveal>
     <span class="eyebrow center">The Ritual</span>
