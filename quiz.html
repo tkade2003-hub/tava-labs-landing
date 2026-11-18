@@ -116,6 +116,12 @@
   .callout.c3{ bottom:10%; left:4%; }
   .stickybar{ position:sticky; bottom:0; margin-top:auto; padding:16px 0 4px; background:linear-gradient(rgba(243,237,228,0), var(--canvas) 32%); }
   .stickybar .cta{ margin-top:0; }
+  .results{ display:flex; gap:12px; overflow-x:auto; padding:12px 2px 8px; scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch; }
+  .resultcard{ flex:0 0 78%; scroll-snap-align:start; background:#fff; border:1px solid var(--line); border-radius:20px; overflow:hidden; box-shadow:0 8px 20px rgba(28,27,26,.05); margin:0; }
+  .resultimg{ background:var(--champagne-soft); aspect-ratio:4/3; }
+  .resultimg img{ width:100%; height:100%; object-fit:cover; display:block; }
+  .resultcard figcaption{ display:flex; justify-content:space-between; padding:10px 16px; font-size:11.5px; font-weight:700; letter-spacing:.12em; text-transform:uppercase; color:var(--muted); }
+  .resultsnote{ color:var(--muted); font-size:12px; margin:6px 0 22px; }
   .altlink{ display:block; margin:13px auto 2px; background:none; border:none; font:600 14.5px 'Inter',sans-serif; color:var(--forest); cursor:pointer; text-decoration:underline; text-underline-offset:3px; }
 </style>
 </head>
@@ -293,6 +299,13 @@
       <span class="callout c2">Deep hydration</span>
       <span class="callout c3">Fine lines</span>
     </div>
+    <h3 class="featuretitle">Real results</h3>
+    <div class="results">
+      <figure class="resultcard"><div class="resultimg"><img src="assets/results-1.jpg" alt="Before and after with the Glow Brightening Serum" loading="lazy"></div><figcaption><span>Before</span><span>After</span></figcaption></figure>
+      <figure class="resultcard"><div class="resultimg"><img src="assets/results-2.jpg" alt="Before and after with the Glow Brightening Serum" loading="lazy"></div><figcaption><span>Before</span><span>After</span></figcaption></figure>
+      <figure class="resultcard"><div class="resultimg"><img src="assets/results-3.jpg" alt="Before and after with the Glow Brightening Serum" loading="lazy"></div><figcaption><span>Before</span><span>After</span></figcaption></figure>
+    </div>
+    <p class="resultsnote">Individual results vary.</p>
     <div class="stickybar">
       <button class="cta" type="button" data-next>Continue with this plan</button>
       <button class="altlink" type="button" data-next>See other options</button>
