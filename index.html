@@ -6,7 +6,8 @@
 <title>Tava Labs — Glow Brightening Serum</title>
 <meta name="description" content="Tava Labs Glow Brightening Serum. The Science of Attractive Health. Reduce fine lines, hydrate deeply, restore radiance, strengthen skin.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,700;1,900&family=Archivo+Black&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 <noscript><style>[data-reveal]{opacity:1 !important; transform:none !important;}</style></noscript>
 <script type="importmap">
@@ -20,154 +21,156 @@
 <div data-component="header"></div>
 <script src="components/header.js"></script>
 
-<!-- ===== Marquee strip (top, Kindjoy-style) ===== -->
-<div class="marquee marquee-top" aria-hidden="true">
-  <div class="marquee-track">
-    <span>Glow Brightening Serum <i>✦</i></span><span>Reduce Fine Lines <i>✦</i></span><span>Hydrate Deeply <i>✦</i></span><span>Restore Radiance <i>✦</i></span><span>Strengthen Skin <i>✦</i></span><span>Cruelty Free <i>✦</i></span><span>Fragrance Free <i>✦</i></span>
-    <span>Glow Brightening Serum <i>✦</i></span><span>Reduce Fine Lines <i>✦</i></span><span>Hydrate Deeply <i>✦</i></span><span>Restore Radiance <i>✦</i></span><span>Strengthen Skin <i>✦</i></span><span>Cruelty Free <i>✦</i></span><span>Fragrance Free <i>✦</i></span>
-  </div>
+<!-- ===== Hero (reference: full-bleed hero, heavy display type, white pill) ===== -->
+<div class="kj-hero-wrap">
+  <header class="kj-hero">
+    <h1 data-reveal>The Science of <span class="it">Attractive Health</span></h1>
+    <p class="kj-hero-sub" data-reveal style="--d:.1s">Glow Brightening Serum — one serum for radiant, hydrated, healthy-looking skin. Built for your morning and night routine.</p>
+    <div data-reveal style="--d:.18s"><a class="kj-pill kj-pill-white" href="https://tavalabs.app">Shop the Serum</a></div>
+    <div id="stage" data-reveal="zoom" style="--d:.24s">
+      <div class="stage-glow" aria-hidden="true"></div>
+      <canvas id="scene" aria-label="Interactive 3D model of the Tava Labs Glow Brightening Serum bottle"></canvas>
+      <div id="nogl">Your browser could not start WebGL, so the 3D bottle cannot be shown here.</div>
+    </div>
+    <p class="hint" data-reveal style="--d:.3s">Drag the bottle to spin it. Scroll to explore.</p>
+  </header>
+  <div class="kj-tilt" aria-hidden="true">TAVA LABS</div>
 </div>
 
-<!-- ===== Big bold hero (3D bottle kept) ===== -->
-<header class="hero hero-xl">
-  <div class="orb orb-a" data-parallax="0.12" aria-hidden="true"></div>
-  <div class="orb orb-b" data-parallax="-0.08" aria-hidden="true"></div>
-  <div class="orb orb-c" data-parallax="0.2" aria-hidden="true"></div>
-  <div class="ring ring-a" data-parallax="0.05" aria-hidden="true"></div>
-  <div class="ring ring-b" data-parallax="-0.05" aria-hidden="true"></div>
-  <span class="drop-dot" style="left:6%; top:22%;" data-parallax="0.3" aria-hidden="true"></span>
-  <span class="drop-dot" style="left:44%; top:14%; width:7px; height:10px;" data-parallax="-0.22" aria-hidden="true"></span>
-  <span class="drop-dot" style="left:52%; top:78%; width:6px; height:9px;" data-parallax="0.26" aria-hidden="true"></span>
-
-  <div class="hero-copy">
-    <span class="eyebrow" data-reveal>Tava Labs</span>
-    <h1 data-reveal style="--d:.08s">The Science of <em>Attractive Health</em></h1>
-    <p class="sub" data-reveal style="--d:.16s">Glow Brightening Serum — one serum for radiant, hydrated, healthy-looking skin. Built for your morning and night routine.</p>
-    <p class="size" data-reveal style="--d:.24s">Glow Brightening Serum &middot; 1 fl oz (30 ml)</p>
-    <div data-reveal style="--d:.32s">
-      <a class="cta cta-xl" href="https://tavalabs.app">Shop the Serum</a>
-      <p class="hint">Drag the bottle to spin it. Scroll to explore.</p>
+<!-- ===== Statement (reference: solid band, heavy caps headline, oval portrait) ===== -->
+<section class="kj-band kj-forest kj-statement">
+  <h2 class="kj-h2" data-reveal>Radiant, Hydrated, Healthy-Looking Skin</h2>
+  <p class="kj-para" data-reveal style="--d:.08s">Glow Brightening Serum — one serum for radiant, hydrated, healthy-looking skin. Built for your morning and night routine. A single step in your routine, working four ways every day.</p>
+  <div class="kj-oval-wrap" data-reveal="zoom" style="--d:.14s">
+    <svg class="kj-curve" viewBox="0 0 300 300" aria-hidden="true">
+      <defs><path id="kj-circle-path" d="M150,150 m-138,0 a138,138 0 1,1 276,0 a138,138 0 1,1 -276,0"></path></defs>
+      <text><textPath href="#kj-circle-path">Glow Brightening Serum ✦ The Science of Attractive Health ✦ </textPath></text>
+    </svg>
+    <div class="kj-oval">
+      <video controls playsinline preload="metadata" src="assets/Captions_AF0C36.mp4" aria-label="The Tava Labs film — the science behind the serum"></video>
     </div>
   </div>
-  <div id="stage" data-reveal="zoom" style="--d:.2s">
-    <div class="stage-glow" aria-hidden="true"></div>
-    <canvas id="scene" aria-label="Interactive 3D model of the Tava Labs Glow Brightening Serum bottle"></canvas>
-    <div id="nogl">Your browser could not start WebGL, so the 3D bottle cannot be shown here.</div>
-  </div>
-</header>
-
-<!-- ===== Intro statement (Kindjoy "be kind to your skin" slot) ===== -->
-<section class="intro-statement">
-  <span class="eyebrow center" data-reveal>The Serum</span>
-  <h2 class="statement" data-reveal>Radiant, Hydrated, <em>Healthy-Looking</em> Skin</h2>
-  <p class="lede" data-reveal style="--d:.1s">Glow Brightening Serum — one serum for radiant, hydrated, healthy-looking skin. Built for your morning and night routine. A single step in your routine, working four ways every day.</p>
 </section>
 
-<!-- ===== Oversized product block 1 — one-time ===== -->
-<section class="product-block product-dark">
-  <div class="product-media" data-reveal="left">
-    <img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Tava Labs Glow Brightening Serum bottle">
+<!-- ===== Product (reference: heading, arrows, one bordered card, SHOP ALL pill) ===== -->
+<section class="kj-band kj-champagne" id="shop">
+  <p class="kj-kicker" data-reveal>The Serum</p>
+  <h2 class="kj-h2" data-reveal>Choose Your Glow</h2>
+  <div class="kj-arrows" data-reveal>
+    <button class="kj-arrow" id="kjPrev" type="button" aria-label="Previous product option">&#8592;</button>
+    <button class="kj-arrow" id="kjNext" type="button" aria-label="Next product option">&#8594;</button>
   </div>
-  <div class="product-copy" data-reveal="right">
-    <span class="eyebrow">The Serum</span>
-    <h2 class="product-name">Glow Brightening Serum</h2>
-    <p class="product-tag">For radiant, hydrated, healthy-looking skin.</p>
-    <p class="product-price">$49 <span>ONE BOTTLE &middot; ONE-TIME PURCHASE</span></p>
-    <ul class="product-points">
-      <li>Full-size Glow Brightening Serum</li>
-      <li>Morning &amp; night routine — about a one-month supply</li>
-      <li>30-day happiness guarantee</li>
-      <li>Ships within 1–2 business days</li>
-    </ul>
-    <a class="cta cta-xl" href="https://tavalabs.app">Shop the Serum</a>
+  <div class="kj-slider" data-reveal="zoom">
+    <div class="kj-track" id="kjTrack">
+      <article class="kj-card">
+        <span class="kj-chip">1 fl oz (30 ml)</span>
+        <div class="kj-card-media"><img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Tava Labs Glow Brightening Serum bottle"></div>
+        <h3>Glow Brightening Serum</h3>
+        <p class="tag">For radiant, hydrated, healthy-looking skin.</p>
+        <p class="kj-price">$49 <span>One bottle &middot; One-time purchase</span></p>
+        <ul class="kj-points">
+          <li>Full-size Glow Brightening Serum</li>
+          <li>Morning &amp; night routine — about a one-month supply</li>
+          <li>30-day happiness guarantee</li>
+          <li>Ships within 1–2 business days</li>
+        </ul>
+        <a class="kj-pill kj-pill-forest" href="https://tavalabs.app">Shop the Serum</a>
+      </article>
+      <article class="kj-card">
+        <span class="kj-chip">Subscribe &amp; Save 20%</span>
+        <div class="kj-card-media"><img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Tava Labs Glow Brightening Serum bottle"></div>
+        <h3>Glow, Delivered Monthly</h3>
+        <p class="tag">A fresh bottle every month, automatically.</p>
+        <p class="kj-price">$39 <span>Per month &middot; Delivered monthly</span></p>
+        <ul class="kj-points">
+          <li>A fresh bottle every month, automatically</li>
+          <li>Save 20% on every order</li>
+          <li>Pause, skip, or cancel anytime</li>
+          <li>30-day happiness guarantee</li>
+        </ul>
+        <a class="kj-pill kj-pill-forest" href="https://tavalabs.app">Subscribe &amp; Save</a>
+      </article>
+    </div>
   </div>
+  <div class="kj-shopall" data-reveal><a class="kj-pill kj-pill-black" href="https://tavalabs.app">Shop All</a></div>
 </section>
 
-<!-- ===== Oversized product block 2 — subscribe ===== -->
-<section class="product-block product-light">
-  <div class="product-copy" data-reveal="left">
-    <span class="eyebrow">Subscribe &amp; Save</span>
-    <h2 class="product-name">Glow, Delivered Monthly</h2>
-    <p class="product-tag">A fresh bottle every month, automatically.</p>
-    <p class="product-price">$39 <span>PER MONTH &middot; DELIVERED MONTHLY</span></p>
-    <ul class="product-points">
-      <li>Save 20% on every order</li>
-      <li>Pause, skip, or cancel anytime</li>
-      <li>30-day happiness guarantee</li>
-    </ul>
-    <a class="cta cta-xl" href="https://tavalabs.app">Subscribe &amp; Save</a>
-  </div>
-  <div class="product-media" data-reveal="right">
-    <img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Tava Labs Glow Brightening Serum bottle">
-  </div>
+<!-- ===== Values (reference: accent band, plain all-caps text list) ===== -->
+<section class="kj-band kj-forest">
+  <h2 class="kj-h2" data-reveal>High-Quality Ingredients, Combined With Care.</h2>
+  <p class="kj-lede" data-reveal style="--d:.08s">What we leave out matters as much as what we put in.</p>
+  <ul class="kj-values" data-reveal style="--d:.14s">
+    <li>Cruelty Free</li>
+    <li>Fragrance Free</li>
+    <li>Mineral Oil Free</li>
+    <li>Phthalate Free</li>
+    <li>Silicone Free</li>
+    <li>Sulfate Free</li>
+    <li>Allergen Free</li>
+    <li>Alcohol Free</li>
+  </ul>
 </section>
 
-<!-- ===== Benefits ===== -->
-<section>
-  <div class="section-head" data-reveal>
-    <span class="eyebrow center">Benefits</span>
-    <h2>One Serum. <em>Four Results.</em></h2>
-    <p class="lede">A single step in your routine, working four ways every day.</p>
-  </div>
-  <div class="grid">
-    <div class="card" data-reveal><div class="num">01</div><h3>Reduce Fine Lines</h3><p>Helps soften the look of fine lines so skin appears smoother and more even.</p></div>
-    <div class="card" data-reveal style="--d:.1s"><div class="num">02</div><h3>Hydrate Deeply</h3><p>Draws in moisture and helps skin hold it, for a plump, comfortable feel.</p></div>
-    <div class="card" data-reveal style="--d:.2s"><div class="num">03</div><h3>Restore Radiance</h3><p>Brings back the glow — skin looks brighter, fresher, and more awake.</p></div>
-    <div class="card" data-reveal style="--d:.3s"><div class="num">04</div><h3>Strengthen Skin</h3><p>Supports the skin barrier so your complexion stays resilient day after day.</p></div>
-  </div>
-</section>
-
-<!-- ===== Values (free-from badges, labelled — Kindjoy values slot) ===== -->
-<section class="values">
-  <div class="section-head" data-reveal>
-    <span class="eyebrow center">Values</span>
-    <h2>High-Quality Ingredients, <em>Combined With Care</em></h2>
-    <p class="lede">What we leave out matters as much as what we put in.</p>
-  </div>
-  <div class="values-grid" data-reveal>
-    <figure class="value-item"><img src="assets/IMG_3162.jpeg" alt="Cruelty Free"><figcaption>Cruelty Free</figcaption></figure>
-    <figure class="value-item"><img src="assets/IMG_3163.jpeg" alt="Fragrance Free"><figcaption>Fragrance Free</figcaption></figure>
-    <figure class="value-item"><img src="assets/IMG_3164.jpeg" alt="Mineral Oil Free"><figcaption>Mineral Oil Free</figcaption></figure>
-    <figure class="value-item"><img src="assets/IMG_3166.jpeg" alt="Phthalate Free"><figcaption>Phthalate Free</figcaption></figure>
-    <figure class="value-item"><img src="assets/IMG_3167.jpeg" alt="Silicone Free"><figcaption>Silicone Free</figcaption></figure>
-    <figure class="value-item"><img src="assets/IMG_3168.jpeg" alt="Sulfate Free"><figcaption>Sulfate Free</figcaption></figure>
-    <figure class="value-item"><img src="assets/IMG_3169.jpeg" alt="Allergen Free"><figcaption>Allergen Free</figcaption></figure>
-    <figure class="value-item"><img src="assets/IMG_3170.jpeg" alt="Alcohol Free"><figcaption>Alcohol Free</figcaption></figure>
+<!-- ===== Benefits (kept content, banded styling) ===== -->
+<section class="kj-band kj-cream">
+  <p class="kj-kicker" data-reveal>Benefits</p>
+  <h2 class="kj-h2" data-reveal>One Serum. Four Results.</h2>
+  <p class="kj-lede" data-reveal style="--d:.08s">A single step in your routine, working four ways every day.</p>
+  <div class="kj-benefits">
+    <div class="kj-benefit" data-reveal><div class="num">01</div><h3>Reduce Fine Lines</h3><p>Helps soften the look of fine lines so skin appears smoother and more even.</p></div>
+    <div class="kj-benefit" data-reveal style="--d:.1s"><div class="num">02</div><h3>Hydrate Deeply</h3><p>Draws in moisture and helps skin hold it, for a plump, comfortable feel.</p></div>
+    <div class="kj-benefit" data-reveal style="--d:.2s"><div class="num">03</div><h3>Restore Radiance</h3><p>Brings back the glow — skin looks brighter, fresher, and more awake.</p></div>
+    <div class="kj-benefit" data-reveal style="--d:.3s"><div class="num">04</div><h3>Strengthen Skin</h3><p>Supports the skin barrier so your complexion stays resilient day after day.</p></div>
   </div>
 </section>
 
-<!-- ===== Founder message (lab-coat film in the founder slot) ===== -->
-<section class="founder">
-  <div class="founder-media film-frame" data-reveal="left">
-    <video controls playsinline preload="metadata" src="assets/Captions_AF0C36.mp4"></video>
-  </div>
-  <div class="founder-copy" data-reveal="right">
-    <span class="eyebrow">A Message From Our Founder</span>
-    <h2 class="founder-heading">&ldquo;Healthy skin is the most <em>attractive</em> thing you can wear.&rdquo;</h2>
-    <p>That is the philosophy behind Tava Labs — the science of attractive health. The Glow Brightening Serum was made to be the one step your routine is built around: two minutes, twice a day, morning and night.</p>
-    <p>Watch the film to hear the science behind it, in our own words.</p>
-    <p class="founder-sign">— The Tava Labs Philosophy</p>
-    <a class="cta" href="https://tavalabs.app">Shop the Serum</a>
+<!-- ===== Subscribe & Save (reference: white band, outlined + solid italic type) ===== -->
+<section class="kj-band kj-white kj-subscribe">
+  <p class="kj-kicker" data-reveal>Most Popular — Save 20%</p>
+  <h2 class="kj-sub-title" data-reveal>
+    <span class="kj-outline">Subscribe</span>
+    <span class="kj-solid">And Save</span>
+  </h2>
+  <p class="kj-sub-price" data-reveal style="--d:.08s">$39 <span>Per month &middot; Delivered monthly</span></p>
+  <p class="kj-sub-points" data-reveal style="--d:.14s">A fresh bottle every month, automatically &middot; Save 20% on every order &middot; Pause, skip, or cancel anytime &middot; 30-day happiness guarantee</p>
+  <div data-reveal style="--d:.2s"><a class="kj-pill kj-pill-black" href="https://tavalabs.app">Subscribe &amp; Save</a></div>
+</section>
+
+<!-- ===== Founder (reference: accent band, founder message) ===== -->
+<section class="kj-band kj-champagne kj-founder">
+  <div class="kj-founder-grid">
+    <div class="kj-founder-copy" data-reveal="left">
+      <p class="kj-kicker">A Message From Our Founder</p>
+      <h2 class="kj-h2">&ldquo;Healthy skin is the most attractive thing you can wear.&rdquo;</h2>
+      <p class="body">That is the philosophy behind Tava Labs — the science of attractive health. The Glow Brightening Serum was made to be the one step your routine is built around: two minutes, twice a day, morning and night.</p>
+      <p class="body">Watch the film to hear the science behind it, in our own words.</p>
+      <p class="kj-sign">— The Tava Labs Philosophy</p>
+      <a class="kj-pill kj-pill-forest" href="https://tavalabs.app">Shop the Serum</a>
+    </div>
+    <div class="kj-founder-media" data-reveal="right">
+      <img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Tava Labs Glow Brightening Serum bottle">
+    </div>
   </div>
 </section>
 
-<!-- ===== Subscribe & Save banner ===== -->
-<div class="subscribe-banner">
-  <div class="band-bg" data-parallax="0.14" aria-hidden="true"></div>
-  <span class="eyebrow center light" data-reveal>Most Popular — Save 20%</span>
-  <h2 class="banner-heading" data-reveal>Subscribe &amp; <em>Save</em></h2>
-  <p class="banner-price" data-reveal style="--d:.08s">$39 <span>PER MONTH &middot; DELIVERED MONTHLY</span></p>
-  <p class="banner-points" data-reveal style="--d:.16s">A fresh bottle every month, automatically &middot; Pause, skip, or cancel anytime &middot; 30-day happiness guarantee</p>
-  <div data-reveal style="--d:.24s"><a class="cta cta-xl" href="https://tavalabs.app">Subscribe &amp; Save</a></div>
-</div>
-
-<!-- ===== Pricing (unchanged content) ===== -->
-<section>
-  <div class="section-head" data-reveal>
-    <span class="eyebrow center">Pricing</span>
-    <h2>Choose Your <em>Glow</em></h2>
-    <p class="lede">Glow Brightening Serum &middot; 1 fl oz (30 ml). Every order is covered by our 30-day happiness guarantee.</p>
+<!-- ===== Brand statement blob (reference: testimonials oval — brand copy only, no invented reviews) ===== -->
+<section class="kj-band kj-champagne kj-promise">
+  <h2 class="kj-h2" data-reveal>The Tava Promise</h2>
+  <div class="kj-blob" data-reveal="zoom">
+    <p id="kjBlobText">Every order is covered by our 30-day happiness guarantee. Not in love with your glow? Return it within 30 days for a refund.</p>
+    <p class="kj-blob-sign" id="kjBlobSign">The Tava Labs Guarantee</p>
   </div>
+  <div class="kj-blob-arrows" data-reveal>
+    <button class="kj-arrow kj-arrow-solid" id="kjBlobPrev" type="button" aria-label="Previous statement">&#8592;</button>
+    <button class="kj-arrow kj-arrow-solid" id="kjBlobNext" type="button" aria-label="Next statement">&#8594;</button>
+  </div>
+</section>
+
+<!-- ===== Pricing (kept content, banded styling) ===== -->
+<section class="kj-band kj-cream">
+  <p class="kj-kicker" data-reveal>Pricing</p>
+  <h2 class="kj-h2" data-reveal>Choose Your Glow</h2>
+  <p class="kj-lede" data-reveal style="--d:.08s">Glow Brightening Serum &middot; 1 fl oz (30 ml). Every order is covered by our 30-day happiness guarantee.</p>
   <div class="pricing">
     <div class="price-card" data-reveal="left">
       <h3>One-Time</h3>
@@ -198,17 +201,54 @@
   <p class="guarantee" data-reveal>Not in love with your glow? Return it within 30 days for a refund — see our <a href="returns.html">Return &amp; Refund Policy</a> for details.</p>
 </section>
 
-<!-- ===== Ritual ===== -->
-<section>
-  <div class="section-head" data-reveal>
-    <span class="eyebrow center">The Ritual</span>
-    <h2>Your Glow Era <em>Starts Now</em></h2>
-    <p class="lede">Two minutes, twice a day.</p>
+<!-- ===== Ritual (kept content, banded styling) ===== -->
+<section class="kj-band kj-forest">
+  <p class="kj-kicker" data-reveal>The Ritual</p>
+  <h2 class="kj-h2" data-reveal>Your Glow Era Starts Now</h2>
+  <p class="kj-lede" data-reveal style="--d:.08s">Two minutes, twice a day.</p>
+  <div class="kj-steps">
+    <div class="kj-step" data-reveal><div class="num">Step 1</div><h3>Cleanse</h3><p>Start with clean, slightly damp skin.</p></div>
+    <div class="kj-step" data-reveal style="--d:.12s"><div class="num">Step 2</div><h3>Apply the Serum</h3><p>2–3 drops, morning and night. Press gently into face and neck.</p></div>
+    <div class="kj-step" data-reveal style="--d:.24s"><div class="num">Step 3</div><h3>Moisturize &amp; Glow</h3><p>Seal it in with your moisturizer and go.</p></div>
   </div>
-  <div class="steps">
-    <div class="card" data-reveal><div class="num">Step 1</div><h3>Cleanse</h3><p>Start with clean, slightly damp skin.</p></div>
-    <div class="card" data-reveal style="--d:.12s"><div class="num">Step 2</div><h3>Apply the Serum</h3><p>2–3 drops, morning and night. Press gently into face and neck.</p></div>
-    <div class="card" data-reveal style="--d:.24s"><div class="num">Step 3</div><h3>Moisturize &amp; Glow</h3><p>Seal it in with your moisturizer and go.</p></div>
+</section>
+
+<!-- ===== Email signup (reference: giant circle outline) ===== -->
+<section class="kj-band kj-cream">
+  <div class="kj-circle" data-reveal="zoom">
+    <h3>Keep Up To Date With All Things Tava</h3>
+    <form action="mailto:talia@tavalabs.app" method="post" enctype="text/plain">
+      <input type="email" name="email" placeholder="Your email" aria-label="Your email" required>
+      <button type="submit">Subscribe</button>
+    </form>
+    <p class="fine">Glow notes, launches, and offers — straight to your inbox.</p>
+  </div>
+</section>
+
+<!-- ===== Footer link columns (reference: SIGN UP row + plain link lists, on the footer band color) ===== -->
+<section class="kj-band kj-forest kj-links">
+  <div class="kj-links-top">
+    <a href="quiz.html">Take the Quiz</a>
+    <a href="https://tavalabs.app">Shop</a>
+  </div>
+  <div class="kj-links-cols">
+    <div>
+      <h4>Contact Us</h4>
+      <ul>
+        <li><a href="mailto:talia@tavalabs.app">talia@tavalabs.app</a></li>
+        <li><a href="https://tavalabs.app">tavalabs.app</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Info</h4>
+      <ul>
+        <li><a href="privacy.html">Privacy Policy</a></li>
+        <li><a href="terms.html">Terms &amp; Conditions</a></li>
+        <li><a href="returns.html">Return &amp; Refund Policy</a></li>
+        <li><a href="cookies.html">Cookie Policy</a></li>
+        <li><a href="shipping.html">Shipping Policy</a></li>
+      </ul>
+    </div>
   </div>
 </section>
 
@@ -216,5 +256,41 @@
 <script src="components/footer.js"></script>
 
 <script type="module" src="main.js"></script>
+<script>
+/* Product card slider (one-time / subscribe) */
+(function () {
+  var track = document.getElementById('kjTrack');
+  if (!track) return;
+  var idx = 0, count = track.children.length;
+  function go(d) {
+    idx = (idx + d + count) % count;
+    track.style.transform = 'translateX(' + (-idx * 100) + '%)';
+  }
+  document.getElementById('kjPrev').addEventListener('click', function () { go(-1); });
+  document.getElementById('kjNext').addEventListener('click', function () { go(1); });
+})();
+/* Brand statement blob toggle (existing site copy only — no reviews) */
+(function () {
+  var text = document.getElementById('kjBlobText');
+  var sign = document.getElementById('kjBlobSign');
+  if (!text || !sign) return;
+  var statements = [
+    { t: 'Every order is covered by our 30-day happiness guarantee. Not in love with your glow? Return it within 30 days for a refund.', s: 'The Tava Labs Guarantee' },
+    { t: '\u201CHealthy skin is the most attractive thing you can wear.\u201D', s: 'The Tava Labs Philosophy' }
+  ];
+  var idx = 0;
+  function go(d) {
+    idx = (idx + d + statements.length) % statements.length;
+    text.style.opacity = '0'; sign.style.opacity = '0';
+    setTimeout(function () {
+      text.textContent = statements[idx].t;
+      sign.textContent = statements[idx].s;
+      text.style.opacity = '1'; sign.style.opacity = '1';
+    }, 220);
+  }
+  document.getElementById('kjBlobPrev').addEventListener('click', function () { go(-1); });
+  document.getElementById('kjBlobNext').addEventListener('click', function () { go(1); });
+})();
+</script>
 </body>
 </html>
