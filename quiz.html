@@ -117,10 +117,19 @@
   .acc summary::after{ content:"\2304"; font-size:19px; font-weight:400; color:var(--muted); display:inline-block; transition:transform .2s ease; }
   .acc[open ] summary::after{ transform:rotate(180deg); }
   .acc p{ padding:0 2px 16px; }
-  .ingcards{ display:grid; grid-template-columns:1fr 1fr; gap:10px; padding:2px 0 16px; }
-  .ingcard{ background:var(--warm); border-radius:18px; padding:16px 15px; }
-  .ingcard .name{ font-weight:600; font-size:14.5px; display:block; margin-bottom:4px; }
-  .ingcard p{ font-size:13px; padding:0; }
+  /* Active ingredients carousel 2026-11-18 — swipeable scroll-snap row
+     matching Vashon's reference: white cards with soft shadow, serif
+     ingredient name, grey sub-line, large serum-texture image in the
+     middle, benefit line at the bottom, next card peeking. */
+  .ingcards{ display:flex; gap:12px; overflow-x:auto; scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch; padding:6px 2px 18px; scrollbar-width:none; }
+  .ingcards::-webkit-scrollbar{ display:none; }
+  .ingcard{ flex:0 0 74%; max-width:270px; scroll-snap-align:start; background:#fff; border-radius:20px; padding:22px 20px 20px; box-shadow:0 12px 30px rgba(28,27,26,.10); display:flex; flex-direction:column; min-height:340px; }
+  .ingcard .name{ font-family:Georgia,'Times New Roman',serif; font-weight:400; font-size:22px; line-height:1.2; display:block; color:var(--ink); }
+  .ingcard .sub{ color:#A8A29A; font-size:17px; display:block; margin-top:8px; }
+  .ingcard .ingimg{ display:block; width:100%; height:150px; object-fit:contain; margin:auto 0; }
+  .ingcard .ingtex{ height:150px; margin:auto 0; border-radius:60% 40% 55% 45% / 50% 55% 45% 50%; background:radial-gradient(ellipse at 35% 30%, #FCF8EE 0%, #F5ead2 48%, #EBDCB9 100%); box-shadow:inset 0 0 24px rgba(183,139,69,.14); }
+  .ingcard .benefit{ font-size:17px; line-height:1.35; color:#4A4742; margin-top:auto; padding:0; }
+  .ingnote{ color:#A8A29A; font-size:13.5px; line-height:1.55; padding:0 2px 18px; }
   .featureband{ background:linear-gradient(180deg,var(--warm),var(--champagne-soft)); border-radius:28px;
     padding:32px 22px 28px; margin:0 0 32px; text-align:center; }
   .featureband h3{ font-size:25px; font-weight:800; letter-spacing:-.01em; }
@@ -294,14 +303,15 @@
         <div class="stat"><span class="sk">Plan</span><span class="sv">30 days</span></div>
       </div>
       <div id="planBox"></div>
-      <details class="acc">
-        <summary>Key ingredients</summary>
-        <div class="ingcards">
-          <div class="ingcard"><span class="name">PDRN</span><p>For a luminous, radiant-looking complexion.</p></div>
-          <div class="ingcard"><span class="name">Acetyl hexapeptide-8</span><p>Supports smoother, more even-looking skin.</p></div>
-          <div class="ingcard"><span class="name">Sodium hyaluronate</span><p>Draws in moisture for a plump, comfortable feel.</p></div>
-          <div class="ingcard"><span class="name">Panthenol</span><p>Conditions skin, leaving it soft and comfortable.</p></div>
+      <details class="acc" open>
+        <summary>Active ingredients</summary>
+        <div class="ingcards" role="list" aria-label="Active ingredients">
+          <div class="ingcard" role="listitem"><span class="name">PDRN</span><span class="sub">Polydeoxyribonucleotide</span><img class="ingimg" src="assets/ingredients/ingredient-pdrn.png" alt="PDRN serum texture" loading="lazy"><p class="benefit">For luminous, radiant-looking skin</p></div>
+          <div class="ingcard" role="listitem"><span class="name">Acetyl Hexapeptide-8</span><span class="sub">Peptide</span><img class="ingimg" src="assets/ingredients/ingredient-peptide.png" alt="Acetyl Hexapeptide-8 serum texture" loading="lazy"><p class="benefit">For smoother-looking skin</p></div>
+          <div class="ingcard" role="listitem"><span class="name">Sodium Hyaluronate</span><span class="sub">Hyaluronic acid</span><img class="ingimg" src="assets/ingredients/ingredient-ha.png" alt="Sodium Hyaluronate serum texture" loading="lazy"><p class="benefit">For deep, plump hydration</p></div>
+          <div class="ingcard" role="listitem"><span class="name">Panthenol</span><span class="sub">Pro-vitamin B5</span><div class="ingtex" aria-hidden="true"></div><p class="benefit">For soft, comfortable skin</p></div>
         </div>
+        <p class="ingnote">Cosmetic serum for topical use. For external use only. Avoid eyes. Discontinue if irritation occurs.</p>
       </details>
       <details class="acc">
         <summary>How to use</summary>
