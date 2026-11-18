@@ -79,6 +79,44 @@
   .banner.err{ background:#FBF0EE; color:#7C2D22; display:none; }
   .mirrorline{ font-family:'Inter',sans-serif; font-weight:600; font-size:17.5px; line-height:1.5; margin:2px 0 6px; }
   footer{ text-align:center; color:var(--muted); font-size:12px; line-height:1.6; padding:34px 0 8px; }
+
+  /* Plan preview restyle 2026-11-18 — Hims-style treatment preview for the
+     plan screen only. Same design system: cream canvas, white cards,
+     Forest Luxe accents, black pill CTA. */
+  .planhead{ text-align:center; }
+  .planhead h2{ margin-bottom:6px; }
+  .heroimg{ background:linear-gradient(180deg,var(--warm),var(--champagne-soft)); border-radius:28px; padding:30px 20px 22px; margin:16px 0 22px; }
+  .heroimg img{ display:block; width:min(190px,48vw); margin:0 auto; filter:drop-shadow(0 16px 22px rgba(28,27,26,.18)); }
+  .basedon{ text-align:center; font-size:14.5px; font-weight:600; color:var(--ink); }
+  .goalchips{ display:flex; flex-wrap:wrap; gap:8px; justify-content:center; margin:12px 0 20px; }
+  .gchip{ background:#fff; border:1px solid var(--line); border-radius:999px; padding:7px 14px; font-size:13px; font-weight:500; color:var(--ink); text-transform:capitalize; }
+  .priceline{ text-align:center; font-size:17px; margin-top:2px; }
+  .priceline strong{ font-weight:800; }
+  .fineprint{ text-align:center; color:var(--muted); font-size:12px; line-height:1.55; margin:6px 0 4px; }
+  .stats{ display:grid; grid-template-columns:1fr 1fr 1fr; gap:10px; margin:18px 0 6px; }
+  .stat{ border:1px solid var(--line); border-radius:16px; padding:12px 12px 11px; }
+  .stat .sk{ display:block; font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--muted); font-weight:600; margin-bottom:5px; }
+  .stat .sv{ display:block; font-size:13.5px; font-weight:600; line-height:1.4; }
+  .acc{ border-top:1px solid var(--line); margin-top:14px; padding-top:4px; }
+  .acc summary{ list-style:none; cursor:pointer; font-weight:600; font-size:15.5px; padding:13px 2px; display:flex; justify-content:space-between; align-items:center; }
+  .acc summary::-webkit-details-marker{ display:none; }
+  .acc summary::after{ content:"+"; font-size:20px; font-weight:400; color:var(--muted); }
+  .acc[open ] summary::after{ content:"\2212"; }
+  .acc p{ padding:0 2px 14px; }
+  .ingcards{ display:grid; grid-template-columns:1fr 1fr; gap:10px; padding:2px 0 14px; }
+  .ingcard{ background:var(--warm); border-radius:16px; padding:14px; }
+  .ingcard .name{ font-weight:600; font-size:14.5px; display:block; margin-bottom:4px; }
+  .ingcard p{ font-size:13px; padding:0; }
+  .featuretitle{ font-size:21px; font-weight:800; letter-spacing:-.01em; margin:4px 0 2px; }
+  .feature{ position:relative; margin:10px 0 8px; padding:8px 0 4px; }
+  .feature img{ display:block; width:min(210px,52vw); margin:0 auto; filter:drop-shadow(0 14px 20px rgba(28,27,26,.15)); }
+  .callout{ position:absolute; background:#fff; border:1px solid var(--line); border-radius:999px; padding:8px 14px; font-size:13px; font-weight:600; box-shadow:0 6px 16px rgba(28,27,26,.08); }
+  .callout.c1{ top:16%; left:0; }
+  .callout.c2{ top:44%; right:0; }
+  .callout.c3{ bottom:10%; left:4%; }
+  .stickybar{ position:sticky; bottom:0; margin-top:auto; padding:16px 0 4px; background:linear-gradient(rgba(243,237,228,0), var(--canvas) 32%); }
+  .stickybar .cta{ margin-top:0; }
+  .altlink{ display:block; margin:13px auto 2px; background:none; border:none; font:600 14.5px 'Inter',sans-serif; color:var(--forest); cursor:pointer; text-decoration:underline; text-underline-offset:3px; }
 </style>
 </head>
 <body>
@@ -210,13 +248,55 @@
     <button class="cta" type="button" id="emailNext">Show my plan</button>
   </section>
 
-  <!-- 11 · PLAN REVEAL -->
+  <!-- 11 · PLAN REVEAL — treatment preview -->
   <section class="screen" data-screen="plan" data-progress="96" data-step-label="Your plan">
-    <p class="eyebrow">Your 30-Day Plan</p>
-    <h2 id="planTitle">Your 30-Day Glow Plan</h2>
+    <div class="planhead">
+      <p class="eyebrow">Your treatment preview</p>
+      <h2 id="planTitle">Glow Brightening Serum</h2>
+    </div>
+    <div class="heroimg"><img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Glow Brightening Serum bottle"></div>
+    <p class="basedon">Selected based on your goals:</p>
+    <div class="goalchips" id="goalChips"></div>
+    <p class="priceline">Plans starting at <strong>$39/month*</strong></p>
+    <p class="fineprint">*Paid monthly. Pause or cancel anytime. One-time bottle $49.</p>
+    <div class="cardbox">
+      <h3>Serum details</h3>
+      <p>One serum. Twice a day. 30 days.</p>
+      <div class="stats">
+        <div class="stat"><span class="sk">Type</span><span class="sv">Brightening serum · 1 fl oz</span></div>
+        <div class="stat"><span class="sk">Use</span><span class="sv">Twice daily</span></div>
+        <div class="stat"><span class="sk">Plan</span><span class="sv">30 days</span></div>
+      </div>
+      <details class="acc">
+        <summary>Key ingredients</summary>
+        <div class="ingcards">
+          <div class="ingcard"><span class="name">PDRN</span><p>For a luminous, radiant-looking complexion.</p></div>
+          <div class="ingcard"><span class="name">Acetyl hexapeptide-8</span><p>Supports smoother, more even-looking skin.</p></div>
+          <div class="ingcard"><span class="name">Sodium hyaluronate</span><p>Draws in moisture for a plump, comfortable feel.</p></div>
+          <div class="ingcard"><span class="name">Panthenol</span><p>Conditions skin, leaving it soft and comfortable.</p></div>
+        </div>
+      </details>
+      <details class="acc">
+        <summary>How to use</summary>
+        <p>Apply 2–4 pumps to clean, dry skin, twice daily. Follow with moisturizer or sunscreen in the morning.</p>
+      </details>
+      <details class="acc">
+        <summary>Good to know</summary>
+        <p>For external use only. Avoid eyes. Discontinue if irritation occurs. Keep out of reach of children. Do not use on broken skin. Store in a cool, dry place.</p>
+      </details>
+    </div>
     <div class="cardbox" id="planBox"></div>
-    <button class="cta" type="button" data-next>Get my serum</button>
-    <p class="note">Glow Brightening Serum · 1 fl oz (30 ml) · Apply 2–4 pumps to clean, dry skin, twice daily. Follow with moisturizer or sunscreen in the morning.</p>
+    <h3 class="featuretitle">Meet your serum</h3>
+    <div class="feature">
+      <img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Glow Brightening Serum bottle">
+      <span class="callout c1">Glow &amp; radiance</span>
+      <span class="callout c2">Deep hydration</span>
+      <span class="callout c3">Fine lines</span>
+    </div>
+    <div class="stickybar">
+      <button class="cta" type="button" data-next>Continue with this plan</button>
+      <button class="altlink" type="button" data-next>See other options</button>
+    </div>
   </section>
 
   <!-- 12 · OFFER + CHECKOUT -->
@@ -446,7 +526,9 @@ function buildPlan() {
 function renderPlan() {
   const a = state.answers;
   const plan = buildPlan();
-  $("#planTitle").textContent = "Your 30-Day Glow Plan";
+  $("#planTitle").textContent = "Glow Brightening Serum";
+  $("#goalChips").innerHTML = [GOAL_LABEL[a.goal], CONCERN_LABEL[a.concern], SKIN_LABEL[a.skinType]]
+    .map(s => `<span class="gchip">${s}</span>`).join("");
   $("#planBox").innerHTML = `
     <p class="mirrorline">${SKIN_LABEL[a.skinType]} skin · focus on ${CONCERN_LABEL[a.concern]} · goal: ${GOAL_LABEL[a.goal]}</p>
     <div class="planrow"><span class="k">Ramp</span><span class="v">${plan.rampLines.join("<br>")}</span></div>
