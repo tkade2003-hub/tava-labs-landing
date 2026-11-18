@@ -50,7 +50,6 @@
     </div>
   </div>
 </section>
-<div class="kj-wave" style="background:#EBDCBB" aria-hidden="true"><svg viewBox="0 0 1440 80" preserveAspectRatio="none" focusable="false"><path fill="#08251D" d="M0,0 L1440,0 L1440,24 C1180,66 940,80 700,58 C460,36 220,22 0,48 Z"/></svg></div>
 
 <!-- ===== Product (reference: heading, arrows, one bordered card, SHOP ALL pill) ===== -->
 <section class="kj-band kj-champagne kj-fade" id="shop" style="--from:#08251D">
@@ -99,7 +98,6 @@
     <p class="kj-ar-note">On iPhone, tap to see the bottle in AR, true to size.</p>
   </div>
 </section>
-<div class="kj-wave kj-wave--flip" style="background:#123B2C" aria-hidden="true"><svg viewBox="0 0 1440 80" preserveAspectRatio="none" focusable="false"><path fill="#D8C19A" d="M0,0 L1440,0 L1440,24 C1180,66 940,80 700,58 C460,36 220,22 0,48 Z"/></svg></div>
 
 <!-- ===== Values (reference: accent band, plain all-caps text list) ===== -->
 <section class="kj-band kj-forest kj-fade" style="--from:#D8C19A">
@@ -116,7 +114,6 @@
     <li><img src="assets/IMG_3170.jpeg" alt="Alcohol Free badge" loading="lazy"></li>
   </ul>
 </section>
-<div class="kj-wave" style="background:#FAF5EA" aria-hidden="true"><svg viewBox="0 0 1440 80" preserveAspectRatio="none" focusable="false"><path fill="#08251D" d="M0,0 L1440,0 L1440,24 C1180,66 940,80 700,58 C460,36 220,22 0,48 Z"/></svg></div>
 
 <!-- ===== Benefits (kept content, banded styling) ===== -->
 <section class="kj-band kj-cream kj-fade" style="--from:#08251D">
@@ -142,7 +139,6 @@
   <p class="kj-sub-points" data-reveal style="--d:.14s">A fresh bottle every month, automatically &middot; Save 20% on every order &middot; Pause, skip, or cancel anytime</p>
   <div data-reveal style="--d:.2s"><a class="kj-pill kj-pill-black" href="quiz.html" data-buy="subscribe">Subscribe &amp; Save</a></div>
 </section>
-<div class="kj-wave kj-wave--flip" style="background:#EBDCBB" aria-hidden="true"><svg viewBox="0 0 1440 80" preserveAspectRatio="none" focusable="false"><path fill="#FFFFFF" d="M0,0 L1440,0 L1440,24 C1180,66 940,80 700,58 C460,36 220,22 0,48 Z"/></svg></div>
 
 <!-- ===== Founder (reference: accent band, founder message) ===== -->
 <section class="kj-band kj-champagne kj-founder kj-fade" style="--from:#FFFFFF">
@@ -207,7 +203,6 @@
   </div>
   <p class="sales-note" data-reveal>All sales are final — please see our <a href="returns.html">Returns policy</a> before ordering.</p>
 </section>
-<div class="kj-wave" style="background:#123B2C" aria-hidden="true"><svg viewBox="0 0 1440 80" preserveAspectRatio="none" focusable="false"><path fill="#FAF5EA" d="M0,0 L1440,0 L1440,24 C1180,66 940,80 700,58 C460,36 220,22 0,48 Z"/></svg></div>
 
 <!-- ===== Ritual (kept content, banded styling) ===== -->
 <section class="kj-band kj-forest kj-fade" style="--from:#FAF5EA">
@@ -233,7 +228,6 @@
     <p class="fine">Glow notes, launches, and offers — straight to your inbox.</p>
   </div>
 </section>
-<div class="kj-wave kj-wave--flip" style="background:#123B2C" aria-hidden="true"><svg viewBox="0 0 1440 80" preserveAspectRatio="none" focusable="false"><path fill="#FAF5EA" d="M0,0 L1440,0 L1440,24 C1180,66 940,80 700,58 C460,36 220,22 0,48 Z"/></svg></div>
 
 <!-- ===== Direct checkout (buy buttons) — posts to funnel-intake, redirects to Stripe ===== -->
 <div class="co-overlay" id="coOverlay" hidden>
@@ -326,23 +320,42 @@
 })();
 </script>
 <script>
-/* Film frame-paint: seek (paused) to a real frame 12s in — the spokesperson
-   mid-explainer — so the oval shows her, not a black screen. The first time
-   the visitor presses play, playback restarts from the beginning. */
+/* Film preview frame: a paused seek alone does not paint on iOS Safari
+   (black oval), so briefly play muted to force the frame at 2s to render,
+   then pause on it. The first time the visitor presses play, playback
+   restarts from the beginning, with sound. */
 (function () {
   var v = document.getElementById('kjFilm');
   if (!v) return;
-  var PAINT_AT = 12, hasPlayed = false;
+  var PAINT_AT = 2, painted = false, armed = false;
+  function armRestart() {
+    if (armed) return;
+    armed = true;
+    v.addEventListener('play', function () {
+      if (v.currentTime > 0.5) { try { v.currentTime = 0; } catch (e) {} }
+    }, { once: true });
+  }
+  function finishPaint() {
+    if (painted) return;
+    painted = true;
+    try { v.pause(); } catch (e) {}
+    v.muted = false;
+    armRestart();
+  }
   function paint() {
-    if (hasPlayed) return;
+    if (painted) return;
+    v.muted = true;
     try { v.currentTime = PAINT_AT; } catch (e) { /* metadata not ready yet */ }
   }
-  if (v.readyState >= 1) paint();
   v.addEventListener('loadedmetadata', paint);
-  v.addEventListener('play', function () {
-    if (!hasPlayed) {
-      hasPlayed = true;
-      if (v.currentTime > 1) { try { v.currentTime = 0; } catch (e) {} }
+  if (v.readyState >= 1) paint();
+  v.addEventListener('seeked', function () {
+    if (painted) return;
+    var p = v.play();
+    if (p && p.then) {
+      p.then(function () { requestAnimationFrame(finishPaint); }).catch(function () { finishPaint(); });
+    } else {
+      requestAnimationFrame(finishPaint);
     }
   });
 })();
