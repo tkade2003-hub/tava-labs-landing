@@ -36,7 +36,7 @@
 </div>
 
 <!-- ===== Statement (reference: solid band, heavy caps headline, oval portrait) ===== -->
-<section class="kj-band kj-forest kj-statement kj-fade" style="--from:#D3B57F">
+<section class="kj-band kj-forest kj-statement kj-fade" style="--from:#08251D">
   <h2 class="kj-h2" data-reveal>Radiant, Hydrated, Healthy-Looking Skin</h2>
   <p class="kj-para" data-reveal style="--d:.08s">Glow Brightening Serum — one serum for radiant, hydrated, healthy-looking skin. Built for your morning and night routine. A single step in your routine, working four ways every day.</p>
   <div class="kj-oval-wrap" data-reveal="zoom" style="--d:.14s">
@@ -52,8 +52,8 @@
 
 <!-- ===== Product (reference: heading, arrows, one bordered card, SHOP ALL pill) ===== -->
 <section class="kj-band kj-champagne kj-fade" id="shop" style="--from:#08251D">
-  <img class="kj-cream kj-cream-a" src="assets/IMG_3263.png" alt="" aria-hidden="true" loading="lazy">
-  <img class="kj-cream kj-cream-b" src="assets/IMG_3264.png" alt="" aria-hidden="true" loading="lazy">
+  <img class="kj-cream-img kj-cream-img-a" src="assets/IMG_3263.png" alt="" aria-hidden="true" loading="lazy">
+  <img class="kj-cream-img kj-cream-img-b" src="assets/IMG_3264.png" alt="" aria-hidden="true" loading="lazy">
   <p class="kj-kicker" data-reveal>The Serum</p>
   <h2 class="kj-h2" data-reveal>Choose Your Glow</h2>
   <div class="kj-arrows" data-reveal>
@@ -326,7 +326,7 @@
    reference's animated cream imagery beside the products, using
    Tava's own uploaded cream artwork (IMG_3263 / IMG_3264). */
 (function () {
-  var creams = document.querySelectorAll('.kj-cream');
+  var creams = document.querySelectorAll('.kj-cream-img');
   if (!creams.length) return;
   var section = document.getElementById('shop');
   if ('IntersectionObserver' in window) {
@@ -358,14 +358,17 @@
 })();
 </script>
 <script>
-/* Film preview frame: a paused seek alone does not paint on iOS Safari
-   (black oval), so briefly play muted to force the frame at 2s to render,
-   then pause on it. The first time the visitor presses play, playback
-   restarts from the beginning, with sound. */
+/* Film preview poster: iOS Safari does not paint a paused seeked frame
+   (the oval stays black) and a muted play-pause does not fix it either,
+   so grab the frame at 2s onto a canvas and set it as the video's
+   poster — the poster is what iOS reliably shows before playback.
+   The film is a same-origin asset, so the canvas is not tainted.
+   The first time the visitor presses play, playback restarts from
+   the beginning, with sound. */
 (function () {
   var v = document.getElementById('kjFilm');
   if (!v) return;
-  var PAINT_AT = 2, painted = false, armed = false;
+  var POSTER_AT = 2, done = false, armed = false;
   function armRestart() {
     if (armed) return;
     armed = true;
@@ -373,29 +376,27 @@
       if (v.currentTime > 0.5) { try { v.currentTime = 0; } catch (e) {} }
     }, { once: true });
   }
-  function finishPaint() {
-    if (painted) return;
-    painted = true;
-    try { v.pause(); } catch (e) {}
-    v.muted = false;
-    armRestart();
+  function makePoster() {
+    if (done) return;
+    if (!v.videoWidth || !v.videoHeight) return;
+    try {
+      var c = document.createElement('canvas');
+      c.width = v.videoWidth;
+      c.height = v.videoHeight;
+      var ctx = c.getContext('2d');
+      if (!ctx) return;
+      ctx.drawImage(v, 0, 0, c.width, c.height);
+      v.poster = c.toDataURL('image/jpeg', 0.85);
+      done = true;
+    } catch (e) { /* same-origin asset, so this should not happen */ }
   }
-  function paint() {
-    if (painted) return;
-    v.muted = true;
-    try { v.currentTime = PAINT_AT; } catch (e) { /* metadata not ready yet */ }
+  function seekToPosterFrame() {
+    try { v.currentTime = POSTER_AT; } catch (e) { /* metadata not ready yet */ }
   }
-  v.addEventListener('loadedmetadata', paint);
-  if (v.readyState >= 1) paint();
-  v.addEventListener('seeked', function () {
-    if (painted) return;
-    var p = v.play();
-    if (p && p.then) {
-      p.then(function () { requestAnimationFrame(finishPaint); }).catch(function () { finishPaint(); });
-    } else {
-      requestAnimationFrame(finishPaint);
-    }
-  });
+  armRestart();
+  v.addEventListener('loadedmetadata', seekToPosterFrame);
+  if (v.readyState >= 1) seekToPosterFrame();
+  v.addEventListener('seeked', makePoster);
 })();
 </script>
 <script>

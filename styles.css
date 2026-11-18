@@ -430,12 +430,14 @@ body.landing nav a.shop:hover{ background:var(--forest-deep); color:#F5EFE2; }
 .kj-white{ background:#fff; color:var(--forest-deep); }
 
 /* ---------- Hero ---------- */
-.kj-hero-wrap{ position:relative; }
+.kj-hero-wrap{ position:relative; z-index:2; }
 .kj-hero{
   /* Full-bleed photo hero (IMG_3265: the serum bottle floating over
-     flowing cream). The hero's bottom edge is ONE smooth curve —
-     the curve belongs to the hero container itself; no dividers
-     are added between the other sections. */
+     flowing cream). The hero's bottom edge is ONE smooth curve, and
+     the forest statement section below is pulled up beneath it, so
+     the section's deep-forest background fills the curve as a band
+     sweeping up into the hero (see .kj-statement). No dividers are
+     added between the other sections. */
   position:relative; overflow:hidden;
   border-bottom-left-radius:50% 72px; border-bottom-right-radius:50% 72px;
   background:#EFE2C6;
@@ -469,11 +471,12 @@ body.landing #stage{
 }
 .kj-hero .hint{ color:#41604F; font-weight:500; }
 
-/* Giant tilted brand band, straddling hero -> statement */
+/* Giant tilted brand wordmark in champagne gold, straddling the
+   hero photo and the forest band sweeping in below it */
 .kj-tilt{
   font-family:'Archivo Black','Archivo',sans-serif;
   font-size:clamp(74px,18.5vw,240px); line-height:.8; letter-spacing:.01em;
-  color:var(--champagne-deep);
+  color:var(--champagne);
   white-space:nowrap; text-align:center;
   position:absolute; left:50%; bottom:-.34em; z-index:6;
   transform:translateX(-50%) rotate(-4deg);
@@ -481,7 +484,19 @@ body.landing #stage{
 }
 
 /* ---------- Statement + oval ---------- */
-.kj-statement{ padding-top:clamp(120px,16vw,200px); }
+.kj-statement{
+  /* Hero band: this section's own background is the band that sweeps
+     up into the hero. The section is pulled up 72px — exactly the
+     depth of the hero's curved bottom edge — and the hero wrap
+     (z-index 2) paints above it (z-index 1), so the deep forest
+     shows through the curve: forest below the curve, photo above,
+     the tilted TAVA LABS wordmark straddling both. The top of the
+     band is the deep forest #08251D itself. The extra 72px of top
+     padding keeps the section's content exactly where it was. */
+  margin-top:-72px; z-index:1;
+  background:linear-gradient(180deg, var(--forest-deep) 0%, var(--forest) 45%, var(--forest-deep) 100%);
+  padding-top:calc(clamp(120px,16vw,200px) + 72px);
+}
 .kj-oval-wrap{
   position:relative; width:min(80vw,350px); margin:56px auto 8px;
 }
@@ -756,7 +771,7 @@ body.landing .price-card .badge{ background:var(--forest); }
 }
 @media (max-width:520px){
   .kj-band{ padding:68px 6vw; }
-  .kj-statement{ padding-top:110px; }
+  .kj-statement{ padding-top:calc(110px + 72px); }
   .kj-benefits{ grid-template-columns:1fr; }
   .kj-card{ padding:16px 14px 26px; }
   .kj-circle{ padding:13% 9%; }
@@ -969,22 +984,32 @@ body.landing footer .f-col a{ display:block; margin:7px 0; font-size:14px; }
 /* Cream smears (IMG_3263 / IMG_3264, Tava's own uploads): they
    start hidden, reveal when scrolled into view (.in, added by
    IntersectionObserver) and drift with scroll via the --drift
-   custom property set from the same script. */
+   custom property set from the same script.
+   These rules are scoped to .kj-cream-img ONLY. The band class
+   .kj-cream (the cream-coloured sections) must never receive the
+   image positioning below — sharing the name once ripped whole
+   sections out of the flow and buried the footer. */
 #shop{ position:relative; overflow:clip; }
-.kj-cream{
+.kj-cream-img{
   position:absolute; z-index:0; pointer-events:none;
   width:min(30vw,320px); height:auto; opacity:0;
-  filter:drop-shadow(0 22px 26px rgba(8,37,29,.28));
+  /* The artwork PNGs sit on opaque white squares: multiply melts
+     the white into the section background, and a soft radial mask
+     feathers the edges so no hard square outline can ever show.
+     No drop-shadow — it would trace the square edge. */
+  mix-blend-mode:multiply;
+  -webkit-mask-image:radial-gradient(ellipse at center, #000 60%, transparent 92%);
+  mask-image:radial-gradient(ellipse at center, #000 60%, transparent 92%);
   transition:opacity 1s ease, transform 1.25s var(--ease);
 }
-.kj-cream-a{ left:-46px; top:110px; transform:translateY(54px) rotate(-10deg) scale(.94); }
-.kj-cream-b{ right:-40px; bottom:120px; width:min(26vw,280px); transform:translateY(54px) rotate(14deg) scale(.94); }
-.kj-cream.in{ opacity:.96; }
-.kj-cream-a.in{ transform:translateY(var(--drift,0px)) rotate(-10deg); }
-.kj-cream-b.in{ transform:translateY(var(--drift,0px)) rotate(14deg); }
+.kj-cream-img-a{ left:-46px; top:110px; transform:translateY(54px) rotate(-10deg) scale(.94); }
+.kj-cream-img-b{ right:-40px; bottom:120px; width:min(26vw,280px); transform:translateY(54px) rotate(14deg) scale(.94); }
+.kj-cream-img.in{ opacity:.96; }
+.kj-cream-img-a.in{ transform:translateY(var(--drift,0px)) rotate(-10deg); }
+.kj-cream-img-b.in{ transform:translateY(var(--drift,0px)) rotate(14deg); }
 @media (max-width:700px){
-  .kj-cream-a{ width:168px; left:-30px; top:70px; }
-  .kj-cream-b{ width:150px; right:-26px; bottom:60px; }
+  .kj-cream-img-a{ width:168px; left:-30px; top:70px; }
+  .kj-cream-img-b{ width:150px; right:-26px; bottom:60px; }
 }
 
 /* Diagonal stripes behind the product imagery: a champagne/ivory
