@@ -26,7 +26,7 @@
   <header class="kj-hero">
     <h1 data-reveal>The Science of <span class="it">Attractive Health</span></h1>
     <p class="kj-hero-sub" data-reveal style="--d:.1s">Glow Brightening Serum — one serum for radiant, hydrated, healthy-looking skin. Built for your morning and night routine.</p>
-    <div data-reveal style="--d:.18s"><a class="kj-pill kj-pill-white" href="https://tavalabs.app">Shop the Serum</a></div>
+    <div data-reveal style="--d:.18s"><a class="kj-pill kj-pill-white" href="quiz.html" data-buy="one_time">Shop the Serum</a></div>
     <div id="stage" data-reveal="zoom" style="--d:.24s">
       <div class="stage-glow" aria-hidden="true"></div>
       <canvas id="scene" aria-label="3D model of the Tava Labs Glow Brightening Serum bottle"></canvas>
@@ -73,7 +73,7 @@
           <li>Morning &amp; night routine — about a one-month supply</li>
           <li>Ships within 1–2 business days</li>
         </ul>
-        <a class="kj-pill kj-pill-forest" href="https://tavalabs.app">Shop the Serum</a>
+        <a class="kj-pill kj-pill-forest" href="quiz.html" data-buy="one_time">Shop the Serum</a>
       </article>
       <article class="kj-card">
         <span class="kj-chip">Subscribe &amp; Save 20%</span>
@@ -86,11 +86,11 @@
           <li>Save 20% on every order</li>
           <li>Pause, skip, or cancel anytime</li>
         </ul>
-        <a class="kj-pill kj-pill-forest" href="https://tavalabs.app">Subscribe &amp; Save</a>
+        <a class="kj-pill kj-pill-forest" href="quiz.html" data-buy="subscribe">Subscribe &amp; Save</a>
       </article>
     </div>
   </div>
-  <div class="kj-shopall" data-reveal><a class="kj-pill kj-pill-black" href="https://tavalabs.app">Shop All</a></div>
+  <div class="kj-shopall" data-reveal><a class="kj-pill kj-pill-black" href="quiz.html" data-buy="one_time">Shop All</a></div>
   <div class="kj-ar" data-reveal>
     <a class="kj-ar-link" rel="ar" href="assets/T_Nottle-reduced.usdz">
       <img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Tava Labs Glow Brightening Serum bottle">
@@ -140,7 +140,7 @@
   </h2>
   <p class="kj-sub-price" data-reveal style="--d:.08s">$39 <span>Per month &middot; Delivered monthly</span></p>
   <p class="kj-sub-points" data-reveal style="--d:.14s">A fresh bottle every month, automatically &middot; Save 20% on every order &middot; Pause, skip, or cancel anytime</p>
-  <div data-reveal style="--d:.2s"><a class="kj-pill kj-pill-black" href="https://tavalabs.app">Subscribe &amp; Save</a></div>
+  <div data-reveal style="--d:.2s"><a class="kj-pill kj-pill-black" href="quiz.html" data-buy="subscribe">Subscribe &amp; Save</a></div>
 </section>
 <div class="kj-wave kj-wave--flip" style="background:#EBDCBB" aria-hidden="true"><svg viewBox="0 0 1440 80" preserveAspectRatio="none" focusable="false"><path fill="#FFFFFF" d="M0,0 L1440,0 L1440,24 C1180,66 940,80 700,58 C460,36 220,22 0,48 Z"/></svg></div>
 
@@ -153,7 +153,7 @@
       <p class="body">That is the philosophy behind Tava Labs — the science of attractive health. The Glow Brightening Serum was made to be the one step your routine is built around: two minutes, twice a day, morning and night.</p>
       <p class="body">Watch the film to hear the science behind it, in our own words.</p>
       <p class="kj-sign">— The Tava Labs Philosophy</p>
-      <a class="kj-pill kj-pill-forest" href="https://tavalabs.app">Shop the Serum</a>
+      <a class="kj-pill kj-pill-forest" href="quiz.html" data-buy="one_time">Shop the Serum</a>
     </div>
     <div class="kj-founder-media kj-scene" data-reveal="right">
       <div class="kj-pedestal" aria-hidden="true"></div>
@@ -190,7 +190,7 @@
         <li>Morning &amp; night routine — about a one-month supply</li>
         <li>Ships within 1–2 business days</li>
       </ul>
-      <a class="cta ghost" href="https://tavalabs.app">Shop the Serum</a>
+      <a class="cta ghost" href="quiz.html" data-buy="one_time">Shop the Serum</a>
     </div>
     <div class="price-card featured" data-reveal="right" style="--d:.12s">
       <span class="badge">Most Popular — Save 20%</span>
@@ -202,7 +202,7 @@
         <li>Save 20% on every order</li>
         <li>Pause, skip, or cancel anytime</li>
       </ul>
-      <a class="cta" href="https://tavalabs.app">Subscribe &amp; Save</a>
+      <a class="cta" href="quiz.html" data-buy="subscribe">Subscribe &amp; Save</a>
     </div>
   </div>
   <p class="sales-note" data-reveal>All sales are final — please see our <a href="returns.html">Returns policy</a> before ordering.</p>
@@ -234,6 +234,56 @@
   </div>
 </section>
 <div class="kj-wave kj-wave--flip" style="background:#123B2C" aria-hidden="true"><svg viewBox="0 0 1440 80" preserveAspectRatio="none" focusable="false"><path fill="#FAF5EA" d="M0,0 L1440,0 L1440,24 C1180,66 940,80 700,58 C460,36 220,22 0,48 Z"/></svg></div>
+
+<!-- ===== Direct checkout (buy buttons) — posts to funnel-intake, redirects to Stripe ===== -->
+<div class="co-overlay" id="coOverlay" hidden>
+  <div class="co-modal" role="dialog" aria-modal="true" aria-labelledby="coTitle">
+    <button class="co-close" id="coClose" type="button" aria-label="Close checkout">&times;</button>
+    <h3 id="coTitle">Checkout</h3>
+    <p class="co-plan" id="coPlanLine">Glow Brightening Serum — $49 · One-time purchase</p>
+    <form id="coForm" novalidate>
+      <label>Email
+        <input type="email" id="coEmail" autocomplete="email" placeholder="you@example.com" required>
+      </label>
+      <div class="co-row">
+        <label>First name
+          <input type="text" id="coFirst" autocomplete="given-name" required>
+        </label>
+        <label>Last name
+          <input type="text" id="coLast" autocomplete="family-name" required>
+        </label>
+      </div>
+      <label>Street address
+        <input type="text" id="coAddr1" autocomplete="address-line1" required>
+      </label>
+      <label>Address line 2 (optional)
+        <input type="text" id="coAddr2" autocomplete="address-line2">
+      </label>
+      <div class="co-row">
+        <label>City
+          <input type="text" id="coCity" autocomplete="address-level2" required>
+        </label>
+        <label>State
+          <input type="text" id="coState" autocomplete="address-level1" maxlength="2" placeholder="CA" required>
+        </label>
+        <label>ZIP
+          <input type="text" id="coZip" autocomplete="postal-code" required>
+        </label>
+      </div>
+      <div class="co-row">
+        <label>Country
+          <input type="text" id="coCountry" autocomplete="country" maxlength="2" value="US" required>
+        </label>
+        <label>Phone (optional)
+          <input type="tel" id="coPhone" autocomplete="tel">
+        </label>
+      </div>
+      <p class="co-error" id="coError" role="alert"></p>
+      <button class="co-submit" id="coSubmit" type="submit">Continue to Payment</button>
+      <p class="co-note">Secure checkout by Stripe — you'll confirm payment on Stripe's page. Nothing is charged yet.</p>
+    </form>
+  </div>
+</div>
 
 <div data-component="footer" data-theme="dark"></div>
 <script src="components/footer.js"></script>
@@ -336,6 +386,129 @@
     }).then(function () {
       btn.disabled = false;
       btn.textContent = 'Subscribe';
+    });
+  });
+})();
+</script>
+<script>
+/* Direct checkout: every buy button ([data-buy]) opens the checkout form;
+   submitting POSTs the funnel payload to funnel-intake, which creates the
+   order + a Stripe Checkout Session server-side, and the browser redirects
+   to the returned Stripe URL — the same flow quiz.html uses. Without JS,
+   the buttons fall back to quiz.html (the full funnel checkout). */
+(function () {
+  var INTAKE_URL = 'https://evzfibetybqhwikwhfbd.supabase.co/functions/v1/funnel-intake';
+  var PRODUCT = { productId: 'cbbc7de1-994e-45be-94d8-ac4be3b8cc18', sku: 'VASHO-PBS-8FB6' };
+  var PRICES = { one_time: 49, subscribe: 39 };
+  var PLAN_LINES = {
+    one_time: 'Glow Brightening Serum — $49 · One-time purchase',
+    subscribe: 'Glow Brightening Serum — $39/month · Subscribe & Save 20%'
+  };
+  var overlay = document.getElementById('coOverlay');
+  if (!overlay) return;
+  var form = document.getElementById('coForm');
+  var planLine = document.getElementById('coPlanLine');
+  var errBox = document.getElementById('coError');
+  var submitBtn = document.getElementById('coSubmit');
+  var buyType = 'one_time';
+  var lastTrigger = null;
+
+  function val(id) { return (document.getElementById(id).value || '').trim(); }
+
+  function openCheckout(type, trigger) {
+    buyType = (type === 'subscribe') ? 'subscribe' : 'one_time';
+    lastTrigger = trigger || null;
+    planLine.textContent = PLAN_LINES[buyType];
+    errBox.style.display = 'none';
+    submitBtn.disabled = false;
+    submitBtn.textContent = 'Continue to Payment';
+    overlay.hidden = false;
+    document.body.style.overflow = 'hidden';
+    var email = document.getElementById('coEmail');
+    setTimeout(function () { email.focus(); }, 30);
+  }
+  function closeCheckout() {
+    overlay.hidden = true;
+    document.body.style.overflow = '';
+    if (lastTrigger) { lastTrigger.classList.remove('is-opening'); lastTrigger.removeAttribute('aria-disabled'); }
+  }
+
+  document.addEventListener('click', function (e) {
+    var t = e.target && e.target.closest ? e.target.closest('[data-buy]') : null;
+    if (!t) return;
+    e.preventDefault();
+    t.classList.add('is-opening');
+    t.setAttribute('aria-disabled', 'true');
+    openCheckout(t.getAttribute('data-buy'), t);
+  });
+  document.getElementById('coClose').addEventListener('click', closeCheckout);
+  overlay.addEventListener('click', function (e) { if (e.target === overlay) closeCheckout(); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !overlay.hidden) closeCheckout(); });
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var shippingAddress = {
+      firstName: val('coFirst'), lastName: val('coLast'),
+      address1: val('coAddr1'), address2: val('coAddr2') || undefined,
+      city: val('coCity'), stateCode: val('coState').toUpperCase(),
+      zip: val('coZip'), countryCode: (val('coCountry') || 'US').toUpperCase(),
+      phone: val('coPhone') || undefined
+    };
+    var email = val('coEmail');
+    var missing = [];
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) missing.push('a valid email');
+    if (!shippingAddress.firstName) missing.push('first name');
+    if (!shippingAddress.lastName) missing.push('last name');
+    if (!shippingAddress.address1) missing.push('street address');
+    if (!shippingAddress.city) missing.push('city');
+    if (!shippingAddress.stateCode) missing.push('state');
+    if (!shippingAddress.zip) missing.push('ZIP code');
+    if (missing.length) {
+      errBox.textContent = 'Almost there — add your ' + missing.join(', ') + '.';
+      errBox.style.display = 'block';
+      return;
+    }
+    errBox.style.display = 'none';
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Creating your checkout…';
+
+    var payload = {
+      email: email,
+      source: 'quiz-funnel',
+      answers: {
+        goal: 'radiance', skinType: 'not_sure', concern: 'dullness',
+        sensitivity: 'sometimes', routine: 'few_products',
+        amTime: '08:00', pmTime: '21:00'
+      },
+      plan: {
+        rampSchedule: 'standard',
+        summary: 'Direct checkout from the Tava Labs website (no quiz taken). Default routine plan — the buyer can personalize everything in the app.'
+      },
+      order: {
+        productId: PRODUCT.productId, sku: PRODUCT.sku, quantity: 1,
+        purchaseType: buyType, price: PRICES[buyType]
+      },
+      shippingAddress: shippingAddress
+    };
+
+    fetch(INTAKE_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    }).then(function (res) {
+      return res.json().catch(function () { return null; }).then(function (data) {
+        if (res.ok && data && data.checkoutUrl) {
+          submitBtn.textContent = 'Taking you to secure checkout…';
+          window.location.href = data.checkoutUrl;
+          return;
+        }
+        throw new Error('no checkout url');
+      });
+    }).catch(function () {
+      errBox.textContent = "Checkout couldn't start — please check your details and try again. Nothing was charged.";
+      errBox.style.display = 'block';
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Continue to Payment';
     });
   });
 })();
