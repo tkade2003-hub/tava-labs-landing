@@ -80,49 +80,68 @@
   .mirrorline{ font-family:'Inter',sans-serif; font-weight:600; font-size:17.5px; line-height:1.5; margin:2px 0 6px; }
   footer{ text-align:center; color:var(--muted); font-size:12px; line-height:1.6; padding:34px 0 8px; }
 
-  /* Plan preview restyle 2026-11-18 — Hims-style treatment preview for the
-     plan screen only. Same design system: cream canvas, white cards,
-     Forest Luxe accents, black pill CTA. */
-  .planhead{ text-align:center; }
-  .planhead h2{ margin-bottom:6px; }
-  .heroimg{ background:linear-gradient(180deg,var(--warm),var(--champagne-soft)); border-radius:28px; padding:30px 20px 22px; margin:16px 0 22px; }
-  .heroimg img{ display:block; width:min(190px,48vw); margin:0 auto; filter:drop-shadow(0 16px 22px rgba(28,27,26,.18)); }
-  .basedon{ text-align:center; font-size:14.5px; font-weight:600; color:var(--ink); }
-  .goalchips{ display:flex; flex-wrap:wrap; gap:8px; justify-content:center; margin:12px 0 20px; }
-  .gchip{ background:#fff; border:1px solid var(--line); border-radius:999px; padding:7px 14px; font-size:13px; font-weight:500; color:var(--ink); text-transform:capitalize; }
-  .priceline{ text-align:center; font-size:17px; margin-top:2px; }
+  /* Plan preview rebuild 2026-11-18 — fidelity pass against Vashon's Hims
+     "Treatment preview" reference: full-bleed gradient hero, oversized
+     bottle, borderless floating details card, tinted feature band,
+     white sticky bar. Plan screen only. */
+  body.planstep{ background:#fff; }
+  body.planstep .progress-zone{ display:none; }
+  .screen.active[data-screen="plan"]{ padding-top:6px; }
+  .planhero{ margin:0 -24px; padding:30px 24px 42px; text-align:center;
+    background:linear-gradient(180deg,#F6EBD6 0%, var(--champagne-soft) 42%, #fff 100%); }
+  .plan-eyebrow{ font-size:13.5px; font-weight:600; color:var(--ink); }
+  .plan-brand{ color:var(--forest); font-size:15px; font-weight:600; margin-top:30px; }
+  .planhero h2{ font-size:clamp(33px,8.8vw,43px); line-height:1.1; margin:5px 0 0; }
+  .plan-bottle img{ display:block; width:min(280px,68vw); margin:32px auto 4px;
+    filter:drop-shadow(0 22px 28px rgba(28,27,26,.20)); }
+  .basedon{ text-align:center; font-size:13.5px; font-weight:500; color:var(--ink); margin-top:30px; }
+  .goalchips{ display:flex; flex-wrap:wrap; gap:8px; justify-content:center; margin:12px 0 4px; }
+  .gchip{ background:rgba(255,255,255,.8); border-radius:999px; padding:8px 15px; font-size:13px; font-weight:500; color:var(--ink); text-transform:capitalize; }
+  .priceline{ text-align:center; font-size:16.5px; margin-top:26px; }
   .priceline strong{ font-weight:800; }
-  .fineprint{ text-align:center; color:var(--muted); font-size:12px; line-height:1.55; margin:6px 0 4px; }
-  .stats{ display:grid; grid-template-columns:1fr 1fr 1fr; gap:10px; margin:18px 0 6px; }
-  .stat{ border:1px solid var(--line); border-radius:16px; padding:12px 12px 11px; }
-  .stat .sk{ display:block; font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--muted); font-weight:600; margin-bottom:5px; }
-  .stat .sv{ display:block; font-size:13.5px; font-weight:600; line-height:1.4; }
-  .acc{ border-top:1px solid var(--line); margin-top:14px; padding-top:4px; }
-  .acc summary{ list-style:none; cursor:pointer; font-weight:600; font-size:15.5px; padding:13px 2px; display:flex; justify-content:space-between; align-items:center; }
+  .fineprint{ text-align:center; color:var(--muted); font-size:11.5px; line-height:1.6; margin-top:7px; }
+  [data-screen="plan"] .cardbox{ border:none; border-radius:28px; padding:30px 26px 18px;
+    box-shadow:0 18px 44px rgba(28,27,26,.10); margin:2px 0 32px; }
+  [data-screen="plan"] .cardbox h3{ font-size:21px; font-weight:800; margin-bottom:8px; }
+  .stats{ display:grid; grid-template-columns:1.15fr 1fr 1fr; gap:8px; margin:20px 0 4px; }
+  .stat{ border:1px solid var(--line); border-radius:14px; padding:12px 11px 11px; }
+  .stat .sk{ display:block; font-size:10.5px; letter-spacing:.1em; text-transform:uppercase; color:var(--muted); font-weight:600; margin-bottom:5px; }
+  .stat .sv{ display:block; font-size:13px; font-weight:600; line-height:1.4; }
+  .detailscard #planBox{ border-top:1px solid var(--line); margin-top:18px; padding-top:6px; }
+  .detailscard .mirrorline{ font-size:16px; margin:10px 0 2px; }
+  .detailscard .planrow{ padding:12px 0; }
+  .detailscard .planrow .k{ flex-basis:92px; }
+  .acc{ border-top:1px solid var(--line); margin-top:6px; }
+  .acc summary{ list-style:none; cursor:pointer; font-weight:600; font-size:16px; padding:17px 2px; display:flex; justify-content:space-between; align-items:center; }
   .acc summary::-webkit-details-marker{ display:none; }
-  .acc summary::after{ content:"+"; font-size:20px; font-weight:400; color:var(--muted); }
-  .acc[open ] summary::after{ content:"\2212"; }
-  .acc p{ padding:0 2px 14px; }
-  .ingcards{ display:grid; grid-template-columns:1fr 1fr; gap:10px; padding:2px 0 14px; }
-  .ingcard{ background:var(--warm); border-radius:16px; padding:14px; }
+  .acc summary::after{ content:"\2304"; font-size:19px; font-weight:400; color:var(--muted); display:inline-block; transition:transform .2s ease; }
+  .acc[open ] summary::after{ transform:rotate(180deg); }
+  .acc p{ padding:0 2px 16px; }
+  .ingcards{ display:grid; grid-template-columns:1fr 1fr; gap:10px; padding:2px 0 16px; }
+  .ingcard{ background:var(--warm); border-radius:18px; padding:16px 15px; }
   .ingcard .name{ font-weight:600; font-size:14.5px; display:block; margin-bottom:4px; }
   .ingcard p{ font-size:13px; padding:0; }
-  .featuretitle{ font-size:21px; font-weight:800; letter-spacing:-.01em; margin:4px 0 2px; }
-  .feature{ position:relative; margin:10px 0 8px; padding:8px 0 4px; }
-  .feature img{ display:block; width:min(210px,52vw); margin:0 auto; filter:drop-shadow(0 14px 20px rgba(28,27,26,.15)); }
-  .callout{ position:absolute; background:#fff; border:1px solid var(--line); border-radius:999px; padding:8px 14px; font-size:13px; font-weight:600; box-shadow:0 6px 16px rgba(28,27,26,.08); }
-  .callout.c1{ top:16%; left:0; }
-  .callout.c2{ top:44%; right:0; }
-  .callout.c3{ bottom:10%; left:4%; }
-  .stickybar{ position:sticky; bottom:0; margin-top:auto; padding:16px 0 4px; background:linear-gradient(rgba(243,237,228,0), var(--canvas) 32%); }
-  .stickybar .cta{ margin-top:0; }
-  .results{ display:flex; gap:12px; overflow-x:auto; padding:12px 2px 8px; scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch; }
-  .resultcard{ flex:0 0 78%; scroll-snap-align:start; background:#fff; border:1px solid var(--line); border-radius:20px; overflow:hidden; box-shadow:0 8px 20px rgba(28,27,26,.05); margin:0; }
+  .featureband{ background:linear-gradient(180deg,var(--warm),var(--champagne-soft)); border-radius:28px;
+    padding:32px 22px 28px; margin:0 0 32px; text-align:center; }
+  .featureband h3{ font-size:25px; font-weight:800; letter-spacing:-.01em; }
+  .featureband h3 em{ color:var(--forest); font-style:normal; }
+  .feature{ position:relative; margin-top:6px; padding:10px 0 6px; }
+  .feature img{ display:block; width:min(225px,56vw); margin:0 auto; filter:drop-shadow(0 16px 22px rgba(28,27,26,.16)); }
+  .callout{ position:absolute; background:#fff; border-radius:999px; padding:8px 14px; font-size:13px; font-weight:600; box-shadow:0 8px 18px rgba(28,27,26,.10); }
+  .callout.c1{ top:15%; left:0; }
+  .callout.c2{ top:45%; right:0; }
+  .callout.c3{ bottom:9%; left:3%; }
+  .featuretitle{ font-size:21px; font-weight:800; letter-spacing:-.01em; margin:2px 0 2px; }
+  .results{ display:flex; gap:12px; overflow-x:auto; padding:12px 2px 10px; scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch; }
+  .resultcard{ flex:0 0 80%; scroll-snap-align:start; background:#fff; border:1px solid var(--line); border-radius:22px; overflow:hidden; box-shadow:0 10px 24px rgba(28,27,26,.06); margin:0; }
   .resultimg{ background:var(--champagne-soft); aspect-ratio:4/3; }
   .resultimg img{ width:100%; height:100%; object-fit:cover; display:block; }
   .resultcard figcaption{ display:flex; justify-content:space-between; padding:10px 16px; font-size:11.5px; font-weight:700; letter-spacing:.12em; text-transform:uppercase; color:var(--muted); }
-  .resultsnote{ color:var(--muted); font-size:12px; margin:6px 0 22px; }
-  .altlink{ display:block; margin:13px auto 2px; background:none; border:none; font:600 14.5px 'Inter',sans-serif; color:var(--forest); cursor:pointer; text-decoration:underline; text-underline-offset:3px; }
+  .resultsnote{ color:var(--muted); font-size:12px; margin:4px 0 26px; }
+  .stickybar{ position:sticky; bottom:0; z-index:5; margin:auto -24px 0; padding:14px 24px 10px;
+    background:#fff; border-top:1px solid var(--line); }
+  .stickybar .cta{ margin-top:0; }
+  .altlink{ display:block; margin:12px auto 2px; background:none; border:none; font:600 14.5px 'Inter',sans-serif; color:var(--forest); cursor:pointer; text-decoration:underline; text-underline-offset:3px; }
 </style>
 </head>
 <body>
@@ -256,16 +275,17 @@
 
   <!-- 11 · PLAN REVEAL — treatment preview -->
   <section class="screen" data-screen="plan" data-progress="96" data-step-label="Your plan">
-    <div class="planhead">
-      <p class="eyebrow">Your treatment preview</p>
+    <div class="planhero">
+      <p class="plan-eyebrow">Your treatment preview</p>
+      <p class="plan-brand">Tava Labs</p>
       <h2 id="planTitle">Glow Brightening Serum</h2>
+      <div class="plan-bottle"><img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Glow Brightening Serum bottle"></div>
+      <p class="basedon">Selected based on your goals:</p>
+      <div class="goalchips" id="goalChips"></div>
+      <p class="priceline">Plans starting at <strong>$39/month*</strong></p>
+      <p class="fineprint">*Paid monthly. Pause or cancel anytime.<br>One-time bottle $49.</p>
     </div>
-    <div class="heroimg"><img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Glow Brightening Serum bottle"></div>
-    <p class="basedon">Selected based on your goals:</p>
-    <div class="goalchips" id="goalChips"></div>
-    <p class="priceline">Plans starting at <strong>$39/month*</strong></p>
-    <p class="fineprint">*Paid monthly. Pause or cancel anytime. One-time bottle $49.</p>
-    <div class="cardbox">
+    <div class="cardbox detailscard">
       <h3>Serum details</h3>
       <p>One serum. Twice a day. 30 days.</p>
       <div class="stats">
@@ -273,6 +293,7 @@
         <div class="stat"><span class="sk">Use</span><span class="sv">Twice daily</span></div>
         <div class="stat"><span class="sk">Plan</span><span class="sv">30 days</span></div>
       </div>
+      <div id="planBox"></div>
       <details class="acc">
         <summary>Key ingredients</summary>
         <div class="ingcards">
@@ -291,13 +312,14 @@
         <p>For external use only. Avoid eyes. Discontinue if irritation occurs. Keep out of reach of children. Do not use on broken skin. Store in a cool, dry place.</p>
       </details>
     </div>
-    <div class="cardbox" id="planBox"></div>
-    <h3 class="featuretitle">Meet your serum</h3>
-    <div class="feature">
-      <img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Glow Brightening Serum bottle">
-      <span class="callout c1">Glow &amp; radiance</span>
-      <span class="callout c2">Deep hydration</span>
-      <span class="callout c3">Fine lines</span>
+    <div class="featureband">
+      <h3>Meet your <em>serum</em></h3>
+      <div class="feature">
+        <img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Glow Brightening Serum bottle">
+        <span class="callout c1">Glow &amp; radiance</span>
+        <span class="callout c2">Deep hydration</span>
+        <span class="callout c3">Fine lines</span>
+      </div>
     </div>
     <h3 class="featuretitle">Real results</h3>
     <div class="results">
@@ -447,6 +469,7 @@ function show(index, push = true) {
     $("#stepLabel").textContent = screen.dataset.stepLabel || "";
   }
   $("#backBtn").classList.toggle("show", historyStack.length > 0 && name !== "thanks");
+  document.body.classList.toggle("planstep", name === "plan");
   if (name === "notalone") renderNotAlone();
   if (name === "match") renderMatch();
   if (name === "plan") renderPlan();
