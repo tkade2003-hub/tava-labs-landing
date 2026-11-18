@@ -21,16 +21,15 @@
 <div data-component="header"></div>
 <script src="components/header.js"></script>
 
-<!-- ===== Hero (reference: full-bleed hero, heavy display type, white pill) ===== -->
+<!-- ===== Hero (reference: full-bleed photo hero, heavy display type,
+     white pill, and the photo's bottom edge ends in one smooth curve) ===== -->
 <div class="kj-hero-wrap">
   <header class="kj-hero">
-    <h1 data-reveal>The Science of <span class="it">Attractive Health</span></h1>
-    <p class="kj-hero-sub" data-reveal style="--d:.1s">Glow Brightening Serum — one serum for radiant, hydrated, healthy-looking skin. Built for your morning and night routine.</p>
-    <div data-reveal style="--d:.18s"><a class="kj-pill kj-pill-white" href="quiz.html" data-buy="one_time">Shop the Serum</a></div>
-    <div id="stage" data-reveal="zoom" style="--d:.24s">
-      <div class="stage-glow" aria-hidden="true"></div>
-      <canvas id="scene" aria-label="3D model of the Tava Labs Glow Brightening Serum bottle"></canvas>
-      <div id="nogl">Your browser could not start WebGL, so the 3D bottle cannot be shown here.</div>
+    <img class="kj-hero-img" src="assets/IMG_3265.jpeg" alt="Tava Labs Glow Brightening Serum bottle floating over flowing cream">
+    <div class="kj-hero-copy">
+      <h1 data-reveal>The Science of <span class="it">Attractive Health</span></h1>
+      <p class="kj-hero-sub" data-reveal style="--d:.1s">Glow Brightening Serum — one serum for radiant, hydrated, healthy-looking skin. Built for your morning and night routine.</p>
+      <div data-reveal style="--d:.18s"><a class="kj-pill kj-pill-white" href="quiz.html" data-buy="one_time">Shop the Serum</a></div>
     </div>
   </header>
   <div class="kj-tilt" aria-hidden="true">TAVA LABS</div>
@@ -43,7 +42,7 @@
   <div class="kj-oval-wrap" data-reveal="zoom" style="--d:.14s">
     <svg class="kj-curve" viewBox="0 0 300 300" aria-hidden="true">
       <defs><path id="kj-circle-path" d="M150,150 m-138,0 a138,138 0 1,1 276,0 a138,138 0 1,1 -276,0"></path></defs>
-      <text><textPath href="#kj-circle-path">THE SCIENCE OF ATTRACTIVE HEALTH &#8226; THE SCIENCE OF ATTRACTIVE HEALTH &#8226; </textPath></text>
+      <text><textPath href="#kj-circle-path">Glow Brightening Serum ✦ The Science of Attractive Health ✦ </textPath></text>
     </svg>
     <div class="kj-oval">
       <video id="kjFilm" controls playsinline preload="auto" src="assets/Captions_AF0C36.mp4" aria-label="The Tava Labs film — the science behind the serum"></video>
@@ -53,6 +52,8 @@
 
 <!-- ===== Product (reference: heading, arrows, one bordered card, SHOP ALL pill) ===== -->
 <section class="kj-band kj-champagne kj-fade" id="shop" style="--from:#08251D">
+  <img class="kj-cream kj-cream-a" src="assets/IMG_3263.png" alt="" aria-hidden="true" loading="lazy">
+  <img class="kj-cream kj-cream-b" src="assets/IMG_3264.png" alt="" aria-hidden="true" loading="lazy">
   <p class="kj-kicker" data-reveal>The Serum</p>
   <h2 class="kj-h2" data-reveal>Choose Your Glow</h2>
   <div class="kj-arrows" data-reveal>
@@ -62,7 +63,7 @@
   <div class="kj-slider" data-reveal="zoom">
     <div class="kj-track" id="kjTrack">
       <article class="kj-card">
-        <span class="kj-chip">New</span>
+        <span class="kj-chip">1 fl oz (30 ml)</span>
         <div class="kj-card-media kj-scene"><div class="kj-pedestal" aria-hidden="true"></div><img src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="Tava Labs Glow Brightening Serum bottle"></div>
         <h3>Glow Brightening Serum</h3>
         <p class="tag">For radiant, hydrated, healthy-looking skin.</p>
@@ -162,7 +163,6 @@
 <section class="kj-band kj-champagne kj-promise">
   <h2 class="kj-h2" data-reveal>The Tava Promise</h2>
   <div class="kj-blob" data-reveal="zoom">
-    <img class="kj-blob-bottle" src="assets/0A9AF6EB-4C23-4787-A7A4-C04B8CE8F830.png" alt="" aria-hidden="true">
     <p id="kjBlobText">High-quality ingredients, combined with care. What we leave out matters as much as what we put in.</p>
     <p class="kj-blob-sign" id="kjBlobSign">The Tava Labs Promise</p>
   </div>
@@ -217,8 +217,8 @@
   </div>
 </section>
 
-<!-- ===== Email signup (reference: giant circle outline on a curved-top band) ===== -->
-<section class="kj-band kj-forest kj-signup kj-fade" style="--from:#08251D">
+<!-- ===== Email signup (reference: giant circle outline) ===== -->
+<section class="kj-band kj-cream kj-fade" style="--from:#08251D">
   <div class="kj-circle" data-reveal="zoom">
     <h3>Keep Up To Date With All Things Tava</h3>
     <form id="kjNewsletterForm" novalidate>
@@ -318,6 +318,43 @@
   }
   document.getElementById('kjBlobPrev').addEventListener('click', function () { go(-1); });
   document.getElementById('kjBlobNext').addEventListener('click', function () { go(1); });
+})();
+</script>
+<script>
+/* Cream smears in the product section: they appear as you scroll
+   (IntersectionObserver) and drift with scroll position — the
+   reference's animated cream imagery beside the products, using
+   Tava's own uploaded cream artwork (IMG_3263 / IMG_3264). */
+(function () {
+  var creams = document.querySelectorAll('.kj-cream');
+  if (!creams.length) return;
+  var section = document.getElementById('shop');
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); }
+      });
+    }, { threshold: 0.12 });
+    creams.forEach(function (c) { io.observe(c); });
+  } else {
+    creams.forEach(function (c) { c.classList.add('in'); });
+  }
+  var ticking = false;
+  function drift() {
+    ticking = false;
+    if (!section) return;
+    var r = section.getBoundingClientRect();
+    var vh = window.innerHeight || 800;
+    var p = (r.top + r.height / 2 - vh / 2) / vh;
+    var y = Math.max(-26, Math.min(26, -p * 26));
+    creams.forEach(function (c, i) {
+      c.style.setProperty('--drift', (i ? -y : y).toFixed(1) + 'px');
+    });
+  }
+  window.addEventListener('scroll', function () {
+    if (!ticking) { ticking = true; requestAnimationFrame(drift); }
+  }, { passive: true });
+  drift();
 })();
 </script>
 <script>
