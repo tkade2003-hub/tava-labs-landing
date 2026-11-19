@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><meta content="web_standard" name="shell-type"/><link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;600;700&amp;family=Plus+Jakarta+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script><script id="tailwind-config">tailwind.config={"darkMode":"class","theme":{"extend":{"colors":{"tertiary":"#000000","error-container":"#ffdad6","background":"#fdf9f3","on-primary-fixed-variant":"#474646","secondary-fixed-dim":"#ffb872","on-error":"#ffffff","on-surface":"#1c1c18","on-secondary-fixed-variant":"#6a3b00","on-tertiary":"#ffffff","on-background":"#1c1c18","on-tertiary-fixed-variant":"#6a3c00","on-secondary":"#ffffff","primary-container":"#1c1b1b","surface-container-low":"#f7f3ed","on-primary-fixed":"#1c1b1b","outline-variant":"#c4c7c7","surface-container-lowest":"#ffffff","surface-tint":"#5f5e5e","inverse-primary":"#c8c6c5","on-secondary-container":"#774403","error":"#ba1a1a","outline":"#747878","primary":"#000000","surface-container-highest":"#e6e2dc","on-tertiary-container":"#b97426","tertiary-fixed":"#ffdcbe","secondary-container":"#fdb56e","surface-bright":"#fdf9f3","surface-variant":"#e6e2dc","surface-container-high":"#ebe8e2","on-secondary-fixed":"#2d1600","on-primary":"#ffffff","secondary":"#885213","on-error-container":"#93000a","tertiary-fixed-dim":"#ffb871","surface-dim":"#ddd9d4","on-surface-variant":"#444748","secondary-fixed":"#ffdcbf","inverse-surface":"#31302d","surface":"#fdf9f3","primary-fixed-dim":"#c8c6c5","inverse-on-surface":"#f4f0ea","tertiary-container":"#2d1600","on-tertiary-fixed":"#2d1600","surface-container":"#f1ede7","primary-fixed":"#e5e2e1","on-primary-container":"#858383"},"borderRadius":{"DEFAULT":"1rem","lg":"2rem","xl":"3rem","full":"9999px"},"spacing":{"margin-mobile":"1.25rem","space-2xl":"5rem","space-xs":"0.375rem","space-md":"1.25rem","margin":"3rem","gutter-mobile":"1rem","space-lg":"2rem","space-sm":"0.75rem","space-xl":"3.5rem","gutter":"1.5rem"},"fontFamily":{"headline-lg-mobile":["Epilogue"],"legal-sm":["Plus Jakarta Sans"],"body-md":["Plus Jakarta Sans"],"display-lg-mobile":["Epilogue"],"headline-lg":["Epilogue"],"headline-sm":["Plus Jakarta Sans"],"display-lg":["Epilogue"],"label-md":["Plus Jakarta Sans"],"body-lg":["Plus Jakarta Sans"],"label-sm":["Plus Jakarta Sans"],"body-sm":["Plus Jakarta Sans"],"headline-md":["Epilogue"]},"fontSize":{"headline-lg-mobile":["1.75rem",{"lineHeight":"1.2","letterSpacing":"-0.02em","fontWeight":"600"}],"legal-sm":["0.6875rem",{"lineHeight":"1.4","letterSpacing":"0.01em","fontWeight":"400"}],"body-md":["1rem",{"lineHeight":"1.5","letterSpacing":"0em","fontWeight":"400"}],"display-lg-mobile":["2.25rem",{"lineHeight":"1.15","letterSpacing":"-0.02em","fontWeight":"600"}],"headline-lg":["2.5rem",{"lineHeight":"1.15","letterSpacing":"-0.025em","fontWeight":"600"}],"headline-sm":["1.25rem",{"lineHeight":"1.35","letterSpacing":"-0.01em","fontWeight":"600"}],"display-lg":["3.5rem",{"lineHeight":"1.1","letterSpacing":"-0.03em","fontWeight":"600"}],"label-md":["0.875rem",{"lineHeight":"1.2","letterSpacing":"0.01em","fontWeight":"600"}],"body-lg":["1.125rem",{"lineHeight":"1.6","letterSpacing":"-0.005em","fontWeight":"400"}],"label-sm":["0.75rem",{"lineHeight":"1.15","letterSpacing":"0.02em","fontWeight":"600"}],"body-sm":["0.875rem",{"lineHeight":"1.45","letterSpacing":"0.005em","fontWeight":"400"}],"headline-md":["1.75rem",{"lineHeight":"1.25","letterSpacing":"-0.015em","fontWeight":"600"}]}}}};</script></head><body class="bg-surface font-body-md text-on-surface antialiased"><header class="fixed top-0 left-0 w-full z-50 bg-surface/90 backdrop-blur-md shadow-[0_1px_8px_rgba(0,0,0,0.04)]"><div class="h-16 w-full max-w-[1240px] mx-auto px-margin-mobile lg:px-margin flex items-center justify-between gap-gutter"><div class="flex items-center gap-space-xl"><a class="text-headline-md font-headline-md tracking-tight lowercase text-primary select-none flex items-center gap-1.5" data-path="home" href="#"><span class="font-bold tracking-normal uppercase text-[1.1rem]">Tava</span><span class="font-normal text-on-surface-variant text-[1.1rem]">Labs</span></a><nav class="hidden lg:flex items-center gap-space-lg" data-active-classes="text-primary font-bold"><a class="font-label-md text-label-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="treatments" href="#">Treatments</a><a aria-current="page" class="transition-colors text-primary font-bold" data-path="skincare" href="#">Skincare</a><a class="font-label-md text-label-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="serums" href="#">Serums</a><a class="font-label-md text-label-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="bio-actives" href="#">Bio-Actives</a><a class="font-label-md text-label-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="routine" href="#">Routine</a><a class="font-label-md text-label-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="clinical" href="#">Clinical Tests</a></nav></div><div class="flex items-center gap-space-md"><a class="hidden sm:inline-block font-label-md text-label-md text-on-surface-variant hover:text-on-surface px-space-sm py-space-xs transition-colors" data-path="login" href="#">Log in</a><a class="inline-flex items-center justify-center bg-primary text-on-primary font-label-md text-label-md px-space-md py-space-xs rounded-full hover:bg-primary/90 transition-all shadow-[0_8px_20px_-4px_rgba(20,20,20,0.2)]" data-path="onboarding-start" href="#">Add to Routine</a><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-on-primary text-[18px]">shopping_bag</span></div></div></div></header><main class="w-full pt-16 bg-surface min-h-[calc(100vh-4rem)]"><div class="flex flex-col w-full">
+<!-- 1. HERO SECTION (Split View) -->
+<section class="w-full max-w-[1240px] mx-auto px-margin-mobile lg:px-margin pt-6 pb-space-2xl">
+<!-- Breadcrumb -->
+<div class="flex items-center gap-2 text-on-surface-variant font-label-sm text-label-sm mb-4">
+<span>Catalog</span>
+<span class="text-outline-variant">/</span>
+<span class="text-on-surface font-semibold">PDRN Brightening Serum</span>
+</div>
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-space-xl items-start">
+<!-- Product Stage Gallery (Left 7 cols) -->
+<div class="lg:col-span-7 flex flex-col items-center">
+<div class="w-full relative bg-surface-container-low rounded-xl flex items-center justify-center p-6 lg:p-10 overflow-hidden aspect-square max-h-[580px]">
+<!-- Ambient warm radiant glow -->
+<div class="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(230,161,92,0.22)_0%,rgba(253,249,243,0)_70%)] pointer-events-none"></div>
+<img alt="PDRN Glow Brightening Serum Bottle" class="relative z-10 w-full max-h-[460px] object-contain mx-auto transition-all duration-300 drop-shadow-2xl" id="hero-main-img" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBiyEaTvqwE-vQwTw__8vN7BDitx-AFEpVSvEtvF1g-CTXlZ-Hhk0hLxrqPSeX9PdvSZ6xt-AKGlvNVxuTw4a4L_h7O91D0WT2wyTfMcjjIJnA-vJtZNO_On4S3JjLdgYslWyUwV_1Y6LacesiFmrjAixDq7VhYZtrLM1x8UjoVCF2VARTMn3C9Uy82L5pL2M-HZOPJ9as2Y1lcvIjFz8CtrGyHYtUa-6P9f6TNnWKTfGiZjJFJAyU"/>
+<!-- Floating FDA/Clean Skincare Badge -->
+<div class="absolute top-6 left-6 z-20 bg-surface/90 backdrop-blur-md px-3.5 py-1.5 rounded-full flex items-center gap-1.5 shadow-sm">
+<span class="material-symbols-outlined text-secondary text-[16px]">eco</span>
+<span class="font-label-sm text-label-sm text-on-surface uppercase tracking-wider">Clean &amp; Vegan • PDRN Active</span>
+</div>
+</div>
+<!-- Thumbnail Switcher Strip -->
+<div class="flex items-center justify-center gap-4 mt-6">
+<button aria-label="View Bottle" class="gallery-thumb active-thumb w-14 h-14 rounded-full bg-surface-container-lowest p-1 shadow-sm flex items-center justify-center transition-all bg-surface-container-high ring-2 ring-secondary" onclick="switchHeroImage('https://lh3.googleusercontent.com/aida-public/AB6AXuBiyEaTvqwE-vQwTw__8vN7BDitx-AFEpVSvEtvF1g-CTXlZ-Hhk0hLxrqPSeX9PdvSZ6xt-AKGlvNVxuTw4a4L_h7O91D0WT2wyTfMcjjIJnA-vJtZNO_On4S3JjLdgYslWyUwV_1Y6LacesiFmrjAixDq7VhYZtrLM1x8UjoVCF2VARTMn3C9Uy82L5pL2M-HZOPJ9as2Y1lcvIjFz8CtrGyHYtUa-6P9f6TNnWKTfGiZjJFJAyU', this)">
+<img alt="PDRN Glow Bottle" class="w-10 h-10 object-contain" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBiyEaTvqwE-vQwTw__8vN7BDitx-AFEpVSvEtvF1g-CTXlZ-Hhk0hLxrqPSeX9PdvSZ6xt-AKGlvNVxuTw4a4L_h7O91D0WT2wyTfMcjjIJnA-vJtZNO_On4S3JjLdgYslWyUwV_1Y6LacesiFmrjAixDq7VhYZtrLM1x8UjoVCF2VARTMn3C9Uy82L5pL2M-HZOPJ9as2Y1lcvIjFz8CtrGyHYtUa-6P9f6TNnWKTfGiZjJFJAyU"/>
+</button>
+<button aria-label="View Texture Drop" class="gallery-thumb w-14 h-14 rounded-full bg-surface-container-lowest p-1 shadow-sm flex items-center justify-center transition-all hover:bg-surface-container-high" onclick="switchHeroImage('https://lh3.googleusercontent.com/aida-public/AB6AXuB9X3p1u2jtrvNt1pElHT6C7c97Gpbfr-X-ZPCFA15Z3cyLsf013IK0pzr3Epy3RrqZsH2DF4-pxKUYSs-xgqZ8j2ZsPN8Pa7M8pe6rzh9637g8H7PQw2l2lPLnSUHBYHU9DX8LY-83kuFhp9tCVTOuihyjCPZNL_Bk6LXZHIHTPOyKoXXHoxlHoBnC_ukcJ27SlqabLODyqH8riXxKkdzDItw3anZi9CyAfgfPXXB9IpRheMWtAX0', this)">
+<img alt="Serum Texture" class="w-10 h-10 object-contain rounded-full" src="https://lh3.googleusercontent.com/aida-public/AB6AXuB9X3p1u2jtrvNt1pElHT6C7c97Gpbfr-X-ZPCFA15Z3cyLsf013IK0pzr3Epy3RrqZsH2DF4-pxKUYSs-xgqZ8j2ZsPN8Pa7M8pe6rzh9637g8H7PQw2l2lPLnSUHBYHU9DX8LY-83kuFhp9tCVTOuihyjCPZNL_Bk6LXZHIHTPOyKoXXHoxlHoBnC_ukcJ27SlqabLODyqH8riXxKkdzDItw3anZi9CyAfgfPXXB9IpRheMWtAX0"/>
+</button>
+<button aria-label="View Crystal Formula" class="gallery-thumb w-14 h-14 rounded-full bg-surface-container-lowest p-1 shadow-sm flex items-center justify-center transition-all hover:bg-surface-container-high" onclick="switchHeroImage('https://lh3.googleusercontent.com/aida-public/AB6AXuC_4bfQuiqy5xBitXMbBnBNdjQPyUJOV5X-DkwpyOnrsDhzfnQArC5m1ECTy_1a52jyxWDB5JSi8LmvoZmRZHfa7YIJsKkhqDbcYbAK8SlSTjWcpHVkUDNvm53feXT-hA9JwKM27gCrI_dt13-E4BTQrXi_gPVsQOx-mLj9jyw6OBbrZgXBx0gusE7F5LWysjePuk04bpDU_AJAnMLZ3vpRi4rhxyU5xifTqF6Gyv4aHGHhYOwNdXY', this)">
+<img alt="Crystal &amp; Formula" class="w-10 h-10 object-contain rounded-full" src="https://lh3.googleusercontent.com/aida-public/AB6AXuC_4bfQuiqy5xBitXMbBnBNdjQPyUJOV5X-DkwpyOnrsDhzfnQArC5m1ECTy_1a52jyxWDB5JSi8LmvoZmRZHfa7YIJsKkhqDbcYbAK8SlSTjWcpHVkUDNvm53feXT-hA9JwKM27gCrI_dt13-E4BTQrXi_gPVsQOx-mLj9jyw6OBbrZgXBx0gusE7F5LWysjePuk04bpDU_AJAnMLZ3vpRi4rhxyU5xifTqF6Gyv4aHGHhYOwNdXY"/>
+</button>
+<button aria-label="View Crystal Swatch" class="gallery-thumb w-14 h-14 rounded-full bg-surface-container-lowest p-1 shadow-sm flex items-center justify-center transition-all hover:bg-surface-container-high" onclick="switchHeroImage('https://lh3.googleusercontent.com/aida-public/AB6AXuCL6ipj4U5wqP4HN3jd7InGcvjS85-oCxUV0vsAgPjJym59dVGj7qkJjU5eCySoZrdI5aOMN4LgiRltCm8rZQBU35wfNGkYQedFeVH6xzGfb3ZLgRFI8xgv7zHX2KZlFJg1dFMSY4jS8Bl05jixjIPnS7K952QbRNJ0FQ-LQO0QEXsr07ZfCdCLztw1b0RWOWW0tsADC_1Lw4E9Y3VOZ_4FWfP1qdfevQZ281-UXie4xe8to3_l41o', this)">
+<img alt="Crystal Swatch" class="w-10 h-10 object-contain rounded-full" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCL6ipj4U5wqP4HN3jd7InGcvjS85-oCxUV0vsAgPjJym59dVGj7qkJjU5eCySoZrdI5aOMN4LgiRltCm8rZQBU35wfNGkYQedFeVH6xzGfb3ZLgRFI8xgv7zHX2KZlFJg1dFMSY4jS8Bl05jixjIPnS7K952QbRNJ0FQ-LQO0QEXsr07ZfCdCLztw1b0RWOWW0tsADC_1Lw4E9Y3VOZ_4FWfP1qdfevQZ281-UXie4xe8to3_l41o"/>
+</button>
+</div>
+</div>
+<!-- Hero Buy & Skincare Overview (Right 5 cols) -->
+<div class="lg:col-span-5 flex flex-col pt-2 lg:pt-4">
+<!-- Eyebrow Tag -->
+<div class="inline-flex items-center gap-1.5 bg-secondary-fixed/50 text-on-secondary-fixed-variant px-3 py-1 rounded-full self-start mb-4">
+<span class="font-label-sm text-label-sm uppercase tracking-wider font-semibold">✨ CLINICAL BIO-CELLULAR SKINCARE • CLEAN &amp; VEGAN</span>
+</div>
+<h1 class="font-headline-lg text-headline-lg text-on-surface tracking-tight mb-2">
+          PDRN Glow Brightening Serum
+        </h1>
+<div class="mb-5">
+<div class="flex items-baseline gap-2">
+<span class="font-headline-md text-headline-md text-on-surface font-bold">$28.00</span>
+<span class="font-body-md text-body-md text-on-surface-variant">/ 30ml (1 fl oz)</span>
+</div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block mt-0.5">Ships exclusively to US • Free shipping over $35</span>
+</div>
+<!-- High-Impact Value Prop Bullets -->
+<div class="flex flex-col gap-3 mb-8">
+<div class="flex items-start gap-3">
+<span class="text-secondary text-[18px] shrink-0 mt-0.5">✨</span>
+<p class="font-body-md text-body-md text-on-surface">
+              Formulated with <strong class="font-semibold">Polydeoxyribonucleotide (PDRN)</strong>, Acetyl Hexapeptide-8, and Hyaluronic Acid to enhance skin smoothness and radiant luminescence.
+            </p>
+</div>
+<div class="flex items-start gap-3">
+<span class="text-secondary text-[18px] shrink-0 mt-0.5">💧</span>
+<p class="font-body-md text-body-md text-on-surface">
+              Deep multi-depth hydration powered by <strong class="font-semibold">Glycerin, Sodium PCA, and soothing Panthenol</strong>.
+            </p>
+</div>
+<div class="flex items-start gap-3">
+<span class="text-secondary text-[18px] shrink-0 mt-0.5">🌿</span>
+<p class="font-body-md text-body-md text-on-surface">
+              100% Cruelty-free, fragrance-free, paraben-free, sulfate-free, mineral oil-free, silicone-free, and vegan.
+            </p>
+</div>
+</div>
+<!-- Main CTA Pill -->
+<a class="w-full inline-flex items-center justify-center bg-primary text-on-primary font-label-md text-label-md py-4 px-8 rounded-full hover:bg-primary/90 transition-all shadow-[0_12px_28px_-6px_rgba(20,20,20,0.25)] text-center font-semibold" href="#">
+          Add to Routine
+        </a>
+<!-- Safety Disclaimer Link -->
+<div class="text-center mt-3 mb-8">
+<a class="font-label-sm text-label-sm text-on-surface-variant underline hover:text-on-surface transition-colors" href="#formulation-clinical">
+            View full formulation and clinical tests
+          </a>
+</div>
+<!-- Interactive Quick Details Accordion Stack -->
+<div class="flex flex-col gap-2">
+<!-- Item 1 -->
+<div class="bg-surface-container-lowest rounded p-4 shadow-sm">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleAccordion('acc-hero-1')">
+<span class="font-headline-sm text-headline-sm text-on-surface text-[1.05rem]">Meet PDRN Brightening Serum</span>
+<span class="material-symbols-outlined text-on-surface-variant transition-transform duration-200" id="icon-acc-hero-1">expand_more</span>
+</button>
+<div class="hidden pt-3 text-on-surface-variant font-body-sm text-body-sm leading-relaxed" id="acc-hero-1">
+              A lightweight, hydrating formula designed to enhance the appearance of smooth, radiant skin. Rapidly absorbs without residue to provide immediate cellular comfort and luminous nourishment.
+            </div>
+</div>
+<!-- Item 2 -->
+<div class="bg-surface-container-lowest rounded p-4 shadow-sm">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleAccordion('acc-hero-2')">
+<span class="font-headline-sm text-headline-sm text-on-surface text-[1.05rem]">Ingredients &amp; Formulation</span>
+<span class="material-symbols-outlined text-on-surface-variant transition-transform duration-200" id="icon-acc-hero-2">expand_more</span>
+</button>
+<div class="hidden pt-3 text-on-surface-variant font-body-sm text-body-sm leading-relaxed" id="acc-hero-2">
+              Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin.
+            </div>
+</div>
+<!-- Item 3 -->
+<div class="bg-surface-container-lowest rounded p-4 shadow-sm">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleAccordion('acc-hero-3')">
+<span class="font-headline-sm text-headline-sm text-on-surface text-[1.05rem]">How to Apply</span>
+<span class="material-symbols-outlined text-on-surface-variant transition-transform duration-200" id="icon-acc-hero-3">expand_more</span>
+</button>
+<div class="hidden pt-3 text-on-surface-variant font-body-sm text-body-sm leading-relaxed" id="acc-hero-3">
+              Apply 2–4 drops to clean, dry skin. Massage gently over face and neck until absorbed. Use twice daily, morning and evening. Follow with moisturizer or sunscreen.
+            </div>
+</div>
+<!-- Item 4 -->
+<div class="bg-surface-container-lowest rounded p-4 shadow-sm">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleAccordion('acc-hero-4')">
+<span class="font-headline-sm text-headline-sm text-on-surface text-[1.05rem]">Clean Skincare Guarantee</span>
+<span class="material-symbols-outlined text-on-surface-variant transition-transform duration-200" id="icon-acc-hero-4">expand_more</span>
+</button>
+<div class="hidden pt-3 text-on-surface-variant font-body-sm text-body-sm leading-relaxed" id="acc-hero-4">
+              Certified Cruelty-Free, Fragrance-Free, Silicone-Free, Paraben-Free, Mineral Oil-Free, Sulfate-Free, Phthalate-Free, Allergen-Free. Dermatologist-tested on all skin types.
+            </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 2. FEATURE BANNER: CELLULAR INNOVATION -->
+<section class="w-full bg-surface-container-low py-space-2xl">
+<div class="w-full max-w-[1240px] mx-auto px-margin-mobile lg:px-margin">
+<!-- Section Header -->
+<div class="flex flex-col md:flex-row md:items-end justify-between mb-space-lg gap-4">
+<div>
+<span class="font-label-sm text-label-sm text-secondary uppercase tracking-widest block mb-2 font-bold">Cellular Innovation</span>
+<h2 class="font-headline-lg text-headline-lg text-on-surface">Next-Gen Skin Regeneration</h2>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1">Experience the power of marine bio-actives and targeted hexapeptides in daily topical therapy.</p>
+</div>
+<a class="inline-flex items-center justify-center bg-primary text-on-primary font-label-md text-label-md py-3 px-6 rounded-full hover:bg-primary/90 transition-all self-start md:self-auto shrink-0 shadow-sm" href="#">
+          Add to Routine
+        </a>
+</div>
+<!-- 3-Card Warm Narrative Grid -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+<!-- Card 1: Cellular Renewal -->
+<div class="group bg-surface rounded-xl p-8 flex flex-col justify-between shadow-sm hover:shadow-md transition-shadow relative overflow-hidden">
+<div class="flex flex-col mb-8">
+<span class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider mb-2 font-semibold">01 / CELLULAR RENEWAL</span>
+<h3 class="font-headline-md text-headline-md text-on-surface mb-3">PDRN Bio-Actives</h3>
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed">
+              Marine polydeoxyribonucleotide accelerates cellular turnover, revitalizing dull complexion and smoothing visible micro-texture.
+            </p>
+</div>
+<div class="relative w-full aspect-square flex items-center justify-center bg-surface-container rounded-lg overflow-hidden p-6">
+<div class="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(230,161,92,0.15)_0%,rgba(241,237,231,0)_70%)] pointer-events-none"></div>
+<img alt="Serum Texture" class="w-full h-48 object-contain rounded-xl relative z-10 transition-transform duration-500 group-hover:scale-105" src="https://lh3.googleusercontent.com/aida-public/AB6AXuB9X3p1u2jtrvNt1pElHT6C7c97Gpbfr-X-ZPCFA15Z3cyLsf013IK0pzr3Epy3RrqZsH2DF4-pxKUYSs-xgqZ8j2ZsPN8Pa7M8pe6rzh9637g8H7PQw2l2lPLnSUHBYHU9DX8LY-83kuFhp9tCVTOuihyjCPZNL_Bk6LXZHIHTPOyKoXXHoxlHoBnC_ukcJ27SlqabLODyqH8riXxKkdzDItw3anZi9CyAfgfPXXB9IpRheMWtAX0"/>
+</div>
+</div>
+<!-- Card 2: Bio-Peptide Complex -->
+<div class="group bg-surface rounded-xl p-8 flex flex-col justify-between shadow-sm hover:shadow-md transition-shadow relative overflow-hidden">
+<div class="flex flex-col mb-8">
+<span class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider mb-2 font-semibold">02 / BIO-PEPTIDE COMPLEX</span>
+<h3 class="font-headline-md text-headline-md text-on-surface mb-3">Acetyl Hexapeptide-8</h3>
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed">
+              Signal peptides help relax surface tension and support natural collagen elasticity for youthful bounce and firmer skin tone.
+            </p>
+</div>
+<div class="relative w-full aspect-square flex items-center justify-center bg-surface-container rounded-lg overflow-hidden p-6">
+<div class="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(253,181,110,0.2)_0%,rgba(241,237,231,0)_70%)] pointer-events-none"></div>
+<img alt="Crystal &amp; Formula" class="w-full h-48 object-contain rounded-xl relative z-10 transition-transform duration-500 group-hover:scale-105" src="https://lh3.googleusercontent.com/aida-public/AB6AXuC_4bfQuiqy5xBitXMbBnBNdjQPyUJOV5X-DkwpyOnrsDhzfnQArC5m1ECTy_1a52jyxWDB5JSi8LmvoZmRZHfa7YIJsKkhqDbcYbAK8SlSTjWcpHVkUDNvm53feXT-hA9JwKM27gCrI_dt13-E4BTQrXi_gPVsQOx-mLj9jyw6OBbrZgXBx0gusE7F5LWysjePuk04bpDU_AJAnMLZ3vpRi4rhxyU5xifTqF6Gyv4aHGHhYOwNdXY"/>
+</div>
+</div>
+<!-- Card 3: Multi-Depth Hydration -->
+<div class="group bg-surface rounded-xl p-8 flex flex-col justify-between shadow-sm hover:shadow-md transition-shadow relative overflow-hidden">
+<div class="flex flex-col mb-8">
+<span class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider mb-2 font-semibold">03 / MULTI-DEPTH HYDRATION</span>
+<h3 class="font-headline-md text-headline-md text-on-surface mb-3">Hydration Matrix</h3>
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed">
+              Synergistic blend of Hyaluronic Acid, Sodium PCA, and Panthenol locks in barrier moisture for over 24 hours.
+            </p>
+</div>
+<div class="relative w-full aspect-square flex items-center justify-center bg-surface-container rounded-lg overflow-hidden p-6">
+<div class="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(230,161,92,0.18)_0%,rgba(241,237,231,0)_70%)] pointer-events-none"></div>
+<img alt="Crystal Swatch" class="w-full h-48 object-contain rounded-xl relative z-10 transition-transform duration-500 group-hover:scale-105" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCL6ipj4U5wqP4HN3jd7InGcvjS85-oCxUV0vsAgPjJym59dVGj7qkJjU5eCySoZrdI5aOMN4LgiRltCm8rZQBU35wfNGkYQedFeVH6xzGfb3ZLgRFI8xgv7zHX2KZlFJg1dFMSY4jS8Bl05jixjIPnS7K952QbRNJ0FQ-LQO0QEXsr07ZfCdCLztw1b0RWOWW0tsADC_1Lw4E9Y3VOZ_4FWfP1qdfevQZ281-UXie4xe8to3_l41o"/>
+</div>
+</div>
+</div>
+<div class="mt-4">
+<span class="font-legal-sm text-legal-sm text-on-surface-variant/80">*Bio-cellular activity assessed via in vitro and ex vivo clinical evaluations. Results may vary by individual skin condition.</span>
+</div>
+</div>
+</section>
+<!-- 3. COMPLETE SKINCARE ECOSYSTEM SECTION -->
+<section class="w-full py-space-2xl bg-surface">
+<div class="w-full max-w-[1000px] mx-auto px-margin-mobile lg:px-margin text-center">
+<!-- Section Title & Subheading -->
+<span class="font-label-sm text-label-sm text-secondary uppercase tracking-widest font-bold">Holistic Care Ecosystem</span>
+<h2 class="font-headline-lg text-headline-lg text-on-surface mt-2 mb-3">
+        Get complete routine support
+      </h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant mb-12">
+        Along with your serum, every Tava Labs membership unlocks:
+      </p>
+<!-- Stacked Benefit Cards -->
+<div class="flex flex-col gap-3 max-w-[760px] mx-auto mb-10 text-left">
+<!-- Item 1 -->
+<div class="bg-surface-container-low rounded p-5 flex items-center justify-between shadow-sm hover:bg-surface-container transition-colors">
+<div class="flex items-center gap-4">
+<div class="w-10 h-10 rounded-full bg-secondary-fixed/50 flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-secondary text-[22px]">assignment_ind</span>
+</div>
+<span class="font-headline-sm text-headline-sm text-on-surface font-semibold text-[1.1rem]">A personalized skin diagnostic &amp; regimen guide</span>
+</div>
+<span class="material-symbols-outlined text-on-surface-variant/60">arrow_forward</span>
+</div>
+<!-- Item 2 -->
+<div class="bg-surface-container-low rounded p-5 flex items-center justify-between shadow-sm hover:bg-surface-container transition-colors">
+<div class="flex items-center gap-4">
+<div class="w-10 h-10 rounded-full bg-secondary-fixed/50 flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-secondary text-[22px]">forum</span>
+</div>
+<span class="font-headline-sm text-headline-sm text-on-surface font-semibold text-[1.1rem]">24/7 direct messaging with licensed estheticians and dermatology consultants</span>
+</div>
+<span class="material-symbols-outlined text-on-surface-variant/60">arrow_forward</span>
+</div>
+<!-- Item 3 -->
+<div class="bg-surface-container-low rounded p-5 flex items-center justify-between shadow-sm hover:bg-surface-container transition-colors">
+<div class="flex items-center gap-4">
+<div class="w-10 h-10 rounded-full bg-secondary-fixed/50 flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-secondary text-[22px]">groups</span>
+</div>
+<span class="font-headline-sm text-headline-sm text-on-surface font-semibold text-[1.1rem]">Exclusive access to private skincare community forums</span>
+</div>
+<span class="material-symbols-outlined text-on-surface-variant/60">arrow_forward</span>
+</div>
+<!-- Item 4 -->
+<div class="bg-surface-container-low rounded p-5 flex items-center justify-between shadow-sm hover:bg-surface-container transition-colors">
+<div class="flex items-center gap-4">
+<div class="w-10 h-10 rounded-full bg-secondary-fixed/50 flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-secondary text-[22px]">redeem</span>
+</div>
+<span class="font-headline-sm text-headline-sm text-on-surface font-semibold text-[1.1rem]">Member discounts on companion cleanser, barrier creams, and SPF</span>
+</div>
+<span class="material-symbols-outlined text-on-surface-variant/60">arrow_forward</span>
+</div>
+<!-- Item 5 -->
+<div class="bg-surface-container-low rounded p-5 flex items-center justify-between shadow-sm hover:bg-surface-container transition-colors">
+<div class="flex items-center gap-4">
+<div class="w-10 h-10 rounded-full bg-secondary-fixed/50 flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-secondary text-[22px]">event_repeat</span>
+</div>
+<span class="font-headline-sm text-headline-sm text-on-surface font-semibold text-[1.1rem]">Routine tracker and monthly auto-replenish delivery</span>
+</div>
+<span class="material-symbols-outlined text-on-surface-variant/60">arrow_forward</span>
+</div>
+</div>
+<!-- Action Button -->
+<a class="inline-flex items-center justify-center bg-primary text-on-primary font-label-md text-label-md py-4 px-10 rounded-full hover:bg-primary/90 transition-all shadow-[0_8px_20px_-4px_rgba(20,20,20,0.2)] font-semibold" href="#">
+        Add to Routine
+      </a>
+<!-- Fine Print -->
+<p class="font-legal-sm text-legal-sm text-on-surface-variant max-w-[700px] mx-auto mt-6 leading-relaxed">
+        Replenishment subscriptions can be paused, adjusted, or cancelled anytime directly in your account. Clean clinical formulations produced in FDA-registered, cGMP-certified facilities.
+      </p>
+</div>
+</section>
+<!-- 4. DARK / GOLDEN GRADIENT CLINICAL CARDS: "Look after your skin health with PDRN Glow" -->
+<section class="w-full bg-primary-container text-on-primary py-space-2xl relative overflow-hidden" id="formulation-clinical">
+<!-- Subtle ambient lighting -->
+<div class="absolute -top-40 -right-40 w-96 h-96 rounded-full bg-secondary/20 blur-[100px] pointer-events-none"></div>
+<div class="absolute -bottom-40 -left-40 w-96 h-96 rounded-full bg-secondary/10 blur-[100px] pointer-events-none"></div>
+<div class="w-full max-w-[1240px] mx-auto px-margin-mobile lg:px-margin relative z-10">
+<div class="flex flex-col md:flex-row md:items-end justify-between mb-space-xl gap-4">
+<div>
+<span class="font-label-sm text-label-sm text-secondary-fixed uppercase tracking-widest font-bold">Clinical Efficacy</span>
+<h2 class="font-headline-lg text-headline-lg text-on-primary mt-1">
+            Look after your skin health with PDRN Glow
+          </h2>
+</div>
+<a class="inline-flex items-center justify-center bg-surface-container-lowest text-primary font-label-md text-label-md py-3 px-6 rounded-full hover:bg-surface-container-high transition-all self-start md:self-auto shrink-0 font-semibold" href="#">
+          Add to Routine
+        </a>
+</div>
+<!-- 3 Dark Golden Feature Cards Grid -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+<!-- Card 1: Radiance -->
+<div class="bg-inverse-surface rounded-xl p-8 flex flex-col justify-between shadow-xl">
+<div>
+<div class="w-8 h-8 rounded-full bg-secondary-fixed/20 flex items-center justify-center mb-6">
+<span class="material-symbols-outlined text-secondary-fixed text-[18px]">flare</span>
+</div>
+<h3 class="font-headline-md text-headline-md text-on-primary mb-3">Promotes Radiance</h3>
+<p class="font-body-md text-body-md text-surface-container-highest/80 leading-relaxed mb-6">
+              PDRN and skin-loving peptides help support a brighter, more refreshed-looking complexion with regular daily use.
+            </p>
+</div>
+<div class="relative w-full aspect-square rounded-lg overflow-hidden bg-primary/40 flex items-center justify-center p-4"><img alt="Promotes Radiance diagram" class="w-full h-auto object-cover rounded-xl" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDu8gBbTr0C4s0S4K8tJGVYMEkgeuPCU8vGBrR_2wfiltBqc_cnc5t5tNfBlmsClRCTEVgTzmWr1zCiQd2ALdTbbZlRcNWWEAsxzHMPAdnw6GhfgmSUrdPnx0KvEz7qwmPWuzrbb9o4BN4aHXmf6xq9j6vjxbqEM6_PLQVTmtYfVvFlf8pezkaUMS8G11_W0YdZigZCa1_qFYEMkiuhm_w4iFsMPBirQunsXngcVTF0OHS-C4RqZss"/></div>
+</div>
+<!-- Card 2: Deep Hydration -->
+<div class="bg-inverse-surface rounded-xl p-8 flex flex-col justify-between shadow-xl">
+<div>
+<div class="w-8 h-8 rounded-full bg-secondary-fixed/20 flex items-center justify-center mb-6">
+<span class="material-symbols-outlined text-secondary-fixed text-[18px]">water_drop</span>
+</div>
+<h3 class="font-headline-md text-headline-md text-on-primary mb-3">Supports Deep Hydration</h3>
+<p class="font-body-md text-body-md text-surface-container-highest/80 leading-relaxed mb-6">
+              Hyaluronic acid, glycerin, and sodium PCA work together to attract and maintain moisture throughout the epidermal layer.
+            </p>
+</div>
+<div class="relative w-full aspect-square rounded-lg overflow-hidden bg-primary/40 flex items-center justify-center p-4"><img alt="Supports Deep Hydration diagram" class="w-full h-auto object-cover rounded-xl" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDaaU2lOvUKqf065RPSnzg2KDpxeJmIabW5yDVU0xQAGpap8SMR3wP5cakxe3JMN5WZ1a0A6A2z_CWv-9kdGclUb9r0IYU2aD2UGsgR9QF7-wvkwYTCPfyac33Lgo-7HjRoLKhqj4HBdWL9x4uIk_fhuZUIEHIRpuynoxemENEqzcKR5sxr7cpCQ6p5OzTKvFG5sAFLV4GF9rw8OieG4SfotXzlbo7yU8YHU_6fYvhMjqzC3hXG1eo"/></div>
+</div>
+<!-- Card 3: Skin Texture -->
+<div class="bg-inverse-surface rounded-xl p-8 flex flex-col justify-between shadow-xl">
+<div>
+<div class="w-8 h-8 rounded-full bg-secondary-fixed/20 flex items-center justify-center mb-6">
+<span class="material-symbols-outlined text-secondary-fixed text-[18px]">texture</span>
+</div>
+<h3 class="font-headline-md text-headline-md text-on-primary mb-3">Enhances Skin Texture</h3>
+<p class="font-body-md text-body-md text-surface-container-highest/80 leading-relaxed mb-6">
+              Panthenol and hydroxyethylcellulose help create a silky, refined surface that feels noticeably smoother and conditioned.
+            </p>
+</div>
+<div class="relative w-full aspect-square rounded-lg overflow-hidden bg-primary/40 flex items-center justify-center p-4"><img alt="Enhances Skin Texture diagram" class="w-full h-auto object-cover rounded-xl" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDH378L0c3lPggYdRZi95mQQJhhfuBLH5isNcuFQFJ4646oIPyyYE4aiBceNBp0xx6t3uT-j3w4MI88Y8S7BH8HNdeb2QIpGHVCYiuSZd_FCO7hBbRehhhC1U7GmQYEZ_oTdV_0RKEVXPtAY3tChA5lrJglWy9sZqI32qYt8qSyybn3K4Ut59pHeT3PoQjEK6GX65qhqCfbK9XgNhnGA2d4KXFo0swt4FSecDJt5weZ-la2HEMWOM8"/></div>
+</div>
+</div>
+<!-- Clinical References Citation -->
+<div class="mt-8 pt-6 border-t border-surface-container-highest/10">
+<p class="font-legal-sm text-legal-sm text-surface-container-highest/60 leading-relaxed">
+          Topical bio-active evaluations based on 8-week consumer perception and instrumental hydration tests. Individual skin barriers, genetics, and environment influence specific timelines and outcomes.
+        </p>
+</div>
+</div>
+</section>
+<!-- 5. TREATMENT OPTIONS COMPARISON MATRIX -->
+<section class="w-full bg-surface py-space-2xl">
+<div class="w-full max-w-[1240px] mx-auto px-margin-mobile lg:px-margin">
+<!-- Section Header -->
+<div class="max-w-[720px] mb-12">
+<span class="font-label-sm text-label-sm text-secondary uppercase tracking-widest font-bold">Comprehensive Formulary</span>
+<h2 class="font-headline-lg text-headline-lg text-on-surface mt-1 mb-3">
+          Which skincare treatment is right for you?
+        </h2>
+<p class="font-body-md text-body-md text-on-surface-variant">
+          We offer targeted formulas to fit various skin goals, concerns, and routines. Build a comprehensive regimen tailored to your cellular barrier.
+        </p>
+</div>
+<!-- 4 Comparison Cards Grid -->
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+<!-- Card 1: PDRN Glow Serum (Highlighted Target) -->
+<div class="bg-surface-container-lowest rounded-xl p-6 shadow-md flex flex-col justify-between relative ring-2 ring-secondary-container">
+<div class="absolute -top-3 left-6 bg-secondary text-on-secondary font-label-sm text-label-sm px-3 py-0.5 rounded-full font-bold">
+            CELLULAR BIO-ACTIVE
+          </div>
+<div>
+<div class="w-full h-40 bg-surface-container-low rounded-lg flex items-center justify-center p-3 mb-5">
+<img alt="PDRN Glow Serum" class="w-16 h-20 object-contain mx-auto" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBiyEaTvqwE-vQwTw__8vN7BDitx-AFEpVSvEtvF1g-CTXlZ-Hhk0hLxrqPSeX9PdvSZ6xt-AKGlvNVxuTw4a4L_h7O91D0WT2wyTfMcjjIJnA-vJtZNO_On4S3JjLdgYslWyUwV_1Y6LacesiFmrjAixDq7VhYZtrLM1x8UjoVCF2VARTMn3C9Uy82L5pL2M-HZOPJ9as2Y1lcvIjFz8CtrGyHYtUa-6P9f6TNnWKTfGiZjJFJAyU"/>
+</div>
+<h4 class="font-headline-sm text-headline-sm text-on-surface">PDRN Glow Serum</h4>
+<div class="mt-2 mb-4">
+<span class="font-label-sm text-label-sm text-on-surface-variant">Starts at</span>
+<div class="font-headline-md text-headline-md text-on-surface font-bold">$28<span class="font-body-sm text-body-sm font-normal text-on-surface-variant">/mo</span></div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block">Free US shipping</span>
+</div>
+<div class="space-y-2.5 pt-4 border-t border-surface-container">
+<div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block uppercase font-semibold">Primary Benefit</span>
+<span class="font-headline-sm text-headline-sm text-secondary font-bold text-[1.1rem]">Luminescence &amp; Firming</span>
+</div>
+<div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block uppercase font-semibold">How to take</span>
+<span class="font-body-sm text-body-sm text-on-surface font-medium">AM &amp; PM</span>
+</div>
+<div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block uppercase font-semibold">Active ingredient</span>
+<span class="font-body-sm text-body-sm text-on-surface font-medium">PDRN + Acetyl Hexapeptide-8</span>
+</div>
+</div>
+</div>
+<a class="mt-6 w-full py-2.5 px-4 bg-primary text-on-primary rounded-full font-label-md text-label-md text-center hover:bg-primary/90 transition-colors" href="#">
+            Select Serum
+          </a>
+</div>
+<!-- Card 2: Gentle Cleansing Gel -->
+<div class="bg-surface-container-low rounded-xl p-6 shadow-sm flex flex-col justify-between hover:shadow-md transition-shadow">
+<div>
+<div class="w-full h-40 bg-surface-container-lowest rounded-lg flex items-center justify-center p-3 mb-5">
+<div class="w-16 h-24 bg-surface-container-high rounded-full flex items-center justify-center shadow-inner">
+<span class="material-symbols-outlined text-on-surface-variant text-[36px]">soap</span>
+</div>
+</div>
+<h4 class="font-headline-sm text-headline-sm text-on-surface">Gentle Cleansing Gel</h4>
+<div class="mt-2 mb-4">
+<span class="font-label-sm text-label-sm text-on-surface-variant">Starts at</span>
+<div class="font-headline-md text-headline-md text-on-surface font-bold">$22<span class="font-body-sm text-body-sm font-normal text-on-surface-variant">/mo</span></div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block">Free US shipping</span>
+</div>
+<div class="space-y-2.5 pt-4 border-t border-surface-container-high">
+<div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block uppercase font-semibold">Primary Benefit</span>
+<span class="font-headline-sm text-headline-sm text-secondary font-bold text-[1.1rem]">Purifying &amp; Barrier</span>
+</div>
+<div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block uppercase font-semibold">How to take</span>
+<span class="font-body-sm text-body-sm text-on-surface font-medium">AM &amp; PM</span>
+</div>
+<div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block uppercase font-semibold">Active ingredient</span>
+<span class="font-body-sm text-body-sm text-on-surface font-medium">Amino Surfactants + Green Tea</span>
+</div>
+</div>
+</div>
+<a class="mt-6 w-full py-2.5 px-4 bg-surface-container-highest text-on-surface rounded-full font-label-md text-label-md text-center hover:bg-surface-dim transition-colors" href="#">
+            Learn More
+          </a>
+</div>
+<!-- Card 3: Watermelon Hydration Moisturizer -->
+<div class="bg-surface-container-low rounded-xl p-6 shadow-sm flex flex-col justify-between hover:shadow-md transition-shadow">
+<div>
+<div class="w-full h-40 bg-surface-container-lowest rounded-lg flex items-center justify-center p-3 mb-5">
+<div class="w-16 h-20 bg-surface-container-high rounded-xl flex items-center justify-center shadow-inner">
+<span class="material-symbols-outlined text-on-surface-variant text-[36px]">spa</span>
+</div>
+</div>
+<h4 class="font-headline-sm text-headline-sm text-on-surface">Watermelon Moisturizer</h4>
+<div class="mt-2 mb-4">
+<span class="font-label-sm text-label-sm text-on-surface-variant">Starts at</span>
+<div class="font-headline-md text-headline-md text-on-surface font-bold">$26<span class="font-body-sm text-body-sm font-normal text-on-surface-variant">/mo</span></div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block">Free US shipping</span>
+</div>
+<div class="space-y-2.5 pt-4 border-t border-surface-container-high">
+<div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block uppercase font-semibold">Primary Benefit</span>
+<span class="font-headline-sm text-headline-sm text-secondary font-bold text-[1.1rem]">Lightweight Barrier</span>
+</div>
+<div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block uppercase font-semibold">How to take</span>
+<span class="font-body-sm text-body-sm text-on-surface font-medium">AM &amp; PM</span>
+</div>
+<div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block uppercase font-semibold">Active ingredient</span>
+<span class="font-body-sm text-body-sm text-on-surface font-medium">Watermelon Extract &amp; Ceramides</span>
+</div>
+</div>
+</div>
+<a class="mt-6 w-full py-2.5 px-4 bg-surface-container-highest text-on-surface rounded-full font-label-md text-label-md text-center hover:bg-surface-dim transition-colors" href="#">
+            Learn More
+          </a>
+</div>
+<!-- Card 4: 10% Niacinamide Serum -->
+<div class="bg-surface-container-low rounded-xl p-6 shadow-sm flex flex-col justify-between hover:shadow-md transition-shadow">
+<div>
+<div class="w-full h-40 bg-surface-container-lowest rounded-lg flex items-center justify-center p-3 mb-5">
+<div class="w-16 h-24 bg-surface-container-high rounded-full flex items-center justify-center shadow-inner">
+<span class="material-symbols-outlined text-on-surface-variant text-[32px]">science</span>
+</div>
+</div>
+<h4 class="font-headline-sm text-headline-sm text-on-surface">10% Niacinamide Serum</h4>
+<div class="mt-2 mb-4">
+<span class="font-label-sm text-label-sm text-on-surface-variant">Starts at</span>
+<div class="font-headline-md text-headline-md text-on-surface font-bold">$24<span class="font-body-sm text-body-sm font-normal text-on-surface-variant">/mo</span></div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block">Free US shipping</span>
+</div>
+<div class="space-y-2.5 pt-4 border-t border-surface-container-high">
+<div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block uppercase font-semibold">Primary Benefit</span>
+<span class="font-headline-sm text-headline-sm text-secondary font-bold text-[1.1rem]">Pore Refining &amp; Balance</span>
+</div>
+<div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block uppercase font-semibold">How to take</span>
+<span class="font-body-sm text-body-sm text-on-surface font-medium">AM &amp; PM</span>
+</div>
+<div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant block uppercase font-semibold">Active ingredient</span>
+<span class="font-body-sm text-body-sm text-on-surface font-medium">Niacinamide + Zinc PCA</span>
+</div>
+</div>
+</div>
+<a class="mt-6 w-full py-2.5 px-4 bg-surface-container-highest text-on-surface rounded-full font-label-md text-label-md text-center hover:bg-surface-dim transition-colors" href="#">
+            Learn More
+          </a>
+</div>
+</div>
+</div>
+</section>
+<!-- 6. USAGE PROTOCOL & ROUTINE STEPS SECTION -->
+<section class="w-full bg-surface-container-low py-space-2xl">
+<div class="w-full max-w-[1240px] mx-auto px-margin-mobile lg:px-margin">
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-space-xl items-center">
+<!-- Text & Routine Accordion (Left 6 cols) -->
+<div class="lg:col-span-6 flex flex-col">
+<span class="font-label-sm text-label-sm text-secondary uppercase tracking-widest font-bold mb-2">Daily Regimen Protocol</span>
+<h2 class="font-headline-lg text-headline-lg text-on-surface mb-4">
+            Simple daily routine, <span class="text-secondary font-headline-lg">maximum radiant results</span>
+</h2>
+<p class="font-body-md text-body-md text-on-surface-variant mb-8 leading-relaxed">
+            Consistent application of bio-active peptides and PDRN enhances dermal receptivity. Follow our sequential protocol morning and evening to lock in active radiance.
+          </p>
+<!-- Dosing / Step Accordion List -->
+<div class="flex flex-col gap-2.5">
+<!-- Step 1 -->
+<div class="bg-surface rounded-lg p-4 shadow-sm">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleAccordion('step-acc-1')">
+<div class="flex items-center gap-3">
+<span class="w-7 h-7 rounded-full bg-secondary-fixed/40 text-on-secondary-fixed font-label-sm text-label-sm flex items-center justify-center font-bold">1</span>
+<span class="font-headline-sm text-headline-sm text-on-surface font-semibold text-[1.05rem]">Step 1: Cleanse</span>
+</div>
+<div class="flex items-center gap-3">
+<span class="bg-surface-container px-3 py-1 rounded-full font-label-sm text-label-sm font-bold text-on-surface">Gentle Wash</span>
+<span class="material-symbols-outlined text-on-surface-variant transition-transform" id="icon-step-acc-1">expand_more</span>
+</div>
+</button>
+<div class="hidden pt-3 text-on-surface-variant font-body-sm text-body-sm leading-relaxed pl-10" id="step-acc-1">
+                Cleanse thoroughly with a pH-balanced gentle wash to remove debris and prepare skin surface without stripping essential lipids.
+              </div>
+</div>
+<!-- Step 2 -->
+<div class="bg-surface rounded-lg p-4 shadow-sm">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleAccordion('step-acc-2')">
+<div class="flex items-center gap-3">
+<span class="w-7 h-7 rounded-full bg-secondary-fixed/40 text-on-secondary-fixed font-label-sm text-label-sm flex items-center justify-center font-bold">2</span>
+<span class="font-headline-sm text-headline-sm text-on-surface font-semibold text-[1.05rem]">Step 2: PDRN Serum</span>
+</div>
+<div class="flex items-center gap-3">
+<span class="bg-surface-container px-3 py-1 rounded-full font-label-sm text-label-sm font-bold text-on-surface">2–4 Drops</span>
+<span class="material-symbols-outlined text-on-surface-variant transition-transform" id="icon-step-acc-2">expand_more</span>
+</div>
+</button>
+<div class="hidden pt-3 text-on-surface-variant font-body-sm text-body-sm leading-relaxed pl-10" id="step-acc-2">
+                Apply 2–4 drops of PDRN Serum onto damp skin. Gently press and pat over face and neck until thoroughly absorbed.
+              </div>
+</div>
+<!-- Step 3 -->
+<div class="bg-surface rounded-lg p-4 shadow-sm">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleAccordion('step-acc-3')">
+<div class="flex items-center gap-3">
+<span class="w-7 h-7 rounded-full bg-secondary-fixed/40 text-on-secondary-fixed font-label-sm text-label-sm flex items-center justify-center font-bold">3</span>
+<span class="font-headline-sm text-headline-sm text-on-surface font-semibold text-[1.05rem]">Step 3: Moisturize</span>
+</div>
+<div class="flex items-center gap-3">
+<span class="bg-surface-container px-3 py-1 rounded-full font-label-sm text-label-sm font-bold text-on-surface">Hydrate</span>
+<span class="material-symbols-outlined text-on-surface-variant transition-transform" id="icon-step-acc-3">expand_more</span>
+</div>
+</button>
+<div class="hidden pt-3 text-on-surface-variant font-body-sm text-body-sm leading-relaxed pl-10" id="step-acc-3">
+                Seal with Watermelon Hydration Moisturizer to trap the peptide complexes and reinforce ceramide barrier integrity.
+              </div>
+</div>
+<!-- Step 4 -->
+<div class="bg-surface rounded-lg p-4 shadow-sm">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleAccordion('step-acc-4')">
+<div class="flex items-center gap-3">
+<span class="w-7 h-7 rounded-full bg-secondary text-on-secondary font-label-sm text-label-sm flex items-center justify-center font-bold">4</span>
+<span class="font-headline-sm text-headline-sm text-on-surface font-semibold text-[1.05rem]">Step 4: Protect (AM)</span>
+</div>
+<div class="flex items-center gap-3">
+<span class="bg-secondary-container text-on-secondary-container px-3 py-1 rounded-full font-label-sm text-label-sm font-bold">SPF 30+</span>
+<span class="material-symbols-outlined text-on-surface-variant transition-transform" id="icon-step-acc-4">expand_more</span>
+</div>
+</button>
+<div class="hidden pt-3 text-on-surface-variant font-body-sm text-body-sm leading-relaxed pl-10" id="step-acc-4">
+                Finish morning routine with broad-spectrum SPF 30+ to protect newly energized skin cells against UV and free radical damage.
+              </div>
+</div>
+<!-- 24/7 Consultation Access -->
+<div class="bg-surface rounded-lg p-4 shadow-sm flex items-center justify-between">
+<div class="flex items-center gap-3">
+<span class="material-symbols-outlined text-secondary text-[22px]">health_and_safety</span>
+<span class="font-headline-sm text-headline-sm text-on-surface font-semibold text-[1.05rem]">Licensed esthetician consultations</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant font-semibold">Included</span>
+</div>
+</div>
+</div>
+<!-- Routine Graphic Card (Right 6 cols) -->
+<div class="lg:col-span-6 flex flex-col items-center">
+<div class="w-full bg-surface rounded-xl p-8 shadow-sm relative overflow-hidden flex flex-col justify-between">
+<div class="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(230,161,92,0.15)_0%,transparent_60%)] pointer-events-none"></div>
+<div class="relative z-10 w-full mb-6">
+<span class="font-label-sm text-label-sm text-secondary uppercase tracking-widest font-bold block mb-1">Clinical Progression</span>
+<h3 class="font-headline-md text-headline-md text-on-surface mb-2">Visible Results Timeline</h3>
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed">
+            Enhanced glow and hydration in 7–14 days; improved skin elasticity and barrier firmness by week 4–6.
+          </p>
+</div>
+<div class="w-full aspect-[4/3] rounded-lg overflow-hidden bg-surface-container-low flex items-center justify-center p-6 relative z-10"><img alt="Visible Results Timeline curve" class="w-full h-auto object-contain rounded-2xl shadow-sm" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDPZtCpTNifOUYUxq6YMx8z8VkY6Hxk1Ag1dwNynKLqxRV8oOIoyw6oYJcVKypSGUTK6fDjGmSj_SXkqGq5Ovh1tVQB5rcldskAfkfXvho2QUSsh8Fwc0WsD6OSLyEDPq4sAe4qlKkWOY48lrtmCv-EM2GC9LN8Z8PyzqIFNx2nUyTwtxty3eryNmMGrmjtt6rXb_6nyyrLT6TYW3RrBBCuYh1G71Tr6L8ih4DIZ4VrK5SOCrF-wOs"/></div>
+<div class="mt-6 pt-4 border-t border-surface-container flex items-center justify-between relative z-10">
+<div class="flex items-center gap-2">
+<span class="w-3 h-3 rounded-full bg-secondary-container"></span>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant">Cellular absorption rate verified</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface font-semibold">Tava Labs Certified</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 7. FREQUENTLY ASKED QUESTIONS -->
+<section class="w-full bg-surface py-space-2xl">
+<div class="w-full max-w-[1000px] mx-auto px-margin-mobile lg:px-margin">
+<div class="flex flex-col md:flex-row md:items-end justify-between mb-space-lg gap-4">
+<div>
+<span class="font-label-sm text-label-sm text-secondary uppercase tracking-widest font-bold">Answers &amp; Clarity</span>
+<h2 class="font-headline-lg text-headline-lg text-on-surface mt-1">Frequently asked questions</h2>
+</div>
+<a class="inline-flex items-center justify-center bg-surface-container-high text-on-surface font-label-md text-label-md py-2.5 px-6 rounded-full hover:bg-surface-dim transition-all self-start md:self-auto shrink-0 font-semibold" href="#">
+          View all FAQs
+        </a>
+</div>
+<!-- FAQ Accordion Stack -->
+<div class="flex flex-col gap-3">
+<!-- Q1 -->
+<div class="bg-surface-container-lowest rounded-lg p-5 shadow-sm">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleAccordion('faq-1')">
+<span class="font-headline-sm text-headline-sm text-on-surface text-[1.1rem]">What is PDRN and how does it benefit the skin?</span>
+<span class="material-symbols-outlined text-on-surface-variant transition-transform" id="icon-faq-1">expand_more</span>
+</button>
+<div class="hidden pt-4 text-on-surface-variant font-body-md text-body-md leading-relaxed border-t border-surface-container mt-3" id="faq-1">
+            PDRN (Polydeoxyribonucleotide) consists of DNA fragments bio-compatible with human skin cells. It acts as an energetic activator that promotes natural cellular regeneration, stimulates microcirculation, and helps repair damaged skin barriers for noticeable radiance and youthful firmness.
+          </div>
+</div>
+<!-- Q2 -->
+<div class="bg-surface-container-lowest rounded-lg p-5 shadow-sm">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleAccordion('faq-2')">
+<span class="font-headline-sm text-headline-sm text-on-surface text-[1.1rem]">How do I incorporate PDRN Glow into my skincare routine?</span>
+<span class="material-symbols-outlined text-on-surface-variant transition-transform" id="icon-faq-2">expand_more</span>
+</button>
+<div class="hidden pt-4 text-on-surface-variant font-body-md text-body-md leading-relaxed border-t border-surface-container mt-3" id="faq-2">
+            Use PDRN Glow twice daily after cleansing and toning. Dispense 2–4 drops directly onto fingertips or damp skin, smoothing across the face, neck, and décolletage. Follow with your preferred moisturizer and morning sunscreen.
+          </div>
+</div>
+<!-- Q3 -->
+<div class="bg-surface-container-lowest rounded-lg p-5 shadow-sm">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleAccordion('faq-3')">
+<span class="font-headline-sm text-headline-sm text-on-surface text-[1.1rem]">Is this serum suitable for sensitive and acne-prone skin?</span>
+<span class="material-symbols-outlined text-on-surface-variant transition-transform" id="icon-faq-3">expand_more</span>
+</button>
+<div class="hidden pt-4 text-on-surface-variant font-body-md text-body-md leading-relaxed border-t border-surface-container mt-3" id="faq-3">
+            Yes. Our formulation is non-comedogenic, oil-free, fragrance-free, and enriched with soothing Panthenol. It calms sensitivity while hydrating deeply without clogging pores or triggering irritation.
+          </div>
+</div>
+<!-- Q4 -->
+<div class="bg-surface-container-lowest rounded-lg p-5 shadow-sm">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleAccordion('faq-4')">
+<span class="font-headline-sm text-headline-sm text-on-surface text-[1.1rem]">Can I layer PDRN with retinol, vitamin C, or AHA/BHA?</span>
+<span class="material-symbols-outlined text-on-surface-variant transition-transform" id="icon-faq-4">expand_more</span>
+</button>
+<div class="hidden pt-4 text-on-surface-variant font-body-md text-body-md leading-relaxed border-t border-surface-container mt-3" id="faq-4">
+            Absolutely. PDRN works synergistically with active treatments like Retinoids and Vitamin C. Its restorative hydration matrix actually helps soothe and counterbalance potential flaking or redness associated with chemical exfoliants.
+          </div>
+</div>
+<!-- Q5 -->
+<div class="bg-surface-container-lowest rounded-lg p-5 shadow-sm">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleAccordion('faq-5')">
+<span class="font-headline-sm text-headline-sm text-on-surface text-[1.1rem]">How long does one 30ml bottle typically last?</span>
+<span class="material-symbols-outlined text-on-surface-variant transition-transform" id="icon-faq-5">expand_more</span>
+</button>
+<div class="hidden pt-4 text-on-surface-variant font-body-md text-body-md leading-relaxed border-t border-surface-container mt-3" id="faq-5">
+            When applied at 2–4 drops twice daily, one 30ml (1 fl oz) bottle typically lasts 4 to 6 weeks. Our auto-replenish membership ensures your next bottle arrives precisely when you need it.
+          </div>
+</div>
+</div>
+</div>
+</section>
+<!-- Final Sticky / Prominent Bottom Action Bar -->
+<section class="w-full bg-surface-container-lowest py-8 border-t border-surface-container">
+<div class="w-full max-w-[1240px] mx-auto px-margin-mobile lg:px-margin flex flex-col sm:flex-row items-center justify-between gap-4">
+<div class="flex items-center gap-4">
+<img alt="PDRN Glow Brightening Serum" class="w-12 h-12 object-contain" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBiyEaTvqwE-vQwTw__8vN7BDitx-AFEpVSvEtvF1g-CTXlZ-Hhk0hLxrqPSeX9PdvSZ6xt-AKGlvNVxuTw4a4L_h7O91D0WT2wyTfMcjjIJnA-vJtZNO_On4S3JjLdgYslWyUwV_1Y6LacesiFmrjAixDq7VhYZtrLM1x8UjoVCF2VARTMn3C9Uy82L5pL2M-HZOPJ9as2Y1lcvIjFz8CtrGyHYtUa-6P9f6TNnWKTfGiZjJFJAyU"/>
+<div>
+<div class="font-headline-sm text-headline-sm text-on-surface font-bold">Ready for radiant, revitalized skin? • PDRN Glow Brightening Serum</div>
+<span class="font-legal-sm text-legal-sm text-on-surface-variant">Clean &amp; Vegan • Deep Hydration • Cancel anytime</span>
+</div>
+</div>
+<a class="w-full sm:w-auto inline-flex items-center justify-center bg-primary text-on-primary font-label-md text-label-md py-3.5 px-8 rounded-full hover:bg-primary/90 transition-all font-semibold shadow-md" href="#">
+        Add to Routine
+      </a>
+</div>
+</section>
+</div>
+<!-- Inline JavaScript for Interactivity -->
+<script>
+  function switchHeroImage(src, element) {
+    var heroImg = document.getElementById('hero-main-img');
+    if (heroImg) {
+      heroImg.style.opacity = '0';
+      setTimeout(function() {
+        heroImg.src = src;
+        heroImg.style.opacity = '1';
+      }, 150);
+    }
+    
+    // Update active thumbnail styles
+    var thumbs = document.querySelectorAll('.gallery-thumb');
+    thumbs.forEach(function(t) {
+      t.classList.remove('bg-surface-container-high', 'ring-2', 'ring-secondary');
+    });
+    element.classList.add('bg-surface-container-high', 'ring-2', 'ring-secondary');
+  }
+
+  function toggleAccordion(id) {
+    var content = document.getElementById(id);
+    var icon = document.getElementById('icon-' + id);
+    if (!content) return;
+    
+    if (content.classList.contains('hidden')) {
+      content.classList.remove('hidden');
+      if (icon) icon.style.transform = 'rotate(180deg)';
+    } else {
+      content.classList.add('hidden');
+      if (icon) icon.style.transform = 'rotate(0deg)';
+    }
+  }
+</script></main><footer class="w-full bg-primary-container text-surface-container-high pt-space-2xl pb-space-xl"><div class="w-full max-w-[1240px] mx-auto px-margin-mobile lg:px-margin"><div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-space-lg mb-space-2xl"><div class="flex flex-col gap-space-sm"><span class="font-label-md text-label-md text-on-primary uppercase tracking-wider">Learn</span><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="clinical-approach" href="#">Clinical Excellence</a><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="medical-experts" href="#">Dermatologists</a><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="science-reviews" href="#">PDRN Research</a><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="editorial-journal" href="#">Skin Science</a></div><div class="flex flex-col gap-space-sm"><span class="font-label-md text-label-md text-on-primary uppercase tracking-wider">Formulas</span><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="pdrn-glow" href="#">PDRN Glow Serum</a><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="cleanser" href="#">Cleansing Gel</a><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="moisturizer" href="#">Watermelon Barrier</a><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="niacinamide" href="#">10% Niacinamide</a><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="spf" href="#">Mineral SPF 30+</a></div><div class="flex flex-col gap-space-sm"><span class="font-label-md text-label-md text-on-primary uppercase tracking-wider">Tava Labs</span><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="about" href="#">About Us</a><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="careers" href="#">Careers</a><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="sustainability" href="#">Sustainability</a><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="press" href="#">Press</a><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="contact" href="#">Help &amp; Contact</a></div><div class="flex flex-col gap-space-sm"><span class="font-label-md text-label-md text-on-primary uppercase tracking-wider">Legal</span><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="terms-of-service" href="#">Terms of Service</a><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="privacy-policy" href="#">Privacy Policy</a><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="clean-standards" href="#">Clean Standards</a><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="consumer-privacy" href="#">Consumer Privacy</a><a class="font-body-sm text-body-sm text-surface-container-highest hover:text-on-primary transition-colors" data-path="shipping-returns" href="#">Shipping &amp; Returns</a></div><div class="col-span-2 md:col-span-4 lg:col-span-1 flex flex-col gap-space-md"><div class="bg-primary-container p-space-sm rounded border border-surface-container-highest/20 flex items-center gap-space-sm"><span class="material-symbols-outlined text-secondary-fixed text-[24px]">verified</span><div><div class="font-label-sm text-label-sm text-on-primary font-bold">Leaping Bunny Certified</div><div class="font-legal-sm text-legal-sm text-surface-container-highest">100% Cruelty-Free &amp; Vegan</div></div></div><div class="flex items-center gap-space-sm text-surface-container-highest"><a class="p-space-xs hover:text-on-primary transition-colors" href="#"><span class="material-symbols-outlined text-[20px]">chat_bubble</span></a><a class="p-space-xs hover:text-on-primary transition-colors" href="#"><span class="material-symbols-outlined text-[20px]">photo_camera</span></a><a class="p-space-xs hover:text-on-primary transition-colors" href="#"><span class="material-symbols-outlined text-[20px]">brand_awareness</span></a></div></div></div><div class="pt-space-lg mb-space-xl"><p class="font-legal-sm text-legal-sm text-on-primary-container leading-relaxed mb-space-sm">*These statements have not been evaluated by the Food and Drug Administration. This cosmetic skincare product is not intended to diagnose, treat, cure, or prevent any medical skin disease. Individual results may vary.</p><p class="font-legal-sm text-legal-sm text-on-primary-container leading-relaxed">Formulated and distributed by Tava Labs Inc. All rights reserved.</p></div><div class="relative flex flex-col md:flex-row items-center justify-between pt-space-md border-t border-surface-container-highest/10"><span class="font-display-lg text-display-lg font-bold tracking-tighter text-surface-container-highest/5 select-none uppercase pointer-events-none absolute -top-8 left-0 hidden md:block">tava labs</span><span class="font-legal-sm text-legal-sm text-on-primary-container relative z-10">© 2025 Tava Labs, Inc. All rights reserved.</span><div class="flex items-center gap-space-md mt-space-sm md:mt-0 relative z-10"><span class="font-legal-sm text-legal-sm text-on-primary-container flex items-center gap-1"><span class="material-symbols-outlined text-[14px] text-secondary-fixed">lock</span>256-bit Secure Checkout</span></div></div></div></footer></body></html>
