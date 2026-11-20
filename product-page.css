@@ -297,6 +297,8 @@ body.pp-body{margin:0;background:var(--pp-bg);color:var(--pp-text);
 }
 
 /* Tava chrome color: menu and footer in forest green */
+:root{--forest:#08251D;--forest-deep:#08251D}
 .header{background:#08251D!important}
-.footer,.footer__desktop,.footer__mobile{background:#08251D!important;background-image:none!important}
+.footer,.footer__desktop,.footer__desktop.is--desktop,.footer__mobile,.footer__mobile.is--mobile{background:#08251D!important;background-image:none!important}
 .nav__dropdown__list,.nav__dropdown__list__wrap{background:#08251D!important;background-image:none!important}
+.footer-submit-button{background:#08251D!important}
