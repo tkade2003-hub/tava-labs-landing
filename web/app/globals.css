@@ -1,0 +1,5 @@
+/* Tailwind CSS utilities, used for the application shell and new pages.
+   The ported pages keep their own preserved stylesheets (tava-webflow.css,
+   blog.css, styles.css, product-page.css), so the Tailwind preflight reset
+   is intentionally not imported: it would alter the existing design. */
+@import "tailwindcss/utilities.css";
