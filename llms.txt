@@ -1,10 +1,10 @@
 # Tava Labs
 
-> Tava Labs is skincare for the ambitious. The company makes one product, the Glow Brightening Serum, a daily complexion routine for founders and professionals who pitch, present, and record every day. Your appearance is part of your professional presence.
+> Tava Labs is skincare for the ambitious. The company makes one product, the PDRN Brightening Serum, a daily complexion routine for founders and professionals who pitch, present, and record every day. Your appearance is part of your professional presence.
 
 ## Product
 
-- [Glow Brightening Serum](https://tavalabs.app/): The Glow Brightening Serum costs 49 dollars as a one time purchase or 39 dollars per month as a subscription. Key ingredients are PDRN, peptides, and hyaluronic acid. Apply daily, twice a day.
+- [PDRN Brightening Serum](https://tavalabs.app/): The PDRN Brightening Serum costs 49 dollars as a one time purchase or 39 dollars per month as a subscription. Key ingredients are PDRN, peptides, and hyaluronic acid. Apply daily, twice a day.
 - [Ingredients](https://tavalabs.app/ingredients.html): The full ingredient list and what each key ingredient does.
 - [Skin Quiz](https://tavalabs.app/quiz.html): Answer a few questions and build a personal founder maintenance plan, then check out from the plan.
 
