@@ -255,12 +255,15 @@ body.pp-body{margin:0;background:var(--pp-bg);color:var(--pp-text);
   .pp-cards4{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;
     gap:14px;padding-bottom:10px;scrollbar-width:none}
   .pp-cards4::-webkit-scrollbar{display:none}
-  .pp-cards4>*{flex:0 0 42%;min-width:0;scroll-snap-align:start}
-  .pp-compare{padding:12px}
-  .pp-compare-img{height:84px}
-  .pp-compare h3{font-size:16px;margin-top:12px}
-  .pp-compare .pp-amount{font-size:19px}
-  .pp-compare dl{font-size:12px}
+  .pp-cards4>*{flex:0 0 36%;min-width:0;scroll-snap-align:start}
+  .pp-compare{padding:10px}
+  .pp-compare-img{height:68px}
+  .pp-compare h3{font-size:14px;margin-top:10px}
+  .pp-compare .pp-amount{font-size:16px}
+  .pp-compare .pp-starts{font-size:11px;margin-top:8px}
+  .pp-compare dl{font-size:11px;margin:10px 0 12px}
+  .pp-compare .pp-btn{padding:10px 12px;font-size:12px}
+  .pp-compare-badge{font-size:10px;padding:4px 8px}
   .pp-cards3,.pp-shots{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;
     gap:16px;padding-bottom:10px;scrollbar-width:none}
   .pp-cards3::-webkit-scrollbar,.pp-shots::-webkit-scrollbar{display:none}
