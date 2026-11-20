@@ -203,9 +203,10 @@ body.pp-body{margin:0;background:var(--pp-bg);color:var(--pp-text);
 .pp-timeline img{width:100%;border-radius:20px;margin-top:22px;display:block}
 .pp-graph{position:relative;margin-top:22px}
 .pp-graph img{position:relative;margin-top:0}
-.pp-timeline::before{content:"";position:absolute;inset:-14px;border-radius:38px;z-index:-1;
-  background:radial-gradient(closest-side,rgba(233,164,54,.55),rgba(233,164,54,.26) 55%,rgba(233,164,54,0) 78%);
-  filter:blur(18px)}
+.pp-timeline::before{content:"";position:absolute;left:28px;right:28px;bottom:-16px;
+  height:44px;border-radius:50%;z-index:-1;
+  background:radial-gradient(closest-side,rgba(216,178,90,.65),rgba(216,178,90,0) 78%);
+  filter:blur(16px)}
 .pp-steps-acc{margin-top:36px}
 .pp-acc-left{display:flex;align-items:center;gap:14px;text-align:left}
 .pp-acc-right{display:flex;align-items:center;gap:12px}
