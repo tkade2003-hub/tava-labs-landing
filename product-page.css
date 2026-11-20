@@ -295,3 +295,8 @@ body.pp-body{margin:0;background:var(--pp-bg);color:var(--pp-text);
   .pp-sticky .pp-btn{margin-left:auto;padding:12px 20px}
   body.pp-body{padding-bottom:64px}
 }
+
+/* Tava chrome color: menu and footer in forest green */
+.header{background:#08251D!important}
+.footer,.footer__desktop,.footer__mobile{background:#08251D!important;background-image:none!important}
+.nav__dropdown__list,.nav__dropdown__list__wrap{background:#08251D!important;background-image:none!important}
