@@ -246,7 +246,7 @@ body.pp-body{margin:0;background:var(--pp-bg);color:var(--pp-text);
     gap:16px;padding-bottom:10px;scrollbar-width:none}
   .pp-cards3::-webkit-scrollbar,.pp-shots::-webkit-scrollbar{display:none}
   .pp-cards3>*{flex:0 0 85%;scroll-snap-align:start}
-  .pp-shots>*{flex:0 0 85%;scroll-snap-align:start}
+  .pp-shots>*{flex:0 0 70%;scroll-snap-align:start}
   .pp-split{grid-template-columns:1fr;gap:36px}
   .pp-band,.pp-band-white,.pp-band-dark{padding:56px 0}
   .pp-band-head h2{font-size:30px}
