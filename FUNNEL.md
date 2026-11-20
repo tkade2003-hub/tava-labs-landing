@@ -1,6 +1,6 @@
 # Tava Labs Quiz Funnel
 
-A quiz-style lead funnel for the Glow Brightening Serum. An ad click lands on
+A quiz-style lead funnel for the PDRN Brightening Serum. An ad click lands on
 `quiz.html`, the visitor answers one question per screen, sees two short
 interstitials ("You're not alone" and "Your formula match"), gets a personal
 30-day plan, checks out, and is handed off to the app — with everything they
