@@ -62,26 +62,31 @@ const TavaHeroSlider: React.FC = () => {
           position: "relative",
           boxShadow: "0 4px 20px rgba(0,0,0,0.08)",
           height: "420px",
+          background: "#08251D",
         }}
       >
-        {/* Video Background */}
-        <video
-          key={slide.video}
-          autoPlay
-          loop
-          muted
-          playsInline
-          poster={slide.product}
-          style={{
-            position: "absolute",
-            inset: 0,
-            width: "100%",
-            height: "100%",
-            objectFit: "cover",
-          }}
-        >
-          <source src={slide.video} />
-        </video>
+        {/* Video Background: every slide stays mounted and preloaded, only the active one is visible */}
+        {slides.map((s, i) => (
+          <video
+            key={s.id}
+            autoPlay
+            loop
+            muted
+            playsInline
+            preload="auto"
+            style={{
+              position: "absolute",
+              inset: 0,
+              width: "100%",
+              height: "100%",
+              objectFit: "cover",
+              opacity: i === current ? 1 : 0,
+              transition: "opacity 0.6s ease-in-out",
+            }}
+          >
+            <source src={s.video} />
+          </video>
+        ))}
 
         {/* Overlay */}
         <div
