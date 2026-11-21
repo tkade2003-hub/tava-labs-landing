@@ -41,7 +41,7 @@ export default function Footer() {
         <div className="grid gap-12 lg:grid-cols-[1.3fr_1fr_1fr_1fr]">
           <div>
             <Logo className="h-8 w-auto" />
-            <p className="mt-5 max-w-xs font-display text-xl text-gold-soft italic">
+            <p className="mt-5 max-w-xs gold-word text-2xl">
               The Science of Attractive Health
             </p>
             <div className="mt-6 flex gap-3">
@@ -52,7 +52,7 @@ export default function Footer() {
                   target="_blank"
                   rel="noreferrer"
                   aria-label={label}
-                  className="inline-flex size-10 items-center justify-center rounded-full border border-white/20 text-[#fafaf9]/85 transition-colors hover:border-gold hover:text-gold-soft"
+                  className="inline-flex size-10 items-center justify-center rounded-full border border-white/20 text-[#fafaf9]/85 transition-colors hover:border-gold hover:text-gold-metal"
                 >
                   <Icon className="size-4.5" />
                 </a>
@@ -61,7 +61,7 @@ export default function Footer() {
           </div>
 
           <nav aria-label="Shop">
-            <h3 className="text-sm font-semibold tracking-wide text-gold-soft">
+            <h3 className="text-sm font-semibold tracking-wide text-gold-metal">
               Shop
             </h3>
             <ul className="mt-4 space-y-2.5 text-sm">
@@ -84,7 +84,7 @@ export default function Footer() {
           </nav>
 
           <nav aria-label="Contact us">
-            <h3 className="text-sm font-semibold tracking-wide text-gold-soft">
+            <h3 className="text-sm font-semibold tracking-wide text-gold-metal">
               Contact us
             </h3>
             <ul className="mt-4 space-y-2.5 text-sm">
@@ -99,7 +99,7 @@ export default function Footer() {
           </nav>
 
           <nav aria-label="Info">
-            <h3 className="text-sm font-semibold tracking-wide text-gold-soft">
+            <h3 className="text-sm font-semibold tracking-wide text-gold-metal">
               Info
             </h3>
             <ul className="mt-4 space-y-2.5 text-sm">

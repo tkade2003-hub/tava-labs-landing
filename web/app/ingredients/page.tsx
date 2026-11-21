@@ -39,11 +39,11 @@ export default function Page() {
     <SiteShell>
       {/* Intro */}
       <section className="mx-auto max-w-7xl px-5 pt-14 pb-16 sm:px-8 lg:pt-20">
-        <p className="text-sm font-semibold tracking-wide text-gold">
+        <p className="gold-word text-lg">
           Ingredients
         </p>
         <h1 className="mt-4 max-w-3xl font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl">
-          What&rsquo;s inside, and <span className="text-gold">what we leave out.</span>
+          What&rsquo;s inside, and <span className="text-gold-metal">what we leave out.</span>
         </h1>
         <p className="mt-5 max-w-2xl leading-relaxed text-ink/80">
           Here is every ingredient in the PDRN Brightening Serum, what each

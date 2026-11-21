@@ -15,11 +15,11 @@ export default function Page() {
   return (
     <SiteShell>
       <section className="mx-auto max-w-7xl px-5 pt-14 pb-16 sm:px-8 lg:pt-20">
-        <p className="text-sm font-semibold tracking-wide text-gold">
+        <p className="gold-word text-lg">
           The Tava Journal
         </p>
         <h1 className="mt-4 max-w-3xl font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl">
-          Sleep and Stress Research <span className="text-gold">for Founders</span>
+          Sleep and Stress Research <span className="text-gold-metal">for Founders</span>
         </h1>
         <p className="mt-5 max-w-2xl leading-relaxed text-ink/80">
           Sleep science, stress research, and performance insight for
@@ -42,7 +42,7 @@ export default function Page() {
                 />
               </Link>
               <div>
-                <p className="text-[13px] font-semibold text-gold">
+                <p className="gold-word text-[17px]">
                   {card.meta}
                 </p>
                 <h2 className="mt-2 font-display text-3xl leading-tight font-semibold text-forest-deep">

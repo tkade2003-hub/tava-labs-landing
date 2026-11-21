@@ -16,11 +16,11 @@ export default function Page() {
     <SiteShell>
       {/* Hero */}
       <section className="mx-auto max-w-7xl px-5 pt-14 pb-16 sm:px-8 lg:pt-20">
-        <p className="text-sm font-semibold tracking-wide text-gold">
+        <p className="gold-word text-lg">
           About Us
         </p>
         <h1 className="mt-4 max-w-3xl font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl">
-          Skincare for <span className="text-gold">the ambitious.</span>
+          Skincare for <span className="text-gold-metal">the ambitious.</span>
         </h1>
         <p className="mt-4 font-display text-2xl text-forest italic">
           Build your business. Do not neglect yourself.
@@ -67,7 +67,7 @@ export default function Page() {
             />
           </div>
           <div>
-            <p className="text-sm font-semibold tracking-wide text-gold">
+            <p className="gold-word text-lg">
               The Serum
             </p>
             <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep">
@@ -112,7 +112,7 @@ export default function Page() {
 
       {/* Philosophy */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
-        <p className="text-sm font-semibold tracking-wide text-gold">
+        <p className="gold-word text-lg">
           Our Philosophy
         </p>
         <blockquote className="mt-4 max-w-3xl font-display text-3xl leading-snug font-medium text-forest-deep sm:text-4xl">

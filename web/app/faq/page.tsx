@@ -104,11 +104,11 @@ export default function Page() {
       <section className="mx-auto max-w-7xl px-5 pt-14 pb-16 sm:px-8 lg:pt-20">
         <div className="grid gap-10 lg:grid-cols-[1fr_1.6fr]">
           <div>
-            <p className="text-sm font-semibold tracking-wide text-gold">
+            <p className="gold-word text-lg">
               FAQs
             </p>
             <h1 className="mt-4 font-display text-5xl leading-[1.05] font-semibold text-forest-deep">
-              Frequently Asked <span className="text-gold">Questions</span>
+              Frequently Asked <span className="text-gold-metal">Questions</span>
             </h1>
             <p className="mt-5 leading-relaxed text-ink/80">
               Answers about the serum, ordering, shipping, and your personal

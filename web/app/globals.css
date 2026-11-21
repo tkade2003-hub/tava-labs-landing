@@ -13,6 +13,7 @@
   --color-forest: var(--forest);
   --color-forest-deep: var(--forest-deep);
   --color-gold: var(--gold);
+  --color-gold-metal: var(--gold-metal);
   --color-gold-soft: var(--gold-soft);
   --color-linen: var(--linen);
   --color-linestone: var(--linestone);
@@ -64,6 +65,7 @@
   --forest-deep: #08251d;
   --gold: #b78b45;
   --gold-soft: #d8c19a;
+  --gold-metal: #d4af37;
   --linen: #f3f0e9;
   --linestone: #e7e2d9;
 
@@ -176,9 +178,10 @@
   padding: 3.5rem 1.5rem 0;
 }
 .tava-blog .tb-meta {
-  font-size: 0.8125rem;
-  color: var(--gold);
-  font-weight: 600;
+  font-family: "Cattalague", var(--font-brand);
+  font-size: 1.05rem;
+  color: var(--gold-metal);
+  font-weight: 400;
 }
 .tava-blog .tb-article h1 {
   font-family: var(--font-brand);
@@ -370,9 +373,10 @@
   padding: 3.5rem 1.5rem 4.5rem;
 }
 .tava-legal .eyebrow {
-  font-size: 0.8125rem;
-  color: var(--gold);
-  font-weight: 600;
+  font-family: "Cattalague", var(--font-brand);
+  font-size: 1.05rem;
+  color: var(--gold-metal);
+  font-weight: 400;
 }
 .tava-legal .legal > h1 {
   font-family: var(--font-brand);
@@ -464,4 +468,23 @@
   .tava-marquee-track {
     animation: none;
   }
+}
+
+/* Accent words: Cattalague script in metal gold, for gold words only.
+   Never applied to h1, h2, or h3 text; heading gold tails take the
+   metal color through the text-gold-metal utility and keep the brand font.
+   The font file ships from the repo assets folder at
+   /assets/fonts/Cattalague.ttf (copied into the app at build time). */
+@font-face {
+  font-family: "Cattalague";
+  src: url("/assets/fonts/Cattalague.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+.gold-word {
+  font-family: "Cattalague", var(--font-brand);
+  color: var(--gold-metal);
+  letter-spacing: 0;
+  line-height: 1.3;
+  font-weight: 400;
 }

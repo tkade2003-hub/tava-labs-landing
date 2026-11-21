@@ -78,11 +78,11 @@ export default function Page() {
     <SiteShell>
       {/* Hero */}
       <section className="mx-auto max-w-7xl px-5 pt-14 pb-16 sm:px-8 lg:pt-20">
-        <p className="text-sm font-semibold tracking-wide text-gold">
+        <p className="gold-word text-lg">
           Partner With Tava Labs
         </p>
         <h1 className="mt-4 max-w-3xl font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl">
-          Give your founders a free month of <span className="text-gold">Tava Labs.</span>
+          Give your founders a free month of <span className="text-gold-metal">Tava Labs.</span>
         </h1>
         <p className="mt-5 max-w-2xl leading-relaxed text-ink/80">
           Tava Labs partners with accelerators, universities, angel
@@ -137,7 +137,7 @@ export default function Page() {
       {/* Why */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
         <h2 className="font-display text-4xl font-semibold text-forest-deep">
-          Zero cost. Zero effort. <span className="text-gold">Real value.</span>
+          Zero cost. Zero effort. <span className="text-gold-metal">Real value.</span>
         </h2>
         <div className="mt-10 grid gap-x-10 gap-y-10 sm:grid-cols-2 lg:grid-cols-4">
           {WHY.map((item) => (
@@ -172,7 +172,7 @@ export default function Page() {
         <div className="mt-10 grid gap-10 md:grid-cols-3">
           {STEPS.map((step) => (
             <article key={step.n} className="border-t-2 border-gold pt-5">
-              <p className="font-display text-4xl font-semibold text-gold">
+              <p className="gold-word text-4xl">
                 {step.n}
               </p>
               <h3 className="mt-2 font-display text-2xl font-semibold text-forest-deep">
@@ -188,18 +188,18 @@ export default function Page() {
       <section className="mx-auto max-w-7xl px-5 pb-20 sm:px-8">
         <div className="rounded-[28px] bg-forest-deep px-6 py-14 text-[#fafaf9] sm:px-10 lg:px-14">
           <h2 className="max-w-2xl font-display text-4xl font-semibold">
-            Let&rsquo;s put a free month in your founders&rsquo; <span className="text-gold-soft">hands.</span>
+            Let&rsquo;s put a free month in your founders&rsquo; <span className="text-gold-metal">hands.</span>
           </h2>
           <p className="mt-4 max-w-2xl leading-relaxed text-[#fafaf9]/75">
             Email{" "}
             <a
               href="mailto:talia@tavalabs.app"
-              className="font-semibold text-gold-soft underline underline-offset-4"
+              className="gold-word text-lg underline underline-offset-4"
             >
               talia@tavalabs.app
             </a>{" "}
             or call{" "}
-            <a href="tel:+19099061308" className="font-semibold text-gold-soft">
+            <a href="tel:+19099061308" className="gold-word text-lg">
               909-906-1308
             </a>
             , and we will set it up.

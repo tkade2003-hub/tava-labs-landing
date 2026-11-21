@@ -166,7 +166,7 @@ export default function Page() {
           <div>
             <div className="flex flex-wrap items-center gap-3">
               <Badge className="bg-forest text-[#fafaf9]">In Stock</Badge>
-              <p className="text-[13px] font-semibold text-gold">
+              <p className="gold-word text-[17px]">
                 Clean and Vegan &bull; PDRN Active
               </p>
             </div>
@@ -174,7 +174,7 @@ export default function Page() {
               Dermatologist tested &bull; Made for all skin types
             </p>
             <h1 className="mt-2 font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl">
-              PDRN Brightening <span className="text-gold">Serum</span>
+              PDRN Brightening <span className="text-gold-metal">Serum</span>
             </h1>
             <p className="mt-5 font-display text-3xl text-forest">
               $49.00{" "}
@@ -238,11 +238,11 @@ export default function Page() {
       {/* Innovation */}
       <section className="border-t border-linestone">
         <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
-          <p className="text-sm font-semibold tracking-wide text-gold">
+          <p className="gold-word text-lg">
             Cellular Innovation
           </p>
           <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep sm:text-5xl">
-            Next Gen Skin <span className="text-gold">Regeneration</span>
+            Next Gen Skin <span className="text-gold-metal">Regeneration</span>
           </h2>
           <p className="mt-4 max-w-2xl leading-relaxed text-ink/75">
             Marine actives and targeted hexapeptides, in one daily serum.
@@ -250,7 +250,7 @@ export default function Page() {
           <div className="mt-10 grid gap-10 md:grid-cols-3">
             {INNOVATION.map((item) => (
               <article key={item.n} className="border-t-2 border-forest pt-5">
-                <p className="font-display text-lg text-gold">
+                <p className="gold-word text-xl">
                   {item.n} / {item.label}
                 </p>
                 <h3 className="mt-2 font-display text-2xl font-semibold text-forest-deep">
@@ -292,7 +292,7 @@ export default function Page() {
       {/* Ecosystem */}
       <section className="bg-linen/60">
         <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
-          <p className="text-sm font-semibold tracking-wide text-gold">
+          <p className="gold-word text-lg">
             The Full Plan
           </p>
           <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep">
@@ -307,7 +307,7 @@ export default function Page() {
                 key={item}
                 className="flex gap-5 border-t border-linestone py-4"
               >
-                <span className="font-display text-xl font-semibold text-gold">
+                <span className="gold-word text-2xl">
                   {i + 1}
                 </span>
                 <span className="leading-relaxed text-ink/80">{item}</span>
@@ -328,11 +328,11 @@ export default function Page() {
 
       {/* Clinical efficacy */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
-        <p className="text-sm font-semibold tracking-wide text-gold">
+        <p className="gold-word text-lg">
           Clinical Efficacy
         </p>
         <h2 className="mt-3 max-w-2xl font-display text-4xl font-semibold text-forest-deep">
-          Look after your <span className="text-gold">skin health</span>
+          Look after your <span className="text-gold-metal">skin health</span>
         </h2>
         <div className="mt-10 grid gap-8 md:grid-cols-3">
           {[
@@ -364,7 +364,7 @@ export default function Page() {
       {/* Formulary */}
       <section id="formulation" className="border-t border-linestone">
         <div className="mx-auto max-w-7xl scroll-mt-8 px-5 py-16 sm:px-8 lg:py-20">
-          <p className="text-sm font-semibold tracking-wide text-gold">
+          <p className="gold-word text-lg">
             The Formulary
           </p>
           <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep">
@@ -452,11 +452,11 @@ export default function Page() {
       {/* Regimen protocol */}
       <section className="bg-linen/60">
         <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
-          <p className="text-sm font-semibold tracking-wide text-gold">
+          <p className="gold-word text-lg">
             Daily Regimen Protocol
           </p>
           <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep">
-            One simple routine, <span className="text-gold">twice a day</span>
+            One simple routine, <span className="text-gold-metal">twice a day</span>
           </h2>
           <p className="mt-4 max-w-2xl leading-relaxed text-ink/75">
             Consistency matters. Follow these steps morning and evening so
@@ -465,7 +465,7 @@ export default function Page() {
           </p>
           <div className="mt-10 grid items-start gap-12 lg:grid-cols-2">
             <div>
-              <p className="text-sm font-semibold tracking-wide text-gold">
+              <p className="gold-word text-lg">
                 Clinical Progression
               </p>
               <h3 className="mt-2 font-display text-3xl font-semibold text-forest-deep">
@@ -490,7 +490,7 @@ export default function Page() {
                 <AccordionItem key={step.title} value={step.title}>
                   <AccordionTrigger className="py-4 text-left">
                     <span className="flex items-baseline gap-3">
-                      <span className="font-display text-lg font-semibold text-gold">
+                      <span className="gold-word text-xl">
                         {i + 1}
                       </span>
                       <span className="font-display text-xl font-semibold text-forest-deep">
@@ -512,7 +512,7 @@ export default function Page() {
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
         <div className="grid gap-10 lg:grid-cols-[1fr_1.6fr]">
           <div>
-            <p className="text-sm font-semibold tracking-wide text-gold">
+            <p className="gold-word text-lg">
               Answers and Clarity
             </p>
             <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep">

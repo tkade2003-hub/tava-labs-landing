@@ -84,7 +84,7 @@ type Tab = "today" | "orders" | "shop" | "lab" | "support";
 
 const cardClass =
   "mb-5 rounded-2xl border border-linestone bg-white p-6 shadow-[0_10px_28px_rgba(8,37,29,0.07)] sm:p-7";
-const eyebrowClass = "text-[13px] font-semibold text-gold";
+const eyebrowClass = "gold-word text-[17px]";
 const subClass = "text-[15px] leading-relaxed text-muted-foreground";
 const mutedClass = "text-[13.5px] text-muted-foreground";
 const h2Class = "mt-1.5 font-display text-[1.375rem] font-semibold text-forest-deep";
@@ -259,7 +259,7 @@ export default function AccountPage() {
                   key={t}
                   className={
                     tab === t
-                      ? "rounded-full bg-forest px-[18px] py-2.5 text-sm font-semibold text-gold-soft"
+                      ? "rounded-full bg-forest px-[18px] py-2.5 text-sm font-semibold text-gold-metal"
                       : "rounded-full border border-linestone bg-white px-[18px] py-2.5 text-sm font-semibold text-ink transition-colors hover:border-gold-soft"
                   }
                   type="button"
@@ -323,7 +323,7 @@ export default function AccountPage() {
                         className="mr-2 mb-2 inline-block rounded-full border border-gold-soft bg-paper px-3 py-1.5 text-[13px] text-forest-deep"
                       >
                         {c.label ? `${c.label} · ` : ""}
-                        <b className="text-gold">{c.value}</b>
+                        <b className="gold-word">{c.value}</b>
                       </span>
                     ))}
                   </div>
@@ -540,7 +540,7 @@ export default function AccountPage() {
               <section>
                 <div className={cardClass}>
                   <p className={eyebrowClass}>
-                    Lab <span className="text-gold">· Coming soon</span>
+                    Lab <span>· Coming soon</span>
                   </p>
                   <h2 className="mt-1.5 font-display text-[1.625rem] font-semibold text-forest-deep">
                     Insights
@@ -588,7 +588,7 @@ export default function AccountPage() {
                         <br />
                         <span className={mutedClass}>No results yet</span>
                       </div>
-                      <span className="text-[13px] font-semibold text-gold">
+                      <span className="gold-word text-[17px]">
                         Preview
                       </span>
                     </div>
@@ -598,7 +598,7 @@ export default function AccountPage() {
                         <br />
                         <span className={mutedClass}>No results yet</span>
                       </div>
-                      <span className="text-[13px] font-semibold text-gold">
+                      <span className="gold-word text-[17px]">
                         Preview
                       </span>
                     </div>
@@ -608,7 +608,7 @@ export default function AccountPage() {
                         <br />
                         <span className={mutedClass}>No results yet</span>
                       </div>
-                      <span className="text-[13px] font-semibold text-gold">
+                      <span className="gold-word text-[17px]">
                         Preview
                       </span>
                     </div>

@@ -28,7 +28,7 @@ export default function Header() {
             <Link
               key={item.href}
               href={item.href}
-              className="text-sm font-medium text-[#fafaf9]/85 transition-colors hover:text-gold-soft"
+              className="text-sm font-medium text-[#fafaf9]/85 transition-colors hover:text-gold-metal"
             >
               {item.label}
             </Link>
@@ -37,7 +37,7 @@ export default function Header() {
         <div className="flex items-center gap-3">
           <Link
             href="/login"
-            className="hidden text-sm font-medium text-[#fafaf9]/85 transition-colors hover:text-gold-soft sm:inline-flex"
+            className="hidden text-sm font-medium text-[#fafaf9]/85 transition-colors hover:text-gold-metal sm:inline-flex"
           >
             Login
           </Link>
@@ -76,7 +76,7 @@ export default function Header() {
           ))}
           <Link
             href="/quiz"
-            className="mt-3 block py-2.5 text-base font-semibold text-gold-soft"
+            className="mt-3 block py-2.5 text-base font-semibold text-gold-metal"
             onClick={() => setOpen(false)}
           >
             Take the Quiz
