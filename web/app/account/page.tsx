@@ -84,7 +84,7 @@ type Tab = "today" | "orders" | "shop" | "lab" | "support";
 
 const cardClass =
   "mb-5 rounded-2xl border border-linestone bg-white p-6 shadow-[0_10px_28px_rgba(8,37,29,0.07)] sm:p-7";
-const eyebrowClass = "gold-word text-[13px] font-semibold";
+const eyebrowClass = "tava-label";
 const subClass = "text-[15px] leading-relaxed text-muted-foreground";
 const mutedClass = "text-[13.5px] text-muted-foreground";
 const h2Class = "mt-1.5 font-display text-[1.375rem] font-semibold text-forest-deep";
@@ -588,7 +588,7 @@ export default function AccountPage() {
                         <br />
                         <span className={mutedClass}>No results yet</span>
                       </div>
-                      <span className="gold-word text-[13px] font-semibold">
+                      <span className="tava-label">
                         Preview
                       </span>
                     </div>
@@ -598,7 +598,7 @@ export default function AccountPage() {
                         <br />
                         <span className={mutedClass}>No results yet</span>
                       </div>
-                      <span className="gold-word text-[13px] font-semibold">
+                      <span className="tava-label">
                         Preview
                       </span>
                     </div>
@@ -608,7 +608,7 @@ export default function AccountPage() {
                         <br />
                         <span className={mutedClass}>No results yet</span>
                       </div>
-                      <span className="gold-word text-[13px] font-semibold">
+                      <span className="tava-label">
                         Preview
                       </span>
                     </div>

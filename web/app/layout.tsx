@@ -8,8 +8,9 @@ import { GTM_CODE, POSTHOG_CODE } from "@/lib/analytics";
    2026-11-21: Cormorant Garamond for headings, Kanit for body text. */
 const kanit = Kanit({
   subsets: ["latin"],
-  weight: ["300", "400", "500", "600", "700"],
-  variable: "--font-brand",
+  weight: ["400", "600", "700"],
+  style: ["normal", "italic"],
+  variable: "--font-kanit",
   display: "swap",
 });
 

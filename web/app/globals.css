@@ -1,3 +1,104 @@
+/* The live tavalabs.app fonts, loaded from the same Webflow CDN files
+   the live site uses, at Vashon direction on 2026-11-21: the new site
+   takes the live site font styles and design exactly. */
+@font-face {
+  font-family: 'Futura font';
+  src: url('https://assets.website-files.com/6261782397372d8306f031ca/6261782397372df3caf031d6_Futura%20Medium%20Italic%20font.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Futura bt';
+  src: url('https://assets.website-files.com/6261782397372d8306f031ca/6261782397372d1a2cf031d5_futura%20medium%20bt.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Futura condensed bt';
+  src: url('https://assets.website-files.com/6261782397372d8306f031ca/6261782397372dfe46f031d4_futura%20medium%20condensed%20bt.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Futura font';
+  src: url('https://assets.website-files.com/6261782397372d8306f031ca/6261782397372d413ef031d7_Futura%20Light%20Italic%20font.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Futura font';
+  src: url('https://assets.website-files.com/6261782397372d8306f031ca/6261782397372d617cf031d9_Futura%20Heavy%20font.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Futura book font';
+  src: url('https://assets.website-files.com/6261782397372d8306f031ca/6261782397372d945ef031da_Futura%20Book%20Italic%20font.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Futura font';
+  src: url('https://assets.website-files.com/6261782397372d8306f031ca/6261782397372d6629f031dc_Futura%20Bold%20font.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Futura bt';
+  src: url('https://assets.website-files.com/6261782397372d8306f031ca/6261782397372dc433f031d8_futura%20light%20bt.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Futura book font';
+  src: url('https://assets.website-files.com/6261782397372d8306f031ca/6261782397372d724ff031dd_Futura%20Book%20font.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Futura font';
+  src: url('https://assets.website-files.com/6261782397372d8306f031ca/6261782397372da66ef031db_Futura%20Light%20font.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Futura extra font';
+  src: url('https://assets.website-files.com/6261782397372d8306f031ca/6261782397372d7b2ef031df_Futura%20Extra%20Black%20font.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Futura font';
+  src: url('https://assets.website-files.com/6261782397372d8306f031ca/6261782397372d56ecf031de_Futura%20Bold%20Italic%20font.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Futura font';
+  src: url('https://assets.website-files.com/6261782397372d8306f031ca/6261782397372dd28cf031e0_Futura%20Heavy%20Italic%20font.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Futura';
+  src: url('https://assets.website-files.com/6261782397372d8306f031ca/6261caf9be77d6a5b0dd87bd_Futura%20Heavy.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
 @import "tailwindcss";
 @import "tw-animate-css";
 @import "shadcn/tailwind.css";
@@ -5,8 +106,9 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
-  --font-sans: var(--font-brand);
+  --font-sans: "Futura book font", "Futura font", Georgia, serif;
   --font-display: var(--font-display);
+  --font-kanit: var(--font-kanit);
   --font-heading: var(--font-display);
   --color-paper: var(--paper);
   --color-ink: var(--ink);
@@ -479,22 +581,7 @@
 .gold-metal-text,
 .tava-blog .tb-meta,
 .tava-legal .eyebrow {
-  background-image: linear-gradient(
-    100deg,
-    #77591a 0%,
-    #b28f24 22%,
-    #bd9a2e 38%,
-    #ecd28e 50%,
-    #bd9a2e 62%,
-    #b28f24 78%,
-    #77591a 100%
-  );
-  background-size: 200% auto;
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  -webkit-text-fill-color: transparent;
-  animation: tava-gold-sheen 7s linear infinite;
+  color: #B78B45;
 }
 @keyframes tava-gold-sheen {
   to {
@@ -508,4 +595,24 @@
   .tava-legal .eyebrow {
     animation: none;
   }
+}
+
+/* Live site base styles, ported 2026-11-21. The live tavalabs.app is the
+   design source of truth: Futura Book body copy, Cormorant headings in
+   the content sections, Futura Extra Black for the hero headline, Kanit
+   for labels and buttons, black footer with gold soft titles. */
+body {
+  font-family: "Futura book font", "Futura font", Georgia, serif;
+  color: #333;
+}
+.tava-label {
+  font-family: var(--font-kanit), Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #B78B45;
+}
+footer .gold-metal-text {
+  color: #D8C19A;
 }

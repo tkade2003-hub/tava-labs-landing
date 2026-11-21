@@ -39,7 +39,7 @@ export default function Page() {
     <SiteShell>
       {/* Intro */}
       <section className="mx-auto max-w-7xl px-5 pt-14 pb-16 sm:px-8 lg:pt-20">
-        <p className="gold-word text-sm font-semibold tracking-wide">
+        <p className="tava-label">
           Ingredients
         </p>
         <h1 className="mt-4 max-w-3xl font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl">

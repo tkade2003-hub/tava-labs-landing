@@ -104,7 +104,7 @@ export default function Page() {
               }}
             />
             <div className="flex flex-1 flex-col justify-center px-[5vw] pt-[44px] pb-[48px] lg:order-1 lg:py-[64px]">
-              <p className="gold-word text-[13px] font-semibold">
+              <p className="tava-label">
                 Skincare for the ambitious
               </p>
               <h2 className="mt-5 max-w-[520px] font-display text-[clamp(38px,5vw,58px)] leading-[1.08] font-semibold">
@@ -120,9 +120,9 @@ export default function Page() {
               <div className="mt-[26px] flex flex-wrap items-center gap-3">
                 <Link
                   href="/glow-brightening-serum"
-                  className="rounded-full bg-black px-[30px] py-[15px] text-base font-bold transition-colors hover:bg-black/80 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
+                  className="rounded-[8px] bg-[#08251D] px-12 py-[13px] font-kanit text-[1.05rem] font-bold italic uppercase text-[#D8C19A] transition-colors hover:bg-[#123B2C] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
                 >
-                  <span className="gold-word">Add to routine</span>
+                  Add to routine
                 </Link>
               </div>
             </div>
@@ -143,7 +143,7 @@ export default function Page() {
             />
           </div>
           <div>
-            <p className="gold-word text-sm font-semibold tracking-wide">
+            <p className="tava-label">
               Available now
             </p>
             <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep sm:text-5xl">
@@ -355,7 +355,7 @@ export default function Page() {
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-24">
         <div className="grid items-center gap-12 lg:grid-cols-2">
           <div>
-            <p className="gold-word text-sm font-semibold tracking-wide">
+            <p className="tava-label">
               A Message From Our Founder
             </p>
             <blockquote className="mt-4 font-display text-4xl leading-snug font-semibold text-forest-deep italic sm:text-5xl">
@@ -422,7 +422,7 @@ export default function Page() {
                     className="aspect-[16/10] w-full rounded-2xl object-cover"
                     loading="lazy"
                   />
-                  <p className="mt-4 gold-word text-[13px] font-semibold">
+                  <p className="mt-4 tava-label">
                     {card.meta.replace(/ · [A-Z][a-z]+ \d+, \d{4}$/, "")}
                   </p>
                   <h3 className="mt-2 font-display text-2xl leading-snug font-semibold text-forest-deep">

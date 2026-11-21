@@ -104,7 +104,7 @@ export default function Page() {
       <section className="mx-auto max-w-7xl px-5 pt-14 pb-16 sm:px-8 lg:pt-20">
         <div className="grid gap-10 lg:grid-cols-[1fr_1.6fr]">
           <div>
-            <p className="gold-word text-sm font-semibold tracking-wide">
+            <p className="tava-label">
               FAQs
             </p>
             <h1 className="mt-4 font-display text-5xl leading-[1.05] font-semibold text-forest-deep">

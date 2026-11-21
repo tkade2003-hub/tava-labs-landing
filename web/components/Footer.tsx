@@ -36,7 +36,7 @@ const SOCIALS = [
 
 export default function Footer() {
   return (
-    <footer className="bg-forest-deep text-[#fafaf9]">
+    <footer className="bg-black text-[#fafaf9]">
       <div className="mx-auto max-w-7xl px-5 py-14 sm:px-8">
         <div className="grid gap-12 lg:grid-cols-[1.3fr_1fr_1fr_1fr]">
           <div>
