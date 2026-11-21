@@ -43,7 +43,7 @@ export default function Header() {
           </Link>
           <Button
             render={<Link href="/glow-brightening-serum" />}
-            className="hidden bg-gold text-white hover:bg-gold/85 sm:inline-flex"
+            className="hidden border-[#D8C19A]/60 sm:inline-flex"
             size="lg"
           >
             Add to routine
