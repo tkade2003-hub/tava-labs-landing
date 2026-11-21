@@ -70,17 +70,17 @@ const heroCss = `
   .th-card { right: 28px; }
   .th-start { right: 28px; bottom: 28px; }
 }
-@media (max-width: 480px) {
-  .th-copy { top: 20px; left: 16px; right: 16px; }
-  .th-title { font-size: 35px; max-width: 62%; }
-  .th-sub { font-size: 13.5px; max-width: 56%; margin-top: 10px; }
-  .th-card { width: 164px; height: 208px; right: 12px; border-radius: 18px; }
+@media (max-width: 640px) {
+  .th-copy { top: 22px; left: 18px; right: 18px; }
+  .th-title { font-size: 37px; max-width: 92%; }
+  .th-sub { font-size: 14px; max-width: 84%; margin-top: 10px; }
+  .th-card { top: auto; bottom: 20px; transform: none; width: 168px; height: 214px; right: 14px; border-radius: 18px; }
   .th-card-inner { padding: 10px; }
   .th-badge { padding: 8px 10px; border-radius: 13px; }
   .th-badge-title { font-size: 13px; }
   .th-badge-sub { font-size: 10.5px; }
   .th-dots { margin-top: 8px; }
-  .th-start { right: 14px; bottom: 14px; padding: 12px 18px; }
+  .th-start { right: auto; left: 16px; bottom: 20px; padding: 13px 20px; }
 }
 @media (prefers-reduced-motion: reduce) {
   .th-video-active { animation: none; }
