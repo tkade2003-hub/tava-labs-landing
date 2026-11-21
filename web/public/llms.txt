@@ -1,0 +1,40 @@
+# Tava Labs
+
+> Tava Labs is skincare for the ambitious. The company makes one product, the PDRN Brightening Serum, a daily complexion routine for founders and professionals who pitch, present, and record every day. Your appearance is part of your professional presence.
+
+## Product
+
+- [PDRN Brightening Serum](https://tavalabs.app/): The PDRN Brightening Serum costs 49 dollars as a one time purchase or 39 dollars per month as a subscription. Key ingredients are PDRN, peptides, and hyaluronic acid. Apply daily, twice a day.
+- [Ingredients](https://tavalabs.app/ingredients.html): The full ingredient list and what each key ingredient does.
+- [Skin Quiz](https://tavalabs.app/quiz.html): Answer a few questions and build a personal founder maintenance plan, then check out from the plan.
+
+## Company
+
+- [About Tava Labs](https://tavalabs.app/about.html): Skincare for the ambitious, and why Tava Labs exists.
+- [Partners](https://tavalabs.app/partners.html): Accelerators, incubators, universities, and angel groups can give founders in their program a free one month supply of the serum.
+- [Contact](https://tavalabs.app/contact.html): Contact Tava Labs at talia@tavalabs.app. Tava Labs, LLC, 1521 Blake St STE 95593, Denver, CO 80202.
+
+## Blog
+
+- [Blog](https://tavalabs.app/blog.html): Research and writing on founder sleep, stress, and camera ready skin.
+- [Why Founders Cannot Sleep](https://tavalabs.app/blog-why-founders-cant-sleep.html)
+- [The Founder Stress Response](https://tavalabs.app/blog-founder-stress-response.html)
+- [Sleep and Fundraising Performance](https://tavalabs.app/blog-sleep-and-fundraising-performance.html)
+- [How Cortisol Hijacks Founder Decision Making](https://tavalabs.app/blog-cortisol-and-decision-making.html)
+- [How Much Sleep Do Founders Actually Need](https://tavalabs.app/blog-how-much-sleep-do-founders-need.html)
+- [7 Early Signs of Founder Burnout](https://tavalabs.app/blog-signs-of-founder-burnout.html)
+- [PDRN Explained](https://tavalabs.app/blog-pdrn-explained.html)
+- [The Science of Attractive Health](https://tavalabs.app/blog-science-of-attractive-health.html)
+- [Camera Ready Skin](https://tavalabs.app/blog-camera-ready-skin.html)
+- [Look Sharp by 9 AM](https://tavalabs.app/blog-look-sharp-by-9am.html)
+- [The Night Shift](https://tavalabs.app/blog-night-shift.html)
+- [Start Slow, Glow Steady](https://tavalabs.app/blog-start-slow.html)
+
+## Support and Policies
+
+- [FAQs](https://tavalabs.app/faq.html): Straight answers about the serum, the plan, and orders.
+- [Shipping Policy](https://tavalabs.app/shipping.html)
+- [Return Policy](https://tavalabs.app/returns.html): All sales are final and no refund will be issued.
+- [Privacy Policy](https://tavalabs.app/privacy.html)
+- [Terms and Conditions](https://tavalabs.app/terms.html)
+- [Cookie Policy](https://tavalabs.app/cookies.html)

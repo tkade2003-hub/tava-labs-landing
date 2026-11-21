@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://tavalabs.app"),
   icons: {
     icon: "/assets/tava-logo.svg",
-    apple: "/assets/IMG_3241.png",
+    apple: "/assets/logo-tava-avatar-white-bg.png",
   },
 };
 
