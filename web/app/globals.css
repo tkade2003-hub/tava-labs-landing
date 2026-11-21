@@ -6,8 +6,8 @@
 
 @theme inline {
   --font-sans: var(--font-brand);
-  --font-display: var(--font-brand);
-  --font-heading: var(--font-brand);
+  --font-display: var(--font-display);
+  --font-heading: var(--font-display);
   --color-paper: var(--paper);
   --color-ink: var(--ink);
   --color-forest: var(--forest);
@@ -182,7 +182,7 @@
   font-weight: 600;
 }
 .tava-blog .tb-article h1 {
-  font-family: var(--font-brand);
+  font-family: var(--font-display);
   font-weight: 800;
   letter-spacing: -0.01em;
   font-size: clamp(2rem, 5vw, 2.75rem);
@@ -199,7 +199,7 @@
   margin: 0 0 1.25rem;
 }
 .tava-blog .tb-article h2 {
-  font-family: var(--font-brand);
+  font-family: var(--font-display);
   font-weight: 700;
   font-size: 1.8125rem;
   line-height: 1.2;
@@ -207,6 +207,7 @@
   margin: 2.25rem 0 0.75rem;
 }
 .tava-blog .tb-article h3 {
+  font-family: var(--font-display);
   font-weight: 600;
   font-size: 1.125rem;
   color: var(--forest-deep);
@@ -375,7 +376,7 @@
   font-weight: 600;
 }
 .tava-legal .legal > h1 {
-  font-family: var(--font-brand);
+  font-family: var(--font-display);
   font-weight: 800;
   letter-spacing: -0.01em;
   font-size: clamp(2rem, 5vw, 2.75rem);
@@ -397,6 +398,7 @@
   margin: 2.25rem 0 0.75rem;
 }
 .tava-legal .privacy-h2 {
+  font-family: var(--font-display);
   font-weight: 600;
   font-size: 1.0625rem;
   color: var(--forest-deep);
