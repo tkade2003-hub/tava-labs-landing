@@ -6,7 +6,7 @@ import { SERUM_CARD, ADHD_CARD, LABS_CARD } from "@/lib/heroMedia";
 const slides = [
   {
     id: 1,
-    video: "/tava/serum.mp4",
+    video: "/assets/home/hero/4b21f433-0611-b15d-e2d6-71b9a2097cba.mov",
     product: SERUM_CARD,
     title: "Look sharp\non Tava",
     badgeTitle: "Tava Labs",
@@ -14,7 +14,7 @@ const slides = [
   },
   {
     id: 2,
-    video: "/tava/adhd.mp4",
+    video: "/assets/home/hero/5f0f1809-5fe9-e9cd-ad9b-5efb16ec611d.mov",
     product: ADHD_CARD,
     title: "Focus better\non Tava",
     badgeTitle: "ADHD",
@@ -22,7 +22,7 @@ const slides = [
   },
   {
     id: 3,
-    video: "/tava/labs.mp4",
+    video: "/assets/home/hero/18241b3c-f2f5-468c-8df0-14c2b7bfb624.mov",
     product: LABS_CARD,
     title: "Know your data\non Tava",
     badgeTitle: "Lab Biomarkers",
@@ -80,7 +80,7 @@ const TavaHeroSlider: React.FC = () => {
             objectFit: "cover",
           }}
         >
-          <source src={slide.video} type="video/mp4" />
+          <source src={slide.video} />
         </video>
 
         {/* Overlay */}
