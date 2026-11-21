@@ -49,7 +49,7 @@ const heroCss = `
 @keyframes th-kenburns { from { transform: scale(1); } to { transform: scale(1.07); } }
 .th-overlay { position: absolute; inset: 0; background: linear-gradient(97deg, rgba(8,37,29,0.66) 0%, rgba(8,37,29,0.28) 42%, rgba(8,37,29,0) 68%), linear-gradient(0deg, rgba(8,37,29,0.42) 0%, rgba(8,37,29,0) 34%); }
 .th-copy { position: absolute; top: 48px; left: 48px; z-index: 2; color: white; width: 600px; max-width: calc(100% - 360px); }
-.th-title { font-family: var(--font-accent), var(--font-brand); font-size: 66px; font-weight: 400; font-synthesis: none; line-height: 1.1; letter-spacing: 0; text-shadow: 0 2px 18px rgba(8,37,29,0.45); max-width: 100%; white-space: pre-line; margin: 0; }
+.th-title { font-family: var(--font-brand); font-size: 56px; font-weight: 800; line-height: 1.05; letter-spacing: -0.01em; text-shadow: 0 2px 18px rgba(8,37,29,0.45); max-width: 100%; white-space: pre-line; margin: 0; }
 .th-sub { font-size: 19px; font-weight: 600; line-height: 1.55; color: rgba(255,255,255,0.88); text-shadow: 0 1px 10px rgba(8,37,29,0.5); max-width: 82%; margin: 16px 0 0 0; }
 .th-start { text-decoration: none; position: absolute; right: 48px; bottom: 48px; z-index: 2; background: #12100C; color: #D4AF37; border: 1px solid rgba(216,193,154,0.35); border-radius: 999px; padding: 14px 24px; font-family: var(--font-brand); font-size: 16px; font-weight: 700; cursor: pointer; transition: background 0.25s ease, color 0.25s ease; }
 .th-start:hover { background: #08251D; color: #FAFAF9; }
@@ -65,14 +65,14 @@ const heroCss = `
 .th-dot { width: 24px; height: 20px; border-radius: 999px; border: none; padding: 0; cursor: pointer; background-color: transparent; background-repeat: no-repeat; background-position: center; }
 @media (max-width: 900px) {
   .th-copy { top: 32px; left: 28px; width: 480px; max-width: calc(100% - 300px); }
-  .th-title { font-size: 52px; max-width: 56%; }
+  .th-title { font-size: 44px; max-width: 56%; }
   .th-sub { max-width: 82%; }
   .th-card { right: 28px; }
   .th-start { right: 28px; bottom: 28px; }
 }
 @media (max-width: 640px) {
   .th-copy { top: 22px; left: 18px; right: 18px; width: auto; max-width: none; }
-  .th-title { font-size: 43px; max-width: 92%; }
+  .th-title { font-size: 36px; max-width: 92%; }
   .th-sub { font-size: 18px; max-width: 84%; margin-top: 10px; }
   .th-card { top: auto; bottom: 20px; transform: none; width: 168px; height: 214px; right: 14px; border-radius: 18px; }
   .th-card-inner { padding: 10px; }
@@ -159,7 +159,7 @@ const TavaHeroSlider: React.FC = () => {
           </motion.div>
 
           {/* Add to routine, bottom corner of the hero */}
-          <a className="th-start" href="/glow-brightening-serum"><span className="gold-metal-text">Add to routine</span></a>
+          <a className="th-start" href="/glow-brightening-serum"><span className="gold-word">Add to routine</span></a>
 
           {/* The only card in the hero: the product image card on the right,
               with the badge chip and dots chip on it */}

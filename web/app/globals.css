@@ -182,7 +182,7 @@
   font-weight: 600;
 }
 .tava-blog .tb-article h1 {
-  font-family: var(--font-accent), var(--font-brand);
+  font-family: var(--font-brand);
   font-weight: 800;
   letter-spacing: -0.01em;
   font-size: clamp(2rem, 5vw, 2.75rem);
@@ -199,7 +199,7 @@
   margin: 0 0 1.25rem;
 }
 .tava-blog .tb-article h2 {
-  font-family: var(--font-accent), var(--font-brand);
+  font-family: var(--font-brand);
   font-weight: 700;
   font-size: 1.8125rem;
   line-height: 1.2;
@@ -375,7 +375,7 @@
   font-weight: 600;
 }
 .tava-legal .legal > h1 {
-  font-family: var(--font-accent), var(--font-brand);
+  font-family: var(--font-brand);
   font-weight: 800;
   letter-spacing: -0.01em;
   font-size: clamp(2rem, 5vw, 2.75rem);
@@ -466,15 +466,14 @@
   }
 }
 
-/* Accent treatment, reversed at Vashon direction on 2026-11-21: the
-   Italianno script now sits on the headings and titles only, and gold
-   words outside headings are back in the brand font. Gold words still
-   carry the brushed metal gradient below, and the gold tails inside
-   headings take the same gradient in the script the heading wears. */
-h1,
-h2,
-h3 {
+/* Accent treatment, as clarified by Vashon on 2026-11-21: headings and
+   titles stay in the brand font, and the Italianno script is used only
+   for the gold words inside a heading or title, through the
+   gold-metal-text class below. Gold words outside headings are set in
+   the brand font. Every gold word carries the brushed metal gradient. */
+.gold-metal-text {
   font-family: var(--font-accent), var(--font-brand);
+  font-weight: 400;
   font-synthesis: none;
 }
 
