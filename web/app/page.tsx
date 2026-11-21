@@ -71,8 +71,8 @@ export default function Page() {
     <SiteShell>
       {/* Hero */}
       <section className="mx-auto max-w-7xl px-5 sm:px-8">
-        <div className="py-14 lg:py-20">
-          <div className="tava-reveal max-w-3xl">
+        <div className="grid items-center gap-10 py-14 lg:grid-cols-2 lg:py-20">
+          <div className="tava-reveal">
             <p className="text-sm font-semibold tracking-wide text-gold">
               Tava Labs
             </p>
@@ -80,167 +80,188 @@ export default function Page() {
               The Science of <span className="text-gold">Attractive Health</span>
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-relaxed text-ink/75">
-              Skincare and prescription peptide programs for people building
-              something. Start with the serum, explore the programs, and let
-              licensed providers handle the medicine.
+              Skincare for the ambitious. One lightweight serum with PDRN,
+              peptides, and hyaluronic acid, made for founders who pitch,
+              present, and record every day. Two minutes, morning and night,
+              so you walk in looking prepared, composed, and polished.
             </p>
-          </div>
-
-          <div className="tava-reveal-delay mt-12">
-            <div className="grid gap-5 lg:grid-cols-2">
-              <Link
-                href="/glow-brightening-serum"
-                aria-label="Shop the PDRN Brightening Serum"
-                className="relative flex min-h-[320px] overflow-hidden rounded-[28px] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
+            <div className="mt-8 flex flex-wrap items-center gap-4">
+              <Button
+                render={<Link href="/glow-brightening-serum" />}
+                size="lg"
+                className="px-6"
               >
-                <Image
-                  src="/assets/IMG_3265.jpeg"
-                  alt="Tava Labs PDRN Brightening Serum bottle over cream silk"
-                  fill
-                  priority
-                  sizes="(min-width: 1024px) 50vw, 100vw"
-                  className="object-cover"
-                />
-                <div
-                  className="absolute inset-0 bg-gradient-to-t from-[#08251d] via-[#08251d]/50 to-transparent"
-                  aria-hidden="true"
-                />
-                <div className="relative mt-auto flex w-full items-end justify-between gap-4 p-7 sm:p-9">
-                  <div>
-                    <h2 className="font-display text-3xl font-semibold text-white sm:text-4xl">
-                      Start with the serum
-                    </h2>
-                    <p className="mt-2 text-sm font-semibold tracking-wide text-gold-soft">
-                      Shop the PDRN Brightening Serum
-                    </p>
-                  </div>
-                  <ChevronRight
-                    className="mb-1 h-6 w-6 shrink-0 text-gold-soft"
-                    aria-hidden="true"
-                  />
-                </div>
-              </Link>
-
-              <a
-                href="https://tava.mydose.store"
-                target="_blank"
-                rel="noreferrer"
-                aria-label="Find your peptide program at the Tava store"
-                className="flex min-h-[320px] overflow-hidden rounded-[28px] bg-forest-deep focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
-              >
-                <div className="flex flex-1 flex-col justify-end p-7 sm:p-9">
-                  <h2 className="font-display text-3xl font-semibold text-white sm:text-4xl">
-                    Peptide programs, prescribed online
-                  </h2>
-                  <p className="mt-2 flex items-center gap-1 text-sm font-semibold tracking-wide text-gold-soft">
-                    Find your program
-                    <ChevronRight className="h-4 w-4 shrink-0" aria-hidden="true" />
-                  </p>
-                </div>
-                <div className="relative m-5 ml-0 w-2/5 shrink-0 overflow-hidden rounded-3xl sm:w-1/3">
-                  <Image
-                    src="https://tava.mydose.store/_next/static/media/art-1.0jdcptfgwq9oq.webp"
-                    alt="Prescription peptide vial on a beige background"
-                    fill
-                    sizes="(min-width: 1024px) 17vw, (min-width: 640px) 33vw, 40vw"
-                    className="object-cover"
-                  />
-                </div>
-              </a>
-            </div>
-
-            <div className="mt-5 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-              <a
-                href="https://tava.mydose.store/products/tirzepatide-b12-cyanocobalamin"
-                target="_blank"
-                rel="noreferrer"
-                aria-label="Lose weight: GLP-1 programs with provider review"
-                className="flex items-start justify-between gap-3 rounded-3xl bg-linen p-6 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
-              >
-                <span>
-                  <span className="block font-display text-2xl font-semibold text-forest-deep">
-                    Lose weight
-                  </span>
-                  <span className="mt-1.5 block text-sm leading-relaxed text-ink/70">
-                    GLP-1 programs with provider review
-                  </span>
-                </span>
-                <ChevronRight
-                  className="mt-1.5 h-5 w-5 shrink-0 text-gold"
-                  aria-hidden="true"
-                />
-              </a>
-              <a
-                href="https://tava.mydose.store/products/bpc-157"
-                target="_blank"
-                rel="noreferrer"
-                aria-label="Recover and rebuild: BPC-157, TB-500, and blends"
-                className="flex items-start justify-between gap-3 rounded-3xl bg-linen p-6 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
-              >
-                <span>
-                  <span className="block font-display text-2xl font-semibold text-forest-deep">
-                    Recover and rebuild
-                  </span>
-                  <span className="mt-1.5 block text-sm leading-relaxed text-ink/70">
-                    BPC-157, TB-500, and blends
-                  </span>
-                </span>
-                <ChevronRight
-                  className="mt-1.5 h-5 w-5 shrink-0 text-gold"
-                  aria-hidden="true"
-                />
-              </a>
-              <a
-                href="https://tava.mydose.store/products/nad-injectable"
-                target="_blank"
-                rel="noreferrer"
-                aria-label="Support longevity: NAD+, sermorelin, and more"
-                className="flex items-start justify-between gap-3 rounded-3xl bg-linen p-6 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
-              >
-                <span>
-                  <span className="block font-display text-2xl font-semibold text-forest-deep">
-                    Support longevity
-                  </span>
-                  <span className="mt-1.5 block text-sm leading-relaxed text-ink/70">
-                    NAD+, sermorelin, and more
-                  </span>
-                </span>
-                <ChevronRight
-                  className="mt-1.5 h-5 w-5 shrink-0 text-gold"
-                  aria-hidden="true"
-                />
-              </a>
-              <a
-                href="https://tava.mydose.store/products/pt-141"
-                target="_blank"
-                rel="noreferrer"
-                aria-label="Sexual health: PT-141, prescribed online"
-                className="flex items-start justify-between gap-3 rounded-3xl bg-linen p-6 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
-              >
-                <span>
-                  <span className="block font-display text-2xl font-semibold text-forest-deep">
-                    Sexual health
-                  </span>
-                  <span className="mt-1.5 block text-sm leading-relaxed text-ink/70">
-                    PT-141, prescribed online
-                  </span>
-                </span>
-                <ChevronRight
-                  className="mt-1.5 h-5 w-5 shrink-0 text-gold"
-                  aria-hidden="true"
-                />
-              </a>
-            </div>
-
-            <p className="mt-8 text-sm text-ink/70">
-              Not sure where to start?{" "}
+                Shop the Serum
+              </Button>
               <Link
                 href="/quiz"
-                className="font-semibold text-forest underline decoration-gold-soft decoration-2 underline-offset-4 hover:text-forest-deep"
+                className="text-sm font-semibold text-forest underline decoration-gold-soft decoration-2 underline-offset-4 hover:text-forest-deep"
               >
                 Take the skin quiz
               </Link>
-            </p>
+            </div>
+          </div>
+          <div className="tava-reveal-delay relative aspect-[4/3] overflow-hidden rounded-3xl lg:aspect-[4/5]">
+            <Image
+              src="/assets/IMG_3265.jpeg"
+              alt="Tava Labs PDRN Brightening Serum bottle over cream silk"
+              fill
+              priority
+              sizes="(min-width: 1024px) 50vw, 100vw"
+              className="object-cover"
+            />
+          </div>
+        </div>
+      </section>
+
+      {/* Start here: category cards */}
+      <section
+        aria-label="Shop by category"
+        className="mx-auto max-w-7xl px-5 pb-16 sm:px-8 lg:pb-20"
+      >
+        <div className="tava-reveal-delay">
+          <div className="grid gap-5 lg:grid-cols-2">
+            <Link
+              href="/glow-brightening-serum"
+              aria-label="Shop the PDRN Brightening Serum"
+              className="relative flex min-h-[320px] overflow-hidden rounded-[28px] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
+            >
+              <Image
+                src="/assets/products/pdrn-bright-serum/view-2-mockup.jpg"
+                alt="Tava Labs PDRN Brightening Serum bottle"
+                fill
+                sizes="(min-width: 1024px) 50vw, 100vw"
+                className="object-cover"
+              />
+              <div
+                className="absolute inset-0 bg-gradient-to-t from-[#08251d] via-[#08251d]/50 to-transparent"
+                aria-hidden="true"
+              />
+              <div className="relative mt-auto flex w-full items-end justify-between gap-4 p-7 sm:p-9">
+                <div>
+                  <h2 className="font-display text-3xl font-semibold text-white sm:text-4xl">
+                    Start with the serum
+                  </h2>
+                  <p className="mt-2 text-sm font-semibold tracking-wide text-gold-soft">
+                    Shop the PDRN Brightening Serum
+                  </p>
+                </div>
+                <ChevronRight
+                  className="mb-1 h-6 w-6 shrink-0 text-gold-soft"
+                  aria-hidden="true"
+                />
+              </div>
+            </Link>
+
+            <a
+              href="https://tava.mydose.store"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="Find your peptide program at the Tava store"
+              className="flex min-h-[320px] overflow-hidden rounded-[28px] bg-forest-deep focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
+            >
+              <div className="flex flex-1 flex-col justify-end p-7 sm:p-9">
+                <h2 className="font-display text-3xl font-semibold text-white sm:text-4xl">
+                  Peptide programs, prescribed online
+                </h2>
+                <p className="mt-2 flex items-center gap-1 text-sm font-semibold tracking-wide text-gold-soft">
+                  Find your program
+                  <ChevronRight className="h-4 w-4 shrink-0" aria-hidden="true" />
+                </p>
+              </div>
+              <div className="relative m-5 ml-0 w-2/5 shrink-0 overflow-hidden rounded-3xl sm:w-1/3">
+                <Image
+                  src="https://tava.mydose.store/_next/static/media/art-1.0jdcptfgwq9oq.webp"
+                  alt="Prescription peptide vial on a beige background"
+                  fill
+                  sizes="(min-width: 1024px) 17vw, (min-width: 640px) 33vw, 40vw"
+                  className="object-cover"
+                />
+              </div>
+            </a>
+          </div>
+
+          <div className="mt-5 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+            <a
+              href="https://tava.mydose.store/products/tirzepatide-b12-cyanocobalamin"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="Lose weight: GLP-1 programs with provider review"
+              className="flex items-start justify-between gap-3 rounded-3xl bg-linen p-6 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
+            >
+              <span>
+                <span className="block font-display text-2xl font-semibold text-forest-deep">
+                  Lose weight
+                </span>
+                <span className="mt-1.5 block text-sm leading-relaxed text-ink/70">
+                  GLP-1 programs with provider review
+                </span>
+              </span>
+              <ChevronRight
+                className="mt-1.5 h-5 w-5 shrink-0 text-gold"
+                aria-hidden="true"
+              />
+            </a>
+            <a
+              href="https://tava.mydose.store/products/bpc-157"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="Recover and rebuild: BPC-157, TB-500, and blends"
+              className="flex items-start justify-between gap-3 rounded-3xl bg-linen p-6 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
+            >
+              <span>
+                <span className="block font-display text-2xl font-semibold text-forest-deep">
+                  Recover and rebuild
+                </span>
+                <span className="mt-1.5 block text-sm leading-relaxed text-ink/70">
+                  BPC-157, TB-500, and blends
+                </span>
+              </span>
+              <ChevronRight
+                className="mt-1.5 h-5 w-5 shrink-0 text-gold"
+                aria-hidden="true"
+              />
+            </a>
+            <a
+              href="https://tava.mydose.store/products/nad-injectable"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="Support longevity: NAD+, sermorelin, and more"
+              className="flex items-start justify-between gap-3 rounded-3xl bg-linen p-6 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
+            >
+              <span>
+                <span className="block font-display text-2xl font-semibold text-forest-deep">
+                  Support longevity
+                </span>
+                <span className="mt-1.5 block text-sm leading-relaxed text-ink/70">
+                  NAD+, sermorelin, and more
+                </span>
+              </span>
+              <ChevronRight
+                className="mt-1.5 h-5 w-5 shrink-0 text-gold"
+                aria-hidden="true"
+              />
+            </a>
+            <a
+              href="https://tava.mydose.store/products/pt-141"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="Sexual health: PT-141, prescribed online"
+              className="flex items-start justify-between gap-3 rounded-3xl bg-linen p-6 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
+            >
+              <span>
+                <span className="block font-display text-2xl font-semibold text-forest-deep">
+                  Sexual health
+                </span>
+                <span className="mt-1.5 block text-sm leading-relaxed text-ink/70">
+                  PT-141, prescribed online
+                </span>
+              </span>
+              <ChevronRight
+                className="mt-1.5 h-5 w-5 shrink-0 text-gold"
+                aria-hidden="true"
+              />
+            </a>
           </div>
         </div>
       </section>
@@ -275,43 +296,47 @@ export default function Page() {
 
       {/* Your next meeting */}
       <section className="mx-auto max-w-7xl px-5 py-12 sm:px-8 lg:py-16">
-        <div className="relative overflow-hidden rounded-[28px] bg-forest-deep text-[#fafaf9]">
-          <div className="absolute inset-0" aria-hidden="true">
+        <div className="overflow-hidden rounded-[28px] bg-forest-deep text-[#fafaf9]">
+          <div className="relative h-80 sm:h-96 lg:h-[30rem]">
             <Image
               src="/assets/home/IMG_3363.jpeg"
-              alt=""
+              alt="Founder in a blazer looking up, ready for his next meeting"
               fill
               sizes="(min-width: 1280px) 1216px, 100vw"
               className="object-cover object-top"
             />
-            <div className="absolute inset-0 bg-gradient-to-b from-[#08251d]/10 via-[#08251d]/60 to-[#08251d]" />
+            <div
+              className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-[#08251d]"
+              aria-hidden="true"
+            />
           </div>
-          <div className="relative max-w-3xl px-6 py-14 sm:px-10 lg:px-14 lg:py-20">
-            <h2 className="font-display text-4xl leading-tight font-semibold sm:text-5xl">
+          <div className="max-w-3xl px-6 pt-10 pb-14 sm:px-10 lg:px-14 lg:pb-20">
+            <p className="text-sm font-semibold tracking-[0.22em] text-gold-soft">
+              SKINCARE FOR THE AMBITIOUS
+            </p>
+            <h2 className="mt-5 font-display text-4xl leading-tight font-semibold sm:text-5xl">
               Your next meeting starts with <span className="text-gold-soft">you.</span>
             </h2>
-            <p className="mt-6 text-lg leading-relaxed text-[#fafaf9]/80">
+            <p className="mt-6 text-lg leading-relaxed text-[#fafaf9]/85">
               Your appearance is part of your professional presence. One daily
               routine, built for people who pitch, present, and record, helps
               you look composed and polished on the days that ask the most of
-              you. Build your business. Do not neglect yourself.
+              you. Build your business. Do not{" "}
+              <span className="text-gold-soft">neglect yourself.</span>
             </p>
-            <div className="mt-8 flex flex-wrap gap-4">
-              <Button
-                render={<Link href="/glow-brightening-serum" />}
-                size="lg"
-                className="bg-gold px-6 text-white hover:bg-gold/85"
+            <div className="mt-9 flex flex-wrap items-center gap-4">
+              <Link
+                href="/glow-brightening-serum"
+                className="rounded-full bg-black px-8 py-3.5 text-sm font-semibold tracking-[0.14em] text-gold-soft uppercase transition-colors hover:bg-black/80 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
               >
-                Get started
-              </Button>
-              <Button
-                render={<Link href="/quiz" />}
-                size="lg"
-                variant="outline"
-                className="border-white/30 bg-transparent px-6 text-[#fafaf9] hover:bg-white/10 hover:text-white"
+                Get Started
+              </Link>
+              <Link
+                href="/quiz"
+                className="rounded-full border border-white/25 bg-white/10 px-8 py-3.5 text-sm font-semibold text-white transition-colors hover:bg-white/20 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
               >
                 Take the quiz
-              </Button>
+              </Link>
             </div>
           </div>
         </div>
@@ -507,9 +532,9 @@ export default function Page() {
             Tava in Motion
           </h2>
           <p className="mt-3 text-ink/75">
-            Short clips from founders and creators.
+            Short clips from founders and creators. Swipe to see more.
           </p>
-          <div className="mt-8 grid grid-cols-2 gap-3 sm:grid-cols-3">
+          <div className="mt-8 flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
             {MOTION_VIDEOS.map((v) => (
               <video
                 key={v}
@@ -519,7 +544,7 @@ export default function Page() {
                 autoPlay
                 playsInline
                 preload="metadata"
-                className="aspect-[3/4] w-full rounded-2xl object-cover"
+                className="aspect-[3/4] w-[68%] shrink-0 snap-start rounded-2xl object-cover sm:w-[38%] lg:w-[23%]"
               />
             ))}
           </div>
