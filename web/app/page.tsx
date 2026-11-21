@@ -7,6 +7,7 @@ import FreeFrom from "@/components/FreeFrom";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { pageMetadata } from "@/lib/pageMeta";
+import { MEETING_PORTRAIT } from "@/lib/meetingPortrait";
 import { getBlogCards } from "@/lib/blog";
 import type { PageData } from "@/lib/pageData";
 import rawData from "@/lib/pages/index.json";
@@ -297,46 +298,43 @@ export default function Page() {
       {/* Your next meeting */}
       <section className="mx-auto max-w-7xl px-5 py-12 sm:px-8 lg:py-16">
         <div className="overflow-hidden rounded-[28px] bg-forest-deep text-[#fafaf9]">
-          <div className="relative h-80 sm:h-96 lg:h-[30rem]">
-            <Image
-              src="/assets/home/IMG_3363.jpeg"
-              alt="Founder in a blazer looking up, ready for his next meeting"
-              fill
-              sizes="(min-width: 1280px) 1216px, 100vw"
-              className="object-cover object-top"
-            />
+          <div className="flex flex-col lg:flex-row">
             <div
-              className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-[#08251d]"
-              aria-hidden="true"
+              role="img"
+              aria-label="Founder in a blazer looking up, ready for his next meeting"
+              className="h-[440px] w-full shrink-0 bg-cover bg-[center_top] bg-no-repeat lg:order-2 lg:h-auto lg:min-h-[540px] lg:w-1/2"
+              style={{
+                backgroundImage: `linear-gradient(to bottom, rgba(8,37,29,0) 50%, rgba(8,37,29,0.45) 78%, #08251D 100%), url("${MEETING_PORTRAIT}")`,
+              }}
             />
-          </div>
-          <div className="max-w-3xl px-6 pt-10 pb-14 sm:px-10 lg:px-14 lg:pb-20">
-            <p className="text-sm font-semibold tracking-[0.22em] text-gold-soft">
-              SKINCARE FOR THE AMBITIOUS
-            </p>
-            <h2 className="mt-5 font-display text-4xl leading-tight font-semibold sm:text-5xl">
-              Your next meeting starts with <span className="text-gold-soft">you.</span>
-            </h2>
-            <p className="mt-6 text-lg leading-relaxed text-[#fafaf9]/85">
-              Your appearance is part of your professional presence. One daily
-              routine, built for people who pitch, present, and record, helps
-              you look composed and polished on the days that ask the most of
-              you. Build your business. Do not{" "}
-              <span className="text-gold-soft">neglect yourself.</span>
-            </p>
-            <div className="mt-9 flex flex-wrap items-center gap-4">
-              <Link
-                href="/glow-brightening-serum"
-                className="rounded-full bg-black px-8 py-3.5 text-sm font-semibold tracking-[0.14em] text-gold-soft uppercase transition-colors hover:bg-black/80 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
-              >
-                Get Started
-              </Link>
-              <Link
-                href="/quiz"
-                className="rounded-full border border-white/25 bg-white/10 px-8 py-3.5 text-sm font-semibold text-white transition-colors hover:bg-white/20 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
-              >
-                Take the quiz
-              </Link>
+            <div className="flex flex-1 flex-col justify-center px-6 py-11 sm:px-10 lg:order-1 lg:px-14 lg:py-16">
+              <p className="text-sm font-semibold tracking-[0.22em] text-gold-soft">
+                SKINCARE FOR THE AMBITIOUS
+              </p>
+              <h2 className="mt-5 max-w-[520px] font-display text-4xl leading-tight font-semibold sm:text-5xl">
+                Your next meeting starts with <span className="text-gold-soft">you.</span>
+              </h2>
+              <p className="mt-6 max-w-[440px] text-lg leading-relaxed text-[#fafaf9]/85">
+                Your appearance is part of your professional presence. One daily
+                routine, built for people who pitch, present, and record, helps
+                you look composed and polished on the days that ask the most of
+                you. Build your business. Do not{" "}
+                <span className="text-gold-soft">neglect yourself.</span>
+              </p>
+              <div className="mt-9 flex flex-wrap items-center gap-4">
+                <Link
+                  href="/glow-brightening-serum"
+                  className="rounded-full bg-black px-8 py-3.5 text-sm font-semibold tracking-[0.14em] text-gold-soft uppercase transition-colors hover:bg-black/80 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
+                >
+                  Get Started
+                </Link>
+                <Link
+                  href="/quiz"
+                  className="rounded-full border border-white/25 bg-white/10 px-8 py-3.5 text-sm font-semibold text-white transition-colors hover:bg-white/20 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
+                >
+                  Take the quiz
+                </Link>
+              </div>
             </div>
           </div>
         </div>
@@ -532,19 +530,22 @@ export default function Page() {
             Tava in Motion
           </h2>
           <p className="mt-3 text-ink/75">
-            Short clips from founders and creators. Swipe to see more.
+            Short clips from founders and creators.
           </p>
-          <div className="mt-8 flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
-            {MOTION_VIDEOS.map((v) => (
+        </div>
+        <div className="tava-marquee pb-16 lg:pb-20" aria-label="Video carousel">
+          <div className="tava-marquee-track">
+            {[...MOTION_VIDEOS, ...MOTION_VIDEOS].map((v, i) => (
               <video
-                key={v}
+                key={`${v}-${i}`}
                 src={`/assets/ads/${v}.mp4`}
                 muted
                 loop
                 autoPlay
                 playsInline
                 preload="metadata"
-                className="aspect-[3/4] w-[68%] shrink-0 snap-start rounded-2xl object-cover sm:w-[38%] lg:w-[23%]"
+                aria-hidden={i >= MOTION_VIDEOS.length}
+                className="aspect-[3/4] w-52 shrink-0 rounded-2xl object-cover sm:w-60"
               />
             ))}
           </div>

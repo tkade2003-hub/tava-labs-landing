@@ -444,3 +444,31 @@
 .tava-legal .privacy-toc a:hover {
   text-decoration: underline;
 }
+
+/* Tava in Motion marquee: an auto scrolling track that loops seamlessly,
+   mirroring the live site carousel. Pauses on hover. */
+@keyframes tava-marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.tava-marquee {
+  overflow: hidden;
+}
+.tava-marquee-track {
+  display: flex;
+  gap: 16px;
+  width: max-content;
+  animation: tava-marquee 68s linear infinite;
+}
+.tava-marquee:hover .tava-marquee-track {
+  animation-play-state: paused;
+}
+@media (prefers-reduced-motion: reduce) {
+  .tava-marquee-track {
+    animation: none;
+  }
+}
