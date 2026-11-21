@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Script from "next/script";
-import { Nunito } from "next/font/google";
+import { Italianno, Nunito } from "next/font/google";
 import "./globals.css";
 import { GTM_CODE, POSTHOG_CODE } from "@/lib/analytics";
 
@@ -10,6 +10,15 @@ const nunito = Nunito({
   subsets: ["latin"],
   weight: ["400", "600", "700", "800"],
   variable: "--font-brand",
+  display: "swap",
+});
+
+/* Accent font for gold words only, chosen by Vashon on 2026-11-21.
+   Never used inside an H1, H2, or H3. */
+const italianno = Italianno({
+  subsets: ["latin"],
+  weight: ["400"],
+  variable: "--font-accent",
   display: "swap",
 });
 
@@ -27,7 +36,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={nunito.variable}>
+    <html lang="en" className={`${nunito.variable} ${italianno.variable}`}>
       <body className="min-h-screen bg-background font-sans text-foreground antialiased">
         <noscript>
           <iframe
