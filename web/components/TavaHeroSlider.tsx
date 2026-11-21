@@ -11,6 +11,7 @@ const slides = [
     title: "Look sharp\non Tava",
     badgeTitle: "Tava Labs",
     badgeSub: "PDRN Brightening Serum",
+    subtitle: "PDRN Brightening Serum",
   },
   {
     id: 2,
@@ -19,6 +20,7 @@ const slides = [
     title: "Focus better\non Tava",
     badgeTitle: "ADHD",
     badgeSub: "After clinician review",
+    subtitle: "After clinician review",
   },
   {
     id: 3,
@@ -27,6 +29,7 @@ const slides = [
     title: "Know your data\non Tava",
     badgeTitle: "Lab Biomarkers",
     badgeSub: "Performance insights",
+    subtitle: "Performance insights",
   },
 ];
 
@@ -98,6 +101,42 @@ const TavaHeroSlider: React.FC = () => {
           }}
         />
 
+        {/* Hero title and subtitle, over the video */}
+        <div
+          style={{
+            position: "absolute",
+            top: "24px",
+            left: "20px",
+            zIndex: 2,
+            color: "white",
+          }}
+        >
+          <div
+            style={{
+              fontSize: "34px",
+              fontWeight: 700,
+              lineHeight: 1.05,
+              textShadow: "0 2px 12px rgba(0,0,0,0.5)",
+              maxWidth: "58%",
+              whiteSpace: "pre-line",
+            }}
+          >
+            {slide.title}
+          </div>
+          <p
+            style={{
+              fontSize: "15px",
+              lineHeight: 1.4,
+              color: "rgba(255,255,255,0.92)",
+              textShadow: "0 1px 8px rgba(0,0,0,0.5)",
+              maxWidth: "58%",
+              margin: "10px 0 0 0",
+            }}
+          >
+            {slide.subtitle}
+          </p>
+        </div>
+
         {/* Start now, bottom corner of the frame */}
         <button
           style={{
@@ -127,7 +166,7 @@ const TavaHeroSlider: React.FC = () => {
             top: "50%",
             transform: "translateY(-50%)",
             width: "216px",
-            height: "300px",
+            height: "260px",
             borderRadius: "20px",
             overflow: "hidden",
             boxShadow: "0 8px 30px rgba(0,0,0,0.25)",
@@ -153,22 +192,10 @@ const TavaHeroSlider: React.FC = () => {
               padding: "14px",
               display: "flex",
               flexDirection: "column",
-              justifyContent: "space-between",
+              justifyContent: "flex-end",
               color: "white",
             }}
           >
-            <div
-              style={{
-                fontSize: "28px",
-                fontWeight: 700,
-                lineHeight: 1.05,
-                textShadow: "0 2px 12px rgba(0,0,0,0.5)",
-                whiteSpace: "pre-line",
-              }}
-            >
-              {slide.title}
-            </div>
-
             <div>
               <div
                 style={{
