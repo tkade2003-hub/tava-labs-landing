@@ -466,23 +466,10 @@
   }
 }
 
-/* Accent words: Cattalague script in metal gold, for gold words only.
-   Never applied to h1, h2, or h3 text; heading gold tails take the
-   metal color through the text-gold-metal utility and keep the brand font.
-   The font file ships from the repo assets folder at
-   /assets/fonts/Cattalague.ttf (copied into the app at build time). */
-@font-face {
-  font-family: "Cattalague";
-  src: url("/assets/fonts/Cattalague.ttf") format("truetype");
-  font-weight: 400;
-  font-display: swap;
-}
-.gold-word {
-  font-family: "Cattalague", var(--font-brand);
-  letter-spacing: 0;
-  line-height: 1.5;
-  font-weight: 400;
-}
+/* Accent words: gold words carry the brushed metal gradient below.
+   A replacement accent font is under review with Vashon; until he picks
+   one, gold words render in the brand font. */
+
 /* Brushed metal gold: a fine multi stop gradient with a slow shine,
    clipped to the text. Gold words and heading gold tails use it.
    Filled buttons wrap their label in a span so the pill fill survives. */

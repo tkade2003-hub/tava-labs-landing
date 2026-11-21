@@ -51,7 +51,7 @@ const heroCss = `
 .th-copy { position: absolute; top: 48px; left: 48px; z-index: 2; color: white; width: 600px; max-width: calc(100% - 360px); }
 .th-title { font-family: var(--font-brand); font-size: 56px; font-weight: 800; line-height: 1.05; letter-spacing: -0.01em; text-shadow: 0 2px 18px rgba(8,37,29,0.45); max-width: 100%; white-space: pre-line; margin: 0; }
 .th-sub { font-size: 19px; font-weight: 600; line-height: 1.55; color: rgba(255,255,255,0.88); text-shadow: 0 1px 10px rgba(8,37,29,0.5); max-width: 82%; margin: 16px 0 0 0; }
-.th-start { position: absolute; right: 48px; bottom: 48px; z-index: 2; background: #12100C; color: #D4AF37; border: 1px solid rgba(216,193,154,0.35); border-radius: 999px; padding: 14px 24px; font-family: "Cattalague", var(--font-brand); font-size: 20px; font-weight: 400; cursor: pointer; transition: background 0.25s ease, color 0.25s ease; }
+.th-start { position: absolute; right: 48px; bottom: 48px; z-index: 2; background: #12100C; color: #D4AF37; border: 1px solid rgba(216,193,154,0.35); border-radius: 999px; padding: 14px 24px; font-family: var(--font-brand); font-size: 16px; font-weight: 700; cursor: pointer; transition: background 0.25s ease, color 0.25s ease; }
 .th-start:hover { background: #08251D; color: #FAFAF9; }
 .th-start:focus-visible, .th-dot:focus-visible { outline: 2px solid #B78B45; outline-offset: 2px; }
 .th-card { position: absolute; right: 48px; top: 50%; transform: translateY(-50%); width: 216px; height: 264px; border-radius: 22px; overflow: hidden; border: 1px solid rgba(216,193,154,0.55); box-shadow: 0 24px 48px rgba(8,37,29,0.45), 0 4px 14px rgba(0,0,0,0.25); z-index: 3; background: #08251D; }

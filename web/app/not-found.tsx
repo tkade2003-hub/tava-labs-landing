@@ -6,7 +6,7 @@ export default function NotFound() {
   return (
     <SiteShell>
       <section className="mx-auto flex max-w-7xl flex-col items-start px-5 py-24 sm:px-8">
-        <p className="gold-word text-lg">
+        <p className="gold-word text-sm font-semibold tracking-wide">
           Tava Labs
         </p>
         <h1 className="mt-4 font-display text-5xl font-semibold text-forest-deep sm:text-6xl">

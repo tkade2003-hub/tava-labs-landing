@@ -15,7 +15,7 @@ export default function Page() {
   return (
     <SiteShell>
       <section className="mx-auto max-w-7xl px-5 pt-14 pb-16 sm:px-8 lg:pt-20">
-        <p className="gold-word text-lg">
+        <p className="gold-word text-sm font-semibold tracking-wide">
           The Tava Journal
         </p>
         <h1 className="mt-4 max-w-3xl font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl">
@@ -42,7 +42,7 @@ export default function Page() {
                 />
               </Link>
               <div>
-                <p className="gold-word text-[17px]">
+                <p className="gold-word text-[13px] font-semibold">
                   {card.meta}
                 </p>
                 <h2 className="mt-2 font-display text-3xl leading-tight font-semibold text-forest-deep">

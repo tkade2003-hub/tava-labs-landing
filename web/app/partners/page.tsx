@@ -78,7 +78,7 @@ export default function Page() {
     <SiteShell>
       {/* Hero */}
       <section className="mx-auto max-w-7xl px-5 pt-14 pb-16 sm:px-8 lg:pt-20">
-        <p className="gold-word text-lg">
+        <p className="gold-word font-semibold">
           Partner With Tava Labs
         </p>
         <h1 className="mt-4 max-w-3xl font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl">
@@ -172,7 +172,7 @@ export default function Page() {
         <div className="mt-10 grid gap-10 md:grid-cols-3">
           {STEPS.map((step) => (
             <article key={step.n} className="border-t-2 border-gold pt-5">
-              <p className="gold-word text-4xl">
+              <p className="gold-word text-4xl font-semibold">
                 {step.n}
               </p>
               <h3 className="mt-2 font-display text-2xl font-semibold text-forest-deep">
@@ -194,12 +194,12 @@ export default function Page() {
             Email{" "}
             <a
               href="mailto:talia@tavalabs.app"
-              className="gold-word text-lg underline underline-offset-4"
+              className="gold-word font-semibold underline underline-offset-4"
             >
               talia@tavalabs.app
             </a>{" "}
             or call{" "}
-            <a href="tel:+19099061308" className="gold-word text-lg">
+            <a href="tel:+19099061308" className="gold-word font-semibold">
               909-906-1308
             </a>
             , and we will set it up.

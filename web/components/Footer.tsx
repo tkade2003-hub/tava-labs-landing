@@ -41,7 +41,7 @@ export default function Footer() {
         <div className="grid gap-12 lg:grid-cols-[1.3fr_1fr_1fr_1fr]">
           <div>
             <Logo className="h-8 w-auto" />
-            <p className="mt-5 max-w-xs gold-word text-2xl">
+            <p className="mt-5 max-w-xs gold-word text-xl">
               The Science of Attractive Health
             </p>
             <div className="mt-6 flex gap-3">

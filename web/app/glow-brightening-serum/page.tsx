@@ -166,7 +166,7 @@ export default function Page() {
           <div>
             <div className="flex flex-wrap items-center gap-3">
               <Badge className="bg-forest text-[#fafaf9]">In Stock</Badge>
-              <p className="gold-word text-[17px]">
+              <p className="gold-word text-[13px] font-semibold">
                 Clean and Vegan &bull; PDRN Active
               </p>
             </div>
@@ -238,7 +238,7 @@ export default function Page() {
       {/* Innovation */}
       <section className="border-t border-linestone">
         <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
-          <p className="gold-word text-lg">
+          <p className="gold-word text-sm font-semibold tracking-wide">
             Cellular Innovation
           </p>
           <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep sm:text-5xl">
@@ -250,7 +250,7 @@ export default function Page() {
           <div className="mt-10 grid gap-10 md:grid-cols-3">
             {INNOVATION.map((item) => (
               <article key={item.n} className="border-t-2 border-forest pt-5">
-                <p className="gold-word text-xl">
+                <p className="gold-word text-lg font-semibold">
                   {item.n} / {item.label}
                 </p>
                 <h3 className="mt-2 font-display text-2xl font-semibold text-forest-deep">
@@ -292,7 +292,7 @@ export default function Page() {
       {/* Ecosystem */}
       <section className="bg-linen/60">
         <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
-          <p className="gold-word text-lg">
+          <p className="gold-word text-sm font-semibold tracking-wide">
             The Full Plan
           </p>
           <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep">
@@ -307,7 +307,7 @@ export default function Page() {
                 key={item}
                 className="flex gap-5 border-t border-linestone py-4"
               >
-                <span className="gold-word text-2xl">
+                <span className="gold-word text-xl font-semibold">
                   {i + 1}
                 </span>
                 <span className="leading-relaxed text-ink/80">{item}</span>
@@ -328,7 +328,7 @@ export default function Page() {
 
       {/* Clinical efficacy */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
-        <p className="gold-word text-lg">
+        <p className="gold-word text-sm font-semibold tracking-wide">
           Clinical Efficacy
         </p>
         <h2 className="mt-3 max-w-2xl font-display text-4xl font-semibold text-forest-deep">
@@ -364,7 +364,7 @@ export default function Page() {
       {/* Formulary */}
       <section id="formulation" className="border-t border-linestone">
         <div className="mx-auto max-w-7xl scroll-mt-8 px-5 py-16 sm:px-8 lg:py-20">
-          <p className="gold-word text-lg">
+          <p className="gold-word text-sm font-semibold tracking-wide">
             The Formulary
           </p>
           <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep">
@@ -452,7 +452,7 @@ export default function Page() {
       {/* Regimen protocol */}
       <section className="bg-linen/60">
         <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
-          <p className="gold-word text-lg">
+          <p className="gold-word text-sm font-semibold tracking-wide">
             Daily Regimen Protocol
           </p>
           <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep">
@@ -465,7 +465,7 @@ export default function Page() {
           </p>
           <div className="mt-10 grid items-start gap-12 lg:grid-cols-2">
             <div>
-              <p className="gold-word text-lg">
+              <p className="gold-word text-sm font-semibold tracking-wide">
                 Clinical Progression
               </p>
               <h3 className="mt-2 font-display text-3xl font-semibold text-forest-deep">
@@ -490,7 +490,7 @@ export default function Page() {
                 <AccordionItem key={step.title} value={step.title}>
                   <AccordionTrigger className="py-4 text-left">
                     <span className="flex items-baseline gap-3">
-                      <span className="gold-word text-xl">
+                      <span className="gold-word text-lg font-semibold">
                         {i + 1}
                       </span>
                       <span className="font-display text-xl font-semibold text-forest-deep">
@@ -512,7 +512,7 @@ export default function Page() {
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
         <div className="grid gap-10 lg:grid-cols-[1fr_1.6fr]">
           <div>
-            <p className="gold-word text-lg">
+            <p className="gold-word text-sm font-semibold tracking-wide">
               Answers and Clarity
             </p>
             <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep">
