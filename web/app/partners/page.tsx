@@ -31,7 +31,7 @@ const AUDIENCES = [
     img: "/assets/partners/IMG_3359.jpeg",
     alt: "Investor meeting with a founder",
     title: "For Angel Investors",
-    body: "You back the person as much as the company. A month of Tava Labs is a thoughtful, founder focused gift for your portfolio: something that supports the daily routine of the people you have invested in.",
+    body: "You back the person as much as the company. A free month of Tava Labs is a thoughtful gift for the founders in your portfolio, and it supports the daily routine of the people you have invested in.",
     how: "How it works: tell us how many founders you would like to gift, and we arrange delivery and their personal plans. No cost to you and no cost to them.",
   },
 ];
@@ -82,13 +82,13 @@ export default function Page() {
           Partner With Tava Labs
         </p>
         <h1 className="mt-4 max-w-3xl font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl">
-          Give your founders a free month of Tava Labs.
+          Give your founders a free month of <span className="text-gold">Tava Labs.</span>
         </h1>
         <p className="mt-5 max-w-2xl leading-relaxed text-ink/80">
           Tava Labs partners with accelerators, universities, angel
-          investors, and founder communities. We gift your members their
-          first month of the PDRN Brightening Serum, free, so the people
-          building companies can look after the person behind the company.
+          investors, and founder communities. Your members get their first
+          month of the PDRN Brightening Serum free, so the people building
+          companies can look after the person behind the company.
         </p>
         <p className="mt-4 font-display text-2xl text-forest italic">
           A free month, on us, with no strings attached.
@@ -111,7 +111,7 @@ export default function Page() {
         >
           <div className="mx-auto grid max-w-7xl items-center gap-12 px-5 py-16 sm:px-8 lg:grid-cols-2">
             <div
-              className={`relative aspect-[4/3] ${i % 2 === 1 ? "lg:order-2" : ""}`}
+              className={`relative aspect-[4/3] overflow-hidden rounded-3xl ${i % 2 === 1 ? "lg:order-2" : ""}`}
             >
               <Image
                 src={section.img}
@@ -137,7 +137,7 @@ export default function Page() {
       {/* Why */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
         <h2 className="font-display text-4xl font-semibold text-forest-deep">
-          Why You Will Love It
+          Zero cost. Zero effort. <span className="text-gold">Real value.</span>
         </h2>
         <div className="mt-10 grid gap-x-10 gap-y-10 sm:grid-cols-2 lg:grid-cols-4">
           {WHY.map((item) => (
@@ -185,10 +185,10 @@ export default function Page() {
       </section>
 
       {/* Closing CTA */}
-      <section className="bg-forest-deep text-[#fafaf9]">
-        <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8">
+      <section className="mx-auto max-w-7xl px-5 pb-20 sm:px-8">
+        <div className="rounded-[28px] bg-forest-deep px-6 py-14 text-[#fafaf9] sm:px-10 lg:px-14">
           <h2 className="max-w-2xl font-display text-4xl font-semibold">
-            Let&rsquo;s put a free month in your founders&rsquo; hands.
+            Let&rsquo;s put a free month in your founders&rsquo; <span className="text-gold-soft">hands.</span>
           </h2>
           <p className="mt-4 max-w-2xl leading-relaxed text-[#fafaf9]/75">
             Email{" "}

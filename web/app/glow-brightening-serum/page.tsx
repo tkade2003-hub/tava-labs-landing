@@ -23,7 +23,7 @@ export const metadata: Metadata = pageMetadata(data);
 const DETAILS = [
   {
     title: "Meet PDRN Brightening Serum",
-    body: "A lightweight, hydrating formula designed to enhance the appearance of smooth, radiant skin. Rapidly absorbs without residue to provide immediate cellular comfort and luminous nourishment.",
+    body: "A lightweight, hydrating formula for smoother, more radiant looking skin. It absorbs quickly, leaves no residue, and keeps skin comfortable.",
   },
   {
     title: "Ingredients and Formulation",
@@ -35,7 +35,7 @@ const DETAILS = [
   },
   {
     title: "Clean Skincare Guarantee",
-    body: "Certified cruelty free standards in formulation: fragrance free, silicone free, paraben free, mineral oil free, sulfate free, phthalate free, and allergen free. Dermatologist tested on all skin types.",
+    body: "Formulated to certified cruelty free standards, and made without fragrance, silicones, parabens, mineral oil, sulfates, phthalates, or common allergens. Dermatologist tested on all skin types.",
   },
 ];
 
@@ -44,19 +44,19 @@ const INNOVATION = [
     n: "01",
     label: "Cellular Renewal",
     title: "PDRN Bio Actives",
-    body: "Marine polydeoxyribonucleotide accelerates cellular turnover, revitalizing dull complexion and smoothing visible micro texture.",
+    body: "Marine PDRN speeds up cell turnover, reviving a dull complexion and smoothing visible texture.",
   },
   {
     n: "02",
     label: "Bio Peptide Complex",
     title: "Acetyl Hexapeptide-8",
-    body: "Signal peptides help relax surface tension and support natural collagen elasticity for youthful bounce and firmer skin tone.",
+    body: "Signal peptides ease surface tension and support natural collagen elasticity, for firmer looking skin with more bounce.",
   },
   {
     n: "03",
-    label: "Multi Depth Hydration",
+    label: "Deep Hydration",
     title: "Hydration Matrix",
-    body: "Synergistic blend of Hyaluronic Acid, Sodium PCA, and Panthenol locks in barrier moisture for over 24 hours.",
+    body: "Hyaluronic acid, sodium PCA, and panthenol work together to hold moisture in the skin barrier for over 24 hours.",
   },
 ];
 
@@ -106,23 +106,23 @@ const FORMULARY_OTHERS = [
 
 const PROTOCOL = [
   {
-    title: "Step 1: Cleanse — Gentle Wash",
-    body: "Cleanse thoroughly with a pH balanced gentle wash to remove debris and prepare skin surface without stripping essential lipids.",
+    title: "Cleanse, with a gentle wash",
+    body: "Cleanse with a gentle, pH balanced wash to clear debris and prepare the skin, without stripping its natural lipids.",
   },
   {
-    title: "Step 2: PDRN Serum — 2 to 4 Drops",
+    title: "PDRN Serum, 2 to 4 drops",
     body: "Apply 2 to 4 drops of PDRN Serum onto damp skin. Gently press and pat over face and neck until thoroughly absorbed.",
   },
   {
-    title: "Step 3: Moisturize — Hydrate",
-    body: "Seal with your moisturizer to trap the peptide complexes and reinforce ceramide barrier integrity.",
+    title: "Moisturize and hydrate",
+    body: "Seal with moisturizer to hold in the peptides and support the ceramide barrier.",
   },
   {
-    title: "Step 4: Protect (AM) — SPF 30+",
-    body: "Finish morning routine with broad spectrum SPF 30+ to protect newly energized skin cells against UV and free radical damage.",
+    title: "Protect (AM only), SPF 30+",
+    body: "Finish the morning routine with broad spectrum SPF 30+ to protect skin against UV and free radical damage.",
   },
   {
-    title: "Your personal plan — Included",
+    title: "Your personal plan, included",
     body: "Your skin quiz builds your plan, including how to start slow and when to build up.",
   },
 ];
@@ -130,11 +130,11 @@ const PROTOCOL = [
 const FAQS = [
   {
     q: "What is PDRN and how does it benefit the skin?",
-    a: "PDRN (Polydeoxyribonucleotide) consists of DNA fragments bio compatible with human skin cells. It acts as an energetic activator that promotes natural cellular regeneration, stimulates microcirculation, and helps repair damaged skin barriers for noticeable radiance and youthful firmness.",
+    a: "PDRN (Polydeoxyribonucleotide) is made of DNA fragments that are bio compatible with human skin cells. It promotes natural cell regeneration, stimulates microcirculation, and helps repair the skin barrier, for visible radiance and firmness.",
   },
   {
     q: "How do I incorporate PDRN Brightening Serum into my skincare routine?",
-    a: "Use PDRN Brightening Serum twice daily after cleansing and toning. Dispense 2 to 4 drops directly onto fingertips or damp skin, smoothing across the face, neck, and décolletage. Follow with your preferred moisturizer and morning sunscreen.",
+    a: "Use PDRN Brightening Serum twice daily after cleansing and toning. Dispense 2 to 4 drops directly onto fingertips or damp skin, smoothing across the face, neck, and décolletage. Follow with your moisturizer and morning sunscreen.",
   },
   {
     q: "Is this serum suitable for sensitive and acne prone skin?",
@@ -142,11 +142,11 @@ const FAQS = [
   },
   {
     q: "Can I layer PDRN with retinol, vitamin C, or AHA/BHA?",
-    a: "Absolutely. PDRN works synergistically with active treatments like Retinoids and Vitamin C. Its restorative hydration matrix actually helps soothe and counterbalance potential flaking or redness associated with chemical exfoliants.",
+    a: "Yes. PDRN works well alongside active treatments like retinoids and vitamin C. Its hydrating base helps soothe the flaking or redness that chemical exfoliants can cause.",
   },
   {
     q: "How long does one 30ml bottle typically last?",
-    a: "When applied at 2 to 4 drops twice daily, one 30ml (1 fl oz) bottle typically lasts 4 to 6 weeks. Our auto replenish membership ensures your next bottle arrives precisely when you need it.",
+    a: "When applied at 2 to 4 drops twice daily, one 30ml (1 fl oz) bottle typically lasts 4 to 6 weeks. Subscribe and Save sends the next bottle before you run out.",
   },
 ];
 
@@ -171,10 +171,10 @@ export default function Page() {
               </p>
             </div>
             <p className="mt-5 text-sm text-ink/60">
-              Clinical bio cellular skincare &bull; Clean and vegan
+              Dermatologist tested &bull; Made for all skin types
             </p>
             <h1 className="mt-2 font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl">
-              PDRN Brightening Serum
+              PDRN Brightening <span className="text-gold">Serum</span>
             </h1>
             <p className="mt-5 font-display text-3xl text-forest">
               $49.00{" "}
@@ -188,16 +188,14 @@ export default function Page() {
               <li className="flex gap-3">
                 <Sparkles className="mt-0.5 size-5 shrink-0 text-gold" />
                 <span className="leading-relaxed text-ink/80">
-                  Formulated with Polydeoxyribonucleotide (PDRN), Acetyl
-                  Hexapeptide-8, and Hyaluronic Acid to enhance skin
-                  smoothness and radiant luminescence.
+                  PDRN, Acetyl Hexapeptide-8, and hyaluronic acid, to support
+                  smoother, more radiant looking skin.
                 </span>
               </li>
               <li className="flex gap-3">
                 <Droplets className="mt-0.5 size-5 shrink-0 text-gold" />
                 <span className="leading-relaxed text-ink/80">
-                  Deep multi depth hydration powered by Glycerin, Sodium PCA,
-                  and soothing Panthenol.
+                  Deep hydration from glycerin, sodium PCA, and panthenol.
                 </span>
               </li>
               <li className="flex gap-3">
@@ -244,11 +242,10 @@ export default function Page() {
             Cellular Innovation
           </p>
           <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep sm:text-5xl">
-            Next Gen Skin Regeneration
+            Next Gen Skin <span className="text-gold">Regeneration</span>
           </h2>
           <p className="mt-4 max-w-2xl leading-relaxed text-ink/75">
-            Experience the power of marine bio actives and targeted
-            hexapeptides in daily topical therapy.
+            Marine actives and targeted hexapeptides, in one daily serum.
           </p>
           <div className="mt-10 grid gap-10 md:grid-cols-3">
             {INNOVATION.map((item) => (
@@ -271,7 +268,7 @@ export default function Page() {
               { src: "/assets/products/product-page/IMG_3318.jpeg", alt: "Crystal and formula" },
               { src: "/assets/products/product-page/IMG_3316.jpeg", alt: "Crystal swatch" },
             ].map((img) => (
-              <div key={img.src} className="relative aspect-[4/3]">
+              <div key={img.src} className="relative aspect-[4/3] overflow-hidden rounded-2xl">
                 <Image
                   src={img.src}
                   alt={img.alt}
@@ -296,7 +293,7 @@ export default function Page() {
       <section className="bg-linen/60">
         <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
           <p className="text-sm font-semibold tracking-wide text-gold">
-            Holistic Care Ecosystem
+            The Full Plan
           </p>
           <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep">
             Get complete routine support
@@ -322,8 +319,8 @@ export default function Page() {
               Add to Routine
             </Button>
             <p className="max-w-md text-sm text-ink/65">
-              Subscribe and Save can be paused, adjusted, or cancelled
-              anytime. One time purchases are always available at $49.
+              Pause, adjust, or cancel Subscribe and Save anytime. One time
+              purchases stay available at $49.
             </p>
           </div>
         </div>
@@ -335,7 +332,7 @@ export default function Page() {
           Clinical Efficacy
         </p>
         <h2 className="mt-3 max-w-2xl font-display text-4xl font-semibold text-forest-deep">
-          Look after your skin health with PDRN Glow
+          Look after your <span className="text-gold">skin health</span>
         </h2>
         <div className="mt-10 grid gap-8 md:grid-cols-3">
           {[
@@ -343,7 +340,7 @@ export default function Page() {
             { src: "/assets/products/product-page/IMG_3423.jpeg", alt: "Supports Deep Hydration diagram" },
             { src: "/assets/products/product-page/IMG_3422.jpeg", alt: "Enhances Skin Texture diagram" },
           ].map((img) => (
-            <div key={img.src} className="relative aspect-square bg-linen">
+            <div key={img.src} className="relative aspect-square overflow-hidden rounded-2xl bg-linen">
               <Image
                 src={img.src}
                 alt={img.alt}
@@ -368,20 +365,19 @@ export default function Page() {
       <section id="formulation" className="border-t border-linestone">
         <div className="mx-auto max-w-7xl scroll-mt-8 px-5 py-16 sm:px-8 lg:py-20">
           <p className="text-sm font-semibold tracking-wide text-gold">
-            Comprehensive Formulary
+            The Formulary
           </p>
           <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep">
             Which skincare treatment is right for you?
           </h2>
           <p className="mt-4 max-w-2xl leading-relaxed text-ink/75">
-            We offer targeted formulas to fit various skin goals, concerns,
-            and routines. Build a comprehensive regimen tailored to your
-            cellular barrier.
+            Targeted formulas for different skin goals, concerns, and
+            routines. Build the regimen that fits yours.
           </p>
 
           <div className="mt-10 grid gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
             <article className="border-t-2 border-gold pt-5">
-              <div className="relative aspect-square bg-linen">
+              <div className="relative aspect-square overflow-hidden rounded-2xl bg-linen">
                 <Image
                   src="/assets/products/pdrn-bright-serum/view-1-mockup.jpg"
                   alt="PDRN Brightening Serum"
@@ -418,7 +414,7 @@ export default function Page() {
 
             {FORMULARY_OTHERS.map((item) => (
               <article key={item.name} className="border-t-2 border-forest pt-5">
-                <div className="relative aspect-square bg-linen">
+                <div className="relative aspect-square overflow-hidden rounded-2xl bg-linen">
                   <Image
                     src={item.img}
                     alt={item.name}
@@ -460,12 +456,12 @@ export default function Page() {
             Daily Regimen Protocol
           </p>
           <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep">
-            Simple daily routine, maximum radiant results
+            One simple routine, <span className="text-gold">twice a day</span>
           </h2>
           <p className="mt-4 max-w-2xl leading-relaxed text-ink/75">
-            Consistent application of bio active peptides and PDRN enhances
-            dermal receptivity. Follow our sequential protocol morning and
-            evening to lock in active radiance.
+            Consistency matters. Follow these steps morning and evening so
+            the peptides and PDRN can do their work, and finish by locking in
+            moisture.
           </p>
           <div className="mt-10 grid items-start gap-12 lg:grid-cols-2">
             <div>
@@ -479,7 +475,7 @@ export default function Page() {
                 Enhanced glow and hydration in 7 to 14 days; improved skin
                 elasticity and barrier firmness by week 4 to 6.
               </p>
-              <div className="relative mt-6 aspect-[16/10]">
+              <div className="relative mt-6 aspect-[16/10] overflow-hidden rounded-2xl">
                 <Image
                   src="/assets/products/product-page/timeline.jpg"
                   alt="Example results timeline, weeks 1 to 4 and beyond"
@@ -545,10 +541,10 @@ export default function Page() {
       </section>
 
       {/* Final CTA */}
-      <section className="bg-forest-deep text-[#fafaf9]">
-        <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-8 px-5 py-14 sm:px-8">
+      <section className="mx-auto max-w-7xl px-5 pb-20 sm:px-8">
+        <div className="flex flex-wrap items-center justify-between gap-8 rounded-[28px] bg-forest-deep px-6 py-12 text-[#fafaf9] sm:px-10">
           <div className="flex items-center gap-5">
-            <div className="relative hidden size-20 shrink-0 sm:block">
+            <div className="relative hidden size-20 shrink-0 overflow-hidden rounded-xl sm:block">
               <Image
                 src="/assets/products/pdrn-bright-serum/view-1-mockup.jpg"
                 alt="PDRN Brightening Serum"

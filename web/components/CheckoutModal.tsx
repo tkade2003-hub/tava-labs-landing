@@ -15,8 +15,8 @@ import { Label } from "@/components/ui/label";
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { one_time: 49, subscribe: 39 } as const;
 const PLAN_LINES = {
-  one_time: "PDRN Brightening Serum — $49 · One-time purchase",
-  subscribe: "PDRN Brightening Serum — $39/month · Subscribe & Save 20%",
+  one_time: "PDRN Brightening Serum · $49 · One time purchase",
+  subscribe: "PDRN Brightening Serum · $39 per month · Subscribe & Save 20%",
 } as const;
 
 export type BuyType = keyof typeof PRICES;
@@ -73,7 +73,7 @@ export function CheckoutModal({
     if (!shippingAddress.stateCode) missing.push("state");
     if (!shippingAddress.zip) missing.push("ZIP code");
     if (missing.length) {
-      setError(`Almost there — add your ${missing.join(", ")}.`);
+      setError(`Almost there. Add your ${missing.join(", ")}.`);
       return;
     }
     setError("");
@@ -95,7 +95,7 @@ export function CheckoutModal({
       plan: {
         rampSchedule: "standard",
         summary:
-          "Direct checkout from the Tava Labs website (no quiz taken). Default routine plan — the buyer can personalize everything in the app.",
+          "Direct checkout from the Tava Labs website (no quiz taken). Default routine plan. The buyer can personalize everything in the app.",
       },
       order: {
         productId: PRODUCT.productId,
@@ -121,7 +121,7 @@ export function CheckoutModal({
       }
       throw new Error("no checkout url");
     } catch {
-      setError("Checkout couldn't start — please check your details and try again. Nothing was charged.");
+      setError("Checkout could not start. Check your details and try again. Nothing was charged.");
       setBusy(false);
       setSubmitLabel("Continue to Payment");
     }
@@ -290,7 +290,7 @@ export function CheckoutModal({
             {submitLabel}
           </Button>
           <p className="mt-2.5 text-center text-xs text-muted-foreground">
-            Secure checkout by Stripe — you&apos;ll confirm payment on Stripe&apos;s page. Nothing is
+            Secure checkout by Stripe. You will confirm payment on Stripe&apos;s page. Nothing is
             charged yet.
           </p>
         </form>

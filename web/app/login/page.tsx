@@ -49,7 +49,7 @@ export default function LoginPage() {
     });
     setSending(false);
     if (error) {
-      setErr1("We couldn't send that email — check the address and try again.");
+      setErr1("We could not send that email. Check the address and try again.");
       return;
     }
     setEmail(value);
@@ -59,7 +59,7 @@ export default function LoginPage() {
   async function verify() {
     const token = code.trim();
     if (!/^\d{6}$/.test(token)) {
-      setErr2("Enter the 6-digit code from your email.");
+      setErr2("Enter the six digit code from your email.");
       return;
     }
     setErr2("");
@@ -71,7 +71,7 @@ export default function LoginPage() {
     });
     setVerifying(false);
     if (error || !data.session) {
-      setErr2("That code didn't match — check it and try again, or resend a fresh code.");
+      setErr2("That code did not match. Check it and try again, or resend a fresh code.");
       return;
     }
     window.location.href = "/account";
@@ -93,9 +93,9 @@ export default function LoginPage() {
             Sign in
           </h1>
           <p className={`${subClass} mt-2`}>
-            Use the same email you bought with or use in the Tava mobile app — your plan, orders,
-            and routine are tied to that email, so everything shows up here exactly as it does in
-            the app. No password: we email you a 6-digit code and a sign-in link, and either one
+            Sign in with the email you used at checkout or in the Tava mobile app. Your plan,
+            orders, and routine are tied to that email, so everything here matches the app. No
+            password needed. We email you a six digit code and a sign in link, and either one
             signs you in.
           </p>
 
@@ -128,17 +128,17 @@ export default function LoginPage() {
                 onClick={sendCode}
                 disabled={sending}
               >
-                {sending ? "Sending…" : "Email me a sign-in code"}
+                {sending ? "Sending…" : "Email me a sign in code"}
               </Button>
             </div>
           ) : (
             <div className="mt-4">
               <div className="mb-4 rounded-xl bg-linen px-3.5 py-3 text-sm text-forest-deep">
-                Code sent to {email}. It can take a minute to arrive — check spam if you don&apos;t
-                see it.
+                Code sent to {email}. It can take a minute to arrive. Check your spam folder if
+                you do not see it.
               </div>
               <Label className={labelClass} htmlFor="code">
-                6-digit code from your email
+                Six digit code from your email
               </Label>
               <Input
                 className={inputClass}
@@ -169,8 +169,8 @@ export default function LoginPage() {
                 {verifying ? "Verifying…" : "Verify & sign in"}
               </Button>
               <p className={`${subClass} mt-3.5`}>
-                Rather tap than type? The same email also contains a sign-in link — tap it on this
-                device and you&apos;ll land in your account.{" "}
+                Rather tap than type? The same email contains a sign in link. Tap it on this
+                device and you will land in your account.{" "}
                 <a
                   href="#"
                   className="font-medium text-forest underline decoration-gold-soft decoration-2 underline-offset-4"
@@ -195,12 +195,12 @@ export default function LoginPage() {
           <p className={`${subClass} mt-2`}>
             When you bought through the quiz or this site, your purchase confirmation email (and
             the page right after checkout) showed a claim code. Open the Tava mobile app, sign in,
-            and enter that code in the Orders tab — your purchase, plan, and quiz answers move into
-            your app account, no second purchase.
+            and enter that code in the Orders tab. Your purchase, plan, and quiz answers move into
+            your app account, with no second purchase.
           </p>
           <p className={`${subClass} mt-3`}>
-            On the web it&apos;s even simpler: sign in above with the same email you checked out
-            with and your orders and plan are already here.
+            On the web it is simpler still. Sign in above with the same email you checked out
+            with, and your orders and plan are already here.
           </p>
           <Button
             variant="outline"

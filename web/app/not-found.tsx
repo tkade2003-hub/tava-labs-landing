@@ -13,8 +13,8 @@ export default function NotFound() {
           Page not found
         </h1>
         <p className="mt-4 max-w-md leading-relaxed text-ink/75">
-          The page you are looking for is not here. It may have moved, or the
-          address may be incomplete.
+          That page is not here. It may have moved, or the address may be
+          incomplete.
         </p>
         <div className="mt-8 flex flex-wrap gap-3">
           <Button render={<Link href="/" />} size="lg">

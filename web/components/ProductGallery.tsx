@@ -16,7 +16,7 @@ export default function ProductGallery() {
   const [active, setActive] = useState(0);
   return (
     <div>
-      <div className="relative aspect-square bg-linen">
+      <div className="relative aspect-square overflow-hidden rounded-3xl bg-linen">
         <Image
           key={VIEWS[active].src}
           src={VIEWS[active].src}
@@ -36,7 +36,7 @@ export default function ProductGallery() {
             aria-label={`View ${i + 1}`}
             aria-pressed={active === i}
             className={cn(
-              "relative aspect-square overflow-hidden bg-linen ring-offset-2 transition",
+              "relative aspect-square overflow-hidden rounded-xl bg-linen ring-offset-2 transition",
               active === i
                 ? "ring-2 ring-forest"
                 : "opacity-70 hover:opacity-100"

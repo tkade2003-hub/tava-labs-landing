@@ -19,10 +19,10 @@ export default function Page() {
           The Tava Journal
         </p>
         <h1 className="mt-4 max-w-3xl font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl">
-          Sleep and Stress Research for Founders
+          Sleep and Stress Research <span className="text-gold">for Founders</span>
         </h1>
         <p className="mt-5 max-w-2xl leading-relaxed text-ink/80">
-          Sleep science, stress research and performance insights for
+          Sleep science, stress research, and performance insight for
           founders.
         </p>
 
@@ -37,7 +37,7 @@ export default function Page() {
                 <img
                   src={card.image}
                   alt={card.imageAlt}
-                  className="aspect-[16/10] w-full object-cover"
+                  className="aspect-[16/10] w-full rounded-2xl object-cover"
                   loading="lazy"
                 />
               </Link>

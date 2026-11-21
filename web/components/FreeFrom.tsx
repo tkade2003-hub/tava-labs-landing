@@ -3,10 +3,10 @@ import Image from "next/image";
 export const FREE_FROM = [
   { name: "Cruelty Free", blurb: "Never tested on animals.", img: "/assets/IMG_3162.jpeg" },
   { name: "Fragrance Free", blurb: "No added perfumes or synthetic scents.", img: "/assets/IMG_3163.jpeg" },
-  { name: "Mineral Oil Free", blurb: "No mineral oil or petroleum-based fillers.", img: "/assets/IMG_3164.jpeg" },
+  { name: "Mineral Oil Free", blurb: "No mineral oil or petroleum fillers.", img: "/assets/IMG_3164.jpeg" },
   { name: "Phthalate Free", blurb: "No phthalates in the formula.", img: "/assets/IMG_3166.jpeg" },
   { name: "Silicone Free", blurb: "No silicones coating your skin.", img: "/assets/IMG_3167.jpeg" },
-  { name: "Sulfate Free", blurb: "No harsh sulfates — gentle on skin.", img: "/assets/IMG_3168.jpeg" },
+  { name: "Sulfate Free", blurb: "No harsh sulfates. Gentle on skin.", img: "/assets/IMG_3168.jpeg" },
   { name: "Allergen Free", blurb: "Made without common allergens.", img: "/assets/IMG_3169.jpeg" },
   { name: "Alcohol Free", blurb: "No drying alcohols.", img: "/assets/IMG_3170.jpeg" },
 ];

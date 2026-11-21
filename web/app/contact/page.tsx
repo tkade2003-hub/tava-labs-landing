@@ -17,7 +17,7 @@ const TOPICS = [
   {
     id: "wholesale",
     title: "Wholesale",
-    body: "Wholesale and retail enquiries for the PDRN Brightening Serum.",
+    body: "Wholesale and retail inquiries for the PDRN Brightening Serum.",
   },
   {
     id: "sales-support",
@@ -37,7 +37,7 @@ const TOPICS = [
   {
     id: "pr",
     title: "PR",
-    body: "Press and media enquiries.",
+    body: "Press and media inquiries.",
   },
 ];
 
@@ -52,8 +52,8 @@ export default function Page() {
           We would love to hear from you.
         </h1>
         <p className="mt-5 max-w-2xl leading-relaxed text-ink/80">
-          Email us and we will get back to you. Pick the topic that fits, or
-          just write to us directly.
+          Email us and we will get back to you. Choose the topic that fits,
+          or write to us directly.
         </p>
         <p className="mt-4 text-ink/80">
           Email:{" "}

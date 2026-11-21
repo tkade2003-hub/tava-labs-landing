@@ -288,8 +288,8 @@ export default function AccountPage() {
                   </h1>
                   <p className={`${subClass} mt-2`}>
                     {computed.streak > 0
-                      ? `${computed.streak}-day streak · Day ${computed.programDay} of 30${computed.bottleLine}`
-                      : `Day ${computed.programDay} of 30${computed.bottleLine} — complete today's routine in the app to start your streak.`}
+                      ? `${computed.streak} day streak · Day ${computed.programDay} of 30${computed.bottleLine}`
+                      : `Day ${computed.programDay} of 30${computed.bottleLine}. Complete today's routine in the app to start your streak.`}
                   </p>
                   <div className="mt-3 flex gap-2">
                     {computed.week.map((d, i) => (
@@ -314,7 +314,7 @@ export default function AccountPage() {
                   <h2 className={h2Class}>PDRN Brightening Serum</h2>
                   <p className={`${subClass} mt-2`}>
                     {plan?.summary ??
-                      "Take the skin quiz and your personal plan — built from your answers — will live here and in the app."}
+                      "Take the skin quiz, and your personal plan, built from your answers, will live here and in the app."}
                   </p>
                   <div className="mt-3">
                     {chips.map((c, i) => (
@@ -339,20 +339,20 @@ export default function AccountPage() {
 
                 <div className={cardClass}>
                   <p className={eyebrowClass}>Morning routine</p>
-                  <h2 className={h2Class}>AM — 3 drops</h2>
+                  <h2 className={h2Class}>AM · 3 drops</h2>
                   <div className="mt-1.5">
                     <Steps steps={AM_STEPS} doneIds={doneIds} />
                   </div>
                 </div>
                 <div className={cardClass}>
                   <p className={eyebrowClass}>Night routine</p>
-                  <h2 className={h2Class}>PM — 3 drops</h2>
+                  <h2 className={h2Class}>PM · 3 drops</h2>
                   <div className="mt-1.5">
                     <Steps steps={PM_STEPS} doneIds={doneIds} />
                   </div>
                   <p className={`${mutedClass} mt-3`}>
-                    Check-offs are tracked in the mobile app — this web view shows today&apos;s
-                    routine and what the app has recorded so far today.
+                    You check off steps in the mobile app. This page shows today&apos;s routine
+                    and what the app has recorded so far today.
                   </p>
                 </div>
               </section>
@@ -367,7 +367,7 @@ export default function AccountPage() {
                   </h2>
                   {data.orders.length === 0 ? (
                     <p className={`${subClass} mt-2`}>
-                      No orders yet — when you buy, your orders and tracking will show here and in
+                      No orders yet. When you buy, your orders and tracking will show here and in
                       the app.
                     </p>
                   ) : (
@@ -468,8 +468,8 @@ export default function AccountPage() {
                             Your claim code{c.orderNumber ? ` for order ${c.orderNumber}` : ""}
                             {c.expiresAt
                               ? ` (valid until ${new Date(c.expiresAt).toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric" })})`
-                              : ""}{" "}
-                            — enter it in the Tava app under Orders to link this purchase to your
+                              : ""}
+                            . Enter it in the Tava app under Orders to link this purchase to your
                             app account:
                           </p>
                           <div className="mt-3 rounded-xl border-2 border-dashed border-gold bg-linen px-4 py-3 text-center font-mono text-xl font-bold tracking-[0.12em] text-forest-deep">
@@ -478,7 +478,7 @@ export default function AccountPage() {
                         </div>
                       ))}
                       <p className={`${subClass} mt-3`}>
-                        Here on the web you don&apos;t need the code — signing in with your checkout
+                        Here on the web you do not need the code. Signing in with your checkout
                         email already shows your orders and plan above.
                       </p>
                     </div>
@@ -486,9 +486,9 @@ export default function AccountPage() {
                     <p className={`${subClass} mt-2`}>
                       Bought through the quiz or this site? Your confirmation email and the page
                       right after checkout showed a claim code. Open the Tava mobile app, sign in,
-                      and enter the code in the Orders tab — your purchase, plan, and quiz answers
+                      and enter the code in the Orders tab. Your purchase, plan, and quiz answers
                       move into your app account. Here on the web, signing in with the same email
-                      you checked out with already shows everything above — nothing else to enter.
+                      you checked out with already shows everything above. Nothing else to enter.
                     </p>
                   )}
                 </div>
@@ -503,14 +503,14 @@ export default function AccountPage() {
                     The Science of Attractive Health
                   </h2>
                   <p className={`${subClass} mt-2`}>
-                    1 fl oz (30 ml). Reduce fine lines, hydrate deeply, restore radiance, strengthen
-                    skin. 2–4 pumps, morning and night.
+                    1 fl oz (30 ml). Reduce fine lines, hydrate deeply, restore radiance, and
+                    strengthen skin. 2 to 4 pumps, morning and night.
                   </p>
                   <p className="mt-3.5">
-                    <b>Subscribe — $39/month.</b> A fresh bottle every month, automatically.
+                    <b>Subscribe, $39 per month.</b> A fresh bottle every month, automatically.
                   </p>
                   <p className="mt-1.5">
-                    <b>One-time — $49.</b> A single bottle.
+                    <b>One time, $49.</b> A single bottle.
                   </p>
                   <div className="mt-4 flex flex-wrap gap-2.5">
                     <Button
@@ -518,7 +518,7 @@ export default function AccountPage() {
                       type="button"
                       onClick={() => setBuyType("subscribe")}
                     >
-                      Subscribe — $39/month
+                      Subscribe, $39 per month
                     </Button>
                     <Button
                       variant="outline"
@@ -526,11 +526,11 @@ export default function AccountPage() {
                       type="button"
                       onClick={() => setBuyType("one_time")}
                     >
-                      Buy once — $49
+                      Buy once, $49
                     </Button>
                   </div>
                   <p className={`${mutedClass} mt-3.5`}>
-                    Secure checkout by Stripe — you&apos;ll confirm payment on Stripe&apos;s page.
+                    Secure checkout by Stripe. You will confirm payment on Stripe&apos;s page.
                   </p>
                 </div>
               </section>
@@ -546,9 +546,9 @@ export default function AccountPage() {
                     Insights
                   </h2>
                   <p className={`${subClass} mt-2`}>
-                    Biomarker insights are being built into Tava — this is the layout they&apos;ll
+                    Biomarker insights are being built into Tava. This is the layout they will
                     arrive in: an overview ring for all your biomarkers, then a card per area with
-                    what needs attention. No results yet — when Lab launches, your real results
+                    what needs attention. No results yet. When Lab launches, your real results
                     will fill this in.
                   </p>
                   <div className="mt-4 flex flex-wrap items-center gap-5">
@@ -586,7 +586,7 @@ export default function AccountPage() {
                       <div>
                         <b>Skin Health</b>
                         <br />
-                        <span className={mutedClass}>— biomarkers impacted</span>
+                        <span className={mutedClass}>No results yet</span>
                       </div>
                       <span className="text-[11px] font-bold tracking-[0.12em] text-gold uppercase">
                         Preview
@@ -596,7 +596,7 @@ export default function AccountPage() {
                       <div>
                         <b>Hydration &amp; Barrier</b>
                         <br />
-                        <span className={mutedClass}>— biomarkers impacted</span>
+                        <span className={mutedClass}>No results yet</span>
                       </div>
                       <span className="text-[11px] font-bold tracking-[0.12em] text-gold uppercase">
                         Preview
@@ -606,7 +606,7 @@ export default function AccountPage() {
                       <div>
                         <b>Metabolic Health</b>
                         <br />
-                        <span className={mutedClass}>— biomarkers impacted</span>
+                        <span className={mutedClass}>No results yet</span>
                       </div>
                       <span className="text-[11px] font-bold tracking-[0.12em] text-gold uppercase">
                         Preview

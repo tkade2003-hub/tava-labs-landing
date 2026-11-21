@@ -130,7 +130,7 @@ export default function Footer() {
             may vary.
           </p>
           <p>
-            All sales are final &mdash; please see our Returns policy before
+            All sales are final. Please see our Returns policy before
             ordering.
           </p>
           <p>&copy; 2026 Tava Labs &middot; The Science of Attractive Health</p>

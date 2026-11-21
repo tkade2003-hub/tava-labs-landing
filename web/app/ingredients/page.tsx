@@ -43,11 +43,11 @@ export default function Page() {
           Ingredients
         </p>
         <h1 className="mt-4 max-w-3xl font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl">
-          What&rsquo;s inside, and what we leave out.
+          What&rsquo;s inside, and <span className="text-gold">what we leave out.</span>
         </h1>
         <p className="mt-5 max-w-2xl leading-relaxed text-ink/80">
-          Full transparency: every ingredient in the PDRN Brightening Serum,
-          what it does, and the full list exactly as it appears on the label.
+          Here is every ingredient in the PDRN Brightening Serum, what each
+          one does, and the full list exactly as it appears on the label.
         </p>
         <p className="mt-4 text-sm font-medium text-ink/60">
           PDRN Brightening Serum &middot; 1 fl oz (30 ml) &middot; Made in
@@ -71,7 +71,7 @@ export default function Page() {
               </article>
             ))}
           </div>
-          <div className="mt-12 border border-linestone bg-linen/50 p-6 sm:p-8">
+          <div className="mt-12 rounded-2xl border border-linestone bg-linen/50 p-6 sm:p-8">
             <h3 className="font-display text-2xl font-semibold text-forest-deep">
               Full Ingredients
             </h3>

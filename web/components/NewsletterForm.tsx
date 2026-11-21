@@ -18,7 +18,7 @@ export default function NewsletterForm() {
   if (done) {
     return (
       <p className="text-sm text-gold-soft">
-        You&rsquo;re in &mdash; welcome to the glow list.
+        You&rsquo;re in. Welcome to the glow list.
       </p>
     );
   }

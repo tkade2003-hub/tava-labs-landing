@@ -34,14 +34,14 @@ const COMING_SOON = [
     size: "2 oz (56g)",
     img: "/assets/products/IMG_3382.jpeg",
     alt: "Tava Labs Skin Firming Cream white jar with a gold wave backdrop",
-    desc: "Hyaluronic acid plus CoQ10 in a rich cream, made to leave skin looking firm and cared for.",
+    desc: "Hyaluronic acid and CoQ10 in a rich cream that leaves skin looking firm and cared for.",
   },
   {
     name: "Peptide Hair Growth Serum",
     size: "1 fl oz (30ml)",
     img: "/assets/products/IMG_3383.jpeg",
     alt: "Tava Labs Peptide Hair Growth Serum amber dropper bottle",
-    desc: "Nourishes the scalp and enhances hair vitality, for hair that looks as cared for as your skin.",
+    desc: "Nourishes the scalp, for hair that looks as cared for as your skin.",
   },
 ];
 
@@ -76,13 +76,13 @@ export default function Page() {
               Tava Labs
             </p>
             <h1 className="mt-4 font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl lg:text-7xl">
-              The Science of Attractive Health
+              The Science of <span className="text-gold">Attractive Health</span>
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-relaxed text-ink/75">
-              Skincare for the ambitious. One lightweight serum for founders
-              who pitch and present and record every day, with PDRN and
-              peptides and hyaluronic acid, made to help you look prepared and
-              composed and polished in the room and on camera.
+              Skincare for the ambitious. One lightweight serum with PDRN,
+              peptides, and hyaluronic acid, made for founders who pitch,
+              present, and record every day. Two minutes, morning and night,
+              so you walk in looking prepared, composed, and polished.
             </p>
             <div className="mt-8 flex flex-wrap items-center gap-4">
               <Button
@@ -100,7 +100,7 @@ export default function Page() {
               </Link>
             </div>
           </div>
-          <div className="tava-reveal-delay relative aspect-[4/3] lg:aspect-[4/5]">
+          <div className="tava-reveal-delay relative aspect-[4/3] overflow-hidden rounded-3xl lg:aspect-[4/5]">
             <Image
               src="/assets/IMG_3265.jpeg"
               alt="Tava Labs PDRN Brightening Serum bottle over cream silk"
@@ -118,18 +118,16 @@ export default function Page() {
         <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
           <div className="max-w-3xl">
             <h2 className="font-display text-4xl font-semibold text-forest-deep sm:text-5xl">
-              Radiant, Hydrated, Healthy-Looking Skin
+              Brighter, hydrated, <span className="text-gold">healthy looking skin</span>
             </h2>
             <p className="mt-6 text-lg leading-relaxed text-ink/75">
-              Founders live on camera and in the room &mdash; pitching
-              investors, closing on sales calls, recording the video that
-              sells the product. Your face is part of the pitch. The PDRN
-              Brightening Serum was built to be the one step that matters: a
-              lightweight, fast-absorbing daily serum with PDRN, peptides, and
-              hyaluronic acid that helps skin look brighter, deeply hydrated,
-              and smoother-looking. Two minutes, twice a day, and you show up
-              looking sharp, rested, and put-together &mdash; a face that
-              reads confident and trustworthy.
+              Founders live on camera and in the room. You pitch investors,
+              close on sales calls, and record the video that sells the
+              product. Your face is part of the pitch. The PDRN Brightening
+              Serum is one lightweight, fast absorbing step with PDRN,
+              peptides, and hyaluronic acid. It helps skin look brighter,
+              deeply hydrated, and smooth. Two minutes, twice a day, and you
+              show up sharp, rested, and ready.
             </p>
           </div>
         </div>
@@ -144,17 +142,27 @@ export default function Page() {
       </div>
 
       {/* Your next meeting */}
-      <section className="bg-forest-deep text-[#fafaf9]">
-        <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-24">
-          <div className="max-w-3xl">
+      <section className="mx-auto max-w-7xl px-5 py-12 sm:px-8 lg:py-16">
+        <div className="relative overflow-hidden rounded-[28px] bg-forest-deep text-[#fafaf9]">
+          <div className="absolute inset-0" aria-hidden="true">
+            <Image
+              src="/assets/home/IMG_3363.jpeg"
+              alt=""
+              fill
+              sizes="(min-width: 1280px) 1216px, 100vw"
+              className="object-cover object-top"
+            />
+            <div className="absolute inset-0 bg-gradient-to-b from-[#08251d]/10 via-[#08251d]/60 to-[#08251d]" />
+          </div>
+          <div className="relative max-w-3xl px-6 py-14 sm:px-10 lg:px-14 lg:py-20">
             <h2 className="font-display text-4xl leading-tight font-semibold sm:text-5xl">
-              Your next meeting starts with you.
+              Your next meeting starts with <span className="text-gold-soft">you.</span>
             </h2>
             <p className="mt-6 text-lg leading-relaxed text-[#fafaf9]/80">
               Your appearance is part of your professional presence. One daily
-              routine, built for people who pitch and present and record,
-              helps you look composed and polished on the days that ask the
-              most of you. Build your business. Do not neglect yourself.
+              routine, built for people who pitch, present, and record, helps
+              you look composed and polished on the days that ask the most of
+              you. Build your business. Do not neglect yourself.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
               <Button
@@ -180,7 +188,7 @@ export default function Page() {
       {/* The product */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-24">
         <div className="grid items-center gap-12 lg:grid-cols-2">
-          <div className="relative aspect-square bg-linen">
+          <div className="relative aspect-square overflow-hidden rounded-3xl bg-linen">
             <Image
               src="/assets/products/pdrn-bright-serum/view-1-mockup.jpg"
               alt="PDRN Brightening Serum bottle"
@@ -200,10 +208,9 @@ export default function Page() {
               1 fl oz (30ml)
             </p>
             <p className="mt-5 max-w-xl leading-relaxed text-ink/75">
-              The daily complexion routine for founders. PDRN and peptides and
-              sodium hyaluronate and panthenol in one lightweight step,
-              morning and evening, before the meetings and the pitches and the
-              camera.
+              One lightweight step, morning and evening, with PDRN, peptides,
+              sodium hyaluronate, and panthenol. Made for days of meetings,
+              pitches, and camera work.
             </p>
             <div className="mt-8 space-y-4">
               <div className="flex flex-wrap items-center justify-between gap-3 border-t border-linestone pt-5">
@@ -258,7 +265,7 @@ export default function Page() {
           <div className="mt-10 grid gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-4">
             {COMING_SOON.map((item) => (
               <article key={item.name} className="border-t-2 border-forest pt-5">
-                <div className="relative aspect-square bg-linen">
+                <div className="relative aspect-square overflow-hidden rounded-2xl bg-linen">
                   <Image
                     src={item.img}
                     alt={item.alt}
@@ -295,19 +302,17 @@ export default function Page() {
             Build your business. Do not neglect yourself.
           </p>
           <p className="mt-5 leading-relaxed text-ink/75">
-            Your appearance is part of your professional presence. As a
-            founder you are always presenting yourself. You pitch investors in
-            person and you sell on video calls and you record content that has
-            to earn trust in seconds. Looking prepared and composed is not
-            vanity. It is part of how you present the business, and it is why
-            a simple daily routine belongs in a founder operating system next
-            to a good wardrobe and a quality laptop and a system you can rely
-            on.
+            As a founder, you are always presenting. You pitch investors in
+            person, sell on video calls, and record content that has to earn
+            trust in seconds. Looking prepared and composed is not vanity. It
+            is part of how you present the business. A simple daily routine
+            belongs in a founder operating system next to a good wardrobe, a
+            quality laptop, and a system you can rely on.
           </p>
         </div>
         <div className="mt-12 grid gap-12 lg:grid-cols-2">
           <figure>
-            <div className="relative aspect-[4/3]">
+            <div className="relative aspect-[4/3] overflow-hidden rounded-3xl">
               <Image
                 src="/assets/home/IMG_3365.jpeg"
                 alt="Founder pitching his idea to an investor"
@@ -322,14 +327,13 @@ export default function Page() {
               </h3>
               <p className="mt-2 leading-relaxed text-ink/75">
                 Across the table from an investor, the room reads you before
-                it reads your deck. Your next meeting starts with you. Show up
-                looking like the person behind the company is worth backing,
-                rested and sharp and ready.
+                it reads your deck. Show up looking like the person behind a
+                company worth backing: rested, sharp, and ready.
               </p>
             </figcaption>
           </figure>
           <figure>
-            <div className="relative aspect-[4/3]">
+            <div className="relative aspect-[4/3] overflow-hidden rounded-3xl">
               <Image
                 src="/assets/home/IMG_3363.jpeg"
                 alt="Founder speaking in front of a camera"
@@ -343,10 +347,9 @@ export default function Page() {
                 On camera
               </h3>
               <p className="mt-2 leading-relaxed text-ink/75">
-                On a shoot and on a podcast and on a sales call, the lens
-                shows the late nights first. Confidence in front of a camera
-                starts with how you maintain yourself before you ever press
-                record.
+                On a shoot, a podcast, or a sales call, the lens shows the
+                late nights first. Confidence in front of a camera starts with
+                how you maintain yourself before you ever press record.
               </p>
             </figcaption>
           </figure>
@@ -372,7 +375,7 @@ export default function Page() {
             Tava in Motion
           </h2>
           <p className="mt-3 text-ink/75">
-            Many creators and entrepreneurs already love us.
+            Short clips from founders and creators.
           </p>
           <div className="mt-8 grid grid-cols-2 gap-3 sm:grid-cols-3">
             {MOTION_VIDEOS.map((v) => (
@@ -384,7 +387,7 @@ export default function Page() {
                 autoPlay
                 playsInline
                 preload="metadata"
-                className="aspect-[3/4] w-full object-cover"
+                className="aspect-[3/4] w-full rounded-2xl object-cover"
               />
             ))}
           </div>
@@ -394,7 +397,7 @@ export default function Page() {
       {/* What we leave out */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
         <h2 className="font-display text-4xl font-semibold text-forest-deep">
-          High-Quality Ingredients, Combined With Care.
+          Quality ingredients, combined <span className="text-gold">with care.</span>
         </h2>
         <p className="mt-3 max-w-2xl text-ink/75">
           What we leave out matters as much as what we put in.
@@ -405,8 +408,8 @@ export default function Page() {
       </section>
 
       {/* Subscribe and Save */}
-      <section className="bg-linen">
-        <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8">
+      <section className="mx-auto max-w-7xl px-5 sm:px-8">
+        <div className="rounded-[28px] bg-linen px-6 py-14 sm:px-10 lg:px-14">
           <div className="flex flex-wrap items-end justify-between gap-8">
             <div className="max-w-xl">
               <div className="flex items-center gap-3">
@@ -414,7 +417,7 @@ export default function Page() {
                   Subscribe and Save
                 </h2>
                 <Badge className="bg-gold text-white">
-                  Most Popular &mdash; Save 20%
+                  Most Popular &middot; Save 20%
                 </Badge>
               </div>
               <p className="mt-4 font-display text-3xl text-forest">
@@ -449,16 +452,16 @@ export default function Page() {
               wear.&rdquo;
             </blockquote>
             <p className="mt-6 max-w-xl leading-relaxed text-ink/75">
-              That is the philosophy behind Tava Labs &mdash; the science of
-              attractive health. The PDRN Brightening Serum was made to be the
-              one step your routine is built around: two minutes, twice a day,
-              morning and night.
+              That is the philosophy behind Tava Labs, The Science of
+              Attractive Health. The PDRN Brightening Serum is the one step
+              the routine is built around: two minutes, twice a day, morning
+              and night.
             </p>
             <p className="mt-4 max-w-xl leading-relaxed text-ink/75">
               Watch the film to hear the science behind it, in our own words.
             </p>
             <p className="mt-4 font-display text-xl text-forest italic">
-              &mdash; The Tava Labs Philosophy
+              The Tava Labs Philosophy
             </p>
             <Button
               render={<Link href="/glow-brightening-serum" />}
@@ -475,7 +478,7 @@ export default function Page() {
             playsInline
             preload="metadata"
             aria-label="The Tava Labs film, the science behind the PDRN Brightening Serum"
-            className="aspect-[4/3] w-full object-cover"
+            className="aspect-[4/3] w-full rounded-3xl object-cover"
           />
         </div>
       </section>
@@ -488,7 +491,7 @@ export default function Page() {
               <h2 className="font-display text-4xl font-semibold text-forest-deep">
                 The Tava Journal
               </h2>
-              <p className="mt-2 text-ink/75">From the Blog</p>
+              <p className="mt-2 text-ink/75">On sleep, stress, and showing up ready.</p>
             </div>
             <Link
               href="/blog"
@@ -505,7 +508,7 @@ export default function Page() {
                   <img
                     src={card.image}
                     alt={card.imageAlt || card.title}
-                    className="aspect-[16/10] w-full object-cover"
+                    className="aspect-[16/10] w-full rounded-2xl object-cover"
                     loading="lazy"
                   />
                   <p className="mt-4 text-xs font-semibold tracking-[0.16em] text-gold uppercase">
