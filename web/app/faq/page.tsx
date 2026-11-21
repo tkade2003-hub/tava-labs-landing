@@ -108,7 +108,7 @@ export default function Page() {
               FAQs
             </p>
             <h1 className="mt-4 font-display text-5xl leading-[1.05] font-semibold text-forest-deep">
-              Frequently Asked <span className="text-gold-metal">Questions</span>
+              Frequently Asked <span className="gold-metal-text">Questions</span>
             </h1>
             <p className="mt-5 leading-relaxed text-ink/80">
               Answers about the serum, ordering, shipping, and your personal

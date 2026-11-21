@@ -174,7 +174,7 @@ export default function Page() {
               Dermatologist tested &bull; Made for all skin types
             </p>
             <h1 className="mt-2 font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl">
-              PDRN Brightening <span className="text-gold-metal">Serum</span>
+              PDRN Brightening <span className="gold-metal-text">Serum</span>
             </h1>
             <p className="mt-5 font-display text-3xl text-forest">
               $49.00{" "}
@@ -242,7 +242,7 @@ export default function Page() {
             Cellular Innovation
           </p>
           <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep sm:text-5xl">
-            Next Gen Skin <span className="text-gold-metal">Regeneration</span>
+            Next Gen Skin <span className="gold-metal-text">Regeneration</span>
           </h2>
           <p className="mt-4 max-w-2xl leading-relaxed text-ink/75">
             Marine actives and targeted hexapeptides, in one daily serum.
@@ -332,7 +332,7 @@ export default function Page() {
           Clinical Efficacy
         </p>
         <h2 className="mt-3 max-w-2xl font-display text-4xl font-semibold text-forest-deep">
-          Look after your <span className="text-gold-metal">skin health</span>
+          Look after your <span className="gold-metal-text">skin health</span>
         </h2>
         <div className="mt-10 grid gap-8 md:grid-cols-3">
           {[
@@ -456,7 +456,7 @@ export default function Page() {
             Daily Regimen Protocol
           </p>
           <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep">
-            One simple routine, <span className="text-gold-metal">twice a day</span>
+            One simple routine, <span className="gold-metal-text">twice a day</span>
           </h2>
           <p className="mt-4 max-w-2xl leading-relaxed text-ink/75">
             Consistency matters. Follow these steps morning and evening so

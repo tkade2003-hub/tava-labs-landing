@@ -68,7 +68,7 @@ export default function Page() {
         <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
           <div className="max-w-3xl">
             <h2 className="font-display text-4xl font-semibold text-forest-deep sm:text-5xl">
-              Brighter, hydrated, <span className="text-gold-metal">healthy looking skin</span>
+              Brighter, hydrated, <span className="gold-metal-text">healthy looking skin</span>
             </h2>
             <p className="mt-6 text-lg leading-relaxed text-ink/75">
               Founders live on camera and in the room. You pitch investors,
@@ -105,10 +105,10 @@ export default function Page() {
             />
             <div className="flex flex-1 flex-col justify-center px-[5vw] pt-[44px] pb-[48px] lg:order-1 lg:py-[64px]">
               <p className="gold-word text-[17px]">
-                SKINCARE FOR THE AMBITIOUS
+                Skincare for the ambitious
               </p>
               <h2 className="mt-5 max-w-[520px] font-display text-[clamp(38px,5vw,58px)] leading-[1.08] font-semibold">
-                Your next meeting<br />starts with <span className="text-gold-metal">you.</span>
+                Your next meeting<br />starts with <span className="gold-metal-text">you.</span>
               </h2>
               <p className="mt-6 max-w-[440px] text-[17px] leading-[1.65] text-[#fafaf9]">
                 Your appearance is part of your professional presence. One daily
@@ -120,9 +120,9 @@ export default function Page() {
               <div className="mt-[26px] flex flex-wrap items-center gap-3">
                 <Link
                   href="/glow-brightening-serum"
-                  className="rounded-full bg-black px-[30px] py-[15px] text-lg gold-word transition-colors hover:bg-black/80 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
+                  className="rounded-full bg-black px-[30px] py-[15px] transition-colors hover:bg-black/80 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
                 >
-                  Get Started
+                  <span className="gold-word text-lg">Get Started</span>
                 </Link>
                 <Link
                   href="/quiz"
@@ -325,7 +325,7 @@ export default function Page() {
       {/* What we leave out */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
         <h2 className="font-display text-4xl font-semibold text-forest-deep">
-          Quality ingredients, combined <span className="text-gold-metal">with care.</span>
+          Quality ingredients, combined <span className="gold-metal-text">with care.</span>
         </h2>
         <p className="mt-3 max-w-2xl text-ink/75">
           What we leave out matters as much as what we put in.

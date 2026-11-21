@@ -159,7 +159,7 @@ const TavaHeroSlider: React.FC = () => {
           </motion.div>
 
           {/* Start now, bottom corner of the hero */}
-          <button className="th-start">Start now →</button>
+          <button className="th-start"><span className="gold-metal-text">Start now →</span></button>
 
           {/* The only card in the hero: the product image card on the right,
               with the badge chip and dots chip on it */}

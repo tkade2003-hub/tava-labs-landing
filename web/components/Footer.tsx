@@ -61,7 +61,7 @@ export default function Footer() {
           </div>
 
           <nav aria-label="Shop">
-            <h3 className="text-sm font-semibold tracking-wide text-gold-metal">
+            <h3 className="text-sm font-semibold tracking-wide gold-metal-text">
               Shop
             </h3>
             <ul className="mt-4 space-y-2.5 text-sm">
@@ -84,7 +84,7 @@ export default function Footer() {
           </nav>
 
           <nav aria-label="Contact us">
-            <h3 className="text-sm font-semibold tracking-wide text-gold-metal">
+            <h3 className="text-sm font-semibold tracking-wide gold-metal-text">
               Contact us
             </h3>
             <ul className="mt-4 space-y-2.5 text-sm">
@@ -99,7 +99,7 @@ export default function Footer() {
           </nav>
 
           <nav aria-label="Info">
-            <h3 className="text-sm font-semibold tracking-wide text-gold-metal">
+            <h3 className="text-sm font-semibold tracking-wide gold-metal-text">
               Info
             </h3>
             <ul className="mt-4 space-y-2.5 text-sm">

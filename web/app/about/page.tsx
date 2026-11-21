@@ -20,7 +20,7 @@ export default function Page() {
           About Us
         </p>
         <h1 className="mt-4 max-w-3xl font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl">
-          Skincare for <span className="text-gold-metal">the ambitious.</span>
+          Skincare for <span className="gold-metal-text">the ambitious.</span>
         </h1>
         <p className="mt-4 font-display text-2xl text-forest italic">
           Build your business. Do not neglect yourself.

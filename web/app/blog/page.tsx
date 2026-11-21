@@ -19,7 +19,7 @@ export default function Page() {
           The Tava Journal
         </p>
         <h1 className="mt-4 max-w-3xl font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl">
-          Sleep and Stress Research <span className="text-gold-metal">for Founders</span>
+          Sleep and Stress Research <span className="gold-metal-text">for Founders</span>
         </h1>
         <p className="mt-5 max-w-2xl leading-relaxed text-ink/80">
           Sleep science, stress research, and performance insight for

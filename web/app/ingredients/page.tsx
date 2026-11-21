@@ -43,7 +43,7 @@ export default function Page() {
           Ingredients
         </p>
         <h1 className="mt-4 max-w-3xl font-display text-5xl leading-[1.05] font-semibold text-forest-deep sm:text-6xl">
-          What&rsquo;s inside, and <span className="text-gold-metal">what we leave out.</span>
+          What&rsquo;s inside, and <span className="gold-metal-text">what we leave out.</span>
         </h1>
         <p className="mt-5 max-w-2xl leading-relaxed text-ink/80">
           Here is every ingredient in the PDRN Brightening Serum, what each
