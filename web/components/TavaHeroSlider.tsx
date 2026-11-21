@@ -1,7 +1,13 @@
 "use client";
 
 import React, { useState, useEffect, useRef } from "react";
-import { motion, useScroll, useTransform, useSpring } from "framer-motion";
+import {
+  motion,
+  useScroll,
+  useTransform,
+  useSpring,
+  useReducedMotion,
+} from "framer-motion";
 import { SERUM_CARD, ADHD_CARD, LABS_CARD } from "@/lib/heroMedia";
 
 const slides = [
@@ -37,37 +43,54 @@ const slides = [
 const heroCss = `
 .th-scroll { position: relative; height: 1500px; }
 .th-stage { position: sticky; top: 0; height: 100vh; height: 100svh; display: flex; align-items: center; justify-content: center; background: #f8f7f5; overflow: hidden; }
-.th-hero { position: relative; width: 100%; height: 100%; overflow: hidden; background: #08251D; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
-.th-video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transition: opacity 0.6s ease-in-out; }
-.th-overlay { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.45) 100%); }
-.th-copy { position: absolute; top: 40px; left: 40px; z-index: 2; color: white; }
-.th-title { font-size: 44px; font-weight: 700; line-height: 1.05; text-shadow: 0 2px 12px rgba(0,0,0,0.5); max-width: 46%; white-space: pre-line; }
-.th-sub { font-size: 17px; line-height: 1.4; color: rgba(255,255,255,0.92); text-shadow: 0 1px 8px rgba(0,0,0,0.5); max-width: 46%; margin: 12px 0 0 0; }
-.th-start { position: absolute; right: 40px; bottom: 40px; z-index: 2; background: #1a1a1a; color: white; border: none; border-radius: 30px; padding: 12px 18px; font-size: 14px; font-weight: 600; cursor: pointer; }
-.th-card { position: absolute; right: 40px; top: 50%; transform: translateY(-50%); width: 216px; height: 260px; border-radius: 20px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.25); z-index: 3; background-size: cover; background-position: center; transition: background-image 0.6s ease-in-out; }
-.th-card-shade { position: absolute; inset: 0; background: linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.55) 100%); }
+.th-hero { position: relative; width: 100%; height: 100%; overflow: hidden; background: #08251D; font-family: var(--font-montserrat), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+.th-video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transition: opacity 0.9s ease-in-out; }
+.th-video-active { animation: th-kenburns 7s ease-out forwards; }
+@keyframes th-kenburns { from { transform: scale(1); } to { transform: scale(1.07); } }
+.th-overlay { position: absolute; inset: 0; background: linear-gradient(97deg, rgba(8,37,29,0.66) 0%, rgba(8,37,29,0.28) 42%, rgba(8,37,29,0) 68%), linear-gradient(0deg, rgba(8,37,29,0.42) 0%, rgba(8,37,29,0) 34%); }
+.th-copy { position: absolute; top: 48px; left: 48px; z-index: 2; color: white; }
+.th-title { font-family: var(--font-cormorant), Georgia, serif; font-size: 58px; font-weight: 600; line-height: 1.02; letter-spacing: 0.005em; text-shadow: 0 2px 18px rgba(8,37,29,0.45); max-width: 47%; white-space: pre-line; margin: 0; }
+.th-sub { font-size: 15.5px; font-weight: 500; line-height: 1.55; color: rgba(255,255,255,0.88); text-shadow: 0 1px 10px rgba(8,37,29,0.5); max-width: 40%; margin: 16px 0 0 0; }
+.th-start { position: absolute; right: 48px; bottom: 48px; z-index: 2; background: #12100C; color: #D8C19A; border: 1px solid rgba(216,193,154,0.35); border-radius: 999px; padding: 15px 26px; font-family: var(--font-montserrat), sans-serif; font-size: 12.5px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; cursor: pointer; transition: background 0.25s ease, color 0.25s ease; }
+.th-start:hover { background: #08251D; color: #FAFAF9; }
+.th-start:focus-visible, .th-dot:focus-visible { outline: 2px solid #B78B45; outline-offset: 2px; }
+.th-card { position: absolute; right: 48px; top: 50%; transform: translateY(-50%); width: 216px; height: 264px; border-radius: 22px; overflow: hidden; border: 1px solid rgba(216,193,154,0.55); box-shadow: 0 24px 48px rgba(8,37,29,0.45), 0 4px 14px rgba(0,0,0,0.25); z-index: 3; background: #08251D; }
+.th-card-img { position: absolute; inset: 0; background-size: cover; background-position: center; transition: opacity 0.9s ease-in-out; }
+.th-card-shade { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(8,37,29,0) 42%, rgba(8,37,29,0.58) 100%); }
 .th-card-inner { position: relative; height: 100%; padding: 14px; display: flex; flex-direction: column; justify-content: flex-end; color: white; box-sizing: border-box; }
-.th-badge { background: rgba(255,255,255,0.88); backdrop-filter: blur(12px); border-radius: 16px; padding: 10px 14px; width: fit-content; max-width: 100%; color: #1a1a1a; box-sizing: border-box; }
+.th-badge { background: rgba(255,255,255,0.9); backdrop-filter: blur(12px); border-radius: 16px; padding: 10px 14px; width: fit-content; max-width: 100%; color: #1a1a1a; box-sizing: border-box; }
 .th-badge-title { font-size: 14px; font-weight: 600; margin: 0; }
 .th-badge-sub { font-size: 11px; color: #555; margin: 2px 0 0 0; }
-.th-dots { display: flex; gap: 7px; background: rgba(255,255,255,0.7); padding: 7px 12px; border-radius: 20px; width: fit-content; margin-top: 10px; }
-.th-dot { width: 7px; height: 7px; border-radius: 50%; transition: background 0.3s; border: none; padding: 0; cursor: pointer; }
+.th-dots { display: flex; gap: 2px; background: rgba(255,255,255,0.72); padding: 4px 8px; border-radius: 999px; width: fit-content; margin-top: 10px; }
+.th-dot { width: 24px; height: 20px; border-radius: 999px; border: none; padding: 0; cursor: pointer; background-color: transparent; background-repeat: no-repeat; background-position: center; }
+@media (max-width: 900px) {
+  .th-copy { top: 32px; left: 28px; }
+  .th-title { font-size: 42px; max-width: 56%; }
+  .th-sub { max-width: 50%; }
+  .th-card { right: 28px; }
+  .th-start { right: 28px; bottom: 28px; }
+}
 @media (max-width: 480px) {
   .th-copy { top: 20px; left: 16px; right: 16px; }
-  .th-title { font-size: 30px; max-width: 60%; }
-  .th-sub { font-size: 14px; max-width: 56%; margin-top: 8px; }
+  .th-title { font-size: 35px; max-width: 62%; }
+  .th-sub { font-size: 13.5px; max-width: 56%; margin-top: 10px; }
   .th-card { width: 164px; height: 208px; right: 12px; border-radius: 18px; }
   .th-card-inner { padding: 10px; }
   .th-badge { padding: 8px 10px; border-radius: 13px; }
   .th-badge-title { font-size: 13px; }
   .th-badge-sub { font-size: 10.5px; }
-  .th-dots { padding: 6px 10px; margin-top: 8px; }
-  .th-start { right: 14px; bottom: 14px; padding: 11px 16px; font-size: 13.5px; }
+  .th-dots { margin-top: 8px; }
+  .th-start { right: 14px; bottom: 14px; padding: 12px 18px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .th-video-active { animation: none; }
+  .th-video, .th-card-img { transition: none; }
 }
 `;
 
 const TavaHeroSlider: React.FC = () => {
   const [current, setCurrent] = useState(0);
+  const reduceMotion = useReducedMotion();
 
   useEffect(() => {
     const timer = setInterval(() => {
@@ -108,7 +131,12 @@ const TavaHeroSlider: React.FC = () => {
               muted
               playsInline
               preload="auto"
-              className="th-video"
+              aria-hidden="true"
+              className={
+                i === current && !reduceMotion
+                  ? "th-video th-video-active"
+                  : "th-video"
+              }
               style={{ opacity: i === current ? 1 : 0 }}
             >
               <source src={s.video} />
@@ -119,20 +147,33 @@ const TavaHeroSlider: React.FC = () => {
           <div className="th-overlay" />
 
           {/* Hero title and subtitle, over the video */}
-          <div className="th-copy">
-            <div className="th-title">{slide.title}</div>
+          <motion.div
+            className="th-copy"
+            key={slide.id}
+            initial={reduceMotion ? false : { opacity: 0, y: 16 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.55, ease: [0.22, 1, 0.36, 1] }}
+          >
+            <h1 className="th-title">{slide.title}</h1>
             <p className="th-sub">{slide.subtitle}</p>
-          </div>
+          </motion.div>
 
           {/* Start now, bottom corner of the hero */}
           <button className="th-start">Start now →</button>
 
           {/* The only card in the hero: the product image card on the right,
               with the badge chip and dots chip on it */}
-          <div
-            className="th-card"
-            style={{ backgroundImage: `url(${slide.product})` }}
-          >
+          <div className="th-card">
+            {slides.map((s, i) => (
+              <div
+                key={s.id}
+                className="th-card-img"
+                style={{
+                  backgroundImage: `url(${s.product})`,
+                  opacity: i === current ? 1 : 0,
+                }}
+              />
+            ))}
             <div className="th-card-shade" />
             <div className="th-card-inner">
               <div>
@@ -147,9 +188,14 @@ const TavaHeroSlider: React.FC = () => {
                       key={s.id}
                       type="button"
                       aria-label={`Go to slide ${i + 1}`}
+                      aria-current={i === current}
                       onClick={() => setCurrent(i)}
                       className="th-dot"
-                      style={{ background: i === current ? "#d4af37" : "#a89f92" }}
+                      style={{
+                        backgroundImage: `radial-gradient(circle, ${
+                          i === current ? "#B78B45" : "#a89f92"
+                        } 3.5px, transparent 4.5px)`,
+                      }}
                     />
                   ))}
                 </div>
