@@ -209,7 +209,7 @@ export default function Page() {
 
             <div className="mt-8 flex flex-wrap items-center gap-4">
               <Button render={<Link href="/quiz" />} size="lg" className="px-7">
-                Add to Routine
+                Add to routine
               </Button>
               <a
                 href="#formulation"
@@ -284,7 +284,7 @@ export default function Page() {
             evaluations. Results may vary by individual skin condition.
           </p>
           <Button render={<Link href="/quiz" />} size="lg" className="mt-8">
-            Add to Routine
+            Add to routine
           </Button>
         </div>
       </section>
@@ -316,7 +316,7 @@ export default function Page() {
           </ol>
           <div className="mt-8 flex flex-wrap items-center gap-4">
             <Button render={<Link href="/quiz" />} size="lg">
-              Add to Routine
+              Add to routine
             </Button>
             <p className="max-w-md text-sm text-ink/65">
               Pause, adjust, or cancel Subscribe and Save anytime. One time
@@ -357,7 +357,7 @@ export default function Page() {
           genetics, and environment influence specific timelines and outcomes.
         </p>
         <Button render={<Link href="/quiz" />} size="lg" className="mt-8">
-          Add to Routine
+          Add to routine
         </Button>
       </section>
 
@@ -568,7 +568,7 @@ export default function Page() {
             size="lg"
             className="bg-gold px-7 text-white hover:bg-gold/85"
           >
-            Add to Routine
+            Add to routine
           </Button>
         </div>
       </section>

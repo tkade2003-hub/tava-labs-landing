@@ -71,8 +71,8 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/quiz" className="text-[#fafaf9]/85 hover:text-white">
-                  Take the Quiz
+                <Link href="/glow-brightening-serum" className="text-[#fafaf9]/85 hover:text-white">
+                  Add to routine
                 </Link>
               </li>
               <li>

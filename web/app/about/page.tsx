@@ -96,14 +96,7 @@ export default function Page() {
             </p>
             <div className="mt-6 flex flex-wrap gap-3">
               <Button render={<Link href="/glow-brightening-serum" />} size="lg">
-                Shop the Serum
-              </Button>
-              <Button
-                render={<Link href="/quiz" />}
-                variant="outline"
-                size="lg"
-              >
-                Take the Skin Quiz
+                Add to routine
               </Button>
             </div>
           </div>

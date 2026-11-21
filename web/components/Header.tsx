@@ -42,11 +42,11 @@ export default function Header() {
             Login
           </Link>
           <Button
-            render={<Link href="/quiz" />}
+            render={<Link href="/glow-brightening-serum" />}
             className="hidden bg-gold text-white hover:bg-gold/85 sm:inline-flex"
             size="lg"
           >
-            Take the Quiz
+            Add to routine
           </Button>
           <button
             type="button"
@@ -75,11 +75,11 @@ export default function Header() {
             </Link>
           ))}
           <Link
-            href="/quiz"
+            href="/glow-brightening-serum"
             className="mt-3 block py-2.5 text-base font-semibold text-gold-metal"
             onClick={() => setOpen(false)}
           >
-            Take the Quiz
+            Add to routine
           </Link>
           <Link
             href="/login"

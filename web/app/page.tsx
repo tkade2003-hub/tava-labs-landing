@@ -122,13 +122,7 @@ export default function Page() {
                   href="/glow-brightening-serum"
                   className="rounded-full bg-black px-[30px] py-[15px] text-base font-bold transition-colors hover:bg-black/80 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
                 >
-                  <span className="gold-word text-sm font-semibold tracking-wide">Get Started</span>
-                </Link>
-                <Link
-                  href="/quiz"
-                  className="rounded-full border border-[rgba(255,255,255,0.45)] bg-[rgba(250,245,234,0.22)] px-[30px] py-[15px] text-sm font-semibold text-white transition-colors hover:bg-white/20 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
-                >
-                  Take the quiz
+                  <span className="gold-word">Add to routine</span>
                 </Link>
               </div>
             </div>
@@ -168,21 +162,17 @@ export default function Page() {
                 <p className="font-medium text-forest-deep">
                   One time purchase, $49
                 </p>
-                <Button render={<Link href="/glow-brightening-serum" />}>
-                  Buy Now, $49
-                </Button>
               </div>
               <div className="flex flex-wrap items-center justify-between gap-3 border-t border-linestone pt-5">
                 <p className="font-medium text-forest-deep">
                   Subscribe and save, $39 per month
                 </p>
-                <Button
-                  render={<Link href="/glow-brightening-serum" />}
-                  variant="secondary"
-                >
-                  Subscribe and Save, $39 per month
-                </Button>
               </div>
+            </div>
+            <div className="mt-6">
+              <Button render={<Link href="/glow-brightening-serum" />} size="lg">
+                Add to routine
+              </Button>
             </div>
             <p className="mt-6 text-sm">
               <Link
@@ -190,13 +180,6 @@ export default function Page() {
                 className="font-semibold text-forest underline decoration-gold-soft decoration-2 underline-offset-4"
               >
                 See the ingredients
-              </Link>
-              <span className="mx-2 text-ink/40">&middot;</span>
-              <Link
-                href="/quiz"
-                className="font-semibold text-forest underline decoration-gold-soft decoration-2 underline-offset-4"
-              >
-                Take the skin quiz
               </Link>
             </p>
           </div>
@@ -313,8 +296,8 @@ export default function Page() {
             One serum, morning and night. Look prepared. Feel confident. Show
             up ready.
           </p>
-          <Button render={<Link href="/quiz" />} size="lg" className="mt-6 px-6">
-            Take the Skin Quiz
+          <Button render={<Link href="/glow-brightening-serum" />} size="lg" className="mt-6 px-6">
+            Add to routine
           </Button>
         </div>
       </section>
@@ -362,7 +345,7 @@ export default function Page() {
               size="lg"
               className="px-6"
             >
-              Subscribe &amp; Save
+              Add to routine
             </Button>
           </div>
         </div>
