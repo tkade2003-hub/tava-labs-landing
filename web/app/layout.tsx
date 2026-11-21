@@ -1,15 +1,22 @@
 import type { Metadata } from "next";
 import Script from "next/script";
-import { Nunito } from "next/font/google";
+import { Cormorant_Garamond, Kanit } from "next/font/google";
 import "./globals.css";
 import { GTM_CODE, POSTHOG_CODE } from "@/lib/analytics";
 
-/* Tava Labs brand font: one geometric sans for the whole brand.
-   See ~/workspace/tava-labs/design-system/typography.md */
-const nunito = Nunito({
+/* Site fonts, matching the live tavalabs.app at Vashon direction on
+   2026-11-21: Cormorant Garamond for headings, Kanit for body text. */
+const kanit = Kanit({
   subsets: ["latin"],
-  weight: ["400", "600", "700", "800"],
+  weight: ["300", "400", "500", "600", "700"],
   variable: "--font-brand",
+  display: "swap",
+});
+
+const cormorant = Cormorant_Garamond({
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+  variable: "--font-display",
   display: "swap",
 });
 
@@ -27,7 +34,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={nunito.variable}>
+    <html lang="en" className={`${kanit.variable} ${cormorant.variable}`}>
       <body className="min-h-screen bg-background font-sans text-foreground antialiased">
         <noscript>
           <iframe
