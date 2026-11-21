@@ -8,18 +8,16 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 
-// Sign-in for the web platform: Supabase Auth email OTP (6-digit code)
-// or magic link. Identity links to the mobile app BY EMAIL — the same
-// email used at checkout / in the app carries the same plan, orders,
-// and routine (served by the web-account edge function).
+// Sign-in for the web platform: Supabase Auth email magic link.
+// Identity links to the mobile app BY EMAIL — the same email used at
+// checkout / in the app carries the same plan, orders, and routine
+// (served by the web-account edge function). The project's email
+// templates send links only, so the page promises a link, not a code.
 export default function LoginPage() {
   const [email, setEmail] = useState("");
-  const [code, setCode] = useState("");
-  const [step, setStep] = useState<"email" | "code">("email");
+  const [step, setStep] = useState<"email" | "sent">("email");
   const [err1, setErr1] = useState("");
-  const [err2, setErr2] = useState("");
   const [sending, setSending] = useState(false);
-  const [verifying, setVerifying] = useState(false);
 
   useEffect(() => {
     const sb = supabase();
@@ -32,7 +30,7 @@ export default function LoginPage() {
     return () => sub.subscription.unsubscribe();
   }, []);
 
-  async function sendCode() {
+  async function sendLink() {
     const value = email.trim().toLowerCase();
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(value)) {
       setErr1("Enter a valid email address.");
@@ -53,28 +51,7 @@ export default function LoginPage() {
       return;
     }
     setEmail(value);
-    setStep("code");
-  }
-
-  async function verify() {
-    const token = code.trim();
-    if (!/^\d{6}$/.test(token)) {
-      setErr2("Enter the six digit code from your email.");
-      return;
-    }
-    setErr2("");
-    setVerifying(true);
-    const { data, error } = await supabase().auth.verifyOtp({
-      email: email.trim().toLowerCase(),
-      token,
-      type: "email",
-    });
-    setVerifying(false);
-    if (error || !data.session) {
-      setErr2("That code did not match. Check it and try again, or resend a fresh code.");
-      return;
-    }
-    window.location.href = "/account";
+    setStep("sent");
   }
 
   const cardClass =
@@ -95,8 +72,8 @@ export default function LoginPage() {
           <p className={`${subClass} mt-2`}>
             Sign in with the email you used at checkout or in the Tava mobile app. Your plan,
             orders, and routine are tied to that email, so everything here matches the app. No
-            password needed. We email you a six digit code and a sign in link, and either one
-            signs you in.
+            password needed. We email you a sign in link, and tapping it lands you in your
+            account.
           </p>
 
           {step === "email" ? (
@@ -112,7 +89,7 @@ export default function LoginPage() {
                 placeholder="you@example.com"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
-                onKeyDown={(e) => e.key === "Enter" && sendCode()}
+                onKeyDown={(e) => e.key === "Enter" && sendLink()}
               />
               {err1 ? (
                 <div
@@ -125,62 +102,43 @@ export default function LoginPage() {
               <Button
                 className="mt-4 h-12 w-full rounded-full text-[15px] font-semibold"
                 type="button"
-                onClick={sendCode}
+                onClick={sendLink}
                 disabled={sending}
               >
-                {sending ? "Sending…" : "Email me a sign in code"}
+                {sending ? "Sending…" : "Email me a sign in link"}
               </Button>
             </div>
           ) : (
             <div className="mt-4">
               <div className="mb-4 rounded-xl bg-linen px-3.5 py-3 text-sm text-forest-deep">
-                Code sent to {email}. It can take a minute to arrive. Check your spam folder if
-                you do not see it.
+                Sign in link sent to {email}. It can take a minute to arrive. Check your spam
+                folder if you do not see it.
               </div>
-              <Label className={labelClass} htmlFor="code">
-                Six digit code from your email
-              </Label>
-              <Input
-                className={inputClass}
-                type="text"
-                id="code"
-                inputMode="numeric"
-                autoComplete="one-time-code"
-                placeholder="123456"
-                maxLength={6}
-                value={code}
-                onChange={(e) => setCode(e.target.value)}
-                onKeyDown={(e) => e.key === "Enter" && verify()}
-              />
-              {err2 ? (
-                <div
-                  className="mt-2.5 rounded-xl bg-destructive/10 px-3.5 py-3 text-sm text-destructive"
-                  role="alert"
-                >
-                  {err2}
-                </div>
-              ) : null}
-              <Button
-                className="mt-4 h-12 w-full rounded-full text-[15px] font-semibold"
-                type="button"
-                onClick={verify}
-                disabled={verifying}
-              >
-                {verifying ? "Verifying…" : "Verify & sign in"}
-              </Button>
+              <p className={subClass}>
+                Open that email on this device and tap the link inside. You will land in your
+                account, already signed in. The link works once and expires, so use it soon.
+              </p>
               <p className={`${subClass} mt-3.5`}>
-                Rather tap than type? The same email contains a sign in link. Tap it on this
-                device and you will land in your account.{" "}
+                <a
+                  href="#"
+                  className="font-medium text-forest underline decoration-gold-soft decoration-2 underline-offset-4"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    sendLink();
+                  }}
+                >
+                  Resend the email
+                </a>
+                {"  ·  "}
                 <a
                   href="#"
                   className="font-medium text-forest underline decoration-gold-soft decoration-2 underline-offset-4"
                   onClick={(e) => {
                     e.preventDefault();
                     setStep("email");
-                    sendCode();
                   }}
                 >
-                  Resend the email
+                  Use a different email
                 </a>
               </p>
             </div>
