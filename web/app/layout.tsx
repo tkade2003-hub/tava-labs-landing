@@ -1,7 +1,23 @@
 import type { Metadata } from "next";
 import Script from "next/script";
+import { Cormorant_Garamond, Montserrat } from "next/font/google";
 import "./globals.css";
 import { GTM_CODE, POSTHOG_CODE } from "@/lib/analytics";
+
+const cormorant = Cormorant_Garamond({
+  subsets: ["latin"],
+  weight: ["500", "600"],
+  style: ["normal", "italic"],
+  variable: "--font-cormorant",
+  display: "swap",
+});
+
+const montserrat = Montserrat({
+  subsets: ["latin"],
+  weight: ["400", "500", "600"],
+  variable: "--font-montserrat",
+  display: "swap",
+});
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://tavalabs.app"),
@@ -17,8 +33,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className="min-h-screen bg-white text-black antialiased">
+    <html lang="en" className={`${cormorant.variable} ${montserrat.variable}`}>
+      <body className="min-h-screen bg-background font-sans text-foreground antialiased">
         <noscript>
           <iframe
             src="https://www.googletagmanager.com/ns.html?id=GTM-5PGX6Q3S"

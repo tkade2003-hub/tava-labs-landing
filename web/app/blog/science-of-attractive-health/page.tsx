@@ -1,24 +1,13 @@
 import type { Metadata } from "next";
-import PageView from "@/components/PageView";
+import BlogPostView from "@/components/BlogPostView";
+import { pageMetadata } from "@/lib/pageMeta";
 import type { PageData } from "@/lib/pageData";
 import rawData from "@/lib/pages/blog-science-of-attractive-health.json";
 
 const data = rawData as unknown as PageData;
 
-export const metadata: Metadata = {
-  title: data.title,
-  description: data.description,
-  ...(data.canonical
-    ? {
-        alternates: {
-          canonical:
-            "https://tavalabs.app" +
-            (data.canonical === "/" ? "" : data.canonical),
-        },
-      }
-    : {}),
-};
+export const metadata: Metadata = pageMetadata(data);
 
 export default function Page() {
-  return <PageView data={data} />;
+  return <BlogPostView data={data} />;
 }

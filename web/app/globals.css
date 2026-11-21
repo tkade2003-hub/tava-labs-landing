@@ -1,5 +1,441 @@
-/* Tailwind CSS utilities, used for the application shell and new pages.
-   The ported pages keep their own preserved stylesheets (tava-webflow.css,
-   blog.css, styles.css, product-page.css), so the Tailwind preflight reset
-   is intentionally not imported: it would alter the existing design. */
-@import "tailwindcss/utilities.css";
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --font-sans: var(--font-montserrat);
+  --font-display: var(--font-cormorant);
+  --font-heading: var(--font-cormorant);
+  --color-paper: var(--paper);
+  --color-ink: var(--ink);
+  --color-forest: var(--forest);
+  --color-forest-deep: var(--forest-deep);
+  --color-gold: var(--gold);
+  --color-gold-soft: var(--gold-soft);
+  --color-linen: var(--linen);
+  --color-linestone: var(--linestone);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --color-foreground: var(--foreground);
+  --color-background: var(--background);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+:root {
+  /* Tava Labs brand tokens, Forest Luxe on warm paper white */
+  --paper: #fafaf9;
+  --ink: #12100c;
+  --forest: #123b2c;
+  --forest-deep: #08251d;
+  --gold: #b78b45;
+  --gold-soft: #d8c19a;
+  --linen: #f3f0e9;
+  --linestone: #e7e2d9;
+
+  --background: var(--paper);
+  --foreground: var(--ink);
+  --card: #ffffff;
+  --card-foreground: var(--ink);
+  --popover: #ffffff;
+  --popover-foreground: var(--ink);
+  --primary: var(--forest);
+  --primary-foreground: #fafaf9;
+  --secondary: var(--linen);
+  --secondary-foreground: var(--forest);
+  --muted: var(--linen);
+  --muted-foreground: #6f695c;
+  --accent: var(--gold);
+  --accent-foreground: #ffffff;
+  --destructive: #b3261e;
+  --border: var(--linestone);
+  --input: var(--linestone);
+  --ring: var(--gold);
+  --chart-1: var(--forest);
+  --chart-2: var(--gold);
+  --chart-3: var(--gold-soft);
+  --chart-4: var(--forest-deep);
+  --chart-5: var(--linestone);
+  --radius: 0.375rem;
+  --sidebar: var(--paper);
+  --sidebar-foreground: var(--ink);
+  --sidebar-primary: var(--forest);
+  --sidebar-primary-foreground: #fafaf9;
+  --sidebar-accent: var(--linen);
+  --sidebar-accent-foreground: var(--forest);
+  --sidebar-border: var(--linestone);
+  --sidebar-ring: var(--gold);
+}
+
+.dark {
+  --background: var(--forest-deep);
+  --foreground: #fafaf9;
+  --card: var(--forest);
+  --card-foreground: #fafaf9;
+  --popover: var(--forest);
+  --popover-foreground: #fafaf9;
+  --primary: #fafaf9;
+  --primary-foreground: var(--forest-deep);
+  --secondary: var(--forest);
+  --secondary-foreground: #fafaf9;
+  --muted: var(--forest);
+  --muted-foreground: var(--gold-soft);
+  --accent: var(--gold);
+  --accent-foreground: #ffffff;
+  --destructive: #e0655f;
+  --border: #ffffff2b;
+  --input: #ffffff2b;
+  --ring: var(--gold);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground font-sans;
+  }
+  ::selection {
+    background: var(--gold-soft);
+    color: var(--ink);
+  }
+}
+
+/* One orchestrated reveal for the home hero. */
+@keyframes tava-rise {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.tava-reveal {
+  animation: tava-rise 0.9s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+.tava-reveal-delay {
+  animation: tava-rise 0.9s cubic-bezier(0.22, 1, 0.36, 1) 0.15s both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tava-reveal,
+  .tava-reveal-delay {
+    animation: none;
+  }
+}
+
+/* ------------------------------------------------------------------ */
+/* Blog article prose. The journal content keeps its stored markup     */
+/* (tb- classes); this is its new typographic shell.                   */
+/* ------------------------------------------------------------------ */
+.tava-blog {
+  color: var(--ink);
+  font-size: 1.0625rem;
+  line-height: 1.75;
+}
+.tava-blog .tb-article {
+  max-width: 48rem;
+  margin: 0 auto;
+  padding: 3.5rem 1.5rem 0;
+}
+.tava-blog .tb-meta {
+  font-size: 0.75rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold);
+  font-weight: 600;
+}
+.tava-blog .tb-article h1 {
+  font-family: var(--font-cormorant), Georgia, serif;
+  font-weight: 600;
+  font-size: clamp(2.25rem, 5vw, 3.25rem);
+  line-height: 1.1;
+  color: var(--forest-deep);
+  margin: 0.75rem 0 1rem;
+}
+.tava-blog .tb-lede {
+  font-size: 1.25rem;
+  line-height: 1.6;
+  color: #4c463c;
+}
+.tava-blog .tb-article p {
+  margin: 0 0 1.25rem;
+}
+.tava-blog .tb-article h2 {
+  font-family: var(--font-cormorant), Georgia, serif;
+  font-weight: 600;
+  font-size: 1.875rem;
+  line-height: 1.2;
+  color: var(--forest);
+  margin: 2.25rem 0 0.75rem;
+}
+.tava-blog .tb-article h3 {
+  font-weight: 600;
+  font-size: 1.125rem;
+  color: var(--forest-deep);
+  margin: 1.75rem 0 0.5rem;
+}
+.tava-blog .tb-article ul,
+.tava-blog .tb-article ol {
+  margin: 0 0 1.25rem 1.25rem;
+}
+.tava-blog .tb-article ul {
+  list-style: disc;
+}
+.tava-blog .tb-article ol {
+  list-style: decimal;
+}
+.tava-blog .tb-article li {
+  margin-bottom: 0.5rem;
+}
+.tava-blog .tb-article a {
+  color: var(--forest);
+  text-decoration: underline;
+  text-decoration-color: var(--gold-soft);
+  text-underline-offset: 3px;
+}
+.tava-blog .tb-article strong {
+  color: var(--forest-deep);
+}
+.tava-blog .tb-article blockquote {
+  margin: 1.75rem 0;
+  padding: 0.25rem 0 0.25rem 1.375rem;
+  border-left: 3px solid var(--gold);
+  font-family: var(--font-cormorant), Georgia, serif;
+  font-size: 1.5rem;
+  line-height: 1.45;
+  font-style: italic;
+  color: var(--forest-deep);
+}
+.tava-blog .tb-heroimg {
+  max-width: 62rem;
+  margin: 2.25rem auto 0;
+  padding: 0 1.5rem;
+}
+.tava-blog .tb-heroimg img {
+  width: 100%;
+  display: block;
+}
+.tava-blog .tb-back {
+  display: inline-block;
+  margin: 2.5rem 0 0.5rem;
+  font-size: 0.8125rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--forest);
+  text-decoration: none;
+}
+.tava-blog .tb-cta {
+  border-top: 1px solid var(--linestone);
+  border-bottom: 1px solid var(--linestone);
+  max-width: 62rem;
+  margin: 3.25rem auto 4.5rem;
+  padding: 2.75rem 1.5rem;
+  text-align: center;
+  width: 92%;
+}
+.tava-blog .tb-cta h2 {
+  font-family: var(--font-cormorant), Georgia, serif;
+  font-weight: 600;
+  font-size: clamp(1.75rem, 4vw, 2.5rem);
+  color: var(--forest-deep);
+  margin-bottom: 0.625rem;
+}
+.tava-blog .tb-cta p {
+  color: #4c463c;
+  max-width: 35rem;
+  margin: 0 auto 1.5rem;
+}
+.tava-blog .tb-btn {
+  display: inline-block;
+  background: var(--forest);
+  color: #fafaf9;
+  text-decoration: none;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-size: 0.8125rem;
+  padding: 0.875rem 2rem;
+  border-radius: 999px;
+  margin: 0.25rem;
+}
+.tava-blog .tb-btn.ghost {
+  background: transparent;
+  color: var(--forest);
+  border: 1px solid var(--forest);
+}
+.tava-blog .tb-more {
+  max-width: 73.75rem;
+  margin: 0 auto;
+  padding: 0 1.5rem 4.5rem;
+}
+.tava-blog .tb-more h2 {
+  font-family: var(--font-cormorant), Georgia, serif;
+  font-weight: 600;
+  font-size: 2rem;
+  color: var(--forest-deep);
+  margin-bottom: 1.375rem;
+}
+.tava-blog .tb-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+.tava-blog .tb-card {
+  background: transparent;
+  border-top: 2px solid var(--forest);
+  padding-top: 1.25rem;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+}
+.tava-blog .tb-card img {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 1.125rem;
+}
+.tava-blog .tb-card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.625rem;
+  flex: 1;
+}
+.tava-blog .tb-card h2,
+.tava-blog .tb-card h3 {
+  font-family: var(--font-cormorant), Georgia, serif;
+  font-weight: 600;
+  font-size: 1.625rem;
+  line-height: 1.2;
+  color: var(--forest-deep);
+}
+.tava-blog .tb-card p {
+  font-size: 0.9375rem;
+  color: #4c463c;
+  flex: 1;
+}
+.tava-blog .tb-read {
+  font-size: 0.8125rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--forest);
+  font-weight: 600;
+}
+
+/* ------------------------------------------------------------------ */
+/* Legal prose. The legal texts are rendered verbatim from the stored  */
+/* markup; this is their new typographic shell.                        */
+/* ------------------------------------------------------------------ */
+.tava-legal .legal {
+  max-width: 52rem;
+  margin: 0 auto;
+  padding: 3.5rem 1.5rem 4.5rem;
+}
+.tava-legal .eyebrow {
+  font-size: 0.75rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--gold);
+  font-weight: 600;
+}
+.tava-legal .legal > h1 {
+  font-family: var(--font-cormorant), Georgia, serif;
+  font-weight: 600;
+  font-size: clamp(2.25rem, 5vw, 3.25rem);
+  line-height: 1.1;
+  color: var(--forest-deep);
+  margin: 0.75rem 0 0.5rem;
+}
+.tava-legal .updated {
+  color: #6f695c;
+  font-size: 0.9375rem;
+  margin-bottom: 2rem;
+}
+.tava-legal .privacy-h1 {
+  font-family: var(--font-cormorant), Georgia, serif;
+  font-weight: 600;
+  font-size: 1.625rem;
+  line-height: 1.25;
+  color: var(--forest-deep);
+  margin: 2.25rem 0 0.75rem;
+}
+.tava-legal .privacy-h2 {
+  font-weight: 600;
+  font-size: 1.0625rem;
+  color: var(--forest-deep);
+  margin: 1.5rem 0 0.5rem;
+}
+.tava-legal .privacy-body {
+  font-size: 1rem;
+  line-height: 1.75;
+  color: #2b2822;
+}
+.tava-legal .privacy-body p {
+  margin: 0 0 1rem;
+}
+.tava-legal .privacy-body ul {
+  list-style: disc;
+  margin: 0 0 1rem 1.25rem;
+}
+.tava-legal .privacy-body li {
+  margin-bottom: 0.375rem;
+}
+.tava-legal .privacy-body a {
+  color: var(--forest);
+  text-decoration: underline;
+  text-decoration-color: var(--gold-soft);
+  text-underline-offset: 3px;
+  overflow-wrap: anywhere;
+}
+.tava-legal .privacy-toc {
+  border-top: 1px solid var(--linestone);
+  border-bottom: 1px solid var(--linestone);
+  padding: 1.25rem 0;
+  margin-bottom: 1rem;
+}
+.tava-legal .privacy-toc a {
+  color: var(--forest);
+  text-decoration: none;
+}
+.tava-legal .privacy-toc a:hover {
+  text-decoration: underline;
+}

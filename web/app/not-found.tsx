@@ -1,30 +1,30 @@
 import Link from "next/link";
+import SiteShell from "@/components/SiteShell";
+import { Button } from "@/components/ui/button";
 
 export default function NotFound() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center bg-white px-6 text-center text-black">
-      <p className="text-sm font-semibold uppercase tracking-widest text-neutral-500">
-        Tava Labs
-      </p>
-      <h1 className="mt-4 text-4xl font-bold">Page not found</h1>
-      <p className="mt-4 max-w-md text-base text-neutral-600">
-        The page you are looking for is not here. It may have moved, or the
-        address may be incomplete.
-      </p>
-      <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
-        <Link
-          href="/"
-          className="rounded-full bg-black px-6 py-3 text-sm font-semibold text-white"
-        >
-          Back to the homepage
-        </Link>
-        <Link
-          href="/glow-brightening-serum"
-          className="rounded-full border border-black px-6 py-3 text-sm font-semibold text-black"
-        >
-          Shop the PDRN Brightening Serum
-        </Link>
-      </div>
-    </main>
+    <SiteShell>
+      <section className="mx-auto flex max-w-7xl flex-col items-start px-5 py-24 sm:px-8">
+        <p className="text-sm font-semibold tracking-wide text-gold">
+          Tava Labs
+        </p>
+        <h1 className="mt-4 font-display text-5xl font-semibold text-forest-deep sm:text-6xl">
+          Page not found
+        </h1>
+        <p className="mt-4 max-w-md leading-relaxed text-ink/75">
+          The page you are looking for is not here. It may have moved, or the
+          address may be incomplete.
+        </p>
+        <div className="mt-8 flex flex-wrap gap-3">
+          <Button render={<Link href="/" />} size="lg">
+            Back to the homepage
+          </Button>
+          <Button render={<Link href="/glow-brightening-serum" />} variant="outline" size="lg">
+            Shop the PDRN Brightening Serum
+          </Button>
+        </div>
+      </section>
+    </SiteShell>
   );
 }
