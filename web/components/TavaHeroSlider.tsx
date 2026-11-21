@@ -98,68 +98,61 @@ const TavaHeroSlider: React.FC = () => {
           }}
         />
 
-        {/* Content */}
+        {/* Product card on the right: photo, title, badge, dots, and Start now all live on the card */}
         <div
           style={{
-            position: "relative",
-            zIndex: 2,
-            height: "100%",
-            padding: "24px 20px",
-            display: "flex",
-            flexDirection: "column",
-            justifyContent: "space-between",
-            color: "white",
+            position: "absolute",
+            right: "16px",
+            top: "50%",
+            transform: "translateY(-50%)",
+            width: "216px",
+            borderRadius: "22px",
+            background: "rgba(255,255,255,0.94)",
+            backdropFilter: "blur(12px)",
+            boxShadow: "0 8px 30px rgba(0,0,0,0.25)",
+            zIndex: 3,
+            padding: "12px",
+            color: "#1a1a1a",
           }}
         >
-          <div>
-            <div
-              style={{
-                fontSize: "34px",
-                fontWeight: 700,
-                lineHeight: 1.05,
-                textShadow: "0 2px 12px rgba(0,0,0,0.5)",
-                maxWidth: "58%",
-                whiteSpace: "pre-line",
-              }}
-            >
-              {slide.title}
-            </div>
-            <div
-              style={{
-                background: "rgba(255,255,255,0.88)",
-                backdropFilter: "blur(12px)",
-                borderRadius: "16px",
-                padding: "10px 14px",
-                width: "fit-content",
-                color: "#1a1a1a",
-                marginTop: "14px",
-              }}
-            >
-              <h3 style={{ fontSize: "14px", fontWeight: 600, margin: 0 }}>
-                {slide.badgeTitle}
-              </h3>
-              <p style={{ fontSize: "11px", color: "#555", margin: "2px 0 0 0" }}>
-                {slide.badgeSub}
-              </p>
-            </div>
+          <div
+            style={{
+              width: "100%",
+              height: "118px",
+              borderRadius: "14px",
+              backgroundImage: `url(${slide.product})`,
+              backgroundSize: "cover",
+              backgroundPosition: "center",
+              transition: "background-image 0.6s ease-in-out",
+            }}
+          />
+          <div
+            style={{
+              fontSize: "22px",
+              fontWeight: 700,
+              lineHeight: 1.1,
+              whiteSpace: "pre-line",
+              marginTop: "12px",
+            }}
+          >
+            {slide.title}
           </div>
+          <h3 style={{ fontSize: "13px", fontWeight: 600, margin: "10px 0 0 0" }}>
+            {slide.badgeTitle}
+          </h3>
+          <p style={{ fontSize: "11px", color: "#555", margin: "2px 0 0 0" }}>
+            {slide.badgeSub}
+          </p>
 
           <div
             style={{
               display: "flex",
               justifyContent: "space-between",
               alignItems: "center",
+              marginTop: "14px",
             }}
           >
-            <div
-              style={{
-                display: "flex",
-                gap: "7px",
-                background: "rgba(255,255,255,0.7)",
-                padding: "7px 12px",
-                borderRadius: "20px",
-              }}
-            >
+            <div style={{ display: "flex", gap: "7px" }}>
               {slides.map((s, i) => (
                 <button
                   key={s.id}
@@ -186,8 +179,8 @@ const TavaHeroSlider: React.FC = () => {
                 color: "white",
                 border: "none",
                 borderRadius: "30px",
-                padding: "12px 18px",
-                fontSize: "14px",
+                padding: "10px 14px",
+                fontSize: "13px",
                 fontWeight: 600,
                 cursor: "pointer",
               }}
@@ -195,35 +188,6 @@ const TavaHeroSlider: React.FC = () => {
               Start now →
             </button>
           </div>
-        </div>
-
-        {/* Product card on the right */}
-        <div
-          style={{
-            position: "absolute",
-            right: "16px",
-            top: "50%",
-            transform: "translateY(-50%)",
-            width: "140px",
-            height: "180px",
-            borderRadius: "20px",
-            overflow: "hidden",
-            boxShadow: "0 8px 30px rgba(0,0,0,0.25)",
-            zIndex: 3,
-            backgroundImage: `url(${slide.product})`,
-            backgroundSize: "cover",
-            backgroundPosition: "center",
-            transition: "background-image 0.6s ease-in-out",
-          }}
-        >
-          <div
-            style={{
-              position: "absolute",
-              inset: 0,
-              background:
-                "linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.4) 100%)",
-            }}
-          />
         </div>
       </div>
     </div>
