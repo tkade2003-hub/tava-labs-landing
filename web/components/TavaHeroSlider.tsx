@@ -33,6 +33,39 @@ const slides = [
   },
 ];
 
+const heroCss = `
+.th-wrap { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f8f7f5; display: flex; justify-content: center; padding: 20px; }
+.th-frame { width: 100%; max-width: 420px; border-radius: 28px; overflow: hidden; position: relative; box-shadow: 0 4px 20px rgba(0,0,0,0.08); height: 420px; background: #08251D; }
+.th-video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transition: opacity 0.6s ease-in-out; }
+.th-overlay { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.45) 100%); }
+.th-copy { position: absolute; top: 24px; left: 20px; z-index: 2; color: white; }
+.th-title { font-size: 34px; font-weight: 700; line-height: 1.05; text-shadow: 0 2px 12px rgba(0,0,0,0.5); max-width: 58%; white-space: pre-line; }
+.th-sub { font-size: 15px; line-height: 1.4; color: rgba(255,255,255,0.92); text-shadow: 0 1px 8px rgba(0,0,0,0.5); max-width: 58%; margin: 10px 0 0 0; }
+.th-start { position: absolute; right: 20px; bottom: 20px; z-index: 2; background: #1a1a1a; color: white; border: none; border-radius: 30px; padding: 12px 18px; font-size: 14px; font-weight: 600; cursor: pointer; }
+.th-card { position: absolute; right: 16px; top: 50%; transform: translateY(-50%); width: 216px; height: 260px; border-radius: 20px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.25); z-index: 3; background-size: cover; background-position: center; transition: background-image 0.6s ease-in-out; }
+.th-card-shade { position: absolute; inset: 0; background: linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.55) 100%); }
+.th-card-inner { position: relative; height: 100%; padding: 14px; display: flex; flex-direction: column; justify-content: flex-end; color: white; box-sizing: border-box; }
+.th-badge { background: rgba(255,255,255,0.88); backdrop-filter: blur(12px); border-radius: 16px; padding: 10px 14px; width: fit-content; max-width: 100%; color: #1a1a1a; box-sizing: border-box; }
+.th-badge-title { font-size: 14px; font-weight: 600; margin: 0; }
+.th-badge-sub { font-size: 11px; color: #555; margin: 2px 0 0 0; }
+.th-dots { display: flex; gap: 7px; background: rgba(255,255,255,0.7); padding: 7px 12px; border-radius: 20px; width: fit-content; margin-top: 10px; }
+.th-dot { width: 7px; height: 7px; border-radius: 50%; transition: background 0.3s; border: none; padding: 0; cursor: pointer; }
+@media (max-width: 480px) {
+  .th-wrap { padding: 12px; }
+  .th-frame { height: 440px; border-radius: 24px; }
+  .th-copy { top: 18px; left: 16px; right: 16px; }
+  .th-title { font-size: 27px; max-width: 60%; }
+  .th-sub { font-size: 13.5px; max-width: 56%; margin-top: 8px; }
+  .th-card { width: 164px; height: 208px; right: 12px; border-radius: 18px; }
+  .th-card-inner { padding: 10px; }
+  .th-badge { padding: 8px 10px; border-radius: 13px; }
+  .th-badge-title { font-size: 13px; }
+  .th-badge-sub { font-size: 10.5px; }
+  .th-dots { padding: 6px 10px; margin-top: 8px; }
+  .th-start { right: 14px; bottom: 14px; padding: 11px 16px; font-size: 13.5px; }
+}
+`;
+
 const TavaHeroSlider: React.FC = () => {
   const [current, setCurrent] = useState(0);
 
@@ -46,28 +79,9 @@ const TavaHeroSlider: React.FC = () => {
   const slide = slides[current];
 
   return (
-    <div
-      style={{
-        fontFamily:
-          '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
-        background: "#f8f7f5",
-        display: "flex",
-        justifyContent: "center",
-        padding: "20px",
-      }}
-    >
-      <div
-        style={{
-          width: "100%",
-          maxWidth: "420px",
-          borderRadius: "28px",
-          overflow: "hidden",
-          position: "relative",
-          boxShadow: "0 4px 20px rgba(0,0,0,0.08)",
-          height: "420px",
-          background: "#08251D",
-        }}
-      >
+    <div className="th-wrap">
+      <style>{heroCss}</style>
+      <div className="th-frame">
         {/* Video Background: every slide stays mounted and preloaded, only the active one is visible */}
         {slides.map((s, i) => (
           <video
@@ -77,171 +91,48 @@ const TavaHeroSlider: React.FC = () => {
             muted
             playsInline
             preload="auto"
-            style={{
-              position: "absolute",
-              inset: 0,
-              width: "100%",
-              height: "100%",
-              objectFit: "cover",
-              opacity: i === current ? 1 : 0,
-              transition: "opacity 0.6s ease-in-out",
-            }}
+            className="th-video"
+            style={{ opacity: i === current ? 1 : 0 }}
           >
             <source src={s.video} />
           </video>
         ))}
 
         {/* Overlay */}
-        <div
-          style={{
-            position: "absolute",
-            inset: 0,
-            background:
-              "linear-gradient(180deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.45) 100%)",
-          }}
-        />
+        <div className="th-overlay" />
 
         {/* Hero title and subtitle, over the video */}
-        <div
-          style={{
-            position: "absolute",
-            top: "24px",
-            left: "20px",
-            zIndex: 2,
-            color: "white",
-          }}
-        >
-          <div
-            style={{
-              fontSize: "34px",
-              fontWeight: 700,
-              lineHeight: 1.05,
-              textShadow: "0 2px 12px rgba(0,0,0,0.5)",
-              maxWidth: "58%",
-              whiteSpace: "pre-line",
-            }}
-          >
-            {slide.title}
-          </div>
-          <p
-            style={{
-              fontSize: "15px",
-              lineHeight: 1.4,
-              color: "rgba(255,255,255,0.92)",
-              textShadow: "0 1px 8px rgba(0,0,0,0.5)",
-              maxWidth: "58%",
-              margin: "10px 0 0 0",
-            }}
-          >
-            {slide.subtitle}
-          </p>
+        <div className="th-copy">
+          <div className="th-title">{slide.title}</div>
+          <p className="th-sub">{slide.subtitle}</p>
         </div>
 
         {/* Start now, bottom corner of the frame */}
-        <button
-          style={{
-            position: "absolute",
-            right: "20px",
-            bottom: "20px",
-            zIndex: 2,
-            background: "#1a1a1a",
-            color: "white",
-            border: "none",
-            borderRadius: "30px",
-            padding: "12px 18px",
-            fontSize: "14px",
-            fontWeight: 600,
-            cursor: "pointer",
-          }}
-        >
-          Start now →
-        </button>
+        <button className="th-start">Start now →</button>
 
         {/* Product card on the right: the product image is the card background with an overlay,
-            and the title, badge chip, and dots chip sit on the card */}
+            and the badge chip and dots chip sit on the card */}
         <div
-          style={{
-            position: "absolute",
-            right: "16px",
-            top: "50%",
-            transform: "translateY(-50%)",
-            width: "216px",
-            height: "260px",
-            borderRadius: "20px",
-            overflow: "hidden",
-            boxShadow: "0 8px 30px rgba(0,0,0,0.25)",
-            zIndex: 3,
-            backgroundImage: `url(${slide.product})`,
-            backgroundSize: "cover",
-            backgroundPosition: "center",
-            transition: "background-image 0.6s ease-in-out",
-          }}
+          className="th-card"
+          style={{ backgroundImage: `url(${slide.product})` }}
         >
-          <div
-            style={{
-              position: "absolute",
-              inset: 0,
-              background:
-                "linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.55) 100%)",
-            }}
-          />
-          <div
-            style={{
-              position: "relative",
-              height: "100%",
-              padding: "14px",
-              display: "flex",
-              flexDirection: "column",
-              justifyContent: "flex-end",
-              color: "white",
-            }}
-          >
+          <div className="th-card-shade" />
+          <div className="th-card-inner">
             <div>
-              <div
-                style={{
-                  background: "rgba(255,255,255,0.88)",
-                  backdropFilter: "blur(12px)",
-                  borderRadius: "16px",
-                  padding: "10px 14px",
-                  width: "fit-content",
-                  color: "#1a1a1a",
-                }}
-              >
-                <h3 style={{ fontSize: "14px", fontWeight: 600, margin: 0 }}>
-                  {slide.badgeTitle}
-                </h3>
-                <p style={{ fontSize: "11px", color: "#555", margin: "2px 0 0 0" }}>
-                  {slide.badgeSub}
-                </p>
+              <div className="th-badge">
+                <h3 className="th-badge-title">{slide.badgeTitle}</h3>
+                <p className="th-badge-sub">{slide.badgeSub}</p>
               </div>
 
-              <div
-                style={{
-                  display: "flex",
-                  gap: "7px",
-                  background: "rgba(255,255,255,0.7)",
-                  padding: "7px 12px",
-                  borderRadius: "20px",
-                  width: "fit-content",
-                  marginTop: "10px",
-                }}
-              >
+              <div className="th-dots">
                 {slides.map((s, i) => (
                   <button
                     key={s.id}
                     type="button"
                     aria-label={`Go to slide ${i + 1}`}
                     onClick={() => setCurrent(i)}
-                    style={{
-                      width: 7,
-                      height: 7,
-                      borderRadius: "50%",
-                      background: i === current ? "#d4af37" : "#ccc",
-                      transition: "background 0.3s",
-                      border: "none",
-                      padding: 0,
-                      cursor: "pointer",
-                    }}
+                    className="th-dot"
+                    style={{ background: i === current ? "#d4af37" : "#a89f92" }}
                   />
                 ))}
               </div>
