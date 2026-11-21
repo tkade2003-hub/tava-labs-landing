@@ -1,6 +1,7 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
+import { motion, useScroll, useTransform, useSpring } from "framer-motion";
 import { SERUM_CARD, ADHD_CARD, LABS_CARD } from "@/lib/heroMedia";
 
 const slides = [
@@ -34,6 +35,8 @@ const slides = [
 ];
 
 const heroCss = `
+.th-scroll { position: relative; height: 1500px; }
+.th-stage { position: sticky; top: 0; height: 100vh; height: 100svh; display: flex; align-items: center; justify-content: center; background: #f8f7f5; padding: 12px; box-sizing: border-box; }
 .th-wrap { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f8f7f5; display: flex; justify-content: center; padding: 20px; }
 .th-frame { width: 100%; max-width: 420px; border-radius: 28px; overflow: hidden; position: relative; box-shadow: 0 4px 20px rgba(0,0,0,0.08); height: 420px; background: #08251D; }
 .th-video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transition: opacity 0.6s ease-in-out; }
@@ -78,10 +81,23 @@ const TavaHeroSlider: React.FC = () => {
 
   const slide = slides[current];
 
+  const targetRef = useRef<HTMLDivElement>(null);
+  const { scrollYProgress } = useScroll({
+    target: targetRef,
+    offset: ["start start", "end end"],
+  });
+  const smoothProgress = useSpring(scrollYProgress, {
+    stiffness: 90,
+    damping: 25,
+    mass: 0.4,
+  });
+  const heroScale = useTransform(smoothProgress, [0, 1], [1, 0.82]);
+
   return (
-    <div className="th-wrap">
+    <div className="th-scroll" ref={targetRef}>
       <style>{heroCss}</style>
-      <div className="th-frame">
+      <div className="th-stage">
+        <motion.div className="th-frame" style={{ scale: heroScale }}>
         {/* Video Background: every slide stays mounted and preloaded, only the active one is visible */}
         {slides.map((s, i) => (
           <video
@@ -138,7 +154,8 @@ const TavaHeroSlider: React.FC = () => {
               </div>
             </div>
           </div>
-        </div>
+          </div>
+        </motion.div>
       </div>
     </div>
   );
