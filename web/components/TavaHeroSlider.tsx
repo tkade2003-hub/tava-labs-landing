@@ -42,15 +42,15 @@ const slides = [
 
 const heroCss = `
 .th-scroll { position: relative; height: 1500px; }
-.th-stage { position: sticky; top: 0; height: 100vh; height: 100svh; display: flex; align-items: center; justify-content: center; background: #f8f7f5; overflow: hidden; }
+.th-stage { position: sticky; top: 0; height: calc(100vh - 68px); height: calc(100svh - 68px); min-height: 520px; display: flex; align-items: center; justify-content: center; background: #f8f7f5; overflow: hidden; }
 .th-hero { position: relative; width: 100%; height: 100%; overflow: hidden; background: #08251D; font-family: var(--font-montserrat), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
 .th-video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transition: opacity 0.9s ease-in-out; }
 .th-video-active { animation: th-kenburns 7s ease-out forwards; }
 @keyframes th-kenburns { from { transform: scale(1); } to { transform: scale(1.07); } }
 .th-overlay { position: absolute; inset: 0; background: linear-gradient(97deg, rgba(8,37,29,0.66) 0%, rgba(8,37,29,0.28) 42%, rgba(8,37,29,0) 68%), linear-gradient(0deg, rgba(8,37,29,0.42) 0%, rgba(8,37,29,0) 34%); }
-.th-copy { position: absolute; top: 48px; left: 48px; z-index: 2; color: white; }
-.th-title { font-family: var(--font-cormorant), Georgia, serif; font-size: 58px; font-weight: 600; line-height: 1.02; letter-spacing: 0.005em; text-shadow: 0 2px 18px rgba(8,37,29,0.45); max-width: 47%; white-space: pre-line; margin: 0; }
-.th-sub { font-size: 15.5px; font-weight: 500; line-height: 1.55; color: rgba(255,255,255,0.88); text-shadow: 0 1px 10px rgba(8,37,29,0.5); max-width: 40%; margin: 16px 0 0 0; }
+.th-copy { position: absolute; top: 48px; left: 48px; z-index: 2; color: white; width: 600px; max-width: calc(100% - 360px); }
+.th-title { font-family: var(--font-cormorant), Georgia, serif; font-size: 58px; font-weight: 600; line-height: 1.02; letter-spacing: 0.005em; text-shadow: 0 2px 18px rgba(8,37,29,0.45); max-width: 100%; white-space: pre-line; margin: 0; }
+.th-sub { font-size: 15.5px; font-weight: 500; line-height: 1.55; color: rgba(255,255,255,0.88); text-shadow: 0 1px 10px rgba(8,37,29,0.5); max-width: 82%; margin: 16px 0 0 0; }
 .th-start { position: absolute; right: 48px; bottom: 48px; z-index: 2; background: #12100C; color: #D8C19A; border: 1px solid rgba(216,193,154,0.35); border-radius: 999px; padding: 15px 26px; font-family: var(--font-montserrat), sans-serif; font-size: 12.5px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; cursor: pointer; transition: background 0.25s ease, color 0.25s ease; }
 .th-start:hover { background: #08251D; color: #FAFAF9; }
 .th-start:focus-visible, .th-dot:focus-visible { outline: 2px solid #B78B45; outline-offset: 2px; }
@@ -64,14 +64,14 @@ const heroCss = `
 .th-dots { display: flex; gap: 2px; background: rgba(255,255,255,0.72); padding: 4px 8px; border-radius: 999px; width: fit-content; margin-top: 10px; }
 .th-dot { width: 24px; height: 20px; border-radius: 999px; border: none; padding: 0; cursor: pointer; background-color: transparent; background-repeat: no-repeat; background-position: center; }
 @media (max-width: 900px) {
-  .th-copy { top: 32px; left: 28px; }
+  .th-copy { top: 32px; left: 28px; width: 480px; max-width: calc(100% - 300px); }
   .th-title { font-size: 42px; max-width: 56%; }
-  .th-sub { max-width: 50%; }
+  .th-sub { max-width: 82%; }
   .th-card { right: 28px; }
   .th-start { right: 28px; bottom: 28px; }
 }
 @media (max-width: 640px) {
-  .th-copy { top: 22px; left: 18px; right: 18px; }
+  .th-copy { top: 22px; left: 18px; right: 18px; width: auto; max-width: none; }
   .th-title { font-size: 37px; max-width: 92%; }
   .th-sub { font-size: 14px; max-width: 84%; margin-top: 10px; }
   .th-card { top: auto; bottom: 20px; transform: none; width: 168px; height: 214px; right: 14px; border-radius: 18px; }
