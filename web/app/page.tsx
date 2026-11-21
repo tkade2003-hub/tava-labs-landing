@@ -4,6 +4,7 @@ import Link from "next/link";
 import { ChevronRight } from "lucide-react";
 import SiteShell from "@/components/SiteShell";
 import FreeFrom from "@/components/FreeFrom";
+import MotionCarousel from "@/components/MotionCarousel";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { pageMetadata } from "@/lib/pageMeta";
@@ -45,18 +46,6 @@ const COMING_SOON = [
     alt: "Tava Labs Peptide Hair Growth Serum amber dropper bottle",
     desc: "Nourishes the scalp, for hair that looks as cared for as your skin.",
   },
-];
-
-const MOTION_VIDEOS = [
-  "video_1794963376632",
-  "video_1794967533613",
-  "video_1794974090775",
-  "video_1795026257064",
-  "video_1795026641447",
-  "video_1795026966409",
-  "video_1795026997440",
-  "video_1795028291814",
-  "video_1795028309764",
 ];
 
 const JOURNAL_SLUGS = [
@@ -301,36 +290,36 @@ export default function Page() {
           <div className="flex flex-col lg:flex-row">
             <div
               role="img"
-              aria-label="Founder in a blazer looking up, ready for his next meeting"
+              aria-label="Man in profile looking up wearing a dark blazer"
               className="h-[440px] w-full shrink-0 bg-cover bg-[center_top] bg-no-repeat lg:order-2 lg:h-auto lg:min-h-[540px] lg:w-1/2"
               style={{
                 backgroundImage: `linear-gradient(to bottom, rgba(8,37,29,0) 50%, rgba(8,37,29,0.45) 78%, #08251D 100%), url("${MEETING_PORTRAIT}")`,
               }}
             />
-            <div className="flex flex-1 flex-col justify-center px-6 py-11 sm:px-10 lg:order-1 lg:px-14 lg:py-16">
-              <p className="text-sm font-semibold tracking-[0.22em] text-gold-soft">
+            <div className="flex flex-1 flex-col justify-center px-[5vw] pt-[44px] pb-[48px] lg:order-1 lg:py-[64px]">
+              <p className="text-[13px] font-semibold tracking-[3px] text-gold-soft">
                 SKINCARE FOR THE AMBITIOUS
               </p>
-              <h2 className="mt-5 max-w-[520px] font-display text-4xl leading-tight font-semibold sm:text-5xl">
-                Your next meeting starts with <span className="text-gold-soft">you.</span>
+              <h2 className="mt-5 max-w-[520px] font-display text-[clamp(38px,5vw,58px)] leading-[1.08] font-semibold">
+                Your next meeting<br />starts with <span className="text-gold-soft">you.</span>
               </h2>
-              <p className="mt-6 max-w-[440px] text-lg leading-relaxed text-[#fafaf9]/85">
+              <p className="mt-6 max-w-[440px] text-[17px] leading-[1.65] text-[#fafaf9]">
                 Your appearance is part of your professional presence. One daily
                 routine, built for people who pitch, present, and record, helps
                 you look composed and polished on the days that ask the most of
                 you. Build your business. Do not{" "}
                 <span className="text-gold-soft">neglect yourself.</span>
               </p>
-              <div className="mt-9 flex flex-wrap items-center gap-4">
+              <div className="mt-[26px] flex flex-wrap items-center gap-3">
                 <Link
                   href="/glow-brightening-serum"
-                  className="rounded-full bg-black px-8 py-3.5 text-sm font-semibold tracking-[0.14em] text-gold-soft uppercase transition-colors hover:bg-black/80 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
+                  className="rounded-full bg-black px-[30px] py-[15px] text-sm font-bold tracking-[0.1em] text-gold-soft uppercase transition-colors hover:bg-black/80 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
                 >
                   Get Started
                 </Link>
                 <Link
                   href="/quiz"
-                  className="rounded-full border border-white/25 bg-white/10 px-8 py-3.5 text-sm font-semibold text-white transition-colors hover:bg-white/20 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
+                  className="rounded-full border border-[rgba(255,255,255,0.45)] bg-[rgba(250,245,234,0.22)] px-[30px] py-[15px] text-sm font-semibold text-white transition-colors hover:bg-white/20 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
                 >
                   Take the quiz
                 </Link>
@@ -524,33 +513,7 @@ export default function Page() {
       </section>
 
       {/* Tava in Motion */}
-      <section className="border-t border-linestone bg-linen/50">
-        <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
-          <h2 className="font-display text-4xl font-semibold text-forest-deep">
-            Tava in Motion
-          </h2>
-          <p className="mt-3 text-ink/75">
-            Short clips from founders and creators.
-          </p>
-        </div>
-        <div className="tava-marquee pb-16 lg:pb-20" aria-label="Video carousel">
-          <div className="tava-marquee-track">
-            {[...MOTION_VIDEOS, ...MOTION_VIDEOS].map((v, i) => (
-              <video
-                key={`${v}-${i}`}
-                src={`/assets/ads/${v}.mp4`}
-                muted
-                loop
-                autoPlay
-                playsInline
-                preload="metadata"
-                aria-hidden={i >= MOTION_VIDEOS.length}
-                className="aspect-[3/4] w-52 shrink-0 rounded-2xl object-cover sm:w-60"
-              />
-            ))}
-          </div>
-        </div>
-      </section>
+      <MotionCarousel />
 
       {/* What we leave out */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
