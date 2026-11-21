@@ -166,7 +166,7 @@ export default function Page() {
           <div>
             <div className="flex flex-wrap items-center gap-3">
               <Badge className="bg-forest text-[#fafaf9]">In Stock</Badge>
-              <p className="text-xs font-semibold tracking-[0.16em] text-gold uppercase">
+              <p className="text-[13px] font-semibold text-gold">
                 Clean and Vegan &bull; PDRN Active
               </p>
             </div>

@@ -5,9 +5,9 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
-  --font-sans: var(--font-montserrat);
-  --font-display: var(--font-cormorant);
-  --font-heading: var(--font-cormorant);
+  --font-sans: var(--font-brand);
+  --font-display: var(--font-brand);
+  --font-heading: var(--font-brand);
   --color-paper: var(--paper);
   --color-ink: var(--ink);
   --color-forest: var(--forest);
@@ -176,16 +176,15 @@
   padding: 3.5rem 1.5rem 0;
 }
 .tava-blog .tb-meta {
-  font-size: 0.75rem;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
+  font-size: 0.8125rem;
   color: var(--gold);
   font-weight: 600;
 }
 .tava-blog .tb-article h1 {
-  font-family: var(--font-cormorant), Georgia, serif;
-  font-weight: 600;
-  font-size: clamp(2.25rem, 5vw, 3.25rem);
+  font-family: var(--font-brand);
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  font-size: clamp(2rem, 5vw, 2.75rem);
   line-height: 1.1;
   color: var(--forest-deep);
   margin: 0.75rem 0 1rem;
@@ -199,9 +198,9 @@
   margin: 0 0 1.25rem;
 }
 .tava-blog .tb-article h2 {
-  font-family: var(--font-cormorant), Georgia, serif;
-  font-weight: 600;
-  font-size: 1.875rem;
+  font-family: var(--font-brand);
+  font-weight: 700;
+  font-size: 1.8125rem;
   line-height: 1.2;
   color: var(--forest);
   margin: 2.25rem 0 0.75rem;
@@ -238,10 +237,10 @@
   margin: 1.75rem 0;
   padding: 0.25rem 0 0.25rem 1.375rem;
   border-left: 3px solid var(--gold);
-  font-family: var(--font-cormorant), Georgia, serif;
+  font-family: var(--font-brand);
   font-size: 1.5rem;
   line-height: 1.45;
-  font-style: italic;
+  font-weight: 600;
   color: var(--forest-deep);
 }
 .tava-blog .tb-heroimg {
@@ -261,8 +260,6 @@
   display: inline-block;
   margin: 2.5rem 0 0.5rem;
   font-size: 0.8125rem;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
   font-weight: 600;
   color: var(--forest);
   text-decoration: none;
@@ -277,9 +274,10 @@
   width: 92%;
 }
 .tava-blog .tb-cta h2 {
-  font-family: var(--font-cormorant), Georgia, serif;
-  font-weight: 600;
-  font-size: clamp(1.75rem, 4vw, 2.5rem);
+  font-family: var(--font-brand);
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  font-size: clamp(1.75rem, 4vw, 2.25rem);
   color: var(--forest-deep);
   margin-bottom: 0.625rem;
 }
@@ -293,10 +291,8 @@
   background: var(--forest);
   color: #fafaf9;
   text-decoration: none;
-  font-weight: 600;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  font-size: 0.8125rem;
+  font-weight: 700;
+  font-size: 1rem;
   padding: 0.875rem 2rem;
   border-radius: 999px;
   margin: 0.25rem;
@@ -312,9 +308,9 @@
   padding: 0 1.5rem 4.5rem;
 }
 .tava-blog .tb-more h2 {
-  font-family: var(--font-cormorant), Georgia, serif;
-  font-weight: 600;
-  font-size: 2rem;
+  font-family: var(--font-brand);
+  font-weight: 700;
+  font-size: 1.8125rem;
   color: var(--forest-deep);
   margin-bottom: 1.375rem;
 }
@@ -347,9 +343,9 @@
 }
 .tava-blog .tb-card h2,
 .tava-blog .tb-card h3 {
-  font-family: var(--font-cormorant), Georgia, serif;
-  font-weight: 600;
-  font-size: 1.625rem;
+  font-family: var(--font-brand);
+  font-weight: 700;
+  font-size: 1.5rem;
   line-height: 1.2;
   color: var(--forest-deep);
 }
@@ -360,8 +356,6 @@
 }
 .tava-blog .tb-read {
   font-size: 0.8125rem;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
   color: var(--forest);
   font-weight: 600;
 }
@@ -376,16 +370,15 @@
   padding: 3.5rem 1.5rem 4.5rem;
 }
 .tava-legal .eyebrow {
-  font-size: 0.75rem;
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
+  font-size: 0.8125rem;
   color: var(--gold);
   font-weight: 600;
 }
 .tava-legal .legal > h1 {
-  font-family: var(--font-cormorant), Georgia, serif;
-  font-weight: 600;
-  font-size: clamp(2.25rem, 5vw, 3.25rem);
+  font-family: var(--font-brand);
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  font-size: clamp(2rem, 5vw, 2.75rem);
   line-height: 1.1;
   color: var(--forest-deep);
   margin: 0.75rem 0 0.5rem;
@@ -396,9 +389,9 @@
   margin-bottom: 2rem;
 }
 .tava-legal .privacy-h1 {
-  font-family: var(--font-cormorant), Georgia, serif;
-  font-weight: 600;
-  font-size: 1.625rem;
+  font-family: var(--font-brand);
+  font-weight: 700;
+  font-size: 1.5rem;
   line-height: 1.25;
   color: var(--forest-deep);
   margin: 2.25rem 0 0.75rem;

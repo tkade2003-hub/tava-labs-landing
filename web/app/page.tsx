@@ -120,7 +120,7 @@ export default function Page() {
               <div className="mt-[26px] flex flex-wrap items-center gap-3">
                 <Link
                   href="/glow-brightening-serum"
-                  className="rounded-full bg-black px-[30px] py-[15px] text-sm font-bold tracking-[0.1em] text-gold-soft uppercase transition-colors hover:bg-black/80 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
+                  className="rounded-full bg-black px-[30px] py-[15px] text-base font-bold text-gold-soft transition-colors hover:bg-black/80 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
                 >
                   Get Started
                 </Link>
@@ -439,7 +439,7 @@ export default function Page() {
                     className="aspect-[16/10] w-full rounded-2xl object-cover"
                     loading="lazy"
                   />
-                  <p className="mt-4 text-xs font-semibold tracking-[0.16em] text-gold uppercase">
+                  <p className="mt-4 text-[13px] font-semibold text-gold">
                     {card.meta.replace(/ · [A-Z][a-z]+ \d+, \d{4}$/, "")}
                   </p>
                   <h3 className="mt-2 font-display text-2xl leading-snug font-semibold text-forest-deep">
@@ -448,7 +448,7 @@ export default function Page() {
                   <p className="mt-2 text-sm leading-relaxed text-ink/70">
                     {card.excerpt}
                   </p>
-                  <p className="mt-3 text-xs font-semibold tracking-[0.16em] text-forest uppercase">
+                  <p className="mt-3 text-[13px] font-semibold text-forest">
                     Read the story &rarr;
                   </p>
                 </Link>

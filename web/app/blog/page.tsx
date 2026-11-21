@@ -42,7 +42,7 @@ export default function Page() {
                 />
               </Link>
               <div>
-                <p className="text-xs font-semibold tracking-[0.14em] text-gold uppercase">
+                <p className="text-[13px] font-semibold text-gold">
                   {card.meta}
                 </p>
                 <h2 className="mt-2 font-display text-3xl leading-tight font-semibold text-forest-deep">

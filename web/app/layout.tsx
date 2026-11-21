@@ -1,21 +1,15 @@
 import type { Metadata } from "next";
 import Script from "next/script";
-import { Cormorant_Garamond, Montserrat } from "next/font/google";
+import { Nunito } from "next/font/google";
 import "./globals.css";
 import { GTM_CODE, POSTHOG_CODE } from "@/lib/analytics";
 
-const cormorant = Cormorant_Garamond({
+/* Tava Labs brand font: one geometric sans for the whole brand.
+   See ~/workspace/tava-labs/design-system/typography.md */
+const nunito = Nunito({
   subsets: ["latin"],
-  weight: ["500", "600"],
-  style: ["normal", "italic"],
-  variable: "--font-cormorant",
-  display: "swap",
-});
-
-const montserrat = Montserrat({
-  subsets: ["latin"],
-  weight: ["400", "500", "600"],
-  variable: "--font-montserrat",
+  weight: ["400", "600", "700", "800"],
+  variable: "--font-brand",
   display: "swap",
 });
 
@@ -33,7 +27,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${cormorant.variable} ${montserrat.variable}`}>
+    <html lang="en" className={nunito.variable}>
       <body className="min-h-screen bg-background font-sans text-foreground antialiased">
         <noscript>
           <iframe

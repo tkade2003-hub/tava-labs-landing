@@ -45,7 +45,7 @@ export default function MotionCarousel() {
 
   return (
     <section className="overflow-hidden bg-white pt-[34px] pb-[10px]">
-      <p className="mb-[18px] text-center text-[13px] font-bold tracking-[0.28em] text-black uppercase">
+      <p className="mb-[18px] text-center text-[13px] font-semibold text-black">
         Tava in Motion
       </p>
       <p className="mx-auto mb-5 max-w-[640px] px-5 text-center text-[19px] leading-[1.5] text-black">

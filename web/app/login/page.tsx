@@ -56,7 +56,7 @@ export default function LoginPage() {
 
   const cardClass =
     "mb-5 rounded-2xl border border-linestone bg-white p-6 shadow-[0_10px_28px_rgba(8,37,29,0.07)] sm:p-7";
-  const eyebrowClass = "text-xs font-semibold tracking-[0.18em] text-gold uppercase";
+  const eyebrowClass = "text-[13px] font-semibold text-gold";
   const subClass = "text-[15px] leading-relaxed text-muted-foreground";
   const labelClass = "text-[13px] font-semibold text-forest-deep";
   const inputClass = "mt-1.5 h-12 rounded-xl bg-white px-4 text-base md:text-base";
