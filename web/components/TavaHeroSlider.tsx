@@ -98,7 +98,28 @@ const TavaHeroSlider: React.FC = () => {
           }}
         />
 
-        {/* Product card on the right: photo, title, badge, dots, and Start now all live on the card */}
+        {/* Start now, bottom corner of the frame */}
+        <button
+          style={{
+            position: "absolute",
+            right: "20px",
+            bottom: "20px",
+            zIndex: 2,
+            background: "#1a1a1a",
+            color: "white",
+            border: "none",
+            borderRadius: "30px",
+            padding: "12px 18px",
+            fontSize: "14px",
+            fontWeight: 600,
+            cursor: "pointer",
+          }}
+        >
+          Start now →
+        </button>
+
+        {/* Product card on the right: the product image is the card background with an overlay,
+            and the title, badge chip, and dots chip sit on the card */}
         <div
           style={{
             position: "absolute",
@@ -106,87 +127,98 @@ const TavaHeroSlider: React.FC = () => {
             top: "50%",
             transform: "translateY(-50%)",
             width: "216px",
-            borderRadius: "22px",
-            background: "rgba(255,255,255,0.94)",
-            backdropFilter: "blur(12px)",
+            height: "300px",
+            borderRadius: "20px",
+            overflow: "hidden",
             boxShadow: "0 8px 30px rgba(0,0,0,0.25)",
             zIndex: 3,
-            padding: "12px",
-            color: "#1a1a1a",
+            backgroundImage: `url(${slide.product})`,
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+            transition: "background-image 0.6s ease-in-out",
           }}
         >
           <div
             style={{
-              width: "100%",
-              height: "118px",
-              borderRadius: "14px",
-              backgroundImage: `url(${slide.product})`,
-              backgroundSize: "cover",
-              backgroundPosition: "center",
-              transition: "background-image 0.6s ease-in-out",
+              position: "absolute",
+              inset: 0,
+              background:
+                "linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.55) 100%)",
             }}
           />
           <div
             style={{
-              fontSize: "22px",
-              fontWeight: 700,
-              lineHeight: 1.1,
-              whiteSpace: "pre-line",
-              marginTop: "12px",
-            }}
-          >
-            {slide.title}
-          </div>
-          <h3 style={{ fontSize: "13px", fontWeight: 600, margin: "10px 0 0 0" }}>
-            {slide.badgeTitle}
-          </h3>
-          <p style={{ fontSize: "11px", color: "#555", margin: "2px 0 0 0" }}>
-            {slide.badgeSub}
-          </p>
-
-          <div
-            style={{
+              position: "relative",
+              height: "100%",
+              padding: "14px",
               display: "flex",
+              flexDirection: "column",
               justifyContent: "space-between",
-              alignItems: "center",
-              marginTop: "14px",
+              color: "white",
             }}
           >
-            <div style={{ display: "flex", gap: "7px" }}>
-              {slides.map((s, i) => (
-                <button
-                  key={s.id}
-                  type="button"
-                  aria-label={`Go to slide ${i + 1}`}
-                  onClick={() => setCurrent(i)}
-                  style={{
-                    width: 7,
-                    height: 7,
-                    borderRadius: "50%",
-                    background: i === current ? "#d4af37" : "#ccc",
-                    transition: "background 0.3s",
-                    border: "none",
-                    padding: 0,
-                    cursor: "pointer",
-                  }}
-                />
-              ))}
-            </div>
-
-            <button
+            <div
               style={{
-                background: "#1a1a1a",
-                color: "white",
-                border: "none",
-                borderRadius: "30px",
-                padding: "10px 14px",
-                fontSize: "13px",
-                fontWeight: 600,
-                cursor: "pointer",
+                fontSize: "28px",
+                fontWeight: 700,
+                lineHeight: 1.05,
+                textShadow: "0 2px 12px rgba(0,0,0,0.5)",
+                whiteSpace: "pre-line",
               }}
             >
-              Start now →
-            </button>
+              {slide.title}
+            </div>
+
+            <div>
+              <div
+                style={{
+                  background: "rgba(255,255,255,0.88)",
+                  backdropFilter: "blur(12px)",
+                  borderRadius: "16px",
+                  padding: "10px 14px",
+                  width: "fit-content",
+                  color: "#1a1a1a",
+                }}
+              >
+                <h3 style={{ fontSize: "14px", fontWeight: 600, margin: 0 }}>
+                  {slide.badgeTitle}
+                </h3>
+                <p style={{ fontSize: "11px", color: "#555", margin: "2px 0 0 0" }}>
+                  {slide.badgeSub}
+                </p>
+              </div>
+
+              <div
+                style={{
+                  display: "flex",
+                  gap: "7px",
+                  background: "rgba(255,255,255,0.7)",
+                  padding: "7px 12px",
+                  borderRadius: "20px",
+                  width: "fit-content",
+                  marginTop: "10px",
+                }}
+              >
+                {slides.map((s, i) => (
+                  <button
+                    key={s.id}
+                    type="button"
+                    aria-label={`Go to slide ${i + 1}`}
+                    onClick={() => setCurrent(i)}
+                    style={{
+                      width: 7,
+                      height: 7,
+                      borderRadius: "50%",
+                      background: i === current ? "#d4af37" : "#ccc",
+                      transition: "background 0.3s",
+                      border: "none",
+                      padding: 0,
+                      cursor: "pointer",
+                    }}
+                  />
+                ))}
+              </div>
+            </div>
           </div>
         </div>
       </div>
