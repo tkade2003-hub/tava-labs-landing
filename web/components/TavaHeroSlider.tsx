@@ -36,16 +36,15 @@ const slides = [
 
 const heroCss = `
 .th-scroll { position: relative; height: 1500px; }
-.th-stage { position: sticky; top: 0; height: 100vh; height: 100svh; display: flex; align-items: center; justify-content: center; background: #f8f7f5; padding: 12px; box-sizing: border-box; }
-.th-wrap { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f8f7f5; display: flex; justify-content: center; padding: 20px; }
-.th-frame { width: 100%; max-width: 420px; border-radius: 28px; overflow: hidden; position: relative; box-shadow: 0 4px 20px rgba(0,0,0,0.08); height: 420px; background: #08251D; }
+.th-stage { position: sticky; top: 0; height: 100vh; height: 100svh; display: flex; align-items: center; justify-content: center; background: #f8f7f5; overflow: hidden; }
+.th-hero { position: relative; width: 100%; height: 100%; overflow: hidden; background: #08251D; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
 .th-video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transition: opacity 0.6s ease-in-out; }
 .th-overlay { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.45) 100%); }
-.th-copy { position: absolute; top: 24px; left: 20px; z-index: 2; color: white; }
-.th-title { font-size: 34px; font-weight: 700; line-height: 1.05; text-shadow: 0 2px 12px rgba(0,0,0,0.5); max-width: 58%; white-space: pre-line; }
-.th-sub { font-size: 15px; line-height: 1.4; color: rgba(255,255,255,0.92); text-shadow: 0 1px 8px rgba(0,0,0,0.5); max-width: 58%; margin: 10px 0 0 0; }
-.th-start { position: absolute; right: 20px; bottom: 20px; z-index: 2; background: #1a1a1a; color: white; border: none; border-radius: 30px; padding: 12px 18px; font-size: 14px; font-weight: 600; cursor: pointer; }
-.th-card { position: absolute; right: 16px; top: 50%; transform: translateY(-50%); width: 216px; height: 260px; border-radius: 20px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.25); z-index: 3; background-size: cover; background-position: center; transition: background-image 0.6s ease-in-out; }
+.th-copy { position: absolute; top: 40px; left: 40px; z-index: 2; color: white; }
+.th-title { font-size: 44px; font-weight: 700; line-height: 1.05; text-shadow: 0 2px 12px rgba(0,0,0,0.5); max-width: 46%; white-space: pre-line; }
+.th-sub { font-size: 17px; line-height: 1.4; color: rgba(255,255,255,0.92); text-shadow: 0 1px 8px rgba(0,0,0,0.5); max-width: 46%; margin: 12px 0 0 0; }
+.th-start { position: absolute; right: 40px; bottom: 40px; z-index: 2; background: #1a1a1a; color: white; border: none; border-radius: 30px; padding: 12px 18px; font-size: 14px; font-weight: 600; cursor: pointer; }
+.th-card { position: absolute; right: 40px; top: 50%; transform: translateY(-50%); width: 216px; height: 260px; border-radius: 20px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.25); z-index: 3; background-size: cover; background-position: center; transition: background-image 0.6s ease-in-out; }
 .th-card-shade { position: absolute; inset: 0; background: linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.55) 100%); }
 .th-card-inner { position: relative; height: 100%; padding: 14px; display: flex; flex-direction: column; justify-content: flex-end; color: white; box-sizing: border-box; }
 .th-badge { background: rgba(255,255,255,0.88); backdrop-filter: blur(12px); border-radius: 16px; padding: 10px 14px; width: fit-content; max-width: 100%; color: #1a1a1a; box-sizing: border-box; }
@@ -54,11 +53,9 @@ const heroCss = `
 .th-dots { display: flex; gap: 7px; background: rgba(255,255,255,0.7); padding: 7px 12px; border-radius: 20px; width: fit-content; margin-top: 10px; }
 .th-dot { width: 7px; height: 7px; border-radius: 50%; transition: background 0.3s; border: none; padding: 0; cursor: pointer; }
 @media (max-width: 480px) {
-  .th-wrap { padding: 12px; }
-  .th-frame { height: 440px; border-radius: 24px; }
-  .th-copy { top: 18px; left: 16px; right: 16px; }
-  .th-title { font-size: 27px; max-width: 60%; }
-  .th-sub { font-size: 13.5px; max-width: 56%; margin-top: 8px; }
+  .th-copy { top: 20px; left: 16px; right: 16px; }
+  .th-title { font-size: 30px; max-width: 60%; }
+  .th-sub { font-size: 14px; max-width: 56%; margin-top: 8px; }
   .th-card { width: 164px; height: 208px; right: 12px; border-radius: 18px; }
   .th-card-inner { padding: 10px; }
   .th-badge { padding: 8px 10px; border-radius: 13px; }
@@ -92,68 +89,72 @@ const TavaHeroSlider: React.FC = () => {
     mass: 0.4,
   });
   const heroScale = useTransform(smoothProgress, [0, 1], [1, 0.82]);
+  const heroRadius = useTransform(smoothProgress, [0, 1], [0, 32]);
 
   return (
     <div className="th-scroll" ref={targetRef}>
       <style>{heroCss}</style>
       <div className="th-stage">
-        <motion.div className="th-frame" style={{ scale: heroScale }}>
-        {/* Video Background: every slide stays mounted and preloaded, only the active one is visible */}
-        {slides.map((s, i) => (
-          <video
-            key={s.id}
-            autoPlay
-            loop
-            muted
-            playsInline
-            preload="auto"
-            className="th-video"
-            style={{ opacity: i === current ? 1 : 0 }}
-          >
-            <source src={s.video} />
-          </video>
-        ))}
-
-        {/* Overlay */}
-        <div className="th-overlay" />
-
-        {/* Hero title and subtitle, over the video */}
-        <div className="th-copy">
-          <div className="th-title">{slide.title}</div>
-          <p className="th-sub">{slide.subtitle}</p>
-        </div>
-
-        {/* Start now, bottom corner of the frame */}
-        <button className="th-start">Start now →</button>
-
-        {/* Product card on the right: the product image is the card background with an overlay,
-            and the badge chip and dots chip sit on the card */}
-        <div
-          className="th-card"
-          style={{ backgroundImage: `url(${slide.product})` }}
+        <motion.div
+          className="th-hero"
+          style={{ scale: heroScale, borderRadius: heroRadius }}
         >
-          <div className="th-card-shade" />
-          <div className="th-card-inner">
-            <div>
-              <div className="th-badge">
-                <h3 className="th-badge-title">{slide.badgeTitle}</h3>
-                <p className="th-badge-sub">{slide.badgeSub}</p>
-              </div>
+          {/* Full hero video background: every slide stays mounted and preloaded, only the active one is visible */}
+          {slides.map((s, i) => (
+            <video
+              key={s.id}
+              autoPlay
+              loop
+              muted
+              playsInline
+              preload="auto"
+              className="th-video"
+              style={{ opacity: i === current ? 1 : 0 }}
+            >
+              <source src={s.video} />
+            </video>
+          ))}
 
-              <div className="th-dots">
-                {slides.map((s, i) => (
-                  <button
-                    key={s.id}
-                    type="button"
-                    aria-label={`Go to slide ${i + 1}`}
-                    onClick={() => setCurrent(i)}
-                    className="th-dot"
-                    style={{ background: i === current ? "#d4af37" : "#a89f92" }}
-                  />
-                ))}
+          {/* Overlay */}
+          <div className="th-overlay" />
+
+          {/* Hero title and subtitle, over the video */}
+          <div className="th-copy">
+            <div className="th-title">{slide.title}</div>
+            <p className="th-sub">{slide.subtitle}</p>
+          </div>
+
+          {/* Start now, bottom corner of the hero */}
+          <button className="th-start">Start now →</button>
+
+          {/* The only card in the hero: the product image card on the right,
+              with the badge chip and dots chip on it */}
+          <div
+            className="th-card"
+            style={{ backgroundImage: `url(${slide.product})` }}
+          >
+            <div className="th-card-shade" />
+            <div className="th-card-inner">
+              <div>
+                <div className="th-badge">
+                  <h3 className="th-badge-title">{slide.badgeTitle}</h3>
+                  <p className="th-badge-sub">{slide.badgeSub}</p>
+                </div>
+
+                <div className="th-dots">
+                  {slides.map((s, i) => (
+                    <button
+                      key={s.id}
+                      type="button"
+                      aria-label={`Go to slide ${i + 1}`}
+                      onClick={() => setCurrent(i)}
+                      className="th-dot"
+                      style={{ background: i === current ? "#d4af37" : "#a89f92" }}
+                    />
+                  ))}
+                </div>
               </div>
             </div>
-          </div>
           </div>
         </motion.div>
       </div>
