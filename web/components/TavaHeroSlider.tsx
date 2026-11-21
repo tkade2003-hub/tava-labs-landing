@@ -70,13 +70,13 @@ const heroCss = `
   .th-card { width: 232px; height: 292px; }
 }
 @media (max-width: 640px) {
-  .th-inner { flex-direction: column; align-items: stretch; justify-content: space-between; padding: 24px 18px 20px; gap: 0; }
-  .th-copy { flex: none; max-width: none; }
-  .th-title { font-size: 42px; }
+  .th-inner { flex-direction: column; align-items: center; justify-content: center; padding: 28px 20px; gap: 30px; }
+  .th-copy { flex: none; max-width: none; display: flex; flex-direction: column; align-items: center; text-align: center; }
+  .th-title { font-size: 42px; text-align: center; }
   .th-sub { font-size: 18px; max-width: 92%; margin-top: 10px; }
-  .th-start { margin-top: 18px; padding: 13px 28px; }
-  .th-card { align-self: flex-end; width: 176px; height: 224px; border-radius: 18px; }
-  .th-card-inner { padding: 10px; }
+  .th-start { margin-top: 20px; padding: 13px 28px; }
+  .th-card { width: 190px; height: 240px; border-radius: 18px; }
+  .th-card-inner { padding: 10px; align-items: center; }
   .th-badge { padding: 8px 10px; border-radius: 13px; }
   .th-badge-title { font-size: 13px; }
   .th-badge-sub { font-size: 10.5px; }
