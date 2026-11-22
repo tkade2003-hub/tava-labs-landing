@@ -372,7 +372,7 @@ export default function Page() {
           </h2>
           <p className="mt-4 max-w-2xl leading-relaxed text-ink/75">
             Targeted formulas for different skin goals, concerns, and
-            routines. Build the regimen that fits yours.
+            routines. Build the regimen that fits a working schedule.
           </p>
 
           <div className="mt-10 grid gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
@@ -555,7 +555,7 @@ export default function Page() {
             </div>
             <div>
               <h2 className="font-display text-3xl font-semibold sm:text-4xl">
-                Ready for radiant, revitalized skin?
+                Your face is in every pitch. Keep it ready.
               </h2>
               <p className="mt-2 text-sm text-[#fafaf9]/70">
                 PDRN Brightening Serum &middot; $49.00 / 30ml &middot; Clean

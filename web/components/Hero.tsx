@@ -54,7 +54,7 @@ export default function Hero() {
       <div className="hn-glow" aria-hidden="true" />
       <div className="hn-inner">
         <div>
-          <p className="tava-label hn-eyebrow">Skincare for the ambitious</p>
+          <p className="tava-label hn-eyebrow">For founders, operators, and creators</p>
           <h1 className="hn-title">
             <span className="hn-line">Sharp is</span>
             <span className="hn-line hn-line-2">a routine.</span>
@@ -62,8 +62,8 @@ export default function Hero() {
           <p className="hn-sub">
             PDRN Brightening Serum, in two to four drops twice a day. PDRN,
             peptides, and sodium hyaluronate help skin look brighter, firmer,
-            and more even, so the face in the mirror matches the ambition
-            behind it.
+            and more even, so you walk into the pitch, the boardroom, and the
+            camera looking like the person running the company.
           </p>
           <div className="hn-cta">
             <Button render={<Link href="/glow-brightening-serum" />} size="lg">

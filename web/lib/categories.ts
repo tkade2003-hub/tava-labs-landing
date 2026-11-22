@@ -14,12 +14,12 @@ export const SKINCARE: CategoryConfig = {
   slug: "skincare",
   seoTitle: "Skincare | PDRN Brightening Serum and More | Tava Labs",
   seoDescription:
-    "Tava Labs skincare: the PDRN Brightening Serum plus the moisturizer, eye cream and firming cream on the way. Skincare for the ambitious.",
+    "Tava Labs skincare: the PDRN Brightening Serum plus the moisturizer, eye cream and firming cream on the way. Built for entrepreneurs whose face is part of the pitch.",
   eyebrow: "SKINCARE",
   heroTitleLead: "Your next meeting",
   heroTitleAccent: "starts with you.",
   heroCopy:
-    "One daily serum, built around PDRN, for skin that has to look sharp and rested on camera and in the room.",
+    "Built for entrepreneurs who pitch, sell, and record on camera. One daily serum, built around PDRN, for skin that looks sharp and rested in the room and on the lens.",
   heroImage: "/assets/IMG_3365.jpeg",
   heroFinePrint:
     "Cosmetic skincare. Not intended to diagnose, treat, cure or prevent any disease.",
@@ -85,7 +85,7 @@ export const SKINCARE: CategoryConfig = {
   protocolEyebrow: "THE ROUTINE",
   protocolTitleLead: "Two minutes, twice a day.",
   protocolTitleAccent: "That is the whole routine.",
-  protocolCopy: "A routine built around one serum and your actual schedule.",
+  protocolCopy: "A routine built around one serum and an entrepreneur schedule, early calls, late nights, and all.",
   protocolCta: { label: "Add to routine", href: "/glow-brightening-serum" },
   steps: [
     {
@@ -168,12 +168,12 @@ export const BIOMARKERS: CategoryConfig = {
   slug: "biomarkers",
   seoTitle: "Lab Biomarkers | Know Your Data | Tava Labs",
   seoDescription:
-    "Biomarker tracking in the Tava app: brain, hormones, heart, metabolism, gut and longevity in one clear picture. Coming soon.",
+    "Biomarker tracking in the Tava app for founders and operators who run on data: brain, hormones, heart, metabolism, gut and longevity in one clear picture. Coming soon.",
   eyebrow: "LAB BIOMARKERS",
   heroTitleLead: "Know your data,",
   heroTitleAccent: "on Tava.",
   heroCopy:
-    "A clearer picture of your health is coming soon: your key biomarkers, tracked over time, in the Tava app.",
+    "You run your company on numbers. Soon you can run the same discipline on yourself: your key biomarkers, tracked over time, in the Tava app.",
   heroAnim:
     "https://assets.masko.ai/5945b486/glass-body-eizjzqce/body-glow-be26ddcd.gif",
   heroBackdrop:
@@ -252,7 +252,7 @@ export const BIOMARKERS: CategoryConfig = {
   protocolEyebrow: "HOW IT WILL WORK",
   protocolTitleLead: "Test, review,",
   protocolTitleAccent: "track the trend.",
-  protocolCopy: "Built to sit beside your serum plan in the same app.",
+  protocolCopy: "One dashboard for the person running the business, beside your serum plan in the same app.",
   steps: [
     {
       number: "01",

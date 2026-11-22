@@ -42,7 +42,7 @@ export default function Page() {
               Brighter, hydrated, <span className="gold-metal-text">healthy looking skin</span>
             </h2>
             <p className="mt-6 text-lg leading-relaxed text-ink/75">
-              Founders live on camera and in the room. You pitch investors,
+              Entrepreneurs live on camera and in the room. You pitch investors,
               close on sales calls, and record the video that sells the
               product. Your face is part of the pitch. The PDRN Brightening
               Serum is one lightweight, fast absorbing step with PDRN,
@@ -72,7 +72,7 @@ export default function Page() {
             Build your business. Do not neglect yourself.
           </p>
           <p className="mt-5 leading-relaxed text-ink/75">
-            As a founder, you are always presenting. You pitch investors in
+            As an entrepreneur, you are always presenting. You pitch investors in
             person, sell on video calls, and record content that has to earn
             trust in seconds. Looking prepared and composed is not vanity. It
             is part of how you present the business. A simple daily routine
@@ -126,7 +126,7 @@ export default function Page() {
         </div>
         <div className="mt-16 border-t border-linestone pt-10 text-center">
           <h3 className="font-display text-3xl font-semibold text-forest-deep">
-            The founder daily maintenance.
+            The entrepreneur daily maintenance.
           </h3>
           <p className="mt-3 text-ink/75">
             One serum, morning and night. Look prepared. Feel confident. Show
