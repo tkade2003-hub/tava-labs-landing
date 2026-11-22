@@ -4,8 +4,8 @@ import { Button } from "@/components/ui/button";
 
 const heroCss = `
 .hn{position:relative;background:#FAFAF9;overflow:hidden}
-.hn-glow{position:absolute;top:-220px;right:-140px;width:720px;height:720px;border-radius:50%;background:radial-gradient(circle,rgba(216,193,154,.5) 0%,rgba(216,193,154,0) 62%);pointer-events:none;animation:hn-breathe 9s ease-in-out infinite alternate}
-.hn-inner{position:relative;max-width:1280px;margin:0 auto;padding:72px 24px 80px;display:grid;grid-template-columns:1.05fr .95fr;gap:56px;align-items:center}
+.hn-glow{position:absolute;top:-220px;right:-140px;width:720px;height:720px;border-radius:50%;background:radial-gradient(circle,rgba(216,193,154,.68) 0%,rgba(216,193,154,0) 62%);pointer-events:none;animation:hn-breathe 9s ease-in-out infinite alternate}
+.hn-inner{position:relative;max-width:1280px;margin:0 auto;padding:72px 24px 56px;display:grid;grid-template-columns:1.05fr .95fr;gap:56px;align-items:center}
 .hn-eyebrow{animation:hn-rise .8s cubic-bezier(0.22,1,0.36,1) both}
 .hn-title{font-family:'Futura extra font','Futura',sans-serif;font-style:italic;font-weight:900;font-size:clamp(46px,6.6vw,100px);line-height:.98;letter-spacing:-.01em;color:#12100C;margin:22px 0 0;text-wrap:balance}
 .hn-title .hn-line{display:block;animation:hn-rise .85s cubic-bezier(0.22,1,0.36,1) both}
@@ -13,23 +13,23 @@ const heroCss = `
 .hn-sub{font-size:20px;line-height:1.55;color:#4C463C;max-width:520px;margin:26px 0 0;animation:hn-rise .85s cubic-bezier(0.22,1,0.36,1) .18s both}
 .hn-cta{display:flex;align-items:center;gap:20px;flex-wrap:wrap;margin-top:34px;animation:hn-rise .85s cubic-bezier(0.22,1,0.36,1) .27s both}
 .hn-price{font-size:16px;color:#6F695C}
-.hn-facts{margin-top:48px;border-top:1px solid #E7E2D9;padding-top:22px;display:grid;grid-template-columns:repeat(4,1fr);gap:18px;animation:hn-rise .85s cubic-bezier(0.22,1,0.36,1) .36s both}
+.hn-facts{margin-top:48px;border-top:1px solid #E7E2D9;padding-top:22px;display:grid;grid-template-columns:1fr 1fr;gap:20px 28px;max-width:560px;animation:hn-rise .85s cubic-bezier(0.22,1,0.36,1) .36s both}
 .hn-fact-name{font-family:var(--font-kanit),sans-serif;font-weight:600;font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:#B78B45}
 .hn-fact-desc{font-size:14px;line-height:1.45;color:#4C463C;margin-top:5px}
 .hn-visual{position:relative;animation:hn-in 1.1s cubic-bezier(0.22,1,0.36,1) .12s both}
-.hn-ring{position:absolute;top:-64px;right:-64px;width:340px;height:340px;border-radius:50%;border:1.5px solid #D8C19A;pointer-events:none}
+.hn-ring{position:absolute;top:-70px;right:-70px;width:380px;height:380px;border-radius:50%;border:1.5px solid rgba(183,139,69,.55);pointer-events:none}
 .hn-panel{position:relative;border-radius:28px;overflow:hidden;aspect-ratio:4/4.4;box-shadow:0 24px 48px rgba(8,37,29,.22);background:#fff}
-.hn-panel img{width:100%;height:100%;object-fit:cover;object-position:50% 42%;display:block}
+.hn-panel img{width:100%;height:100%;object-fit:cover;object-position:50% 42%;transform:scale(1.28);display:block}
 .hn-chip{position:absolute;left:18px;bottom:18px;background:rgba(255,255,255,.88);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-radius:16px;padding:10px 14px;box-shadow:0 10px 28px rgba(0,0,0,.14)}
 .hn-chip-title{font-size:14px;font-weight:700;color:#12100C;line-height:1.25}
 .hn-chip-sub{font-size:12px;color:#6F695C;margin-top:1px}
 @keyframes hn-rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
 @keyframes hn-in{from{opacity:0;transform:scale(1.045)}to{opacity:1;transform:scale(1)}}
-@keyframes hn-breathe{from{opacity:.55}to{opacity:.85}}
+@keyframes hn-breathe{from{opacity:.7}to{opacity:.95}}
 @media (max-width:900px){
-.hn-inner{grid-template-columns:1fr;gap:38px;padding:52px 18px 60px}
+.hn-inner{grid-template-columns:1fr;gap:38px;padding:52px 18px 48px}
 .hn-sub{font-size:18px}
-.hn-facts{grid-template-columns:1fr 1fr;margin-top:38px}
+.hn-facts{margin-top:38px}
 .hn-panel{aspect-ratio:4/3.6}
 .hn-ring{width:220px;height:220px;top:-40px;right:-40px}
 }
