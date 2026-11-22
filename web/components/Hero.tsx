@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
+import { SERUM_CHAMPAGNE } from "@/lib/heroMedia";
 
 const heroCss = `
 .hn{position:relative;background:#FAFAF9;overflow:hidden}
@@ -18,8 +19,8 @@ const heroCss = `
 .hn-fact-desc{font-size:14px;line-height:1.45;color:#4C463C;margin-top:5px}
 .hn-visual{position:relative;animation:hn-in 1.1s cubic-bezier(0.22,1,0.36,1) .12s both}
 .hn-ring{position:absolute;top:-70px;right:-70px;width:380px;height:380px;border-radius:50%;border:1.5px solid rgba(183,139,69,.55);pointer-events:none}
-.hn-panel{position:relative;border-radius:28px;overflow:hidden;aspect-ratio:4/4.4;box-shadow:0 24px 48px rgba(8,37,29,.22);background:#fff}
-.hn-panel img{width:100%;height:100%;object-fit:cover;object-position:50% 42%;transform:scale(1.28);display:block}
+.hn-panel{position:relative;border-radius:28px;overflow:hidden;aspect-ratio:4/4.4;box-shadow:0 24px 48px rgba(8,37,29,.22);background:#D8C19A}
+.hn-panel img{width:100%;height:100%;object-fit:contain;object-position:50% 50%;display:block}
 .hn-chip{position:absolute;left:18px;bottom:18px;background:rgba(255,255,255,.88);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-radius:16px;padding:10px 14px;box-shadow:0 10px 28px rgba(0,0,0,.14)}
 .hn-chip-title{font-size:14px;font-weight:700;color:#12100C;line-height:1.25}
 .hn-chip-sub{font-size:12px;color:#6F695C;margin-top:1px}
@@ -83,10 +84,10 @@ export default function Hero() {
           <div className="hn-ring" aria-hidden="true" />
           <div className="hn-panel">
             <img
-              src="/assets/products/pdrn-bright-serum/view-1-mockup.jpg"
+              src={SERUM_CHAMPAGNE}
               alt="Tava Labs PDRN Brightening Serum bottle"
-              width={2000}
-              height={2000}
+              width={1120}
+              height={2240}
               fetchPriority="high"
             />
             <div className="hn-chip">

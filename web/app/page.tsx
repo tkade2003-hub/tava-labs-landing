@@ -11,7 +11,6 @@ import { SKINCARE, BIOMARKERS } from "@/lib/categories";
 // PEPTIDES and MENTAL_HEALTH imports return when their sections are unhidden.
 import { Button } from "@/components/ui/button";
 import { pageMetadata } from "@/lib/pageMeta";
-import { MEETING_PORTRAIT } from "@/lib/meetingPortrait";
 import { getBlogCards } from "@/lib/blog";
 import type { PageData } from "@/lib/pageData";
 import rawData from "@/lib/pages/index.json";
@@ -62,45 +61,6 @@ export default function Page() {
           Health &nbsp;&#10022;&nbsp; Skincare for the ambitious
         </p>
       </div>
-
-      {/* Your next meeting */}
-      <section className="mx-auto max-w-7xl px-5 py-12 sm:px-8 lg:py-16">
-        <div className="overflow-hidden rounded-[28px] bg-forest-deep text-[#fafaf9]">
-          <div className="flex flex-col lg:flex-row">
-            <div
-              role="img"
-              aria-label="Man in profile looking up wearing a dark blazer"
-              className="h-[440px] w-full shrink-0 bg-cover bg-[center_top] bg-no-repeat lg:order-2 lg:h-auto lg:min-h-[540px] lg:w-1/2"
-              style={{
-                backgroundImage: `linear-gradient(to bottom in oklch, rgba(8,37,29,0) 50%, rgba(8,37,29,0.45) 78%, #08251D 100%), url("${MEETING_PORTRAIT}")`,
-              }}
-            />
-            <div className="flex flex-1 flex-col justify-center px-[5vw] pt-[44px] pb-[48px] lg:order-1 lg:py-[64px]">
-              <p className="tava-label">
-                Skincare for the ambitious
-              </p>
-              <h2 className="mt-5 max-w-[520px] font-display text-[clamp(38px,5vw,58px)] leading-[1.08] font-semibold">
-                Your next meeting<br />starts with <span className="gold-metal-text">you.</span>
-              </h2>
-              <p className="mt-6 max-w-[440px] text-[17px] leading-[1.65] text-[#fafaf9]">
-                Your appearance is part of your professional presence. One daily
-                routine, built for people who pitch, present, and record, helps
-                you look composed and polished on the days that ask the most of
-                you. Build your business. Do not{" "}
-                <span className="gold-word">neglect yourself.</span>
-              </p>
-              <div className="mt-[26px] flex flex-wrap items-center gap-3">
-                <Link
-                  href="/glow-brightening-serum"
-                  className="rounded-[8px] bg-[#08251D] px-12 py-[13px] font-kanit text-[1.05rem] font-bold italic uppercase text-[#D8C19A] transition-colors hover:bg-[#123B2C] focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
-                >
-                  Add to routine
-                </Link>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
 
       {/* Built for the builders */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-24">
