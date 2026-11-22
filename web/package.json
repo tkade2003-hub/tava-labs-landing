@@ -3,14 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "prebuild": "node scripts/prepare-assets.mjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint",
-    "prebuild": "node scripts/prepare-assets.mjs"
+    "lint": "eslint"
   },
   "dependencies": {
     "@base-ui/react": "^1.9.0",
+    "@masko/player": "^0.1.23",
     "@supabase/supabase-js": "^2.119.2",
     "class-variance-authority": "^0.7.1",
     "cn": "^0.5.2",

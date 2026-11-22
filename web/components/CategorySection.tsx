@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useRef, useState } from "react";
+import { MaskoPlayer } from "@masko/player/react";
 
 /*
  * CategorySection: a reusable category landing section, generalized from
@@ -61,6 +62,8 @@ export interface CategoryConfig {
   heroTitleAccent: string;
   heroCopy: string;
   heroImage?: string;
+  heroVideo?: { webm: string; hevc: string };
+  heroBackdrop?: string;
   heroFinePrint?: string;
   stamp?: string;
   primaryCta: CategoryCta;
@@ -89,6 +92,8 @@ const categoryCss = `
 .cat-section *{box-sizing:border-box}
 .cat-hero{min-height:710px;position:relative;isolation:isolate;overflow:hidden;border-radius:24px 24px 0 0;background:var(--cat-hero-bg,#08251D);color:#f8f6ed;display:flex;align-items:center;padding:clamp(34px,7vw,110px)}
 .cat-hero__image{position:absolute;inset:0;z-index:-2;background-size:cover;background-position:center 42%;transform:scale(1.01)}
+.cat-hero__video{position:absolute;right:clamp(6px,3.5vw,64px);bottom:0;height:97%;aspect-ratio:1/1;z-index:0;pointer-events:none}
+.cat-hero__video>*{width:100%;height:100%}
 .cat-hero__content{max-width:670px;position:relative;z-index:1}
 .cat-eyebrow{font-size:12px;letter-spacing:.18em;font-weight:700;margin:0 0 22px;opacity:.85}
 .cat-hero h1,.cat-section-head h2,.cat-protocol__intro h2{font-family:Manrope,sans-serif;font-size:clamp(48px,6.4vw,92px);font-weight:500;letter-spacing:-.065em;line-height:.98;margin:0}
@@ -129,7 +134,7 @@ const categoryCss = `
 .cat-step-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:35px;max-width:1120px;margin:45px auto 0;border-top:1px solid #ffffff35;padding-top:28px}.cat-step__number{font-size:11px;letter-spacing:.15em;color:var(--cat-accent,#D8C19A)}.cat-step h3{font-family:Manrope,sans-serif;font-size:clamp(30px,3vw,42px);letter-spacing:-.05em;font-weight:500;margin:12px 0 10px;line-height:1.05}.cat-step h3 span{font-size:18px;letter-spacing:-.01em;display:block;margin-top:5px;color:var(--cat-accent,#D8C19A)}.cat-step p{font-size:14px;line-height:1.6;color:#f6f2e9b5;max-width:310px;margin:0}
 .cat-protocol__legal{max-width:840px;text-align:center;margin:48px auto 0;font-size:11px;line-height:1.55;color:#f6f2e9a8}.cat-protocol__legal p{margin:0 0 10px}.cat-protocol__legal small{display:block;font-size:10px;margin-top:14px}
 [id^="programs-"],[id^="protocol-"]{scroll-margin-top:24px}
-@media(max-width:850px){.cat-hero{min-height:640px;padding:50px 28px;align-items:flex-start}.cat-hero__stamp{width:85px;height:85px;font-size:8px;right:20px;bottom:24px}.cat-carousel .cat-card{flex-basis:76%}.cat-carousel__nav{display:none}.cat-card{min-height:500px}.cat-card__image-wrap{height:225px}.cat-options{padding-top:65px;padding-bottom:34px}.cat-section-head{margin-bottom:34px}.cat-protocol{padding-top:65px}.cat-protocol__art{height:370px;margin-top:30px}.cat-protocol__main{max-width:90%;max-height:370px}.cat-step-grid{grid-template-columns:1fr;gap:22px;margin-top:30px}.cat-step{display:grid;grid-template-columns:42px 1fr;column-gap:12px;align-items:start}.cat-step__number{padding-top:8px}.cat-step h3{margin:0;font-size:32px}.cat-step h3 span{font-size:17px}.cat-step p{grid-column:2;margin-top:8px;max-width:500px}.cat-protocol__legal{margin-top:35px}}
+@media(max-width:850px){.cat-hero{min-height:640px;padding:50px 28px;align-items:flex-start}.cat-hero__stamp{width:85px;height:85px;font-size:8px;right:20px;bottom:24px}.cat-hero__video{height:320px;right:0}.cat-carousel .cat-card{flex-basis:76%}.cat-carousel__nav{display:none}.cat-card{min-height:500px}.cat-card__image-wrap{height:225px}.cat-options{padding-top:65px;padding-bottom:34px}.cat-section-head{margin-bottom:34px}.cat-protocol{padding-top:65px}.cat-protocol__art{height:370px;margin-top:30px}.cat-protocol__main{max-width:90%;max-height:370px}.cat-step-grid{grid-template-columns:1fr;gap:22px;margin-top:30px}.cat-step{display:grid;grid-template-columns:42px 1fr;column-gap:12px;align-items:start}.cat-step__number{padding-top:8px}.cat-step h3{margin:0;font-size:32px}.cat-step h3 span{font-size:17px}.cat-step p{grid-column:2;margin-top:8px;max-width:500px}.cat-protocol__legal{margin-top:35px}}
 @media(max-width:480px){.cat-hero h1{font-size:51px}.cat-hero__copy{font-size:16px}.cat-hero__actions{align-items:stretch;flex-direction:column;max-width:260px}.cat-hero__actions .cat-cta{width:100%}.cat-hero__stamp{display:none}.cat-section-head h2{font-size:40px}.cat-protocol__intro h2{font-size:39px}.cat-protocol__art{height:290px}.cat-protocol__main{max-height:290px}.cat-protocol__rows{opacity:.3}}
 `;
 
@@ -150,16 +155,27 @@ function CTA({
 
 function Hero({ config }: { config: CategoryConfig }) {
   const rgb = config.theme?.heroRgb ?? "8, 37, 29";
-  const heroImageStyle: React.CSSProperties = config.heroImage
+  const heroImageStyle: React.CSSProperties = config.heroBackdrop
     ? {
-        backgroundImage: `linear-gradient(90deg, rgba(${rgb},.88) 0%, rgba(${rgb},.42) 54%, rgba(${rgb},.06) 100%), url('${config.heroImage}')`,
+        backgroundImage: `linear-gradient(90deg, rgba(${rgb},.88) 0%, rgba(${rgb},.42) 54%, rgba(${rgb},.06) 100%), ${config.heroBackdrop}`,
       }
-    : {
-        backgroundImage: `linear-gradient(120deg, rgba(${rgb},1) 0%, rgba(${rgb},.72) 100%)`,
-      };
+    : config.heroImage
+      ? {
+          backgroundImage: `linear-gradient(90deg, rgba(${rgb},.88) 0%, rgba(${rgb},.42) 54%, rgba(${rgb},.06) 100%), url('${config.heroImage}')`,
+        }
+      : {
+          backgroundImage: `linear-gradient(120deg, rgba(${rgb},1) 0%, rgba(${rgb},.72) 100%)`,
+        };
   return (
     <header className="cat-hero">
       <div className="cat-hero__image" style={heroImageStyle} aria-hidden="true" />
+      {config.heroVideo && (
+        <div className="cat-hero__video" aria-hidden="true">
+          <MaskoPlayer
+            clip={{ webm: config.heroVideo.webm, hevc: config.heroVideo.hevc }}
+          />
+        </div>
+      )}
       <div className="cat-hero__content">
         <p className="cat-eyebrow">{config.eyebrow}</p>
         <h1>
@@ -174,7 +190,9 @@ function Hero({ config }: { config: CategoryConfig }) {
         </div>
         {config.heroFinePrint && <p className="cat-hero__fine">{config.heroFinePrint}</p>}
       </div>
-      {config.stamp && <div className="cat-hero__stamp">{config.stamp}</div>}
+      {config.stamp && !config.heroVideo && (
+        <div className="cat-hero__stamp">{config.stamp}</div>
+      )}
     </header>
   );
 }

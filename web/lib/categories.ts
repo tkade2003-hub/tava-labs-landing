@@ -1,5 +1,5 @@
 import type { CategoryConfig } from "@/components/CategorySection";
-import { SERUM_CARD, ADHD_CARD, LABS_CARD } from "@/lib/heroMedia";
+import { SERUM_CARD, ADHD_CARD } from "@/lib/heroMedia";
 import { PEPTIDE_IMAGES, BIOMARKER_IMAGES } from "@/lib/categoryMedia";
 
 /*
@@ -174,7 +174,13 @@ export const BIOMARKERS: CategoryConfig = {
   heroTitleAccent: "on Tava.",
   heroCopy:
     "A clearer picture of your health is coming soon: your key biomarkers, tracked over time, in the Tava app.",
-  heroImage: LABS_CARD,
+  heroVideo: {
+    webm: "https://assets.masko.ai/5945b486/glass-body-eizjzqce/body-glow-e46accb5.webm",
+    hevc: "https://assets.masko.ai/5945b486/glass-body-eizjzqce/body-glow-36dfa0ca.mov",
+  },
+  heroBackdrop:
+    "radial-gradient(130% 105% at 76% 36%, #FFE6A8 0%, #F9BE4A 40%, #F08C1E 72%, #DE6E07 100%)",
+  theme: { heroRgb: "122, 54, 2" },
   heroFinePrint:
     "Coming soon in the Tava app. Insights are for information only and do not diagnose any condition.",
   stamp: "YOUR DATA IN ONE PLACE",
