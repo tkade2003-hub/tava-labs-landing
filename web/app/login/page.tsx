@@ -73,8 +73,9 @@ export default function LoginPage() {
         .li-brand-copy{font-size:16px;line-height:1.6;color:rgba(250,250,249,.82);max-width:340px;margin:18px 0 0}
         .li-bottle{margin-top:auto;padding-top:38px}
         .li-bottle-in{border-radius:20px;overflow:hidden;aspect-ratio:16/10;background:#fff}
-        .li-bottle-in img{width:100%;height:100%;object-fit:cover;object-position:50% 30%;transform:scale(1.12);display:block}
-        .li-form{padding:44px 40px}
+        .li-bottle-in img{width:100%;height:100%;object-fit:contain;display:block}
+        .li-form{padding:44px 40px;display:flex;flex-direction:column}
+        .li-form-foot{margin-top:auto;padding-top:22px;border-top:1px solid #E7E2D9;font-size:13px;line-height:1.55;color:#6F695C}
         .li-claim{margin-top:26px;background:#fff;border:1px solid #E7E2D9;border-radius:24px;padding:28px 32px;display:flex;gap:28px;align-items:center;justify-content:space-between}
         @media (max-width:900px){
           .li-inner{padding:36px 18px 52px}
@@ -197,6 +198,12 @@ export default function LoginPage() {
                   </p>
                 </div>
               )}
+
+              <p className="li-form-foot">
+                First time here? The same link creates your account. Use the
+                email from your order and everything is already waiting for
+                you.
+              </p>
             </div>
           </div>
 
