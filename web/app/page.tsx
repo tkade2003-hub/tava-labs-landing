@@ -5,7 +5,7 @@ import { ChevronRight } from "lucide-react";
 import SiteShell from "@/components/SiteShell";
 import FreeFrom from "@/components/FreeFrom";
 import MotionCarousel from "@/components/MotionCarousel";
-import TavaHeroSlider from "@/components/TavaHeroSlider";
+import Hero from "@/components/Hero";
 import CategorySection from "@/components/CategorySection";
 import { SKINCARE, BIOMARKERS } from "@/lib/categories";
 // PEPTIDES and MENTAL_HEALTH imports return when their sections are unhidden.
@@ -33,7 +33,7 @@ export default function Page() {
   return (
     <SiteShell>
       {/* Hero */}
-      <TavaHeroSlider />
+      <Hero />
 
       {/* Intro */}
       <section className="border-t border-linestone">
