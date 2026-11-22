@@ -71,10 +71,11 @@ export default function LoginPage() {
         .li-brand-head{font-family:'Futura extra font','Futura',sans-serif;font-style:italic;font-weight:900;font-size:56px;line-height:1;margin:44px 0 0}
         .li-brand-head span{display:block;color:#D8C19A}
         .li-brand-copy{font-size:16px;line-height:1.6;color:rgba(250,250,249,.82);max-width:340px;margin:18px 0 0}
-        .li-bottle{margin-top:auto;padding-top:38px}
-        .li-bottle-in{border-radius:20px;overflow:hidden;aspect-ratio:16/10;background:#fff}
+        .li-bottle{margin-top:auto;padding-top:30px}
+        .li-bottle-in{border-radius:20px;overflow:hidden;aspect-ratio:16/8.5;background:#fff}
         .li-bottle-in img{width:100%;height:100%;object-fit:contain;display:block}
         .li-form{padding:44px 40px;display:flex;flex-direction:column}
+        .li-form-main{margin-top:auto}
         .li-form-foot{margin-top:auto;padding-top:22px;border-top:1px solid #E7E2D9;font-size:13px;line-height:1.55;color:#6F695C}
         .li-claim{margin-top:26px;background:#fff;border:1px solid #E7E2D9;border-radius:24px;padding:28px 32px;display:flex;gap:28px;align-items:center;justify-content:space-between}
         @media (max-width:900px){
@@ -116,6 +117,7 @@ export default function LoginPage() {
             </div>
 
             <div className="li-form">
+              <div className="li-form-main">
               <p className="tava-label">Your Tava account</p>
               <h1 className="mt-1.5 font-display text-[2.125rem] leading-tight font-semibold text-forest-deep">
                 Sign in
@@ -198,6 +200,7 @@ export default function LoginPage() {
                   </p>
                 </div>
               )}
+              </div>
 
               <p className="li-form-foot">
                 First time here? The same link creates your account. Use the
