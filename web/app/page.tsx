@@ -6,6 +6,13 @@ import SiteShell from "@/components/SiteShell";
 import FreeFrom from "@/components/FreeFrom";
 import MotionCarousel from "@/components/MotionCarousel";
 import TavaHeroSlider from "@/components/TavaHeroSlider";
+import CategorySection from "@/components/CategorySection";
+import {
+  SKINCARE,
+  PEPTIDES,
+  MENTAL_HEALTH,
+  BIOMARKERS,
+} from "@/lib/categories";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { pageMetadata } from "@/lib/pageMeta";
@@ -301,6 +308,12 @@ export default function Page() {
           </Button>
         </div>
       </section>
+
+      {/* Category sections */}
+      <CategorySection config={SKINCARE} />
+      <CategorySection config={PEPTIDES} />
+      <CategorySection config={MENTAL_HEALTH} />
+      <CategorySection config={BIOMARKERS} />
 
       {/* Tava in Motion */}
       <MotionCarousel />

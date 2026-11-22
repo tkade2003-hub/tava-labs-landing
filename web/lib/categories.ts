@@ -123,7 +123,7 @@ export const MENTAL_HEALTH: CategoryConfig = {
   heroFinePrint:
     "After clinician review. This program is in development and is not yet open for enrollment.",
   stamp: "CLINICIAN REVIEWED CARE",
-  primaryCta: { label: "See how it works", href: "#protocol" },
+  primaryCta: { label: "See how it works", href: "#protocol-mental-health" },
   optionsEyebrow: "THE PROGRAM",
   optionsTitleLead: "Care that starts",
   optionsTitleAccent: "with a review.",
@@ -177,8 +177,8 @@ export const BIOMARKERS: CategoryConfig = {
   heroFinePrint:
     "Coming soon in the Tava app. Insights are for information only and do not diagnose any condition.",
   stamp: "YOUR DATA IN ONE PLACE",
-  primaryCta: { label: "See what is tracked", href: "#programs" },
-  secondaryCta: { label: "How it will work", href: "#protocol" },
+  primaryCta: { label: "See what is tracked", href: "#programs-biomarkers" },
+  secondaryCta: { label: "How it will work", href: "#protocol-biomarkers" },
   optionsEyebrow: "WHAT GETS TRACKED",
   optionsTitleLead: "Six areas.",
   optionsTitleAccent: "One clear picture.",
@@ -277,7 +277,7 @@ export const PEPTIDES: CategoryConfig = {
   heroFinePrint: "Prescription required. A licensed provider decides eligibility after consultation.",
   stamp: "PROVIDER GUIDED PROGRAMS",
   primaryCta: { label: "Start a consultation", href: "https://tava.mydose.store" },
-  secondaryCta: { label: "How it works", href: "#protocol" },
+  secondaryCta: { label: "How it works", href: "#protocol-peptides" },
   optionsEyebrow: "THE PROGRAMS",
   optionsTitleLead: "Thirteen programs.",
   optionsTitleAccent: "One consultation starts any of them.",

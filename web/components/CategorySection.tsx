@@ -118,7 +118,7 @@ const categoryCss = `
 .cat-protocol__art{position:relative;max-width:1150px;height:500px;margin:45px auto 0;display:flex;align-items:center;justify-content:center}.cat-protocol__main{position:absolute;max-width:75%;max-height:500px;width:auto;object-fit:contain;filter:drop-shadow(0 18px 24px rgba(8,37,29,.3))}.cat-protocol__rows{position:absolute;width:100%;height:100%;object-fit:contain;opacity:.45;mix-blend-mode:screen;pointer-events:none}
 .cat-step-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:35px;max-width:1120px;margin:45px auto 0;border-top:1px solid #ffffff35;padding-top:28px}.cat-step__number{font-size:11px;letter-spacing:.15em;color:var(--cat-accent,#D8C19A)}.cat-step h3{font-family:Manrope,sans-serif;font-size:clamp(30px,3vw,42px);letter-spacing:-.05em;font-weight:500;margin:12px 0 10px;line-height:1.05}.cat-step h3 span{font-size:18px;letter-spacing:-.01em;display:block;margin-top:5px;color:var(--cat-accent,#D8C19A)}.cat-step p{font-size:14px;line-height:1.6;color:#f6f2e9b5;max-width:310px;margin:0}
 .cat-protocol__legal{max-width:840px;text-align:center;margin:48px auto 0;font-size:11px;line-height:1.55;color:#f6f2e9a8}.cat-protocol__legal p{margin:0 0 10px}.cat-protocol__legal small{display:block;font-size:10px;margin-top:14px}
-#programs,#protocol{scroll-margin-top:24px}
+[id^="programs-"],[id^="protocol-"]{scroll-margin-top:24px}
 @media(max-width:850px){.cat-hero{min-height:640px;padding:50px 28px;align-items:flex-start}.cat-hero__stamp{width:85px;height:85px;font-size:8px;right:20px;bottom:24px}.cat-card-grid{grid-template-columns:1fr;max-width:460px}.cat-card{min-height:500px}.cat-card__image-wrap{height:225px}.cat-options{padding-top:65px;padding-bottom:34px}.cat-section-head{margin-bottom:34px}.cat-protocol{padding-top:65px}.cat-protocol__art{height:370px;margin-top:30px}.cat-protocol__main{max-width:90%;max-height:370px}.cat-step-grid{grid-template-columns:1fr;gap:22px;margin-top:30px}.cat-step{display:grid;grid-template-columns:42px 1fr;column-gap:12px;align-items:start}.cat-step__number{padding-top:8px}.cat-step h3{margin:0;font-size:32px}.cat-step h3 span{font-size:17px}.cat-step p{grid-column:2;margin-top:8px;max-width:500px}.cat-protocol__legal{margin-top:35px}}
 @media(max-width:480px){.cat-hero h1{font-size:51px}.cat-hero__copy{font-size:16px}.cat-hero__actions{align-items:stretch;flex-direction:column;max-width:260px}.cat-hero__actions .cat-cta{width:100%}.cat-hero__stamp{display:none}.cat-section-head h2{font-size:40px}.cat-protocol__intro h2{font-size:39px}.cat-protocol__art{height:290px}.cat-protocol__main{max-height:290px}.cat-protocol__rows{opacity:.3}}
 `;
@@ -254,7 +254,7 @@ function Disclaimers({ config }: { config: CategoryConfig }) {
 
 function ProductsSection({ config }: { config: CategoryConfig }) {
   return (
-    <section className="cat-options" id="programs">
+    <section className="cat-options" id={`programs-${config.slug}`}>
       <div className="cat-section-head">
         <p className="cat-eyebrow">{config.optionsEyebrow}</p>
         <h2>
@@ -276,7 +276,7 @@ function ProductsSection({ config }: { config: CategoryConfig }) {
 
 function Protocol({ config }: { config: CategoryConfig }) {
   return (
-    <section className="cat-protocol" id="protocol">
+    <section className="cat-protocol" id={`protocol-${config.slug}`}>
       <div className="cat-protocol__backdrop" />
       <div className="cat-protocol__intro">
         <p className="cat-eyebrow">{config.protocolEyebrow}</p>
