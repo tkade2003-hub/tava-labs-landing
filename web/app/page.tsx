@@ -14,7 +14,6 @@ import {
   BIOMARKERS,
 } from "@/lib/categories";
 import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
 import { pageMetadata } from "@/lib/pageMeta";
 import { MEETING_PORTRAIT } from "@/lib/meetingPortrait";
 import { getBlogCards } from "@/lib/blog";
@@ -25,36 +24,6 @@ const data = rawData as unknown as PageData;
 
 export const metadata: Metadata = pageMetadata(data);
 
-const COMING_SOON = [
-  {
-    name: "Peptide Moisturizer",
-    size: "1.7 fl oz (50ml)",
-    img: "/assets/products/IMG_3380.jpeg",
-    alt: "Tava Labs Peptide Moisturizer white tube with a pink splash",
-    desc: "A peptide moisturizer that targets wrinkles and hydrates, made for skin that has to look composed all day.",
-  },
-  {
-    name: "Peptide Eye Cream",
-    size: "1 fl oz (30ml)",
-    img: "/assets/products/IMG_3381.jpeg",
-    alt: "Tava Labs Peptide Eye Cream white tube with a champagne drop",
-    desc: "Reduces the appearance of eye puffiness and targets wrinkles in the eye area, for a rested look on camera.",
-  },
-  {
-    name: "Skin Firming Cream",
-    size: "2 oz (56g)",
-    img: "/assets/products/IMG_3382.jpeg",
-    alt: "Tava Labs Skin Firming Cream white jar with a gold wave backdrop",
-    desc: "Hyaluronic acid and CoQ10 in a rich cream that leaves skin looking firm and cared for.",
-  },
-  {
-    name: "Peptide Hair Growth Serum",
-    size: "1 fl oz (30ml)",
-    img: "/assets/products/IMG_3383.jpeg",
-    alt: "Tava Labs Peptide Hair Growth Serum amber dropper bottle",
-    desc: "Nourishes the scalp, for hair that looks as cared for as your skin.",
-  },
-];
 
 const JOURNAL_SLUGS = [
   "/blog/why-founders-cant-sleep",
@@ -137,102 +106,6 @@ export default function Page() {
         </div>
       </section>
 
-      {/* The product */}
-      <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-24">
-        <div className="grid items-center gap-12 lg:grid-cols-2">
-          <div className="relative aspect-square overflow-hidden rounded-3xl bg-linen">
-            <Image
-              src="/assets/products/pdrn-bright-serum/view-1-mockup.jpg"
-              alt="PDRN Brightening Serum bottle"
-              fill
-              sizes="(min-width: 1024px) 50vw, 100vw"
-              className="object-cover"
-            />
-          </div>
-          <div>
-            <p className="tava-label">
-              Available now
-            </p>
-            <h2 className="mt-3 font-display text-4xl font-semibold text-forest-deep sm:text-5xl">
-              PDRN Brightening Serum
-            </h2>
-            <p className="mt-2 text-sm font-medium text-ink/60">
-              1 fl oz (30ml)
-            </p>
-            <p className="mt-5 max-w-xl leading-relaxed text-ink/75">
-              One lightweight step, morning and evening, with PDRN, peptides,
-              sodium hyaluronate, and panthenol. Made for days of meetings,
-              pitches, and camera work.
-            </p>
-            <div className="mt-8 space-y-4">
-              <div className="flex flex-wrap items-center justify-between gap-3 border-t border-linestone pt-5">
-                <p className="font-medium text-forest-deep">
-                  One time purchase, $49
-                </p>
-              </div>
-              <div className="flex flex-wrap items-center justify-between gap-3 border-t border-linestone pt-5">
-                <p className="font-medium text-forest-deep">
-                  Subscribe and save, $39 per month
-                </p>
-              </div>
-            </div>
-            <div className="mt-6">
-              <Button render={<Link href="/glow-brightening-serum" />} size="lg">
-                Add to routine
-              </Button>
-            </div>
-            <p className="mt-6 text-sm">
-              <Link
-                href="/ingredients"
-                className="font-semibold text-forest underline decoration-gold-soft decoration-2 underline-offset-4"
-              >
-                See the ingredients
-              </Link>
-            </p>
-          </div>
-        </div>
-      </section>
-
-      {/* Coming soon */}
-      <section className="border-t border-linestone">
-        <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
-          <h2 className="font-display text-4xl font-semibold text-forest-deep">
-            Coming soon to your routine
-          </h2>
-          <p className="mt-4 max-w-2xl leading-relaxed text-ink/75">
-            Four new formulas join the shelf soon, each one built for the same
-            standard of daily maintenance.
-          </p>
-          <div className="mt-10 grid gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-4">
-            {COMING_SOON.map((item) => (
-              <article key={item.name} className="border-t-2 border-forest pt-5">
-                <div className="relative aspect-square overflow-hidden rounded-2xl bg-linen">
-                  <Image
-                    src={item.img}
-                    alt={item.alt}
-                    fill
-                    sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
-                    className="object-cover"
-                  />
-                </div>
-                <div className="mt-4 flex items-center justify-between gap-2">
-                  <h3 className="font-display text-2xl font-semibold text-forest-deep">
-                    {item.name}
-                  </h3>
-                  <Badge variant="secondary" className="shrink-0">
-                    Coming Soon
-                  </Badge>
-                </div>
-                <p className="mt-1 text-sm text-ink/60">{item.size}</p>
-                <p className="mt-2 text-sm leading-relaxed text-ink/75">
-                  {item.desc}
-                </p>
-              </article>
-            ))}
-          </div>
-        </div>
-      </section>
-
       {/* Built for the builders */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-24">
         <div className="max-w-3xl">
@@ -310,13 +183,22 @@ export default function Page() {
       </section>
 
       {/* Category sections */}
-      <CategorySection config={SKINCARE} />
-      <CategorySection config={PEPTIDES} />
-      <CategorySection config={MENTAL_HEALTH} />
-      <CategorySection config={BIOMARKERS} />
+      <div className="mt-16 sm:mt-24">
+        <CategorySection config={SKINCARE} />
+      </div>
 
       {/* Tava in Motion */}
       <MotionCarousel />
+
+      <div className="mt-16 sm:mt-24">
+        <CategorySection config={PEPTIDES} />
+      </div>
+      <div className="mt-16 sm:mt-24">
+        <CategorySection config={MENTAL_HEALTH} />
+      </div>
+      <div className="my-16 sm:my-24">
+        <CategorySection config={BIOMARKERS} />
+      </div>
 
       {/* What we leave out */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
@@ -328,39 +210,6 @@ export default function Page() {
         </p>
         <div className="mt-8">
           <FreeFrom />
-        </div>
-      </section>
-
-      {/* Subscribe and Save */}
-      <section className="mx-auto max-w-7xl px-5 sm:px-8">
-        <div className="rounded-[28px] bg-linen px-6 py-14 sm:px-10 lg:px-14">
-          <div className="flex flex-wrap items-end justify-between gap-8">
-            <div className="max-w-xl">
-              <div className="flex items-center gap-3">
-                <h2 className="font-display text-4xl font-semibold text-forest-deep">
-                  Subscribe and Save
-                </h2>
-                <Badge className="bg-gold text-white">
-                  Most Popular &middot; Save 20%
-                </Badge>
-              </div>
-              <p className="mt-4 font-display text-3xl text-forest">
-                $39 per month &middot; Delivered monthly
-              </p>
-              <p className="mt-3 leading-relaxed text-ink/75">
-                A fresh bottle every month, automatically.
-                <br />
-                Pause, skip, or cancel anytime.
-              </p>
-            </div>
-            <Button
-              render={<Link href="/glow-brightening-serum" />}
-              size="lg"
-              className="px-6"
-            >
-              Add to routine
-            </Button>
-          </div>
         </div>
       </section>
 

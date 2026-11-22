@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useRef, useState } from "react";
 
 /*
  * CategorySection: a reusable category landing section, generalized from
@@ -104,7 +104,17 @@ const categoryCss = `
 .cat-hero__stamp{position:absolute;right:clamp(24px,5vw,70px);bottom:45px;border:1px solid #fff7;border-radius:50%;width:112px;height:112px;display:flex;align-items:center;justify-content:center;text-align:center;font-size:10px;line-height:1.5;letter-spacing:.1em;transform:rotate(12deg);background:#ffffff14;white-space:pre-line}
 .cat-options{background:var(--cat-page-bg,#F3F0E9);color:var(--cat-ink,#22302B);padding:90px clamp(20px,7vw,110px) 40px}
 .cat-section-head{max-width:820px;margin:0 auto 48px;text-align:center}.cat-section-head .cat-eyebrow{color:var(--cat-muted,#6F695C)}.cat-section-head h2{font-size:clamp(38px,5vw,66px);color:var(--cat-ink,#22302B)}.cat-section-head h2 em{color:var(--cat-accent-deep,#B78B45)}.cat-section-head>p:last-child{font-size:17px;line-height:1.5;color:#50616b;margin:20px auto 0;max-width:520px}
-.cat-card-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;max-width:1180px;margin:0 auto}
+.cat-carousel{position:relative;max-width:1180px;margin:0 auto}
+.cat-carousel__track{display:flex;gap:18px;overflow-x:auto;scroll-snap-type:x mandatory;padding:6px 2px 20px;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.cat-carousel__track::-webkit-scrollbar{display:none}
+.cat-carousel .cat-card{flex:0 0 338px;scroll-snap-align:start}
+.cat-carousel__nav{position:absolute;top:-62px;right:0;display:flex;gap:8px}
+.cat-carousel__btn{width:44px;height:44px;border-radius:50%;border:1px solid #12100c26;background:#fff;color:var(--cat-ink,#22302B);font-size:19px;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background .2s ease}
+.cat-carousel__btn:hover{background:var(--cat-accent,#D8C19A)}
+.cat-carousel__btn:disabled{opacity:.35;cursor:default}
+.cat-carousel__dots{display:flex;gap:7px;justify-content:center;margin-top:2px}
+.cat-carousel__dot{width:8px;height:8px;border-radius:50%;border:0;padding:0;background:#12100c2e;cursor:pointer;transition:all .2s ease}
+.cat-carousel__dot--active{background:var(--cat-accent-deep,#B78B45);width:22px;border-radius:99px}
 .cat-card{background:var(--cat-card-bg,#123B2C);color:#f4f1e9;border-radius:27px;min-height:560px;display:flex;flex-direction:column;overflow:hidden;position:relative;transition:transform .25s ease,box-shadow .25s ease}.cat-card:hover{transform:translateY(-5px);box-shadow:0 16px 32px rgba(8,37,29,.18)}
 .cat-card__top{padding:25px 25px 0}.cat-badges{min-height:26px;display:flex;gap:7px;flex-wrap:wrap}.cat-badge{background:#ffffff20;color:#f3f0e8;border-radius:999px;padding:5px 10px;font-size:11px;font-weight:600}.cat-badge--gold{background:var(--cat-accent,#D8C19A);color:var(--cat-accent-ink,#08251D)}
 .cat-card__rule{height:1px;background:#ffffff30;margin:17px 0}.cat-card h3{font-family:Manrope,sans-serif;font-size:29px;letter-spacing:-.04em;line-height:1.1;margin:0;font-weight:500}.cat-card__subtitle{font-size:13px;color:#f3f0e8a8;margin:8px 0 0;min-height:32px}.cat-price{display:flex;align-items:baseline;gap:4px;margin:9px 0 0;color:var(--cat-accent,#D8C19A)}.cat-price strong{font-size:30px;letter-spacing:-.04em}.cat-price span{font-size:13px;color:#f3f0e8a8}.cat-price sup{font-size:8px;margin-left:3px}
@@ -119,7 +129,7 @@ const categoryCss = `
 .cat-step-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:35px;max-width:1120px;margin:45px auto 0;border-top:1px solid #ffffff35;padding-top:28px}.cat-step__number{font-size:11px;letter-spacing:.15em;color:var(--cat-accent,#D8C19A)}.cat-step h3{font-family:Manrope,sans-serif;font-size:clamp(30px,3vw,42px);letter-spacing:-.05em;font-weight:500;margin:12px 0 10px;line-height:1.05}.cat-step h3 span{font-size:18px;letter-spacing:-.01em;display:block;margin-top:5px;color:var(--cat-accent,#D8C19A)}.cat-step p{font-size:14px;line-height:1.6;color:#f6f2e9b5;max-width:310px;margin:0}
 .cat-protocol__legal{max-width:840px;text-align:center;margin:48px auto 0;font-size:11px;line-height:1.55;color:#f6f2e9a8}.cat-protocol__legal p{margin:0 0 10px}.cat-protocol__legal small{display:block;font-size:10px;margin-top:14px}
 [id^="programs-"],[id^="protocol-"]{scroll-margin-top:24px}
-@media(max-width:850px){.cat-hero{min-height:640px;padding:50px 28px;align-items:flex-start}.cat-hero__stamp{width:85px;height:85px;font-size:8px;right:20px;bottom:24px}.cat-card-grid{grid-template-columns:1fr;max-width:460px}.cat-card{min-height:500px}.cat-card__image-wrap{height:225px}.cat-options{padding-top:65px;padding-bottom:34px}.cat-section-head{margin-bottom:34px}.cat-protocol{padding-top:65px}.cat-protocol__art{height:370px;margin-top:30px}.cat-protocol__main{max-width:90%;max-height:370px}.cat-step-grid{grid-template-columns:1fr;gap:22px;margin-top:30px}.cat-step{display:grid;grid-template-columns:42px 1fr;column-gap:12px;align-items:start}.cat-step__number{padding-top:8px}.cat-step h3{margin:0;font-size:32px}.cat-step h3 span{font-size:17px}.cat-step p{grid-column:2;margin-top:8px;max-width:500px}.cat-protocol__legal{margin-top:35px}}
+@media(max-width:850px){.cat-hero{min-height:640px;padding:50px 28px;align-items:flex-start}.cat-hero__stamp{width:85px;height:85px;font-size:8px;right:20px;bottom:24px}.cat-carousel .cat-card{flex-basis:82vw}.cat-carousel__nav{display:none}.cat-card{min-height:500px}.cat-card__image-wrap{height:225px}.cat-options{padding-top:65px;padding-bottom:34px}.cat-section-head{margin-bottom:34px}.cat-protocol{padding-top:65px}.cat-protocol__art{height:370px;margin-top:30px}.cat-protocol__main{max-width:90%;max-height:370px}.cat-step-grid{grid-template-columns:1fr;gap:22px;margin-top:30px}.cat-step{display:grid;grid-template-columns:42px 1fr;column-gap:12px;align-items:start}.cat-step__number{padding-top:8px}.cat-step h3{margin:0;font-size:32px}.cat-step h3 span{font-size:17px}.cat-step p{grid-column:2;margin-top:8px;max-width:500px}.cat-protocol__legal{margin-top:35px}}
 @media(max-width:480px){.cat-hero h1{font-size:51px}.cat-hero__copy{font-size:16px}.cat-hero__actions{align-items:stretch;flex-direction:column;max-width:260px}.cat-hero__actions .cat-cta{width:100%}.cat-hero__stamp{display:none}.cat-section-head h2{font-size:40px}.cat-protocol__intro h2{font-size:39px}.cat-protocol__art{height:290px}.cat-protocol__main{max-height:290px}.cat-protocol__rows{opacity:.3}}
 `;
 
@@ -133,7 +143,7 @@ function CTA({
   return (
     <a className={`cat-cta cat-cta--${variant}`} href={cta.href}>
       {cta.label}
-      <span aria-hidden="true">↗</span>
+      <span aria-hidden="true">→</span>
     </a>
   );
 }
@@ -213,7 +223,7 @@ function ProductCard({ item }: { item: CategoryProduct }) {
         <p>{item.description}</p>
         {item.href && (
           <a href={item.href} className="cat-card__link">
-            {item.linkLabel ?? "Explore"} <span>↗</span>
+            {item.linkLabel ?? "Explore"} <span>→</span>
           </a>
         )}
       </div>
@@ -253,6 +263,28 @@ function Disclaimers({ config }: { config: CategoryConfig }) {
 }
 
 function ProductsSection({ config }: { config: CategoryConfig }) {
+  const trackRef = useRef<HTMLDivElement>(null);
+  const [active, setActive] = useState(0);
+  const count = config.products.length;
+
+  const stepSize = () => {
+    const el = trackRef.current;
+    if (!el) return 356;
+    const card = el.querySelector<HTMLElement>(".cat-card");
+    return card ? card.offsetWidth + 18 : 356;
+  };
+  const scrollToIndex = (i: number) => {
+    const el = trackRef.current;
+    if (!el) return;
+    const clamped = Math.max(0, Math.min(count - 1, i));
+    el.scrollTo({ left: clamped * stepSize(), behavior: "smooth" });
+  };
+  const onScroll = () => {
+    const el = trackRef.current;
+    if (!el) return;
+    setActive(Math.round(el.scrollLeft / stepSize()));
+  };
+
   return (
     <section className="cat-options" id={`programs-${config.slug}`}>
       <div className="cat-section-head">
@@ -264,10 +296,43 @@ function ProductsSection({ config }: { config: CategoryConfig }) {
         </h2>
         <p>{config.optionsCopy}</p>
       </div>
-      <div className="cat-card-grid">
-        {config.products.map((item) => (
-          <ProductCard key={item.title} item={item} />
-        ))}
+      <div className="cat-carousel">
+        <div className="cat-carousel__nav">
+          <button
+            type="button"
+            className="cat-carousel__btn"
+            aria-label="Previous products"
+            onClick={() => scrollToIndex(active - 1)}
+            disabled={active <= 0}
+          >
+            ←
+          </button>
+          <button
+            type="button"
+            className="cat-carousel__btn"
+            aria-label="Next products"
+            onClick={() => scrollToIndex(active + 1)}
+            disabled={active >= count - 1}
+          >
+            →
+          </button>
+        </div>
+        <div className="cat-carousel__track" ref={trackRef} onScroll={onScroll}>
+          {config.products.map((item) => (
+            <ProductCard key={item.title} item={item} />
+          ))}
+        </div>
+        <div className="cat-carousel__dots">
+          {config.products.map((item, i) => (
+            <button
+              key={item.title}
+              type="button"
+              className={`cat-carousel__dot ${i === active ? "cat-carousel__dot--active" : ""}`}
+              aria-label={`Go to ${item.title}`}
+              onClick={() => scrollToIndex(i)}
+            />
+          ))}
+        </div>
       </div>
       <Disclaimers config={config} />
     </section>
