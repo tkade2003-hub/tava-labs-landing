@@ -5,6 +5,7 @@ import Link from "next/link";
 import { supabase, SUPABASE_ANON_KEY, WEB_ACCOUNT_URL } from "@/lib/supabase";
 import type { WebAccountResponse } from "@/lib/types";
 import SiteShell from "@/components/SiteShell";
+import LabPanels from "@/components/LabPanels";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { CheckoutModal, type BuyType } from "@/components/CheckoutModal";
@@ -539,81 +540,16 @@ export default function AccountPage() {
             {tab === "lab" ? (
               <section>
                 <div className={cardClass}>
-                  <p className={eyebrowClass}>
-                    Lab <span>· Coming soon</span>
-                  </p>
+                  <p className={eyebrowClass}>Lab</p>
                   <h2 className="mt-1.5 font-display text-[1.625rem] font-semibold text-forest-deep">
-                    Insights
+                    Know your numbers.
                   </h2>
                   <p className={`${subClass} mt-2`}>
-                    Biomarker insights are being built into Tava. This is the layout they will
-                    arrive in: an overview ring for all your biomarkers, then a card per area with
-                    what needs attention. No results yet. When Lab launches, your real results
-                    will fill this in.
+                    Real blood panels, ordered under your Tava account. Browse the panels, see
+                    every marker before you order, and get your results delivered right here.
                   </p>
-                  <div className="mt-4 flex flex-wrap items-center gap-5">
-                    <svg width="170" height="170" viewBox="0 0 170 170" aria-hidden="true">
-                      <circle cx="85" cy="85" r="70" fill="none" stroke="#E7DFCE" strokeWidth="13" />
-                      <circle cx="85" cy="85" r="70" fill="none" stroke="#123B2C" strokeWidth="13" strokeLinecap="round" strokeDasharray="290 440" transform="rotate(-90 85 85)" opacity=".45" />
-                      <circle cx="85" cy="85" r="70" fill="none" stroke="#B78B45" strokeWidth="13" strokeLinecap="round" strokeDasharray="60 440" strokeDashoffset="-300" transform="rotate(-90 85 85)" opacity=".45" />
-                      <circle cx="85" cy="85" r="70" fill="none" stroke="#C08552" strokeWidth="13" strokeLinecap="round" strokeDasharray="40 440" strokeDashoffset="-370" transform="rotate(-90 85 85)" opacity=".45" />
-                      <text x="85" y="90" textAnchor="middle" fontSize="13" fill="#6B7268">
-                        All biomarkers
-                      </text>
-                    </svg>
-                    <div>
-                      <p className="mb-2.5">
-                        <span className={mutedClass}>Optimal</span>
-                        <br />
-                        <b className="text-[22px]">—</b>
-                      </p>
-                      <p className="mb-2.5">
-                        <span className={mutedClass}>In range</span>
-                        <br />
-                        <b className="text-[22px]">—</b>
-                      </p>
-                      <p>
-                        <span className={mutedClass}>Out of range</span>
-                        <br />
-                        <b className="text-[22px]">—</b>
-                      </p>
-                    </div>
-                  </div>
                 </div>
-                <div className={cardClass}>
-                  <div className="space-y-3">
-                    <div className="flex items-center justify-between rounded-2xl border border-linestone bg-paper px-5 py-4">
-                      <div>
-                        <b>Skin Health</b>
-                        <br />
-                        <span className={mutedClass}>No results yet</span>
-                      </div>
-                      <span className="tava-label">
-                        Preview
-                      </span>
-                    </div>
-                    <div className="flex items-center justify-between rounded-2xl border border-linestone bg-paper px-5 py-4">
-                      <div>
-                        <b>Hydration &amp; Barrier</b>
-                        <br />
-                        <span className={mutedClass}>No results yet</span>
-                      </div>
-                      <span className="tava-label">
-                        Preview
-                      </span>
-                    </div>
-                    <div className="flex items-center justify-between rounded-2xl border border-linestone bg-paper px-5 py-4">
-                      <div>
-                        <b>Metabolic Health</b>
-                        <br />
-                        <span className={mutedClass}>No results yet</span>
-                      </div>
-                      <span className="tava-label">
-                        Preview
-                      </span>
-                    </div>
-                  </div>
-                </div>
+                <LabPanels />
               </section>
             ) : null}
 
