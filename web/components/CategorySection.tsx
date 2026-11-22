@@ -173,6 +173,8 @@ function Hero({ config }: { config: CategoryConfig }) {
         <div className="cat-hero__video" aria-hidden="true">
           <MaskoPlayer
             clip={{ webm: config.heroVideo.webm, hevc: config.heroVideo.hevc }}
+            autoPlay
+            sound={false}
           />
         </div>
       )}
