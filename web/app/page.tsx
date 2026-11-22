@@ -7,12 +7,8 @@ import FreeFrom from "@/components/FreeFrom";
 import MotionCarousel from "@/components/MotionCarousel";
 import TavaHeroSlider from "@/components/TavaHeroSlider";
 import CategorySection from "@/components/CategorySection";
-import {
-  SKINCARE,
-  PEPTIDES,
-  MENTAL_HEALTH,
-  BIOMARKERS,
-} from "@/lib/categories";
+import { SKINCARE, BIOMARKERS } from "@/lib/categories";
+// PEPTIDES and MENTAL_HEALTH imports return when their sections are unhidden.
 import { Button } from "@/components/ui/button";
 import { pageMetadata } from "@/lib/pageMeta";
 import { MEETING_PORTRAIT } from "@/lib/meetingPortrait";
@@ -190,12 +186,16 @@ export default function Page() {
       {/* Tava in Motion */}
       <MotionCarousel />
 
+      {/* Peptides and Mental health sections hidden at Vashon direction on
+          2026-11-21. To bring them back, restore the PEPTIDES and
+          MENTAL_HEALTH imports above and uncomment:
       <div className="mt-16 sm:mt-24">
         <CategorySection config={PEPTIDES} />
       </div>
       <div className="mt-16 sm:mt-24">
         <CategorySection config={MENTAL_HEALTH} />
       </div>
+      */}
       <div className="my-16 sm:my-24">
         <CategorySection config={BIOMARKERS} />
       </div>
