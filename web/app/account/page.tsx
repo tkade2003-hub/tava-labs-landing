@@ -308,6 +308,27 @@ export default function AccountPage() {
                       </div>
                     ))}
                   </div>
+                  <div className="mt-5">
+                    <div className="h-2.5 overflow-hidden rounded-full bg-linen">
+                      <div
+                        className="h-full rounded-full bg-gold"
+                        style={{ width: `${Math.max(4, Math.round((computed.programDay / 30) * 100))}%` }}
+                      />
+                    </div>
+                    <p className={`${subClass} mt-2`}>
+                      {`Day ${computed.programDay} of 30 · ${30 - computed.programDay} days to go to your first full month`}
+                    </p>
+                    <p className={`${subClass} mt-1`}>
+                      {(() => {
+                        const allSteps = [...AM_STEPS, ...PM_STEPS];
+                        const doneToday = allSteps.filter((s) => doneIds.includes(s.id)).length;
+                        const toGo = allSteps.length - doneToday;
+                        return toGo > 0
+                          ? `Today: ${toGo} of ${allSteps.length} routine steps to go.`
+                          : "Today is complete. Your next day is already on deck.";
+                      })()}
+                    </p>
+                  </div>
                 </div>
 
                 <div className={cardClass}>

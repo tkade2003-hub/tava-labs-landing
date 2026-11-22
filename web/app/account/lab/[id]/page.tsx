@@ -7,16 +7,66 @@ import SiteShell from "@/components/SiteShell";
 import { supabase } from "@/lib/supabase";
 import { callLabs } from "@/lib/labs";
 
-// Full page lab results for one order. The labs edge function returns
-// our order row plus the live provider order; once the lab reports,
-// the provider order carries every marker result and this page renders
-// all of them, full width, with values, ranges, and flags.
+// Full page lab results for one order, in the dark clinical style:
+// a review header, the balance ring with its triage, and the marker
+// drilldown. The labs edge function returns our order row plus the
+// live provider order; once the lab reports, the provider order
+// carries every marker result and this page renders all of them.
 interface MarkerResult {
   name: string;
   value: string;
   unit: string;
   range: string;
   flag: string;
+}
+
+type MarkerStatus = "optimal" | "inRange" | "attention" | "unknown";
+
+const STATUS_COLOR: Record<MarkerStatus, string> = {
+  optimal: "#3dcc8c",
+  inRange: "#b78b45",
+  attention: "#ed948c",
+  unknown: "rgba(255,255,255,0.35)",
+};
+
+const STATUS_LABEL: Record<MarkerStatus, string> = {
+  optimal: "OPTIMAL",
+  inRange: "IN RANGE",
+  attention: "FLAGGED",
+  unknown: "",
+};
+
+// Status comes only from fields the lab itself reports: its flag
+// first, then the printed range. Optimal means the lab flagged the
+// marker normal; needs attention means it flagged it or the value
+// falls outside the range.
+function markerStatus(r: MarkerResult): MarkerStatus {
+  const f = r.flag.toLowerCase();
+  if (
+    f.includes("high") ||
+    f.includes("low") ||
+    f.includes("abnormal") ||
+    f.includes("critical") ||
+    f.includes("flag") ||
+    f.includes("out of")
+  )
+    return "attention";
+  if (
+    f.includes("optimal") ||
+    f.includes("normal") ||
+    f.includes("in range") ||
+    f.includes("negative")
+  )
+    return "optimal";
+  const numeric = parseFloat(r.value.replace(/[^0-9.\-]/g, ""));
+  const bounds = r.range
+    .replace(/to/gi, "-")
+    .split("-")
+    .map((s) => parseFloat(s.trim()));
+  if (!Number.isNaN(numeric) && bounds.length === 2 && !bounds.some(Number.isNaN) && bounds[1] > bounds[0]) {
+    return numeric >= bounds[0] && numeric <= bounds[1] ? "inRange" : "attention";
+  }
+  return r.value === "" ? "unknown" : "inRange";
 }
 
 function pick(obj: Record<string, unknown>, keys: string[]): string {
@@ -58,13 +108,52 @@ function extractResults(provider: unknown): MarkerResult[] {
     .filter((r): r is MarkerResult => r !== null);
 }
 
-function flagStyle(flag: string): string {
-  const f = flag.toLowerCase();
-  if (f === "" ) return "bg-linen text-forest-deep";
-  if (f.includes("normal") || f.includes("in range") || f === "ok") return "bg-linen text-forest-deep";
-  if (f.includes("high") || f.includes("low") || f.includes("abnormal") || f.includes("out"))
-    return "bg-[#F6E3DC] text-[#B14E32]";
-  return "bg-linen text-forest-deep";
+function BalanceRing({
+  total,
+  analyzedPct,
+  segments,
+}: {
+  total: number;
+  analyzedPct: number;
+  segments: { fraction: number; color: string }[];
+}) {
+  const R = 84;
+  const C = 2 * Math.PI * R;
+  let acc = 0;
+  return (
+    <div className="relative h-[218px] w-[218px]" style={{ filter: "drop-shadow(0 0 22px rgba(61,204,140,0.25))" }}>
+      <svg viewBox="0 0 218 218" className="h-full w-full -rotate-90">
+        <circle cx="109" cy="109" r={R} fill="none" stroke="rgba(255,255,255,0.08)" strokeWidth="15" />
+        {segments.map((seg, i) => {
+          const gap = segments.length > 1 ? 0.012 * C : 0;
+          const len = Math.max(2, seg.fraction * C - gap);
+          const offset = -(acc * C) - gap / 2;
+          acc += seg.fraction;
+          return (
+            <circle
+              key={i}
+              cx="109"
+              cy="109"
+              r={R}
+              fill="none"
+              stroke={seg.color}
+              strokeWidth="15"
+              strokeLinecap="round"
+              strokeDasharray={`${len} ${C - len}`}
+              strokeDashoffset={offset}
+            />
+          );
+        })}
+      </svg>
+      <div className="absolute inset-0 flex flex-col items-center justify-center">
+        <span className="text-[44px] leading-none font-extrabold text-white">{total}</span>
+        <span className="mt-1.5 text-[11px] font-semibold tracking-[0.18em] text-white/65">
+          BIOMARKERS
+        </span>
+        <span className="mt-1 text-xs font-medium text-white/65">{analyzedPct}% Analyzed</span>
+      </div>
+    </div>
+  );
 }
 
 function LabResultInner() {
@@ -74,6 +163,7 @@ function LabResultInner() {
   const [order, setOrder] = useState<Record<string, unknown> | null>(null);
   const [results, setResults] = useState<MarkerResult[]>([]);
   const [providerStatus, setProviderStatus] = useState("");
+  const [filter, setFilter] = useState<MarkerStatus | null>(null);
 
   useEffect(() => {
     supabase()
@@ -98,6 +188,54 @@ function LabResultInner() {
 
   const status = providerStatus || String(order?.status ?? "");
   const resulted = results.length > 0;
+  const panelName = String(order?.panel_name ?? "Your panel");
+  const counts: Record<MarkerStatus, number> = { optimal: 0, inRange: 0, attention: 0, unknown: 0 };
+  for (const r of results) counts[markerStatus(r)] += 1;
+  const analyzedPct = resulted
+    ? Math.round((results.filter((r) => r.value !== "").length / results.length) * 100)
+    : 0;
+  const segments = (["optimal", "inRange", "attention", "unknown"] as MarkerStatus[])
+    .filter((s) => counts[s] > 0)
+    .map((s) => ({ fraction: counts[s] / results.length, color: STATUS_COLOR[s] }));
+  const visible = filter ? results.filter((r) => markerStatus(r) === filter) : results;
+  const updatedLabel = order
+    ? `Updated ${new Date(String(order.created_at)).toLocaleDateString("en-US", {
+        month: "short",
+        day: "numeric",
+      })}`
+    : "Updated recently";
+
+  const headline =
+    state === "loading"
+      ? "Pulling up your results"
+      : !resulted
+        ? "Your results are on their way"
+        : counts.attention === 0
+          ? "All of your results are in."
+          : "Your results are in.";
+  const subline =
+    state === "loading"
+      ? "One moment while the lab report loads."
+      : !resulted
+        ? "As soon as the lab reports, this page fills in with every marker, its value, and its healthy range."
+        : counts.attention === 0
+          ? "Every marker is in range. Here is the full picture."
+          : counts.attention === 1
+            ? "One marker needs a closer look. Let's dig in."
+            : `${counts.attention} markers need a closer look. Let's dig in.`;
+
+  const tile = "rounded-[28px] border border-white/[0.07] bg-white/[0.055] p-5 sm:p-6";
+
+  const triage: { status: MarkerStatus; name: string; subtitle: string; icon: string }[] = [
+    { status: "optimal", name: "Optimal", subtitle: "Right where you want them", icon: "↗" },
+    { status: "inRange", name: "In range", subtitle: "Inside the healthy range", icon: "✓" },
+    {
+      status: "attention",
+      name: "Needs attention",
+      subtitle: "Worth a conversation with your doctor",
+      icon: "!",
+    },
+  ];
 
   return (
     <SiteShell>
@@ -109,9 +247,7 @@ function LabResultInner() {
           Back to your account
         </Link>
 
-        {state === "loading" ? (
-          <p className="mt-6 text-[15px] text-muted-foreground">Loading your results…</p>
-        ) : state === "missing" || !order ? (
+        {state === "missing" || (!order && state === "ready") ? (
           <div className="mt-6 rounded-2xl border border-linestone bg-white p-6 sm:p-7">
             <h1 className="font-display text-[1.625rem] font-semibold text-forest-deep">
               That lab order was not found
@@ -122,68 +258,218 @@ function LabResultInner() {
             </p>
           </div>
         ) : (
-          <>
-            <p className="tava-label mt-6">Lab results</p>
-            <h1 className="mt-1.5 font-display text-[2rem] leading-tight font-semibold text-forest-deep">
-              {String(order.panel_name ?? "Your panel")}
-            </h1>
-            <p className="mt-2 text-[15px] leading-relaxed text-muted-foreground">
-              Ordered{" "}
-              {new Date(String(order.created_at)).toLocaleDateString("en-US", {
-                month: "long",
-                day: "numeric",
-                year: "numeric",
-              })}
-              {status ? ` · Status: ${status.replace(/_/g, " ")}` : ""}
-            </p>
-
-            {resulted ? (
-              <div className="mt-6 overflow-hidden rounded-2xl border border-linestone bg-white shadow-[0_10px_28px_rgba(8,37,29,0.07)]">
-                <div className="hidden grid-cols-[1.4fr_0.8fr_1fr_auto] gap-4 border-b border-linestone bg-linen px-6 py-3 text-[12px] font-semibold tracking-wide text-forest-deep uppercase sm:grid">
-                  <span>Marker</span>
-                  <span>Result</span>
-                  <span>Healthy range</span>
-                  <span>Status</span>
+          <div className="mt-6 rounded-[32px] bg-forest-deep p-4 shadow-[0_18px_44px_rgba(8,37,29,0.25)] sm:p-6">
+            <div className="flex flex-col gap-4">
+              {/* Clinical review header */}
+              <div className={tile}>
+                <div className="flex items-start gap-4">
+                  <span className="flex h-14 w-14 shrink-0 items-center justify-center rounded-2xl bg-forest text-[23px] font-extrabold text-white">
+                    t.
+                  </span>
+                  <div>
+                    <p className="text-[11px] font-semibold tracking-[0.18em] text-champagne">
+                      CLINICAL REVIEW
+                    </p>
+                    <h1 className="mt-1 text-xl font-bold text-white">{headline}</h1>
+                    <p className="mt-1 text-sm leading-relaxed text-white/70">{subline}</p>
+                    {order ? (
+                      <p className="mt-2 text-[13px] font-medium text-white/50">
+                        {panelName} · Ordered{" "}
+                        {new Date(String(order.created_at)).toLocaleDateString("en-US", {
+                          month: "long",
+                          day: "numeric",
+                          year: "numeric",
+                        })}
+                        {status ? ` · Status: ${status.replace(/_/g, " ")}` : ""}
+                      </p>
+                    ) : null}
+                  </div>
                 </div>
-                <ul className="divide-y divide-linestone">
-                  {results.map((r, i) => (
-                    <li
-                      key={`${r.name}-${i}`}
-                      className="grid grid-cols-1 gap-1 px-6 py-4 sm:grid-cols-[1.4fr_0.8fr_1fr_auto] sm:items-center sm:gap-4"
-                    >
-                      <span className="text-[15px] font-semibold text-forest-deep">{r.name}</span>
-                      <span className="text-[15px] text-foreground">
-                        {r.value}
-                        {r.unit ? <span className="text-muted-foreground"> {r.unit}</span> : null}
-                      </span>
-                      <span className="text-sm text-muted-foreground">{r.range || "—"}</span>
-                      <span
-                        className={`inline-block w-fit rounded-full px-3 py-1 text-[12px] font-semibold ${flagStyle(r.flag)}`}
-                      >
-                        {r.flag || "Reported"}
-                      </span>
-                    </li>
-                  ))}
-                </ul>
               </div>
-            ) : (
-              <div className="mt-6 rounded-2xl border border-linestone bg-white p-6 sm:p-7">
-                <h2 className="font-display text-[1.375rem] font-semibold text-forest-deep">
-                  Results are not in yet
-                </h2>
-                <p className="mt-2 max-w-[42rem] text-[15px] leading-relaxed text-muted-foreground">
-                  Your results land on this page as soon as the lab reports them, with every
-                  marker, its value, and its healthy range. Most panels report within days of
-                  your draw.
-                </p>
-              </div>
-            )}
 
-            <p className="mt-6 max-w-[42rem] text-sm leading-relaxed text-muted-foreground">
-              Lab results are information about your own health and are not a diagnosis. Talk to
-              your doctor about any result that concerns you, and call 911 in an emergency.
-            </p>
-          </>
+              {state === "ready" && !resulted ? (
+                <div className={tile}>
+                  <h2 className="text-lg font-bold text-white">Results are not in yet</h2>
+                  <p className="mt-1.5 text-[15px] leading-relaxed text-white/70">
+                    Most panels report within days of your draw. When yours lands, this page shows
+                    the full balance view with every marker and its range.
+                  </p>
+                </div>
+              ) : null}
+
+              {resulted ? (
+                <>
+                  {/* Balance ring */}
+                  <div className={tile}>
+                    <p className="text-[11px] font-semibold tracking-[0.18em] text-white/60 uppercase">
+                      {panelName}
+                    </p>
+                    <h2 className="mt-1 text-xl font-bold text-white">Your marker balance</h2>
+                    <div className="mt-5 flex justify-center">
+                      <BalanceRing total={results.length} analyzedPct={analyzedPct} segments={segments} />
+                    </div>
+                    <div className="mt-5 flex flex-col gap-2.5">
+                      {(
+                        [
+                          ["optimal", "Optimal"],
+                          ["inRange", "In range"],
+                          ["attention", "Needs attention"],
+                        ] as [MarkerStatus, string][]
+                      ).map(([s, name]) => (
+                        <div key={s} className="flex items-center gap-2.5">
+                          <span
+                            className="h-[11px] w-[11px] rounded-full"
+                            style={{ background: STATUS_COLOR[s] }}
+                          />
+                          <span className="text-[15px] text-white/85">{name}</span>
+                          <span
+                            className="ml-auto text-base font-bold"
+                            style={{ color: STATUS_COLOR[s] }}
+                          >
+                            {counts[s]}
+                          </span>
+                        </div>
+                      ))}
+                    </div>
+                    <div className="mt-5">
+                      <div className="flex h-[9px] gap-[3px]">
+                        {segments.map((seg, i) => (
+                          <span
+                            key={i}
+                            className="rounded-full"
+                            style={{ background: seg.color, width: `${seg.fraction * 100}%` }}
+                          />
+                        ))}
+                      </div>
+                      <div className="mt-2 flex justify-between text-xs text-white/55">
+                        <span>Base: {panelName}</span>
+                        <span>{updatedLabel}</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Status triage */}
+                  <div>
+                    <div className="flex items-baseline justify-between px-1">
+                      <h2 className="text-xl font-bold text-white">Status Triage</h2>
+                      <span className="text-[13px] text-white/50">Tap to filter</span>
+                    </div>
+                    <div className="mt-3 flex flex-col gap-2.5">
+                      {triage
+                        .filter((t) => counts[t.status] > 0)
+                        .map((t) => (
+                          <button
+                            key={t.status}
+                            type="button"
+                            onClick={() => setFilter(filter === t.status ? null : t.status)}
+                            className={`flex w-full items-center gap-3.5 rounded-[20px] border border-white/[0.07] p-4 text-left transition ${
+                              filter === t.status ? "bg-white/10" : "bg-white/[0.055]"
+                            }`}
+                          >
+                            <span
+                              className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full text-base font-bold"
+                              style={{
+                                color: STATUS_COLOR[t.status],
+                                background: `${STATUS_COLOR[t.status]}29`,
+                              }}
+                            >
+                              {t.icon}
+                            </span>
+                            <span>
+                              <span className="block text-[17px] font-semibold text-white">
+                                {t.name}
+                              </span>
+                              <span className="block text-[13px] text-white/55">{t.subtitle}</span>
+                            </span>
+                            <span
+                              className="ml-auto text-[30px] leading-none font-extrabold"
+                              style={{ color: STATUS_COLOR[t.status] }}
+                            >
+                              {counts[t.status]}
+                            </span>
+                            <span className="text-[13px] font-bold text-white/40">›</span>
+                          </button>
+                        ))}
+                    </div>
+                  </div>
+
+                  {/* Marker drilldown */}
+                  <div>
+                    <div className="flex gap-2 overflow-x-auto pb-1">
+                      <button
+                        type="button"
+                        onClick={() => setFilter(null)}
+                        className={`shrink-0 rounded-full px-3.5 py-2 text-[13.5px] font-semibold ${
+                          filter === null ? "bg-champagne text-forest-deep" : "bg-white/[0.07] text-white/80"
+                        }`}
+                      >
+                        All ({results.length})
+                      </button>
+                      {triage
+                        .filter((t) => counts[t.status] > 0)
+                        .map((t) => (
+                          <button
+                            key={t.status}
+                            type="button"
+                            onClick={() => setFilter(t.status)}
+                            className={`shrink-0 rounded-full px-3.5 py-2 text-[13.5px] font-semibold ${
+                              filter === t.status
+                                ? "bg-champagne text-forest-deep"
+                                : "bg-white/[0.07] text-white/80"
+                            }`}
+                          >
+                            {t.name} ({counts[t.status]})
+                          </button>
+                        ))}
+                    </div>
+                    <div className="mt-3 flex flex-col gap-2.5">
+                      {visible.map((r, i) => {
+                        const s = markerStatus(r);
+                        return (
+                          <div
+                            key={`${r.name}-${i}`}
+                            className="flex items-center gap-3 rounded-[20px] border border-white/[0.07] bg-white/[0.055] p-4"
+                          >
+                            <span
+                              className="h-2.5 w-2.5 shrink-0 rounded-full"
+                              style={{ background: STATUS_COLOR[s] }}
+                            />
+                            <span className="min-w-0">
+                              <span className="block text-base font-semibold break-words text-white">
+                                {r.name}
+                              </span>
+                              {r.range ? (
+                                <span className="block text-xs text-white/50">Range {r.range}</span>
+                              ) : null}
+                            </span>
+                            <span className="ml-auto text-right">
+                              <span className="block text-base font-bold whitespace-nowrap text-white">
+                                {r.value}
+                                {r.unit ? ` ${r.unit}` : ""}
+                              </span>
+                              {STATUS_LABEL[s] ? (
+                                <span
+                                  className="block text-[11px] font-bold tracking-[0.08em]"
+                                  style={{ color: STATUS_COLOR[s] }}
+                                >
+                                  {STATUS_LABEL[s]}
+                                </span>
+                              ) : null}
+                            </span>
+                          </div>
+                        );
+                      })}
+                    </div>
+                  </div>
+                </>
+              ) : null}
+
+              <p className="px-1 text-[13px] leading-relaxed text-white/50">
+                Lab results are information about your own health and are not a diagnosis. Talk to
+                your doctor about any result that concerns you, and call 911 in an emergency.
+              </p>
+            </div>
+          </div>
         )}
       </section>
     </SiteShell>
