@@ -72,7 +72,7 @@ export default function Page() {
               aria-label="Man in profile looking up wearing a dark blazer"
               className="h-[440px] w-full shrink-0 bg-cover bg-[center_top] bg-no-repeat lg:order-2 lg:h-auto lg:min-h-[540px] lg:w-1/2"
               style={{
-                backgroundImage: `linear-gradient(to bottom, rgba(8,37,29,0) 50%, rgba(8,37,29,0.45) 78%, #08251D 100%), url("${MEETING_PORTRAIT}")`,
+                backgroundImage: `linear-gradient(to bottom in oklch, rgba(8,37,29,0) 50%, rgba(8,37,29,0.45) 78%, #08251D 100%), url("${MEETING_PORTRAIT}")`,
               }}
             />
             <div className="flex flex-1 flex-col justify-center px-[5vw] pt-[44px] pb-[48px] lg:order-1 lg:py-[64px]">

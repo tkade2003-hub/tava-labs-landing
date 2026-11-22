@@ -169,7 +169,20 @@
   --gold-soft: #d8c19a;
   --gold-metal: #bd9a2e;
   --linen: #f3f0e9;
-  --linestone: #e7e2d9;
+  /* Borders are an alpha ink, not a solid hex, so a hairline blends
+     into whatever surface it sits on (adopted 2026-11-22). It replaces
+     the solid #e7e2d9 this token carried before. */
+  --linestone: rgb(18 16 12 / 0.14);
+
+  /* The same palette in OKLCH, the space new color work is built in,
+     so equal lightness steps actually read equal (adopted 2026-11-22). */
+  --paper-oklch: oklch(0.985 0.001 106.4);
+  --ink-oklch: oklch(0.174 0.009 84.6);
+  --forest-oklch: oklch(0.319 0.053 165.8);
+  --forest-deep-oklch: oklch(0.24 0.038 171.7);
+  --gold-oklch: oklch(0.665 0.103 77);
+  --gold-soft-oklch: oklch(0.821 0.058 80.8);
+  --linen-oklch: oklch(0.956 0.01 87.5);
 
   --background: var(--paper);
   --foreground: var(--ink);

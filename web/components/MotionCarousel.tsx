@@ -51,7 +51,7 @@ export default function MotionCarousel() {
       <p className="mx-auto mb-5 max-w-[640px] px-5 text-center text-[19px] leading-[1.5] text-black">
         Many creators and entrepreneurs already love us.
       </p>
-      <div className="tava-marquee overflow-hidden [mask-image:linear-gradient(90deg,transparent,#000_4%,#000_96%,transparent)] [-webkit-mask-image:linear-gradient(90deg,transparent,#000_4%,#000_96%,transparent)]">
+      <div className="tava-marquee overflow-hidden [mask-image:linear-gradient(90deg,transparent,#000_15%,#000_85%,transparent)] [-webkit-mask-image:linear-gradient(90deg,transparent,#000_15%,#000_85%,transparent)]">
         <div className="tava-marquee-track">
           {cards.map((v, i) => {
             const src = `/assets/ads/${v}.mp4`;

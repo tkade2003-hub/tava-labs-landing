@@ -128,7 +128,7 @@ const categoryCss = `
 .cat-disclaimers{max-width:820px;margin:36px auto 0;text-align:center;font-size:12px;line-height:1.6;color:var(--cat-muted,#6F695C)}.cat-disclaimers p{margin:0}.cat-disclaimers__toggle{margin-top:9px;background:none;border:0;color:var(--cat-ink,#22302B);text-decoration:underline;cursor:pointer;font:inherit}.cat-disclaimers__more{margin-top:14px;text-align:left;border-top:1px solid #12100c24;padding-top:16px}.cat-disclaimers__more p+p{margin-top:12px}
 .cat-disclaimers--standalone{padding:0 clamp(20px,7vw,110px) 50px;margin-top:0}.cat-disclaimers--standalone .cat-disclaimers{margin-top:0}
 .cat-protocol{background:var(--cat-protocol-bg,#123B2C);color:#f6f2e9;position:relative;padding:90px clamp(20px,7vw,110px) 36px;isolation:isolate;overflow:hidden}
-.cat-protocol__backdrop{position:absolute;inset:0;background:linear-gradient(180deg,var(--cat-protocol-bg,#123B2C) 0%,var(--cat-hero-bg,#08251D) 100%);z-index:-2}
+.cat-protocol__backdrop{position:absolute;inset:0;background:linear-gradient(180deg in oklch,var(--cat-protocol-bg,#123B2C) 0%,var(--cat-hero-bg,#08251D) 100%);z-index:-2}
 .cat-protocol__intro{max-width:1000px;margin:0 auto;text-align:center;position:relative;z-index:1}.cat-protocol__intro .cat-eyebrow{opacity:.65}.cat-protocol__intro h2{font-size:clamp(40px,5.5vw,72px)}.cat-protocol__intro>p:not(.cat-eyebrow){font-size:18px;color:#f6f2e9a8;margin:22px 0 25px}
 .cat-protocol__art{position:relative;max-width:1150px;height:500px;margin:45px auto 0;display:flex;align-items:center;justify-content:center}.cat-protocol__main{position:absolute;max-width:75%;max-height:500px;width:auto;object-fit:contain;filter:drop-shadow(0 18px 24px rgba(8,37,29,.3))}.cat-protocol__rows{position:absolute;width:100%;height:100%;object-fit:contain;opacity:.45;mix-blend-mode:screen;pointer-events:none}
 .cat-step-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:35px;max-width:1120px;margin:45px auto 0;border-top:1px solid #ffffff35;padding-top:28px}.cat-step__number{font-size:11px;letter-spacing:.15em;color:var(--cat-accent,#D8C19A)}.cat-step h3{font-family:Manrope,sans-serif;font-size:clamp(30px,3vw,42px);letter-spacing:-.05em;font-weight:500;margin:12px 0 10px;line-height:1.05}.cat-step h3 span{font-size:18px;letter-spacing:-.01em;display:block;margin-top:5px;color:var(--cat-accent,#D8C19A)}.cat-step p{font-size:14px;line-height:1.6;color:#f6f2e9b5;max-width:310px;margin:0}
@@ -157,14 +157,14 @@ function Hero({ config }: { config: CategoryConfig }) {
   const rgb = config.theme?.heroRgb ?? "8, 37, 29";
   const heroImageStyle: React.CSSProperties = config.heroBackdrop
     ? {
-        backgroundImage: `linear-gradient(90deg, rgba(${rgb},.88) 0%, rgba(${rgb},.42) 54%, rgba(${rgb},.06) 100%), ${config.heroBackdrop}`,
+        backgroundImage: `linear-gradient(90deg in oklch, rgba(${rgb},.88) 0%, rgba(${rgb},.42) 54%, rgba(${rgb},.06) 100%), ${config.heroBackdrop}`,
       }
     : config.heroImage
       ? {
-          backgroundImage: `linear-gradient(90deg, rgba(${rgb},.88) 0%, rgba(${rgb},.42) 54%, rgba(${rgb},.06) 100%), url('${config.heroImage}')`,
+          backgroundImage: `linear-gradient(90deg in oklch, rgba(${rgb},.88) 0%, rgba(${rgb},.42) 54%, rgba(${rgb},.06) 100%), url('${config.heroImage}')`,
         }
       : {
-          backgroundImage: `linear-gradient(120deg, rgba(${rgb},1) 0%, rgba(${rgb},.72) 100%)`,
+          backgroundImage: `linear-gradient(120deg in oklch, rgba(${rgb},1) 0%, rgba(${rgb},.72) 100%)`,
         };
   return (
     <header className="cat-hero">
@@ -178,7 +178,7 @@ function Hero({ config }: { config: CategoryConfig }) {
         <div
           className="cat-hero__shade"
           style={{
-            backgroundImage: `linear-gradient(90deg, rgba(${rgb},.88) 0%, rgba(${rgb},.42) 54%, rgba(${rgb},.06) 100%)`,
+            backgroundImage: `linear-gradient(90deg in oklch, rgba(${rgb},.88) 0%, rgba(${rgb},.42) 54%, rgba(${rgb},.06) 100%)`,
           }}
           aria-hidden="true"
         />

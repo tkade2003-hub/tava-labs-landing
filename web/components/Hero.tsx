@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 
 const heroCss = `
 .hn{position:relative;background:#FAFAF9;overflow:hidden}
-.hn-glow{position:absolute;top:-220px;right:-140px;width:720px;height:720px;border-radius:50%;background:radial-gradient(circle,rgba(216,193,154,.68) 0%,rgba(216,193,154,0) 62%);pointer-events:none;animation:hn-breathe 9s ease-in-out infinite alternate}
+.hn-glow{position:absolute;top:-220px;right:-140px;width:720px;height:720px;border-radius:50%;background:radial-gradient(circle in oklch,rgba(216,193,154,.68) 0%,rgba(216,193,154,0) 62%);pointer-events:none;animation:hn-breathe 9s ease-in-out infinite alternate}
 .hn-inner{position:relative;max-width:1280px;margin:0 auto;padding:72px 24px 56px;display:grid;grid-template-columns:1.05fr .95fr;gap:56px;align-items:center}
 .hn-eyebrow{animation:hn-rise .8s cubic-bezier(0.22,1,0.36,1) both}
 .hn-title{font-family:'Futura extra font','Futura',sans-serif;font-style:italic;font-weight:900;font-size:clamp(46px,6.6vw,100px);line-height:.98;letter-spacing:-.01em;color:#12100C;margin:22px 0 0;text-wrap:balance}
