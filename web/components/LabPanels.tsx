@@ -1,7 +1,9 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import Link from "next/link";
 import { LAB_PANELS } from "@/lib/labPanels";
+import { callLabs, type LabOrderRow } from "@/lib/labs";
 
 // The Lab tab panel catalog: real blood panels a signed in member can
 // browse, with the full marker list per panel. Ordering opens once the
@@ -31,18 +33,55 @@ const STEPS = [
 
 export default function LabPanels() {
   const [openId, setOpenId] = useState<string | null>(null);
+  const [orders, setOrders] = useState<LabOrderRow[] | null>(null);
+
+  useEffect(() => {
+    callLabs("my_orders").then((res) => {
+      setOrders(Array.isArray(res.orders) ? (res.orders as LabOrderRow[]) : []);
+    });
+  }, []);
 
   return (
     <div>
       <div className="rounded-2xl border border-linestone bg-white p-6 shadow-[0_10px_28px_rgba(8,37,29,0.07)] sm:p-7">
-        <p className="tava-label">Your results</p>
-        <h3 className="mt-1.5 font-display text-[1.375rem] font-semibold text-forest-deep">
-          Nothing here yet
-        </h3>
-        <p className="mt-2 text-[15px] leading-relaxed text-muted-foreground">
-          When you complete a panel, every marker lands here with its value, its healthy range,
-          and how it moves over time. Order your first panel below and this space fills in.
-        </p>
+        <p className="tava-label">Your lab orders</p>
+        {orders === null ? (
+          <p className="mt-2 text-[15px] leading-relaxed text-muted-foreground">Loading your orders…</p>
+        ) : orders.length === 0 ? (
+          <>
+            <h3 className="mt-1.5 font-display text-[1.375rem] font-semibold text-forest-deep">
+              Nothing here yet
+            </h3>
+            <p className="mt-2 text-[15px] leading-relaxed text-muted-foreground">
+              When you complete a panel, every marker lands here with its value, its healthy range,
+              and how it moves over time. Order your first panel below and this space fills in.
+            </p>
+          </>
+        ) : (
+          <ul className="mt-3 divide-y divide-linestone">
+            {orders.map((o) => (
+              <li key={o.id} className="flex items-center justify-between gap-4 py-3">
+                <div>
+                  <p className="text-[15px] font-semibold text-forest-deep">{o.panel_name}</p>
+                  <p className="text-[13px] text-muted-foreground">
+                    {new Date(o.created_at).toLocaleDateString("en-US", {
+                      month: "long",
+                      day: "numeric",
+                      year: "numeric",
+                    })}{" "}
+                    · {o.status.replace(/_/g, " ")}
+                  </p>
+                </div>
+                <Link
+                  href={`/account/lab/${o.id}`}
+                  className="shrink-0 text-sm font-semibold text-forest underline decoration-gold-soft decoration-2 underline-offset-4"
+                >
+                  View results
+                </Link>
+              </li>
+            ))}
+          </ul>
+        )}
       </div>
 
       <div className="mt-5 rounded-2xl border border-linestone bg-white p-6 shadow-[0_10px_28px_rgba(8,37,29,0.07)] sm:p-7">

@@ -11,6 +11,7 @@ export const SUPABASE_ANON_KEY =
 
 export const WEB_ACCOUNT_URL = `${SUPABASE_URL}/functions/v1/web-account`;
 export const FUNNEL_INTAKE_URL = `${SUPABASE_URL}/functions/v1/funnel-intake`;
+export const LABS_URL = `${SUPABASE_URL}/functions/v1/labs`;
 
 let client: SupabaseClient | null = null;
 export function supabase(): SupabaseClient {
