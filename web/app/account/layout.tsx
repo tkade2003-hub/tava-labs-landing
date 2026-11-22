@@ -5,6 +5,7 @@ export const metadata: Metadata = {
   description:
     "Your Tava Labs account on the web: your plan, orders, routine, and support, tied to the same email as the mobile app.",
   alternates: { canonical: "https://tavalabs.app/account" },
+  robots: { index: false, follow: false },
 };
 
 export default function AccountLayout({
