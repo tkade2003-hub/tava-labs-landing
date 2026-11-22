@@ -6,8 +6,9 @@ import { LAB_PANELS } from "@/lib/labPanels";
 import { callLabs, type LabOrderRow } from "@/lib/labs";
 
 // The Lab tab panel catalog: real blood panels a signed in member can
-// browse, with the full marker list per panel. Ordering opens once the
-// menu is priced; results will be delivered into this same tab.
+// browse, with the full marker list per panel and its retail price from
+// the labs function. Ordering opens once the lab checkout is attached;
+// results will be delivered into this same tab.
 const STEPS = [
   {
     n: "01",
@@ -34,10 +35,19 @@ const STEPS = [
 export default function LabPanels() {
   const [openId, setOpenId] = useState<string | null>(null);
   const [orders, setOrders] = useState<LabOrderRow[] | null>(null);
+  const [prices, setPrices] = useState<Record<string, number>>({});
 
   useEffect(() => {
     callLabs("my_orders").then((res) => {
       setOrders(Array.isArray(res.orders) ? (res.orders as LabOrderRow[]) : []);
+    });
+    callLabs("catalog").then((res) => {
+      const map: Record<string, number> = {};
+      const panels = Array.isArray(res.panels) ? res.panels : [];
+      for (const p of panels as { id?: string; priceCents?: number | null }[]) {
+        if (p.id && typeof p.priceCents === "number") map[p.id] = p.priceCents;
+      }
+      setPrices(map);
     });
   }, []);
 
@@ -111,8 +121,8 @@ export default function LabPanels() {
           Fourteen panels, built around what you track
         </h3>
         <p className="mt-2 max-w-[42rem] text-[15px] leading-relaxed text-muted-foreground">
-          Panels are shown for review and are not yet open for ordering. When ordering opens, a
-          licensed physician reviews every order and your results are delivered right here.
+          Every panel shows its price. Ordering opens once checkout is switched on, and a
+          licensed physician reviews every order before your results are delivered right here.
           Panels cannot be ordered for addresses in New York, New Jersey, or Rhode Island.
         </p>
       </div>
@@ -136,9 +146,16 @@ export default function LabPanels() {
               <p className="mt-2 text-[15px] leading-relaxed text-muted-foreground">
                 {panel.description}
               </p>
-              <p className="mt-3 text-[13px] font-medium text-forest">
-                {panel.collection} · Results in days
-              </p>
+              <div className="mt-3 flex items-baseline justify-between gap-4">
+                <p className="text-[13px] font-medium text-forest">
+                  {panel.collection} · Results in days
+                </p>
+                {prices[panel.id] ? (
+                  <p className="font-display text-xl font-semibold text-forest-deep">
+                    ${(prices[panel.id] / 100).toFixed(2)}
+                  </p>
+                ) : null}
+              </div>
               <div className="mt-4 border-t border-linestone pt-4">
                 <button
                   type="button"
