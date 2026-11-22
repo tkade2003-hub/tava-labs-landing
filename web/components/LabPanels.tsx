@@ -56,7 +56,7 @@ export default function LabPanels() {
   }, []);
 
   return (
-    <div className="rounded-[32px] bg-forest-deep p-4 shadow-[0_18px_44px_rgba(8,37,29,0.25)] sm:p-6">
+    <div className="rounded-[32px] bg-[#17100D] p-4 shadow-[0_18px_44px_rgba(23,16,13,0.35)] sm:p-6">
       <div className="flex flex-col gap-4">
         <div className={tile}>
           <p className="text-[11px] font-semibold tracking-[0.18em] text-champagne uppercase">
@@ -149,7 +149,7 @@ export default function LabPanels() {
                   <h4 className="text-[1.375rem] leading-snug font-semibold text-white">
                     {panel.name}
                   </h4>
-                  <span className="shrink-0 rounded-full bg-champagne px-3 py-1 text-[12px] font-semibold whitespace-nowrap text-forest-deep">
+                  <span className="shrink-0 rounded-full bg-champagne px-3 py-1 text-[12px] font-semibold whitespace-nowrap text-[#2A1710]">
                     {panel.markerCount} markers
                   </span>
                 </div>

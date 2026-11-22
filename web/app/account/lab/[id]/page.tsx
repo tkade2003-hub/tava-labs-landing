@@ -23,9 +23,9 @@ interface MarkerResult {
 type MarkerStatus = "optimal" | "inRange" | "attention" | "unknown";
 
 const STATUS_COLOR: Record<MarkerStatus, string> = {
-  optimal: "#3dcc8c",
-  inRange: "#b78b45",
-  attention: "#ed948c",
+  optimal: "#25c7ff",
+  inRange: "#f5a640",
+  attention: "#f59eb5",
   unknown: "rgba(255,255,255,0.35)",
 };
 
@@ -121,7 +121,7 @@ function BalanceRing({
   const C = 2 * Math.PI * R;
   let acc = 0;
   return (
-    <div className="relative h-[218px] w-[218px]" style={{ filter: "drop-shadow(0 0 22px rgba(61,204,140,0.25))" }}>
+    <div className="relative h-[218px] w-[218px]" style={{ filter: "drop-shadow(0 0 22px rgba(37,199,255,0.25))" }}>
       <svg viewBox="0 0 218 218" className="h-full w-full -rotate-90">
         <circle cx="109" cy="109" r={R} fill="none" stroke="rgba(255,255,255,0.08)" strokeWidth="15" />
         {segments.map((seg, i) => {
@@ -242,14 +242,14 @@ function LabResultInner() {
       <section className="mx-auto w-full max-w-[72rem] px-5 pt-10 pb-16 sm:px-8 lg:pt-14">
         <Link
           href="/account"
-          className="text-sm font-semibold text-forest underline decoration-gold-soft decoration-2 underline-offset-4"
+          className="text-sm font-semibold text-[#17100D] underline decoration-gold-soft decoration-2 underline-offset-4"
         >
           Back to your account
         </Link>
 
         {state === "missing" || (!order && state === "ready") ? (
           <div className="mt-6 rounded-2xl border border-linestone bg-white p-6 sm:p-7">
-            <h1 className="font-display text-[1.625rem] font-semibold text-forest-deep">
+            <h1 className="font-display text-[1.625rem] font-semibold text-[#2A1710]">
               That lab order was not found
             </h1>
             <p className="mt-2 text-[15px] leading-relaxed text-muted-foreground">
@@ -258,12 +258,12 @@ function LabResultInner() {
             </p>
           </div>
         ) : (
-          <div className="mt-6 rounded-[32px] bg-forest-deep p-4 shadow-[0_18px_44px_rgba(8,37,29,0.25)] sm:p-6">
+          <div className="mt-6 rounded-[32px] bg-[#17100D] p-4 shadow-[0_18px_44px_rgba(23,16,13,0.35)] sm:p-6">
             <div className="flex flex-col gap-4">
               {/* Clinical review header */}
               <div className={tile}>
                 <div className="flex items-start gap-4">
-                  <span className="flex h-14 w-14 shrink-0 items-center justify-center rounded-2xl bg-forest text-[23px] font-extrabold text-white">
+                  <span className="flex h-14 w-14 shrink-0 items-center justify-center rounded-2xl bg-[#291C17] text-[23px] font-extrabold text-white">
                     t.
                   </span>
                   <div>
@@ -400,7 +400,7 @@ function LabResultInner() {
                         type="button"
                         onClick={() => setFilter(null)}
                         className={`shrink-0 rounded-full px-3.5 py-2 text-[13.5px] font-semibold ${
-                          filter === null ? "bg-champagne text-forest-deep" : "bg-white/[0.07] text-white/80"
+                          filter === null ? "bg-champagne text-[#2A1710]" : "bg-white/[0.07] text-white/80"
                         }`}
                       >
                         All ({results.length})
@@ -414,7 +414,7 @@ function LabResultInner() {
                             onClick={() => setFilter(t.status)}
                             className={`shrink-0 rounded-full px-3.5 py-2 text-[13.5px] font-semibold ${
                               filter === t.status
-                                ? "bg-champagne text-forest-deep"
+                                ? "bg-champagne text-[#2A1710]"
                                 : "bg-white/[0.07] text-white/80"
                             }`}
                           >
