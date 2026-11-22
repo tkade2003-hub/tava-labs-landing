@@ -24,7 +24,7 @@ const cormorant = Cormorant_Garamond({
 export const metadata: Metadata = {
   metadataBase: new URL("https://tavalabs.app"),
   icons: {
-    icon: "/assets/tava-logo.svg",
+    icon: "/assets/icon-t-period.svg",
     apple: "/assets/logo-tava-avatar-white-bg.png",
   },
 };
