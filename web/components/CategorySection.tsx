@@ -61,7 +61,7 @@ export interface CategoryConfig {
   heroTitleAccent: string;
   heroCopy: string;
   heroImage?: string;
-  heroVideo?: { webm: string; hevc: string };
+  heroAnim?: string;
   heroBackdrop?: string;
   heroFinePrint?: string;
   stamp?: string;
@@ -93,7 +93,7 @@ const categoryCss = `
 .cat-hero__image{position:absolute;inset:0;z-index:-2;background-size:cover;background-position:center 42%;transform:scale(1.01)}
 .cat-hero__video{position:absolute;left:50%;top:-4%;transform:translateX(-50%);height:150%;aspect-ratio:1/1;z-index:-1;pointer-events:none}
 .cat-hero__shade{position:absolute;inset:0;z-index:0;pointer-events:none}
-.cat-hero__video video{width:100%;height:100%;object-fit:contain;display:block}
+.cat-hero__video img{width:100%;height:100%;object-fit:contain;display:block}
 .cat-hero__content{max-width:670px;position:relative;z-index:1}
 .cat-eyebrow{font-size:12px;letter-spacing:.18em;font-weight:700;margin:0 0 22px;opacity:.85}
 .cat-hero h1,.cat-section-head h2,.cat-protocol__intro h2{font-family:Manrope,sans-serif;font-size:clamp(48px,6.4vw,92px);font-weight:500;letter-spacing:-.065em;line-height:.98;margin:0}
@@ -169,15 +169,12 @@ function Hero({ config }: { config: CategoryConfig }) {
   return (
     <header className="cat-hero">
       <div className="cat-hero__image" style={heroImageStyle} aria-hidden="true" />
-      {config.heroVideo && (
+      {config.heroAnim && (
         <div className="cat-hero__video" aria-hidden="true">
-          <video autoPlay muted loop playsInline preload="auto">
-            <source src={config.heroVideo.hevc} type="video/mp4" />
-            <source src={config.heroVideo.webm} type="video/webm" />
-          </video>
+          <img src={config.heroAnim} alt="" loading="lazy" />
         </div>
       )}
-      {config.heroVideo && (
+      {config.heroAnim && (
         <div
           className="cat-hero__shade"
           style={{
@@ -200,7 +197,7 @@ function Hero({ config }: { config: CategoryConfig }) {
         </div>
         {config.heroFinePrint && <p className="cat-hero__fine">{config.heroFinePrint}</p>}
       </div>
-      {config.stamp && !config.heroVideo && (
+      {config.stamp && !config.heroAnim && (
         <div className="cat-hero__stamp">{config.stamp}</div>
       )}
     </header>

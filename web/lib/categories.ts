@@ -174,10 +174,8 @@ export const BIOMARKERS: CategoryConfig = {
   heroTitleAccent: "on Tava.",
   heroCopy:
     "A clearer picture of your health is coming soon: your key biomarkers, tracked over time, in the Tava app.",
-  heroVideo: {
-    webm: "https://assets.masko.ai/5945b486/glass-body-eizjzqce/body-glow-e46accb5.webm",
-    hevc: "https://assets.masko.ai/5945b486/glass-body-eizjzqce/body-glow-36dfa0ca.mov",
-  },
+  heroAnim:
+    "https://assets.masko.ai/5945b486/glass-body-eizjzqce/body-glow-be26ddcd.gif",
   heroBackdrop:
     "radial-gradient(130% 105% at 76% 36%, #FFE6A8 0%, #F9BE4A 40%, #F08C1E 72%, #DE6E07 100%)",
   theme: { heroRgb: "122, 54, 2" },
