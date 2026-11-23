@@ -8,6 +8,7 @@ import MotionCarousel from "@/components/MotionCarousel";
 import Hero from "@/components/Hero";
 import CategorySection from "@/components/CategorySection";
 import AppTeaser from "@/components/AppTeaser";
+import TrustpilotWidget from "@/components/TrustpilotWidget";
 import { SKINCARE, BIOMARKERS } from "@/lib/categories";
 // PEPTIDES and MENTAL_HEALTH imports return when their sections are unhidden.
 import { Button } from "@/components/ui/button";
@@ -266,6 +267,9 @@ export default function Page() {
           </div>
         </div>
       </section>
+
+      {/* Trustpilot reviews, last section before the footer */}
+      <TrustpilotWidget />
     </SiteShell>
   );
 }
