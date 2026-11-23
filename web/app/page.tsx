@@ -7,6 +7,7 @@ import FreeFrom from "@/components/FreeFrom";
 import MotionCarousel from "@/components/MotionCarousel";
 import Hero from "@/components/Hero";
 import CategorySection from "@/components/CategorySection";
+import AppTeaser from "@/components/AppTeaser";
 import { SKINCARE, BIOMARKERS } from "@/lib/categories";
 // PEPTIDES and MENTAL_HEALTH imports return when their sections are unhidden.
 import { Button } from "@/components/ui/button";
@@ -159,6 +160,9 @@ export default function Page() {
       <div className="my-16 sm:my-24">
         <CategorySection config={BIOMARKERS} />
       </div>
+
+      {/* App teaser, aperture reveal */}
+      <AppTeaser />
 
       {/* What we leave out */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">
