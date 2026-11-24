@@ -21,6 +21,7 @@ const INFO_LINKS = [
   { href: "/ingredients", label: "Ingredients" },
   { href: "/faq", label: "FAQs" },
   { href: "/blog", label: "Blog" },
+  { href: "/research", label: "Research" },
   { href: "/terms", label: "Terms & Conditions" },
   { href: "/privacy", label: "Privacy Policy" },
   { href: "/returns", label: "Returns Policy" },

@@ -7,6 +7,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: "https://tavalabs.app/contact", changeFrequency: "monthly", priority: 0.7 },
     { url: "https://tavalabs.app/faq", changeFrequency: "monthly", priority: 0.7 },
     { url: "https://tavalabs.app/ingredients", changeFrequency: "monthly", priority: 0.8 },
+    { url: "https://tavalabs.app/research", changeFrequency: "monthly", priority: 0.8 },
     { url: "https://tavalabs.app/partners", changeFrequency: "monthly", priority: 0.7 },
     { url: "https://tavalabs.app/glow-brightening-serum", changeFrequency: "monthly", priority: 0.9 },
     { url: "https://tavalabs.app/quiz", changeFrequency: "monthly", priority: 0.9 },
