@@ -21,7 +21,7 @@
    "title": "Comandă confirmată | PDRN Brightening Serum al tău | Tava Labs"
   },
   "contact": {
-   "description": "Contactează Tava Labs pentru asistență pentru produs, ajutor cu comenzile, vânzări en gros, parteneriate și presă. Scrie la talia@tavalabs.app sau sună la 909-906-1308.",
+   "description": "Contactează Tava Labs pentru asistență pentru produs, ajutor cu comenzile, vânzări en gros, parteneriate și presă. Scrie la support@tavalabs.app pentru comenzi și ajutor cu produsele, sau la talia@tavalabs.app pentru vânzări en gros, parteneriate și presă. Sau sună la 909-906-1308.",
    "title": "Contact Tava Labs | Asistență, vânzări și parteneriate"
   },
   "cookies": {
@@ -87,6 +87,10 @@
    "productSupport": "Asistență pentru produs",
    "salesSupport": "Asistență vânzări",
    "wholesale": "En gros"
+  },
+  "contactEmails": {
+   "supportLabel": "Comenzi și ajutor pentru produse",
+   "generalLabel": "Contact general"
   },
   "copyright": "© 2026 Tava Labs · PDRN Brightening Serum pentru fondatori",
   "disclaimer1": "PDRN Brightening Serum este un produs cosmetic. Nu este destinat diagnosticării, tratării, vindecării sau prevenirii vreunei boli. Rezultatele individuale pot varia.",
@@ -961,8 +965,8 @@
     "text": "Tava Labs este un brand exclusiv online. Întrebări? Scrie la "
    },
    {
-    "href": "mailto:talia@tavalabs.app",
-    "text": "talia@tavalabs.app"
+    "href": "mailto:support@tavalabs.app",
+    "text": "support@tavalabs.app"
    },
    {
     "text": "."
@@ -1117,7 +1121,7 @@
    {
     "a": [
      {
-      "text": "Scrie la talia@tavalabs.app sau folosește pagina "
+      "text": "Scrie la support@tavalabs.app sau folosește pagina "
      },
      {
       "href": "/contact",
@@ -1560,8 +1564,8 @@
     "text": "Verifică-ți conexiunea și încearcă din nou. Dacă continuă să se întâmple, scrie la "
    },
    {
-    "href": "mailto:talia@tavalabs.app",
-    "text": "talia@tavalabs.app"
+    "href": "mailto:support@tavalabs.app",
+    "text": "support@tavalabs.app"
    },
    {
     "text": " și rezolvăm noi."
@@ -1681,8 +1685,8 @@
      "text": "Scrie la "
     },
     {
-     "href": "mailto:talia@tavalabs.app",
-     "text": "talia@tavalabs.app"
+     "href": "mailto:support@tavalabs.app",
+     "text": "support@tavalabs.app"
     },
     {
      "text": " sau sună la "

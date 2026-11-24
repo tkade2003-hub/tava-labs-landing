@@ -22,7 +22,7 @@
   },
   "contact": {
    "title": "Ota yhteyttä Tava Labsiin | Tuki, myynti ja kumppanuudet",
-   "description": "Ota yhteyttä Tava Labsiin tuotetuesta, tilausavusta, tukkumyynnistä, kumppanuuksista ja lehdistöstä. Sähköposti talia@tavalabs.app tai soita 909-906-1308."
+   "description": "Ota yhteyttä Tava Labsiin tuotetuesta, tilausavusta, tukkumyynnistä, kumppanuuksista ja lehdistöstä. Lähetä sähköpostia osoitteeseen support@tavalabs.app tilauksista ja tuotetuesta, tai osoitteeseen talia@tavalabs.app tukkumyynnistä, kumppanuuksista ja lehdistöstä. Tai soita 909-906-1308."
   },
   "partners": {
    "title": "Kumppaniksi Tava Labsin kanssa | Ilmainen seerumi ohjelmaasi",
@@ -105,6 +105,10 @@
    "salesSupport": "Myynnin tuki",
    "productSupport": "Tuotetuki",
    "pr": "PR"
+  },
+  "contactEmails": {
+   "supportLabel": "Tilaukset ja tuotetuki",
+   "generalLabel": "Yleinen yhteydenotto"
   },
   "infoLinks": {
    "about": "Tietoa meistä",
@@ -978,8 +982,8 @@
     "text": "Tava Labs on vain verkossa toimiva brändi. Kysymyksiä? Lähetä sähköpostia "
    },
    {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
+    "text": "support@tavalabs.app",
+    "href": "mailto:support@tavalabs.app"
    },
    {
     "text": "."
@@ -1122,7 +1126,7 @@
     "q": "Miten otan teihin yhteyttä?",
     "a": [
      {
-      "text": "Lähetä sähköpostia osoitteeseen talia@tavalabs.app tai käytä "
+      "text": "Lähetä sähköpostia osoitteeseen support@tavalabs.app tai käytä "
      },
      {
       "text": "Ota yhteyttä",
@@ -1530,8 +1534,8 @@
     "text": "Tarkista yhteytesi ja yritä uudelleen. Jos se jatkuu, lähetä sähköpostia "
    },
    {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
+    "text": "support@tavalabs.app",
+    "href": "mailto:support@tavalabs.app"
    },
    {
     "text": " niin hoidamme asian."
@@ -1695,8 +1699,8 @@
      "text": "Lähetä sähköpostia "
     },
     {
-     "text": "talia@tavalabs.app",
-     "href": "mailto:talia@tavalabs.app"
+     "text": "support@tavalabs.app",
+     "href": "mailto:support@tavalabs.app"
     },
     {
      "text": " tai soita "

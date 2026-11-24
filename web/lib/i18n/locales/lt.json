@@ -22,7 +22,7 @@
   },
   "contact": {
    "title": "Susisiekite su Tava Labs | Pagalba, pardavimai ir partnerystė",
-   "description": "Susisiekite su Tava Labs dėl pagalbos dėl produkto, užsakymų, didmeninės prekybos, partnerystės ir spaudos. Rašykite talia@tavalabs.app arba skambinkite 909-906-1308."
+   "description": "Susisiekite su Tava Labs dėl pagalbos dėl produkto, užsakymų, didmeninės prekybos, partnerystės ir spaudos. Rašykite support@tavalabs.app dėl užsakymų ir pagalbos dėl produktų, arba talia@tavalabs.app dėl didmeninės prekybos, partnerystės ir spaudos. Arba skambinkite 909-906-1308."
   },
   "partners": {
    "title": "Tapkite Tava Labs partneriu | Nemokamas serumas jūsų programai",
@@ -105,6 +105,10 @@
    "salesSupport": "Pardavimų pagalba",
    "productSupport": "Pagalba dėl produkto",
    "pr": "Viešieji ryšiai"
+  },
+  "contactEmails": {
+   "supportLabel": "Užsakymai ir pagalba dėl produktų",
+   "generalLabel": "Bendras kontaktas"
   },
   "infoLinks": {
    "about": "Apie mus",
@@ -978,8 +982,8 @@
     "text": "Tava Labs yra tik internetu veikiantis prekės ženklas. Klausimai? Rašykite "
    },
    {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
+    "text": "support@tavalabs.app",
+    "href": "mailto:support@tavalabs.app"
    },
    {
     "text": "."
@@ -1122,7 +1126,7 @@
     "q": "Kaip su jumis susisiekti?",
     "a": [
      {
-      "text": "Rašykite talia@tavalabs.app arba naudokite "
+      "text": "Rašykite support@tavalabs.app arba naudokite "
      },
      {
       "text": "Susisiekite su mumis",
@@ -1530,8 +1534,8 @@
     "text": "Patikrinkite ryšį ir bandykite dar kartą. Jei tai kartojasi, rašykite "
    },
    {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
+    "text": "support@tavalabs.app",
+    "href": "mailto:support@tavalabs.app"
    },
    {
     "text": " ir mes viską sutvarkysime."
@@ -1695,8 +1699,8 @@
      "text": "Rašykite "
     },
     {
-     "text": "talia@tavalabs.app",
-     "href": "mailto:talia@tavalabs.app"
+     "text": "support@tavalabs.app",
+     "href": "mailto:support@tavalabs.app"
     },
     {
      "text": " arba skambinkite "

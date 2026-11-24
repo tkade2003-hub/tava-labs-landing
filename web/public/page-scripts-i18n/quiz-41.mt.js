@@ -281,7 +281,7 @@ $("#shipForm").addEventListener("submit", async e => {
     next();
   } catch (err) {
     console.error("[Tava funnel] intake failed:", err);
-    errBox.textContent = "Xi ħaġa marret ħażin meta konna qed nagħmlu l ordni tiegħek, id dettalji tiegħek għadhom hawn, jekk jogħġbok erġa pprova. Jekk jibqa jfalli, ibgħat email lil talia@tavalabs.app u aħna nirranġawha.";
+    errBox.textContent = "Xi ħaġa marret ħażin meta konna qed nagħmlu l ordni tiegħek, id dettalji tiegħek għadhom hawn, jekk jogħġbok erġa pprova. Jekk jibqa jfalli, ibgħat email lil support@tavalabs.app u aħna nirranġawha.";
     errBox.style.display = "block";
   } finally {
     btn.disabled = false;

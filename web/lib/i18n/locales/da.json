@@ -22,7 +22,7 @@
   },
   "contact": {
    "title": "Kontakt Tava Labs | Support, salg og partnerskaber",
-   "description": "Kontakt Tava Labs for produktsupport, hjælp til ordrer, engros, partnerskaber og presse. Skriv til talia@tavalabs.app eller ring 909-906-1308."
+   "description": "Kontakt Tava Labs for produktsupport, hjælp til ordrer, engros, partnerskaber og presse. Skriv til support@tavalabs.app for ordrer og produkthjælp, eller til talia@tavalabs.app for engros, partnerskaber og presse. Eller ring 909-906-1308."
   },
   "partners": {
    "title": "Bliv partner med Tava Labs | Gratis serum til dit program",
@@ -105,6 +105,10 @@
    "salesSupport": "Salgssupport",
    "productSupport": "Produktsupport",
    "pr": "PR"
+  },
+  "contactEmails": {
+   "supportLabel": "Ordrer og produkthjælp",
+   "generalLabel": "Generel kontakt"
   },
   "infoLinks": {
    "about": "Om os",
@@ -978,8 +982,8 @@
     "text": "Tava Labs er et brand, der kun findes online. Spørgsmål? Skriv til "
    },
    {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
+    "text": "support@tavalabs.app",
+    "href": "mailto:support@tavalabs.app"
    },
    {
     "text": "."
@@ -1122,7 +1126,7 @@
     "q": "Hvordan kontakter jeg jer?",
     "a": [
      {
-      "text": "Skriv til talia@tavalabs.app eller brug "
+      "text": "Skriv til support@tavalabs.app eller brug "
      },
      {
       "text": "Kontakt os",
@@ -1530,8 +1534,8 @@
     "text": "Tjek din forbindelse og prøv igen. Hvis det bliver ved, så skriv til "
    },
    {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
+    "text": "support@tavalabs.app",
+    "href": "mailto:support@tavalabs.app"
    },
    {
     "text": " og vi ordner det."
@@ -1695,8 +1699,8 @@
      "text": "Skriv til "
     },
     {
-     "text": "talia@tavalabs.app",
-     "href": "mailto:talia@tavalabs.app"
+     "text": "support@tavalabs.app",
+     "href": "mailto:support@tavalabs.app"
     },
     {
      "text": " eller ring "

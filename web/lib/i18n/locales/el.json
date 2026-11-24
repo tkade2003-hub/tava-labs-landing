@@ -22,7 +22,7 @@
   },
   "contact": {
    "title": "Επικοινωνία με τη Tava Labs | Υποστήριξη, Πωλήσεις και Συνεργασίες",
-   "description": "Επικοινωνήστε με τη Tava Labs για υποστήριξη προϊόντων, βοήθεια με παραγγελίες, χονδρική, συνεργασίες και τύπο. Email στο talia@tavalabs.app ή καλέστε στο 909-906-1308."
+   "description": "Επικοινωνήστε με τη Tava Labs για υποστήριξη προϊόντων, βοήθεια με παραγγελίες, χονδρική, συνεργασίες και τύπο. Στείλτε email στο support@tavalabs.app για παραγγελίες και βοήθεια με προϊόντα, ή στο talia@tavalabs.app για χονδρική, συνεργασίες και τύπο. Ή καλέστε στο 909-906-1308."
   },
   "partners": {
    "title": "Συνεργαστείτε με τη Tava Labs | Δωρεάν Serum για το Πρόγραμμά σας",
@@ -105,6 +105,10 @@
    "salesSupport": "Υποστήριξη Πωλήσεων",
    "productSupport": "Υποστήριξη Προϊόντων",
    "pr": "Δημόσιες Σχέσεις"
+  },
+  "contactEmails": {
+   "supportLabel": "Παραγγελίες και βοήθεια για προϊόντα",
+   "generalLabel": "Γενική επικοινωνία"
   },
   "infoLinks": {
    "about": "Σχετικά με εμάς",
@@ -978,8 +982,8 @@
     "text": "Η Tava Labs είναι μια μάρκα μόνο διαδικτυακή. Ερωτήσεις; Στείλτε email στο "
    },
    {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
+    "text": "support@tavalabs.app",
+    "href": "mailto:support@tavalabs.app"
    },
    {
     "text": "."
@@ -1122,7 +1126,7 @@
     "q": "Πώς επικοινωνώ μαζί σας;",
     "a": [
      {
-      "text": "Στείλτε email στο talia@tavalabs.app ή χρησιμοποιήστε τη σελίδα "
+      "text": "Στείλτε email στο support@tavalabs.app ή χρησιμοποιήστε τη σελίδα "
      },
      {
       "text": "Επικοινωνήστε μαζί μας",
@@ -1530,8 +1534,8 @@
     "text": "Ελέγξτε τη σύνδεσή σας και δοκιμάστε ξανά. Εάν συνεχίζεται, στείλτε email στο "
    },
    {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
+    "text": "support@tavalabs.app",
+    "href": "mailto:support@tavalabs.app"
    },
    {
     "text": " και θα το τακτοποιήσουμε."
@@ -1695,8 +1699,8 @@
      "text": "Στείλτε email στο "
     },
     {
-     "text": "talia@tavalabs.app",
-     "href": "mailto:talia@tavalabs.app"
+     "text": "support@tavalabs.app",
+     "href": "mailto:support@tavalabs.app"
     },
     {
      "text": " ή καλέστε στο "

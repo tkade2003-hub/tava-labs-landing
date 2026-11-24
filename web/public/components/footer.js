@@ -47,14 +47,14 @@
       '    </div>',
       '    <div class="f-col">',
       '      <h4>Support</h4>',
-      '      <a href="mailto:talia@tavalabs.app">talia@tavalabs.app</a>',
+      '      <a href="mailto:support@tavalabs.app">support@tavalabs.app</a>',
       '      <a href="shipping.html">Shipping Policy</a>',
       '      <a href="returns.html">Return &amp; Refund Policy</a>',
       '    </div>',
       '  </div>'
     );
   } else {
-    parts.push('  <p style="margin-top:8px;">Questions? <a href="mailto:talia@tavalabs.app">talia@tavalabs.app</a> &middot; <a href="https://tavalabs.app">tavalabs.app</a></p>');
+    parts.push('  <p style="margin-top:8px;">Questions? <a href="mailto:support@tavalabs.app">support@tavalabs.app</a> &middot; <a href="https://tavalabs.app">tavalabs.app</a></p>');
   }
   parts.push(
     '  <nav class="legal-links" aria-label="Legal">',

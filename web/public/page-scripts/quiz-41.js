@@ -281,7 +281,7 @@ $("#shipForm").addEventListener("submit", async e => {
     next();
   } catch (err) {
     console.error("[Tava funnel] intake failed:", err);
-    errBox.textContent = "Something went wrong placing your order — your details are still here, please try again. If it keeps failing, email talia@tavalabs.app and we'll sort it out.";
+    errBox.textContent = "Something went wrong placing your order — your details are still here, please try again. If it keeps failing, email support@tavalabs.app and we'll sort it out.";
     errBox.style.display = "block";
   } finally {
     btn.disabled = false;

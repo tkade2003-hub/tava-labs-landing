@@ -281,7 +281,7 @@
   {
    "k": "orderError",
    "q": "dq",
-   "t": "Tilauksesi tekemisessä meni jotain pieleen. Tietosi ovat vielä täällä, yritä uudelleen. Jos se epäonnistuu edelleen, lähetä sähköpostia osoitteeseen talia@tavalabs.app, niin hoidamme asian."
+   "t": "Tilauksesi tekemisessä meni jotain pieleen. Tietosi ovat vielä täällä, yritä uudelleen. Jos se epäonnistuu edelleen, lähetä sähköpostia osoitteeseen support@tavalabs.app, niin hoidamme asian."
   },
   {
    "k": "thanks.template",

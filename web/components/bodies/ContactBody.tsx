@@ -4,9 +4,12 @@ import { localizeHref, type Locale } from "@/lib/i18n/config";
 
 const TOPIC_IDS = ["general", "wholesale", "sales-support", "product-support", "partnerships", "pr"] as const;
 
+const SUPPORT_TOPICS = new Set(["sales-support", "product-support"]);
+
 export function ContactBody({ locale = "en" }: { locale?: Locale }) {
   const dict = getDictionary(locale);
   const t = dict.contact;
+  const ce = dict.chrome.contactEmails;
   const lh = (href: string) => localizeHref(href, locale);
   return (
     <SiteShell locale={locale}>
@@ -21,7 +24,16 @@ export function ContactBody({ locale = "en" }: { locale?: Locale }) {
           {t.sub}
         </p>
         <p className="mt-4 text-ink/80">
-          {t.emailLabel}{" "}
+          {ce.supportLabel}:{" "}
+          <a
+            href="mailto:support@tavalabs.app"
+            className="font-semibold text-forest underline decoration-gold-soft decoration-2 underline-offset-4"
+          >
+            support@tavalabs.app
+          </a>
+        </p>
+        <p className="mt-2 text-ink/80">
+          {ce.generalLabel}:{" "}
           <a
             href="mailto:talia@tavalabs.app"
             className="font-semibold text-forest underline decoration-gold-soft decoration-2 underline-offset-4"
@@ -49,12 +61,21 @@ export function ContactBody({ locale = "en" }: { locale?: Locale }) {
               <p className="mt-2 leading-relaxed text-ink/75">{topic.body}</p>
               <p className="mt-3 text-sm">
                 {t.emailLabel}{" "}
-                <a
-                  href="mailto:talia@tavalabs.app"
-                  className="font-semibold text-forest underline decoration-gold-soft decoration-2 underline-offset-4"
-                >
-                  talia@tavalabs.app
-                </a>
+                {SUPPORT_TOPICS.has(topic.id) ? (
+                  <a
+                    href="mailto:support@tavalabs.app"
+                    className="font-semibold text-forest underline decoration-gold-soft decoration-2 underline-offset-4"
+                  >
+                    support@tavalabs.app
+                  </a>
+                ) : (
+                  <a
+                    href="mailto:talia@tavalabs.app"
+                    className="font-semibold text-forest underline decoration-gold-soft decoration-2 underline-offset-4"
+                  >
+                    talia@tavalabs.app
+                  </a>
+                )}
               </p>
             </article>
             );

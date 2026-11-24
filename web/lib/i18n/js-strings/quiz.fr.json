@@ -274,7 +274,7 @@
   {
    "k": "orderError",
    "q": "dq",
-   "t": "Une erreur s'est produite lors du passage de votre commande. Vos informations sont toujours là, veuillez réessayer. Si cela continue d'échouer, écrivez à talia@tavalabs.app et nous réglerons cela."
+   "t": "Une erreur s'est produite lors du passage de votre commande. Vos informations sont toujours là, veuillez réessayer. Si cela continue d'échouer, écrivez à support@tavalabs.app et nous réglerons cela."
   },
   {
    "k": "thanks.template",

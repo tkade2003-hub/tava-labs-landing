@@ -274,7 +274,7 @@
   {
    "k": "orderError",
    "q": "dq",
-   "t": "Algo correu mal ao efetuar a sua encomenda. Os seus dados continuam aqui, tente novamente. Se continuar a falhar, envie email para talia@tavalabs.app e nós resolvemos."
+   "t": "Algo correu mal ao efetuar a sua encomenda. Os seus dados continuam aqui, tente novamente. Se continuar a falhar, envie email para support@tavalabs.app e nós resolvemos."
   },
   {
    "k": "thanks.template",

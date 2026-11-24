@@ -281,7 +281,7 @@ $("#shipForm").addEventListener("submit", async e => {
     next();
   } catch (err) {
     console.error("[Tava funnel] intake failed:", err);
-    errBox.textContent = "Beim Aufgeben Ihrer Bestellung ist etwas schiefgelaufen, Ihre Angaben sind noch hier, bitte versuchen Sie es erneut. Wenn es weiter fehlschlägt, schreiben Sie an talia@tavalabs.app und wir kümmern uns darum.";
+    errBox.textContent = "Beim Aufgeben Ihrer Bestellung ist etwas schiefgelaufen, Ihre Angaben sind noch hier, bitte versuchen Sie es erneut. Wenn es weiter fehlschlägt, schreiben Sie an support@tavalabs.app und wir kümmern uns darum.";
     errBox.style.display = "block";
   } finally {
     btn.disabled = false;

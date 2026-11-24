@@ -281,7 +281,7 @@ $("#shipForm").addEventListener("submit", async e => {
     next();
   } catch (err) {
     console.error("[Tava funnel] intake failed:", err);
-    errBox.textContent = "Při odesílání vaší objednávky se něco pokazilo, vaše údaje tu stále jsou, zkuste to prosím znovu. Pokud to bude dál selhávat, napište na talia@tavalabs.app a my to vyřešíme.";
+    errBox.textContent = "Při odesílání vaší objednávky se něco pokazilo, vaše údaje tu stále jsou, zkuste to prosím znovu. Pokud to bude dál selhávat, napište na support@tavalabs.app a my to vyřešíme.";
     errBox.style.display = "block";
   } finally {
     btn.disabled = false;

@@ -22,7 +22,7 @@
   },
   "contact": {
    "title": "Ikkuntattja lil Tava Labs | Appoġġ, Bejgħ u Sħubijiet",
-   "description": "Ikkuntattja lil Tava Labs għall appoġġ dwar il prodott, għajnuna bl ordnijiet, bejgħ bl ingrossa, sħubijiet u stampa. Ibgħat email lil talia@tavalabs.app jew ċempel 909-906-1308."
+   "description": "Ikkuntattja lil Tava Labs għall appoġġ dwar il prodott, għajnuna bl ordnijiet, bejgħ bl ingrossa, sħubijiet u stampa. Ibgħat email lil support@tavalabs.app għall ordnijiet u għajnuna dwar il-prodotti, jew lil talia@tavalabs.app għall bejgħ bl ingrossa, sħubijiet u stampa. Jew ċempel 909-906-1308."
   },
   "partners": {
    "title": "Ingħaqad ma Tava Labs | Serum B'xejn għall Programm Tiegħek",
@@ -105,6 +105,10 @@
    "salesSupport": "Appoġġ tal Bejgħ",
    "productSupport": "Appoġġ tal Prodott",
    "pr": "PR"
+  },
+  "contactEmails": {
+   "supportLabel": "Ordnijiet u għajnuna dwar il-prodotti",
+   "generalLabel": "Kuntatt ġenerali"
   },
   "infoLinks": {
    "about": "Dwarna",
@@ -978,8 +982,8 @@
     "text": "Tava Labs hija marka online biss. Mistoqsijiet? Ibgħat email lil "
    },
    {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
+    "text": "support@tavalabs.app",
+    "href": "mailto:support@tavalabs.app"
    },
    {
     "text": "."
@@ -1122,7 +1126,7 @@
     "q": "Kif nikkuntattjakom?",
     "a": [
      {
-      "text": "Ibgħat email lil talia@tavalabs.app jew uża l "
+      "text": "Ibgħat email lil support@tavalabs.app jew uża l "
      },
      {
       "text": "Ikkuntattjana",
@@ -1530,8 +1534,8 @@
     "text": "Iċċekkja l konnessjoni tiegħek u erġa pprova. Jekk jibqa jiġri, ibgħat email lil "
    },
    {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
+    "text": "support@tavalabs.app",
+    "href": "mailto:support@tavalabs.app"
    },
    {
     "text": " u aħna nirranġawha."
@@ -1695,8 +1699,8 @@
      "text": "Ibgħat email lil "
     },
     {
-     "text": "talia@tavalabs.app",
-     "href": "mailto:talia@tavalabs.app"
+     "text": "support@tavalabs.app",
+     "href": "mailto:support@tavalabs.app"
     },
     {
      "text": " jew ċempel "

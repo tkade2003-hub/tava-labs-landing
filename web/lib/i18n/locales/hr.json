@@ -22,7 +22,7 @@
   },
   "contact": {
    "title": "Kontaktirajte Tava Labs | Podrška, prodaja i partnerstva",
-   "description": "Kontaktirajte Tava Labs za podršku za proizvod, pomoć s narudžbama, veleprodaju, partnerstva i medije. Pišite na talia@tavalabs.app ili nazovite 909-906-1308."
+   "description": "Kontaktirajte Tava Labs za podršku za proizvod, pomoć s narudžbama, veleprodaju, partnerstva i medije. Pišite na support@tavalabs.app za narudžbe i pomoć oko proizvoda, ili na talia@tavalabs.app za veleprodaju, partnerstva i medije. Ili nazovite 909-906-1308."
   },
   "partners": {
    "title": "Postanite partner Tava Labs | Besplatan serum za vaš program",
@@ -105,6 +105,10 @@
    "salesSupport": "Podrška za prodaju",
    "productSupport": "Podrška za proizvod",
    "pr": "Odnosi s javnošću"
+  },
+  "contactEmails": {
+   "supportLabel": "Narudžbe i pomoć oko proizvoda",
+   "generalLabel": "Opći kontakt"
   },
   "infoLinks": {
    "about": "O nama",
@@ -978,8 +982,8 @@
     "text": "Tava Labs je brend koji postoji samo online. Pitanja? Pišite na "
    },
    {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
+    "text": "support@tavalabs.app",
+    "href": "mailto:support@tavalabs.app"
    },
    {
     "text": "."
@@ -1122,7 +1126,7 @@
     "q": "Kako vas mogu kontaktirati?",
     "a": [
      {
-      "text": "Pišite na talia@tavalabs.app ili upotrijebite stranicu "
+      "text": "Pišite na support@tavalabs.app ili upotrijebite stranicu "
      },
      {
       "text": "Kontaktirajte nas",
@@ -1530,8 +1534,8 @@
     "text": "Provjerite vezu i pokušajte ponovno. Ako se nastavi događati, pišite na "
    },
    {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
+    "text": "support@tavalabs.app",
+    "href": "mailto:support@tavalabs.app"
    },
    {
     "text": " i mi ćemo to riješiti."
@@ -1695,8 +1699,8 @@
      "text": "Pišite na "
     },
     {
-     "text": "talia@tavalabs.app",
-     "href": "mailto:talia@tavalabs.app"
+     "text": "support@tavalabs.app",
+     "href": "mailto:support@tavalabs.app"
     },
     {
      "text": " ili nazovite "

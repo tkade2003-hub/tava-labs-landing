@@ -22,7 +22,7 @@
   },
   "contact": {
    "title": "Kontakta Tava Labs | Support, försäljning och partnerskap",
-   "description": "Kontakta Tava Labs för produktsupport, hjälp med beställningar, grossist, partnerskap och press. Mejla talia@tavalabs.app eller ring 909-906-1308."
+   "description": "Kontakta Tava Labs för produktsupport, hjälp med beställningar, grossist, partnerskap och press. Mejla support@tavalabs.app för beställningar och produkthjälp, eller talia@tavalabs.app för grossist, partnerskap och press. Eller ring 909-906-1308."
   },
   "partners": {
    "title": "Samarbeta med Tava Labs | Gratis serum till ditt program",
@@ -105,6 +105,10 @@
    "salesSupport": "Försäljningssupport",
    "productSupport": "Produktsupport",
    "pr": "PR"
+  },
+  "contactEmails": {
+   "supportLabel": "Beställningar och produkthjälp",
+   "generalLabel": "Allmän kontakt"
   },
   "infoLinks": {
    "about": "Om oss",
@@ -978,8 +982,8 @@
     "text": "Tava Labs är ett varumärke som endast finns online. Frågor? Mejla "
    },
    {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
+    "text": "support@tavalabs.app",
+    "href": "mailto:support@tavalabs.app"
    },
    {
     "text": "."
@@ -1122,7 +1126,7 @@
     "q": "Hur kontaktar jag er?",
     "a": [
      {
-      "text": "Mejla talia@tavalabs.app eller använd sidan "
+      "text": "Mejla support@tavalabs.app eller använd sidan "
      },
      {
       "text": "Kontakta oss",
@@ -1530,8 +1534,8 @@
     "text": "Kontrollera din anslutning och försök igen. Om det fortsätter, mejla "
    },
    {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
+    "text": "support@tavalabs.app",
+    "href": "mailto:support@tavalabs.app"
    },
    {
     "text": " så löser vi det."
@@ -1695,8 +1699,8 @@
      "text": "Mejla "
     },
     {
-     "text": "talia@tavalabs.app",
-     "href": "mailto:talia@tavalabs.app"
+     "text": "support@tavalabs.app",
+     "href": "mailto:support@tavalabs.app"
     },
     {
      "text": " eller ring "

@@ -21,7 +21,7 @@
    "title": "Objednávka potvrdená | Vaše PDRN Brightening Serum | Tava Labs"
   },
   "contact": {
-   "description": "Kontaktujte Tava Labs ohľadom podpory k produktom, pomoci s objednávkami, veľkoobchodu, partnerstiev a tlače. Napíšte na talia@tavalabs.app alebo zavolajte na 909-906-1308.",
+   "description": "Kontaktujte Tava Labs ohľadom podpory k produktom, pomoci s objednávkami, veľkoobchodu, partnerstiev a tlače. Napíšte na support@tavalabs.app pre objednávky a pomoc s produktmi, alebo na talia@tavalabs.app pre veľkoobchod, partnerstvá a tlač. Alebo zavolajte na 909-906-1308.",
    "title": "Kontaktujte Tava Labs | Podpora, predaj a partnerstvá"
   },
   "cookies": {
@@ -87,6 +87,10 @@
    "productSupport": "Podpora k produktom",
    "salesSupport": "Podpora predaja",
    "wholesale": "Veľkoobchod"
+  },
+  "contactEmails": {
+   "supportLabel": "Objednávky a pomoc s produktmi",
+   "generalLabel": "Všeobecný kontakt"
   },
   "copyright": "© 2026 Tava Labs · PDRN Brightening Serum pre zakladateľov",
   "disclaimer1": "PDRN Brightening Serum je kozmetický produkt. Nie je určený na diagnostiku, liečbu, vyliečenie ani prevenciu žiadneho ochorenia. Jednotlivé výsledky sa môžu líšiť.",
@@ -961,8 +965,8 @@
     "text": "Tava Labs je značka dostupná iba online. Máte otázky? Napíšte na "
    },
    {
-    "href": "mailto:talia@tavalabs.app",
-    "text": "talia@tavalabs.app"
+    "href": "mailto:support@tavalabs.app",
+    "text": "support@tavalabs.app"
    },
    {
     "text": "."
@@ -1117,7 +1121,7 @@
    {
     "a": [
      {
-      "text": "Napíšte na talia@tavalabs.app alebo použite stránku "
+      "text": "Napíšte na support@tavalabs.app alebo použite stránku "
      },
      {
       "href": "/contact",
@@ -1530,8 +1534,8 @@
     "text": "Skontrolujte svoje pripojenie a skúste to znova. Ak sa to deje aj naďalej, napíšte na "
    },
    {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
+    "text": "support@tavalabs.app",
+    "href": "mailto:support@tavalabs.app"
    },
    {
     "text": " a my to vyriešime."
@@ -1695,8 +1699,8 @@
      "text": "Napíšte na "
     },
     {
-     "text": "talia@tavalabs.app",
-     "href": "mailto:talia@tavalabs.app"
+     "text": "support@tavalabs.app",
+     "href": "mailto:support@tavalabs.app"
     },
     {
      "text": " alebo zavolajte na "

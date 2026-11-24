@@ -106,6 +106,18 @@ export default function Footer({
                   </Link>
                 </li>
               ))}
+              <li className="pt-2 text-[#fafaf9]/85">
+                {c.contactEmails.supportLabel}:{" "}
+                <a href="mailto:support@tavalabs.app" className="underline underline-offset-4 hover:text-white">
+                  support@tavalabs.app
+                </a>
+              </li>
+              <li className="text-[#fafaf9]/85">
+                {c.contactEmails.generalLabel}:{" "}
+                <a href="mailto:talia@tavalabs.app" className="underline underline-offset-4 hover:text-white">
+                  talia@tavalabs.app
+                </a>
+              </li>
             </ul>
           </nav>
 
