@@ -22,6 +22,9 @@ const INFO_LINKS = [
   { href: "/faq", label: "FAQs" },
   { href: "/blog", label: "Blog" },
   { href: "/research", label: "Research" },
+];
+
+const LEGAL_LINKS = [
   { href: "/terms", label: "Terms & Conditions" },
   { href: "/privacy", label: "Privacy Policy" },
   { href: "/returns", label: "Returns Policy" },
@@ -39,7 +42,7 @@ export default function Footer() {
   return (
     <footer className="bg-forest text-[#fafaf9]">
       <div className="mx-auto max-w-7xl px-5 py-14 sm:px-8">
-        <div className="grid gap-12 lg:grid-cols-[1.3fr_1fr_1fr_1fr]">
+        <div className="grid gap-12 lg:grid-cols-[1.3fr_1fr_1fr_1fr_1fr]">
           <div>
             <Logo className="h-8 w-auto" />
             <p className="mt-5 max-w-xs gold-word text-xl">
@@ -105,6 +108,21 @@ export default function Footer() {
             </h3>
             <ul className="mt-4 space-y-2.5 text-sm">
               {INFO_LINKS.map((item) => (
+                <li key={item.href}>
+                  <Link href={item.href} className="text-[#fafaf9]/85 hover:text-white">
+                    {item.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </nav>
+
+          <nav aria-label="Legal">
+            <h3 className="text-sm font-semibold tracking-wide gold-metal-text">
+              Legal
+            </h3>
+            <ul className="mt-4 space-y-2.5 text-sm">
+              {LEGAL_LINKS.map((item) => (
                 <li key={item.href}>
                   <Link href={item.href} className="text-[#fafaf9]/85 hover:text-white">
                     {item.label}
