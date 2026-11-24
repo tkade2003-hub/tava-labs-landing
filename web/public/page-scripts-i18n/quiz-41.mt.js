@@ -1,0 +1,308 @@
+
+"use strict";
+/* ============================================================
+   CONFIG — set FUNNEL_INTAKE_URL to the deployed funnel-intake
+   edge function URL to go live, e.g.
+   "https://<project>.supabase.co/functions/v1/funnel-intake".
+   While it is empty the page runs in DEMO mode: no charge, no
+   network call — the payload is logged + saved to localStorage.
+   ============================================================ */
+const FUNNEL_INTAKE_URL = "https://vuzrpgkqytzvbbxwsvqr.supabase.co/functions/v1/funnel-intake";
+
+const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
+const PRICES = { subscribe: 39, one_time: 49 };
+
+const GOAL_LABEL = { radiance: "dawl u radjanza", fine_lines: "linji fini", hydration: "idratazzjoni fil fond", even_tone: "ton uniformi" };
+const SKIN_LABEL = { dry: "Nixfa", oily: "Żejtnija", combination: "Kombinazzjoni", sensitive: "Sensittiva", not_sure: "Għadni nifhem" };
+const CONCERN_LABEL = { dullness: "matt", fine_lines: "linji fini", uneven_tone: "ton mhux uniformi", texture: "nisġa ħarxa", dryness: "nixfa" };
+
+const NOT_ALONE = {
+  radiance: "Il fundaturi u l kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Ġilda matta u li tidher għajjiena hija waħda mill aktar raġunijiet komuni għaliex in nies jibdew rutina bis serum. Il PDRN Brightening Serum huwa mibni madwar il PDRN u l peptidi, f formula ħafifa mfassla biex ittejjeb id dehra ta ġilda lixxa u radjanti, u tħalliha tidher mimlija, ratba u friska, filgħodu u billejl.",
+  fine_lines: "Il fundaturi u l kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Il linji fini huma ġeneralment l ewwel ħaġa li n nies iridu serum għaliha. Din il formula tgħaqqad l acetyl hexapeptide-8 mal PDRN, ingredjenti magħżula biex jappoġġaw ġilda li tidher aktar lixxa u luminuża, f pass wieħed, darbtejn kuljum. L ebda rutina ta għaxar passi meħtieġa.",
+  hydration: "Il fundaturi u l kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Ġilda li tħossha ssikkata u għatxana sa nofsinhar hija eżatt dak li dan is serum huwa magħmul għalih. Taħlita ta glycerin, sodium PCA u sodium hyaluronate tipprovdi idratazzjoni fil fond, filwaqt li l panthenol jikkundizzjona, biex il ġilda tħossha komda u tidher mimlija, mhux żejtnija.",
+  even_tone: "Il fundaturi u l kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Karnaġġjon li jidher mhux uniformi huwa frustrazzjoni komuni. Il PDRN u l peptidi jgħinu biex jippromwovu karnaġġjon li jidher aktar luminuż u vibranti, u l formula ħafifa tiġi assorbita malajr u faċilment, pass sempliċi darbtejn kuljum lejn dehra aktar uniformi."
+};
+
+/* Ingredient groups from the verified Supliful listing. Cosmetic language only. */
+const INGREDIENTS = [
+  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Jgħin biex jippromwovi karnaġġjon li jidher aktar luminuż u vibranti u jtejjeb id dehra ta ġilda lixxa u radjanti.", match: ["radiance", "matt", "uneven_tone", "even_tone"] },
+  { key: "peptide", name: "Acetyl hexapeptide-8", text: "Peptide li jaħdem flimkien mal PDRN biex jappoġġa ġilda li tidher aktar lixxa u uniformi.", match: ["fine_lines", "texture"] },
+  { key: "ha", name: "Aċidu jaluroniku, glycerin u sodium PCA", text: "Taħlita ta idratazzjoni li tiġbed l umdità għal sensazzjoni mimlija u komda u nisġa lixxa bħall ħarir.", match: ["hydration", "nixfa"] },
+  { key: "panthenol", name: "Panthenol", text: "Jikkundizzjona l ġilda, u jħalliha ratba u komda, bażi ġentili għal ġilda li tirreaġixxi faċilment.", match: ["sensitive"] }
+];
+
+const RAMPS = {
+  often:    { key: "gentle",   lines: ["Ġimgħa 1, filgħaxijiet biss, lejl iva u lejl le", "Ġimgħa 2, kull filgħaxija", "Ġimgħat 3 sa 4, filgħodu u filgħaxija"] },
+  sometimes:{ key: "standard", lines: ["Ġranet 1 sa 3, filgħaxijiet biss", "Minn jum 4 il quddiem, filgħodu u filgħaxija"] },
+  never:    { key: "full",     lines: ["Minn jum 1, filgħodu u filgħaxija, darbtejn kuljum"] }
+};
+
+const ROUTINE_FIT = {
+  cleanser_only: "Jidħol eżatt wara t tindif, pass wieħed miżjud, madwar minuta.",
+  few_products: "Jmur wara t tindif, qabel l idratant tiegħek.",
+  full_routine: "Jistratifika wara t tindif u qabel l idratant u l SPF, mingħajr ma ċċedi xejn."
+};
+
+const state = {
+  answers: { goal: null, skinType: null, concern: null, sensitivity: null, routine: null, amTime: "07:30", pmTime: "22:00" },
+  email: "",
+  purchaseType: "subscribe"
+};
+
+const FLOW = ["hook", "goal", "notalone", "skinType", "concern", "match", "sensitivity", "routine", "times", "email", "plan", "checkout", "thanks"];
+let current = 0;
+const historyStack = [];
+
+const $ = (s, r) => (r || document).querySelector(s);
+const $$ = (s, r) => [...(r || document).querySelectorAll(s)];
+
+function fmtTime(hhmm) {
+  const [h, m] = hhmm.split(":").map(Number);
+  const suffix = h >= 12 ? "PM" : "AM";
+  const h12 = h % 12 === 0 ? 12 : h % 12;
+  return h12 + ":" + String(m).padStart(2, "0") + " " + suffix;
+}
+
+function show(index, push = true) {
+  if (push && FLOW[index] !== FLOW[current]) historyStack.push(current);
+  current = index;
+  const name = FLOW[index];
+  $$(".screen").forEach(s => s.classList.toggle("active", s.dataset.screen === name));
+  const screen = $(`.screen[data-screen="${name}"]`);
+  const zone = $("#progressZone");
+  const hasBar = screen.dataset.progress !== undefined;
+  zone.hidden = !hasBar;
+  if (hasBar) {
+    $("#barFill").style.width = screen.dataset.progress + "%";
+    $("#stepLabel").textContent = screen.dataset.stepLabel || "";
+  }
+  $("#backBtn").classList.toggle("show", historyStack.length > 0 && name !== "thanks");
+  document.body.classList.toggle("planstep", name === "plan");
+  if (name === "notalone") renderNotAlone();
+  if (name === "match") renderMatch();
+  if (name === "plan") renderPlan();
+  if (name === "plan" && window.posthog && !window.__tavaQuizCompleted) { window.__tavaQuizCompleted = true; posthog.capture("quiz_completed"); }
+  window.scrollTo({ top: 0, behavior: "instant" });
+}
+
+function next() { if (current < FLOW.length - 1) show(current + 1); }
+
+$("#backBtn").addEventListener("click", () => {
+  if (!historyStack.length) return;
+  const prev = historyStack.pop();
+  show(prev, false);
+});
+
+$$("[data-next]").forEach(btn => btn.addEventListener("click", next));
+
+/* Single-choice groups: select, then auto-advance (unless checkout purchase type). */
+$$("[data-choice-group]").forEach(group => {
+  const key = group.dataset.choiceGroup;
+  group.addEventListener("click", e => {
+    const btn = e.target.closest(".choice");
+    if (!btn) return;
+    $$(".choice", group).forEach(c => c.classList.toggle("selected", c === btn));
+    if (key === "purchaseType") {
+      state.purchaseType = btn.dataset.value;
+      syncBuyButton();
+      return;
+    }
+    state.answers[key] = btn.dataset.value;
+    setTimeout(next, 260);
+  });
+});
+
+/* Time chips + custom inputs */
+$$("[data-time-chips]").forEach(group => {
+  const key = group.dataset.timeChips;
+  const custom = key === "amTime" ? $("#amCustom") : $("#pmCustom");
+  const sync = () => {
+    $$(".chip", group).forEach(c => c.classList.toggle("selected", c.dataset.value === state.answers[key]));
+    custom.value = $$(".chip", group).some(c => c.dataset.value === state.answers[key]) ? "" : state.answers[key];
+  };
+  group.addEventListener("click", e => {
+    const chip = e.target.closest(".chip");
+    if (!chip) return;
+    state.answers[key] = chip.dataset.value;
+    sync();
+  });
+  custom.addEventListener("change", () => { if (custom.value) { state.answers[key] = custom.value; sync(); } });
+  sync();
+});
+
+/* Email step */
+$("#emailNext").addEventListener("click", () => {
+  const v = $("#emailInput").value.trim();
+  const ok = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v);
+  $("#emailErr").style.display = ok ? "none" : "block";
+  if (!ok) return;
+  state.email = v;
+  next();
+});
+
+function renderNotAlone() {
+  const g = state.answers.goal || "radiance";
+  $("#naTitle").textContent = "M intix waħdek. " + GOAL_LABEL[g] + " huwa fejn il biċċa l kbira tan nies jibdew.";
+  $("#naBody").textContent = NOT_ALONE[g];
+}
+
+function renderMatch() {
+  const wanted = [state.answers.goal, state.answers.concern, state.answers.skinType];
+  const scored = INGREDIENTS.map((ing, i) => ({
+    ing, i,
+    score: ing.match.some(m => wanted.includes(m)) ? 1 : 0
+  })).sort((a, b) => b.score - a.score || a.i - b.i);
+  const top = scored[0].ing.key;
+  $("#matchBox").innerHTML = scored.map(({ ing }) =>
+    `<div class="ing"><span class="name">${ing.name}</span>${ing.key === top ? '<span class="tag">Your top match</span>' : ""}<p>${ing.text}</p></div>`
+  ).join("");
+}
+
+function buildPlan() {
+  const a = state.answers;
+  const ramp = RAMPS[a.sensitivity || "sometimes"];
+  const summary =
+    `Pjan ta 30 jum għal ${GOAL_LABEL[a.goal]}: ${SKIN_LABEL[a.skinType]} ġilda, tħassib prinċipali ${CONCERN_LABEL[a.concern]}. ` +
+    `Żieda gradwali: ${ramp.key} (${ramp.lines.join("; ")}). Applika fis ${fmtTime(a.amTime)} u fis ${fmtTime(a.pmTime)}. ` +
+    ROUTINE_FIT[a.routine];
+  return { rampSchedule: ramp.key, rampLines: ramp.lines, summary };
+}
+
+function renderPlan() {
+  const a = state.answers;
+  const plan = buildPlan();
+  $("#planTitle").textContent = "PDRN Brightening Serum";
+  $("#goalChips").innerHTML = [GOAL_LABEL[a.goal], CONCERN_LABEL[a.concern], SKIN_LABEL[a.skinType]]
+    .map(s => `<span class="gchip">${s}</span>`).join("");
+  $("#planBox").innerHTML = `
+    <p class="mirrorline">${SKIN_LABEL[a.skinType]} ġilda · fokus fuq ${CONCERN_LABEL[a.concern]} · għan: ${GOAL_LABEL[a.goal]}</p>
+    <div class="planrow"><span class="k">Żieda gradwali</span><span class="v">${plan.rampLines.join("<br>")}</span></div>
+    <div class="planrow"><span class="k">Il ħinijiet tiegħek</span><span class="v">${fmtTime(a.amTime)} u ${fmtTime(a.pmTime)}, tfakki riet f dawk il ħinijiet biss</span></div>
+    <div class="planrow"><span class="k">Kif tidħol fir rutina</span><span class="v">${ROUTINE_FIT[a.routine]}</span></div>
+    <div class="planrow"><span class="k">Il flixkun</span><span class="v">PDRN Brightening Serum, 1 fl oz (30 ml), daqs għall użu darbtejn kuljum</span></div>`;
+}
+
+/* Checkout */
+const DEMO = FUNNEL_INTAKE_URL.trim() === "";
+if (DEMO) $("#demoBanner").hidden = false;
+
+function syncBuyButton() {
+  const sub = state.purchaseType === "subscribe";
+  $("#buyBtn").textContent = (sub ? "Ibda l abbonament tiegħi" : "Ixtri darba") + " — $" + PRICES[state.purchaseType];
+  $("#payNote").textContent = sub
+    ? "L abbonament jiġġedded kull 30 jum għal $39. Waqqaf jew ikkanċella fi kwalunkwe ħin."
+    : "Xiri ta darba ta $49. L ebda abbonament.";
+}
+
+function field(id) { return $("#" + id).value.trim(); }
+
+function buildPayload() {
+  const a = state.answers;
+  const plan = buildPlan();
+  return {
+    email: state.email,
+    source: "quiz-funnel",
+    answers: {
+      goal: a.goal, skinType: a.skinType, concern: a.concern,
+      sensitivity: a.sensitivity, routine: a.routine,
+      amTime: a.amTime, pmTime: a.pmTime
+    },
+    plan: { rampSchedule: plan.rampSchedule, summary: plan.summary },
+    order: {
+      productId: PRODUCT.productId, sku: PRODUCT.sku, quantity: 1,
+      purchaseType: state.purchaseType, price: PRICES[state.purchaseType]
+    },
+    shippingAddress: {
+      firstName: field("firstName"), lastName: field("lastName"),
+      address1: field("address1"), address2: field("address2"),
+      city: field("city"), stateCode: field("stateCode").toUpperCase(),
+      zip: field("zip"), countryCode: field("countryCode"), phone: field("phone")
+    }
+  };
+}
+
+function validateShipping(p) {
+  const s = p.shippingAddress;
+  const missing = [];
+  if (!s.firstName) missing.push("isem");
+  if (!s.lastName) missing.push("kunjom");
+  if (!s.address1) missing.push("indirizz tat triq");
+  if (!s.city) missing.push("belt");
+  if (!s.stateCode) missing.push("stat");
+  if (!s.zip) missing.push("kodiċi ZIP");
+  if (!p.email) missing.push("email");
+  return missing;
+}
+
+$("#shipForm").addEventListener("submit", async e => {
+  e.preventDefault();
+  const payload = buildPayload();
+  const errBox = $("#shipErr");
+  const missing = validateShipping(payload);
+  if (missing.length) {
+    errBox.textContent = "Kważi hemm, żid " + missing.join(", ") + ".";
+    errBox.style.display = "block";
+    return;
+  }
+  errBox.style.display = "none";
+  if (window.posthog) posthog.capture("checkout_clicked", { purchase_type: payload.order.purchaseType, price: payload.order.price });
+  const btn = $("#buyBtn");
+  btn.disabled = true;
+  btn.textContent = "Qed nagħmlu l ordni tiegħek…";
+
+  if (DEMO) {
+    console.log("[Tava funnel · DEMO] payload:", JSON.stringify(payload, null, 2));
+    try { localStorage.setItem("tava_funnel_payload", JSON.stringify(payload)); } catch (_) {}
+    renderThanks(payload, true);
+    btn.disabled = false;
+    syncBuyButton();
+    next();
+    return;
+  }
+
+  try {
+    const res = await fetch(FUNNEL_INTAKE_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload)
+    });
+    if (!res.ok) throw new Error("Intake returned " + res.status);
+    const data = await res.json().catch(() => null);
+    if (data && data.checkoutUrl) {
+      // Stripe-hosted checkout: hand the buyer off. After payment, Stripe
+      // returns them to APP_PUBLIC_URL/checkout/success; if they back out,
+      // to /checkout/cancel. The thank-you screen below is only a fallback
+      // for an intake response without a checkout URL.
+      btn.textContent = "Qed neħduk għall ħlas sigur…";
+      window.location.href = data.checkoutUrl;
+      return;
+    }
+    renderThanks(payload, false);
+    next();
+  } catch (err) {
+    console.error("[Tava funnel] intake failed:", err);
+    errBox.textContent = "Xi ħaġa marret ħażin meta konna qed nagħmlu l ordni tiegħek, id dettalji tiegħek għadhom hawn, jekk jogħġbok erġa pprova. Jekk jibqa jfalli, ibgħat email lil talia@tavalabs.app u aħna nirranġawha.";
+    errBox.style.display = "block";
+  } finally {
+    btn.disabled = false;
+    syncBuyButton();
+  }
+});
+
+function renderThanks(p, demo) {
+  $("#thanksDemo").hidden = !demo;
+  const s = p.shippingAddress;
+  const plan = buildPlan();
+  $("#thanksBox").innerHTML = `
+    <h3>Sommarju tal ordni</h3>
+    <div class="planrow"><span class="k">Prodott</span><span class="v">PDRN Brightening Serum · 1 fl oz (30 ml) · ×1</span></div>
+    <div class="planrow"><span class="k">${p.order.purchaseType === "subscribe" ? "Subscription" : "One-time"}</span><span class="v">$${p.order.price}${p.order.purchaseType === "subscribe" ? " every 30 days — pause or cancel anytime" : ""}</span></div>
+    <div class="planrow"><span class="k">Jintbagħat lil</span><span class="v">${s.firstName} ${s.lastName}, ${s.city}, ${s.stateCode} ${s.zip}</span></div>
+    <div class="planrow"><span class="k">Il pjan tiegħek</span><span class="v">${plan.rampLines.join(" · ")}<br>Tfakki riet fis ${fmtTime(p.answers.amTime)} u fis ${fmtTime(p.answers.pmTime)}</span></div>
+    <div class="planrow"><span class="k">Pjan mibgħut lil</span><span class="v">${p.email}</span></div>`;
+  $("#carryLine").textContent =
+    `Idħol fl app b ${p.email}, l istess email li użajt hawn, u t tweġibiet tiegħek, il pjan ta 30 jum tiegħek u din l ordni diġà qegħdin hemm. Xejn ma għandek terġa ttajpja.`;
+}
+
+syncBuyButton();
+show(0, false);
