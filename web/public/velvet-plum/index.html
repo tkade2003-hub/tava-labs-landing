@@ -273,7 +273,8 @@
 <script src="models/cranberry.js"></script>
 <script src="models/aloe.js"></script>
 <script src="models/moringa.js"></script>
-<script src="models/jar.js"></script>
+<script src="models/jar-a.js"></script>
+<script src="models/jar-b.js"></script>
 <script type="importmap">
 {
   "imports": {
@@ -361,7 +362,8 @@ let loadedCount = 0;
 /* models ship embedded as base64 in models/*.js because the repo push route
    carries text only; decode each one to a blob URL the loader can fetch */
 function modelURL(name) {
-  const b64 = (window.VP_MODELS || {})[name];
+  let b64 = (window.VP_MODELS || {})[name];
+  if (!b64 && name === 'jar' && window.VP_JAR_A) b64 = window.VP_JAR_A + (window.VP_JAR_B || '');
   if (!b64) return null;
   const bin = atob(b64);
   const bytes = new Uint8Array(bin.length);
