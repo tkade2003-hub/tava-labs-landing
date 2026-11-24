@@ -96,7 +96,7 @@
     "openMenu": "Otwórz menu",
     "closeMenu": "Zamknij menu",
     "language": "Język",
-    "tagline": "PDRN Brightening Serum dla założycieli firm",
+    "tagline": "Pielęgnacja skóry dla przedsiębiorców",
     "shopHeading": "Sklep",
     "contactHeading": "Kontakt",
     "infoHeading": "Informacje",
@@ -133,7 +133,7 @@
     },
     "disclaimer1": "PDRN Brightening Serum to produkt kosmetyczny. Nie jest przeznaczony do diagnozowania, leczenia ani zapobiegania żadnej chorobie. Indywidualne rezultaty mogą się różnić.",
     "disclaimer2": "Każda sprzedaż jest ostateczna. Przed złożeniem zamówienia zapoznaj się z naszą Polityką zwrotów.",
-    "copyright": "© 2026 Tava Labs · PDRN Brightening Serum dla założycieli firm",
+    "copyright": "© 2026 Tava Labs · Pielęgnacja skóry dla przedsiębiorców",
     "notFoundLabel": "Tava Labs",
     "notFoundTitle": "Nie znaleziono strony",
     "notFoundBody": "Tej strony tutaj nie ma. Mogła zostać przeniesiona albo adres jest niepełny.",
@@ -176,18 +176,18 @@
   "home": {
     "introTitleLead": "Jaśniejsza, nawilżona,",
     "introTitleAccent": "skóra o zdrowym wyglądzie",
-    "introBody": "Założyciele firm i właściciele biznesów spędzają dni na spotkaniach, rozmowach sprzedażowych i nagraniach wideo. Twoja twarz jest na ekranie i w pomieszczeniu przez cały ten czas. PDRN Brightening Serum to jeden lekki krok z PDRN, peptydami i kwasem hialuronowym. Szybko się wchłania i pomaga skórze wyglądać jaśniej, nawilżonej i gładko. Dwie minuty, dwa razy dziennie.",
+    "introBody": "Założyciele firm i właściciele biznesów są przed kamerą i na spotkaniach przez cały dzień, a Twoja twarz jest częścią każdej prezentacji. Jeden krok z PDRN, peptydami i kwasem hialuronowym pomaga skórze wyglądać na jaśniejszą, nawilżoną i gładką, w dwie minuty, dwa razy dziennie.",
     "marqueeTagline": "Jedno serum, rano i wieczorem",
     "marqueeSlogan": "Stworzone dla założycieli firm i właścicieli biznesów",
     "buildersTitle": "Stworzone dla założycieli firm i właścicieli biznesów",
     "buildersTagline": "Buduj swoją firmę. Nie zaniedbuj siebie.",
-    "buildersBody": "Założyciele firm i właściciele biznesów prezentują się przez cały dzień. Prezentujesz inwestorom osobiście, sprzedajesz na rozmowach wideo i nagrywasz filmy dla klientów. Czysty i wypoczęty wygląd jest częścią dobrego prezentowania swojej firmy. Krótka codzienna rutyna pielęgnacyjna stoi obok dobrego ubioru i niezawodnego laptopa jako podstawowa dbałość o siebie. PDRN Brightening Serum zajmuje dwie minuty, rano i wieczorem.",
+    "buildersBody": "Założyciele firm i właściciele biznesów prezentują się przez cały dzień: prezentacje dla inwestorów, rozmowy sprzedażowe i nagrane filmy. Dwuminutowa rutyna z serum, rano i wieczorem, to podstawowa dbałość, obok dobrego ubioru i niezawodnego laptopa.",
     "pitchAlt": "Założyciel firmy prezentujący swój pomysł inwestorowi",
     "pitchTitle": "Podczas prezentacji",
-    "pitchBody": "Gdy prezentujesz inwestorom osobiście, widzą najpierw Ciebie, a dopiero potem Twoje slajdy. Codzienna rutyna z serum pomaga Twojej skórze wyglądać jasno, nawilżonej i wypoczętej tego dnia.",
+    "pitchBody": "Inwestorzy widzą najpierw Ciebie, a dopiero potem Twoje slajdy. Codzienne serum pomaga Twojej skórze wyglądać na jasną, nawilżoną i wypoczętą.",
     "cameraAlt": "Założyciel firmy mówiący przed kamerą",
     "cameraTitle": "Przed kamerą",
-    "cameraBody": "Na nagraniu wideo, podcaście lub rozmowie sprzedażowej kamera pokazuje zmęczoną skórę z bliska. Dwuminutowa rutyna rano i wieczorem pomaga Twojej skórze wyglądać na wypoczętą, zanim zaczniesz nagrywać.",
+    "cameraBody": "Kamera pokazuje zmęczoną skórę z bliska. Dwuminutowa rutyna, rano i wieczorem, pomaga Twojej skórze wyglądać na wypoczętą, zanim zaczniesz nagrywać.",
     "maintenanceTitle": "Jedno serum to cała rutyna.",
     "maintenanceBody": "Nakładaj dwie do czterech kropli PDRN Brightening Serum na czystą, suchą skórę, rano i wieczorem, a potem nałóż krem nawilżający. Cała rutyna zajmuje około dwóch minut dziennie.",
     "motionTitle": "Obejrzyj filmy klientów",
@@ -234,7 +234,7 @@
     ],
     "founderLabel": "Wiadomość od naszego założyciela",
     "founderQuote": "„Jedno serum, dwie minuty, rano i wieczorem. To cała rutyna.”",
-    "founderBody1": "Na tym opiera się Tava Labs. PDRN Brightening Serum to jeden krok, wokół którego zbudowana jest rutyna: dwie minuty, dwa razy dziennie, rano i wieczorem.",
+    "founderBody1": "PDRN Brightening Serum to jeden krok, wokół którego zbudowana jest rutyna. Dwie minuty, dwa razy dziennie, rano i wieczorem.",
     "founderBody2": "Obejrzyj film, aby usłyszeć, dlaczego je stworzyliśmy, naszymi własnymi słowami.",
     "founderPhilosophy": "Filozofia Tava Labs",
     "founderVideoAria": "Film Tava Labs, dlaczego stworzyliśmy PDRN Brightening Serum",
@@ -742,7 +742,7 @@
     "details": [
       {
         "title": "Poznaj PDRN Brightening Serum",
-        "body": "Lekka, nawilżająca formuła dla gładszej skóry o bardziej promiennym wyglądzie. Szybko się wchłania, nie pozostawia osadu i zapewnia skórze komfort."
+        "body": "Lekka formuła dla skóry o gładszym i jaśniejszym wyglądzie. Szybko się wchłania i nie pozostawia osadu."
       },
       {
         "title": "Składniki i formuła",
@@ -754,7 +754,7 @@
       },
       {
         "title": "Gwarancja czystej pielęgnacji skóry",
-        "body": "Opracowane według certyfikowanych standardów bez okrucieństwa wobec zwierząt i wykonane bez substancji zapachowych, silikonów, parabenów, oleju mineralnego, siarczanów, ftalanów i powszechnych alergenów. Testowane dermatologicznie na wszystkich typach skóry."
+        "body": "Certyfikowane jako wolne od okrucieństwa wobec zwierząt i wykonane bez substancji zapachowych, silikonów, parabenów, oleju mineralnego, siarczanów, ftalanów i powszechnych alergenów. Testowane dermatologicznie na wszystkich typach skóry."
       }
     ],
     "innovation": {
@@ -808,12 +808,12 @@
         "Schemat Wspiera głębokie nawilżenie",
         "Schemat Poprawia teksturę skóry"
       ],
-      "note": "Oceny miejscowych składników bioaktywnych oparte na 8 tygodniowych testach percepcji konsumenckiej i instrumentalnych testach nawilżenia. Indywidualne bariery skórne, genetyka i środowisko wpływają na konkretne terminy i rezultaty."
+      "note": "Na podstawie 8 tygodniowych testów percepcji konsumenckiej i instrumentalnych testów nawilżenia. Indywidualne rezultaty różnią się zależnie od bariery skórnej, genetyki i środowiska."
     },
     "formulary": {
       "label": "Porównaj formuły",
       "title": "Który zabieg pielęgnacyjny jest dla Ciebie odpowiedni?",
-      "sub": "Formuły dla różnych celów skóry, problemów i rutyn. Wybierz tę, która pasuje do Twojej skóry i Twojego harmonogramu.",
+      "sub": "Wybierz formułę, która pasuje do Twojej skóry i Twojego harmonogramu.",
       "serumAlt": "PDRN Brightening Serum",
       "serumPriceLine": "Subscribe and Save $39/mo",
       "serumOneTime": "lub $49 jednorazowo",
@@ -886,7 +886,7 @@
       "label": "Jak go używać",
       "titleLead": "Jedna prosta rutyna,",
       "titleAccent": "dwa razy dziennie",
-      "sub": "Regularność ma znaczenie. Wykonuj te kroki rano i wieczorem, a na końcu nałóż krem nawilżający, aby zatrzymać wilgoć.",
+      "sub": "Wykonuj te kroki rano i wieczorem, a na końcu nałóż krem nawilżający.",
       "progressionLabel": "Postęp kliniczny",
       "progressionTitle": "Oś czasu widocznych rezultatów",
       "progressionBody": "Jaśniejsza, lepiej nawilżona skóra w 7 do 14 dni; poprawa elastyczności skóry i jędrności bariery do tygodnia 4 do 6.",
@@ -894,7 +894,7 @@
       "steps": [
         {
           "title": "Oczyszczanie, delikatnym środkiem myjącym",
-          "body": "Oczyść delikatnym środkiem myjącym o zrównoważonym pH, aby usunąć zanieczyszczenia i przygotować skórę, bez pozbawiania jej naturalnych lipidów."
+          "body": "Oczyść delikatnym środkiem myjącym o zrównoważonym pH. Usuwa zanieczyszczenia bez pozbawiania skóry naturalnych lipidów."
         },
         {
           "title": "PDRN Serum, 2 do 4 kropli",
@@ -921,7 +921,7 @@
       "items": [
         {
           "q": "Czym jest PDRN i jak korzystnie wpływa na skórę?",
-          "a": "PDRN (Polydeoxyribonucleotide) składa się z fragmentów DNA, które są biokompatybilne z ludzkimi komórkami skóry. Wspiera naturalną regenerację komórek, pobudza mikrokrążenie i pomaga naprawiać barierę skórną, dla skóry o jaśniejszym i jędrniejszym wyglądzie."
+          "a": "PDRN (Polydeoxyribonucleotide) składa się z fragmentów DNA, które są biokompatybilne z ludzkimi komórkami skóry. Wspiera regenerację komórek i mikrokrążenie oraz pomaga naprawiać barierę skórną, dla skóry o jaśniejszym i jędrniejszym wyglądzie."
         },
         {
           "q": "Jak włączyć PDRN Brightening Serum do mojej rutyny pielęgnacyjnej?",
@@ -993,19 +993,19 @@
       "items": [
         {
           "title": "Peptyd miedzi",
-          "body": "Peptyd miedzi, wymieniony na etykiecie jako Copper Lysinate/Prolinate, jest peptydem w tej formule. Działa na wygląd drobnych linii i zmarszczek."
+          "body": "Peptyd miedzi, wymieniony na etykiecie jako Copper Lysinate/Prolinate, działa na wygląd drobnych linii i zmarszczek."
         },
         {
           "title": "Ekstrakt z owoców żurawiny",
-          "body": "Ekstrakt z owoców żurawiny pochodzi z owocu żurawiny. Jest zawarty jako ekstrakt roślinny w codziennej formule."
+          "body": "Ekstrakt z owoców żurawiny pochodzi z owocu żurawiny i jest ekstraktem roślinnym w tej formule."
         },
         {
           "title": "Aloes i oczar wirginijski",
-          "body": "Sok z liści aloesu i woda z oczaru wirginijskiego to roślinne składniki formuły. Stoją obok gliceryny, która pomaga skórze zatrzymać wilgoć."
+          "body": "Sok z liści aloesu i woda z oczaru wirginijskiego to roślinne składniki formuły. Gliceryna pomaga skórze zatrzymać wilgoć."
         },
         {
           "title": "Moringa i neem",
-          "body": "Ekstrakt z nasion moringi i ekstrakt z liści neem to roślinne ekstrakty w formule. Zawarta jest także witamina E, wymieniona jako Tocopheryl Acetate."
+          "body": "Moringa i neem to ekstrakty roślinne w formule. Zawarta jest także witamina E."
         }
       ]
     },
@@ -1065,15 +1065,15 @@
     "serumStep": "Krok pierwszy",
     "moisturizerStep": "Krok drugi",
     "serumTitle": "PDRN Brightening Serum",
-    "serumBody": "Serum do twarzy na co dzień z PDRN i peptydami, dla skóry wyglądającej na jaśniejszą i gładszą. Nałóż 2 do 4 kropli na czystą skórę przed kremem nawilżającym, rano i wieczorem. 1 fl oz (30 ml).",
+    "serumBody": "Codzienne serum do twarzy z PDRN i peptydami, dla skóry o jaśniejszym i gładszym wyglądzie. Nałóż 2 do 4 kropli na czystą skórę przed kremem nawilżającym, rano i wieczorem. 1 fl oz (30 ml).",
     "serumPriceLine": "$49 jednorazowo, lub $39 miesięcznie",
     "moisturizerTitle": "Peptide Moisturizer",
-    "moisturizerBody": "Krem nawilżający do twarzy z peptydami i ekstraktem z żurawiny. Nawilża skórę i działa na wygląd drobnych linii i zmarszczek. Nałóż ilość wielkości monety po serum, rano i wieczorem. 1.7 fl oz (50 ml).",
+    "moisturizerBody": "Krem nawilżający do twarzy z peptydami i ekstraktem z żurawiny, dla nawilżenia i wyglądu drobnych linii i zmarszczek. Nałóż ilość wielkości monety po serum, rano i wieczorem. 1.7 fl oz (50 ml).",
     "moisturizerPriceLine": "$27.99 jednorazowo",
     "addonSerumBlurb": "Pierwszy krok rutyny, dla skóry wyglądającej na jaśniejszą i gładszą. 1 fl oz (30 ml).",
     "addonMoisturizerBlurb": "Drugi krok rutyny. Nawilża skórę i działa na wygląd drobnych linii i zmarszczek. 1.7 fl oz (50 ml).",
     "routineTitle": "Rutyna",
-    "routineBody": "Oba produkty razem, stosowane po kolei. Najpierw serum, potem krem nawilżający, rano i wieczorem. Dwie butelki, jedna rutyna.",
+    "routineBody": "Najpierw serum, potem krem nawilżający, rano i wieczorem. Dwie butelki, jedna rutyna.",
     "routinePriceLine": "Razem $76.99 jednorazowo, 20 procent zniżki, płacisz $61.59"
   },
   "about": {
@@ -1081,19 +1081,19 @@
     "titleLead": "Codzienne serum do twarzy",
     "titleAccent": "dla założycieli firm.",
     "tagline": "Buduj swoją firmę. Nie zaniedbuj siebie.",
-    "p1": "Tava Labs to marka pielęgnacji skóry dla osób budujących biznesy. Twój wygląd jest częścią Twojej obecności zawodowej. Ludzie widzą Cię przed kamerą, na spotkaniach z prezentacjami i w pracy każdego dnia.",
+    "p1": "Tava Labs to marka pielęgnacji skóry dla osób budujących biznesy. Twój wygląd jest częścią Twojej obecności zawodowej, przed kamerą, na spotkaniach z prezentacjami i w pracy każdego dnia.",
     "p2": "Tworzymy jedną rzecz i tworzymy ją dobrze. Codzienne serum, które sprawia, że Twoja skóra wygląda na nawilżoną i wypoczętą, bez skomplikowanej rutyny.",
     "p3": "Tava Labs powstało dla założycieli firm i właścicieli biznesów. Jeden krok, rano i wieczorem, przed spotkaniami, prezentacjami i pracą przed kamerą.",
     "p4": "Pielęgnacja skóry traktowana jako podstawowa dbałość o siebie. Ta sama regularność, którą wnosisz do swojego biznesu, zastosowana do Twojej własnej rutyny.",
     "serumLabel": "Serum",
     "serumTitle": "PDRN Brightening Serum",
     "serumAlt": "PDRN Brightening Serum",
-    "serumBody": "Codzienna rutyna dla cery zbudowana wokół PDRN (Polydeoxyribonucleotide) i Acetyl Hexapeptide-8, z Sodium Hyaluronate i Panthenol dla nawilżenia i komfortu. Czysta i bez substancji zapachowych, wykonana bez niczego z naszej listy składników, których unikamy.",
+    "serumBody": "Codzienna rutyna zbudowana wokół PDRN i Acetyl Hexapeptide-8, z Sodium Hyaluronate i Panthenol dla nawilżenia. Czysta, bez substancji zapachowych i wykonana bez niczego z naszej listy składników, których unikamy.",
     "bullets": [
       "PDRN dla jaśniejszej cery o bardziej równym wyglądzie.",
       "Acetyl Hexapeptide-8, aby wspierać wygląd jędrności.",
       "Sodium Hyaluronate i Panthenol dla nawilżenia.",
-      "Stosuj dwa razy dziennie: 2 do 4 pompek na czystą, suchą skórę, rano i wieczorem."
+      "Stosuj dwa razy dziennie: 2 do 4 kropli na czystą, suchą skórę, rano i wieczorem."
     ],
     "priceLine": "$49 jednorazowo lub $39 miesięcznie z Subscribe & Save.",
     "philosophyLabel": "Nasza filozofia",

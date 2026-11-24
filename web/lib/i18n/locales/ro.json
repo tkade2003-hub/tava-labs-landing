@@ -96,7 +96,7 @@
       "supportLabel": "Comenzi și ajutor pentru produse",
       "generalLabel": "Contact general"
     },
-    "copyright": "© 2026 Tava Labs · PDRN Brightening Serum pentru fondatori",
+    "copyright": "© 2026 Tava Labs · Îngrijirea pielii pentru antreprenori",
     "disclaimer1": "PDRN Brightening Serum este un produs cosmetic. Nu este destinat diagnosticării, tratării, vindecării sau prevenirii vreunei boli. Rezultatele individuale pot varia.",
     "disclaimer2": "Toate vânzările sunt finale. Te rugăm să consulți politica noastră de returnări înainte de a comanda.",
     "footerIngredients": "Ingrediente",
@@ -145,7 +145,7 @@
     "openMenu": "Deschide meniul",
     "primaryNavAria": "Principală",
     "shopHeading": "Magazin",
-    "tagline": "PDRN Brightening Serum pentru fondatori"
+    "tagline": "Îngrijirea pielii pentru antreprenori"
   },
   "hero": {
     "ariaLabel": "PDRN Brightening Serum",
@@ -174,14 +174,14 @@
     "widePill": "Zi și noapte"
   },
   "home": {
-    "buildersBody": "Fondatorii și proprietarii de afaceri prezintă toată ziua. Prezinți investitorilor în persoană, vinzi în apeluri video și înregistrezi videoclipuri pentru clienți. A arăta curat și odihnit face parte din a-ți prezenta bine afacerea. O rutină zilnică scurtă de îngrijire a pielii stă lângă o garderobă bună și un laptop de încredere ca îngrijire de bază. PDRN Brightening Serum durează două minute, dimineața și seara.",
+    "buildersBody": "Fondatorii și proprietarii de afaceri prezintă toată ziua: prezentări pentru investitori, apeluri de vânzări și videoclipuri înregistrate. O rutină cu ser de două minute, dimineața și seara, este îngrijire de bază, lângă o garderobă bună și un laptop de încredere.",
     "buildersTagline": "Construiește-ți afacerea. Nu te neglija pe tine.",
     "buildersTitle": "Creat pentru fondatori și proprietari de afaceri",
     "cameraAlt": "Fondator care vorbește în fața unei camere",
-    "cameraBody": "La o filmare video, un podcast sau un apel de vânzări, camera arată pielea obosită de aproape. O rutină de două minute dimineața și seara ajută pielea ta să arate odihnită înainte să înregistrezi.",
+    "cameraBody": "Camera arată pielea obosită de aproape. O rutină de două minute, dimineața și seara, ajută pielea ta să arate odihnită înainte să înregistrezi.",
     "cameraTitle": "În fața camerei",
     "closeVideo": "Închide videoclipul",
-    "founderBody1": "Aceasta este ideea din spatele Tava Labs. PDRN Brightening Serum este singurul pas în jurul căruia este construită rutina: două minute, de două ori pe zi, dimineața și seara.",
+    "founderBody1": "PDRN Brightening Serum este singurul pas în jurul căruia este construită rutina. Două minute, de două ori pe zi, dimineața și seara.",
     "founderBody2": "Urmărește videoclipul ca să auzi de ce l-am creat, în propriile noastre cuvinte.",
     "founderLabel": "Un mesaj de la fondatorul nostru",
     "founderPhilosophy": "Filozofia Tava Labs",
@@ -224,7 +224,7 @@
     "freeFromSub": "Ce lăsăm pe dinafară contează la fel de mult ca ce punem înăuntru.",
     "freeFromTitleAccent": "în formulă.",
     "freeFromTitleLead": "Ce nu este",
-    "introBody": "Fondatorii și proprietarii de afaceri își petrec zilele în întâlniri, apeluri de vânzări și videoclipuri înregistrate. Fața ta este pe ecran și în cameră pentru toate acestea. PDRN Brightening Serum este un pas ușor cu PDRN, peptide și acid hialuronic. Se absoarbe rapid și ajută pielea să arate mai luminoasă, hidratată și netedă. Două minute, de două ori pe zi.",
+    "introBody": "Fondatorii și proprietarii de afaceri sunt pe cameră și în întâlniri toată ziua, iar fața ta face parte din fiecare prezentare. Un pas cu PDRN, peptide și acid hialuronic ajută pielea să arate mai luminoasă, hidratată și netedă, în două minute, de două ori pe zi.",
     "introTitleAccent": "cu aspect sănătos",
     "introTitleLead": "Piele mai luminoasă, hidratată,",
     "journalSub": "Articole despre somn, stres și piele pentru fondatori.",
@@ -236,7 +236,7 @@
     "motionBody": "Fondatori și creatori care folosesc PDRN Brightening Serum, înregistrați pe video.",
     "motionTitle": "Urmărește videoclipurile clienților",
     "pitchAlt": "Fondator care își prezintă ideea unui investitor",
-    "pitchBody": "Când prezinți investitorilor în persoană, ei te văd pe tine înainte să îți vadă slide-urile. O rutină zilnică cu ser ajută pielea ta să arate luminoasă, hidratată și odihnită în acea zi.",
+    "pitchBody": "Investitorii te văd pe tine înainte să îți vadă slide-urile. Un ser zilnic ajută pielea ta să arate luminoasă, hidratată și odihnită.",
     "pitchTitle": "În prezentare",
     "playVideo": "Redă videoclipul",
     "readJournal": "Citește jurnalul",
@@ -739,14 +739,14 @@
         "Diagramă Îmbunătățește textura pielii"
       ],
       "label": "Teste clinice",
-      "note": "Evaluări ale activelor bio topice bazate pe percepția consumatorilor pe 8 săptămâni și teste instrumentale de hidratare. Barierele individuale ale pielii, genetica și mediul influențează calendarele și rezultatele specifice.",
+      "note": "Pe baza testelor de percepție a consumatorilor pe 8 săptămâni și a testelor instrumentale de hidratare. Rezultatele individuale variază în funcție de bariera pielii, genetică și mediu.",
       "titleAccent": "sănătății pielii tale",
       "titleLead": "Ai grijă de"
     },
     "dermTested": "Testat dermatologic • Făcut pentru toate tipurile de piele",
     "details": [
       {
-        "body": "O formulă ușoară și hidratantă pentru o piele cu aspect mai neted și mai luminos. Se absoarbe rapid, nu lasă reziduuri și menține pielea confortabilă.",
+        "body": "O formulă ușoară pentru o piele cu aspect mai neted și mai luminos. Se absoarbe rapid și nu lasă reziduuri.",
         "title": "Cunoaște PDRN Brightening Serum"
       },
       {
@@ -758,7 +758,7 @@
         "title": "Cum se aplică"
       },
       {
-        "body": "Formulat la standarde certificate fără cruzime și făcut fără parfum, siliconi, parabeni, ulei mineral, sulfați, ftalați sau alergeni comuni. Testat dermatologic pe toate tipurile de piele.",
+        "body": "Certificat fără cruzime și făcut fără parfum, siliconi, parabeni, ulei mineral, sulfați, ftalați sau alergeni comuni. Testat dermatologic pe toate tipurile de piele.",
         "title": "Garanție de îngrijire curată a pielii"
       }
     ],
@@ -778,7 +778,7 @@
     "faqSection": {
       "items": [
         {
-          "a": "PDRN (Polydeoxyribonucleotide) este format din fragmente de ADN care sunt biocompatibile cu celulele pielii umane. Promovează regenerarea naturală a celulelor, stimulează microcirculația și ajută la repararea barierei pielii, pentru o piele care arată mai luminoasă și mai fermă.",
+          "a": "PDRN (Polydeoxyribonucleotide) este format din fragmente de ADN care sunt biocompatibile cu celulele pielii umane. Susține regenerarea celulară și microcirculația și ajută la repararea barierei pielii, pentru o piele care arată mai luminoasă și mai fermă.",
           "q": "Ce este PDRN și cum beneficiază pielea?"
         },
         {
@@ -875,7 +875,7 @@
       "serumPriceLine": "Subscribe and Save $39/lună",
       "sizeLabel": "Mărime",
       "status": "Stare",
-      "sub": "Formule pentru obiective, preocupări și rutine diferite ale pielii. Alege-o pe cea care se potrivește pielii tale și programului tău.",
+      "sub": "Alege formula care se potrivește pielii tale și programului tău.",
       "title": "Ce tratament de îngrijire a pielii este potrivit pentru tine?"
     },
     "gallery": {
@@ -926,7 +926,7 @@
       "progressionTitle": "Calendarul rezultatelor vizibile",
       "steps": [
         {
-          "body": "Curăță cu un produs de curățare blând, cu pH echilibrat, pentru a îndepărta impuritățile și a pregăti pielea, fără să îi îndepărtezi lipidele naturale.",
+          "body": "Curăță cu un produs de curățare blând, cu pH echilibrat. Îndepărtează impuritățile fără să îndepărteze lipidele naturale.",
           "title": "Curăță, cu un produs blând"
         },
         {
@@ -946,7 +946,7 @@
           "title": "Planul tău personal, inclus"
         }
       ],
-      "sub": "Consecvența contează. Urmează acești pași dimineața și seara și termină cu cremă hidratantă pentru a păstra hidratarea.",
+      "sub": "Urmează acești pași dimineața și seara și termină cu cremă hidratantă.",
       "timelineAlt": "Exemplu de calendar al rezultatelor, săptămânile 1 până la 4 și mai departe",
       "titleAccent": "de două ori pe zi",
       "titleLead": "O rutină simplă,"
@@ -993,19 +993,19 @@
       "items": [
         {
           "title": "Peptidă de cupru",
-          "body": "Peptida de cupru, trecută pe etichetă ca Copper Lysinate/Prolinate, este peptida din această formulă. Vizează aspectul liniilor fine și al ridurilor."
+          "body": "Peptida de cupru, trecută pe etichetă ca Copper Lysinate/Prolinate, vizează aspectul liniilor fine și al ridurilor."
         },
         {
           "title": "Extract de merișor",
-          "body": "Extractul de merișor provine din fructul de merișor. Este inclus ca extract vegetal în formula zilnică."
+          "body": "Extractul de merișor provine din fructul de merișor și este un extract vegetal în această formulă."
         },
         {
           "title": "Aloe vera și hamamelis",
-          "body": "Sucul de frunză de aloe vera și apa de hamamelis sunt ingrediente vegetale în formulă. Stau alături de glicerină, care ajută pielea să păstreze umiditatea."
+          "body": "Sucul de frunză de aloe vera și apa de hamamelis sunt ingrediente vegetale în formulă. Glicerina ajută pielea să păstreze umiditatea."
         },
         {
           "title": "Moringa și neem",
-          "body": "Extractul de semințe de moringa și extractul de frunză de neem sunt extracte vegetale în formulă. Este inclusă și vitamina E, trecută ca Tocopheryl Acetate."
+          "body": "Moringa și neem sunt extracte vegetale în formulă. Este inclusă și vitamina E."
         }
       ]
     },
@@ -1068,12 +1068,12 @@
     "serumBody": "Un ser pentru față de zi cu zi, cu PDRN și peptide, pentru o piele cu aspect mai luminos și mai neted. Aplicați 2 până la 4 picături pe pielea curată, înainte de crema hidratantă, dimineața și seara. 1 fl oz (30 ml).",
     "serumPriceLine": "$49 o singură dată, sau $39 pe lună",
     "moisturizerTitle": "Peptide Moisturizer",
-    "moisturizerBody": "O cremă hidratantă pentru față cu peptide și extract de merișor. Hidratează pielea și vizează aspectul liniilor fine și al ridurilor. Aplicați o cantitate de mărimea unei monede după ser, dimineața și seara. 1.7 fl oz (50 ml).",
+    "moisturizerBody": "O cremă hidratantă pentru față cu peptide și extract de merișor, pentru hidratare și aspectul liniilor fine și al ridurilor. Aplicați o cantitate de mărimea unei monede după ser, dimineața și seara. 1.7 fl oz (50 ml).",
     "moisturizerPriceLine": "$27.99 o singură dată",
     "addonSerumBlurb": "Primul pas al rutinei, pentru o piele cu aspect mai luminos și mai neted. 1 fl oz (30 ml).",
     "addonMoisturizerBlurb": "Al doilea pas al rutinei. Hidratează pielea și vizează aspectul liniilor fine și al ridurilor. 1.7 fl oz (50 ml).",
     "routineTitle": "Rutina",
-    "routineBody": "Ambele produse împreună, folosite în ordine. Mai întâi serul, apoi crema hidratantă, dimineața și seara. Două sticle, o rutină.",
+    "routineBody": "Mai întâi serul, apoi crema hidratantă, dimineața și seara. Două sticle, o rutină.",
     "routinePriceLine": "Împreună $76.99 o singură dată, 20 la sută reducere, plătiți $61.59"
   },
   "about": {
@@ -1081,7 +1081,7 @@
       "PDRN pentru un ten cu aspect mai luminos și mai uniform.",
       "Acetyl Hexapeptide-8 pentru a susține aspectul de fermitate.",
       "Sodium Hyaluronate și Panthenol pentru hidratare.",
-      "Folosește de două ori pe zi: 2 până la 4 apăsări pe piele curată și uscată, dimineața și seara."
+      "Folosește de două ori pe zi: 2 până la 4 picături pe piele curată și uscată, dimineața și seara."
     ],
     "contactUs": "Contactează-ne",
     "label": "Despre noi",
@@ -1098,7 +1098,7 @@
       }
     ],
     "onlineTitle": "Exclusiv online",
-    "p1": "Tava Labs este un brand de îngrijire a pielii pentru persoanele care construiesc afaceri. Aspectul tău face parte din prezența ta profesională. Oamenii te văd pe cameră, în întâlniri de prezentare și la muncă în fiecare zi.",
+    "p1": "Tava Labs este un brand de îngrijire a pielii pentru persoanele care construiesc afaceri. Aspectul tău face parte din prezența ta profesională, pe cameră, în întâlniri de prezentare și la muncă în fiecare zi.",
     "p2": "Facem un singur lucru și îl facem bine. Un ser zilnic care menține pielea ta arătând hidratată și odihnită, fără o rutină complicată.",
     "p3": "Tava Labs a fost fondată pentru fondatori și proprietari de afaceri. Un pas, dimineața și seara, înainte de întâlniri, prezentări și munca pe cameră.",
     "p4": "Îngrijirea pielii, tratată ca îngrijire de bază. Aceeași consecvență pe care o aduci afacerii tale, aplicată rutinei tale proprii.",
@@ -1109,7 +1109,7 @@
     "priceLine": "$49 o singură dată sau $39 pe lună cu Subscribe & Save.",
     "quote": "„Un ser, două minute, dimineața și seara. Asta este întreaga rutină.”",
     "serumAlt": "PDRN Brightening Serum",
-    "serumBody": "O rutină zilnică pentru ten, construită în jurul PDRN (Polydeoxyribonucleotide) și Acetyl Hexapeptide-8, cu Sodium Hyaluronate și Panthenol pentru hidratare și confort. Curată și fără parfum și făcută fără nimic de pe lista noastră de ingrediente excluse.",
+    "serumBody": "O rutină zilnică construită în jurul PDRN și Acetyl Hexapeptide-8, cu Sodium Hyaluronate și Panthenol pentru hidratare. Curată și fără parfum și făcută fără nimic de pe lista noastră de ingrediente excluse.",
     "serumLabel": "Serumul",
     "serumTitle": "PDRN Brightening Serum",
     "tagline": "Construiește-ți afacerea. Nu te neglija pe tine.",

@@ -96,7 +96,7 @@
     "openMenu": "Atidaryti meniu",
     "closeMenu": "Uždaryti meniu",
     "language": "Kalba",
-    "tagline": "PDRN Brightening Serum įkūrėjams",
+    "tagline": "Odos priežiūra verslininkams",
     "shopHeading": "Parduotuvė",
     "contactHeading": "Susisiekite su mumis",
     "infoHeading": "Informacija",
@@ -133,7 +133,7 @@
     },
     "disclaimer1": "PDRN Brightening Serum yra kosmetikos produktas. Jis nėra skirtas jokiai ligai diagnozuoti, gydyti, išgydyti ar jos prevencijai. Individualūs rezultatai gali skirtis.",
     "disclaimer2": "Visi pardavimai yra galutiniai. Prieš užsakydami peržiūrėkite mūsų grąžinimo politiką.",
-    "copyright": "© 2026 Tava Labs · PDRN Brightening Serum įkūrėjams",
+    "copyright": "© 2026 Tava Labs · Odos priežiūra verslininkams",
     "notFoundLabel": "Tava Labs",
     "notFoundTitle": "Puslapis nerastas",
     "notFoundBody": "Šio puslapio čia nėra. Galbūt jis buvo perkeltas arba adresas yra nepilnas.",
@@ -176,18 +176,18 @@
   "home": {
     "introTitleLead": "Skaistesnė, sudrėkinta,",
     "introTitleAccent": "sveikai atrodanti oda",
-    "introBody": "Įkūrėjai ir verslo savininkai dienas leidžia susitikimuose, pardavimo skambučiuose ir įrašytuose vaizdo įrašuose. Jūsų veidas viso to metu yra ekrane ir kambaryje. PDRN Brightening Serum yra vienas lengvas žingsnis su PDRN, peptidais ir hialurono rūgštimi. Jis greitai įsigeria ir padeda odai atrodyti skaistesnei, sudrėkintai ir lygiai. Dvi minutės, du kartus per dieną.",
+    "introBody": "Įkūrėjai ir verslo savininkai visą dieną yra prieš kamerą ir susitikimuose, o jūsų veidas yra kiekvieno pristatymo dalis. Vienas žingsnis su PDRN, peptidais ir hialurono rūgštimi palaiko skaistesnę, sudrėkintą ir lygią odos išvaizdą, per dvi minutes, du kartus per dieną.",
     "marqueeTagline": "Vienas serumas, ryte ir vakare",
     "marqueeSlogan": "Sukurtas įkūrėjams ir verslo savininkams",
     "buildersTitle": "Sukurtas įkūrėjams ir verslo savininkams",
     "buildersTagline": "Kurkite savo verslą. Nepamirškite savęs.",
-    "buildersBody": "Įkūrėjai ir verslo savininkai pristato visą dieną. Jūs pristatote investuotojams gyvai, parduodate vaizdo skambučiuose ir įrašote vaizdo įrašus klientams. Švari ir pailsėjusi išvaizda yra dalis gero jūsų verslo pristatymo. Trumpa kasdienė odos priežiūros rutina yra šalia gero garderobo ir patikimo nešiojamojo kompiuterio kaip pagrindinė priežiūra. PDRN Brightening Serum užtrunka dvi minutes, ryte ir vakare.",
+    "buildersBody": "Įkūrėjai ir verslo savininkai pristato visą dieną: pristatymai investuotojams, pardavimo skambučiai ir įrašyti vaizdo įrašai. Dviejų minučių serumo rutina ryte ir vakare yra pagrindinė priežiūra, šalia gero garderobo ir patikimo nešiojamojo kompiuterio.",
     "pitchAlt": "Įkūrėjas pristato savo idėją investuotojui",
     "pitchTitle": "Pristatymo metu",
-    "pitchBody": "Kai pristatote investuotojams gyvai, jie mato jus anksčiau nei jūsų skaidres. Kasdienė serumo rutina padeda jūsų odai tą dieną atrodyti skaistčiai, sudrėkintai ir pailsėjusiai.",
+    "pitchBody": "Investuotojai mato jus anksčiau nei jūsų skaidres. Kasdienis serumas padeda jūsų odai atrodyti skaistčiai, sudrėkintai ir pailsėjusiai.",
     "cameraAlt": "Įkūrėjas kalba prieš kamerą",
     "cameraTitle": "Prieš kamerą",
-    "cameraBody": "Vaizdo filmavimo, tinklalaidės ar pardavimo skambučio metu kamera iš arti parodo pavargusią odą. Dviejų minučių rutina ryte ir vakare padeda jūsų odai prieš įrašymą atrodyti pailsėjusiai.",
+    "cameraBody": "Kamera iš arti parodo pavargusią odą. Dviejų minučių rutina ryte ir vakare padeda jūsų odai prieš įrašymą atrodyti pailsėjusiai.",
     "maintenanceTitle": "Vienas serumas yra visa rutina.",
     "maintenanceBody": "Tepkite du keturis lašus PDRN Brightening Serum ant švarios, sausos odos ryte ir vakare, tada naudokite drėkiklį. Visa rutina užtrunka apie dvi minutes per dieną.",
     "motionTitle": "Žiūrėkite klientų vaizdo įrašus",
@@ -234,7 +234,7 @@
     ],
     "founderLabel": "Mūsų įkūrėjo žinutė",
     "founderQuote": "„Vienas serumas, dvi minutės, ryte ir vakare. Tai yra visa rutina.”",
-    "founderBody1": "Tai yra Tava Labs idėja. PDRN Brightening Serum yra vienas žingsnis, aplink kurį sukurta rutina: dvi minutės, du kartus per dieną, ryte ir vakare.",
+    "founderBody1": "PDRN Brightening Serum yra vienas žingsnis, aplink kurį sukurta rutina: dvi minutės, du kartus per dieną, ryte ir vakare.",
     "founderBody2": "Žiūrėkite vaizdo įrašą, kad išgirstumėte, kodėl jį sukūrėme, mūsų pačių žodžiais.",
     "founderPhilosophy": "Tava Labs filosofija",
     "founderVideoAria": "Tava Labs vaizdo įrašas, kodėl sukūrėme PDRN Brightening Serum",
@@ -742,7 +742,7 @@
     "details": [
       {
         "title": "Susipažinkite su PDRN Brightening Serum",
-        "body": "Lengva, drėkinanti formulė lygesnei, skaistesnei atrodančiai odai. Greitai susigeria, nepalieka likučių ir palaiko odos komfortą."
+        "body": "Lengva formulė lygesnei, skaistesnei atrodančiai odai. Greitai susigeria ir nepalieka likučių."
       },
       {
         "title": "Sudėtis ir formulė",
@@ -754,7 +754,7 @@
       },
       {
         "title": "Švarios odos priežiūros garantija",
-        "body": "Sukurta pagal sertifikuotus standartus be žiauraus elgesio su gyvūnais ir pagaminta be kvapiųjų medžiagų, silikonų, parabenų, mineralinės alyvos, sulfatų, ftalatų ar įprastų alergenų. Patikrinta dermatologų visiems odos tipams."
+        "body": "Sertifikuota be žiauraus elgesio su gyvūnais ir pagaminta be kvapiųjų medžiagų, silikonų, parabenų, mineralinės alyvos, sulfatų, ftalatų ar įprastų alergenų. Patikrinta dermatologų visiems odos tipams."
       }
     ],
     "innovation": {
@@ -808,12 +808,12 @@
         "Gilų drėkinimą palaikanti diagrama",
         "Odos tekstūrą gerinanti diagrama"
       ],
-      "note": "Vietinio poveikio bioaktyvių medžiagų vertinimai, pagrįsti 8 savaičių vartotojų suvokimu ir instrumentiniais drėkinimo tyrimais. Individualūs odos barjerai, genetika ir aplinka turi įtakos konkretiems terminams ir rezultatams."
+      "note": "Pagrįsta 8 savaičių vartotojų suvokimu ir instrumentiniais drėkinimo tyrimais. Individualūs rezultatai priklauso nuo odos barjero, genetikos ir aplinkos."
     },
     "formulary": {
       "label": "Palyginkite formules",
       "title": "Kokia odos priežiūros priemonė jums tinka?",
-      "sub": "Formulės skirtingiems odos tikslams, problemoms ir rutinoms. Pasirinkite tą, kuri tinka jūsų odai ir jūsų tvarkaraščiui.",
+      "sub": "Pasirinkite formulę, kuri tinka jūsų odai ir jūsų tvarkaraščiui.",
       "serumAlt": "PDRN Brightening Serum",
       "serumPriceLine": "Subscribe and Save $39/mėn.",
       "serumOneTime": "arba $49 vieną kartą",
@@ -886,7 +886,7 @@
       "label": "Kaip jį naudoti",
       "titleLead": "Viena paprasta rutina,",
       "titleAccent": "du kartus per dieną",
-      "sub": "Svarbu nuoseklumas. Atlikite šiuos žingsnius ryte ir vakare ir užbaikite drėkikliu, kad drėgmė išliktų odoje.",
+      "sub": "Atlikite šiuos žingsnius ryte ir vakare ir užbaikite drėkikliu.",
       "progressionLabel": "Klinikinė pažanga",
       "progressionTitle": "Matomų rezultatų laiko juosta",
       "progressionBody": "Skaistesnė, labiau sudrėkinta oda per 7–14 dienų; pagerėjęs odos elastingumas ir barjero stangrumas iki 4–6 savaitės.",
@@ -894,7 +894,7 @@
       "steps": [
         {
           "title": "Valykite švelnia priemone",
-          "body": "Valykite švelnia, pH subalansuota priemone, kad pašalintumėte nešvarumus ir paruoštumėte odą, nenuplėšdami jos natūralių lipidų."
+          "body": "Valykite švelnia, pH subalansuota priemone. Ji pašalina nešvarumus, nenuplėšdama natūralių lipidų."
         },
         {
           "title": "PDRN serumas, 2 iki 4 lašai",
@@ -921,7 +921,7 @@
       "items": [
         {
           "q": "Kas yra PDRN ir kuo jis naudingas odai?",
-          "a": "PDRN (polideoksiribonukleotidas) sudarytas iš DNR fragmentų, kurie biologiškai suderinami su žmogaus odos ląstelėmis. Jis skatina natūralų ląstelių atsinaujinimą, stimuliuoja mikrocirkuliaciją ir padeda atkurti odos barjerą, kad oda atrodytų skaistesnė ir stangresnė."
+          "a": "PDRN (polideoksiribonukleotidas) sudarytas iš DNR fragmentų, kurie biologiškai suderinami su žmogaus odos ląstelėmis. Jis palaiko ląstelių atsinaujinimą ir mikrocirkuliaciją bei padeda atkurti odos barjerą, kad oda atrodytų skaistesnė ir stangresnė."
         },
         {
           "q": "Kaip įtraukti PDRN Brightening Serum į savo odos priežiūros rutiną?",
@@ -993,19 +993,19 @@
       "items": [
         {
           "title": "Vario peptidas",
-          "body": "Vario peptidas, etiketėje nurodytas kaip Copper Lysinate/Prolinate, yra šios formulės peptidas. Jis veikia smulkių linijų ir raukšlių išvaizdą."
+          "body": "Vario peptidas, etiketėje nurodytas kaip Copper Lysinate/Prolinate, veikia smulkių linijų ir raukšlių išvaizdą."
         },
         {
           "title": "Spanguolių ekstraktas",
-          "body": "Spanguolių ekstraktas gaunamas iš spanguolių uogų. Jis įtrauktas į kasdienę formulę kaip augalų ekstraktas."
+          "body": "Spanguolių vaisių ekstraktas gaunamas iš spanguolių vaisių ir šioje formulėje yra augalų ekstraktas."
         },
         {
           "title": "Alavijas ir hamamelis",
-          "body": "Alavijo lapų sultys ir hamamelio vanduo yra augalinės formulės sudedamosios dalys. Jos yra šalia glicerino, kuris padeda odai išlaikyti drėgmę."
+          "body": "Alavijo lapų sultys ir hamamelio vanduo yra augalinės formulės sudedamosios dalys. Glicerinas padeda odai išlaikyti drėgmę."
         },
         {
           "title": "Moringa ir nimbamedis",
-          "body": "Moringos sėklų ekstraktas ir nimbamedžio lapų ekstraktas yra augalų ekstraktai formulėje. Taip pat įtrauktas vitaminas E, nurodytas kaip Tocopheryl Acetate."
+          "body": "Moringa ir nimbamedis yra augalų ekstraktai formulėje. Taip pat įtrauktas vitaminas E."
         }
       ]
     },
@@ -1068,12 +1068,12 @@
     "serumBody": "Kasdienis veido serumas su PDRN ir peptidais, skaistesnei ir lygesnei atrodančiai odai. Tepkite 2 iki 4 lašus ant švarios odos prieš drėkiklį, ryte ir vakare. 1 fl oz (30 ml).",
     "serumPriceLine": "$49 vieną kartą, arba $39 per mėnesį",
     "moisturizerTitle": "Peptide Moisturizer",
-    "moisturizerBody": "Veido drėkiklis su peptidais ir spanguolių ekstraktu. Jis drėkina odą ir veikia smulkių linijų ir raukšlių išvaizdą. Tepkite monetos dydžio kiekį po serumo, ryte ir vakare. 1.7 fl oz (50 ml).",
+    "moisturizerBody": "Veido drėkiklis su peptidais ir spanguolių ekstraktu, drėkinimui ir smulkių linijų bei raukšlių išvaizdai. Tepkite monetos dydžio kiekį po serumo, ryte ir vakare. 1.7 fl oz (50 ml).",
     "moisturizerPriceLine": "$27.99 vieną kartą",
     "addonSerumBlurb": "Pirmas rutinos žingsnis, skaistesnei ir lygesnei atrodančiai odai. 1 fl oz (30 ml).",
     "addonMoisturizerBlurb": "Antras rutinos žingsnis. Jis drėkina odą ir veikia smulkių linijų ir raukšlių išvaizdą. 1.7 fl oz (50 ml).",
     "routineTitle": "Rutina",
-    "routineBody": "Abu produktai kartu, naudojami iš eilės. Pirmiausia serumas, tada drėkiklis, ryte ir vakare. Du buteliukai, viena rutina.",
+    "routineBody": "Pirmiausia serumas, tada drėkiklis, ryte ir vakare. Du buteliukai, viena rutina.",
     "routinePriceLine": "Kartu $76.99 vieną kartą, 20 procentų nuolaida, mokate $61.59"
   },
   "about": {
@@ -1081,19 +1081,19 @@
     "titleLead": "Kasdienis veido serumas",
     "titleAccent": "įkūrėjams.",
     "tagline": "Kurkite savo verslą. Nepamirškite savęs.",
-    "p1": "Tava Labs yra odos priežiūros prekės ženklas žmonėms, kurie kuria verslus. Jūsų išvaizda yra jūsų profesinio buvimo dalis. Žmonės jus mato prieš kamerą, pristatymo susitikimuose ir darbe kiekvieną dieną.",
+    "p1": "Tava Labs yra odos priežiūros prekės ženklas žmonėms, kurie kuria verslus. Jūsų išvaizda yra jūsų profesinio buvimo dalis, prieš kamerą, pristatymo susitikimuose ir darbe kiekvieną dieną.",
     "p2": "Mes gaminame vieną dalyką ir gaminame jį gerai. Kasdienis serumas, kuris palaiko odą sudrėkintą ir pailsėjusią, be sudėtingos rutinos.",
     "p3": "Tava Labs buvo įkurta įkūrėjams ir verslo savininkams. Vienas žingsnis, ryte ir vakare, prieš susitikimus, pristatymus ir darbą prieš kamerą.",
     "p4": "Odos priežiūra, traktuojama kaip pagrindinė priežiūra. Tas pats nuoseklumas, kurį taikote savo verslui, taikomas jūsų pačių rutinai.",
     "serumLabel": "Serumas",
     "serumTitle": "PDRN Brightening Serum",
     "serumAlt": "PDRN Brightening Serum",
-    "serumBody": "Kasdienė veido odos rutina, sukurta aplink PDRN (Polydeoxyribonucleotide) ir Acetyl Hexapeptide-8, su Sodium Hyaluronate ir Panthenol drėkinimui ir komfortui. Švari ir be kvapiųjų medžiagų, pagaminta be nieko iš mūsų sąrašo, ko nededame.",
+    "serumBody": "Kasdienė rutina, sukurta aplink PDRN ir Acetyl Hexapeptide-8, su Sodium Hyaluronate ir Panthenol drėkinimui. Švari ir be kvapiųjų medžiagų, pagaminta be nieko iš mūsų sąrašo, ko nededame.",
     "bullets": [
       "PDRN skaistesnei, lygesnei atrodančiai veido odai.",
       "Acetyl Hexapeptide-8, palaikantis stangrumo išvaizdą.",
       "Sodium Hyaluronate ir Panthenol drėkinimui.",
-      "Naudokite du kartus per dieną: 2 iki 4 paspaudimus ant švarios, sausos odos, ryte ir vakare."
+      "Naudokite du kartus per dieną: 2 iki 4 lašus ant švarios, sausos odos, ryte ir vakare."
     ],
     "priceLine": "$49 vieną kartą, arba $39 per mėnesį su Subscribe & Save.",
     "philosophyLabel": "Mūsų filosofija",
