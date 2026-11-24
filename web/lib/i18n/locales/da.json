@@ -1,1943 +1,2052 @@
 {
- "meta": {
+  "meta": {
+    "home": {
+      "title": "PDRN Brightening Serum til iværksættere | Tava Labs",
+      "description": "Et dagligt ansigtsserum til stiftere og virksomhedsejere. PDRN Brightening Serum med PDRN, peptider og hyaluronsyre for hud, der ser lysere og fugtet ud. $49 som engangskøb eller $39 om måneden."
+    },
+    "product": {
+      "title": "PDRN Brightening Serum til iværksættere | Tava Labs",
+      "description": "PDRN Brightening Serum fra Tava Labs er et dagligt ansigtsserum med PDRN, peptider og sodium hyaluronate for hud, der ser lysere og fugtet ud. Lavet til stiftere og virksomhedsejere. $49 som engangskøb eller $39 om måneden."
+    },
+    "moisturizer": {
+      "title": "Peptide Moisturizer til grundlæggere og virksomhedsejere | Tava Labs",
+      "description": "Peptide Moisturizer fra Tava Labs er en ansigtscreme med kobberpeptid og tranebærekstrakt. Den fugter huden og målretter synlige fine linjer og rynker. 1.7 fl oz (50 ml). $27.99 som engangskøb."
+    },
+    "about": {
+      "title": "Om Tava Labs | Ansigtsserum til stiftere",
+      "description": "Tava Labs laver ét produkt, PDRN Brightening Serum, et dagligt ansigtsserum til stiftere og virksomhedsejere. Læs, hvem vi er, og hvorfor vi lavede det."
+    },
+    "ingredients": {
+      "title": "PDRN Brightening Serum ingredienser | Tava Labs",
+      "description": "Hver ingrediens i PDRN Brightening Serum forklaret, fra PDRN og peptider til Sodium Hyaluronate og Panthenol, plus den fulde INCI liste og det, vi udelader."
+    },
+    "faq": {
+      "title": "PDRN Brightening Serum spørgsmål og svar | Tava Labs",
+      "description": "Svar om PDRN Brightening Serum: priser, Subscribe and Save, leveringstider, returnering, hudquizzen og hvordan du forbinder dit køb med Tava appen."
+    },
+    "contact": {
+      "title": "Kontakt Tava Labs | Support, salg og partnerskaber",
+      "description": "Kontakt Tava Labs for produktsupport, hjælp til ordrer, engros, partnerskaber og presse. Skriv til support@tavalabs.app for ordrer og produkthjælp, eller til talia@tavalabs.app for engros, partnerskaber og presse. Eller ring 909-906-1308."
+    },
+    "partners": {
+      "title": "Bliv partner med Tava Labs | Gratis serum til dit program",
+      "description": "Acceleratorer, inkubatorer, erhvervsprogrammer og investorer: giv jeres stiftere en gratis måneds forsyning af PDRN Brightening Serum. Bliv partner med Tava Labs."
+    },
+    "research": {
+      "title": "Resultater fra 16 ugers forskning | Tava Labs",
+      "description": "Målte resultater fra Tava Labs 16 ugers deltagerprogram. Ændringer fra baseline til uge 16 i akne, fugt, rødme, pigmentering og tekstur, med hele programprotokollen."
+    },
+    "blog": {
+      "title": "The Tava Journal | Hud, søvn og stress for stiftere",
+      "description": "Søvnforskning, stressforskning og hudens sundhed for stiftere og virksomhedsejere, plus praktiske rutiner til at se udhvilet ud på arbejdet."
+    },
+    "quiz": {
+      "title": "Hudquiz | Byg din personlige serumplan | Tava Labs",
+      "description": "Svar på et par hurtige spørgsmål og byg din personlige plan omkring PDRN Brightening Serum. Ét serum, to gange om dagen, tilpasset din hud og dine mål."
+    },
+    "checkoutSuccess": {
+      "title": "Ordre bekræftet | Din PDRN Brightening Serum | Tava Labs",
+      "description": "Din ordre på PDRN Brightening Serum fra Tava Labs er bekræftet. Din indløsningskode forbinder dette køb med appen, hvor du kan se din plan, dine quizsvar og din ordre."
+    },
+    "checkoutCancel": {
+      "title": "Betaling annulleret | Ingen opkrævning | Tava Labs",
+      "description": "Der blev ikke foretaget nogen betaling. Din plan og dine svar hos Tava Labs er gemt, så du kan færdiggøre din ordre senere, når du er klar."
+    },
+    "login": {
+      "title": "Log ind | Tava Labs",
+      "description": "Log ind på din Tava Labs konto: din plan, dine ordrer, din rutine og support, knyttet til den samme email som mobilappen."
+    },
+    "account": {
+      "title": "Din konto | Tava Labs",
+      "description": "Din Tava Labs konto på nettet: din plan, dine ordrer, din rutine og support, knyttet til den samme email som mobilappen."
+    },
+    "terms": {
+      "title": "Vilkår og betingelser | Tava Labs",
+      "description": "Vilkårene for din brug af tavalabs.app og dit køb af PDRN Brightening Serum fra Tava Labs, LLC, herunder vores politik om, at alt salg er endeligt."
+    },
+    "privacy": {
+      "title": "Privatlivspolitik | Tava Labs",
+      "description": "Sådan indsamler, bruger og beskytter Tava Labs dine oplysninger, når du besøger tavalabs.app, tager hudquizzen eller bestiller PDRN Brightening Serum."
+    },
+    "returns": {
+      "title": "Politik for returnering og refusion | Tava Labs",
+      "description": "Tava Labs politik for returnering og refusion af ordrer på PDRN Brightening Serum, herunder vores vilkår om, at alt salg er endeligt, og hvordan du kontakter support."
+    },
+    "cookies": {
+      "title": "Cookiepolitik | Tava Labs",
+      "description": "Sådan bruger Tava Labs hjemmesiden cookies og lignende værktøjer, når du besøger tavalabs.app, hvad de gemmer, og hvordan du kan styre dem."
+    },
+    "shipping": {
+      "title": "Forsendelsespolitik | Tava Labs",
+      "description": "Tava Labs forsendelsespolitik for ordrer på PDRN Brightening Serum: behandlingstider, leveringsestimater, sporing og leveringsområder."
+    }
+  },
+  "chrome": {
+    "homeAria": "Tava Labs forside",
+    "primaryNavAria": "Primær",
+    "mobileNavAria": "Mobil",
+    "navSerum": "Serummet",
+    "navAbout": "Om os",
+    "navIngredients": "Ingredienser",
+    "navFaqs": "Ofte stillede spørgsmål",
+    "navBlog": "Blog",
+    "navContact": "Kontakt",
+    "login": "Log ind",
+    "addToRoutine": "Tilføj til rutinen",
+    "openMenu": "Åbn menu",
+    "closeMenu": "Luk menu",
+    "language": "Sprog",
+    "tagline": "PDRN Brightening Serum til stiftere",
+    "shopHeading": "Shop",
+    "contactHeading": "Kontakt os",
+    "infoHeading": "Info",
+    "legalHeading": "Juridisk",
+    "footerSerum": "PDRN Brightening Serum",
+    "footerMoisturizer": "Peptide Moisturizer",
+    "footerIngredients": "Ingredienser",
+    "contactLinks": {
+      "general": "Generelt",
+      "wholesale": "Engros",
+      "salesSupport": "Salgssupport",
+      "productSupport": "Produktsupport",
+      "pr": "PR"
+    },
+    "contactEmails": {
+      "supportLabel": "Ordrer og produkthjælp",
+      "generalLabel": "Generel kontakt"
+    },
+    "infoLinks": {
+      "about": "Om os",
+      "partners": "Partnere",
+      "ingredients": "Ingredienser",
+      "faqs": "Ofte stillede spørgsmål",
+      "blog": "Blog",
+      "research": "Forskning"
+    },
+    "newsletterHeading": "Få opdateringer fra Tava Labs på e-mail",
+    "newsletter": {
+      "placeholder": "Din email",
+      "subscribe": "Tilmeld",
+      "sending": "Sender...",
+      "done": "Du er tilmeldt. Tak.",
+      "error": "Noget gik galt, prøv venligst igen."
+    },
+    "disclaimer1": "PDRN Brightening Serum er et kosmetisk produkt. Det er ikke beregnet til at diagnosticere, behandle, kurere eller forebygge nogen sygdom. Individuelle resultater kan variere.",
+    "disclaimer2": "Alt salg er endeligt. Se venligst vores returpolitik, før du bestiller.",
+    "copyright": "© 2026 Tava Labs · PDRN Brightening Serum til stiftere",
+    "notFoundLabel": "Tava Labs",
+    "notFoundTitle": "Siden blev ikke fundet",
+    "notFoundBody": "Den side er ikke her. Den er måske flyttet, eller adressen er ufuldstændig.",
+    "notFoundHome": "Tilbage til forsiden",
+    "notFoundShop": "Køb PDRN Brightening Serum",
+    "legalLinks": {
+      "terms": "Vilkår og betingelser",
+      "privacy": "Privatlivspolitik",
+      "returns": "Returpolitik",
+      "cookies": "Cookiepolitik",
+      "shipping": "Forsendelsespolitik"
+    }
+  },
+  "hero": {
+    "ariaLabel": "PDRN Brightening Serum",
+    "pill": "Til stiftere og virksomhedsejere",
+    "line1": "Et dagligt ansigtsserum til",
+    "line2": "lysere, glattere hud.",
+    "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Påfør to til fire dråber morgen og aften. $49 som engangskøb eller $39 om måneden.",
+    "cardAria": "PDRN Brightening Serum, produktsiden",
+    "onSetPill": "På kamera",
+    "onSetCaption": "Til optagelse og videoopkald",
+    "onSetAlt": "Stifter siddende på et studiesæt, vendt mod kameraet",
+    "morningPill": "Morgenrutine",
+    "morningCaption": "Påfør ved spejlet hver morgen",
+    "morningAlt": "Stifter der påfører serum ved et badeværelsesspejl i morgenlys",
+    "widePill": "Dag og nat",
+    "wideHead": "Én flaske, brugt morgen og aften.",
+    "priceLine": "$49 som engangskøb eller $39 om måneden",
+    "talia": {
+      "baseline": "Baseline",
+      "week16": "Uge 16",
+      "statBig": "63% lavere",
+      "statCap": "Akne",
+      "statNote": "Gennemsnitlig ændring i det 16 ugers deltagerprogram",
+      "alt": "Talia Kade, forsker hos Tava Labs, iført hvid laboratoriekittel",
+      "slopeAria": "Trendlinje fra 16.8 ved baseline til 6.2 ved uge 16"
+    }
+  },
   "home": {
-   "title": "PDRN Brightening Serum til iværksættere | Tava Labs",
-   "description": "Et dagligt ansigtsserum til stiftere og virksomhedsejere. PDRN Brightening Serum med PDRN, peptider og hyaluronsyre for hud, der ser lysere og fugtet ud. $49 som engangskøb eller $39 om måneden."
+    "introTitleLead": "Lysere, fugtet,",
+    "introTitleAccent": "sundt udseende hud",
+    "introBody": "Stiftere og virksomhedsejere bruger deres dage i møder, på salgsopkald og i optagede videoer. Dit ansigt er på skærmen og i rummet under det hele. PDRN Brightening Serum er ét let trin med PDRN, peptider og hyaluronsyre. Det absorberes hurtigt og hjælper huden med at se lysere, fugtet og glat ud. To minutter, to gange om dagen.",
+    "marqueeTagline": "Ét serum, morgen og aften",
+    "marqueeSlogan": "Lavet til stiftere og virksomhedsejere",
+    "buildersTitle": "Lavet til stiftere og virksomhedsejere",
+    "buildersTagline": "Byg din virksomhed. Forsøm ikke dig selv.",
+    "buildersBody": "Stiftere og virksomhedsejere præsenterer hele dagen. Du pitcher investorer personligt, sælger på videoopkald og optager videoer til kunder. At se ren og udhvilet ud er en del af at præsentere din virksomhed godt. En kort daglig hudplejerutine hører sammen med en god garderobe og en pålidelig bærbar computer som grundlæggende vedligeholdelse. PDRN Brightening Serum tager to minutter, morgen og aften.",
+    "pitchAlt": "Stifter der pitcher sin idé for en investor",
+    "pitchTitle": "I pitchen",
+    "pitchBody": "Når du pitcher investorer personligt, ser de dig, før de ser dine slides. En daglig serumrutine hjælper din hud med at se lys, fugtet og udhvilet ud på dagen.",
+    "cameraAlt": "Stifter der taler foran et kamera",
+    "cameraTitle": "På kamera",
+    "cameraBody": "På en videooptagelse, en podcast eller et salgsopkald viser kameraet træt hud tæt på. En rutine på to minutter morgen og aften hjælper din hud med at se udhvilet ud, før du optager.",
+    "maintenanceTitle": "Ét serum er hele rutinen.",
+    "maintenanceBody": "Påfør to til fire dråber PDRN Brightening Serum på ren, tør hud, morgen og aften, og følg derefter op med fugtighedscreme. Hele rutinen tager omkring to minutter om dagen.",
+    "motionTitle": "Se kundevideoer",
+    "motionBody": "Stiftere og skabere, der bruger PDRN Brightening Serum, optaget på video.",
+    "playVideo": "Afspil video",
+    "videoPlayer": "Videoafspiller",
+    "closeVideo": "Luk video",
+    "freeFromTitleLead": "Hvad er ikke",
+    "freeFromTitleAccent": "i formlen.",
+    "freeFromSub": "Det, vi udelader, betyder lige så meget som det, vi putter i.",
+    "freeFromItems": [
+      {
+        "name": "Cruelty Free",
+        "blurb": "Aldrig testet på dyr."
+      },
+      {
+        "name": "Fragrance Free",
+        "blurb": "Ingen tilsatte parfumer eller syntetiske dufte."
+      },
+      {
+        "name": "Mineral Oil Free",
+        "blurb": "Ingen mineralsk olie eller petroleumfyldstoffer."
+      },
+      {
+        "name": "Phthalate Free",
+        "blurb": "Ingen ftalater i formlen."
+      },
+      {
+        "name": "Silicone Free",
+        "blurb": "Ingen silikoner, der lægger sig på din hud."
+      },
+      {
+        "name": "Sulfate Free",
+        "blurb": "Ingen hårde sulfater. Skånsom mod huden."
+      },
+      {
+        "name": "Allergen Free",
+        "blurb": "Fremstillet uden almindelige allergener."
+      },
+      {
+        "name": "Alcohol Free",
+        "blurb": "Ingen udtørrende alkoholer."
+      }
+    ],
+    "founderLabel": "En besked fra vores stifter",
+    "founderQuote": "“Ét serum, to minutter, morgen og aften. Det er hele rutinen.”",
+    "founderBody1": "Det er ideen bag Tava Labs. PDRN Brightening Serum er det ene trin, rutinen er bygget op omkring: to minutter, to gange om dagen, morgen og aften.",
+    "founderBody2": "Se videoen for at høre, hvorfor vi lavede det, med vores egne ord.",
+    "founderPhilosophy": "Tava Labs filosofien",
+    "founderVideoAria": "Tava Labs videoen, hvorfor vi lavede PDRN Brightening Serum",
+    "shopSerum": "Køb serummet",
+    "journalTitle": "The Tava Journal",
+    "journalSub": "Artikler om søvn, stress og hud for stiftere.",
+    "readJournal": "Læs The Tava Journal",
+    "readStory": "Læs historien"
+  },
+  "appTeaser": {
+    "label": "Kommer snart",
+    "lead": "Din rutine, dine laboratorieresultater og dine ordrer, alt sammen i Tava Labs appen.",
+    "headlineLead": "Dit serum, laboratorier og ordrer",
+    "headlineTrail": "i én app.",
+    "scroll": "Rul",
+    "caption": "Tava Labs appen samler din serumplan, din daglige rutine, dine laboratoriepaneler og resultater samt dine ordrer ét sted, bygget til iPhone.",
+    "features": [
+      {
+        "title": "En daglig rutine",
+        "desc": "Morgen og aftensessioner, krydset af trin for trin."
+      },
+      {
+        "title": "Streaks og fremskridt",
+        "desc": "Din nuværende stime og de dage, der er tilbage i din plan."
+      },
+      {
+        "title": "Laboratoriepaneler og resultater",
+        "desc": "Paneler, resultater og intervaller i din lomme."
+      },
+      {
+        "title": "Ordrer og genopfyldninger",
+        "desc": "Se dine ordrer og genopfyldningsdatoer på ét sted."
+      }
+    ],
+    "phone": {
+      "today": "I dag",
+      "goodMorning": "Godmorgen",
+      "dayLine": "Dag 12 af 30 · 18 dage tilbage til din første fulde måned",
+      "stepsToGo": "I dag: 4 af 6 rutinetrin tilbage",
+      "morningRoutine": "Morgenrutine",
+      "amDrops": "AM · 3 dråber",
+      "clinicalReview": "Klinisk gennemgang",
+      "resultsIn": "Dine resultater er kommet",
+      "optimal": "4 optimale",
+      "inRange": "2 inden for interval",
+      "toReview": "1 til gennemgang",
+      "tabs": {
+        "today": "I dag",
+        "shop": "Shop",
+        "lab": "Laboratorie",
+        "orders": "Ordrer",
+        "profile": "Profil"
+      },
+      "steps": [
+        {
+          "title": "Rens",
+          "detail": "Mild rens, dup tør"
+        },
+        {
+          "title": "Påfør 3 dråber serum",
+          "detail": "Tryk ind i ansigt og hals"
+        },
+        {
+          "title": "Fugtighedscreme + SPF",
+          "detail": "SPF 30 eller højere"
+        }
+      ]
+    }
+  },
+  "categoryChrome": {
+    "readMore": "Læs mere +",
+    "showLess": "Vis mindre −",
+    "prevProducts": "Tidligere produkter",
+    "nextProducts": "Næste produkter",
+    "goTo": "Gå til {title}",
+    "explore": "Udforsk"
+  },
+  "categories": {
+    "skincare": {
+      "eyebrow": "HUDPLEJE",
+      "heroTitleLead": "Dit næste møde",
+      "heroTitleAccent": "starter med dig.",
+      "heroCopy": "Bygget til iværksættere, der pitcher, sælger og optager på kamera. Ét dagligt serum, bygget op omkring PDRN, for hud, der ser lys og udhvilet ud i rummet og på kamera.",
+      "heroFinePrint": "Kosmetisk hudpleje. Ikke beregnet til at diagnosticere, behandle, kurere eller forebygge nogen sygdom.",
+      "stamp": "HUDPLEJE TIL STIFTERE",
+      "primaryCta": "Tilføj til rutinen",
+      "secondaryCta": "Se ingredienserne",
+      "optionsEyebrow": "SORTIMENTET",
+      "optionsTitleLead": "Ét serum.",
+      "optionsTitleAccent": "Ingen hylde med gætværk.",
+      "optionsCopy": "Start med serummet. Resten af serien er på vej.",
+      "products": [
+        {
+          "title": "PDRN Brightening Serum",
+          "subtitle": "PDRN, peptider og Sodium Hyaluronate",
+          "unit": "engangskøb",
+          "imageAlt": "Tava Labs PDRN Brightening Serum flaske",
+          "badges": [
+            "Bestseller"
+          ],
+          "description": "Det daglige serum for hud, der ser lysere, fugtet og sund ud. $39 om måneden på Subscribe and Save.",
+          "linkLabel": "Se serummet"
+        },
+        {
+          "title": "Peptide Moisturizer",
+          "subtitle": "1.7 fl oz (50ml)",
+          "imageAlt": "Tava Labs Peptide Moisturizer hvid tube med et lyserødt stænk",
+          "badges": [
+            "Kommer snart"
+          ],
+          "description": "En peptid fugtighedscreme, der målretter rynker og fugter, lavet til hud der skal se samlet ud hele dagen."
+        },
+        {
+          "title": "Peptide Eye Cream",
+          "subtitle": "1 fl oz (30ml)",
+          "imageAlt": "Tava Labs Peptide Eye Cream hvid tube med en champagnedråbe",
+          "badges": [
+            "Kommer snart"
+          ],
+          "description": "Reducerer udseendet af hævelse omkring øjnene og målretter rynker i øjenområdet, for et udhvilet udseende på kamera."
+        },
+        {
+          "title": "Skin Firming Cream",
+          "subtitle": "2 oz (56g)",
+          "imageAlt": "Tava Labs Skin Firming Cream hvid krukke med en guldbølge som baggrund",
+          "badges": [
+            "Kommer snart"
+          ],
+          "description": "Hyaluronsyre og CoQ10 i en rig creme, der efterlader huden fast og velplejet af udseende."
+        }
+      ],
+      "disclaimerLead": "Tava Labs hudplejeprodukter er kosmetik. De er ikke beregnet til at diagnosticere, behandle, kurere eller forebygge nogen sygdom.",
+      "disclaimerMore": [
+        "Individuelle resultater varierer. Brug kun som anvist: 2 til 4 dråber PDRN Brightening Serum, to gange dagligt, på ren hud.",
+        "Hvis der opstår irritation, så stop brugen og kontakt en professionel. Priserne på denne side var korrekte ved offentliggørelsen og kan ændre sig."
+      ],
+      "protocolEyebrow": "RUTINEN",
+      "protocolTitleLead": "To minutter, to gange om dagen.",
+      "protocolTitleAccent": "Det er hele rutinen.",
+      "protocolCopy": "En rutine bygget omkring ét serum og en iværksætters tidsplan, tidlige opkald, sene nætter og det hele.",
+      "protocolCta": "Tilføj til rutinen",
+      "steps": [
+        {
+          "title": "Vurdér",
+          "lead": "med hudquizzen",
+          "body": "Svar på et par hurtige spørgsmål om din hud, søvn og tidsplan, så din plan starter der, hvor du faktisk er."
+        },
+        {
+          "title": "Påfør",
+          "lead": "2 til 4 dråber, to gange dagligt",
+          "body": "Morgen og aften, på ren hud. Ét serum, ét trin, ingen rutine i ti trin at vedligeholde."
+        },
+        {
+          "title": "Følg",
+          "lead": "din plan i appen",
+          "body": "Dit køb forbindes med Tava appen med en indløsningskode, hvor din plan, dine ordrer og din rutine bliver ét sted."
+        }
+      ],
+      "legalLines": [
+        "Kun kosmetiske produkter. Intet på denne side er medicinsk rådgivning."
+      ]
+    },
+    "biomarkers": {
+      "eyebrow": "LABORATORIE BIOMARKØRER",
+      "heroTitleLead": "Kend dine data,",
+      "heroTitleAccent": "på Tava.",
+      "heroCopy": "Du driver din virksomhed på tal. Snart kan du bruge den samme disciplin på dig selv: dine vigtigste biomarkører, fulgt over tid, i Tava appen.",
+      "heroFinePrint": "Kommer snart i Tava appen. Indsigter er kun til information og diagnosticerer ingen tilstand.",
+      "stamp": "DINE DATA ÉT STED",
+      "primaryCta": "Se, hvad der følges",
+      "secondaryCta": "Sådan kommer det til at fungere",
+      "optionsEyebrow": "HVAD DER FØLGES",
+      "optionsTitleLead": "Seks områder.",
+      "optionsTitleAccent": "Ét klart billede.",
+      "optionsCopy": "Biomarkørområderne i Tava appens Preview, som bygges nu.",
+      "products": [
+        {
+          "title": "Hjerne",
+          "subtitle": "Fokus og klarhed",
+          "badges": [
+            "Kommer snart"
+          ],
+          "description": "Markørerne bag fokus, klarhed og kognitivt tempo, samlet i én visning."
+        },
+        {
+          "title": "Hormoner",
+          "subtitle": "Balance",
+          "badges": [
+            "Kommer snart"
+          ],
+          "description": "Dit hormonbillede over tid, så ændringer er synlige i stedet for gættet."
+        },
+        {
+          "title": "Hjerte",
+          "subtitle": "Kardiovaskulære markører",
+          "badges": [
+            "Kommer snart"
+          ],
+          "description": "De hjertemarkører, der betyder noget, fulgt som en trend frem for en enkelt måling."
+        },
+        {
+          "title": "Metabolisme",
+          "subtitle": "Energi og forbrænding",
+          "badges": [
+            "Kommer snart"
+          ],
+          "description": "Hvordan din krop bruger energi, i tal du faktisk kan følge."
+        },
+        {
+          "title": "Tarm",
+          "subtitle": "Fordøjelsessundhed",
+          "badges": [
+            "Kommer snart"
+          ],
+          "description": "Signaler fra tarmens sundhed, der hænger sammen med energi, humør og restitution."
+        },
+        {
+          "title": "Lang levetid",
+          "subtitle": "Biologisk alder",
+          "badges": [
+            "Kommer snart"
+          ],
+          "description": "Det lange perspektiv: hvordan dine markører tilsammen danner et billede af din biologiske alder."
+        }
+      ],
+      "disclaimerLead": "Biomarkørindsigter i Tava appen er kun til information. De diagnosticerer, behandler eller forebygger ingen tilstand.",
+      "disclaimerMore": [
+        "Tal med din egen behandler om ethvert resultat, der bekymrer dig. I en nødsituation, ring 911."
+      ],
+      "protocolEyebrow": "SÅDAN KOMMER DET TIL AT FUNGERE",
+      "protocolTitleLead": "Test, gennemgå,",
+      "protocolTitleAccent": "følg trenden.",
+      "protocolCopy": "Ét dashboard til personen, der driver virksomheden, ved siden af din serumplan i den samme app.",
+      "steps": [
+        {
+          "title": "Test",
+          "lead": "gennem en laboratoriepartner",
+          "body": "Din prøve indsamles og behandles, og resultaterne lander i din Tava app."
+        },
+        {
+          "title": "Gennemgå",
+          "lead": "område for område",
+          "body": "Hjerne, hormoner, hjerte, metabolisme, tarm og lang levetid, hver med sin egen visning."
+        },
+        {
+          "title": "Følg",
+          "lead": "trenden over tid",
+          "body": "Én måling er et øjebliksbillede. Værdien er trenden, og appen bevarer den for dig."
+        }
+      ],
+      "legalLines": [
+        "Sporing af laboratorie biomarkører kommer snart og er endnu ikke åben for ordrer."
+      ]
+    },
+    "mentalHealth": {
+      "eyebrow": "MENTAL SUNDHED",
+      "heroTitleLead": "Fokusér bedre,",
+      "heroTitleAccent": "på Tava.",
+      "heroCopy": "Støtte til fokus og opmærksomhed, der starter med en klinisk gennemgang, ikke en betalingsknap.",
+      "heroFinePrint": "Efter klinisk gennemgang. Dette program er under udvikling og er endnu ikke åbent for tilmelding.",
+      "stamp": "KLINISK GENNEMGÅET BEHANDLING",
+      "primaryCta": "Se, hvordan det fungerer",
+      "optionsEyebrow": "PROGRAMMET",
+      "optionsTitleLead": "Behandling, der starter",
+      "optionsTitleAccent": "med en gennemgang.",
+      "optionsCopy": "",
+      "products": [],
+      "disclaimerLead": "Støtte til mental sundhed på Tava begynder med en klinisk gennemgang. Intet her er en diagnose eller en behandlingsanbefaling.",
+      "disclaimerMore": [
+        "Hvis du er i krise eller tænker på at skade dig selv, så ring eller skriv 988 i USA. I en nødsituation, ring 911."
+      ],
+      "protocolEyebrow": "SÅDAN FUNGERER DET",
+      "protocolTitleLead": "Gennemgang først.",
+      "protocolTitleAccent": "Så en plan.",
+      "protocolCopy": "En omhyggelig vej, i det åbne, i dit tempo.",
+      "steps": [
+        {
+          "title": "Gennemgå",
+          "lead": "med en kliniker",
+          "body": "Del din historie og det, du kæmper med, og en kliniker gennemgår, om støtte her passer til dig."
+        },
+        {
+          "title": "Plan",
+          "lead": "bygget omkring dig",
+          "body": "Hvis det passer, bygges din plan omkring dine mål og din tidsplan."
+        },
+        {
+          "title": "Støtte",
+          "lead": "undervejs",
+          "body": "Opfølgninger holder planen ærlig, efterhånden som tingene ændrer sig."
+        }
+      ],
+      "legalLines": [
+        "Tilbud om mental sundhed på Tava er under udvikling og er endnu ikke åbne for tilmelding."
+      ]
+    },
+    "peptides": {
+      "eyebrow": "PEPTIDPROGRAMMER",
+      "heroTitleLead": "Peptider,",
+      "heroTitleAccent": "med en behandler i dit hjørne.",
+      "heroCopy": "Tretten peptidprogrammer fra Tava Labs, der hver starter med en online konsultation og behandlergennemgang.",
+      "heroFinePrint": "Recept påkrævet. En autoriseret behandler afgør berettigelse efter konsultation.",
+      "stamp": "BEHANDLERGUIDEDE PROGRAMMER",
+      "primaryCta": "Start en konsultation",
+      "secondaryCta": "Sådan fungerer det",
+      "optionsEyebrow": "PROGRAMMERNE",
+      "optionsTitleLead": "Tretten programmer.",
+      "optionsTitleAccent": "Én konsultation starter et hvilket som helst af dem.",
+      "optionsCopy": "Hvert program indeholder en konsultation til $20. De fleste indeholder laboratorieprøver. Priserne er de månedlige programpriser.",
+      "unitPerMonth": "/md.",
+      "products": [
+        {
+          "subtitle": "Restitution",
+          "imageAlt": "BPC-157 program hætteglasillustration",
+          "badges": [
+            "Restitution",
+            "Tarmsundhed",
+            "Laboratorieprøver inkluderet"
+          ],
+          "description": "BPC-157 fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
+          "linkLabel": "Se program"
+        },
+        {
+          "subtitle": "Tarmsundhed",
+          "imageAlt": "CJC-1295 + Ipamorelin program hætteglasillustration",
+          "badges": [
+            "Tarmsundhed",
+            "Søvn",
+            "Restitution",
+            "Lang levetid",
+            "Laboratorieprøver inkluderet"
+          ],
+          "description": "CJC-1295 + Ipamorelin fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
+          "linkLabel": "Se program"
+        },
+        {
+          "subtitle": "Lang levetid",
+          "imageAlt": "GHK-Cu program hætteglasillustration",
+          "badges": [
+            "Lang levetid",
+            "Laboratorieprøver inkluderet"
+          ],
+          "description": "GHK-Cu fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
+          "linkLabel": "Se program"
+        },
+        {
+          "subtitle": "Restitution",
+          "imageAlt": "GLOW Injection program hætteglasillustration",
+          "badges": [
+            "Restitution",
+            "Laboratorieprøver inkluderet"
+          ],
+          "description": "GLOW Injection fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
+          "linkLabel": "Se program"
+        },
+        {
+          "subtitle": "Vægttab",
+          "imageAlt": "MOTS-C program hætteglasillustration",
+          "badges": [
+            "Vægttab",
+            "Energi",
+            "Præstation",
+            "Laboratorieprøver inkluderet"
+          ],
+          "description": "MOTS-C fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
+          "linkLabel": "Se program"
+        },
+        {
+          "subtitle": "Lang levetid",
+          "imageAlt": "NAD+ Injectable program hætteglasillustration",
+          "badges": [
+            "Lang levetid",
+            "Energi",
+            "Restitution",
+            "Fokus"
+          ],
+          "description": "NAD+ Injectable fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
+          "linkLabel": "Se program"
+        },
+        {
+          "subtitle": "Seksuel sundhed",
+          "imageAlt": "PT-141 program hætteglasillustration",
+          "badges": [
+            "Seksuel sundhed",
+            "Laboratorieprøver inkluderet"
+          ],
+          "description": "PT-141 fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
+          "linkLabel": "Se program"
+        },
+        {
+          "subtitle": "Vægttab",
+          "imageAlt": "Semaglutide + B12 (Cyanocobalamin) program hætteglasillustration",
+          "badges": [
+            "Vægttab",
+            "Laboratorieprøver inkluderet"
+          ],
+          "description": "Semaglutide + B12 (Cyanocobalamin) fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
+          "linkLabel": "Se program"
+        },
+        {
+          "subtitle": "Lang levetid",
+          "imageAlt": "Sermorelin program hætteglasillustration",
+          "badges": [
+            "Lang levetid",
+            "Restitution",
+            "Præstation",
+            "Laboratorieprøver inkluderet"
+          ],
+          "description": "Sermorelin fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
+          "linkLabel": "Se program"
+        },
+        {
+          "subtitle": "Præstation",
+          "imageAlt": "TB-500 program hætteglasillustration",
+          "badges": [
+            "Præstation",
+            "Restitution",
+            "Laboratorieprøver inkluderet"
+          ],
+          "description": "TB-500 fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
+          "linkLabel": "Se program"
+        },
+        {
+          "subtitle": "Lang levetid",
+          "imageAlt": "Tesamorelin program hætteglasillustration",
+          "badges": [
+            "Lang levetid",
+            "Restitution",
+            "Præstation",
+            "Laboratorieprøver inkluderet"
+          ],
+          "description": "Tesamorelin fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
+          "linkLabel": "Se program"
+        },
+        {
+          "subtitle": "Vægttab",
+          "imageAlt": "Tirzepatide + B12 (Cyanocobalamin) program hætteglasillustration",
+          "badges": [
+            "Vægttab",
+            "Laboratorieprøver inkluderet"
+          ],
+          "description": "Tirzepatide + B12 (Cyanocobalamin) fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
+          "linkLabel": "Se program"
+        },
+        {
+          "subtitle": "Restitution",
+          "imageAlt": "Wolverine Injection program hætteglasillustration",
+          "badges": [
+            "Restitution",
+            "Laboratorieprøver inkluderet"
+          ],
+          "description": "Wolverine Injection fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
+          "linkLabel": "Se program"
+        }
+      ],
+      "disclaimerLead": "Sammensatte lægemidler fremstilles af autoriserede apoteker til individuelle patienter. De er ikke FDA godkendt, og FDA gennemgår ikke sammensatte lægemidler for sikkerhed, effektivitet eller kvalitet.",
+      "disclaimerMore": [
+        "Medicinsk behandling leveres af uafhængige, autoriserede behandlere. Behandlere afgør uafhængigt, om en behandling er rigtig for dig; et køb garanterer ikke en recept.",
+        "En autoriseret behandler gennemgår dine oplysninger og afgør uafhængigt, om en behandling er rigtig for dig. Et køb garanterer ikke en recept.",
+        "I nødsituationer, ring 911."
+      ],
+      "protocolEyebrow": "SÅDAN FUNGERER DET",
+      "protocolTitleLead": "Konsultér, gennemgå,",
+      "protocolTitleAccent": "og begynd så.",
+      "protocolCopy": "Hvert program kører gennem uafhængige autoriserede behandlere.",
+      "protocolCta": "Start en konsultation",
+      "steps": [
+        {
+          "title": "Konsultér",
+          "lead": "online, efter din tidsplan",
+          "body": "Gennemfør online konsultationen for det program, du valgte. Konsultationen koster $20."
+        },
+        {
+          "title": "Gennemgå",
+          "lead": "af en autoriseret behandler",
+          "body": "En behandler gennemgår dine oplysninger og dine laboratorieprøver og afgør uafhængigt, om behandlingen er rigtig for dig."
+        },
+        {
+          "title": "Begynd",
+          "lead": "hvis ordineret",
+          "body": "Din medicin sendes fra et autoriseret apotek, og din behandler følger op, mens dit program fortsætter."
+        }
+      ],
+      "legalLines": [
+        "Vores peptidbutik er i øjeblikket i testtilstand, så programmer vises til gennemgang og er endnu ikke åbne for rigtige ordrer.",
+        "I nødsituationer, ring 911."
+      ]
+    }
   },
   "product": {
-   "title": "PDRN Brightening Serum til iværksættere | Tava Labs",
-   "description": "PDRN Brightening Serum fra Tava Labs er et dagligt ansigtsserum med PDRN, peptider og sodium hyaluronate for hud, der ser lysere og fugtet ud. Lavet til stiftere og virksomhedsejere. $49 som engangskøb eller $39 om måneden."
+    "breadcrumbHome": "Forside",
+    "inStock": "På lager",
+    "cleanVegan": "Ren og vegansk • PDRN aktiv",
+    "dermTested": "Dermatologisk testet • Lavet til alle hudtyper",
+    "titleLead": "PDRN Brightening",
+    "titleAccent": "Serum",
+    "pricePerUnit": "/ 30ml (1 fl oz)",
+    "subPrice": "eller $39 om måneden med Subscribe and Save",
+    "bullets": [
+      "PDRN, Acetyl Hexapeptide-8 og hyaluronsyre, til at støtte hud, der ser glattere og lysere ud.",
+      "Dyb fugt fra glycerin, Sodium PCA og Panthenol.",
+      "100% Cruelty free, fragrance free, paraben free, sulfate free, mineral oil free, silicone free og vegansk."
+    ],
+    "viewFormulation": "Se den fulde formulering og de kliniske tests",
+    "details": [
+      {
+        "title": "Mød PDRN Brightening Serum",
+        "body": "En let, fugtgivende formel for glattere, mere strålende udseende hud. Den absorberes hurtigt, efterlader ingen rester og holder huden behagelig."
+      },
+      {
+        "title": "Ingredienser og formulering",
+        "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin."
+      },
+      {
+        "title": "Sådan påfører du",
+        "body": "Påfør 2 til 4 dråber på ren, tør hud. Massér blidt over ansigt og hals, indtil det er absorberet. Brug to gange dagligt, morgen og aften. Følg efter med fugtighedscreme eller solcreme."
+      },
+      {
+        "title": "Clean Skincare garanti",
+        "body": "Formuleret efter certificerede cruelty free standarder og fremstillet uden duft, silikoner, parabener, mineralsk olie, sulfater, ftalater eller almindelige allergener. Dermatologisk testet på alle hudtyper."
+      }
+    ],
+    "innovation": {
+      "label": "Nøgleingredienser",
+      "titleLead": "Hvad de vigtigste",
+      "titleAccent": "ingredienser gør",
+      "sub": "De tre ingredienser nedenfor udfører det meste af arbejdet i dette serum.",
+      "items": [
+        {
+          "label": "Hudtekstur",
+          "title": "PDRN",
+          "body": "Marint PDRN øger celleomsætningen, hvilket lysner en mat teint og udglatter synlig tekstur."
+        },
+        {
+          "label": "Fasthed",
+          "title": "Acetyl Hexapeptide-8",
+          "body": "Dette peptid støtter kollagenets elasticitet, for hud, der ser fastere ud."
+        },
+        {
+          "label": "Dyb fugt",
+          "title": "Hyaluronsyre og Panthenol",
+          "body": "Hyaluronsyre, Sodium PCA og Panthenol arbejder sammen om at holde fugten i hudbarrieren i over 24 timer."
+        }
+      ],
+      "imgAlts": [
+        "Serumtekstur",
+        "Krystal og formel",
+        "Krystalprøve"
+      ],
+      "footnote": "*Bio cellular aktivitet vurderet via in vitro og ex vivo kliniske evalueringer. Resultater kan variere efter individuel hudtilstand."
+    },
+    "ecosystem": {
+      "label": "Din plan",
+      "title": "Få komplet støtte til rutinen",
+      "sub": "Sammen med dit serum indeholder hver Tava Labs plan:",
+      "items": [
+        "En personlig huddiagnose og rutineguide fra din hudquiz",
+        "En behandlingsplan, der starter langsomt og bygger op over tid",
+        "Påmindelser om påføring, som du selv styrer, morgen og aften",
+        "Beskedsupport direkte i appen",
+        "Subscribe and Save levering hver måned, sæt på pause eller annuller når som helst"
+      ],
+      "note": "Sæt Subscribe and Save på pause, justér eller annuller når som helst. Engangskøb er fortsat tilgængelige til $49."
+    },
+    "clinical": {
+      "label": "Kliniske tests",
+      "titleLead": "Pas på din",
+      "titleAccent": "huds sundhed",
+      "imgAlts": [
+        "Diagram for Promotes Radiance",
+        "Diagram for Supports Deep Hydration",
+        "Diagram for Enhances Skin Texture"
+      ],
+      "note": "Evalueringer af topiske bioaktive stoffer baseret på 8 ugers forbrugeropfattelse og instrumentelle fugttests. Individuelle hudbarrierer, genetik og miljø påvirker konkrete tidslinjer og resultater."
+    },
+    "formulary": {
+      "label": "Sammenlign formler",
+      "title": "Hvilken hudplejebehandling passer til dig?",
+      "sub": "Formler til forskellige hudmål, bekymringer og rutiner. Vælg den, der passer til din hud og din tidsplan.",
+      "serumAlt": "PDRN Brightening Serum",
+      "serumPriceLine": "Subscribe and Save $39/md.",
+      "serumOneTime": "eller $49 som engangskøb",
+      "primaryBenefit": "Primær fordel",
+      "howToUse": "Sådan bruges den",
+      "activeIngredient": "Aktiv ingrediens",
+      "serumBenefitValue": "Lyshed og fasthed",
+      "serumHowValue": "Morgen og aften",
+      "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
+      "selectSerum": "Vælg serum",
+      "comingSoon": "Kommer snart",
+      "status": "Status",
+      "sizeLabel": "Størrelse",
+      "others": [
+        {
+          "rows": [
+            [
+              "Primær fordel",
+              "Daglig fugt"
+            ],
+            [
+              "Størrelse",
+              "1.7 fl oz (50ml)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Primær fordel",
+              "Pleje af øjenområdet"
+            ],
+            [
+              "Størrelse",
+              "1 fl oz (30ml)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Primær fordel",
+              "Opstramning og fugt"
+            ],
+            [
+              "Størrelse",
+              "2 oz (56g)"
+            ],
+            [
+              "Aktiv ingrediens",
+              "Hyaluronsyre og CoQ10"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Primær fordel",
+              "Pleje af hovedbund og hår"
+            ],
+            [
+              "Størrelse",
+              "1 fl oz (30ml)"
+            ]
+          ]
+        }
+      ]
+    },
+    "protocol": {
+      "label": "Sådan bruger du det",
+      "titleLead": "Én enkel rutine,",
+      "titleAccent": "to gange om dagen",
+      "sub": "Regelmæssighed betyder noget. Følg disse trin morgen og aften, og afslut med fugtighedscreme for at holde fugten inde.",
+      "progressionLabel": "Klinisk progression",
+      "progressionTitle": "Tidslinje for synlige resultater",
+      "progressionBody": "Lysere og mere fugtet hud på 7 til 14 dage; forbedret hudelasticitet og barrierefasthed ved uge 4 til 6.",
+      "timelineAlt": "Eksempel på tidslinje for resultater, uge 1 til 4 og derefter",
+      "steps": [
+        {
+          "title": "Rens, med en mild vask",
+          "body": "Rens med en mild, pH balanceret vask for at fjerne snavs og forberede huden, uden at fjerne dens naturlige lipider."
+        },
+        {
+          "title": "PDRN Serum, 2 til 4 dråber",
+          "body": "Påfør 2 til 4 dråber PDRN Serum på fugtig hud. Tryk og dup blidt over ansigt og hals, indtil det er helt absorberet."
+        },
+        {
+          "title": "Fugt og hydrér",
+          "body": "Påfør fugtighedscreme for at holde på peptiderne og støtte hudbarrieren."
+        },
+        {
+          "title": "Beskyt (kun AM), SPF 30+",
+          "body": "Afslut morgenrutinen med bredspektret SPF 30+ for at beskytte huden mod UV og skader fra frie radikaler."
+        },
+        {
+          "title": "Din personlige plan, inkluderet",
+          "body": "Din hudquiz bygger din plan, herunder hvordan du starter langsomt, og hvornår du bygger op."
+        }
+      ]
+    },
+    "faqSection": {
+      "label": "Spørgsmål og svar",
+      "title": "Ofte stillede spørgsmål",
+      "viewAll": "Se alle ofte stillede spørgsmål",
+      "items": [
+        {
+          "q": "Hvad er PDRN, og hvordan gavner det huden?",
+          "a": "PDRN (Polydeoxyribonucleotide) består af DNA fragmenter, der er biokompatible med menneskelige hudceller. Det fremmer naturlig celleregenerering, stimulerer mikrocirkulationen og hjælper med at reparere hudbarrieren, for hud, der ser lysere og fastere ud."
+        },
+        {
+          "q": "Hvordan indarbejder jeg PDRN Brightening Serum i min hudplejerutine?",
+          "a": "Brug PDRN Brightening Serum to gange dagligt efter rens og toner. Fordel 2 til 4 dråber direkte på fingerspidserne eller på fugtig hud og glat det ud over ansigt, hals og décolleté. Følg efter med din fugtighedscreme og solcreme om morgenen."
+        },
+        {
+          "q": "Er dette serum egnet til sensitiv og akneudsat hud?",
+          "a": "Ja. Vores formulering er non comedogenic, oliefri, duftfri og beriget med beroligende Panthenol. Den dæmper sensitivitet, mens den fugter dybt uden at tilstoppe porerne eller udløse irritation."
+        },
+        {
+          "q": "Kan jeg lægge PDRN i lag med retinol, C vitamin eller AHA/BHA?",
+          "a": "Ja. PDRN fungerer godt sammen med aktive behandlinger som retinoider og C vitamin. Dens fugtgivende base hjælper med at lindre den afskalning eller rødme, som kemiske eksfolianter kan forårsage."
+        },
+        {
+          "q": "Hvor længe holder én 30ml flaske typisk?",
+          "a": "Ved påføring af 2 til 4 dråber to gange dagligt holder én 30ml (1 fl oz) flaske typisk 4 til 6 uger. Subscribe and Save sender den næste flaske, før du løber tør."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Ét serum for hud, der ser lysere, fugtet og glattere ud.",
+      "line": "PDRN Brightening Serum · $49.00 / 30ml · Ren og vegansk · Dyb fugt · Annuller når som helst"
+    },
+    "gallery": {
+      "view": "Se {n}",
+      "alts": [
+        "PDRN Brightening Serum flaske",
+        "Serumflaske visning 2",
+        "Serumflaske visning 3",
+        "Serumflaske visning 4",
+        "Serumflaske visning 5"
+      ]
+    }
+  },
+  "moisturizer": {
+    "breadcrumbHome": "Forside",
+    "inStock": "På lager",
+    "subBadge": "Kobberpeptid og tranebærekstrakt",
+    "madeLine": "Fremstillet i USA",
+    "titleLead": "Peptide",
+    "titleAccent": "Moisturizer",
+    "pricePerUnit": "1.7 fl oz (50 ml)",
+    "intro": "En ansigtscreme med kobberpeptid og tranebærekstrakt. Den fugter huden og målretter synlige fine linjer og rynker.",
+    "bullets": [
+      "Fugter huden og plejer ansigt og hals, morgen eller aften.",
+      "Lavet med kobberpeptid og tranebærekstrakt.",
+      "Målretter synlige fine linjer og rynker.",
+      "Lavet til grundlæggere og virksomhedsejere. Et enkelt trin, morgen eller aften."
+    ],
+    "details": [
+      {
+        "title": "Sådan bruger du den",
+        "body": "Påfør en mængde på størrelse med en mønt på ansigt og hals og massér blidt, indtil alt er absorberet. Brug morgen eller aften."
+      },
+      {
+        "title": "Ingredienser",
+        "body": "Aqua, Sorbitan Olivate, Cetearyl Olivate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Cetyl Alcohol, Stearyl Alcohol, Methylglucoside Phosphate, Copper Lysinate/Prolinate, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Eclipta Prostrata Extract, Moringa Oleifera Seed Extract, Melia Azadirachta (Neem) Leaf Extract, Glycerin, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate, Totarol, Hamamelis Virginiana (Witch Hazel) Water, Xanthan Gum, Alcohol, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Maltodextrin, Syringa Vulgaris (Lilac) Leaf Cell Culture Extract."
+      },
+      {
+        "title": "Godt at vide",
+        "body": "Kun til udvortes brug. Må ikke indtages. Undgå kontakt med øjnene. Stop brugen, hvis der opstår irritation. Opbevares utilgængeligt for børn. Opbevares køligt og tørt. Størrelse 1.7 fl oz (50 ml). Fremstillet i USA."
+      }
+    ],
+    "keyIngredients": {
+      "label": "Vigtige ingredienser",
+      "titleLead": "Hvad de vigtigste",
+      "titleAccent": "ingredienser er",
+      "sub": "Ingredienserne nedenfor er dem, denne fugtighedscreme er bygget omkring.",
+      "items": [
+        {
+          "title": "Kobberpeptid",
+          "body": "Kobberpeptid, angivet på etiketten som Copper Lysinate/Prolinate, er peptidet i denne formel. Det målretter synlige fine linjer og rynker."
+        },
+        {
+          "title": "Tranebærekstrakt",
+          "body": "Tranebærekstrakt kommer fra tranebærfrugten. Det indgår som et planteekstrakt i den daglige formel."
+        },
+        {
+          "title": "Aloe vera og troldnød",
+          "body": "Aloe vera bladsaft og troldnøddevand er planteingredienser i formlen. De står ved siden af glycerin, som hjælper huden med at holde på fugten."
+        },
+        {
+          "title": "Moringa og neem",
+          "body": "Moringafrøekstrakt og neembladekstrakt er planteekstrakter i formlen. E vitamin, angivet som Tocopheryl Acetate, indgår også."
+        }
+      ]
+    },
+    "howToUse": {
+      "label": "Sådan bruger du den",
+      "title": "Et trin, morgen eller aften",
+      "sub": "Påfør fugtighedscremen på ansigt og hals som det fugtende trin i din rutine.",
+      "steps": [
+        {
+          "title": "Morgen",
+          "body": "Påfør en mængde på størrelse med en mønt på ansigt og hals om morgenen. Massér blidt, indtil alt er absorberet."
+        },
+        {
+          "title": "Aften",
+          "body": "Påfør en mængde på størrelse med en mønt på ansigt og hals om aftenen. Massér blidt, indtil alt er absorberet."
+        }
+      ]
+    },
+    "faqSection": {
+      "label": "Spørgsmål og svar",
+      "title": "Ofte stillede spørgsmål",
+      "items": [
+        {
+          "q": "Hvad er Peptide Moisturizer?",
+          "a": "Det er en ansigtscreme med kobberpeptid og tranebærekstrakt samt aloe vera, troldnød, moringa, neem, eclipta, glycerin og E vitamin. Den fugter huden og plejer ansigt og hals."
+        },
+        {
+          "q": "Hvad koster den, og hvilken størrelse har den?",
+          "a": "Den koster $27.99 som engangskøb. Størrelsen er 1.7 fl oz (50 ml). Der er ingen abonnementspris for dette produkt."
+        },
+        {
+          "q": "Hvordan bruger jeg den?",
+          "a": "Påfør en mængde på størrelse med en mønt på ansigt og hals og massér blidt, indtil alt er absorberet. Brug morgen eller aften."
+        },
+        {
+          "q": "Hvem er den lavet til?",
+          "a": "Den er lavet til grundlæggere og virksomhedsejere, som ønsker et enkelt fugtende trin, morgen eller aften. Den målretter synlige fine linjer og rynker."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Peptide Moisturizer til daglig fugt.",
+      "line": "Peptide Moisturizer · $27.99 · 1.7 fl oz (50 ml) · Fremstillet i USA"
+    },
+    "gallery": {
+      "view": "Se {n}",
+      "alts": [
+        "Peptide Moisturizer krukke med låget på",
+        "Peptide Moisturizer krukke med låget af",
+        "Tre Peptide Moisturizer krukker",
+        "To Peptide Moisturizer krukker"
+      ]
+    }
   },
   "about": {
-   "title": "Om Tava Labs | Ansigtsserum til stiftere",
-   "description": "Tava Labs laver ét produkt, PDRN Brightening Serum, et dagligt ansigtsserum til stiftere og virksomhedsejere. Læs, hvem vi er, og hvorfor vi lavede det."
-  },
-  "ingredients": {
-   "title": "PDRN Brightening Serum ingredienser | Tava Labs",
-   "description": "Hver ingrediens i PDRN Brightening Serum forklaret, fra PDRN og peptider til Sodium Hyaluronate og Panthenol, plus den fulde INCI liste og det, vi udelader."
-  },
-  "faq": {
-   "title": "PDRN Brightening Serum spørgsmål og svar | Tava Labs",
-   "description": "Svar om PDRN Brightening Serum: priser, Subscribe and Save, leveringstider, returnering, hudquizzen og hvordan du forbinder dit køb med Tava appen."
+    "label": "Om os",
+    "titleLead": "Et dagligt ansigtsserum",
+    "titleAccent": "til stiftere.",
+    "tagline": "Byg din virksomhed. Forsøm ikke dig selv.",
+    "p1": "Tava Labs er et hudplejemærke for folk, der bygger virksomheder. Dit udseende er en del af din professionelle tilstedeværelse. Folk ser dig på kamera, i pitchmøder og på arbejdet hver dag.",
+    "p2": "Vi laver én ting, og vi laver den godt. Et dagligt serum, der holder din hud fugtet og udhvilet at se på, uden en kompliceret rutine.",
+    "p3": "Tava Labs blev grundlagt til stiftere og virksomhedsejere. Ét trin, morgen og aften, før møderne, pitchene og kameraarbejdet.",
+    "p4": "Hudpleje, behandlet som grundlæggende vedligeholdelse. Den samme regelmæssighed, du bringer til din virksomhed, anvendt på din egen rutine.",
+    "serumLabel": "Serummet",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumAlt": "PDRN Brightening Serum",
+    "serumBody": "En daglig rutine for teinten, bygget omkring PDRN (Polydeoxyribonucleotide) og Acetyl Hexapeptide-8, med Sodium Hyaluronate og Panthenol for fugt og komfort. Clean og duftfri, og fremstillet uden noget fra vores free from liste.",
+    "bullets": [
+      "PDRN for en lysere, mere ensartet udseende teint.",
+      "Acetyl Hexapeptide-8 til at støtte et fastere udseende.",
+      "Sodium Hyaluronate og Panthenol for fugt.",
+      "Brug to gange dagligt: 2 til 4 pump på ren, tør hud, morgen og aften."
+    ],
+    "priceLine": "$49 som engangskøb, eller $39 om måneden med Subscribe & Save.",
+    "philosophyLabel": "Vores filosofi",
+    "quote": "“Ét serum, to minutter, morgen og aften. Det er hele rutinen.”",
+    "philosophyCaption": "Tava Labs filosofien",
+    "philosophyP1": "Vi tror på at passe på dig selv på samme måde, som du passer på dit arbejde, med små trin gjort konsekvent hver dag.",
+    "philosophyP2": "Vi lover ikke forvandling. Vi laver et velformuleret dagligt serum og fortæller dig præcis, hvad der er i det.",
+    "onlineTitle": "Kun online",
+    "onlineSegments": [
+      {
+        "text": "Tava Labs er et brand, der kun findes online. Spørgsmål? Skriv til "
+      },
+      {
+        "text": "support@tavalabs.app",
+        "href": "mailto:support@tavalabs.app"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "contactUs": "Kontakt os"
   },
   "contact": {
-   "title": "Kontakt Tava Labs | Support, salg og partnerskaber",
-   "description": "Kontakt Tava Labs for produktsupport, hjælp til ordrer, engros, partnerskaber og presse. Skriv til support@tavalabs.app for ordrer og produkthjælp, eller til talia@tavalabs.app for engros, partnerskaber og presse. Eller ring 909-906-1308."
+    "label": "Kontakt os",
+    "title": "Vi vil meget gerne høre fra dig.",
+    "sub": "Skriv til os, så vender vi tilbage. Vælg det emne, der passer, eller skriv direkte til os.",
+    "emailLabel": "Email:",
+    "phoneLabel": "Telefon:",
+    "topics": {
+      "general": {
+        "title": "Generelt",
+        "body": "Generelle spørgsmål om Tava Labs og serummet."
+      },
+      "wholesale": {
+        "title": "Engros",
+        "body": "Engros og detailhenvendelser om PDRN Brightening Serum."
+      },
+      "sales-support": {
+        "title": "Salgssupport",
+        "body": "Spørgsmål om bestilling, Subscribe & Save og betaling."
+      },
+      "product-support": {
+        "title": "Produktsupport",
+        "body": "Hjælp til brug af serummet, rutiner og din personlige plan."
+      },
+      "partnerships": {
+        "title": "Partnerskaber",
+        "body": "Partnerskaber med acceleratorer, universiteter, investorer og fællesskaber."
+      },
+      "pr": {
+        "title": "PR",
+        "body": "Presse og mediehenvendelser."
+      }
+    }
+  },
+  "faq": {
+    "label": "Ofte stillede spørgsmål",
+    "titleLead": "Ofte stillede",
+    "titleAccent": "spørgsmål",
+    "sub": "Svar om serummet, bestilling, forsendelse og din personlige plan.",
+    "items": [
+      {
+        "q": "Hvad er PDRN Brightening Serum?",
+        "a": [
+          {
+            "text": "Et dagligt serum bygget op omkring PDRN (Polydeoxyribonucleotide) og Acetyl Hexapeptide-8, med Sodium Hyaluronate og Panthenol. Påfør det morgen og aften for at støtte en teint, der ser lysere og mere ensartet ud."
+          }
+        ]
+      },
+      {
+        "q": "Hvordan bruger jeg det?",
+        "a": [
+          {
+            "text": "Påfør 2 til 4 dråber på ren, tør hud, morgen og aften. Følg efter med fugtighedscreme. Hvis du er ny til aktiv hudpleje, så start én gang om dagen den første uge, og byg derefter op til to gange dagligt."
+          }
+        ]
+      },
+      {
+        "q": "Hvordan får jeg min personlige plan?",
+        "a": [
+          {
+            "text": "Tag "
+          },
+          {
+            "text": "hudquizzen",
+            "href": "/quiz"
+          },
+          {
+            "text": ". Dine svar bygger en personlig plan, herunder hvordan du starter langsomt, og hvornår du bygger op."
+          }
+        ]
+      },
+      {
+        "q": "Hvor meget koster det?",
+        "a": [
+          {
+            "text": "$49 som engangskøb, eller $39 om måneden med Subscribe & Save (20% rabat). Subscribe & Save kan sættes på pause, springes over eller annulleres når som helst."
+          }
+        ]
+      },
+      {
+        "q": "Hvordan fungerer forsendelsen?",
+        "a": [
+          {
+            "text": "Ordrer behandles af vores partner og sendes til den adresse, du angiver ved betaling. Se "
+          },
+          {
+            "text": "forsendelsespolitikken",
+            "href": "/shipping"
+          },
+          {
+            "text": " for detaljer."
+          }
+        ]
+      },
+      {
+        "q": "Hvad er jeres returpolitik?",
+        "a": [
+          {
+            "text": "Alt salg er endeligt. Læs venligst "
+          },
+          {
+            "text": "returpolitikken",
+            "href": "/returns"
+          },
+          {
+            "text": " før du bestiller."
+          }
+        ]
+      },
+      {
+        "q": "Hvilke ingredienser indeholder det?",
+        "a": [
+          {
+            "text": "Den fulde ingrediensliste findes på "
+          },
+          {
+            "text": "ingredienssiden",
+            "href": "/ingredients"
+          },
+          {
+            "text": ". Serummet er duftfrit og fremstillet uden parabener, sulfater, silikoner, mineralsk olie, ftalater og almindelige allergener."
+          }
+        ]
+      },
+      {
+        "q": "Er det egnet til min hudtype?",
+        "a": [
+          {
+            "text": "Serummet er formuleret til at passe til alle hudtyper. Hvis du har en hudlidelse eller bekymringer, så tal med din hudlæge, før du starter ny hudpleje."
+          }
+        ]
+      },
+      {
+        "q": "Hvordan kontakter jeg jer?",
+        "a": [
+          {
+            "text": "Skriv til support@tavalabs.app eller brug "
+          },
+          {
+            "text": "Kontakt os",
+            "href": "/contact"
+          },
+          {
+            "text": " siden."
+          }
+        ]
+      }
+    ]
+  },
+  "ingredients": {
+    "label": "Ingredienser",
+    "titleLead": "Hvad der er i, og",
+    "titleAccent": "hvad vi udelader.",
+    "intro": "Her er hver ingrediens i PDRN Brightening Serum, hvad hver enkelt gør, og den fulde liste, præcis som den står på etiketten.",
+    "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Made in the USA · Egnet til alle hudtyper.",
+    "keyTitle": "Nøgleingredienser",
+    "keyItems": [
+      {
+        "name": "PDRN (Polydeoxyribonucleotide)",
+        "body": "Vores vigtigste aktive ingrediens. Støtter en teint, der ser lysere og mere ensartet ud."
+      },
+      {
+        "name": "Acetyl Hexapeptide-8",
+        "body": "Et peptid, der støtter et fastere og glattere udseende."
+      },
+      {
+        "name": "Sodium Hyaluronate (Hyaluronic Acid)",
+        "body": "Trækker fugt ind for fugtet, behagelig hud."
+      },
+      {
+        "name": "Panthenol",
+        "body": "Beroliger og støtter hudbarrieren."
+      },
+      {
+        "name": "Glycerin + Sodium PCA",
+        "body": "Fugtbindere, der hjælper huden med at holde på vandet gennem dagen."
+      }
+    ],
+    "fullTitle": "Fuld ingrediensliste",
+    "howTitle": "Sådan bruges den",
+    "howBody": "Påfør 2 til 4 pump på ren, tør hud, morgen og aften. Følg efter med fugtighedscreme. Start én gang om dagen, hvis du er ny til aktiv hudpleje.",
+    "warningTitle": "Advarsel",
+    "warningBody": "Kun til udvortes brug. Undgå direkte kontakt med øjnene. Stop brugen, hvis der opstår irritation. Opbevares utilgængeligt for børn."
   },
   "partners": {
-   "title": "Bliv partner med Tava Labs | Gratis serum til dit program",
-   "description": "Acceleratorer, inkubatorer, erhvervsprogrammer og investorer: giv jeres stiftere en gratis måneds forsyning af PDRN Brightening Serum. Bliv partner med Tava Labs."
-  },
-  "research": {
-   "title": "Resultater fra 16 ugers forskning | Tava Labs",
-   "description": "Målte resultater fra Tava Labs 16 ugers deltagerprogram. Ændringer fra baseline til uge 16 i akne, fugt, rødme, pigmentering og tekstur, med hele programprotokollen."
+    "label": "Bliv partner med Tava Labs",
+    "titleLead": "Giv dine stiftere en gratis måned med",
+    "titleAccent": "Tava Labs.",
+    "intro": "Tava Labs samarbejder med acceleratorer, universiteter, engleinvestorer og stifterfællesskaber. Dine medlemmer får deres første måned med PDRN Brightening Serum gratis.",
+    "tagline": "En gratis måned fra os, uden omkostninger og uden forpligtelser.",
+    "becomePartner": "Bliv partner",
+    "partnershipsContact": "Kontakt for partnerskaber",
+    "audiences": [
+      {
+        "alt": "Startup stiftere ved en acceleratorsession",
+        "title": "Til acceleratorer",
+        "body": "Dine stiftere pitcher, demonstrerer og filmer indhold fra dag ét. Giv dem en måned med daglig hudpleje, der tager to minutter om dagen under programmet.",
+        "how": "Sådan fungerer det: vi sender hver stifter i dit hold én gratis flaske, med en personlig plan fra hudquizzen. Du introducerer os én gang; vi klarer alt andet."
+      },
+      {
+        "alt": "Universitetsstuderende på campus",
+        "title": "Til universiteter",
+        "body": "Iværksætterstuderende bygger i offentligheden: pitchkonkurrencer, demodage, stiftertalks og første investormøder. En gratis måned med Tava Labs er en praktisk, mindeværdig gave til de studerende i dit program.",
+        "how": "Sådan fungerer det: vi leverer flasker til dit hold, din klasse eller dit arrangement, plus en enkel folder. Ingen omkostninger for universitetet og ingen omkostninger for de studerende."
+      },
+      {
+        "alt": "Investormøde med en stifter",
+        "title": "Til engleinvestorer",
+        "body": "En gratis måned med Tava Labs er en praktisk gave til stifterne i din portefølje. Vi sørger for leveringen og deres personlige planer.",
+        "how": "Sådan fungerer det: fortæl os, hvor mange stiftere du gerne vil give en gave, så arrangerer vi levering og deres personlige planer. Ingen omkostninger for dig og ingen omkostninger for dem."
+      }
+    ],
+    "whyTitleLead": "Nul omkostninger. Nul besvær.",
+    "whyTitleAccent": "Ægte værdi.",
+    "why": [
+      {
+        "title": "Mere værdi fra dag ét",
+        "body": "Dine medlemmer får et rigtigt produkt og en personlig plan, ikke en rabatkode, de glemmer."
+      },
+      {
+        "title": "Nul omkostninger for dig",
+        "body": "Den første måned er på vores regning, for hver person du giver den til."
+      },
+      {
+        "title": "Nul besvær for dig",
+        "body": "Vi klarer forsendelse, onboarding og support. Du laver én introduktion."
+      },
+      {
+        "title": "En gave, de faktisk vil bruge",
+        "body": "Ét trin, morgen og aften. Den passer til en stifters tidsplan, fordi den er designet til en."
+      }
+    ],
+    "formulationTitle": "Lavet uden disse ingredienser.",
+    "formulationSub": "Serummet er fremstillet uden de ingredienser, dine medlemmer spørger mest om:",
+    "stepsTitle": "Sådan fungerer et partnerskab",
+    "steps": [
+      {
+        "title": "Ræk ud",
+        "body": "Fortæl os om dit program, og hvor mange mennesker du gerne vil give en gave."
+      },
+      {
+        "title": "Vi arrangerer gaven",
+        "body": "Vi sender serummet og opsætter hver persons personlige plan fra hudquizzen."
+      },
+      {
+        "title": "Du giver gaven",
+        "body": "Dine medlemmer får en gratis måned med serummet, med en takkenote fra os i hver kasse."
+      }
+    ],
+    "closingTitleLead": "Giv dine stiftere en",
+    "closingTitleAccent": "gratis måned.",
+    "closingSegments": [
+      {
+        "text": "Skriv til "
+      },
+      {
+        "text": "talia@tavalabs.app",
+        "href": "mailto:talia@tavalabs.app"
+      },
+      {
+        "text": " eller ring "
+      },
+      {
+        "text": "909-906-1308",
+        "href": "tel:+19099061308"
+      },
+      {
+        "text": ", så sætter vi det op."
+      }
+    ]
   },
   "blog": {
-   "title": "The Tava Journal | Hud, søvn og stress for stiftere",
-   "description": "Søvnforskning, stressforskning og hudens sundhed for stiftere og virksomhedsejere, plus praktiske rutiner til at se udhvilet ud på arbejdet."
+    "label": "The Tava Journal",
+    "titleLead": "Forskning i søvn og stress",
+    "titleAccent": "for stiftere",
+    "sub": "Artikler om søvnforskning, stressforskning og hudens sundhed for stiftere og virksomhedsejere.",
+    "readStory": "Læs historien"
   },
-  "quiz": {
-   "title": "Hudquiz | Byg din personlige serumplan | Tava Labs",
-   "description": "Svar på et par hurtige spørgsmål og byg din personlige plan omkring PDRN Brightening Serum. Ét serum, to gange om dagen, tilpasset din hud og dine mål."
-  },
-  "checkoutSuccess": {
-   "title": "Ordre bekræftet | Din PDRN Brightening Serum | Tava Labs",
-   "description": "Din ordre på PDRN Brightening Serum fra Tava Labs er bekræftet. Din indløsningskode forbinder dette køb med appen, hvor du kan se din plan, dine quizsvar og din ordre."
-  },
-  "checkoutCancel": {
-   "title": "Betaling annulleret | Ingen opkrævning | Tava Labs",
-   "description": "Der blev ikke foretaget nogen betaling. Din plan og dine svar hos Tava Labs er gemt, så du kan færdiggøre din ordre senere, når du er klar."
-  },
-  "login": {
-   "title": "Log ind | Tava Labs",
-   "description": "Log ind på din Tava Labs konto: din plan, dine ordrer, din rutine og support, knyttet til den samme email som mobilappen."
+  "research": {
+    "pill": "Research Series 001 · Deltagerresultater",
+    "h1Lead": "Et 16 ugers kig på målte",
+    "h1Accent": "hudforandringer.",
+    "heroSub": "Et prospektivt, åbent deltagerprogram, der kombinerer en personlig hudplejerutine, kosttilskud og livsstilsvejledning. Hvert tal på denne side stammer fra rapporten, målt ved baseline og ved uge 16.",
+    "chips": [
+      "Prospektivt og åbent",
+      "Én arm",
+      "Medicinsk overvåget",
+      "Fysisk klinisk forskningssted"
+    ],
+    "headlineLabel": "Hovedresultat",
+    "headlineTitle": "Samlet antal akne faldt fra 16.8 til 6.2",
+    "slopeAria": "Hældningsgraf, der viser samlet antal akne fra 16.8 ved baseline til 6.2 ved uge 16",
+    "slopeBaseline": "Baseline 16.8",
+    "slopeWeek": "Uge 16 · 6.2",
+    "slopeNote": "Kun en lige linje mellem de to målte punkter. Rapporten offentliggjorde ikke resultatværdier for uge 4, 8 eller 12.",
+    "badges": [
+      {
+        "big": "60 procent højere",
+        "small": "Hudfugt, 29.4 AU til 47.1 AU"
+      },
+      {
+        "big": "52 procent lavere",
+        "small": "Klinisk teksturscore, 2.7 af 4 til 1.3 af 4"
+      }
+    ],
+    "statsLabels": [
+      "Uger i programmet",
+      "Voksne tilmeldt",
+      "Personer, der gennemførte alle besøg",
+      "Gennemførelsesrate"
+    ],
+    "percentWord": "procent",
+    "resultsBg": "Resultater",
+    "resultsLabel": "Gennemsnitlig ændring · Baseline til uge 16",
+    "resultsTitle": "Hvad der ændrede sig, i klare tal.",
+    "resultsSub": "Resultater for de 84 deltagere, der gennemførte alle besøg. Hvert kort sammenligner de to tidspunkter, studiet faktisk målte.",
+    "baseline": "Baseline",
+    "week16": "Uge 16",
+    "slopeFoot": "Baseline til uge 16",
+    "results": [
+      {
+        "title": "Samlet antal akne",
+        "change": "63 procent lavere",
+        "note": "Akne talt af hudlæge"
+      },
+      {
+        "title": "Hudfugt",
+        "change": "60 procent højere",
+        "note": "Corneometer måling i AU"
+      },
+      {
+        "title": "Erytem og rødmeindeks",
+        "change": "30 procent lavere",
+        "note": "Chromameter indeks"
+      },
+      {
+        "title": "Melanin og pigmenteringsindeks",
+        "change": "25 procent lavere",
+        "note": "Chromameter indeks"
+      },
+      {
+        "title": "Klinisk teksturscore",
+        "change": "52 procent lavere",
+        "note": "Vurderet på en skala fra 0 til 4"
+      }
+    ],
+    "peopleBg": "Mennesker",
+    "participantsLabel": "Hvem der deltog",
+    "participantsTitle": "Hvem der deltog i programmet.",
+    "participantsSub": "Fem besøg gennem programmet, fra baseline til uge 16.",
+    "ageLabel": "Gennemsnitsalder",
+    "ageSuffix": "År · Spænd 20 til 48",
+    "visitTimeline": "Besøgstidslinje",
+    "visits": [
+      {
+        "name": "Baseline",
+        "desc": "Screening, målinger og fotografering"
+      },
+      {
+        "name": "Uge 4",
+        "desc": "Opfølgende vurdering"
+      },
+      {
+        "name": "Uge 8",
+        "desc": "Opfølgende vurdering"
+      },
+      {
+        "name": "Uge 12",
+        "desc": "Opfølgende vurdering"
+      },
+      {
+        "name": "Uge 16",
+        "desc": "Afsluttende målinger og fotografering"
+      }
+    ],
+    "genderTitle": "Kønsfordeling",
+    "genderAria": "Donutgraf for kønsfordeling, 74 procent kvinder, 24 procent mænd, 2 procent nonbinære",
+    "gender": [
+      {
+        "label": "Kvinder",
+        "pct": "74 procent"
+      },
+      {
+        "label": "Mænd",
+        "pct": "24 procent"
+      },
+      {
+        "label": "Nonbinære",
+        "pct": "2 procent"
+      }
+    ],
+    "donutNote": "Donutten animerer til den rapporterede fordeling, når den ruller ind i syne.",
+    "concernsTitle": "Hudbekymringer ved baseline",
+    "concerns": [
+      "Postinflammatorisk hyperpigmentering",
+      "Uensartet tekstur og ruhed",
+      "Inflammatorisk akne",
+      "Rødme og sensitivitet i ansigtet",
+      "Mørke rande under øjnene",
+      "Tørhed og svækket barriere",
+      "Fine linjer og tidlig fotoældning"
+    ],
+    "concernsNote": "Deltagerne kunne rapportere mere end én bekymring, så disse andele lægger ikke op til 100 procent.",
+    "programBg": "Program",
+    "programLabel": "Program og protokol",
+    "programTitle": "Det 16 ugers program, trin for trin.",
+    "programSub": "Deltagerne modtog fysisk screening, produktudlevering, vejledning i påføring og opfølgende vurderinger på et klinisk forskningssted.",
+    "morningTag": "Morgenrutine",
+    "morningTitle": "Start dagen",
+    "amSteps": [
+      "Mild rens",
+      "C vitamin serum, 15 procent",
+      "Ceramid fugtighedscreme",
+      "Mineralsk solcreme, SPF 50"
+    ],
+    "eveningTag": "Aftenrutine",
+    "eveningTitle": "Afslut dagen",
+    "pmSteps": [
+      "Mild rens",
+      "Niacinamide 5 procent plus zinkserum",
+      "Peptid barrierecreme",
+      "Retinol 0.3 procent, introduceret i uge 2 og titreret under klinisk vejledning"
+    ],
+    "routineNote": "Retinol blev brugt 3 til 5 nætter om ugen efter den indledende to ugers optrapningsperiode. Efter behov blev 2 procent salicylsyre brugt til aktive læsioner.",
+    "supplementLabel": "Tilskudsrutine",
+    "supplementTitle": "Tava Skin Complex",
+    "supplementSub": "To kapsler dagligt til morgenmad. Mængder vist per portion på to kapsler.",
+    "supplements": [
+      "Vitamin C",
+      "Zink",
+      "Niacinamide",
+      "Astaxanthin",
+      "Curcumin phytosome",
+      "Lactobacillus probiotisk blanding"
+    ],
+    "supplementNote": "Valgfrit tillæg, Omega 3, én softgel dagligt.",
+    "nutritionTitle": "Ernæringsvejledning",
+    "nutritionItems": [
+      "Mindst 2.5 L vand dagligt",
+      "Grøntsager, bær og fødevarer rige på omega 3",
+      "Begræns tilsat sukker og fødevarer med højt glykæmisk indeks",
+      "Valgfri to ugers reset med lavt mejeri og lavt sukker",
+      "Baseline rådgivning med en registreret diætist"
+    ],
+    "lifestyleTitle": "Livsstilsmål",
+    "lifestyleItems": [
+      "7 til 9 timers søvn",
+      "Mindst 150 minutters moderat aktivitet om ugen",
+      "Fem minutters daglig vejrtrækningsøvelse",
+      "Søvn logget ugentligt",
+      "Fugt og solcremevaner gennemgået ved besøg"
+    ],
+    "adherenceLabel": "Programsporing",
+    "adherenceTitle": "Hvor tæt folk holdt sig til planen.",
+    "adherenceSub": "Overholdelse gennem alle 16 uger, som registreret i rapporten.",
+    "adherence": [
+      "Samlet overholdelse",
+      "Overholdelse af tilskud",
+      "Overholdelse af topisk behandling"
+    ],
+    "adherenceAria": "{label}, {val} procent",
+    "adherenceFoot": "Gennem det 16 ugers program",
+    "safetyBg": "Sikkerhed",
+    "safetyLabel": "Rapporterede bivirkninger",
+    "safetyTitle": "Hvad deltagerne rapporterede.",
+    "safetySub": "Andele af deltagere, der rapporterede hver effekt under programmet.",
+    "sideEffectsTitle": "Bivirkninger",
+    "sideEffects": [
+      "Mild tørhed eller afskalning",
+      "Midlertidig akneopblussen",
+      "Mildt gastrointestinalt ubehag"
+    ],
+    "withdrawalsTitle": "Frafald",
+    "withdrawalsSub": "8 deltagere trak sig ud af de 92 tilmeldte.",
+    "withdrawals": [
+      {
+        "label": "Tidsplankonflikter",
+        "value": "5 personer"
+      },
+      {
+        "label": "Milde bivirkninger",
+        "value": "2 personer"
+      },
+      {
+        "label": "Tabt til opfølgning",
+        "value": "1 person"
+      }
+    ],
+    "alertTitle": "Ingen alvorlige bivirkninger rapporteret.",
+    "alertBody": "Den linje står i rapporten sammen med de milde effekter, der er listet på denne side. Den er medtaget her, præcis som rapporteret.",
+    "photoLabel": "Visuel dokumentation",
+    "photoTitle": "Fotosammenligninger af deltagere.",
+    "photoSub": "Side om side fotografier fra det fire måneders program. Det venstre billede i hvert par viste baseline, og det højre billede viste uge 16. Ingen deltagerfotografier er gengivet på denne side.",
+    "participant": "Deltager {initial}",
+    "docViews": [
+      "Sideprofilvisning",
+      "Frontvisning",
+      "Frontvisning med briller",
+      "Nærbillede af kind"
+    ],
+    "baselineAndWeek": "Baseline og uge 16",
+    "photoProtocolTitle": "Fotograferingsprotokol",
+    "photoProtocol": "Standardiseret optagelse ved baseline og opfølgning med et fast kameraopsætning, ensartet synligt og krydspolariseret lys, frontale, 45 graders og profilvinkler samt en farvekalibreret baggrund.",
+    "methodsLabel": "Sådan blev der målt",
+    "methodsTitle": "Kliniske målinger",
+    "methods": [
+      "Akne talt af hudlæge",
+      "Corneometer fugt",
+      "Chromameter rødme og melaninindekser",
+      "Teksturvurdering på en skala fra 0 til 4",
+      "Standardiseret fotografering"
+    ],
+    "factsLabel": "Studiedesign",
+    "factsTitle": "Designet i korte træk.",
+    "facts": [
+      {
+        "k": "Design",
+        "v": "Prospektivt, åbent, én arm"
+      },
+      {
+        "k": "Rammer",
+        "v": "Fysisk fremmøde, medicinsk overvåget"
+      },
+      {
+        "k": "Vurderinger",
+        "v": "Baseline plus uge 4, 8, 12, 16"
+      },
+      {
+        "k": "Gennemført",
+        "v": "84 af 92 tilmeldte · 91 procent"
+      }
+    ],
+    "source": "Kilde, Tava Labs Participant Outcomes, Research Series 001, 16 ugers deltagerprogram. Denne side viser kun rapportens tal, med baseline og uge 16 som de to målte resultatpunkter."
   },
   "account": {
-   "title": "Din konto | Tava Labs",
-   "description": "Din Tava Labs konto på nettet: din plan, dine ordrer, din rutine og support, knyttet til den samme email som mobilappen."
-  },
-  "terms": {
-   "title": "Vilkår og betingelser | Tava Labs",
-   "description": "Vilkårene for din brug af tavalabs.app og dit køb af PDRN Brightening Serum fra Tava Labs, LLC, herunder vores politik om, at alt salg er endeligt."
-  },
-  "privacy": {
-   "title": "Privatlivspolitik | Tava Labs",
-   "description": "Sådan indsamler, bruger og beskytter Tava Labs dine oplysninger, når du besøger tavalabs.app, tager hudquizzen eller bestiller PDRN Brightening Serum."
-  },
-  "returns": {
-   "title": "Politik for returnering og refusion | Tava Labs",
-   "description": "Tava Labs politik for returnering og refusion af ordrer på PDRN Brightening Serum, herunder vores vilkår om, at alt salg er endeligt, og hvordan du kontakter support."
-  },
-  "cookies": {
-   "title": "Cookiepolitik | Tava Labs",
-   "description": "Sådan bruger Tava Labs hjemmesiden cookies og lignende værktøjer, når du besøger tavalabs.app, hvad de gemmer, og hvordan du kan styre dem."
-  },
-  "shipping": {
-   "title": "Forsendelsespolitik | Tava Labs",
-   "description": "Tava Labs forsendelsespolitik for ordrer på PDRN Brightening Serum: behandlingstider, leveringsestimater, sporing og leveringsområder."
-  }
- },
- "chrome": {
-  "homeAria": "Tava Labs forside",
-  "primaryNavAria": "Primær",
-  "mobileNavAria": "Mobil",
-  "navSerum": "Serummet",
-  "navAbout": "Om os",
-  "navIngredients": "Ingredienser",
-  "navFaqs": "Ofte stillede spørgsmål",
-  "navBlog": "Blog",
-  "navContact": "Kontakt",
-  "login": "Log ind",
-  "addToRoutine": "Tilføj til rutinen",
-  "openMenu": "Åbn menu",
-  "closeMenu": "Luk menu",
-  "language": "Sprog",
-  "tagline": "PDRN Brightening Serum til stiftere",
-  "shopHeading": "Shop",
-  "contactHeading": "Kontakt os",
-  "infoHeading": "Info",
-  "legalHeading": "Juridisk",
-  "footerSerum": "PDRN Brightening Serum",
-  "footerIngredients": "Ingredienser",
-  "contactLinks": {
-   "general": "Generelt",
-   "wholesale": "Engros",
-   "salesSupport": "Salgssupport",
-   "productSupport": "Produktsupport",
-   "pr": "PR"
-  },
-  "contactEmails": {
-   "supportLabel": "Ordrer og produkthjælp",
-   "generalLabel": "Generel kontakt"
-  },
-  "infoLinks": {
-   "about": "Om os",
-   "partners": "Partnere",
-   "ingredients": "Ingredienser",
-   "faqs": "Ofte stillede spørgsmål",
-   "blog": "Blog",
-   "research": "Forskning"
-  },
-  "newsletterHeading": "Få opdateringer fra Tava Labs på e-mail",
-  "newsletter": {
-   "placeholder": "Din email",
-   "subscribe": "Tilmeld",
-   "sending": "Sender...",
-   "done": "Du er tilmeldt. Tak.",
-   "error": "Noget gik galt, prøv venligst igen."
-  },
-  "disclaimer1": "PDRN Brightening Serum er et kosmetisk produkt. Det er ikke beregnet til at diagnosticere, behandle, kurere eller forebygge nogen sygdom. Individuelle resultater kan variere.",
-  "disclaimer2": "Alt salg er endeligt. Se venligst vores returpolitik, før du bestiller.",
-  "copyright": "© 2026 Tava Labs · PDRN Brightening Serum til stiftere",
-  "notFoundLabel": "Tava Labs",
-  "notFoundTitle": "Siden blev ikke fundet",
-  "notFoundBody": "Den side er ikke her. Den er måske flyttet, eller adressen er ufuldstændig.",
-  "notFoundHome": "Tilbage til forsiden",
-  "notFoundShop": "Køb PDRN Brightening Serum",
-  "legalLinks": {
-   "terms": "Vilkår og betingelser",
-   "privacy": "Privatlivspolitik",
-   "returns": "Returpolitik",
-   "cookies": "Cookiepolitik",
-   "shipping": "Forsendelsespolitik"
-  }
- },
- "hero": {
-  "ariaLabel": "PDRN Brightening Serum",
-  "pill": "Til stiftere og virksomhedsejere",
-  "line1": "Et dagligt ansigtsserum til",
-  "line2": "lysere, glattere hud.",
-  "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Påfør to til fire dråber morgen og aften. $49 som engangskøb eller $39 om måneden.",
-  "cardAria": "PDRN Brightening Serum, produktsiden",
-  "onSetPill": "På kamera",
-  "onSetCaption": "Til optagelse og videoopkald",
-  "onSetAlt": "Stifter siddende på et studiesæt, vendt mod kameraet",
-  "morningPill": "Morgenrutine",
-  "morningCaption": "Påfør ved spejlet hver morgen",
-  "morningAlt": "Stifter der påfører serum ved et badeværelsesspejl i morgenlys",
-  "widePill": "Dag og nat",
-  "wideHead": "Én flaske, brugt morgen og aften.",
-  "priceLine": "$49 som engangskøb eller $39 om måneden",
-  "talia": {
-   "baseline": "Baseline",
-   "week16": "Uge 16",
-   "statBig": "63% lavere",
-   "statCap": "Akne",
-   "statNote": "Gennemsnitlig ændring i det 16 ugers deltagerprogram",
-   "alt": "Talia Kade, forsker hos Tava Labs, iført hvid laboratoriekittel",
-   "slopeAria": "Trendlinje fra 16.8 ved baseline til 6.2 ved uge 16"
-  }
- },
- "home": {
-  "introTitleLead": "Lysere, fugtet,",
-  "introTitleAccent": "sundt udseende hud",
-  "introBody": "Stiftere og virksomhedsejere bruger deres dage i møder, på salgsopkald og i optagede videoer. Dit ansigt er på skærmen og i rummet under det hele. PDRN Brightening Serum er ét let trin med PDRN, peptider og hyaluronsyre. Det absorberes hurtigt og hjælper huden med at se lysere, fugtet og glat ud. To minutter, to gange om dagen.",
-  "marqueeTagline": "Ét serum, morgen og aften",
-  "marqueeSlogan": "Lavet til stiftere og virksomhedsejere",
-  "buildersTitle": "Lavet til stiftere og virksomhedsejere",
-  "buildersTagline": "Byg din virksomhed. Forsøm ikke dig selv.",
-  "buildersBody": "Stiftere og virksomhedsejere præsenterer hele dagen. Du pitcher investorer personligt, sælger på videoopkald og optager videoer til kunder. At se ren og udhvilet ud er en del af at præsentere din virksomhed godt. En kort daglig hudplejerutine hører sammen med en god garderobe og en pålidelig bærbar computer som grundlæggende vedligeholdelse. PDRN Brightening Serum tager to minutter, morgen og aften.",
-  "pitchAlt": "Stifter der pitcher sin idé for en investor",
-  "pitchTitle": "I pitchen",
-  "pitchBody": "Når du pitcher investorer personligt, ser de dig, før de ser dine slides. En daglig serumrutine hjælper din hud med at se lys, fugtet og udhvilet ud på dagen.",
-  "cameraAlt": "Stifter der taler foran et kamera",
-  "cameraTitle": "På kamera",
-  "cameraBody": "På en videooptagelse, en podcast eller et salgsopkald viser kameraet træt hud tæt på. En rutine på to minutter morgen og aften hjælper din hud med at se udhvilet ud, før du optager.",
-  "maintenanceTitle": "Ét serum er hele rutinen.",
-  "maintenanceBody": "Påfør to til fire dråber PDRN Brightening Serum på ren, tør hud, morgen og aften, og følg derefter op med fugtighedscreme. Hele rutinen tager omkring to minutter om dagen.",
-  "motionTitle": "Se kundevideoer",
-  "motionBody": "Stiftere og skabere, der bruger PDRN Brightening Serum, optaget på video.",
-  "playVideo": "Afspil video",
-  "videoPlayer": "Videoafspiller",
-  "closeVideo": "Luk video",
-  "freeFromTitleLead": "Hvad er ikke",
-  "freeFromTitleAccent": "i formlen.",
-  "freeFromSub": "Det, vi udelader, betyder lige så meget som det, vi putter i.",
-  "freeFromItems": [
-   {
-    "name": "Cruelty Free",
-    "blurb": "Aldrig testet på dyr."
-   },
-   {
-    "name": "Fragrance Free",
-    "blurb": "Ingen tilsatte parfumer eller syntetiske dufte."
-   },
-   {
-    "name": "Mineral Oil Free",
-    "blurb": "Ingen mineralsk olie eller petroleumfyldstoffer."
-   },
-   {
-    "name": "Phthalate Free",
-    "blurb": "Ingen ftalater i formlen."
-   },
-   {
-    "name": "Silicone Free",
-    "blurb": "Ingen silikoner, der lægger sig på din hud."
-   },
-   {
-    "name": "Sulfate Free",
-    "blurb": "Ingen hårde sulfater. Skånsom mod huden."
-   },
-   {
-    "name": "Allergen Free",
-    "blurb": "Fremstillet uden almindelige allergener."
-   },
-   {
-    "name": "Alcohol Free",
-    "blurb": "Ingen udtørrende alkoholer."
-   }
-  ],
-  "founderLabel": "En besked fra vores stifter",
-  "founderQuote": "“Ét serum, to minutter, morgen og aften. Det er hele rutinen.”",
-  "founderBody1": "Det er ideen bag Tava Labs. PDRN Brightening Serum er det ene trin, rutinen er bygget op omkring: to minutter, to gange om dagen, morgen og aften.",
-  "founderBody2": "Se videoen for at høre, hvorfor vi lavede det, med vores egne ord.",
-  "founderPhilosophy": "Tava Labs filosofien",
-  "founderVideoAria": "Tava Labs videoen, hvorfor vi lavede PDRN Brightening Serum",
-  "shopSerum": "Køb serummet",
-  "journalTitle": "The Tava Journal",
-  "journalSub": "Artikler om søvn, stress og hud for stiftere.",
-  "readJournal": "Læs The Tava Journal",
-  "readStory": "Læs historien"
- },
- "appTeaser": {
-  "label": "Kommer snart",
-  "lead": "Din rutine, dine laboratorieresultater og dine ordrer, alt sammen i Tava Labs appen.",
-  "headlineLead": "Dit serum, laboratorier og ordrer",
-  "headlineTrail": "i én app.",
-  "scroll": "Rul",
-  "caption": "Tava Labs appen samler din serumplan, din daglige rutine, dine laboratoriepaneler og resultater samt dine ordrer ét sted, bygget til iPhone.",
-  "features": [
-   {
-    "title": "En daglig rutine",
-    "desc": "Morgen og aftensessioner, krydset af trin for trin."
-   },
-   {
-    "title": "Streaks og fremskridt",
-    "desc": "Din nuværende stime og de dage, der er tilbage i din plan."
-   },
-   {
-    "title": "Laboratoriepaneler og resultater",
-    "desc": "Paneler, resultater og intervaller i din lomme."
-   },
-   {
-    "title": "Ordrer og genopfyldninger",
-    "desc": "Se dine ordrer og genopfyldningsdatoer på ét sted."
-   }
-  ],
-  "phone": {
-   "today": "I dag",
-   "goodMorning": "Godmorgen",
-   "dayLine": "Dag 12 af 30 · 18 dage tilbage til din første fulde måned",
-   "stepsToGo": "I dag: 4 af 6 rutinetrin tilbage",
-   "morningRoutine": "Morgenrutine",
-   "amDrops": "AM · 3 dråber",
-   "clinicalReview": "Klinisk gennemgang",
-   "resultsIn": "Dine resultater er kommet",
-   "optimal": "4 optimale",
-   "inRange": "2 inden for interval",
-   "toReview": "1 til gennemgang",
-   "tabs": {
-    "today": "I dag",
-    "shop": "Shop",
-    "lab": "Laboratorie",
-    "orders": "Ordrer",
-    "profile": "Profil"
-   },
-   "steps": [
-    {
-     "title": "Rens",
-     "detail": "Mild rens, dup tør"
+    "signedInAs": "Logget ind som",
+    "signOut": "Log ud",
+    "loading": "Indlæser din konto…",
+    "failedTitle": "Vi kunne ikke indlæse din konto",
+    "failedSegments": [
+      {
+        "text": "Tjek din forbindelse og prøv igen. Hvis det bliver ved, så skriv til "
+      },
+      {
+        "text": "support@tavalabs.app",
+        "href": "mailto:support@tavalabs.app"
+      },
+      {
+        "text": " og vi ordner det."
+      }
+    ],
+    "tryAgain": "Prøv igen",
+    "tabs": {
+      "today": "I dag",
+      "orders": "Ordrer",
+      "shop": "Shop",
+      "lab": "Laboratorie",
+      "support": "Support"
     },
-    {
-     "title": "Påfør 3 dråber serum",
-     "detail": "Tryk ind i ansigt og hals"
+    "greetings": {
+      "morning": "Godmorgen",
+      "afternoon": "God eftermiddag",
+      "evening": "Godaften"
     },
-    {
-     "title": "Fugtighedscreme + SPF",
-     "detail": "SPF 30 eller højere"
-    }
-   ]
-  }
- },
- "categoryChrome": {
-  "readMore": "Læs mere +",
-  "showLess": "Vis mindre −",
-  "prevProducts": "Tidligere produkter",
-  "nextProducts": "Næste produkter",
-  "goTo": "Gå til {title}",
-  "explore": "Udforsk"
- },
- "categories": {
-  "skincare": {
-   "eyebrow": "HUDPLEJE",
-   "heroTitleLead": "Dit næste møde",
-   "heroTitleAccent": "starter med dig.",
-   "heroCopy": "Bygget til iværksættere, der pitcher, sælger og optager på kamera. Ét dagligt serum, bygget op omkring PDRN, for hud, der ser lys og udhvilet ud i rummet og på kamera.",
-   "heroFinePrint": "Kosmetisk hudpleje. Ikke beregnet til at diagnosticere, behandle, kurere eller forebygge nogen sygdom.",
-   "stamp": "HUDPLEJE TIL STIFTERE",
-   "primaryCta": "Tilføj til rutinen",
-   "secondaryCta": "Se ingredienserne",
-   "optionsEyebrow": "SORTIMENTET",
-   "optionsTitleLead": "Ét serum.",
-   "optionsTitleAccent": "Ingen hylde med gætværk.",
-   "optionsCopy": "Start med serummet. Resten af serien er på vej.",
-   "products": [
-    {
-     "title": "PDRN Brightening Serum",
-     "subtitle": "PDRN, peptider og Sodium Hyaluronate",
-     "unit": "engangskøb",
-     "imageAlt": "Tava Labs PDRN Brightening Serum flaske",
-     "badges": [
-      "Bestseller"
-     ],
-     "description": "Det daglige serum for hud, der ser lysere, fugtet og sund ud. $39 om måneden på Subscribe and Save.",
-     "linkLabel": "Se serummet"
+    "weekInitials": [
+      "S",
+      "M",
+      "T",
+      "O",
+      "T",
+      "F",
+      "L"
+    ],
+    "streakLine": "{streak} dages streak · Dag {day} af 30{bottle}",
+    "dayLine": "Dag {day} af 30{bottle}. Gennemfør dagens rutine i appen for at starte din streak.",
+    "bottleSuffix": " · {days} dage tilbage i flasken",
+    "progressLine": "Dag {day} af 30 · {left} dage tilbage til din første fulde måned",
+    "stepsToGo": "I dag: {n} af {total} rutinetrin tilbage.",
+    "todayComplete": "I dag er gennemført. Din næste dag er allerede klar.",
+    "planEyebrow": "Din plan",
+    "planDefault": "Tag hudquizzen, så bor din personlige plan, bygget ud fra dine svar, her og i appen.",
+    "retakeQuiz": "Tag hudquizzen igen",
+    "takeQuiz": "Tag hudquizzen",
+    "chipLabels": {
+      "goal": "Mål",
+      "skinType": "Hudtype",
+      "concern": "Bekymring",
+      "routine": "Rutine",
+      "plan": "Plan",
+      "routineTimes": "Rutinetider"
     },
-    {
-     "title": "Peptide Moisturizer",
-     "subtitle": "1.7 fl oz (50ml)",
-     "imageAlt": "Tava Labs Peptide Moisturizer hvid tube med et lyserødt stænk",
-     "badges": [
-      "Kommer snart"
-     ],
-     "description": "En peptid fugtighedscreme, der målretter rynker og fugter, lavet til hud der skal se samlet ud hele dagen."
+    "labelMaps": {
+      "goal": {
+        "radiance": "Glød",
+        "fine_lines": "Fine linjer",
+        "hydration": "Fugt",
+        "even_tone": "Ensartet tone"
+      },
+      "skinType": {
+        "dry": "Tør",
+        "oily": "Fedtet",
+        "combination": "Kombineret",
+        "sensitive": "Sensitiv",
+        "not_sure": "Ikke sikker"
+      },
+      "concern": {
+        "dullness": "Mathed",
+        "fine_lines": "Fine linjer",
+        "uneven_tone": "Uensartet tone",
+        "texture": "Tekstur",
+        "dryness": "Tørhed"
+      },
+      "sensitivity": {
+        "often": "Ofte sensitiv",
+        "sometimes": "Nogle gange sensitiv",
+        "never": "Sjældent sensitiv"
+      },
+      "routine": {
+        "cleanser_only": "Kun rens",
+        "few_products": "Et par produkter",
+        "full_routine": "Fuld rutine"
+      },
+      "ramp": {
+        "gentle": "Blid optrapning",
+        "standard": "Standard optrapning",
+        "full": "Fuld styrke"
+      }
     },
-    {
-     "title": "Peptide Eye Cream",
-     "subtitle": "1 fl oz (30ml)",
-     "imageAlt": "Tava Labs Peptide Eye Cream hvid tube med en champagnedråbe",
-     "badges": [
-      "Kommer snart"
-     ],
-     "description": "Reducerer udseendet af hævelse omkring øjnene og målretter rynker i øjenområdet, for et udhvilet udseende på kamera."
+    "morningEyebrow": "Morgenrutine",
+    "nightEyebrow": "Aftenrutine",
+    "amTitle": "AM · 3 dråber",
+    "pmTitle": "PM · 3 dråber",
+    "amSteps": [
+      {
+        "title": "Rens",
+        "detail": "Mild rens, dup tør"
+      },
+      {
+        "title": "Påfør 3 dråber serum",
+        "detail": "Tryk ind i ansigt og hals"
+      },
+      {
+        "title": "Fugtighedscreme + SPF",
+        "detail": "SPF 30 eller højere"
+      }
+    ],
+    "pmSteps": [
+      {
+        "title": "Dobbelt rens",
+        "detail": "Fjern SPF og makeup"
+      },
+      {
+        "title": "Påfør 3 dråber serum",
+        "detail": "Før retinol eller behandlinger"
+      },
+      {
+        "title": "Natfugtighedscreme",
+        "detail": "Forsegl fugten inde"
+      }
+    ],
+    "stepsNote": "Du krydser trin af i mobilappen. Denne side viser dagens rutine, og hvad appen indtil videre har registreret i dag.",
+    "ordersEyebrow": "Ordrer",
+    "ordersTitle": "Dine ordrer",
+    "ordersEmpty": "Ingen ordrer endnu. Når du køber, vises dine ordrer og sporing her og i appen.",
+    "paid": "Betalt",
+    "paymentFailed": "Betaling mislykkedes",
+    "unpaid": "Ubetalt",
+    "statusLabels": [
+      "Bestilt",
+      "Afsendt",
+      "Ude til levering",
+      "Leveret"
+    ],
+    "subscription": "Abonnement",
+    "carrierFallback": "Transportør",
+    "trackPackage": "Spor pakke",
+    "claimEyebrow": "Indløsningskode",
+    "claimTitle": "Forbind et køb med appen",
+    "claimForOrder": "Din indløsningskode til ordre {order}",
+    "claimYourCode": "Din indløsningskode",
+    "claimValidUntil": " (gyldig indtil {date})",
+    "claimEnter": ". Indtast den i Tava appen under Ordrer for at forbinde dette køb med din appkonto:",
+    "claimWebNote": "Her på nettet behøver du ikke koden. Når du logger ind med din betalingsemail, vises dine ordrer og din plan allerede ovenfor.",
+    "claimEmpty": "Købt gennem quizzen eller dette site? Din bekræftelsesemail og siden lige efter betaling viste en indløsningskode. Åbn Tava mobilappen, log ind, og indtast koden under fanen Ordrer. Dit køb, din plan og dine quizsvar flytter ind på din appkonto. Her på nettet viser et login med den samme email, du betalte med, allerede alt ovenfor. Der er ikke andet at indtaste.",
+    "shop": {
+      "eyebrow": "PDRN Brightening Serum",
+      "title": "Køb Tava Labs",
+      "body": "1 fl oz (30 ml). Reducér fine linjer, fugt dybt, genopret glød og styrk huden. 2 til 4 pump, morgen og aften.",
+      "subscribeLine": "Abonnér, $39 om måneden.",
+      "subscribeRest": " En frisk flaske hver måned, automatisk.",
+      "oneTimeLine": "Engangskøb, $49.",
+      "oneTimeRest": " En enkelt flaske.",
+      "subscribeBtn": "Abonnér, $39 om måneden",
+      "buyOnceBtn": "Køb én gang, $49",
+      "stripeNote": "Sikker betaling via Stripe. Du bekræfter betalingen på Stripes side."
     },
-    {
-     "title": "Skin Firming Cream",
-     "subtitle": "2 oz (56g)",
-     "imageAlt": "Tava Labs Skin Firming Cream hvid krukke med en guldbølge som baggrund",
-     "badges": [
-      "Kommer snart"
-     ],
-     "description": "Hyaluronsyre og CoQ10 i en rig creme, der efterlader huden fast og velplejet af udseende."
-    }
-   ],
-   "disclaimerLead": "Tava Labs hudplejeprodukter er kosmetik. De er ikke beregnet til at diagnosticere, behandle, kurere eller forebygge nogen sygdom.",
-   "disclaimerMore": [
-    "Individuelle resultater varierer. Brug kun som anvist: 2 til 4 dråber PDRN Brightening Serum, to gange dagligt, på ren hud.",
-    "Hvis der opstår irritation, så stop brugen og kontakt en professionel. Priserne på denne side var korrekte ved offentliggørelsen og kan ændre sig."
-   ],
-   "protocolEyebrow": "RUTINEN",
-   "protocolTitleLead": "To minutter, to gange om dagen.",
-   "protocolTitleAccent": "Det er hele rutinen.",
-   "protocolCopy": "En rutine bygget omkring ét serum og en iværksætters tidsplan, tidlige opkald, sene nætter og det hele.",
-   "protocolCta": "Tilføj til rutinen",
-   "steps": [
-    {
-     "title": "Vurdér",
-     "lead": "med hudquizzen",
-     "body": "Svar på et par hurtige spørgsmål om din hud, søvn og tidsplan, så din plan starter der, hvor du faktisk er."
+    "labTab": {
+      "eyebrow": "Laboratorie",
+      "title": "Kend dine tal.",
+      "sub": "Ægte blodpaneler, bestilt under din Tava konto. Gennemse panelerne, se hver markør, før du bestiller, og få dine resultater leveret lige her."
     },
-    {
-     "title": "Påfør",
-     "lead": "2 til 4 dråber, to gange dagligt",
-     "body": "Morgen og aften, på ren hud. Ét serum, ét trin, ingen rutine i ti trin at vedligeholde."
-    },
-    {
-     "title": "Følg",
-     "lead": "din plan i appen",
-     "body": "Dit køb forbindes med Tava appen med en indløsningskode, hvor din plan, dine ordrer og din rutine bliver ét sted."
-    }
-   ],
-   "legalLines": [
-    "Kun kosmetiske produkter. Intet på denne side er medicinsk rådgivning."
-   ]
-  },
-  "biomarkers": {
-   "eyebrow": "LABORATORIE BIOMARKØRER",
-   "heroTitleLead": "Kend dine data,",
-   "heroTitleAccent": "på Tava.",
-   "heroCopy": "Du driver din virksomhed på tal. Snart kan du bruge den samme disciplin på dig selv: dine vigtigste biomarkører, fulgt over tid, i Tava appen.",
-   "heroFinePrint": "Kommer snart i Tava appen. Indsigter er kun til information og diagnosticerer ingen tilstand.",
-   "stamp": "DINE DATA ÉT STED",
-   "primaryCta": "Se, hvad der følges",
-   "secondaryCta": "Sådan kommer det til at fungere",
-   "optionsEyebrow": "HVAD DER FØLGES",
-   "optionsTitleLead": "Seks områder.",
-   "optionsTitleAccent": "Ét klart billede.",
-   "optionsCopy": "Biomarkørområderne i Tava appens Preview, som bygges nu.",
-   "products": [
-    {
-     "title": "Hjerne",
-     "subtitle": "Fokus og klarhed",
-     "badges": [
-      "Kommer snart"
-     ],
-     "description": "Markørerne bag fokus, klarhed og kognitivt tempo, samlet i én visning."
-    },
-    {
-     "title": "Hormoner",
-     "subtitle": "Balance",
-     "badges": [
-      "Kommer snart"
-     ],
-     "description": "Dit hormonbillede over tid, så ændringer er synlige i stedet for gættet."
-    },
-    {
-     "title": "Hjerte",
-     "subtitle": "Kardiovaskulære markører",
-     "badges": [
-      "Kommer snart"
-     ],
-     "description": "De hjertemarkører, der betyder noget, fulgt som en trend frem for en enkelt måling."
-    },
-    {
-     "title": "Metabolisme",
-     "subtitle": "Energi og forbrænding",
-     "badges": [
-      "Kommer snart"
-     ],
-     "description": "Hvordan din krop bruger energi, i tal du faktisk kan følge."
-    },
-    {
-     "title": "Tarm",
-     "subtitle": "Fordøjelsessundhed",
-     "badges": [
-      "Kommer snart"
-     ],
-     "description": "Signaler fra tarmens sundhed, der hænger sammen med energi, humør og restitution."
-    },
-    {
-     "title": "Lang levetid",
-     "subtitle": "Biologisk alder",
-     "badges": [
-      "Kommer snart"
-     ],
-     "description": "Det lange perspektiv: hvordan dine markører tilsammen danner et billede af din biologiske alder."
-    }
-   ],
-   "disclaimerLead": "Biomarkørindsigter i Tava appen er kun til information. De diagnosticerer, behandler eller forebygger ingen tilstand.",
-   "disclaimerMore": [
-    "Tal med din egen behandler om ethvert resultat, der bekymrer dig. I en nødsituation, ring 911."
-   ],
-   "protocolEyebrow": "SÅDAN KOMMER DET TIL AT FUNGERE",
-   "protocolTitleLead": "Test, gennemgå,",
-   "protocolTitleAccent": "følg trenden.",
-   "protocolCopy": "Ét dashboard til personen, der driver virksomheden, ved siden af din serumplan i den samme app.",
-   "steps": [
-    {
-     "title": "Test",
-     "lead": "gennem en laboratoriepartner",
-     "body": "Din prøve indsamles og behandles, og resultaterne lander i din Tava app."
-    },
-    {
-     "title": "Gennemgå",
-     "lead": "område for område",
-     "body": "Hjerne, hormoner, hjerte, metabolisme, tarm og lang levetid, hver med sin egen visning."
-    },
-    {
-     "title": "Følg",
-     "lead": "trenden over tid",
-     "body": "Én måling er et øjebliksbillede. Værdien er trenden, og appen bevarer den for dig."
-    }
-   ],
-   "legalLines": [
-    "Sporing af laboratorie biomarkører kommer snart og er endnu ikke åben for ordrer."
-   ]
-  },
-  "mentalHealth": {
-   "eyebrow": "MENTAL SUNDHED",
-   "heroTitleLead": "Fokusér bedre,",
-   "heroTitleAccent": "på Tava.",
-   "heroCopy": "Støtte til fokus og opmærksomhed, der starter med en klinisk gennemgang, ikke en betalingsknap.",
-   "heroFinePrint": "Efter klinisk gennemgang. Dette program er under udvikling og er endnu ikke åbent for tilmelding.",
-   "stamp": "KLINISK GENNEMGÅET BEHANDLING",
-   "primaryCta": "Se, hvordan det fungerer",
-   "optionsEyebrow": "PROGRAMMET",
-   "optionsTitleLead": "Behandling, der starter",
-   "optionsTitleAccent": "med en gennemgang.",
-   "optionsCopy": "",
-   "products": [],
-   "disclaimerLead": "Støtte til mental sundhed på Tava begynder med en klinisk gennemgang. Intet her er en diagnose eller en behandlingsanbefaling.",
-   "disclaimerMore": [
-    "Hvis du er i krise eller tænker på at skade dig selv, så ring eller skriv 988 i USA. I en nødsituation, ring 911."
-   ],
-   "protocolEyebrow": "SÅDAN FUNGERER DET",
-   "protocolTitleLead": "Gennemgang først.",
-   "protocolTitleAccent": "Så en plan.",
-   "protocolCopy": "En omhyggelig vej, i det åbne, i dit tempo.",
-   "steps": [
-    {
-     "title": "Gennemgå",
-     "lead": "med en kliniker",
-     "body": "Del din historie og det, du kæmper med, og en kliniker gennemgår, om støtte her passer til dig."
-    },
-    {
-     "title": "Plan",
-     "lead": "bygget omkring dig",
-     "body": "Hvis det passer, bygges din plan omkring dine mål og din tidsplan."
-    },
-    {
-     "title": "Støtte",
-     "lead": "undervejs",
-     "body": "Opfølgninger holder planen ærlig, efterhånden som tingene ændrer sig."
-    }
-   ],
-   "legalLines": [
-    "Tilbud om mental sundhed på Tava er under udvikling og er endnu ikke åbne for tilmelding."
-   ]
-  },
-  "peptides": {
-   "eyebrow": "PEPTIDPROGRAMMER",
-   "heroTitleLead": "Peptider,",
-   "heroTitleAccent": "med en behandler i dit hjørne.",
-   "heroCopy": "Tretten peptidprogrammer fra Tava Labs, der hver starter med en online konsultation og behandlergennemgang.",
-   "heroFinePrint": "Recept påkrævet. En autoriseret behandler afgør berettigelse efter konsultation.",
-   "stamp": "BEHANDLERGUIDEDE PROGRAMMER",
-   "primaryCta": "Start en konsultation",
-   "secondaryCta": "Sådan fungerer det",
-   "optionsEyebrow": "PROGRAMMERNE",
-   "optionsTitleLead": "Tretten programmer.",
-   "optionsTitleAccent": "Én konsultation starter et hvilket som helst af dem.",
-   "optionsCopy": "Hvert program indeholder en konsultation til $20. De fleste indeholder laboratorieprøver. Priserne er de månedlige programpriser.",
-   "unitPerMonth": "/md.",
-   "products": [
-    {
-     "subtitle": "Restitution",
-     "imageAlt": "BPC-157 program hætteglasillustration",
-     "badges": [
-      "Restitution",
-      "Tarmsundhed",
-      "Laboratorieprøver inkluderet"
-     ],
-     "description": "BPC-157 fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
-     "linkLabel": "Se program"
-    },
-    {
-     "subtitle": "Tarmsundhed",
-     "imageAlt": "CJC-1295 + Ipamorelin program hætteglasillustration",
-     "badges": [
-      "Tarmsundhed",
-      "Søvn",
-      "Restitution",
-      "Lang levetid",
-      "Laboratorieprøver inkluderet"
-     ],
-     "description": "CJC-1295 + Ipamorelin fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
-     "linkLabel": "Se program"
-    },
-    {
-     "subtitle": "Lang levetid",
-     "imageAlt": "GHK-Cu program hætteglasillustration",
-     "badges": [
-      "Lang levetid",
-      "Laboratorieprøver inkluderet"
-     ],
-     "description": "GHK-Cu fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
-     "linkLabel": "Se program"
-    },
-    {
-     "subtitle": "Restitution",
-     "imageAlt": "GLOW Injection program hætteglasillustration",
-     "badges": [
-      "Restitution",
-      "Laboratorieprøver inkluderet"
-     ],
-     "description": "GLOW Injection fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
-     "linkLabel": "Se program"
-    },
-    {
-     "subtitle": "Vægttab",
-     "imageAlt": "MOTS-C program hætteglasillustration",
-     "badges": [
-      "Vægttab",
-      "Energi",
-      "Præstation",
-      "Laboratorieprøver inkluderet"
-     ],
-     "description": "MOTS-C fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
-     "linkLabel": "Se program"
-    },
-    {
-     "subtitle": "Lang levetid",
-     "imageAlt": "NAD+ Injectable program hætteglasillustration",
-     "badges": [
-      "Lang levetid",
-      "Energi",
-      "Restitution",
-      "Fokus"
-     ],
-     "description": "NAD+ Injectable fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
-     "linkLabel": "Se program"
-    },
-    {
-     "subtitle": "Seksuel sundhed",
-     "imageAlt": "PT-141 program hætteglasillustration",
-     "badges": [
-      "Seksuel sundhed",
-      "Laboratorieprøver inkluderet"
-     ],
-     "description": "PT-141 fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
-     "linkLabel": "Se program"
-    },
-    {
-     "subtitle": "Vægttab",
-     "imageAlt": "Semaglutide + B12 (Cyanocobalamin) program hætteglasillustration",
-     "badges": [
-      "Vægttab",
-      "Laboratorieprøver inkluderet"
-     ],
-     "description": "Semaglutide + B12 (Cyanocobalamin) fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
-     "linkLabel": "Se program"
-    },
-    {
-     "subtitle": "Lang levetid",
-     "imageAlt": "Sermorelin program hætteglasillustration",
-     "badges": [
-      "Lang levetid",
-      "Restitution",
-      "Præstation",
-      "Laboratorieprøver inkluderet"
-     ],
-     "description": "Sermorelin fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
-     "linkLabel": "Se program"
-    },
-    {
-     "subtitle": "Præstation",
-     "imageAlt": "TB-500 program hætteglasillustration",
-     "badges": [
-      "Præstation",
-      "Restitution",
-      "Laboratorieprøver inkluderet"
-     ],
-     "description": "TB-500 fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
-     "linkLabel": "Se program"
-    },
-    {
-     "subtitle": "Lang levetid",
-     "imageAlt": "Tesamorelin program hætteglasillustration",
-     "badges": [
-      "Lang levetid",
-      "Restitution",
-      "Præstation",
-      "Laboratorieprøver inkluderet"
-     ],
-     "description": "Tesamorelin fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
-     "linkLabel": "Se program"
-    },
-    {
-     "subtitle": "Vægttab",
-     "imageAlt": "Tirzepatide + B12 (Cyanocobalamin) program hætteglasillustration",
-     "badges": [
-      "Vægttab",
-      "Laboratorieprøver inkluderet"
-     ],
-     "description": "Tirzepatide + B12 (Cyanocobalamin) fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
-     "linkLabel": "Se program"
-    },
-    {
-     "subtitle": "Restitution",
-     "imageAlt": "Wolverine Injection program hætteglasillustration",
-     "badges": [
-      "Restitution",
-      "Laboratorieprøver inkluderet"
-     ],
-     "description": "Wolverine Injection fra Tava Labs. Behandlergennemgang og opfølgning er en del af programmet.",
-     "linkLabel": "Se program"
-    }
-   ],
-   "disclaimerLead": "Sammensatte lægemidler fremstilles af autoriserede apoteker til individuelle patienter. De er ikke FDA godkendt, og FDA gennemgår ikke sammensatte lægemidler for sikkerhed, effektivitet eller kvalitet.",
-   "disclaimerMore": [
-    "Medicinsk behandling leveres af uafhængige, autoriserede behandlere. Behandlere afgør uafhængigt, om en behandling er rigtig for dig; et køb garanterer ikke en recept.",
-    "En autoriseret behandler gennemgår dine oplysninger og afgør uafhængigt, om en behandling er rigtig for dig. Et køb garanterer ikke en recept.",
-    "I nødsituationer, ring 911."
-   ],
-   "protocolEyebrow": "SÅDAN FUNGERER DET",
-   "protocolTitleLead": "Konsultér, gennemgå,",
-   "protocolTitleAccent": "og begynd så.",
-   "protocolCopy": "Hvert program kører gennem uafhængige autoriserede behandlere.",
-   "protocolCta": "Start en konsultation",
-   "steps": [
-    {
-     "title": "Konsultér",
-     "lead": "online, efter din tidsplan",
-     "body": "Gennemfør online konsultationen for det program, du valgte. Konsultationen koster $20."
-    },
-    {
-     "title": "Gennemgå",
-     "lead": "af en autoriseret behandler",
-     "body": "En behandler gennemgår dine oplysninger og dine laboratorieprøver og afgør uafhængigt, om behandlingen er rigtig for dig."
-    },
-    {
-     "title": "Begynd",
-     "lead": "hvis ordineret",
-     "body": "Din medicin sendes fra et autoriseret apotek, og din behandler følger op, mens dit program fortsætter."
-    }
-   ],
-   "legalLines": [
-    "Vores peptidbutik er i øjeblikket i testtilstand, så programmer vises til gennemgang og er endnu ikke åbne for rigtige ordrer.",
-    "I nødsituationer, ring 911."
-   ]
-  }
- },
- "product": {
-  "breadcrumbHome": "Forside",
-  "inStock": "På lager",
-  "cleanVegan": "Ren og vegansk • PDRN aktiv",
-  "dermTested": "Dermatologisk testet • Lavet til alle hudtyper",
-  "titleLead": "PDRN Brightening",
-  "titleAccent": "Serum",
-  "pricePerUnit": "/ 30ml (1 fl oz)",
-  "subPrice": "eller $39 om måneden med Subscribe and Save",
-  "bullets": [
-   "PDRN, Acetyl Hexapeptide-8 og hyaluronsyre, til at støtte hud, der ser glattere og lysere ud.",
-   "Dyb fugt fra glycerin, Sodium PCA og Panthenol.",
-   "100% Cruelty free, fragrance free, paraben free, sulfate free, mineral oil free, silicone free og vegansk."
-  ],
-  "viewFormulation": "Se den fulde formulering og de kliniske tests",
-  "details": [
-   {
-    "title": "Mød PDRN Brightening Serum",
-    "body": "En let, fugtgivende formel for glattere, mere strålende udseende hud. Den absorberes hurtigt, efterlader ingen rester og holder huden behagelig."
-   },
-   {
-    "title": "Ingredienser og formulering",
-    "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin."
-   },
-   {
-    "title": "Sådan påfører du",
-    "body": "Påfør 2 til 4 dråber på ren, tør hud. Massér blidt over ansigt og hals, indtil det er absorberet. Brug to gange dagligt, morgen og aften. Følg efter med fugtighedscreme eller solcreme."
-   },
-   {
-    "title": "Clean Skincare garanti",
-    "body": "Formuleret efter certificerede cruelty free standarder og fremstillet uden duft, silikoner, parabener, mineralsk olie, sulfater, ftalater eller almindelige allergener. Dermatologisk testet på alle hudtyper."
-   }
-  ],
-  "innovation": {
-   "label": "Nøgleingredienser",
-   "titleLead": "Hvad de vigtigste",
-   "titleAccent": "ingredienser gør",
-   "sub": "De tre ingredienser nedenfor udfører det meste af arbejdet i dette serum.",
-   "items": [
-    {
-     "label": "Hudtekstur",
-     "title": "PDRN",
-     "body": "Marint PDRN øger celleomsætningen, hvilket lysner en mat teint og udglatter synlig tekstur."
-    },
-    {
-     "label": "Fasthed",
-     "title": "Acetyl Hexapeptide-8",
-     "body": "Dette peptid støtter kollagenets elasticitet, for hud, der ser fastere ud."
-    },
-    {
-     "label": "Dyb fugt",
-     "title": "Hyaluronsyre og Panthenol",
-     "body": "Hyaluronsyre, Sodium PCA og Panthenol arbejder sammen om at holde fugten i hudbarrieren i over 24 timer."
-    }
-   ],
-   "imgAlts": [
-    "Serumtekstur",
-    "Krystal og formel",
-    "Krystalprøve"
-   ],
-   "footnote": "*Bio cellular aktivitet vurderet via in vitro og ex vivo kliniske evalueringer. Resultater kan variere efter individuel hudtilstand."
-  },
-  "ecosystem": {
-   "label": "Din plan",
-   "title": "Få komplet støtte til rutinen",
-   "sub": "Sammen med dit serum indeholder hver Tava Labs plan:",
-   "items": [
-    "En personlig huddiagnose og rutineguide fra din hudquiz",
-    "En behandlingsplan, der starter langsomt og bygger op over tid",
-    "Påmindelser om påføring, som du selv styrer, morgen og aften",
-    "Beskedsupport direkte i appen",
-    "Subscribe and Save levering hver måned, sæt på pause eller annuller når som helst"
-   ],
-   "note": "Sæt Subscribe and Save på pause, justér eller annuller når som helst. Engangskøb er fortsat tilgængelige til $49."
-  },
-  "clinical": {
-   "label": "Kliniske tests",
-   "titleLead": "Pas på din",
-   "titleAccent": "huds sundhed",
-   "imgAlts": [
-    "Diagram for Promotes Radiance",
-    "Diagram for Supports Deep Hydration",
-    "Diagram for Enhances Skin Texture"
-   ],
-   "note": "Evalueringer af topiske bioaktive stoffer baseret på 8 ugers forbrugeropfattelse og instrumentelle fugttests. Individuelle hudbarrierer, genetik og miljø påvirker konkrete tidslinjer og resultater."
-  },
-  "formulary": {
-   "label": "Sammenlign formler",
-   "title": "Hvilken hudplejebehandling passer til dig?",
-   "sub": "Formler til forskellige hudmål, bekymringer og rutiner. Vælg den, der passer til din hud og din tidsplan.",
-   "serumAlt": "PDRN Brightening Serum",
-   "serumPriceLine": "Subscribe and Save $39/md.",
-   "serumOneTime": "eller $49 som engangskøb",
-   "primaryBenefit": "Primær fordel",
-   "howToUse": "Sådan bruges den",
-   "activeIngredient": "Aktiv ingrediens",
-   "serumBenefitValue": "Lyshed og fasthed",
-   "serumHowValue": "Morgen og aften",
-   "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
-   "selectSerum": "Vælg serum",
-   "comingSoon": "Kommer snart",
-   "status": "Status",
-   "sizeLabel": "Størrelse",
-   "others": [
-    {
-     "rows": [
-      [
-       "Primær fordel",
-       "Daglig fugt"
+    "support": {
+      "eyebrow": "Support",
+      "title": "Vi er her for at hjælpe",
+      "segments": [
+        {
+          "text": "Skriv til "
+        },
+        {
+          "text": "support@tavalabs.app",
+          "href": "mailto:support@tavalabs.app"
+        },
+        {
+          "text": " eller ring "
+        },
+        {
+          "text": "909-906-1308",
+          "href": "tel:+19099061308"
+        },
+        {
+          "text": "."
+        }
       ],
-      [
-       "Størrelse",
-       "1.7 fl oz (50ml)"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Primær fordel",
-       "Pleje af øjenområdet"
-      ],
-      [
-       "Størrelse",
-       "1 fl oz (30ml)"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Primær fordel",
-       "Opstramning og fugt"
-      ],
-      [
-       "Størrelse",
-       "2 oz (56g)"
-      ],
-      [
-       "Aktiv ingrediens",
-       "Hyaluronsyre og CoQ10"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Primær fordel",
-       "Pleje af hovedbund og hår"
-      ],
-      [
-       "Størrelse",
-       "1 fl oz (30ml)"
-      ]
-     ]
+      "links": {
+        "general": "Generelle spørgsmål",
+        "productSupport": "Produktsupport",
+        "salesSupport": "Ordre og salgssupport",
+        "faqs": "Ofte stillede spørgsmål",
+        "shipping": "Forsendelsespolitik",
+        "returns": "Returpolitik"
+      }
     }
-   ]
   },
-  "protocol": {
-   "label": "Sådan bruger du det",
-   "titleLead": "Én enkel rutine,",
-   "titleAccent": "to gange om dagen",
-   "sub": "Regelmæssighed betyder noget. Følg disse trin morgen og aften, og afslut med fugtighedscreme for at holde fugten inde.",
-   "progressionLabel": "Klinisk progression",
-   "progressionTitle": "Tidslinje for synlige resultater",
-   "progressionBody": "Lysere og mere fugtet hud på 7 til 14 dage; forbedret hudelasticitet og barrierefasthed ved uge 4 til 6.",
-   "timelineAlt": "Eksempel på tidslinje for resultater, uge 1 til 4 og derefter",
-   "steps": [
-    {
-     "title": "Rens, med en mild vask",
-     "body": "Rens med en mild, pH balanceret vask for at fjerne snavs og forberede huden, uden at fjerne dens naturlige lipider."
+  "lab": {
+    "ordersLabel": "Klinisk gennemgang",
+    "ordersTitle": "Dine laboratorieordrer",
+    "loadingOrders": "Indlæser dine ordrer…",
+    "ordersEmpty": "Ikke noget her endnu. Når du gennemfører et panel, lander hver markør her med sin værdi, sit sunde interval, og hvordan den bevæger sig over tid. Bestil dit første panel nedenfor, så fyldes dette rum ud.",
+    "viewResults": "Se resultater",
+    "howLabel": "Sådan fungerer laboratorieprøver",
+    "howTitle": "Fire trin, én prøve",
+    "steps": [
+      {
+        "title": "Vælg et panel",
+        "body": "Vælg det panel, der matcher det, du vil vide. Hver markør i det er listet, før du bestiller."
+      },
+      {
+        "title": "Lægelig gennemgang",
+        "body": "En autoriseret læge gennemgår og godkender hver ordre, så et separat lægebesøg ikke er nødvendigt."
+      },
+      {
+        "title": "Mød op til din prøve",
+        "body": "Én hurtig blodprøve på et prøvested nær dig. De fleste besøg tager cirka femten minutter."
+      },
+      {
+        "title": "Resultater lander her",
+        "body": "Resultater leveres digitalt til denne fane i løbet af få dage, med hver markør og dens interval."
+      }
+    ],
+    "panelsLabel": "Panelerne",
+    "panelsTitle": "Fjorten paneler, bygget omkring det, du følger",
+    "panelsSub": "Hvert panel viser sin pris. Bestilling åbner, når betalingen slås til, og en autoriseret læge gennemgår hver ordre, før dine resultater leveres lige her. Paneler kan ikke bestilles til adresser i New York, New Jersey eller Rhode Island.",
+    "markersSuffix": "{n} markører",
+    "resultsInDays": "Resultater på få dage",
+    "hideMarkers": "Skjul markørerne",
+    "seeMarkers": "Se markørerne",
+    "markersAria": "Markører i {name}",
+    "disclaimer": "Laboratorieindsigter er information om dit eget helbred og er ikke en diagnose. Tal med din læge om ethvert resultat, der bekymrer dig, og ring 911 i en nødsituation.",
+    "panelsById": {
+      "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
+        "name": "Panel for sportspræstation",
+        "description": "Træningsparathed og restitution: blodtal, metabolisk panel, jernlagre, D vitamin, testosteron, inflammation og muskelenzymer.",
+        "collection": "Blodprøve ved fremmøde"
+      },
+      "38c76039-05dc-4cd3-8475-7a675989fbf2": {
+        "name": "Udgangspanel for velvære",
+        "description": "Udgangspunkt for hele kroppen: blodtal, metabolisk sundhed, kolesterol, blodsukker, D vitamin og skjoldbruskkirtel.",
+        "collection": "Blodprøve ved fremmøde"
+      },
+      "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
+        "name": "Energi og træthedspanel",
+        "description": "De sædvanlige mistænkte bag lav energi: jernlagre og transport, B12, folat, D vitamin, skjoldbruskkirtel og blodtal.",
+        "collection": "Blodprøve ved fremmøde"
+      },
+      "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
+        "name": "Kvindeligt baseline panel",
+        "description": "Et fokuseret panel med 14 markører, listet i fuld længde nedenfor.",
+        "collection": "Blodprøve ved fremmøde"
+      },
+      "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
+        "name": "GLP1 panel",
+        "description": "Et fokuseret panel med 10 markører, listet i fuld længde nedenfor.",
+        "collection": "Blodprøve ved fremmøde"
+      },
+      "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
+        "name": "Hjertesundhedspanel",
+        "description": "Kardiovaskulær risiko ud over basalt kolesterol: lipider, ApoB, Lp(a), hs-CRP og homocystein.",
+        "collection": "Blodprøve ved fremmøde"
+      },
+      "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
+        "name": "Panel for lang levetid",
+        "description": "Omfattende årligt dybdedyk på tværs af metaboliske, kardiovaskulære, inflammatoriske og hormonelle sundhedsmarkører.",
+        "collection": "Blodprøve ved fremmøde"
+      },
+      "b909fb21-b264-483c-a915-4ce87713cfa9": {
+        "name": "Mandlig baseline test",
+        "description": "Et fokuseret panel med 12 markører, listet i fuld længde nedenfor.",
+        "collection": "Blodprøve ved fremmøde"
+      },
+      "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
+        "name": "Mandligt TRT panel",
+        "description": "Et fokuseret panel med 16 markører, listet i fuld længde nedenfor.",
+        "collection": "Blodprøve ved fremmøde"
+      },
+      "abfabb68-c777-4457-87c2-46bf5fe26d81": {
+        "name": "Mænds hormonpanel",
+        "description": "Mandlig hormonstatus: total testosteron, SHBG, østradiol, LH og FSH.",
+        "collection": "Blodprøve ved fremmøde"
+      },
+      "f12fe316-367a-4c53-9735-8c0129c45506": {
+        "name": "Metabolisk sundhedspanel",
+        "description": "Blodsukkerkontrol og metabolisk risiko: A1c, fastende insulin, kolesterol og et fuldt metabolisk panel.",
+        "collection": "Blodprøve ved fremmøde"
+      },
+      "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
+        "name": "Stress og restitutionspanel",
+        "description": "Stressbelastning og restitutionsevne: kortisol, DHEA-S, skjoldbruskkirtel og inflammation.",
+        "collection": "Blodprøve ved fremmøde"
+      },
+      "1760616d-44d3-4654-817d-440a969e5cdf": {
+        "name": "Komplet skjoldbruskkirtelpanel",
+        "description": "Komplet skjoldbruskkirtelundersøgelse: TSH, frit T4, frit T3 og TPO antistoffer.",
+        "collection": "Blodprøve ved fremmøde"
+      },
+      "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
+        "name": "Kvinders hormonpanel",
+        "description": "Kvindelig hormonstatus: østradiol, progesteron, FSH, LH, DHEA-S og testosteron.",
+        "collection": "Blodprøve ved fremmøde"
+      }
     },
-    {
-     "title": "PDRN Serum, 2 til 4 dråber",
-     "body": "Påfør 2 til 4 dråber PDRN Serum på fugtig hud. Tryk og dup blidt over ansigt og hals, indtil det er helt absorberet."
-    },
-    {
-     "title": "Fugt og hydrér",
-     "body": "Påfør fugtighedscreme for at holde på peptiderne og støtte hudbarrieren."
-    },
-    {
-     "title": "Beskyt (kun AM), SPF 30+",
-     "body": "Afslut morgenrutinen med bredspektret SPF 30+ for at beskytte huden mod UV og skader fra frie radikaler."
-    },
-    {
-     "title": "Din personlige plan, inkluderet",
-     "body": "Din hudquiz bygger din plan, herunder hvordan du starter langsomt, og hvornår du bygger op."
+    "detail": {
+      "backToAccount": "Tilbage til din konto",
+      "notFoundTitle": "Den laboratorieordre blev ikke fundet",
+      "notFoundBody": "Den tilhører måske en anden email. Log ind med den email, du bestilte under, og prøv igen.",
+      "clinicalReview": "KLINISK GENNEMGANG",
+      "loadingResults": "Indlæser dine resultater…",
+      "yourPanel": "Dit panel",
+      "markerFallback": "Markør",
+      "headlines": {
+        "loading": "Henter dine resultater",
+        "pending": "Dine resultater er på vej",
+        "allIn": "Alle dine resultater er kommet.",
+        "in": "Dine resultater er kommet."
+      },
+      "sublines": {
+        "loading": "Et øjeblik, mens laboratorierapporten indlæses.",
+        "pending": "Så snart laboratoriet rapporterer, fyldes denne side med hver markør, dens værdi og dens sunde interval.",
+        "allIn": "Hver markør er inden for intervallet. Her er det fulde billede.",
+        "oneAttention": "Én markør kræver et nærmere kig. Lad os dykke ned i den.",
+        "manyAttention": "{n} markører kræver et nærmere kig. Lad os dykke ned i dem."
+      },
+      "orderedPrefix": "Bestilt",
+      "statusPrefix": "Status:",
+      "notInYetTitle": "Resultaterne er ikke kommet endnu",
+      "notInYetBody": "De fleste paneler rapporterer inden for få dage efter din prøve. Når dine lander, viser denne side den fulde balancevisning med hver markør og dens interval.",
+      "markerBalance": "Din markørbalance",
+      "biomarkers": "BIOMARKØRER",
+      "analyzedSuffix": "{pct}% analyseret",
+      "statusNames": {
+        "optimal": "Optimal",
+        "inRange": "Inden for interval",
+        "attention": "Kræver opmærksomhed"
+      },
+      "statusLabels": {
+        "optimal": "OPTIMAL",
+        "inRange": "INDEN FOR INTERVAL",
+        "attention": "MARKERET"
+      },
+      "basePrefix": "Basis: {name}",
+      "updatedPrefix": "Opdateret {date}",
+      "updatedRecently": "Opdateret for nylig",
+      "triageTitle": "Statustriage",
+      "tapToFilter": "Tryk for at filtrere",
+      "triageSubs": {
+        "optimal": "Præcis hvor du vil have dem",
+        "inRange": "Inden for det sunde interval",
+        "attention": "En samtale værd med din læge"
+      },
+      "allFilter": "Alle ({n})",
+      "rangePrefix": "Interval {range}",
+      "disclaimer": "Laboratorieresultater er information om dit eget helbred og er ikke en diagnose. Tal med din læge om ethvert resultat, der bekymrer dig, og ring 911 i en nødsituation."
     }
-   ]
   },
-  "faqSection": {
-   "label": "Spørgsmål og svar",
-   "title": "Ofte stillede spørgsmål",
-   "viewAll": "Se alle ofte stillede spørgsmål",
-   "items": [
-    {
-     "q": "Hvad er PDRN, og hvordan gavner det huden?",
-     "a": "PDRN (Polydeoxyribonucleotide) består af DNA fragmenter, der er biokompatible med menneskelige hudceller. Det fremmer naturlig celleregenerering, stimulerer mikrocirkulationen og hjælper med at reparere hudbarrieren, for hud, der ser lysere og fastere ud."
-    },
-    {
-     "q": "Hvordan indarbejder jeg PDRN Brightening Serum i min hudplejerutine?",
-     "a": "Brug PDRN Brightening Serum to gange dagligt efter rens og toner. Fordel 2 til 4 dråber direkte på fingerspidserne eller på fugtig hud og glat det ud over ansigt, hals og décolleté. Følg efter med din fugtighedscreme og solcreme om morgenen."
-    },
-    {
-     "q": "Er dette serum egnet til sensitiv og akneudsat hud?",
-     "a": "Ja. Vores formulering er non comedogenic, oliefri, duftfri og beriget med beroligende Panthenol. Den dæmper sensitivitet, mens den fugter dybt uden at tilstoppe porerne eller udløse irritation."
-    },
-    {
-     "q": "Kan jeg lægge PDRN i lag med retinol, C vitamin eller AHA/BHA?",
-     "a": "Ja. PDRN fungerer godt sammen med aktive behandlinger som retinoider og C vitamin. Dens fugtgivende base hjælper med at lindre den afskalning eller rødme, som kemiske eksfolianter kan forårsage."
-    },
-    {
-     "q": "Hvor længe holder én 30ml flaske typisk?",
-     "a": "Ved påføring af 2 til 4 dråber to gange dagligt holder én 30ml (1 fl oz) flaske typisk 4 til 6 uger. Subscribe and Save sender den næste flaske, før du løber tør."
-    }
-   ]
+  "login": {
+    "brandHeadLead": "Velkommen",
+    "brandHeadAccent": "tilbage.",
+    "brandCopy": "Din plan, dine ordrer og din rutine. Én email binder appen og nettet sammen.",
+    "label": "Din Tava konto",
+    "title": "Log ind",
+    "intro": "Log ind med den email, du brugte ved betaling eller i Tava mobilappen. Din plan, dine ordrer og din rutine er knyttet til den email, så alt her matcher appen. Ingen adgangskode nødvendig. Vi sender dig et loginlink via email, og et tryk på det sender dig ind på din konto.",
+    "emailLabel": "Emailadresse",
+    "invalidEmail": "Indtast en gyldig emailadresse.",
+    "sendFailed": "Vi kunne ikke sende den email. Tjek adressen og prøv igen.",
+    "sending": "Sender…",
+    "sendButton": "Send mig et loginlink via email",
+    "sentNotice": "Loginlink sendt til {email}. Det kan tage et minut at ankomme. Tjek din spammappe, hvis du ikke ser det.",
+    "sentBody": "Åbn den email på denne enhed og tryk på linket i den. Du lander på din konto, allerede logget ind. Linket virker én gang og udløber, så brug det snart.",
+    "resend": "Send emailen igen",
+    "differentEmail": "Brug en anden email",
+    "footNote": "Første gang her? Det samme link opretter din konto. Brug emailen fra din ordre, så venter alt allerede på dig.",
+    "claimLabel": "Købt på nettet og bruger appen?",
+    "claimTitle": "Brug din indløsningskode i appen",
+    "claimBody1": "Da du købte gennem quizzen eller dette site, viste din email med købsbekræftelse (og siden lige efter betaling) en indløsningskode. Åbn Tava mobilappen, log ind, og indtast koden under fanen Ordrer. Dit køb, din plan og dine quizsvar flytter ind på din appkonto, uden et nyt køb.",
+    "claimBody2": "På nettet er det endnu enklere. Log ind ovenfor med den samme email, du betalte med, så er dine ordrer og din plan allerede her.",
+    "faqButton": "Spørgsmål? Se de ofte stillede spørgsmål"
   },
-  "finalCta": {
-   "title": "Ét serum for hud, der ser lysere, fugtet og glattere ud.",
-   "line": "PDRN Brightening Serum · $49.00 / 30ml · Ren og vegansk · Dyb fugt · Annuller når som helst"
+  "checkout": {
+    "title": "Betaling",
+    "closeAria": "Luk betaling",
+    "planOneTime": "PDRN Brightening Serum · $49 · Engangskøb",
+    "planSubscribe": "PDRN Brightening Serum · $39 om måneden · Subscribe & Save 20%",
+    "email": "Email",
+    "firstName": "Fornavn",
+    "lastName": "Efternavn",
+    "streetAddress": "Gadeadresse",
+    "addressLine2": "Adresselinje 2 (valgfri)",
+    "city": "By",
+    "state": "Stat",
+    "zip": "Postnummer",
+    "country": "Land",
+    "phoneOptional": "Telefon (valgfri)",
+    "missingIntro": "Næsten færdig. Tilføj dine {fields}.",
+    "missingNames": {
+      "email": "en gyldig email",
+      "firstName": "fornavn",
+      "lastName": "efternavn",
+      "address1": "gadeadresse",
+      "city": "by",
+      "state": "stat",
+      "zip": "postnummer"
+    },
+    "creating": "Opretter din betaling…",
+    "taking": "Sender dig til sikker betaling…",
+    "continueBtn": "Fortsæt til betaling",
+    "startError": "Betalingen kunne ikke starte. Tjek dine oplysninger og prøv igen. Der blev ikke opkrævet noget.",
+    "stripeNote": "Sikker betaling via Stripe. Du bekræfter betalingen på Stripes side. Der er ikke opkrævet noget endnu."
   },
-  "gallery": {
-   "view": "Se {n}",
-   "alts": [
-    "PDRN Brightening Serum flaske",
-    "Serumflaske visning 2",
-    "Serumflaske visning 3",
-    "Serumflaske visning 4",
-    "Serumflaske visning 5"
-   ]
+  "legal": {
+    "governsNote": "Denne side er en oversættelse af den engelske original. Hvis ordlyden nogensinde afviger, er den engelske version gældende."
   }
- },
- "about": {
-  "label": "Om os",
-  "titleLead": "Et dagligt ansigtsserum",
-  "titleAccent": "til stiftere.",
-  "tagline": "Byg din virksomhed. Forsøm ikke dig selv.",
-  "p1": "Tava Labs er et hudplejemærke for folk, der bygger virksomheder. Dit udseende er en del af din professionelle tilstedeværelse. Folk ser dig på kamera, i pitchmøder og på arbejdet hver dag.",
-  "p2": "Vi laver én ting, og vi laver den godt. Et dagligt serum, der holder din hud fugtet og udhvilet at se på, uden en kompliceret rutine.",
-  "p3": "Tava Labs blev grundlagt til stiftere og virksomhedsejere. Ét trin, morgen og aften, før møderne, pitchene og kameraarbejdet.",
-  "p4": "Hudpleje, behandlet som grundlæggende vedligeholdelse. Den samme regelmæssighed, du bringer til din virksomhed, anvendt på din egen rutine.",
-  "serumLabel": "Serummet",
-  "serumTitle": "PDRN Brightening Serum",
-  "serumAlt": "PDRN Brightening Serum",
-  "serumBody": "En daglig rutine for teinten, bygget omkring PDRN (Polydeoxyribonucleotide) og Acetyl Hexapeptide-8, med Sodium Hyaluronate og Panthenol for fugt og komfort. Clean og duftfri, og fremstillet uden noget fra vores free from liste.",
-  "bullets": [
-   "PDRN for en lysere, mere ensartet udseende teint.",
-   "Acetyl Hexapeptide-8 til at støtte et fastere udseende.",
-   "Sodium Hyaluronate og Panthenol for fugt.",
-   "Brug to gange dagligt: 2 til 4 pump på ren, tør hud, morgen og aften."
-  ],
-  "priceLine": "$49 som engangskøb, eller $39 om måneden med Subscribe & Save.",
-  "philosophyLabel": "Vores filosofi",
-  "quote": "“Ét serum, to minutter, morgen og aften. Det er hele rutinen.”",
-  "philosophyCaption": "Tava Labs filosofien",
-  "philosophyP1": "Vi tror på at passe på dig selv på samme måde, som du passer på dit arbejde, med små trin gjort konsekvent hver dag.",
-  "philosophyP2": "Vi lover ikke forvandling. Vi laver et velformuleret dagligt serum og fortæller dig præcis, hvad der er i det.",
-  "onlineTitle": "Kun online",
-  "onlineSegments": [
-   {
-    "text": "Tava Labs er et brand, der kun findes online. Spørgsmål? Skriv til "
-   },
-   {
-    "text": "support@tavalabs.app",
-    "href": "mailto:support@tavalabs.app"
-   },
-   {
-    "text": "."
-   }
-  ],
-  "contactUs": "Kontakt os"
- },
- "contact": {
-  "label": "Kontakt os",
-  "title": "Vi vil meget gerne høre fra dig.",
-  "sub": "Skriv til os, så vender vi tilbage. Vælg det emne, der passer, eller skriv direkte til os.",
-  "emailLabel": "Email:",
-  "phoneLabel": "Telefon:",
-  "topics": {
-   "general": {
-    "title": "Generelt",
-    "body": "Generelle spørgsmål om Tava Labs og serummet."
-   },
-   "wholesale": {
-    "title": "Engros",
-    "body": "Engros og detailhenvendelser om PDRN Brightening Serum."
-   },
-   "sales-support": {
-    "title": "Salgssupport",
-    "body": "Spørgsmål om bestilling, Subscribe & Save og betaling."
-   },
-   "product-support": {
-    "title": "Produktsupport",
-    "body": "Hjælp til brug af serummet, rutiner og din personlige plan."
-   },
-   "partnerships": {
-    "title": "Partnerskaber",
-    "body": "Partnerskaber med acceleratorer, universiteter, investorer og fællesskaber."
-   },
-   "pr": {
-    "title": "PR",
-    "body": "Presse og mediehenvendelser."
-   }
-  }
- },
- "faq": {
-  "label": "Ofte stillede spørgsmål",
-  "titleLead": "Ofte stillede",
-  "titleAccent": "spørgsmål",
-  "sub": "Svar om serummet, bestilling, forsendelse og din personlige plan.",
-  "items": [
-   {
-    "q": "Hvad er PDRN Brightening Serum?",
-    "a": [
-     {
-      "text": "Et dagligt serum bygget op omkring PDRN (Polydeoxyribonucleotide) og Acetyl Hexapeptide-8, med Sodium Hyaluronate og Panthenol. Påfør det morgen og aften for at støtte en teint, der ser lysere og mere ensartet ud."
-     }
-    ]
-   },
-   {
-    "q": "Hvordan bruger jeg det?",
-    "a": [
-     {
-      "text": "Påfør 2 til 4 dråber på ren, tør hud, morgen og aften. Følg efter med fugtighedscreme. Hvis du er ny til aktiv hudpleje, så start én gang om dagen den første uge, og byg derefter op til to gange dagligt."
-     }
-    ]
-   },
-   {
-    "q": "Hvordan får jeg min personlige plan?",
-    "a": [
-     {
-      "text": "Tag "
-     },
-     {
-      "text": "hudquizzen",
-      "href": "/quiz"
-     },
-     {
-      "text": ". Dine svar bygger en personlig plan, herunder hvordan du starter langsomt, og hvornår du bygger op."
-     }
-    ]
-   },
-   {
-    "q": "Hvor meget koster det?",
-    "a": [
-     {
-      "text": "$49 som engangskøb, eller $39 om måneden med Subscribe & Save (20% rabat). Subscribe & Save kan sættes på pause, springes over eller annulleres når som helst."
-     }
-    ]
-   },
-   {
-    "q": "Hvordan fungerer forsendelsen?",
-    "a": [
-     {
-      "text": "Ordrer behandles af vores partner og sendes til den adresse, du angiver ved betaling. Se "
-     },
-     {
-      "text": "forsendelsespolitikken",
-      "href": "/shipping"
-     },
-     {
-      "text": " for detaljer."
-     }
-    ]
-   },
-   {
-    "q": "Hvad er jeres returpolitik?",
-    "a": [
-     {
-      "text": "Alt salg er endeligt. Læs venligst "
-     },
-     {
-      "text": "returpolitikken",
-      "href": "/returns"
-     },
-     {
-      "text": " før du bestiller."
-     }
-    ]
-   },
-   {
-    "q": "Hvilke ingredienser indeholder det?",
-    "a": [
-     {
-      "text": "Den fulde ingrediensliste findes på "
-     },
-     {
-      "text": "ingredienssiden",
-      "href": "/ingredients"
-     },
-     {
-      "text": ". Serummet er duftfrit og fremstillet uden parabener, sulfater, silikoner, mineralsk olie, ftalater og almindelige allergener."
-     }
-    ]
-   },
-   {
-    "q": "Er det egnet til min hudtype?",
-    "a": [
-     {
-      "text": "Serummet er formuleret til at passe til alle hudtyper. Hvis du har en hudlidelse eller bekymringer, så tal med din hudlæge, før du starter ny hudpleje."
-     }
-    ]
-   },
-   {
-    "q": "Hvordan kontakter jeg jer?",
-    "a": [
-     {
-      "text": "Skriv til support@tavalabs.app eller brug "
-     },
-     {
-      "text": "Kontakt os",
-      "href": "/contact"
-     },
-     {
-      "text": " siden."
-     }
-    ]
-   }
-  ]
- },
- "ingredients": {
-  "label": "Ingredienser",
-  "titleLead": "Hvad der er i, og",
-  "titleAccent": "hvad vi udelader.",
-  "intro": "Her er hver ingrediens i PDRN Brightening Serum, hvad hver enkelt gør, og den fulde liste, præcis som den står på etiketten.",
-  "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Made in the USA · Egnet til alle hudtyper.",
-  "keyTitle": "Nøgleingredienser",
-  "keyItems": [
-   {
-    "name": "PDRN (Polydeoxyribonucleotide)",
-    "body": "Vores vigtigste aktive ingrediens. Støtter en teint, der ser lysere og mere ensartet ud."
-   },
-   {
-    "name": "Acetyl Hexapeptide-8",
-    "body": "Et peptid, der støtter et fastere og glattere udseende."
-   },
-   {
-    "name": "Sodium Hyaluronate (Hyaluronic Acid)",
-    "body": "Trækker fugt ind for fugtet, behagelig hud."
-   },
-   {
-    "name": "Panthenol",
-    "body": "Beroliger og støtter hudbarrieren."
-   },
-   {
-    "name": "Glycerin + Sodium PCA",
-    "body": "Fugtbindere, der hjælper huden med at holde på vandet gennem dagen."
-   }
-  ],
-  "fullTitle": "Fuld ingrediensliste",
-  "howTitle": "Sådan bruges den",
-  "howBody": "Påfør 2 til 4 pump på ren, tør hud, morgen og aften. Følg efter med fugtighedscreme. Start én gang om dagen, hvis du er ny til aktiv hudpleje.",
-  "warningTitle": "Advarsel",
-  "warningBody": "Kun til udvortes brug. Undgå direkte kontakt med øjnene. Stop brugen, hvis der opstår irritation. Opbevares utilgængeligt for børn."
- },
- "partners": {
-  "label": "Bliv partner med Tava Labs",
-  "titleLead": "Giv dine stiftere en gratis måned med",
-  "titleAccent": "Tava Labs.",
-  "intro": "Tava Labs samarbejder med acceleratorer, universiteter, engleinvestorer og stifterfællesskaber. Dine medlemmer får deres første måned med PDRN Brightening Serum gratis.",
-  "tagline": "En gratis måned fra os, uden omkostninger og uden forpligtelser.",
-  "becomePartner": "Bliv partner",
-  "partnershipsContact": "Kontakt for partnerskaber",
-  "audiences": [
-   {
-    "alt": "Startup stiftere ved en acceleratorsession",
-    "title": "Til acceleratorer",
-    "body": "Dine stiftere pitcher, demonstrerer og filmer indhold fra dag ét. Giv dem en måned med daglig hudpleje, der tager to minutter om dagen under programmet.",
-    "how": "Sådan fungerer det: vi sender hver stifter i dit hold én gratis flaske, med en personlig plan fra hudquizzen. Du introducerer os én gang; vi klarer alt andet."
-   },
-   {
-    "alt": "Universitetsstuderende på campus",
-    "title": "Til universiteter",
-    "body": "Iværksætterstuderende bygger i offentligheden: pitchkonkurrencer, demodage, stiftertalks og første investormøder. En gratis måned med Tava Labs er en praktisk, mindeværdig gave til de studerende i dit program.",
-    "how": "Sådan fungerer det: vi leverer flasker til dit hold, din klasse eller dit arrangement, plus en enkel folder. Ingen omkostninger for universitetet og ingen omkostninger for de studerende."
-   },
-   {
-    "alt": "Investormøde med en stifter",
-    "title": "Til engleinvestorer",
-    "body": "En gratis måned med Tava Labs er en praktisk gave til stifterne i din portefølje. Vi sørger for leveringen og deres personlige planer.",
-    "how": "Sådan fungerer det: fortæl os, hvor mange stiftere du gerne vil give en gave, så arrangerer vi levering og deres personlige planer. Ingen omkostninger for dig og ingen omkostninger for dem."
-   }
-  ],
-  "whyTitleLead": "Nul omkostninger. Nul besvær.",
-  "whyTitleAccent": "Ægte værdi.",
-  "why": [
-   {
-    "title": "Mere værdi fra dag ét",
-    "body": "Dine medlemmer får et rigtigt produkt og en personlig plan, ikke en rabatkode, de glemmer."
-   },
-   {
-    "title": "Nul omkostninger for dig",
-    "body": "Den første måned er på vores regning, for hver person du giver den til."
-   },
-   {
-    "title": "Nul besvær for dig",
-    "body": "Vi klarer forsendelse, onboarding og support. Du laver én introduktion."
-   },
-   {
-    "title": "En gave, de faktisk vil bruge",
-    "body": "Ét trin, morgen og aften. Den passer til en stifters tidsplan, fordi den er designet til en."
-   }
-  ],
-  "formulationTitle": "Lavet uden disse ingredienser.",
-  "formulationSub": "Serummet er fremstillet uden de ingredienser, dine medlemmer spørger mest om:",
-  "stepsTitle": "Sådan fungerer et partnerskab",
-  "steps": [
-   {
-    "title": "Ræk ud",
-    "body": "Fortæl os om dit program, og hvor mange mennesker du gerne vil give en gave."
-   },
-   {
-    "title": "Vi arrangerer gaven",
-    "body": "Vi sender serummet og opsætter hver persons personlige plan fra hudquizzen."
-   },
-   {
-    "title": "Du giver gaven",
-    "body": "Dine medlemmer får en gratis måned med serummet, med en takkenote fra os i hver kasse."
-   }
-  ],
-  "closingTitleLead": "Giv dine stiftere en",
-  "closingTitleAccent": "gratis måned.",
-  "closingSegments": [
-   {
-    "text": "Skriv til "
-   },
-   {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
-   },
-   {
-    "text": " eller ring "
-   },
-   {
-    "text": "909-906-1308",
-    "href": "tel:+19099061308"
-   },
-   {
-    "text": ", så sætter vi det op."
-   }
-  ]
- },
- "blog": {
-  "label": "The Tava Journal",
-  "titleLead": "Forskning i søvn og stress",
-  "titleAccent": "for stiftere",
-  "sub": "Artikler om søvnforskning, stressforskning og hudens sundhed for stiftere og virksomhedsejere.",
-  "readStory": "Læs historien"
- },
- "research": {
-  "pill": "Research Series 001 · Deltagerresultater",
-  "h1Lead": "Et 16 ugers kig på målte",
-  "h1Accent": "hudforandringer.",
-  "heroSub": "Et prospektivt, åbent deltagerprogram, der kombinerer en personlig hudplejerutine, kosttilskud og livsstilsvejledning. Hvert tal på denne side stammer fra rapporten, målt ved baseline og ved uge 16.",
-  "chips": [
-   "Prospektivt og åbent",
-   "Én arm",
-   "Medicinsk overvåget",
-   "Fysisk klinisk forskningssted"
-  ],
-  "headlineLabel": "Hovedresultat",
-  "headlineTitle": "Samlet antal akne faldt fra 16.8 til 6.2",
-  "slopeAria": "Hældningsgraf, der viser samlet antal akne fra 16.8 ved baseline til 6.2 ved uge 16",
-  "slopeBaseline": "Baseline 16.8",
-  "slopeWeek": "Uge 16 · 6.2",
-  "slopeNote": "Kun en lige linje mellem de to målte punkter. Rapporten offentliggjorde ikke resultatværdier for uge 4, 8 eller 12.",
-  "badges": [
-   {
-    "big": "60 procent højere",
-    "small": "Hudfugt, 29.4 AU til 47.1 AU"
-   },
-   {
-    "big": "52 procent lavere",
-    "small": "Klinisk teksturscore, 2.7 af 4 til 1.3 af 4"
-   }
-  ],
-  "statsLabels": [
-   "Uger i programmet",
-   "Voksne tilmeldt",
-   "Personer, der gennemførte alle besøg",
-   "Gennemførelsesrate"
-  ],
-  "percentWord": "procent",
-  "resultsBg": "Resultater",
-  "resultsLabel": "Gennemsnitlig ændring · Baseline til uge 16",
-  "resultsTitle": "Hvad der ændrede sig, i klare tal.",
-  "resultsSub": "Resultater for de 84 deltagere, der gennemførte alle besøg. Hvert kort sammenligner de to tidspunkter, studiet faktisk målte.",
-  "baseline": "Baseline",
-  "week16": "Uge 16",
-  "slopeFoot": "Baseline til uge 16",
-  "results": [
-   {
-    "title": "Samlet antal akne",
-    "change": "63 procent lavere",
-    "note": "Akne talt af hudlæge"
-   },
-   {
-    "title": "Hudfugt",
-    "change": "60 procent højere",
-    "note": "Corneometer måling i AU"
-   },
-   {
-    "title": "Erytem og rødmeindeks",
-    "change": "30 procent lavere",
-    "note": "Chromameter indeks"
-   },
-   {
-    "title": "Melanin og pigmenteringsindeks",
-    "change": "25 procent lavere",
-    "note": "Chromameter indeks"
-   },
-   {
-    "title": "Klinisk teksturscore",
-    "change": "52 procent lavere",
-    "note": "Vurderet på en skala fra 0 til 4"
-   }
-  ],
-  "peopleBg": "Mennesker",
-  "participantsLabel": "Hvem der deltog",
-  "participantsTitle": "Hvem der deltog i programmet.",
-  "participantsSub": "Fem besøg gennem programmet, fra baseline til uge 16.",
-  "ageLabel": "Gennemsnitsalder",
-  "ageSuffix": "År · Spænd 20 til 48",
-  "visitTimeline": "Besøgstidslinje",
-  "visits": [
-   {
-    "name": "Baseline",
-    "desc": "Screening, målinger og fotografering"
-   },
-   {
-    "name": "Uge 4",
-    "desc": "Opfølgende vurdering"
-   },
-   {
-    "name": "Uge 8",
-    "desc": "Opfølgende vurdering"
-   },
-   {
-    "name": "Uge 12",
-    "desc": "Opfølgende vurdering"
-   },
-   {
-    "name": "Uge 16",
-    "desc": "Afsluttende målinger og fotografering"
-   }
-  ],
-  "genderTitle": "Kønsfordeling",
-  "genderAria": "Donutgraf for kønsfordeling, 74 procent kvinder, 24 procent mænd, 2 procent nonbinære",
-  "gender": [
-   {
-    "label": "Kvinder",
-    "pct": "74 procent"
-   },
-   {
-    "label": "Mænd",
-    "pct": "24 procent"
-   },
-   {
-    "label": "Nonbinære",
-    "pct": "2 procent"
-   }
-  ],
-  "donutNote": "Donutten animerer til den rapporterede fordeling, når den ruller ind i syne.",
-  "concernsTitle": "Hudbekymringer ved baseline",
-  "concerns": [
-   "Postinflammatorisk hyperpigmentering",
-   "Uensartet tekstur og ruhed",
-   "Inflammatorisk akne",
-   "Rødme og sensitivitet i ansigtet",
-   "Mørke rande under øjnene",
-   "Tørhed og svækket barriere",
-   "Fine linjer og tidlig fotoældning"
-  ],
-  "concernsNote": "Deltagerne kunne rapportere mere end én bekymring, så disse andele lægger ikke op til 100 procent.",
-  "programBg": "Program",
-  "programLabel": "Program og protokol",
-  "programTitle": "Det 16 ugers program, trin for trin.",
-  "programSub": "Deltagerne modtog fysisk screening, produktudlevering, vejledning i påføring og opfølgende vurderinger på et klinisk forskningssted.",
-  "morningTag": "Morgenrutine",
-  "morningTitle": "Start dagen",
-  "amSteps": [
-   "Mild rens",
-   "C vitamin serum, 15 procent",
-   "Ceramid fugtighedscreme",
-   "Mineralsk solcreme, SPF 50"
-  ],
-  "eveningTag": "Aftenrutine",
-  "eveningTitle": "Afslut dagen",
-  "pmSteps": [
-   "Mild rens",
-   "Niacinamide 5 procent plus zinkserum",
-   "Peptid barrierecreme",
-   "Retinol 0.3 procent, introduceret i uge 2 og titreret under klinisk vejledning"
-  ],
-  "routineNote": "Retinol blev brugt 3 til 5 nætter om ugen efter den indledende to ugers optrapningsperiode. Efter behov blev 2 procent salicylsyre brugt til aktive læsioner.",
-  "supplementLabel": "Tilskudsrutine",
-  "supplementTitle": "Tava Skin Complex",
-  "supplementSub": "To kapsler dagligt til morgenmad. Mængder vist per portion på to kapsler.",
-  "supplements": [
-   "Vitamin C",
-   "Zink",
-   "Niacinamide",
-   "Astaxanthin",
-   "Curcumin phytosome",
-   "Lactobacillus probiotisk blanding"
-  ],
-  "supplementNote": "Valgfrit tillæg, Omega 3, én softgel dagligt.",
-  "nutritionTitle": "Ernæringsvejledning",
-  "nutritionItems": [
-   "Mindst 2.5 L vand dagligt",
-   "Grøntsager, bær og fødevarer rige på omega 3",
-   "Begræns tilsat sukker og fødevarer med højt glykæmisk indeks",
-   "Valgfri to ugers reset med lavt mejeri og lavt sukker",
-   "Baseline rådgivning med en registreret diætist"
-  ],
-  "lifestyleTitle": "Livsstilsmål",
-  "lifestyleItems": [
-   "7 til 9 timers søvn",
-   "Mindst 150 minutters moderat aktivitet om ugen",
-   "Fem minutters daglig vejrtrækningsøvelse",
-   "Søvn logget ugentligt",
-   "Fugt og solcremevaner gennemgået ved besøg"
-  ],
-  "adherenceLabel": "Programsporing",
-  "adherenceTitle": "Hvor tæt folk holdt sig til planen.",
-  "adherenceSub": "Overholdelse gennem alle 16 uger, som registreret i rapporten.",
-  "adherence": [
-   "Samlet overholdelse",
-   "Overholdelse af tilskud",
-   "Overholdelse af topisk behandling"
-  ],
-  "adherenceAria": "{label}, {val} procent",
-  "adherenceFoot": "Gennem det 16 ugers program",
-  "safetyBg": "Sikkerhed",
-  "safetyLabel": "Rapporterede bivirkninger",
-  "safetyTitle": "Hvad deltagerne rapporterede.",
-  "safetySub": "Andele af deltagere, der rapporterede hver effekt under programmet.",
-  "sideEffectsTitle": "Bivirkninger",
-  "sideEffects": [
-   "Mild tørhed eller afskalning",
-   "Midlertidig akneopblussen",
-   "Mildt gastrointestinalt ubehag"
-  ],
-  "withdrawalsTitle": "Frafald",
-  "withdrawalsSub": "8 deltagere trak sig ud af de 92 tilmeldte.",
-  "withdrawals": [
-   {
-    "label": "Tidsplankonflikter",
-    "value": "5 personer"
-   },
-   {
-    "label": "Milde bivirkninger",
-    "value": "2 personer"
-   },
-   {
-    "label": "Tabt til opfølgning",
-    "value": "1 person"
-   }
-  ],
-  "alertTitle": "Ingen alvorlige bivirkninger rapporteret.",
-  "alertBody": "Den linje står i rapporten sammen med de milde effekter, der er listet på denne side. Den er medtaget her, præcis som rapporteret.",
-  "photoLabel": "Visuel dokumentation",
-  "photoTitle": "Fotosammenligninger af deltagere.",
-  "photoSub": "Side om side fotografier fra det fire måneders program. Det venstre billede i hvert par viste baseline, og det højre billede viste uge 16. Ingen deltagerfotografier er gengivet på denne side.",
-  "participant": "Deltager {initial}",
-  "docViews": [
-   "Sideprofilvisning",
-   "Frontvisning",
-   "Frontvisning med briller",
-   "Nærbillede af kind"
-  ],
-  "baselineAndWeek": "Baseline og uge 16",
-  "photoProtocolTitle": "Fotograferingsprotokol",
-  "photoProtocol": "Standardiseret optagelse ved baseline og opfølgning med et fast kameraopsætning, ensartet synligt og krydspolariseret lys, frontale, 45 graders og profilvinkler samt en farvekalibreret baggrund.",
-  "methodsLabel": "Sådan blev der målt",
-  "methodsTitle": "Kliniske målinger",
-  "methods": [
-   "Akne talt af hudlæge",
-   "Corneometer fugt",
-   "Chromameter rødme og melaninindekser",
-   "Teksturvurdering på en skala fra 0 til 4",
-   "Standardiseret fotografering"
-  ],
-  "factsLabel": "Studiedesign",
-  "factsTitle": "Designet i korte træk.",
-  "facts": [
-   {
-    "k": "Design",
-    "v": "Prospektivt, åbent, én arm"
-   },
-   {
-    "k": "Rammer",
-    "v": "Fysisk fremmøde, medicinsk overvåget"
-   },
-   {
-    "k": "Vurderinger",
-    "v": "Baseline plus uge 4, 8, 12, 16"
-   },
-   {
-    "k": "Gennemført",
-    "v": "84 af 92 tilmeldte · 91 procent"
-   }
-  ],
-  "source": "Kilde, Tava Labs Participant Outcomes, Research Series 001, 16 ugers deltagerprogram. Denne side viser kun rapportens tal, med baseline og uge 16 som de to målte resultatpunkter."
- },
- "account": {
-  "signedInAs": "Logget ind som",
-  "signOut": "Log ud",
-  "loading": "Indlæser din konto…",
-  "failedTitle": "Vi kunne ikke indlæse din konto",
-  "failedSegments": [
-   {
-    "text": "Tjek din forbindelse og prøv igen. Hvis det bliver ved, så skriv til "
-   },
-   {
-    "text": "support@tavalabs.app",
-    "href": "mailto:support@tavalabs.app"
-   },
-   {
-    "text": " og vi ordner det."
-   }
-  ],
-  "tryAgain": "Prøv igen",
-  "tabs": {
-   "today": "I dag",
-   "orders": "Ordrer",
-   "shop": "Shop",
-   "lab": "Laboratorie",
-   "support": "Support"
-  },
-  "greetings": {
-   "morning": "Godmorgen",
-   "afternoon": "God eftermiddag",
-   "evening": "Godaften"
-  },
-  "weekInitials": [
-   "S",
-   "M",
-   "T",
-   "O",
-   "T",
-   "F",
-   "L"
-  ],
-  "streakLine": "{streak} dages streak · Dag {day} af 30{bottle}",
-  "dayLine": "Dag {day} af 30{bottle}. Gennemfør dagens rutine i appen for at starte din streak.",
-  "bottleSuffix": " · {days} dage tilbage i flasken",
-  "progressLine": "Dag {day} af 30 · {left} dage tilbage til din første fulde måned",
-  "stepsToGo": "I dag: {n} af {total} rutinetrin tilbage.",
-  "todayComplete": "I dag er gennemført. Din næste dag er allerede klar.",
-  "planEyebrow": "Din plan",
-  "planDefault": "Tag hudquizzen, så bor din personlige plan, bygget ud fra dine svar, her og i appen.",
-  "retakeQuiz": "Tag hudquizzen igen",
-  "takeQuiz": "Tag hudquizzen",
-  "chipLabels": {
-   "goal": "Mål",
-   "skinType": "Hudtype",
-   "concern": "Bekymring",
-   "routine": "Rutine",
-   "plan": "Plan",
-   "routineTimes": "Rutinetider"
-  },
-  "labelMaps": {
-   "goal": {
-    "radiance": "Glød",
-    "fine_lines": "Fine linjer",
-    "hydration": "Fugt",
-    "even_tone": "Ensartet tone"
-   },
-   "skinType": {
-    "dry": "Tør",
-    "oily": "Fedtet",
-    "combination": "Kombineret",
-    "sensitive": "Sensitiv",
-    "not_sure": "Ikke sikker"
-   },
-   "concern": {
-    "dullness": "Mathed",
-    "fine_lines": "Fine linjer",
-    "uneven_tone": "Uensartet tone",
-    "texture": "Tekstur",
-    "dryness": "Tørhed"
-   },
-   "sensitivity": {
-    "often": "Ofte sensitiv",
-    "sometimes": "Nogle gange sensitiv",
-    "never": "Sjældent sensitiv"
-   },
-   "routine": {
-    "cleanser_only": "Kun rens",
-    "few_products": "Et par produkter",
-    "full_routine": "Fuld rutine"
-   },
-   "ramp": {
-    "gentle": "Blid optrapning",
-    "standard": "Standard optrapning",
-    "full": "Fuld styrke"
-   }
-  },
-  "morningEyebrow": "Morgenrutine",
-  "nightEyebrow": "Aftenrutine",
-  "amTitle": "AM · 3 dråber",
-  "pmTitle": "PM · 3 dråber",
-  "amSteps": [
-   {
-    "title": "Rens",
-    "detail": "Mild rens, dup tør"
-   },
-   {
-    "title": "Påfør 3 dråber serum",
-    "detail": "Tryk ind i ansigt og hals"
-   },
-   {
-    "title": "Fugtighedscreme + SPF",
-    "detail": "SPF 30 eller højere"
-   }
-  ],
-  "pmSteps": [
-   {
-    "title": "Dobbelt rens",
-    "detail": "Fjern SPF og makeup"
-   },
-   {
-    "title": "Påfør 3 dråber serum",
-    "detail": "Før retinol eller behandlinger"
-   },
-   {
-    "title": "Natfugtighedscreme",
-    "detail": "Forsegl fugten inde"
-   }
-  ],
-  "stepsNote": "Du krydser trin af i mobilappen. Denne side viser dagens rutine, og hvad appen indtil videre har registreret i dag.",
-  "ordersEyebrow": "Ordrer",
-  "ordersTitle": "Dine ordrer",
-  "ordersEmpty": "Ingen ordrer endnu. Når du køber, vises dine ordrer og sporing her og i appen.",
-  "paid": "Betalt",
-  "paymentFailed": "Betaling mislykkedes",
-  "unpaid": "Ubetalt",
-  "statusLabels": [
-   "Bestilt",
-   "Afsendt",
-   "Ude til levering",
-   "Leveret"
-  ],
-  "subscription": "Abonnement",
-  "carrierFallback": "Transportør",
-  "trackPackage": "Spor pakke",
-  "claimEyebrow": "Indløsningskode",
-  "claimTitle": "Forbind et køb med appen",
-  "claimForOrder": "Din indløsningskode til ordre {order}",
-  "claimYourCode": "Din indløsningskode",
-  "claimValidUntil": " (gyldig indtil {date})",
-  "claimEnter": ". Indtast den i Tava appen under Ordrer for at forbinde dette køb med din appkonto:",
-  "claimWebNote": "Her på nettet behøver du ikke koden. Når du logger ind med din betalingsemail, vises dine ordrer og din plan allerede ovenfor.",
-  "claimEmpty": "Købt gennem quizzen eller dette site? Din bekræftelsesemail og siden lige efter betaling viste en indløsningskode. Åbn Tava mobilappen, log ind, og indtast koden under fanen Ordrer. Dit køb, din plan og dine quizsvar flytter ind på din appkonto. Her på nettet viser et login med den samme email, du betalte med, allerede alt ovenfor. Der er ikke andet at indtaste.",
-  "shop": {
-   "eyebrow": "PDRN Brightening Serum",
-   "title": "Køb Tava Labs",
-   "body": "1 fl oz (30 ml). Reducér fine linjer, fugt dybt, genopret glød og styrk huden. 2 til 4 pump, morgen og aften.",
-   "subscribeLine": "Abonnér, $39 om måneden.",
-   "subscribeRest": " En frisk flaske hver måned, automatisk.",
-   "oneTimeLine": "Engangskøb, $49.",
-   "oneTimeRest": " En enkelt flaske.",
-   "subscribeBtn": "Abonnér, $39 om måneden",
-   "buyOnceBtn": "Køb én gang, $49",
-   "stripeNote": "Sikker betaling via Stripe. Du bekræfter betalingen på Stripes side."
-  },
-  "labTab": {
-   "eyebrow": "Laboratorie",
-   "title": "Kend dine tal.",
-   "sub": "Ægte blodpaneler, bestilt under din Tava konto. Gennemse panelerne, se hver markør, før du bestiller, og få dine resultater leveret lige her."
-  },
-  "support": {
-   "eyebrow": "Support",
-   "title": "Vi er her for at hjælpe",
-   "segments": [
-    {
-     "text": "Skriv til "
-    },
-    {
-     "text": "support@tavalabs.app",
-     "href": "mailto:support@tavalabs.app"
-    },
-    {
-     "text": " eller ring "
-    },
-    {
-     "text": "909-906-1308",
-     "href": "tel:+19099061308"
-    },
-    {
-     "text": "."
-    }
-   ],
-   "links": {
-    "general": "Generelle spørgsmål",
-    "productSupport": "Produktsupport",
-    "salesSupport": "Ordre og salgssupport",
-    "faqs": "Ofte stillede spørgsmål",
-    "shipping": "Forsendelsespolitik",
-    "returns": "Returpolitik"
-   }
-  }
- },
- "lab": {
-  "ordersLabel": "Klinisk gennemgang",
-  "ordersTitle": "Dine laboratorieordrer",
-  "loadingOrders": "Indlæser dine ordrer…",
-  "ordersEmpty": "Ikke noget her endnu. Når du gennemfører et panel, lander hver markør her med sin værdi, sit sunde interval, og hvordan den bevæger sig over tid. Bestil dit første panel nedenfor, så fyldes dette rum ud.",
-  "viewResults": "Se resultater",
-  "howLabel": "Sådan fungerer laboratorieprøver",
-  "howTitle": "Fire trin, én prøve",
-  "steps": [
-   {
-    "title": "Vælg et panel",
-    "body": "Vælg det panel, der matcher det, du vil vide. Hver markør i det er listet, før du bestiller."
-   },
-   {
-    "title": "Lægelig gennemgang",
-    "body": "En autoriseret læge gennemgår og godkender hver ordre, så et separat lægebesøg ikke er nødvendigt."
-   },
-   {
-    "title": "Mød op til din prøve",
-    "body": "Én hurtig blodprøve på et prøvested nær dig. De fleste besøg tager cirka femten minutter."
-   },
-   {
-    "title": "Resultater lander her",
-    "body": "Resultater leveres digitalt til denne fane i løbet af få dage, med hver markør og dens interval."
-   }
-  ],
-  "panelsLabel": "Panelerne",
-  "panelsTitle": "Fjorten paneler, bygget omkring det, du følger",
-  "panelsSub": "Hvert panel viser sin pris. Bestilling åbner, når betalingen slås til, og en autoriseret læge gennemgår hver ordre, før dine resultater leveres lige her. Paneler kan ikke bestilles til adresser i New York, New Jersey eller Rhode Island.",
-  "markersSuffix": "{n} markører",
-  "resultsInDays": "Resultater på få dage",
-  "hideMarkers": "Skjul markørerne",
-  "seeMarkers": "Se markørerne",
-  "markersAria": "Markører i {name}",
-  "disclaimer": "Laboratorieindsigter er information om dit eget helbred og er ikke en diagnose. Tal med din læge om ethvert resultat, der bekymrer dig, og ring 911 i en nødsituation.",
-  "panelsById": {
-   "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
-    "name": "Panel for sportspræstation",
-    "description": "Træningsparathed og restitution: blodtal, metabolisk panel, jernlagre, D vitamin, testosteron, inflammation og muskelenzymer.",
-    "collection": "Blodprøve ved fremmøde"
-   },
-   "38c76039-05dc-4cd3-8475-7a675989fbf2": {
-    "name": "Udgangspanel for velvære",
-    "description": "Udgangspunkt for hele kroppen: blodtal, metabolisk sundhed, kolesterol, blodsukker, D vitamin og skjoldbruskkirtel.",
-    "collection": "Blodprøve ved fremmøde"
-   },
-   "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
-    "name": "Energi og træthedspanel",
-    "description": "De sædvanlige mistænkte bag lav energi: jernlagre og transport, B12, folat, D vitamin, skjoldbruskkirtel og blodtal.",
-    "collection": "Blodprøve ved fremmøde"
-   },
-   "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
-    "name": "Kvindeligt baseline panel",
-    "description": "Et fokuseret panel med 14 markører, listet i fuld længde nedenfor.",
-    "collection": "Blodprøve ved fremmøde"
-   },
-   "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
-    "name": "GLP1 panel",
-    "description": "Et fokuseret panel med 10 markører, listet i fuld længde nedenfor.",
-    "collection": "Blodprøve ved fremmøde"
-   },
-   "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
-    "name": "Hjertesundhedspanel",
-    "description": "Kardiovaskulær risiko ud over basalt kolesterol: lipider, ApoB, Lp(a), hs-CRP og homocystein.",
-    "collection": "Blodprøve ved fremmøde"
-   },
-   "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
-    "name": "Panel for lang levetid",
-    "description": "Omfattende årligt dybdedyk på tværs af metaboliske, kardiovaskulære, inflammatoriske og hormonelle sundhedsmarkører.",
-    "collection": "Blodprøve ved fremmøde"
-   },
-   "b909fb21-b264-483c-a915-4ce87713cfa9": {
-    "name": "Mandlig baseline test",
-    "description": "Et fokuseret panel med 12 markører, listet i fuld længde nedenfor.",
-    "collection": "Blodprøve ved fremmøde"
-   },
-   "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
-    "name": "Mandligt TRT panel",
-    "description": "Et fokuseret panel med 16 markører, listet i fuld længde nedenfor.",
-    "collection": "Blodprøve ved fremmøde"
-   },
-   "abfabb68-c777-4457-87c2-46bf5fe26d81": {
-    "name": "Mænds hormonpanel",
-    "description": "Mandlig hormonstatus: total testosteron, SHBG, østradiol, LH og FSH.",
-    "collection": "Blodprøve ved fremmøde"
-   },
-   "f12fe316-367a-4c53-9735-8c0129c45506": {
-    "name": "Metabolisk sundhedspanel",
-    "description": "Blodsukkerkontrol og metabolisk risiko: A1c, fastende insulin, kolesterol og et fuldt metabolisk panel.",
-    "collection": "Blodprøve ved fremmøde"
-   },
-   "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
-    "name": "Stress og restitutionspanel",
-    "description": "Stressbelastning og restitutionsevne: kortisol, DHEA-S, skjoldbruskkirtel og inflammation.",
-    "collection": "Blodprøve ved fremmøde"
-   },
-   "1760616d-44d3-4654-817d-440a969e5cdf": {
-    "name": "Komplet skjoldbruskkirtelpanel",
-    "description": "Komplet skjoldbruskkirtelundersøgelse: TSH, frit T4, frit T3 og TPO antistoffer.",
-    "collection": "Blodprøve ved fremmøde"
-   },
-   "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
-    "name": "Kvinders hormonpanel",
-    "description": "Kvindelig hormonstatus: østradiol, progesteron, FSH, LH, DHEA-S og testosteron.",
-    "collection": "Blodprøve ved fremmøde"
-   }
-  },
-  "detail": {
-   "backToAccount": "Tilbage til din konto",
-   "notFoundTitle": "Den laboratorieordre blev ikke fundet",
-   "notFoundBody": "Den tilhører måske en anden email. Log ind med den email, du bestilte under, og prøv igen.",
-   "clinicalReview": "KLINISK GENNEMGANG",
-   "loadingResults": "Indlæser dine resultater…",
-   "yourPanel": "Dit panel",
-   "markerFallback": "Markør",
-   "headlines": {
-    "loading": "Henter dine resultater",
-    "pending": "Dine resultater er på vej",
-    "allIn": "Alle dine resultater er kommet.",
-    "in": "Dine resultater er kommet."
-   },
-   "sublines": {
-    "loading": "Et øjeblik, mens laboratorierapporten indlæses.",
-    "pending": "Så snart laboratoriet rapporterer, fyldes denne side med hver markør, dens værdi og dens sunde interval.",
-    "allIn": "Hver markør er inden for intervallet. Her er det fulde billede.",
-    "oneAttention": "Én markør kræver et nærmere kig. Lad os dykke ned i den.",
-    "manyAttention": "{n} markører kræver et nærmere kig. Lad os dykke ned i dem."
-   },
-   "orderedPrefix": "Bestilt",
-   "statusPrefix": "Status:",
-   "notInYetTitle": "Resultaterne er ikke kommet endnu",
-   "notInYetBody": "De fleste paneler rapporterer inden for få dage efter din prøve. Når dine lander, viser denne side den fulde balancevisning med hver markør og dens interval.",
-   "markerBalance": "Din markørbalance",
-   "biomarkers": "BIOMARKØRER",
-   "analyzedSuffix": "{pct}% analyseret",
-   "statusNames": {
-    "optimal": "Optimal",
-    "inRange": "Inden for interval",
-    "attention": "Kræver opmærksomhed"
-   },
-   "statusLabels": {
-    "optimal": "OPTIMAL",
-    "inRange": "INDEN FOR INTERVAL",
-    "attention": "MARKERET"
-   },
-   "basePrefix": "Basis: {name}",
-   "updatedPrefix": "Opdateret {date}",
-   "updatedRecently": "Opdateret for nylig",
-   "triageTitle": "Statustriage",
-   "tapToFilter": "Tryk for at filtrere",
-   "triageSubs": {
-    "optimal": "Præcis hvor du vil have dem",
-    "inRange": "Inden for det sunde interval",
-    "attention": "En samtale værd med din læge"
-   },
-   "allFilter": "Alle ({n})",
-   "rangePrefix": "Interval {range}",
-   "disclaimer": "Laboratorieresultater er information om dit eget helbred og er ikke en diagnose. Tal med din læge om ethvert resultat, der bekymrer dig, og ring 911 i en nødsituation."
-  }
- },
- "login": {
-  "brandHeadLead": "Velkommen",
-  "brandHeadAccent": "tilbage.",
-  "brandCopy": "Din plan, dine ordrer og din rutine. Én email binder appen og nettet sammen.",
-  "label": "Din Tava konto",
-  "title": "Log ind",
-  "intro": "Log ind med den email, du brugte ved betaling eller i Tava mobilappen. Din plan, dine ordrer og din rutine er knyttet til den email, så alt her matcher appen. Ingen adgangskode nødvendig. Vi sender dig et loginlink via email, og et tryk på det sender dig ind på din konto.",
-  "emailLabel": "Emailadresse",
-  "invalidEmail": "Indtast en gyldig emailadresse.",
-  "sendFailed": "Vi kunne ikke sende den email. Tjek adressen og prøv igen.",
-  "sending": "Sender…",
-  "sendButton": "Send mig et loginlink via email",
-  "sentNotice": "Loginlink sendt til {email}. Det kan tage et minut at ankomme. Tjek din spammappe, hvis du ikke ser det.",
-  "sentBody": "Åbn den email på denne enhed og tryk på linket i den. Du lander på din konto, allerede logget ind. Linket virker én gang og udløber, så brug det snart.",
-  "resend": "Send emailen igen",
-  "differentEmail": "Brug en anden email",
-  "footNote": "Første gang her? Det samme link opretter din konto. Brug emailen fra din ordre, så venter alt allerede på dig.",
-  "claimLabel": "Købt på nettet og bruger appen?",
-  "claimTitle": "Brug din indløsningskode i appen",
-  "claimBody1": "Da du købte gennem quizzen eller dette site, viste din email med købsbekræftelse (og siden lige efter betaling) en indløsningskode. Åbn Tava mobilappen, log ind, og indtast koden under fanen Ordrer. Dit køb, din plan og dine quizsvar flytter ind på din appkonto, uden et nyt køb.",
-  "claimBody2": "På nettet er det endnu enklere. Log ind ovenfor med den samme email, du betalte med, så er dine ordrer og din plan allerede her.",
-  "faqButton": "Spørgsmål? Se de ofte stillede spørgsmål"
- },
- "checkout": {
-  "title": "Betaling",
-  "closeAria": "Luk betaling",
-  "planOneTime": "PDRN Brightening Serum · $49 · Engangskøb",
-  "planSubscribe": "PDRN Brightening Serum · $39 om måneden · Subscribe & Save 20%",
-  "email": "Email",
-  "firstName": "Fornavn",
-  "lastName": "Efternavn",
-  "streetAddress": "Gadeadresse",
-  "addressLine2": "Adresselinje 2 (valgfri)",
-  "city": "By",
-  "state": "Stat",
-  "zip": "Postnummer",
-  "country": "Land",
-  "phoneOptional": "Telefon (valgfri)",
-  "missingIntro": "Næsten færdig. Tilføj dine {fields}.",
-  "missingNames": {
-   "email": "en gyldig email",
-   "firstName": "fornavn",
-   "lastName": "efternavn",
-   "address1": "gadeadresse",
-   "city": "by",
-   "state": "stat",
-   "zip": "postnummer"
-  },
-  "creating": "Opretter din betaling…",
-  "taking": "Sender dig til sikker betaling…",
-  "continueBtn": "Fortsæt til betaling",
-  "startError": "Betalingen kunne ikke starte. Tjek dine oplysninger og prøv igen. Der blev ikke opkrævet noget.",
-  "stripeNote": "Sikker betaling via Stripe. Du bekræfter betalingen på Stripes side. Der er ikke opkrævet noget endnu."
- },
- "legal": {
-  "governsNote": "Denne side er en oversættelse af den engelske original. Hvis ordlyden nogensinde afviger, er den engelske version gældende."
- }
 }

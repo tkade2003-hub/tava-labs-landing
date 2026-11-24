@@ -1,1943 +1,2052 @@
 {
- "meta": {
-  "about": {
-   "description": "Tava Labs face un singur produs, PDRN Brightening Serum, un ser facial zilnic pentru fondatori și proprietari de afaceri. Citește cine suntem și de ce l-am creat.",
-   "title": "Despre Tava Labs | Ser facial pentru fondatori"
+  "meta": {
+    "about": {
+      "description": "Tava Labs face un singur produs, PDRN Brightening Serum, un ser facial zilnic pentru fondatori și proprietari de afaceri. Citește cine suntem și de ce l-am creat.",
+      "title": "Despre Tava Labs | Ser facial pentru fondatori"
+    },
+    "account": {
+      "description": "Contul tău Tava Labs pe web: planul, comenzile, rutina și asistența ta, legate de același email ca aplicația mobilă.",
+      "title": "Contul tău | Tava Labs"
+    },
+    "blog": {
+      "description": "Știința somnului, cercetarea stresului și sănătatea pielii pentru fondatori și proprietari de afaceri, plus rutine practice pentru a arăta odihnit la muncă.",
+      "title": "The Tava Journal | Piele, somn și stres pentru fondatori"
+    },
+    "checkoutCancel": {
+      "description": "Nu s-a făcut nicio taxare. Planul și răspunsurile tale Tava Labs sunt salvate, așa că poți finaliza comanda mai târziu, când ești gata.",
+      "title": "Finalizare anulată | Nu s-a făcut nicio debitare | Tava Labs"
+    },
+    "checkoutSuccess": {
+      "description": "Comanda ta PDRN Brightening Serum de la Tava Labs este confirmată. Codul tău de revendicare conectează această achiziție la aplicație, unde poți vedea planul tău, răspunsurile tale la chestionar și comanda ta.",
+      "title": "Comandă confirmată | PDRN Brightening Serum al tău | Tava Labs"
+    },
+    "contact": {
+      "description": "Contactează Tava Labs pentru asistență pentru produs, ajutor cu comenzile, vânzări en gros, parteneriate și presă. Scrie la support@tavalabs.app pentru comenzi și ajutor cu produsele, sau la talia@tavalabs.app pentru vânzări en gros, parteneriate și presă. Sau sună la 909-906-1308.",
+      "title": "Contact Tava Labs | Asistență, vânzări și parteneriate"
+    },
+    "cookies": {
+      "description": "Cum folosește site-ul Tava Labs cookie-uri și instrumente similare când vizitezi tavalabs.app, ce stochează ele și cum le poți controla.",
+      "title": "Politica privind cookie-urile | Tava Labs"
+    },
+    "faq": {
+      "description": "Răspunsuri despre PDRN Brightening Serum: prețuri, Subscribe and Save, timpi de livrare, returnări, testul pentru piele și conectarea achiziției tale la aplicația Tava.",
+      "title": "Întrebări frecvente și răspunsuri despre PDRN Brightening Serum | Tava Labs"
+    },
+    "home": {
+      "description": "Un ser facial zilnic pentru fondatori și proprietari de afaceri. PDRN Brightening Serum cu PDRN, peptide și acid hialuronic pentru o piele care arată mai luminoasă și mai hidratată. $49 o singură dată sau $39 pe lună.",
+      "title": "PDRN Brightening Serum pentru antreprenori | Tava Labs"
+    },
+    "ingredients": {
+      "description": "Fiecare ingredient din PDRN Brightening Serum explicat, de la PDRN și peptide la Sodium Hyaluronate și Panthenol, plus lista completă INCI și ce lăsăm pe dinafară.",
+      "title": "Ingrediente PDRN Brightening Serum | Tava Labs"
+    },
+    "login": {
+      "description": "Autentifică-te în contul tău Tava Labs: planul, comenzile, rutina și asistența ta, legate de același email ca aplicația mobilă.",
+      "title": "Autentificare | Tava Labs"
+    },
+    "partners": {
+      "description": "Acceleratoare, incubatoare, programe de afaceri și investitori: oferă fondatorilor tăi o rezervă gratuită de o lună de PDRN Brightening Serum. Devino partener Tava Labs.",
+      "title": "Devino partener Tava Labs | Serum gratuit pentru programul tău"
+    },
+    "privacy": {
+      "description": "Cum colectează, folosește și protejează Tava Labs informațiile tale când vizitezi tavalabs.app, faci testul pentru piele sau comanzi PDRN Brightening Serum.",
+      "title": "Politica de confidențialitate | Tava Labs"
+    },
+    "product": {
+      "description": "PDRN Brightening Serum de la Tava Labs este un ser facial zilnic cu PDRN, peptide și hialuronat de sodiu pentru o piele care arată mai luminoasă și mai hidratată. Creat pentru fondatori și proprietari de afaceri. $49 o singură dată sau $39 pe lună.",
+      "title": "PDRN Brightening Serum pentru antreprenori | Tava Labs"
+    },
+    "moisturizer": {
+      "title": "Peptide Moisturizer pentru fondatori și proprietari de afaceri | Tava Labs",
+      "description": "Peptide Moisturizer de la Tava Labs este o cremă hidratantă pentru față cu peptidă de cupru și extract de merișor. Hidratează pielea și vizează aspectul liniilor fine și al ridurilor. 1.7 fl oz (50 ml). $27.99 o singură dată."
+    },
+    "quiz": {
+      "description": "Răspunde la câteva întrebări rapide și creează-ți planul personal în jurul PDRN Brightening Serum. Un singur serum, de două ori pe zi, adaptat pielii și obiectivelor tale.",
+      "title": "Test pentru piele | Creează-ți planul personal cu serum | Tava Labs"
+    },
+    "research": {
+      "description": "Rezultate măsurate din programul Tava Labs cu participanți, pe 16 săptămâni. Schimbări de la momentul inițial la săptămâna 16 în leziuni acneice, hidratare, roșeață, pigmentare și textură, cu protocolul complet al programului.",
+      "title": "Rezultatele cercetării de 16 săptămâni | Tava Labs"
+    },
+    "returns": {
+      "description": "Politica Tava Labs de returnări și rambursări pentru comenzile de PDRN Brightening Serum, inclusiv termenii potrivit cărora toate vânzările sunt finale și cum ajungi la asistență.",
+      "title": "Politica de returnări și rambursări | Tava Labs"
+    },
+    "shipping": {
+      "description": "Politica de livrare Tava Labs pentru comenzile de PDRN Brightening Serum: timpi de procesare, estimări de livrare, urmărire și zone de livrare.",
+      "title": "Politica de livrare | Tava Labs"
+    },
+    "terms": {
+      "description": "Termenii care guvernează folosirea tavalabs.app de către tine și achiziția PDRN Brightening Serum de la Tava Labs, LLC, inclusiv politica noastră potrivit căreia toate vânzările sunt finale.",
+      "title": "Termeni și condiții | Tava Labs"
+    }
   },
-  "account": {
-   "description": "Contul tău Tava Labs pe web: planul, comenzile, rutina și asistența ta, legate de același email ca aplicația mobilă.",
-   "title": "Contul tău | Tava Labs"
+  "chrome": {
+    "addToRoutine": "Adaugă la rutină",
+    "closeMenu": "Închide meniul",
+    "contactHeading": "Contactează-ne",
+    "contactLinks": {
+      "general": "General",
+      "pr": "PR",
+      "productSupport": "Asistență pentru produs",
+      "salesSupport": "Asistență vânzări",
+      "wholesale": "En gros"
+    },
+    "contactEmails": {
+      "supportLabel": "Comenzi și ajutor pentru produse",
+      "generalLabel": "Contact general"
+    },
+    "copyright": "© 2026 Tava Labs · PDRN Brightening Serum pentru fondatori",
+    "disclaimer1": "PDRN Brightening Serum este un produs cosmetic. Nu este destinat diagnosticării, tratării, vindecării sau prevenirii vreunei boli. Rezultatele individuale pot varia.",
+    "disclaimer2": "Toate vânzările sunt finale. Te rugăm să consulți politica noastră de returnări înainte de a comanda.",
+    "footerIngredients": "Ingrediente",
+    "footerSerum": "PDRN Brightening Serum",
+    "footerMoisturizer": "Peptide Moisturizer",
+    "homeAria": "Pagina principală Tava Labs",
+    "infoHeading": "Informații",
+    "infoLinks": {
+      "about": "Despre noi",
+      "blog": "Blog",
+      "faqs": "Întrebări frecvente",
+      "ingredients": "Ingrediente",
+      "partners": "Parteneri",
+      "research": "Cercetare"
+    },
+    "language": "Limbă",
+    "legalHeading": "Legal",
+    "legalLinks": {
+      "cookies": "Politica privind cookie-urile",
+      "privacy": "Politica de confidențialitate",
+      "returns": "Politica de returnări",
+      "shipping": "Politica de livrare",
+      "terms": "Termeni și condiții"
+    },
+    "login": "Autentificare",
+    "mobileNavAria": "Mobil",
+    "navAbout": "Despre",
+    "navBlog": "Blog",
+    "navContact": "Contact",
+    "navFaqs": "Întrebări frecvente",
+    "navIngredients": "Ingrediente",
+    "navSerum": "Serumul",
+    "newsletter": {
+      "done": "Ești abonat. Mulțumim.",
+      "error": "Ceva nu a mers bine, te rugăm să încerci din nou.",
+      "placeholder": "Emailul tău",
+      "sending": "Se trimite...",
+      "subscribe": "Abonează-te"
+    },
+    "newsletterHeading": "Primește actualizări Tava Labs prin e-mail",
+    "notFoundBody": "Pagina aceea nu este aici. Este posibil să se fi mutat sau adresa să fie incompletă.",
+    "notFoundHome": "Înapoi la pagina principală",
+    "notFoundLabel": "Tava Labs",
+    "notFoundShop": "Cumpără PDRN Brightening Serum",
+    "notFoundTitle": "Pagina nu a fost găsită",
+    "openMenu": "Deschide meniul",
+    "primaryNavAria": "Principală",
+    "shopHeading": "Magazin",
+    "tagline": "PDRN Brightening Serum pentru fondatori"
   },
-  "blog": {
-   "description": "Știința somnului, cercetarea stresului și sănătatea pielii pentru fondatori și proprietari de afaceri, plus rutine practice pentru a arăta odihnit la muncă.",
-   "title": "The Tava Journal | Piele, somn și stres pentru fondatori"
-  },
-  "checkoutCancel": {
-   "description": "Nu s-a făcut nicio taxare. Planul și răspunsurile tale Tava Labs sunt salvate, așa că poți finaliza comanda mai târziu, când ești gata.",
-   "title": "Finalizare anulată | Nu s-a făcut nicio debitare | Tava Labs"
-  },
-  "checkoutSuccess": {
-   "description": "Comanda ta PDRN Brightening Serum de la Tava Labs este confirmată. Codul tău de revendicare conectează această achiziție la aplicație, unde poți vedea planul tău, răspunsurile tale la chestionar și comanda ta.",
-   "title": "Comandă confirmată | PDRN Brightening Serum al tău | Tava Labs"
-  },
-  "contact": {
-   "description": "Contactează Tava Labs pentru asistență pentru produs, ajutor cu comenzile, vânzări en gros, parteneriate și presă. Scrie la support@tavalabs.app pentru comenzi și ajutor cu produsele, sau la talia@tavalabs.app pentru vânzări en gros, parteneriate și presă. Sau sună la 909-906-1308.",
-   "title": "Contact Tava Labs | Asistență, vânzări și parteneriate"
-  },
-  "cookies": {
-   "description": "Cum folosește site-ul Tava Labs cookie-uri și instrumente similare când vizitezi tavalabs.app, ce stochează ele și cum le poți controla.",
-   "title": "Politica privind cookie-urile | Tava Labs"
-  },
-  "faq": {
-   "description": "Răspunsuri despre PDRN Brightening Serum: prețuri, Subscribe and Save, timpi de livrare, returnări, testul pentru piele și conectarea achiziției tale la aplicația Tava.",
-   "title": "Întrebări frecvente și răspunsuri despre PDRN Brightening Serum | Tava Labs"
+  "hero": {
+    "ariaLabel": "PDRN Brightening Serum",
+    "cardAria": "PDRN Brightening Serum, pagina produsului",
+    "line1": "Un ser facial zilnic pentru",
+    "line2": "o piele mai luminoasă, mai netedă.",
+    "morningAlt": "Fondator care aplică serum la o oglindă de baie, în lumina dimineții",
+    "morningCaption": "Aplică la oglindă în fiecare dimineață",
+    "morningPill": "Rutină de dimineață",
+    "onSetAlt": "Fondator așezat pe un platou de studio, cu fața la cameră",
+    "onSetCaption": "Pentru filmări și apeluri video",
+    "onSetPill": "Pe cameră",
+    "pill": "Pentru fondatori și proprietari de afaceri",
+    "priceLine": "$49 o singură dată sau $39 pe lună",
+    "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Aplică două până la patru picături dimineața și seara. $49 o singură dată sau $39 pe lună.",
+    "talia": {
+      "alt": "Talia Kade, cercetătoare la Tava Labs, purtând un halat alb de laborator",
+      "baseline": "Moment inițial",
+      "slopeAria": "Linie de tendință de la 16.8 la momentul inițial la 6.2 în săptămâna 16",
+      "statBig": "cu 63% mai puține",
+      "statCap": "Leziuni acneice",
+      "statNote": "Schimbare medie în programul cu participanți, pe 16 săptămâni",
+      "week16": "Săptămâna 16"
+    },
+    "wideHead": "O sticlă, folosită dimineața și seara.",
+    "widePill": "Zi și noapte"
   },
   "home": {
-   "description": "Un ser facial zilnic pentru fondatori și proprietari de afaceri. PDRN Brightening Serum cu PDRN, peptide și acid hialuronic pentru o piele care arată mai luminoasă și mai hidratată. $49 o singură dată sau $39 pe lună.",
-   "title": "PDRN Brightening Serum pentru antreprenori | Tava Labs"
+    "buildersBody": "Fondatorii și proprietarii de afaceri prezintă toată ziua. Prezinți investitorilor în persoană, vinzi în apeluri video și înregistrezi videoclipuri pentru clienți. A arăta curat și odihnit face parte din a-ți prezenta bine afacerea. O rutină zilnică scurtă de îngrijire a pielii stă lângă o garderobă bună și un laptop de încredere ca îngrijire de bază. PDRN Brightening Serum durează două minute, dimineața și seara.",
+    "buildersTagline": "Construiește-ți afacerea. Nu te neglija pe tine.",
+    "buildersTitle": "Creat pentru fondatori și proprietari de afaceri",
+    "cameraAlt": "Fondator care vorbește în fața unei camere",
+    "cameraBody": "La o filmare video, un podcast sau un apel de vânzări, camera arată pielea obosită de aproape. O rutină de două minute dimineața și seara ajută pielea ta să arate odihnită înainte să înregistrezi.",
+    "cameraTitle": "În fața camerei",
+    "closeVideo": "Închide videoclipul",
+    "founderBody1": "Aceasta este ideea din spatele Tava Labs. PDRN Brightening Serum este singurul pas în jurul căruia este construită rutina: două minute, de două ori pe zi, dimineața și seara.",
+    "founderBody2": "Urmărește videoclipul ca să auzi de ce l-am creat, în propriile noastre cuvinte.",
+    "founderLabel": "Un mesaj de la fondatorul nostru",
+    "founderPhilosophy": "Filozofia Tava Labs",
+    "founderQuote": "„Un ser, două minute, dimineața și seara. Asta este întreaga rutină.”",
+    "founderVideoAria": "Videoclipul Tava Labs, de ce am creat PDRN Brightening Serum",
+    "freeFromItems": [
+      {
+        "blurb": "Nu a fost testat niciodată pe animale.",
+        "name": "Fără cruzime"
+      },
+      {
+        "blurb": "Fără parfumuri adăugate sau arome sintetice.",
+        "name": "Fără parfum"
+      },
+      {
+        "blurb": "Fără ulei mineral sau umpluturi din petrol.",
+        "name": "Fără ulei mineral"
+      },
+      {
+        "blurb": "Fără ftalați în formulă.",
+        "name": "Fără ftalați"
+      },
+      {
+        "blurb": "Fără siliconi care îți acoperă pielea.",
+        "name": "Fără siliconi"
+      },
+      {
+        "blurb": "Fără sulfați duri. Blând cu pielea.",
+        "name": "Fără sulfați"
+      },
+      {
+        "blurb": "Creat fără alergeni comuni.",
+        "name": "Fără alergeni"
+      },
+      {
+        "blurb": "Fără alcooli care usucă.",
+        "name": "Fără alcool"
+      }
+    ],
+    "freeFromSub": "Ce lăsăm pe dinafară contează la fel de mult ca ce punem înăuntru.",
+    "freeFromTitleAccent": "în formulă.",
+    "freeFromTitleLead": "Ce nu este",
+    "introBody": "Fondatorii și proprietarii de afaceri își petrec zilele în întâlniri, apeluri de vânzări și videoclipuri înregistrate. Fața ta este pe ecran și în cameră pentru toate acestea. PDRN Brightening Serum este un pas ușor cu PDRN, peptide și acid hialuronic. Se absoarbe rapid și ajută pielea să arate mai luminoasă, hidratată și netedă. Două minute, de două ori pe zi.",
+    "introTitleAccent": "cu aspect sănătos",
+    "introTitleLead": "Piele mai luminoasă, hidratată,",
+    "journalSub": "Articole despre somn, stres și piele pentru fondatori.",
+    "journalTitle": "The Tava Journal",
+    "maintenanceBody": "Aplică două până la patru picături de PDRN Brightening Serum pe pielea curată și uscată, dimineața și seara, apoi urmează cu cremă hidratantă. Întreaga rutină durează aproximativ două minute pe zi.",
+    "maintenanceTitle": "Un ser este întreaga rutină.",
+    "marqueeSlogan": "Creat pentru fondatori și proprietari de afaceri",
+    "marqueeTagline": "Un ser, dimineața și seara",
+    "motionBody": "Fondatori și creatori care folosesc PDRN Brightening Serum, înregistrați pe video.",
+    "motionTitle": "Urmărește videoclipurile clienților",
+    "pitchAlt": "Fondator care își prezintă ideea unui investitor",
+    "pitchBody": "Când prezinți investitorilor în persoană, ei te văd pe tine înainte să îți vadă slide-urile. O rutină zilnică cu ser ajută pielea ta să arate luminoasă, hidratată și odihnită în acea zi.",
+    "pitchTitle": "În prezentare",
+    "playVideo": "Redă videoclipul",
+    "readJournal": "Citește jurnalul",
+    "readStory": "Citește povestea",
+    "shopSerum": "Cumpără serumul",
+    "videoPlayer": "Player video"
   },
-  "ingredients": {
-   "description": "Fiecare ingredient din PDRN Brightening Serum explicat, de la PDRN și peptide la Sodium Hyaluronate și Panthenol, plus lista completă INCI și ce lăsăm pe dinafară.",
-   "title": "Ingrediente PDRN Brightening Serum | Tava Labs"
+  "appTeaser": {
+    "caption": "Aplicația Tava Labs aduce planul tău cu serum, rutina zilnică, panourile și rezultatele de laborator și comenzile tale într-un singur loc, creată pentru iPhone.",
+    "features": [
+      {
+        "desc": "Sesiuni de dimineață și de seară, bifate pas cu pas.",
+        "title": "O rutină zilnică"
+      },
+      {
+        "desc": "Seria ta actuală și zilele rămase în planul tău.",
+        "title": "Serii și progres"
+      },
+      {
+        "desc": "Panouri, rezultate și intervale, în buzunarul tău.",
+        "title": "Panouri de laborator și rezultate"
+      },
+      {
+        "desc": "Vezi comenzile și datele de reaprovizionare într-un singur loc.",
+        "title": "Comenzi și reaprovizionări"
+      }
+    ],
+    "headlineLead": "Serul tău, analizele și comenzile tale",
+    "headlineTrail": "într-o singură aplicație.",
+    "label": "În curând",
+    "lead": "Rutina ta, rezultatele tale de laborator și comenzile tale, toate în aplicația Tava Labs.",
+    "phone": {
+      "amDrops": "Dimineața · 3 picături",
+      "clinicalReview": "Revizuire clinică",
+      "dayLine": "Ziua 12 din 30 · mai ai 18 zile până la prima ta lună completă",
+      "goodMorning": "Bună dimineața",
+      "inRange": "2 în interval",
+      "morningRoutine": "Rutina de dimineață",
+      "optimal": "4 optime",
+      "resultsIn": "Rezultatele tale au sosit",
+      "steps": [
+        {
+          "detail": "Produs de curățare blând, tamponează până se usucă",
+          "title": "Curăță"
+        },
+        {
+          "detail": "Apasă pe față și gât",
+          "title": "Aplică 3 picături de serum"
+        },
+        {
+          "detail": "SPF 30 sau mai mare",
+          "title": "Hidratează + SPF"
+        }
+      ],
+      "stepsToGo": "Astăzi: mai ai 4 din 6 pași de rutină",
+      "tabs": {
+        "lab": "Laborator",
+        "orders": "Comenzi",
+        "profile": "Profil",
+        "shop": "Magazin",
+        "today": "Astăzi"
+      },
+      "toReview": "1 de revizuit",
+      "today": "Astăzi"
+    },
+    "scroll": "Derulează"
   },
-  "login": {
-   "description": "Autentifică-te în contul tău Tava Labs: planul, comenzile, rutina și asistența ta, legate de același email ca aplicația mobilă.",
-   "title": "Autentificare | Tava Labs"
+  "categoryChrome": {
+    "explore": "Explorează",
+    "goTo": "Mergi la {title}",
+    "nextProducts": "Produsele următoare",
+    "prevProducts": "Produsele anterioare",
+    "readMore": "Citește mai mult +",
+    "showLess": "Arată mai puțin −"
   },
-  "partners": {
-   "description": "Acceleratoare, incubatoare, programe de afaceri și investitori: oferă fondatorilor tăi o rezervă gratuită de o lună de PDRN Brightening Serum. Devino partener Tava Labs.",
-   "title": "Devino partener Tava Labs | Serum gratuit pentru programul tău"
-  },
-  "privacy": {
-   "description": "Cum colectează, folosește și protejează Tava Labs informațiile tale când vizitezi tavalabs.app, faci testul pentru piele sau comanzi PDRN Brightening Serum.",
-   "title": "Politica de confidențialitate | Tava Labs"
+  "categories": {
+    "skincare": {
+      "eyebrow": "ÎNGRIJIRE A PIELII",
+      "heroTitleLead": "Următoarea ta întâlnire",
+      "heroTitleAccent": "începe cu tine.",
+      "heroCopy": "Creat pentru antreprenori care prezintă, vând și înregistrează pe cameră. Un ser zilnic, construit în jurul PDRN, pentru o piele care arată luminoasă și odihnită în cameră și pe cameră.",
+      "heroFinePrint": "Îngrijire cosmetică a pielii. Nu este destinată diagnosticării, tratării, vindecării sau prevenirii vreunei boli.",
+      "stamp": "ÎNGRIJIREA PIELII PENTRU FONDATORI",
+      "primaryCta": "Adaugă la rutină",
+      "secondaryCta": "Vezi ingredientele",
+      "optionsEyebrow": "GAMA",
+      "optionsTitleLead": "Un singur serum.",
+      "optionsTitleAccent": "Fără raft de presupuneri.",
+      "optionsCopy": "Începe cu serumul. Restul gamei este pe drum.",
+      "products": [
+        {
+          "title": "PDRN Brightening Serum",
+          "subtitle": "PDRN, peptide și Sodium Hyaluronate",
+          "unit": "o singură dată",
+          "imageAlt": "Sticla PDRN Brightening Serum de la Tava Labs",
+          "badges": [
+            "Cel mai vândut"
+          ],
+          "description": "Serul zilnic pentru o piele mai luminoasă, hidratată și cu aspect sănătos. $39 pe lună la Abonează-te și economisește.",
+          "linkLabel": "Vezi serumul"
+        },
+        {
+          "title": "Peptide Moisturizer",
+          "subtitle": "1.7 fl oz (50ml)",
+          "imageAlt": "Tub alb Peptide Moisturizer de la Tava Labs cu o pată roz",
+          "badges": [
+            "În curând"
+          ],
+          "description": "O cremă hidratantă cu peptide care vizează ridurile și hidratează, făcută pentru o piele care trebuie să arate stăpână toată ziua."
+        },
+        {
+          "title": "Peptide Eye Cream",
+          "subtitle": "1 fl oz (30ml)",
+          "imageAlt": "Tub alb Peptide Eye Cream de la Tava Labs cu o picătură șampanie",
+          "badges": [
+            "În curând"
+          ],
+          "description": "Reduce aspectul umflăturilor ochilor și vizează ridurile din zona ochilor, pentru un aspect odihnit în fața camerei."
+        },
+        {
+          "title": "Skin Firming Cream",
+          "subtitle": "2 oz (56g)",
+          "imageAlt": "Borcan alb Skin Firming Cream de la Tava Labs cu un fundal cu undă aurie",
+          "badges": [
+            "În curând"
+          ],
+          "description": "Acid hialuronic și CoQ10 într-o cremă bogată care lasă pielea cu un aspect ferm și îngrijit."
+        }
+      ],
+      "disclaimerLead": "Produsele de îngrijire a pielii Tava Labs sunt cosmetice. Nu sunt destinate diagnosticării, tratării, vindecării sau prevenirii vreunei boli.",
+      "disclaimerMore": [
+        "Rezultatele individuale variază. Folosește doar conform indicațiilor: 2 până la 4 picături de PDRN Brightening Serum, de două ori pe zi, pe piele curată.",
+        "Dacă apare iritație, oprește folosirea și consultă un profesionist. Prețurile de pe această pagină erau corecte la publicare și se pot schimba."
+      ],
+      "protocolEyebrow": "RUTINA",
+      "protocolTitleLead": "Două minute, de două ori pe zi.",
+      "protocolTitleAccent": "Asta este toată rutina.",
+      "protocolCopy": "O rutină construită în jurul unui singur serum și al programului unui antreprenor, cu apeluri devreme, nopți târzii și tot restul.",
+      "protocolCta": "Adaugă la rutină",
+      "steps": [
+        {
+          "title": "Evaluează",
+          "lead": "cu testul pentru piele",
+          "body": "Răspunde la câteva întrebări rapide despre pielea, somnul și programul tău, pentru ca planul tău să pornească de unde ești cu adevărat."
+        },
+        {
+          "title": "Aplică",
+          "lead": "2 până la 4 picături, de două ori pe zi",
+          "body": "Dimineața și seara, pe piele curată. Un singur serum, un singur pas, fără o rutină în zece pași de întreținut."
+        },
+        {
+          "title": "Urmărește",
+          "lead": "planul tău în aplicație",
+          "body": "Achiziția ta se conectează la aplicația Tava cu un cod de revendicare, unde planul, comenzile și rutina ta rămân într-un singur loc."
+        }
+      ],
+      "legalLines": [
+        "Doar produse cosmetice. Nimic de pe această pagină nu este sfat medical."
+      ]
+    },
+    "biomarkers": {
+      "eyebrow": "BIOMARKERI DE LABORATOR",
+      "heroTitleLead": "Cunoaște-ți datele,",
+      "heroTitleAccent": "pe Tava.",
+      "heroCopy": "Îți conduci compania pe cifre. În curând poți aplica aceeași disciplină asupra ta: biomarkerii tăi cheie, urmăriți în timp, în aplicația Tava.",
+      "heroFinePrint": "În curând în aplicația Tava. Perspectivele sunt doar informative și nu diagnostichează nicio afecțiune.",
+      "stamp": "DATELE TALE ÎNTR-UN SINGUR LOC",
+      "primaryCta": "Vezi ce este urmărit",
+      "secondaryCta": "Cum va funcționa",
+      "optionsEyebrow": "CE ESTE URMĂRIT",
+      "optionsTitleLead": "Șase domenii.",
+      "optionsTitleAccent": "O imagine clară.",
+      "optionsCopy": "Domeniile de biomarkeri din previzualizarea aplicației Tava, în curs de construire acum.",
+      "products": [
+        {
+          "title": "Creier",
+          "subtitle": "Concentrare și claritate",
+          "badges": [
+            "În curând"
+          ],
+          "description": "Markerii din spatele concentrării, clarității și ritmului cognitiv, adunați într-o singură vedere."
+        },
+        {
+          "title": "Hormoni",
+          "subtitle": "Echilibru",
+          "badges": [
+            "În curând"
+          ],
+          "description": "Imaginea ta hormonală în timp, pentru ca schimbările să fie vizibile, nu ghicite."
+        },
+        {
+          "title": "Inimă",
+          "subtitle": "Markeri cardiovasculari",
+          "badges": [
+            "În curând"
+          ],
+          "description": "Markerii inimii care contează, urmăriți ca tendință, nu ca o citire unică."
+        },
+        {
+          "title": "Metabolism",
+          "subtitle": "Energie și ardere",
+          "badges": [
+            "În curând"
+          ],
+          "description": "Cum folosește corpul tău energia, în cifre pe care le poți urmări cu adevărat."
+        },
+        {
+          "title": "Intestin",
+          "subtitle": "Sănătate digestivă",
+          "badges": [
+            "În curând"
+          ],
+          "description": "Semnale de sănătate intestinală care se leagă de energie, stare de spirit și recuperare."
+        },
+        {
+          "title": "Longevitate",
+          "subtitle": "Vârstă biologică",
+          "badges": [
+            "În curând"
+          ],
+          "description": "Perspectiva pe termen lung: cum se adună markerii tăi într-o imagine a vârstei biologice."
+        }
+      ],
+      "disclaimerLead": "Perspectivele asupra biomarkerilor din aplicația Tava sunt doar informative. Nu diagnostichează, tratează sau previn nicio afecțiune.",
+      "disclaimerMore": [
+        "Discută cu furnizorul tău despre orice rezultat care te îngrijorează. În caz de urgență, sună la 911."
+      ],
+      "protocolEyebrow": "CUM VA FUNCȚIONA",
+      "protocolTitleLead": "Testezi, revizuiești,",
+      "protocolTitleAccent": "urmărești tendința.",
+      "protocolCopy": "Un singur tablou de bord pentru persoana care conduce afacerea, lângă planul tău cu serum, în aceeași aplicație.",
+      "steps": [
+        {
+          "title": "Testezi",
+          "lead": "printr-un partener de laborator",
+          "body": "Proba ta este colectată și procesată, iar rezultatele ajung în aplicația ta Tava."
+        },
+        {
+          "title": "Revizuiești",
+          "lead": "domeniu cu domeniu",
+          "body": "Creier, hormoni, inimă, metabolism, intestin și longevitate, fiecare cu vederea sa."
+        },
+        {
+          "title": "Urmărești",
+          "lead": "tendința în timp",
+          "body": "O singură citire este o fotografie de moment. Valoarea este tendința, iar aplicația o păstrează pentru tine."
+        }
+      ],
+      "legalLines": [
+        "Urmărirea biomarkerilor de laborator vine în curând și nu este încă deschisă pentru comenzi."
+      ]
+    },
+    "mentalHealth": {
+      "eyebrow": "SĂNĂTATE MINTALĂ",
+      "heroTitleLead": "Concentrează-te mai bine,",
+      "heroTitleAccent": "pe Tava.",
+      "heroCopy": "Sprijin pentru concentrare și atenție care începe cu o revizuire de către un clinician, nu cu un buton de finalizare.",
+      "heroFinePrint": "După revizuirea de către clinician. Acest program este în dezvoltare și nu este încă deschis pentru înscrieri.",
+      "stamp": "ÎNGRIJIRE REVIZUITĂ DE CLINICIENI",
+      "primaryCta": "Vezi cum funcționează",
+      "optionsEyebrow": "PROGRAMUL",
+      "optionsTitleLead": "Îngrijire care începe",
+      "optionsTitleAccent": "cu o revizuire.",
+      "optionsCopy": "",
+      "products": [],
+      "disclaimerLead": "Sprijinul pentru sănătatea mintală pe Tava începe cu o revizuire de către un clinician. Nimic aici nu este un diagnostic sau o recomandare de tratament.",
+      "disclaimerMore": [
+        "Dacă ești în criză sau te gândești să îți faci rău, sună sau trimite mesaj la 988 în Statele Unite. În caz de urgență, sună la 911."
+      ],
+      "protocolEyebrow": "CUM FUNCȚIONEAZĂ",
+      "protocolTitleLead": "Mai întâi revizuirea.",
+      "protocolTitleAccent": "Apoi un plan.",
+      "protocolCopy": "Un parcurs atent, deschis, în ritmul tău.",
+      "steps": [
+        {
+          "title": "Revizuire",
+          "lead": "cu un clinician",
+          "body": "Împărtășește istoricul tău și cu ce te confrunți, iar un clinician revizuiește dacă sprijinul de aici este potrivit."
+        },
+        {
+          "title": "Plan",
+          "lead": "construit în jurul tău",
+          "body": "Dacă este potrivit, planul tău este construit în jurul obiectivelor și programului tău."
+        },
+        {
+          "title": "Sprijin",
+          "lead": "pe parcurs",
+          "body": "Verificările mențin planul onest pe măsură ce lucrurile se schimbă."
+        }
+      ],
+      "legalLines": [
+        "Ofertele de sănătate mintală pe Tava sunt în dezvoltare și nu sunt încă deschise pentru înscrieri."
+      ]
+    },
+    "peptides": {
+      "eyebrow": "PROGRAME CU PEPTIDE",
+      "heroTitleLead": "Peptide,",
+      "heroTitleAccent": "cu un furnizor alături de tine.",
+      "heroCopy": "Treisprezece programe cu peptide de la Tava Labs, fiecare începând cu o consultație online și o revizuire de către furnizor.",
+      "heroFinePrint": "Este necesară prescripție. Un furnizor autorizat decide eligibilitatea după consultație.",
+      "stamp": "PROGRAME GHIDATE DE FURNIZOR",
+      "primaryCta": "Începe o consultație",
+      "secondaryCta": "Cum funcționează",
+      "optionsEyebrow": "PROGRAMELE",
+      "optionsTitleLead": "Treisprezece programe.",
+      "optionsTitleAccent": "O consultație începe oricare dintre ele.",
+      "optionsCopy": "Fiecare program include o consultație de $20. Majoritatea includ teste de laborator. Prețurile sunt prețurile lunare ale programelor.",
+      "unitPerMonth": "/lună",
+      "products": [
+        {
+          "subtitle": "Recuperare",
+          "imageAlt": "Ilustrație cu flaconul programului BPC-157",
+          "badges": [
+            "Recuperare",
+            "Sănătate intestinală",
+            "Teste de laborator incluse"
+          ],
+          "description": "BPC-157 de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
+          "linkLabel": "Vezi programul"
+        },
+        {
+          "subtitle": "Sănătate intestinală",
+          "imageAlt": "Ilustrație cu flaconul programului CJC-1295 + Ipamorelin",
+          "badges": [
+            "Sănătate intestinală",
+            "Somn",
+            "Recuperare",
+            "Longevitate",
+            "Teste de laborator incluse"
+          ],
+          "description": "CJC-1295 + Ipamorelin de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
+          "linkLabel": "Vezi programul"
+        },
+        {
+          "subtitle": "Longevitate",
+          "imageAlt": "Ilustrație cu flaconul programului GHK-Cu",
+          "badges": [
+            "Longevitate",
+            "Teste de laborator incluse"
+          ],
+          "description": "GHK-Cu de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
+          "linkLabel": "Vezi programul"
+        },
+        {
+          "subtitle": "Recuperare",
+          "imageAlt": "Ilustrație cu flaconul programului GLOW Injection",
+          "badges": [
+            "Recuperare",
+            "Teste de laborator incluse"
+          ],
+          "description": "GLOW Injection de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
+          "linkLabel": "Vezi programul"
+        },
+        {
+          "subtitle": "Slăbire",
+          "imageAlt": "Ilustrație cu flaconul programului MOTS-C",
+          "badges": [
+            "Slăbire",
+            "Energie",
+            "Performanță",
+            "Teste de laborator incluse"
+          ],
+          "description": "MOTS-C de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
+          "linkLabel": "Vezi programul"
+        },
+        {
+          "subtitle": "Longevitate",
+          "imageAlt": "Ilustrație cu flaconul programului NAD+ Injectable",
+          "badges": [
+            "Longevitate",
+            "Energie",
+            "Recuperare",
+            "Concentrare"
+          ],
+          "description": "NAD+ Injectable de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
+          "linkLabel": "Vezi programul"
+        },
+        {
+          "subtitle": "Sănătate sexuală",
+          "imageAlt": "Ilustrație cu flaconul programului PT-141",
+          "badges": [
+            "Sănătate sexuală",
+            "Teste de laborator incluse"
+          ],
+          "description": "PT-141 de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
+          "linkLabel": "Vezi programul"
+        },
+        {
+          "subtitle": "Slăbire",
+          "imageAlt": "Ilustrație cu flaconul programului Semaglutide + B12 (Cyanocobalamin)",
+          "badges": [
+            "Slăbire",
+            "Teste de laborator incluse"
+          ],
+          "description": "Semaglutide + B12 (Cyanocobalamin) de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
+          "linkLabel": "Vezi programul"
+        },
+        {
+          "subtitle": "Longevitate",
+          "imageAlt": "Ilustrație cu flaconul programului Sermorelin",
+          "badges": [
+            "Longevitate",
+            "Recuperare",
+            "Performanță",
+            "Teste de laborator incluse"
+          ],
+          "description": "Sermorelin de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
+          "linkLabel": "Vezi programul"
+        },
+        {
+          "subtitle": "Performanță",
+          "imageAlt": "Ilustrație cu flaconul programului TB-500",
+          "badges": [
+            "Performanță",
+            "Recuperare",
+            "Teste de laborator incluse"
+          ],
+          "description": "TB-500 de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
+          "linkLabel": "Vezi programul"
+        },
+        {
+          "subtitle": "Longevitate",
+          "imageAlt": "Ilustrație cu flaconul programului Tesamorelin",
+          "badges": [
+            "Longevitate",
+            "Recuperare",
+            "Performanță",
+            "Teste de laborator incluse"
+          ],
+          "description": "Tesamorelin de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
+          "linkLabel": "Vezi programul"
+        },
+        {
+          "subtitle": "Slăbire",
+          "imageAlt": "Ilustrație cu flaconul programului Tirzepatide + B12 (Cyanocobalamin)",
+          "badges": [
+            "Slăbire",
+            "Teste de laborator incluse"
+          ],
+          "description": "Tirzepatide + B12 (Cyanocobalamin) de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
+          "linkLabel": "Vezi programul"
+        },
+        {
+          "subtitle": "Recuperare",
+          "imageAlt": "Ilustrație cu flaconul programului Wolverine Injection",
+          "badges": [
+            "Recuperare",
+            "Teste de laborator incluse"
+          ],
+          "description": "Wolverine Injection de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
+          "linkLabel": "Vezi programul"
+        }
+      ],
+      "disclaimerLead": "Medicamentele preparate sunt realizate de farmacii autorizate pentru pacienți individuali. Nu sunt aprobate de FDA, iar FDA nu revizuiește medicamentele preparate din punct de vedere al siguranței, eficacității sau calității.",
+      "disclaimerMore": [
+        "Îngrijirea medicală este oferită de furnizori independenți și autorizați. Furnizorii decid independent dacă un tratament este potrivit pentru tine; achiziția nu garantează o prescripție.",
+        "Un furnizor autorizat îți revizuiește informațiile și decide independent dacă un tratament este potrivit pentru tine. Achiziția nu garantează o prescripție.",
+        "Pentru urgențe, sună la 911."
+      ],
+      "protocolEyebrow": "CUM FUNCȚIONEAZĂ",
+      "protocolTitleLead": "Consulți, revizuiești,",
+      "protocolTitleAccent": "apoi începi.",
+      "protocolCopy": "Fiecare program se desfășoară prin furnizori independenți și autorizați.",
+      "protocolCta": "Începe o consultație",
+      "steps": [
+        {
+          "title": "Consulți",
+          "lead": "online, în programul tău",
+          "body": "Completează consultația online pentru programul ales. Consultația este $20."
+        },
+        {
+          "title": "Revizuire",
+          "lead": "de către un furnizor autorizat",
+          "body": "Un furnizor îți revizuiește informațiile și analizele și decide independent dacă tratamentul este potrivit pentru tine."
+        },
+        {
+          "title": "Începi",
+          "lead": "dacă este prescris",
+          "body": "Medicația ta este livrată de la o farmacie autorizată, iar furnizorul tău te urmărește pe măsură ce programul tău continuă."
+        }
+      ],
+      "legalLines": [
+        "Magazinul nostru de peptide este în prezent în mod de testare, așa că programele sunt afișate pentru revizuire și nu sunt încă deschise pentru comenzi reale.",
+        "Pentru urgențe, sună la 911."
+      ]
+    }
   },
   "product": {
-   "description": "PDRN Brightening Serum de la Tava Labs este un ser facial zilnic cu PDRN, peptide și hialuronat de sodiu pentru o piele care arată mai luminoasă și mai hidratată. Creat pentru fondatori și proprietari de afaceri. $49 o singură dată sau $39 pe lună.",
-   "title": "PDRN Brightening Serum pentru antreprenori | Tava Labs"
+    "breadcrumbHome": "Acasă",
+    "bullets": [
+      "PDRN, Acetil Hexapeptidă-8 și acid hialuronic, pentru a susține o piele mai netedă și mai luminoasă.",
+      "Hidratare profundă din glicerină, Sodium PCA și Panthenol.",
+      "100% fără cruzime, fără parfum, fără parabeni, fără sulfați, fără ulei mineral, fără siliconi și vegan."
+    ],
+    "cleanVegan": "Curat și vegan • PDRN activ",
+    "clinical": {
+      "imgAlts": [
+        "Diagramă Promovează luminozitatea",
+        "Diagramă Susține hidratarea profundă",
+        "Diagramă Îmbunătățește textura pielii"
+      ],
+      "label": "Teste clinice",
+      "note": "Evaluări ale activelor bio topice bazate pe percepția consumatorilor pe 8 săptămâni și teste instrumentale de hidratare. Barierele individuale ale pielii, genetica și mediul influențează calendarele și rezultatele specifice.",
+      "titleAccent": "sănătății pielii tale",
+      "titleLead": "Ai grijă de"
+    },
+    "dermTested": "Testat dermatologic • Făcut pentru toate tipurile de piele",
+    "details": [
+      {
+        "body": "O formulă ușoară și hidratantă pentru o piele cu aspect mai neted și mai luminos. Se absoarbe rapid, nu lasă reziduuri și menține pielea confortabilă.",
+        "title": "Cunoaște PDRN Brightening Serum"
+      },
+      {
+        "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin.",
+        "title": "Ingrediente și formulare"
+      },
+      {
+        "body": "Aplică 2 până la 4 picături pe piele curată și uscată. Masează blând pe față și gât până la absorbție. Folosește de două ori pe zi, dimineața și seara. Continuă cu cremă hidratantă sau protecție solară.",
+        "title": "Cum se aplică"
+      },
+      {
+        "body": "Formulat la standarde certificate fără cruzime și făcut fără parfum, siliconi, parabeni, ulei mineral, sulfați, ftalați sau alergeni comuni. Testat dermatologic pe toate tipurile de piele.",
+        "title": "Garanție de îngrijire curată a pielii"
+      }
+    ],
+    "ecosystem": {
+      "items": [
+        "Un diagnostic personalizat al pielii și un ghid de regim din testul tău pentru piele",
+        "Un plan de tratament care începe încet și se construiește în timp",
+        "Mementouri de aplicare pe care le controlezi, dimineața și seara",
+        "Asistență prin mesaje chiar în aplicație",
+        "Livrare Subscribe and Save în fiecare lună, pune pe pauză sau anulează oricând"
+      ],
+      "label": "Planul tău",
+      "note": "Pune pe pauză, ajustează sau anulează Subscribe and Save oricând. Achizițiile unice rămân disponibile la $49.",
+      "sub": "Alături de serumul tău, fiecare plan Tava Labs include:",
+      "title": "Primește sprijin complet pentru rutină"
+    },
+    "faqSection": {
+      "items": [
+        {
+          "a": "PDRN (Polydeoxyribonucleotide) este format din fragmente de ADN care sunt biocompatibile cu celulele pielii umane. Promovează regenerarea naturală a celulelor, stimulează microcirculația și ajută la repararea barierei pielii, pentru o piele care arată mai luminoasă și mai fermă.",
+          "q": "Ce este PDRN și cum beneficiază pielea?"
+        },
+        {
+          "a": "Folosește PDRN Brightening Serum de două ori pe zi după curățare și tonifiere. Pune 2 până la 4 picături direct pe vârful degetelor sau pe pielea umedă, netezind pe față, gât și decolteu. Continuă cu crema ta hidratantă și protecția solară de dimineață.",
+          "q": "Cum includ PDRN Brightening Serum în rutina mea de îngrijire a pielii?"
+        },
+        {
+          "a": "Da. Formularea noastră este non comedogenică, fără ulei, fără parfum și îmbogățită cu Panthenol calmant. Calmează sensibilitatea în timp ce hidratează profund, fără să înfunde porii sau să declanșeze iritații.",
+          "q": "Este acest serum potrivit pentru pielea sensibilă și predispusă la acnee?"
+        },
+        {
+          "a": "Da. PDRN funcționează bine alături de tratamente active precum retinoizii și vitamina C. Baza sa hidratantă ajută la calmarea descuamării sau roșeții pe care exfolianții chimici le pot provoca.",
+          "q": "Pot suprapune PDRN cu retinol, vitamina C sau AHA/BHA?"
+        },
+        {
+          "a": "Când este aplicată în cantitate de 2 până la 4 picături de două ori pe zi, o sticlă de 30ml (1 fl oz) durează de obicei 4 până la 6 săptămâni. Subscribe and Save trimite următoarea sticlă înainte să rămâi fără.",
+          "q": "Cât durează de obicei o sticlă de 30ml?"
+        }
+      ],
+      "label": "Întrebări și răspunsuri",
+      "title": "Întrebări frecvente",
+      "viewAll": "Vezi toate întrebările frecvente"
+    },
+    "finalCta": {
+      "line": "PDRN Brightening Serum · $49.00 / 30ml · Curat și vegan · Hidratare profundă · Anulează oricând",
+      "title": "Un ser pentru o piele care arată mai luminoasă, hidratată și mai netedă."
+    },
+    "formulary": {
+      "activeIngredient": "Ingredient activ",
+      "comingSoon": "În curând",
+      "howToUse": "Cum se folosește",
+      "label": "Compară formulele",
+      "others": [
+        {
+          "rows": [
+            [
+              "Beneficiu principal",
+              "Hidratare zilnică"
+            ],
+            [
+              "Mărime",
+              "1.7 fl oz (50ml)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Beneficiu principal",
+              "Îngrijirea zonei ochilor"
+            ],
+            [
+              "Mărime",
+              "1 fl oz (30ml)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Beneficiu principal",
+              "Fermitate și hidratare"
+            ],
+            [
+              "Mărime",
+              "2 oz (56g)"
+            ],
+            [
+              "Ingredient activ",
+              "Acid hialuronic și CoQ10"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Beneficiu principal",
+              "Îngrijirea scalpului și a părului"
+            ],
+            [
+              "Mărime",
+              "1 fl oz (30ml)"
+            ]
+          ]
+        }
+      ],
+      "primaryBenefit": "Beneficiu principal",
+      "selectSerum": "Selectează serumul",
+      "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
+      "serumAlt": "PDRN Brightening Serum",
+      "serumBenefitValue": "Luminozitate și fermitate",
+      "serumHowValue": "Dimineața și seara",
+      "serumOneTime": "sau $49 o singură dată",
+      "serumPriceLine": "Subscribe and Save $39/lună",
+      "sizeLabel": "Mărime",
+      "status": "Stare",
+      "sub": "Formule pentru obiective, preocupări și rutine diferite ale pielii. Alege-o pe cea care se potrivește pielii tale și programului tău.",
+      "title": "Ce tratament de îngrijire a pielii este potrivit pentru tine?"
+    },
+    "gallery": {
+      "alts": [
+        "Sticla PDRN Brightening Serum",
+        "Vederea 2 a sticlei de serum",
+        "Vederea 3 a sticlei de serum",
+        "Vederea 4 a sticlei de serum",
+        "Vederea 5 a sticlei de serum"
+      ],
+      "view": "Vederea {n}"
+    },
+    "inStock": "În stoc",
+    "innovation": {
+      "footnote": "*Activitate biocelulară evaluată prin evaluări clinice in vitro și ex vivo. Rezultatele pot varia în funcție de starea individuală a pielii.",
+      "imgAlts": [
+        "Textura serumului",
+        "Cristal și formulă",
+        "Probă de cristal"
+      ],
+      "items": [
+        {
+          "body": "PDRN marin crește reînnoirea celulară, ceea ce luminează un ten tern și netezește textura vizibilă.",
+          "label": "Textura pielii",
+          "title": "PDRN"
+        },
+        {
+          "body": "Această peptidă susține elasticitatea colagenului, pentru o piele care arată mai fermă.",
+          "label": "Fermitate",
+          "title": "Acetyl Hexapeptide-8"
+        },
+        {
+          "body": "Acidul hialuronic, Sodium PCA și Panthenol lucrează împreună pentru a reține umezeala în bariera pielii pentru peste 24 de ore.",
+          "label": "Hidratare profundă",
+          "title": "Acid hialuronic și pantenol"
+        }
+      ],
+      "label": "Ingrediente cheie",
+      "sub": "Cele trei ingrediente de mai jos fac cea mai mare parte a muncii în acest ser.",
+      "titleAccent": "ingrediente",
+      "titleLead": "Ce fac principalele"
+    },
+    "pricePerUnit": "/ 30ml (1 fl oz)",
+    "protocol": {
+      "label": "Cum să îl folosești",
+      "progressionBody": "Piele mai luminoasă, mai hidratată în 7 până la 14 zile; elasticitate îmbunătățită a pielii și fermitate a barierei până în săptămâna 4 până la 6.",
+      "progressionLabel": "Progresie clinică",
+      "progressionTitle": "Calendarul rezultatelor vizibile",
+      "steps": [
+        {
+          "body": "Curăță cu un produs de curățare blând, cu pH echilibrat, pentru a îndepărta impuritățile și a pregăti pielea, fără să îi îndepărtezi lipidele naturale.",
+          "title": "Curăță, cu un produs blând"
+        },
+        {
+          "body": "Aplică 2 până la 4 picături de serum PDRN pe pielea umedă. Apasă și tamponează blând pe față și gât până la absorbția completă.",
+          "title": "Serum PDRN, 2 până la 4 picături"
+        },
+        {
+          "body": "Aplică cremă hidratantă pentru a păstra peptidele și a susține bariera pielii.",
+          "title": "Hidratează și menține umezeala"
+        },
+        {
+          "body": "Termină rutina de dimineață cu SPF 30+ cu spectru larg pentru a proteja pielea împotriva UV și a daunelor radicalilor liberi.",
+          "title": "Protejează (doar dimineața), SPF 30+"
+        },
+        {
+          "body": "Testul tău pentru piele îți construiește planul, inclusiv cum să începi încet și când să intensifici.",
+          "title": "Planul tău personal, inclus"
+        }
+      ],
+      "sub": "Consecvența contează. Urmează acești pași dimineața și seara și termină cu cremă hidratantă pentru a păstra hidratarea.",
+      "timelineAlt": "Exemplu de calendar al rezultatelor, săptămânile 1 până la 4 și mai departe",
+      "titleAccent": "de două ori pe zi",
+      "titleLead": "O rutină simplă,"
+    },
+    "subPrice": "sau $39 pe lună cu Subscribe and Save",
+    "titleAccent": "Serum",
+    "titleLead": "PDRN Brightening",
+    "viewFormulation": "Vezi formularea completă și testele clinice"
   },
-  "quiz": {
-   "description": "Răspunde la câteva întrebări rapide și creează-ți planul personal în jurul PDRN Brightening Serum. Un singur serum, de două ori pe zi, adaptat pielii și obiectivelor tale.",
-   "title": "Test pentru piele | Creează-ți planul personal cu serum | Tava Labs"
+  "moisturizer": {
+    "breadcrumbHome": "Acasă",
+    "inStock": "În stoc",
+    "subBadge": "Peptidă de cupru și extract de merișor",
+    "madeLine": "Fabricat în SUA",
+    "titleLead": "Peptide",
+    "titleAccent": "Moisturizer",
+    "pricePerUnit": "1.7 fl oz (50 ml)",
+    "intro": "O cremă hidratantă pentru față cu peptidă de cupru și extract de merișor. Hidratează pielea și vizează aspectul liniilor fine și al ridurilor.",
+    "bullets": [
+      "Hidratează pielea și îngrijește fața și gâtul, dimineața sau seara.",
+      "Fabricată cu peptidă de cupru și extract de merișor.",
+      "Vizează aspectul liniilor fine și al ridurilor.",
+      "Creată pentru fondatori și proprietari de afaceri. Un pas simplu, dimineața sau seara."
+    ],
+    "details": [
+      {
+        "title": "Cum se folosește",
+        "body": "Aplicați o cantitate de mărimea unei monede pe față și gât și masați ușor până la absorbția completă. Folosiți dimineața sau seara."
+      },
+      {
+        "title": "Ingrediente",
+        "body": "Aqua, Sorbitan Olivate, Cetearyl Olivate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Cetyl Alcohol, Stearyl Alcohol, Methylglucoside Phosphate, Copper Lysinate/Prolinate, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Eclipta Prostrata Extract, Moringa Oleifera Seed Extract, Melia Azadirachta (Neem) Leaf Extract, Glycerin, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate, Totarol, Hamamelis Virginiana (Witch Hazel) Water, Xanthan Gum, Alcohol, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Maltodextrin, Syringa Vulgaris (Lilac) Leaf Cell Culture Extract."
+      },
+      {
+        "title": "Bine de știut",
+        "body": "Numai pentru uz extern. A nu se ingera. Evitați contactul cu ochii. Întrerupeți utilizarea dacă apare iritație. A nu se lăsa la îndemâna copiilor. Păstrați într un loc răcoros și uscat. Mărime 1.7 fl oz (50 ml). Fabricat în SUA."
+      }
+    ],
+    "keyIngredients": {
+      "label": "Ingrediente cheie",
+      "titleLead": "Care sunt",
+      "titleAccent": "ingredientele principale",
+      "sub": "Ingredientele de mai jos sunt cele în jurul cărora este construită această cremă hidratantă.",
+      "items": [
+        {
+          "title": "Peptidă de cupru",
+          "body": "Peptida de cupru, trecută pe etichetă ca Copper Lysinate/Prolinate, este peptida din această formulă. Vizează aspectul liniilor fine și al ridurilor."
+        },
+        {
+          "title": "Extract de merișor",
+          "body": "Extractul de merișor provine din fructul de merișor. Este inclus ca extract vegetal în formula zilnică."
+        },
+        {
+          "title": "Aloe vera și hamamelis",
+          "body": "Sucul de frunză de aloe vera și apa de hamamelis sunt ingrediente vegetale în formulă. Stau alături de glicerină, care ajută pielea să păstreze umiditatea."
+        },
+        {
+          "title": "Moringa și neem",
+          "body": "Extractul de semințe de moringa și extractul de frunză de neem sunt extracte vegetale în formulă. Este inclusă și vitamina E, trecută ca Tocopheryl Acetate."
+        }
+      ]
+    },
+    "howToUse": {
+      "label": "Cum se folosește",
+      "title": "Un pas, dimineața sau seara",
+      "sub": "Aplicați crema hidratantă pe față și gât ca pasul de hidratare al rutinei dumneavoastră.",
+      "steps": [
+        {
+          "title": "Dimineața",
+          "body": "Aplicați o cantitate de mărimea unei monede pe față și gât dimineața. Masați ușor până la absorbția completă."
+        },
+        {
+          "title": "Seara",
+          "body": "Aplicați o cantitate de mărimea unei monede pe față și gât seara. Masați ușor până la absorbția completă."
+        }
+      ]
+    },
+    "faqSection": {
+      "label": "Întrebări și răspunsuri",
+      "title": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Ce este Peptide Moisturizer?",
+          "a": "Este o cremă hidratantă pentru față cu peptidă de cupru și extract de merișor, plus aloe vera, hamamelis, moringa, neem, eclipta, glicerină și vitamina E. Hidratează pielea și îngrijește fața și gâtul."
+        },
+        {
+          "q": "Cât costă și ce mărime are?",
+          "a": "Costă $27.99 o singură dată. Mărimea este 1.7 fl oz (50 ml). Acest produs nu are preț de abonament."
+        },
+        {
+          "q": "Cum o folosesc?",
+          "a": "Aplicați o cantitate de mărimea unei monede pe față și gât și masați ușor până la absorbția completă. Folosiți dimineața sau seara."
+        },
+        {
+          "q": "Pentru cine este creată?",
+          "a": "Este creată pentru fondatori și proprietari de afaceri care vor un pas simplu de hidratare, dimineața sau seara. Vizează aspectul liniilor fine și al ridurilor."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Peptide Moisturizer pentru hidratare zilnică.",
+      "line": "Peptide Moisturizer · $27.99 · 1.7 fl oz (50 ml) · Fabricat în SUA"
+    },
+    "gallery": {
+      "view": "Vederea {n}",
+      "alts": [
+        "Borcan Peptide Moisturizer cu capacul pus",
+        "Borcan Peptide Moisturizer cu capacul scos",
+        "Trei borcane Peptide Moisturizer",
+        "Două borcane Peptide Moisturizer"
+      ]
+    }
+  },
+  "about": {
+    "bullets": [
+      "PDRN pentru un ten cu aspect mai luminos și mai uniform.",
+      "Acetyl Hexapeptide-8 pentru a susține aspectul de fermitate.",
+      "Sodium Hyaluronate și Panthenol pentru hidratare.",
+      "Folosește de două ori pe zi: 2 până la 4 apăsări pe piele curată și uscată, dimineața și seara."
+    ],
+    "contactUs": "Contactează-ne",
+    "label": "Despre noi",
+    "onlineSegments": [
+      {
+        "text": "Tava Labs este un brand exclusiv online. Întrebări? Scrie la "
+      },
+      {
+        "href": "mailto:support@tavalabs.app",
+        "text": "support@tavalabs.app"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "onlineTitle": "Exclusiv online",
+    "p1": "Tava Labs este un brand de îngrijire a pielii pentru persoanele care construiesc afaceri. Aspectul tău face parte din prezența ta profesională. Oamenii te văd pe cameră, în întâlniri de prezentare și la muncă în fiecare zi.",
+    "p2": "Facem un singur lucru și îl facem bine. Un ser zilnic care menține pielea ta arătând hidratată și odihnită, fără o rutină complicată.",
+    "p3": "Tava Labs a fost fondată pentru fondatori și proprietari de afaceri. Un pas, dimineața și seara, înainte de întâlniri, prezentări și munca pe cameră.",
+    "p4": "Îngrijirea pielii, tratată ca îngrijire de bază. Aceeași consecvență pe care o aduci afacerii tale, aplicată rutinei tale proprii.",
+    "philosophyCaption": "Filozofia Tava Labs",
+    "philosophyLabel": "Filozofia noastră",
+    "philosophyP1": "Credem în a avea grijă de tine așa cum ai grijă de munca ta, cu pași mici făcuți consecvent în fiecare zi.",
+    "philosophyP2": "Nu promitem transformare. Facem un ser zilnic bine formulat și îți spunem exact ce conține.",
+    "priceLine": "$49 o singură dată sau $39 pe lună cu Subscribe & Save.",
+    "quote": "„Un ser, două minute, dimineața și seara. Asta este întreaga rutină.”",
+    "serumAlt": "PDRN Brightening Serum",
+    "serumBody": "O rutină zilnică pentru ten, construită în jurul PDRN (Polydeoxyribonucleotide) și Acetyl Hexapeptide-8, cu Sodium Hyaluronate și Panthenol pentru hidratare și confort. Curată și fără parfum și făcută fără nimic de pe lista noastră de ingrediente excluse.",
+    "serumLabel": "Serumul",
+    "serumTitle": "PDRN Brightening Serum",
+    "tagline": "Construiește-ți afacerea. Nu te neglija pe tine.",
+    "titleAccent": "pentru fondatori.",
+    "titleLead": "Un ser facial zilnic"
+  },
+  "contact": {
+    "emailLabel": "Email:",
+    "label": "Contactează-ne",
+    "phoneLabel": "Telefon:",
+    "sub": "Scrie-ne pe email și îți răspundem. Alege subiectul potrivit sau scrie-ne direct.",
+    "title": "Ne-ar plăcea să auzim de la tine.",
+    "topics": {
+      "general": {
+        "body": "Întrebări generale despre Tava Labs și serum.",
+        "title": "General"
+      },
+      "partnerships": {
+        "body": "Parteneriate cu acceleratoare, universități, investitori și comunități.",
+        "title": "Parteneriate"
+      },
+      "pr": {
+        "body": "Solicitări din presă și media.",
+        "title": "PR"
+      },
+      "product-support": {
+        "body": "Ajutor cu folosirea serumului, rutinele și planul tău personal.",
+        "title": "Asistență pentru produs"
+      },
+      "sales-support": {
+        "body": "Întrebări despre comandă, Subscribe & Save și finalizarea comenzii.",
+        "title": "Asistență vânzări"
+      },
+      "wholesale": {
+        "body": "Solicitări en gros și de retail pentru PDRN Brightening Serum.",
+        "title": "En gros"
+      }
+    }
+  },
+  "faq": {
+    "items": [
+      {
+        "a": [
+          {
+            "text": "Un ser zilnic construit în jurul PDRN (Polydeoxyribonucleotide) și Acetil Hexapeptidei-8, cu Hialuronat de sodiu și Pantenol. Aplică-l dimineața și seara pentru a susține un ten care arată mai luminos și mai uniform."
+          }
+        ],
+        "q": "Ce este PDRN Brightening Serum?"
+      },
+      {
+        "a": [
+          {
+            "text": "Aplică 2 până la 4 picături pe piele curată și uscată, dimineața și seara. Continuă cu cremă hidratantă. Dacă ești nou în îngrijirea activă a pielii, începe o dată pe zi în prima săptămână, apoi treci la de două ori pe zi."
+          }
+        ],
+        "q": "Cum îl folosesc?"
+      },
+      {
+        "a": [
+          {
+            "text": "Fă "
+          },
+          {
+            "href": "/quiz",
+            "text": "Testul pentru piele"
+          },
+          {
+            "text": ". Răspunsurile tale creează un plan personal, inclusiv cum să începi încet și când să intensifici."
+          }
+        ],
+        "q": "Cum primesc planul meu personal?"
+      },
+      {
+        "a": [
+          {
+            "text": "$49 o singură dată sau $39 pe lună cu Subscribe & Save (reducere de 20%). Subscribe & Save poate fi pus pe pauză, sărit sau anulat oricând."
+          }
+        ],
+        "q": "Cât costă?"
+      },
+      {
+        "a": [
+          {
+            "text": "Comenzile sunt onorate de partenerul nostru și livrate la adresa pe care o dai la finalizare. Vezi "
+          },
+          {
+            "href": "/shipping",
+            "text": "Politica de livrare"
+          },
+          {
+            "text": " pentru detalii."
+          }
+        ],
+        "q": "Cum funcționează livrarea?"
+      },
+      {
+        "a": [
+          {
+            "text": "Toate vânzările sunt finale. Te rugăm să citești "
+          },
+          {
+            "href": "/returns",
+            "text": "Politica de returnări"
+          },
+          {
+            "text": " înainte de a comanda."
+          }
+        ],
+        "q": "Care este politica voastră de returnări?"
+      },
+      {
+        "a": [
+          {
+            "text": "Lista completă de ingrediente este pe "
+          },
+          {
+            "href": "/ingredients",
+            "text": "pagina Ingrediente"
+          },
+          {
+            "text": ". Serumul este fără parfum și făcut fără parabeni, sulfați, siliconi, ulei mineral, ftalați și alergeni comuni."
+          }
+        ],
+        "q": "Ce ingrediente conține?"
+      },
+      {
+        "a": [
+          {
+            "text": "Serumul este formulat să se potrivească tuturor tipurilor de piele. Dacă ai o afecțiune a pielii sau îngrijorări, discută cu dermatologul tău înainte de a începe orice îngrijire nouă a pielii."
+          }
+        ],
+        "q": "Este potrivit pentru tipul meu de piele?"
+      },
+      {
+        "a": [
+          {
+            "text": "Scrie la support@tavalabs.app sau folosește pagina "
+          },
+          {
+            "href": "/contact",
+            "text": "Contactează-ne"
+          },
+          {
+            "text": "."
+          }
+        ],
+        "q": "Cum vă contactez?"
+      }
+    ],
+    "label": "Întrebări frecvente",
+    "sub": "Răspunsuri despre serum, comandă, livrare și planul tău personal.",
+    "titleAccent": "frecvente",
+    "titleLead": "Întrebări"
+  },
+  "ingredients": {
+    "fullTitle": "Ingrediente complete",
+    "howBody": "Aplică 2 până la 4 apăsări pe piele curată și uscată, dimineața și seara. Continuă cu cremă hidratantă. Începe o dată pe zi dacă ești nou în îngrijirea activă a pielii.",
+    "howTitle": "Cum se folosește",
+    "intro": "Iată fiecare ingredient din PDRN Brightening Serum, ce face fiecare și lista completă exact așa cum apare pe etichetă.",
+    "keyItems": [
+      {
+        "body": "Principalul nostru ingredient activ. Susține un ten care arată mai luminos și mai uniform.",
+        "name": "PDRN (Polydeoxyribonucleotide)"
+      },
+      {
+        "body": "O peptidă care susține aspectul de fermitate și netezime.",
+        "name": "Acetyl Hexapeptide-8"
+      },
+      {
+        "body": "Atrage umezeala pentru o piele hidratată și confortabilă.",
+        "name": "Sodium Hyaluronate (Hyaluronic Acid)"
+      },
+      {
+        "body": "Calmează și susține bariera pielii.",
+        "name": "Panthenol"
+      },
+      {
+        "body": "Umectanți care ajută pielea să rețină apa pe parcursul zilei.",
+        "name": "Glycerin + Sodium PCA"
+      }
+    ],
+    "keyTitle": "Ingrediente cheie",
+    "label": "Ingrediente",
+    "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Fabricat în SUA · Potrivit pentru toate tipurile de piele.",
+    "titleAccent": "ce lăsăm pe dinafară.",
+    "titleLead": "Ce este înăuntru și",
+    "warningBody": "Doar pentru uz extern. Evită contactul direct cu ochii. Dacă apare iritație, oprește folosirea. Nu lăsa la îndemâna copiilor.",
+    "warningTitle": "Atenție"
+  },
+  "partners": {
+    "audiences": [
+      {
+        "alt": "Fondatori de startup la o sesiune de accelerator",
+        "body": "Fondatorii tăi prezintă, fac demonstrații și filmează conținut din prima zi. Oferă-le o lună de îngrijire zilnică a pielii care durează două minute pe zi în timpul programului.",
+        "how": "Cum funcționează: livrăm fiecărui fondator din cohorta ta o sticlă gratuită, cu un plan personal din testul pentru piele. Ne prezinți o singură dată; noi ne ocupăm de tot restul.",
+        "title": "Pentru acceleratoare"
+      },
+      {
+        "alt": "Studenți universitari în campus",
+        "body": "Studenții la antreprenoriat construiesc în public: concursuri de prezentări, zile demonstrative, discuții ale fondatorilor și prime întâlniri cu investitori. O lună gratuită de Tava Labs este un cadou practic și memorabil pentru studenții din programul tău.",
+        "how": "Cum funcționează: oferim sticle pentru cohorta, clasa sau evenimentul tău, plus un material simplu de prezentare. Fără cost pentru universitate și fără cost pentru studenți.",
+        "title": "Pentru universități"
+      },
+      {
+        "alt": "Întâlnire a unui investitor cu un fondator",
+        "body": "O lună gratuită de Tava Labs este un cadou practic pentru fondatorii din portofoliul tău. Ne ocupăm noi de livrare și de planurile lor personale.",
+        "how": "Cum funcționează: spune-ne câți fondatori ai vrea să primească un cadou și aranjăm livrarea și planurile lor personale. Fără cost pentru tine și fără cost pentru ei.",
+        "title": "Pentru investitori providențiali"
+      }
+    ],
+    "becomePartner": "Devino partener",
+    "closingSegments": [
+      {
+        "text": "Scrie la "
+      },
+      {
+        "href": "mailto:talia@tavalabs.app",
+        "text": "talia@tavalabs.app"
+      },
+      {
+        "text": " sau sună la "
+      },
+      {
+        "href": "tel:+19099061308",
+        "text": "909-906-1308"
+      },
+      {
+        "text": ", și aranjăm totul."
+      }
+    ],
+    "closingTitleAccent": "lună gratuită.",
+    "closingTitleLead": "Oferă fondatorilor tăi o",
+    "formulationSub": "Serumul este făcut fără ingredientele despre care membrii tăi întreabă cel mai des:",
+    "formulationTitle": "Creat fără aceste ingrediente.",
+    "intro": "Tava Labs colaborează cu acceleratoare, universități, investitori înger și comunități de fondatori. Membrii tăi primesc prima lună de PDRN Brightening Serum gratuit.",
+    "label": "Devino partener Tava Labs",
+    "partnershipsContact": "Contact pentru parteneriate",
+    "steps": [
+      {
+        "body": "Spune-ne despre programul tău și câți oameni ai vrea să primească un cadou.",
+        "title": "Contactează-ne"
+      },
+      {
+        "body": "Livrăm serumul și configurăm planul personal al fiecărei persoane din testul pentru piele.",
+        "title": "Aranjăm cadoul"
+      },
+      {
+        "body": "Membrii tăi primesc o lună gratuită de ser, cu o notă de mulțumire de la noi în fiecare cutie.",
+        "title": "Tu oferi cadoul"
+      }
+    ],
+    "stepsTitle": "Cum funcționează un parteneriat",
+    "tagline": "O lună gratuită de la noi, fără cost și fără obligație.",
+    "titleAccent": "Tava Labs.",
+    "titleLead": "Oferă fondatorilor tăi o lună gratuită de",
+    "why": [
+      {
+        "body": "Membrii tăi primesc un produs real și un plan personal, nu un cod de reducere pe care îl vor uita.",
+        "title": "Mai multă valoare din prima zi"
+      },
+      {
+        "body": "Prima lună este din partea noastră, pentru fiecare persoană căreia îi oferi cadoul.",
+        "title": "Cost zero pentru tine"
+      },
+      {
+        "body": "Ne ocupăm de livrare, integrare și asistență. Tu faci o singură prezentare.",
+        "title": "Efort zero pentru tine"
+      },
+      {
+        "body": "Un singur pas, dimineața și seara. Se potrivește programului unui fondator pentru că a fost creat pentru unul.",
+        "title": "Un cadou pe care îl vor folosi cu adevărat"
+      }
+    ],
+    "whyTitleAccent": "Valoare reală.",
+    "whyTitleLead": "Cost zero. Efort zero."
+  },
+  "blog": {
+    "label": "The Tava Journal",
+    "readStory": "Citește povestea",
+    "sub": "Articole despre știința somnului, cercetarea stresului și sănătatea pielii pentru fondatori și proprietari de afaceri.",
+    "titleAccent": "pentru fondatori",
+    "titleLead": "Cercetarea somnului și a stresului"
   },
   "research": {
-   "description": "Rezultate măsurate din programul Tava Labs cu participanți, pe 16 săptămâni. Schimbări de la momentul inițial la săptămâna 16 în leziuni acneice, hidratare, roșeață, pigmentare și textură, cu protocolul complet al programului.",
-   "title": "Rezultatele cercetării de 16 săptămâni | Tava Labs"
+    "adherence": [
+      "Aderență generală",
+      "Aderență la suplimente",
+      "Aderență la produse topice"
+    ],
+    "adherenceAria": "{label}, {val} la sută",
+    "adherenceFoot": "Pe parcursul programului de 16 săptămâni",
+    "adherenceLabel": "Urmărirea programului",
+    "adherenceSub": "Aderența pe parcursul celor 16 săptămâni complete, așa cum este înregistrată în raport.",
+    "adherenceTitle": "Cât de aproape au rămas oamenii de plan.",
+    "ageLabel": "Vârsta medie",
+    "ageSuffix": "Ani · Interval 20 până la 48",
+    "alertBody": "Această linie este menționată în raport alături de efectele ușoare listate pe această pagină. Este inclusă aici exact așa cum a fost raportată.",
+    "alertTitle": "Nu s-au raportat evenimente adverse grave.",
+    "amSteps": [
+      "Produs de curățare blând",
+      "Serum cu vitamina C, 15 la sută",
+      "Cremă hidratantă cu ceramide",
+      "Protecție solară minerală, SPF 50"
+    ],
+    "badges": [
+      {
+        "big": "cu 60 la sută mai mare",
+        "small": "Hidratarea pielii, 29.4 AU până la 47.1 AU"
+      },
+      {
+        "big": "cu 52 la sută mai mic",
+        "small": "Scor clinic de textură, 2.7 din 4 până la 1.3 din 4"
+      }
+    ],
+    "baseline": "Moment inițial",
+    "baselineAndWeek": "Moment inițial și săptămâna 16",
+    "chips": [
+      "Prospectiv și deschis",
+      "Un singur braț",
+      "Supravegheat medical",
+      "Site de cercetare clinică în persoană"
+    ],
+    "concerns": [
+      "Hiperpigmentare postinflamatorie",
+      "Textură neuniformă și asprime",
+      "Acnee inflamatorie",
+      "Roșeață facială și sensibilitate",
+      "Cearcăne sub ochi",
+      "Uscăciune și barieră compromisă",
+      "Linii fine și fotoîmbătrânire timpurie"
+    ],
+    "concernsNote": "Participanții puteau raporta mai mult de o preocupare, așa că aceste ponderi nu se adună la 100 la sută.",
+    "concernsTitle": "Preocupări ale pielii la momentul inițial",
+    "docViews": [
+      "Vedere de profil lateral",
+      "Vedere frontală",
+      "Vedere frontală cu ochelari",
+      "Vedere de aproape a obrazului"
+    ],
+    "donutNote": "Graficul inelar se animează până la distribuția raportată când intră în vizualizare la derulare.",
+    "eveningTag": "Rutina de seară",
+    "eveningTitle": "Încheie ziua",
+    "facts": [
+      {
+        "k": "Design",
+        "v": "Prospectiv, deschis, un singur braț"
+      },
+      {
+        "k": "Cadru",
+        "v": "În persoană, supravegheat medical"
+      },
+      {
+        "k": "Evaluări",
+        "v": "Moment inițial plus săptămânile 4, 8, 12, 16"
+      },
+      {
+        "k": "Finalizat",
+        "v": "84 din 92 înscriși · 91 la sută"
+      }
+    ],
+    "factsLabel": "Designul studiului",
+    "factsTitle": "Designul dintr-o privire.",
+    "gender": [
+      {
+        "label": "Femei",
+        "pct": "74 la sută"
+      },
+      {
+        "label": "Bărbați",
+        "pct": "24 la sută"
+      },
+      {
+        "label": "Non binar",
+        "pct": "2 la sută"
+      }
+    ],
+    "genderAria": "Grafic inelar cu distribuția pe genuri, 74 la sută femei, 24 la sută bărbați, 2 la sută non binar",
+    "genderTitle": "Distribuția pe genuri",
+    "h1Accent": "schimbărilor pielii.",
+    "h1Lead": "O privire de 16 săptămâni asupra",
+    "headlineLabel": "Rezultat principal",
+    "headlineTitle": "Totalul leziunilor acneice a scăzut de la 16.8 la 6.2",
+    "heroSub": "Un program prospectiv, deschis, cu participanți, care combină o rutină personalizată de îngrijire a pielii, suplimente și ghidare privind stilul de viață. Fiecare cifră de pe această pagină provine din raport, măsurată la momentul inițial și în săptămâna 16.",
+    "lifestyleItems": [
+      "7 până la 9 ore de somn",
+      "Cel puțin 150 de minute de activitate moderată pe săptămână",
+      "Exercițiu zilnic de respirație de cinci minute",
+      "Somn înregistrat săptămânal",
+      "Obiceiuri de hidratare și protecție solară revizuite la vizite"
+    ],
+    "lifestyleTitle": "Obiective de stil de viață",
+    "methods": [
+      "Leziuni acneice numărate de dermatolog",
+      "Hidratare cu corneometru",
+      "Indici de roșeață și melanină cu cromametru",
+      "Gradarea texturii pe o scară de la 0 la 4",
+      "Fotografie standardizată"
+    ],
+    "methodsLabel": "Cum au fost luate măsurătorile",
+    "methodsTitle": "Măsurători clinice",
+    "morningTag": "Rutina de dimineață",
+    "morningTitle": "Începe ziua",
+    "nutritionItems": [
+      "Cel puțin 2.5 L de apă zilnic",
+      "Legume, fructe de pădure și alimente bogate în omega 3",
+      "Limitează zahărul adăugat și alimentele cu indice glicemic mare",
+      "Reset opțional de două săptămâni cu lactate puține și zahăr puțin",
+      "Consiliere inițială cu un dietetician autorizat"
+    ],
+    "nutritionTitle": "Ghidare nutrițională",
+    "participant": "Participant {initial}",
+    "participantsLabel": "Cine a participat",
+    "participantsSub": "Cinci vizite pe parcursul programului, de la momentul inițial până în săptămâna 16.",
+    "participantsTitle": "Cine a luat parte la program.",
+    "peopleBg": "Oameni",
+    "percentWord": "la sută",
+    "photoLabel": "Documentare vizuală",
+    "photoProtocol": "Captură standardizată la momentul inițial și la urmărire, folosind o configurație fixă a camerei, iluminare vizibilă și cu polarizare încrucișată consecventă, unghiuri frontal, la 45 de grade și de profil și un fundal calibrat cromatic.",
+    "photoProtocolTitle": "Protocol de fotografie",
+    "photoSub": "Fotografii alăturate din programul de patru luni. Imaginea din stânga din fiecare pereche arăta momentul inițial, iar imaginea din dreapta arăta săptămâna 16. Nicio fotografie a participanților nu este reprodusă pe această pagină.",
+    "photoTitle": "Comparații foto ale participanților.",
+    "pill": "Seria de cercetare 001 · Rezultatele participanților",
+    "pmSteps": [
+      "Produs de curățare blând",
+      "Serum cu Niacinamide 5 la sută plus zinc",
+      "Cremă barieră cu peptide",
+      "Retinol 0.3 la sută, introdus în săptămâna 2 și titrat sub ghidarea clinicianului"
+    ],
+    "programBg": "Program",
+    "programLabel": "Program și protocol",
+    "programSub": "Participanții au primit screening în persoană, distribuire de produse, coaching pentru aplicare și evaluări de urmărire la un site de cercetare clinică.",
+    "programTitle": "Programul de 16 săptămâni, pas cu pas.",
+    "results": [
+      {
+        "change": "cu 63 la sută mai puține",
+        "note": "Leziuni numărate de dermatolog",
+        "title": "Totalul leziunilor acneice"
+      },
+      {
+        "change": "cu 60 la sută mai mare",
+        "note": "Măsurare cu corneometru în AU",
+        "title": "Hidratarea pielii"
+      },
+      {
+        "change": "cu 30 la sută mai mic",
+        "note": "Indice cu cromametru",
+        "title": "Indice de eritem și roșeață"
+      },
+      {
+        "change": "cu 25 la sută mai mic",
+        "note": "Indice cu cromametru",
+        "title": "Indice de melanină și pigmentare"
+      },
+      {
+        "change": "cu 52 la sută mai mic",
+        "note": "Gradat pe o scară de la 0 la 4",
+        "title": "Scor clinic de textură"
+      }
+    ],
+    "resultsBg": "Rezultate",
+    "resultsLabel": "Schimbare medie · Moment inițial până în săptămâna 16",
+    "resultsSub": "Rezultate pentru cei 84 de participanți care au finalizat toate vizitele. Fiecare card compară cele două momente pe care studiul le-a măsurat cu adevărat.",
+    "resultsTitle": "Ce s-a schimbat, în cifre simple.",
+    "routineNote": "Retinolul a fost folosit 3 până la 5 nopți pe săptămână după perioada inițială de creștere de două săptămâni. După nevoie, acid salicilic 2 la sută a fost folosit pentru leziuni active.",
+    "safetyBg": "Siguranță",
+    "safetyLabel": "Efecte secundare raportate",
+    "safetySub": "Ponderi ale participanților care au raportat fiecare efect în timpul programului.",
+    "safetyTitle": "Ce au raportat participanții.",
+    "sideEffects": [
+      "Uscăciune ușoară sau descuamare",
+      "Erupție acneică temporară",
+      "Disconfort gastrointestinal ușor"
+    ],
+    "sideEffectsTitle": "Efecte secundare",
+    "slopeAria": "Grafic de pantă care arată totalul leziunilor acneice de la 16.8 la momentul inițial la 6.2 în săptămâna 16",
+    "slopeBaseline": "Moment inițial 16.8",
+    "slopeFoot": "Moment inițial până în săptămâna 16",
+    "slopeNote": "O linie dreaptă doar între cele două puncte măsurate. Raportul nu a publicat valori ale rezultatelor pentru săptămânile 4, 8 sau 12.",
+    "slopeWeek": "Săptămâna 16 · 6.2",
+    "source": "Sursă, Rezultatele participanților Tava Labs, Seria de cercetare 001, program cu participanți pe 16 săptămâni. Această pagină prezintă doar cifrele din raport, cu momentul inițial și săptămâna 16 ca cele două puncte de rezultat măsurate.",
+    "statsLabels": [
+      "Săptămâni în program",
+      "Adulți înscriși",
+      "Oameni care au finalizat toate vizitele",
+      "Rata de finalizare"
+    ],
+    "supplementLabel": "Rutina de suplimente",
+    "supplementNote": "Adăugare opțională, Omega 3, o capsulă moale zilnic.",
+    "supplementSub": "Două capsule zilnic la micul dejun. Cantități afișate per porție de două capsule.",
+    "supplementTitle": "Tava Skin Complex",
+    "supplements": [
+      "Vitamina C",
+      "Zinc",
+      "Niacinamide",
+      "Astaxanthin",
+      "Fitocomplex de curcumină",
+      "Amestec probiotic Lactobacillus"
+    ],
+    "visitTimeline": "Calendarul vizitelor",
+    "visits": [
+      {
+        "desc": "Screening, măsurători și fotografie",
+        "name": "Moment inițial"
+      },
+      {
+        "desc": "Evaluare de urmărire",
+        "name": "Săptămâna 4"
+      },
+      {
+        "desc": "Evaluare de urmărire",
+        "name": "Săptămâna 8"
+      },
+      {
+        "desc": "Evaluare de urmărire",
+        "name": "Săptămâna 12"
+      },
+      {
+        "desc": "Măsurători finale și fotografie",
+        "name": "Săptămâna 16"
+      }
+    ],
+    "week16": "Săptămâna 16",
+    "withdrawals": [
+      {
+        "label": "Conflicte de program",
+        "value": "5 oameni"
+      },
+      {
+        "label": "Efecte secundare ușoare",
+        "value": "2 oameni"
+      },
+      {
+        "label": "Pierduți din urmărire",
+        "value": "1 persoană"
+      }
+    ],
+    "withdrawalsSub": "8 participanți s-au retras din cei 92 înscriși.",
+    "withdrawalsTitle": "Retrageri"
   },
-  "returns": {
-   "description": "Politica Tava Labs de returnări și rambursări pentru comenzile de PDRN Brightening Serum, inclusiv termenii potrivit cărora toate vânzările sunt finale și cum ajungi la asistență.",
-   "title": "Politica de returnări și rambursări | Tava Labs"
+  "account": {
+    "amSteps": [
+      {
+        "detail": "Produs de curățare blând, tamponează până se usucă",
+        "title": "Curăță"
+      },
+      {
+        "detail": "Apasă pe față și gât",
+        "title": "Aplică 3 picături de serum"
+      },
+      {
+        "detail": "SPF 30 sau mai mare",
+        "title": "Hidratează + SPF"
+      }
+    ],
+    "amTitle": "Dimineața · 3 picături",
+    "bottleSuffix": " · mai ai {days} zile în sticlă",
+    "carrierFallback": "Curier",
+    "chipLabels": {
+      "concern": "Preocupare",
+      "goal": "Obiectiv",
+      "plan": "Plan",
+      "routine": "Rutină",
+      "routineTimes": "Orele rutinei",
+      "skinType": "Tip de piele"
+    },
+    "claimEmpty": "Ai cumpărat prin test sau prin acest site? Emailul tău de confirmare și pagina de imediat după finalizare ți-au arătat un cod de revendicare. Deschide aplicația mobilă Tava, autentifică-te și introdu codul în fila Comenzi. Achiziția, planul și răspunsurile tale la test se mută în contul tău din aplicație. Aici pe web, autentificarea cu același email cu care ai finalizat comanda arată deja totul mai sus. Nu mai ai nimic de introdus.",
+    "claimEnter": ". Introdu-l în aplicația Tava la Comenzi pentru a lega această achiziție de contul tău din aplicație:",
+    "claimEyebrow": "Cod de revendicare",
+    "claimForOrder": "Codul tău de revendicare pentru comanda {order}",
+    "claimTitle": "Legarea unei achiziții la aplicație",
+    "claimValidUntil": " (valid până la {date})",
+    "claimWebNote": "Aici pe web nu ai nevoie de cod. Autentificarea cu emailul tău de la finalizare arată deja comenzile și planul tău mai sus.",
+    "claimYourCode": "Codul tău de revendicare",
+    "dayLine": "Ziua {day} din 30{bottle}. Finalizează rutina de astăzi în aplicație pentru a-ți începe seria.",
+    "failedSegments": [
+      {
+        "text": "Verifică-ți conexiunea și încearcă din nou. Dacă continuă să se întâmple, scrie la "
+      },
+      {
+        "href": "mailto:support@tavalabs.app",
+        "text": "support@tavalabs.app"
+      },
+      {
+        "text": " și rezolvăm noi."
+      }
+    ],
+    "failedTitle": "Nu am putut încărca contul tău",
+    "greetings": {
+      "afternoon": "Bună după-amiaza",
+      "evening": "Bună seara",
+      "morning": "Bună dimineața"
+    },
+    "labTab": {
+      "eyebrow": "Laborator",
+      "sub": "Panouri reale de analize de sânge, comandate sub contul tău Tava. Răsfoiește panourile, vezi fiecare marker înainte de a comanda și primește rezultatele livrate chiar aici.",
+      "title": "Cunoaște-ți cifrele."
+    },
+    "labelMaps": {
+      "concern": {
+        "dryness": "Uscăciune",
+        "dullness": "Ternitate",
+        "fine_lines": "Linii fine",
+        "texture": "Textură",
+        "uneven_tone": "Ton neuniform"
+      },
+      "goal": {
+        "even_tone": "Un ton uniform",
+        "fine_lines": "Linii fine",
+        "hydration": "Hidratare",
+        "radiance": "Luminozitate"
+      },
+      "ramp": {
+        "full": "Putere completă",
+        "gentle": "Creștere blândă",
+        "standard": "Creștere standard"
+      },
+      "routine": {
+        "cleanser_only": "Doar produs de curățare",
+        "few_products": "Câteva produse",
+        "full_routine": "Rutină completă"
+      },
+      "sensitivity": {
+        "never": "Rar sensibilă",
+        "often": "Adesea sensibilă",
+        "sometimes": "Uneori sensibilă"
+      },
+      "skinType": {
+        "combination": "Mixtă",
+        "dry": "Uscată",
+        "not_sure": "Nu sunt sigur",
+        "oily": "Grasă",
+        "sensitive": "Sensibilă"
+      }
+    },
+    "loading": "Se încarcă contul tău…",
+    "morningEyebrow": "Rutina de dimineață",
+    "nightEyebrow": "Rutina de seară",
+    "ordersEmpty": "Încă nu ai comenzi. Când cumperi, comenzile și urmărirea ta vor apărea aici și în aplicație.",
+    "ordersEyebrow": "Comenzi",
+    "ordersTitle": "Comenzile tale",
+    "paid": "Plătită",
+    "paymentFailed": "Plată eșuată",
+    "planDefault": "Fă testul pentru piele, iar planul tău personal, construit din răspunsurile tale, va locui aici și în aplicație.",
+    "planEyebrow": "Planul tău",
+    "pmSteps": [
+      {
+        "detail": "Îndepărtează SPF și machiajul",
+        "title": "Curățare dublă"
+      },
+      {
+        "detail": "Înainte de retinol sau tratamente",
+        "title": "Aplică 3 picături de serum"
+      },
+      {
+        "detail": "Sigilează hidratarea",
+        "title": "Cremă hidratantă de noapte"
+      }
+    ],
+    "pmTitle": "Seara · 3 picături",
+    "progressLine": "Ziua {day} din 30 · mai ai {left} zile până la prima ta lună completă",
+    "retakeQuiz": "Refă testul pentru piele",
+    "shop": {
+      "body": "1 fl oz (30 ml). Reduce liniile fine, hidratează profund, redă luminozitatea și întărește pielea. 2 până la 4 apăsări, dimineața și seara.",
+      "buyOnceBtn": "Cumpără o dată, $49",
+      "eyebrow": "PDRN Brightening Serum",
+      "oneTimeLine": "O singură dată, $49.",
+      "oneTimeRest": " O singură sticlă.",
+      "stripeNote": "Finalizare securizată prin Stripe. Vei confirma plata pe pagina Stripe.",
+      "subscribeBtn": "Abonează-te, $39 pe lună",
+      "subscribeLine": "Abonează-te, $39 pe lună.",
+      "subscribeRest": " O sticlă proaspătă în fiecare lună, automat.",
+      "title": "Magazin Tava Labs"
+    },
+    "signOut": "Deconectează-te",
+    "signedInAs": "Autentificat ca",
+    "statusLabels": [
+      "Comandată",
+      "Expediată",
+      "În curs de livrare",
+      "Livrată"
+    ],
+    "stepsNote": "Bifezi pașii în aplicația mobilă. Această pagină arată rutina de astăzi și ce a înregistrat aplicația până acum astăzi.",
+    "stepsToGo": "Astăzi: mai ai {n} din {total} pași de rutină.",
+    "streakLine": "Serie de {streak} zile · Ziua {day} din 30{bottle}",
+    "subscription": "Abonament",
+    "support": {
+      "eyebrow": "Asistență",
+      "links": {
+        "faqs": "Întrebări frecvente",
+        "general": "Întrebări generale",
+        "productSupport": "Asistență pentru produs",
+        "returns": "Politica de returnări",
+        "salesSupport": "Asistență pentru comenzi și vânzări",
+        "shipping": "Politica de livrare"
+      },
+      "segments": [
+        {
+          "text": "Scrie la "
+        },
+        {
+          "href": "mailto:support@tavalabs.app",
+          "text": "support@tavalabs.app"
+        },
+        {
+          "text": " sau sună la "
+        },
+        {
+          "href": "tel:+19099061308",
+          "text": "909-906-1308"
+        },
+        {
+          "text": "."
+        }
+      ],
+      "title": "Suntem aici să ajutăm"
+    },
+    "tabs": {
+      "lab": "Laborator",
+      "orders": "Comenzi",
+      "shop": "Magazin",
+      "support": "Asistență",
+      "today": "Astăzi"
+    },
+    "takeQuiz": "Fă testul pentru piele",
+    "todayComplete": "Astăzi este complet. Ziua ta următoare este deja pregătită.",
+    "trackPackage": "Urmărește coletul",
+    "tryAgain": "Încearcă din nou",
+    "unpaid": "Neplătită",
+    "weekInitials": [
+      "D",
+      "L",
+      "M",
+      "M",
+      "J",
+      "V",
+      "S"
+    ]
   },
-  "shipping": {
-   "description": "Politica de livrare Tava Labs pentru comenzile de PDRN Brightening Serum: timpi de procesare, estimări de livrare, urmărire și zone de livrare.",
-   "title": "Politica de livrare | Tava Labs"
+  "lab": {
+    "ordersLabel": "Revizuire clinică",
+    "ordersTitle": "Comenzile tale de laborator",
+    "loadingOrders": "Se încarcă comenzile tale…",
+    "ordersEmpty": "Încă nu este nimic aici. Când finalizezi un panou, fiecare marker ajunge aici cu valoarea sa, intervalul său sănătos și cum se mișcă în timp. Comandă primul tău panou mai jos și acest spațiu se umple.",
+    "viewResults": "Vezi rezultatele",
+    "howLabel": "Cum funcționează analizele",
+    "howTitle": "Patru pași, o singură recoltare",
+    "steps": [
+      {
+        "title": "Alege un panou",
+        "body": "Alege panoul care corespunde cu ce vrei să știi. Fiecare marker din el este listat înainte de a comanda."
+      },
+      {
+        "title": "Revizuire de către medic",
+        "body": "Un medic autorizat revizuiește și autorizează fiecare comandă, așa că nu este nevoie de o vizită separată la medic."
+      },
+      {
+        "title": "Mergi pentru recoltare",
+        "body": "O recoltare rapidă de sânge la un punct de colectare de lângă tine. Majoritatea vizitelor durează aproximativ cincisprezece minute."
+      },
+      {
+        "title": "Rezultatele ajung aici",
+        "body": "Rezultatele sunt livrate digital în această filă în câteva zile, cu fiecare marker și intervalul său."
+      }
+    ],
+    "panelsLabel": "Panourile",
+    "panelsTitle": "Paisprezece panouri, construite în jurul a ceea ce urmărești",
+    "panelsSub": "Fiecare panou își arată prețul. Comandarea se deschide odată ce finalizarea este activată, iar un medic autorizat revizuiește fiecare comandă înainte ca rezultatele tale să fie livrate chiar aici. Panourile nu pot fi comandate pentru adrese din New York, New Jersey sau Rhode Island.",
+    "markersSuffix": "{n} markeri",
+    "resultsInDays": "Rezultate în câteva zile",
+    "hideMarkers": "Ascunde markerii",
+    "seeMarkers": "Vezi markerii",
+    "markersAria": "Markeri în {name}",
+    "disclaimer": "Perspectivele de laborator sunt informații despre propria ta sănătate și nu sunt un diagnostic. Discută cu medicul tău despre orice rezultat care te îngrijorează și sună la 911 în caz de urgență.",
+    "panelsById": {
+      "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
+        "name": "Panoul Performanță Atletică",
+        "description": "Pregătire pentru antrenament și recuperare: hemogramă, panou metabolic, rezerve de fier, vitamina D, testosteron, inflamație și enzime musculare.",
+        "collection": "Recoltare de sânge fără programare"
+      },
+      "38c76039-05dc-4cd3-8475-7a675989fbf2": {
+        "name": "Panoul Stare de Bine Inițială",
+        "description": "Punct de plecare pentru tot corpul: hemogramă, sănătate metabolică, colesterol, glicemie, vitamina D și tiroidă.",
+        "collection": "Recoltare de sânge fără programare"
+      },
+      "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
+        "name": "Panoul Energie și Oboseală",
+        "description": "Suspecții obișnuiți din spatele energiei scăzute: rezerve și transport de fier, B12, folat, vitamina D, tiroidă și hemogramă.",
+        "collection": "Recoltare de sânge fără programare"
+      },
+      "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
+        "name": "Panoul Inițial pentru Femei",
+        "description": "Un panou concentrat de 14 markeri, listați complet mai jos.",
+        "collection": "Recoltare de sânge fără programare"
+      },
+      "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
+        "name": "Panoul GLP1",
+        "description": "Un panou concentrat de 10 markeri, listați complet mai jos.",
+        "collection": "Recoltare de sânge fără programare"
+      },
+      "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
+        "name": "Panoul Sănătatea Inimii",
+        "description": "Risc cardiovascular dincolo de colesterolul de bază: lipide, ApoB, Lp(a), hs-CRP și homocisteină.",
+        "collection": "Recoltare de sânge fără programare"
+      },
+      "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
+        "name": "Panoul Longevitate",
+        "description": "Analiză anuală cuprinzătoare și aprofundată a markerilor de sănătate metabolică, cardiovasculară, inflamatorie și hormonală.",
+        "collection": "Recoltare de sânge fără programare"
+      },
+      "b909fb21-b264-483c-a915-4ce87713cfa9": {
+        "name": "Testul Inițial pentru Bărbați",
+        "description": "Un panou concentrat de 12 markeri, listați complet mai jos.",
+        "collection": "Recoltare de sânge fără programare"
+      },
+      "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
+        "name": "Panoul TRT pentru Bărbați",
+        "description": "Un panou concentrat de 16 markeri, listați complet mai jos.",
+        "collection": "Recoltare de sânge fără programare"
+      },
+      "abfabb68-c777-4457-87c2-46bf5fe26d81": {
+        "name": "Panoul Hormonal pentru Bărbați",
+        "description": "Starea hormonilor masculini: testosteron total, SHBG, estradiol, LH și FSH.",
+        "collection": "Recoltare de sânge fără programare"
+      },
+      "f12fe316-367a-4c53-9735-8c0129c45506": {
+        "name": "Panoul Sănătate Metabolică",
+        "description": "Controlul glicemiei și riscul metabolic: A1c, insulină a jeun, colesterol și un panou metabolic complet.",
+        "collection": "Recoltare de sânge fără programare"
+      },
+      "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
+        "name": "Panoul Stres și Recuperare",
+        "description": "Încărcarea de stres și capacitatea de recuperare: cortizol, DHEA-S, tiroidă și inflamație.",
+        "collection": "Recoltare de sânge fără programare"
+      },
+      "1760616d-44d3-4654-817d-440a969e5cdf": {
+        "name": "Panoul Tiroidă Complet",
+        "description": "Analiză completă a tiroidei: TSH, T4 liber, T3 liber și anticorpi TPO.",
+        "collection": "Recoltare de sânge fără programare"
+      },
+      "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
+        "name": "Panoul Hormonal pentru Femei",
+        "description": "Starea hormonilor feminini: estradiol, progesteron, FSH, LH, DHEA-S și testosteron.",
+        "collection": "Recoltare de sânge fără programare"
+      }
+    },
+    "detail": {
+      "backToAccount": "Înapoi la contul tău",
+      "notFoundTitle": "Acea comandă de laborator nu a fost găsită",
+      "notFoundBody": "Este posibil să aparțină unui alt email. Autentifică-te cu emailul sub care ai comandat și încearcă din nou.",
+      "clinicalReview": "REVIZUIRE CLINICĂ",
+      "loadingResults": "Se încarcă rezultatele tale…",
+      "yourPanel": "Panoul tău",
+      "markerFallback": "Marker",
+      "headlines": {
+        "loading": "Îți aducem rezultatele",
+        "pending": "Rezultatele tale sunt pe drum",
+        "allIn": "Toate rezultatele tale au sosit.",
+        "in": "Rezultatele tale au sosit."
+      },
+      "sublines": {
+        "loading": "Un moment, cât se încarcă raportul de laborator.",
+        "pending": "Imediat ce laboratorul raportează, această pagină se umple cu fiecare marker, valoarea sa și intervalul său sănătos.",
+        "allIn": "Fiecare marker este în interval. Iată imaginea completă.",
+        "oneAttention": "Un marker are nevoie de o privire mai atentă. Hai să aprofundăm.",
+        "manyAttention": "{n} markeri au nevoie de o privire mai atentă. Hai să aprofundăm."
+      },
+      "orderedPrefix": "Comandat",
+      "statusPrefix": "Stare:",
+      "notInYetTitle": "Rezultatele nu au sosit încă",
+      "notInYetBody": "Majoritatea panourilor raportează în câteva zile de la recoltare. Când ale tale ajung, această pagină arată vederea completă de echilibru, cu fiecare marker și intervalul său.",
+      "markerBalance": "Echilibrul markerilor tăi",
+      "biomarkers": "BIOMARKERI",
+      "analyzedSuffix": "{pct}% analizat",
+      "statusNames": {
+        "optimal": "Optim",
+        "inRange": "În interval",
+        "attention": "Necesită atenție"
+      },
+      "statusLabels": {
+        "optimal": "OPTIM",
+        "inRange": "ÎN INTERVAL",
+        "attention": "SEMNALAT"
+      },
+      "basePrefix": "Bază: {name}",
+      "updatedPrefix": "Actualizat {date}",
+      "updatedRecently": "Actualizat recent",
+      "triageTitle": "Triaj de stare",
+      "tapToFilter": "Atinge pentru a filtra",
+      "triageSubs": {
+        "optimal": "Exact unde îi vrei",
+        "inRange": "În interiorul intervalului sănătos",
+        "attention": "Merită o discuție cu medicul tău"
+      },
+      "allFilter": "Toate ({n})",
+      "rangePrefix": "Interval {range}",
+      "disclaimer": "Rezultatele de laborator sunt informații despre propria ta sănătate și nu sunt un diagnostic. Discută cu medicul tău despre orice rezultat care te îngrijorează și sună la 911 în caz de urgență."
+    }
   },
-  "terms": {
-   "description": "Termenii care guvernează folosirea tavalabs.app de către tine și achiziția PDRN Brightening Serum de la Tava Labs, LLC, inclusiv politica noastră potrivit căreia toate vânzările sunt finale.",
-   "title": "Termeni și condiții | Tava Labs"
+  "login": {
+    "brandCopy": "Planul tău, comenzile tale și rutina ta. Un singur email leagă aplicația și webul împreună.",
+    "brandHeadAccent": "înapoi.",
+    "brandHeadLead": "Bun venit",
+    "claimBody1": "Când ai cumpărat prin test sau prin acest site, emailul tău de confirmare a achiziției (și pagina de imediat după finalizare) ți-a arătat un cod de revendicare. Deschide aplicația mobilă Tava, autentifică-te și introdu acel cod în fila Comenzi. Achiziția, planul și răspunsurile tale la test se mută în contul tău din aplicație, fără o a doua achiziție.",
+    "claimBody2": "Pe web este și mai simplu. Autentifică-te mai sus cu același email cu care ai finalizat comanda, iar comenzile și planul tău sunt deja aici.",
+    "claimLabel": "Ai cumpărat pe web și folosești aplicația?",
+    "claimTitle": "Folosește codul tău de revendicare în aplicație",
+    "differentEmail": "Folosește un alt email",
+    "emailLabel": "Adresa de email",
+    "faqButton": "Întrebări? Vezi întrebările frecvente",
+    "footNote": "Prima dată aici? Același link îți creează contul. Folosește emailul din comanda ta și totul te așteaptă deja.",
+    "intro": "Autentifică-te cu emailul pe care l-ai folosit la finalizare sau în aplicația mobilă Tava. Planul, comenzile și rutina ta sunt legate de acel email, așa că totul aici corespunde aplicației. Nu ai nevoie de parolă. Îți trimitem pe email un link de autentificare, iar o atingere a lui te duce în contul tău.",
+    "invalidEmail": "Introdu o adresă de email validă.",
+    "label": "Contul tău Tava",
+    "resend": "Retrimite emailul",
+    "sendButton": "Trimite-mi pe email un link de autentificare",
+    "sendFailed": "Nu am putut trimite acel email. Verifică adresa și încearcă din nou.",
+    "sending": "Se trimite…",
+    "sentBody": "Deschide acel email pe acest dispozitiv și atinge linkul din el. Vei ajunge în contul tău, deja autentificat. Linkul funcționează o singură dată și expiră, așa că folosește-l curând.",
+    "sentNotice": "Link de autentificare trimis la {email}. Poate dura un minut până sosește. Verifică folderul de spam dacă nu îl vezi.",
+    "title": "Autentificare"
+  },
+  "checkout": {
+    "addressLine2": "Linia de adresă 2 (opțional)",
+    "city": "Oraș",
+    "closeAria": "Închide finalizarea comenzii",
+    "continueBtn": "Continuă la plată",
+    "country": "Țară",
+    "creating": "Se creează sesiunea ta de finalizare…",
+    "email": "Email",
+    "firstName": "Prenume",
+    "lastName": "Nume de familie",
+    "missingIntro": "Aproape gata. Adaugă {fields}.",
+    "missingNames": {
+      "address1": "adresa străzii",
+      "city": "orașul",
+      "email": "un email valid",
+      "firstName": "prenumele",
+      "lastName": "numele de familie",
+      "state": "statul",
+      "zip": "codul ZIP"
+    },
+    "phoneOptional": "Telefon (opțional)",
+    "planOneTime": "PDRN Brightening Serum · $49 · Achiziție unică",
+    "planSubscribe": "PDRN Brightening Serum · $39 pe lună · Subscribe & Save 20%",
+    "startError": "Finalizarea comenzii nu a putut începe. Verifică-ți datele și încearcă din nou. Nu s-a debitat nimic.",
+    "state": "Stat",
+    "streetAddress": "Adresa străzii",
+    "stripeNote": "Finalizare securizată prin Stripe. Vei confirma plata pe pagina Stripe. Încă nu se debitează nimic.",
+    "taking": "Te ducem la finalizarea securizată…",
+    "title": "Finalizarea comenzii",
+    "zip": "ZIP"
+  },
+  "legal": {
+    "governsNote": "Această pagină este o traducere a originalului în limba engleză. Dacă formularea diferă vreodată, versiunea în limba engleză prevalează."
   }
- },
- "chrome": {
-  "addToRoutine": "Adaugă la rutină",
-  "closeMenu": "Închide meniul",
-  "contactHeading": "Contactează-ne",
-  "contactLinks": {
-   "general": "General",
-   "pr": "PR",
-   "productSupport": "Asistență pentru produs",
-   "salesSupport": "Asistență vânzări",
-   "wholesale": "En gros"
-  },
-  "contactEmails": {
-   "supportLabel": "Comenzi și ajutor pentru produse",
-   "generalLabel": "Contact general"
-  },
-  "copyright": "© 2026 Tava Labs · PDRN Brightening Serum pentru fondatori",
-  "disclaimer1": "PDRN Brightening Serum este un produs cosmetic. Nu este destinat diagnosticării, tratării, vindecării sau prevenirii vreunei boli. Rezultatele individuale pot varia.",
-  "disclaimer2": "Toate vânzările sunt finale. Te rugăm să consulți politica noastră de returnări înainte de a comanda.",
-  "footerIngredients": "Ingrediente",
-  "footerSerum": "PDRN Brightening Serum",
-  "homeAria": "Pagina principală Tava Labs",
-  "infoHeading": "Informații",
-  "infoLinks": {
-   "about": "Despre noi",
-   "blog": "Blog",
-   "faqs": "Întrebări frecvente",
-   "ingredients": "Ingrediente",
-   "partners": "Parteneri",
-   "research": "Cercetare"
-  },
-  "language": "Limbă",
-  "legalHeading": "Legal",
-  "legalLinks": {
-   "cookies": "Politica privind cookie-urile",
-   "privacy": "Politica de confidențialitate",
-   "returns": "Politica de returnări",
-   "shipping": "Politica de livrare",
-   "terms": "Termeni și condiții"
-  },
-  "login": "Autentificare",
-  "mobileNavAria": "Mobil",
-  "navAbout": "Despre",
-  "navBlog": "Blog",
-  "navContact": "Contact",
-  "navFaqs": "Întrebări frecvente",
-  "navIngredients": "Ingrediente",
-  "navSerum": "Serumul",
-  "newsletter": {
-   "done": "Ești abonat. Mulțumim.",
-   "error": "Ceva nu a mers bine, te rugăm să încerci din nou.",
-   "placeholder": "Emailul tău",
-   "sending": "Se trimite...",
-   "subscribe": "Abonează-te"
-  },
-  "newsletterHeading": "Primește actualizări Tava Labs prin e-mail",
-  "notFoundBody": "Pagina aceea nu este aici. Este posibil să se fi mutat sau adresa să fie incompletă.",
-  "notFoundHome": "Înapoi la pagina principală",
-  "notFoundLabel": "Tava Labs",
-  "notFoundShop": "Cumpără PDRN Brightening Serum",
-  "notFoundTitle": "Pagina nu a fost găsită",
-  "openMenu": "Deschide meniul",
-  "primaryNavAria": "Principală",
-  "shopHeading": "Magazin",
-  "tagline": "PDRN Brightening Serum pentru fondatori"
- },
- "hero": {
-  "ariaLabel": "PDRN Brightening Serum",
-  "cardAria": "PDRN Brightening Serum, pagina produsului",
-  "line1": "Un ser facial zilnic pentru",
-  "line2": "o piele mai luminoasă, mai netedă.",
-  "morningAlt": "Fondator care aplică serum la o oglindă de baie, în lumina dimineții",
-  "morningCaption": "Aplică la oglindă în fiecare dimineață",
-  "morningPill": "Rutină de dimineață",
-  "onSetAlt": "Fondator așezat pe un platou de studio, cu fața la cameră",
-  "onSetCaption": "Pentru filmări și apeluri video",
-  "onSetPill": "Pe cameră",
-  "pill": "Pentru fondatori și proprietari de afaceri",
-  "priceLine": "$49 o singură dată sau $39 pe lună",
-  "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Aplică două până la patru picături dimineața și seara. $49 o singură dată sau $39 pe lună.",
-  "talia": {
-   "alt": "Talia Kade, cercetătoare la Tava Labs, purtând un halat alb de laborator",
-   "baseline": "Moment inițial",
-   "slopeAria": "Linie de tendință de la 16.8 la momentul inițial la 6.2 în săptămâna 16",
-   "statBig": "cu 63% mai puține",
-   "statCap": "Leziuni acneice",
-   "statNote": "Schimbare medie în programul cu participanți, pe 16 săptămâni",
-   "week16": "Săptămâna 16"
-  },
-  "wideHead": "O sticlă, folosită dimineața și seara.",
-  "widePill": "Zi și noapte"
- },
- "home": {
-  "buildersBody": "Fondatorii și proprietarii de afaceri prezintă toată ziua. Prezinți investitorilor în persoană, vinzi în apeluri video și înregistrezi videoclipuri pentru clienți. A arăta curat și odihnit face parte din a-ți prezenta bine afacerea. O rutină zilnică scurtă de îngrijire a pielii stă lângă o garderobă bună și un laptop de încredere ca îngrijire de bază. PDRN Brightening Serum durează două minute, dimineața și seara.",
-  "buildersTagline": "Construiește-ți afacerea. Nu te neglija pe tine.",
-  "buildersTitle": "Creat pentru fondatori și proprietari de afaceri",
-  "cameraAlt": "Fondator care vorbește în fața unei camere",
-  "cameraBody": "La o filmare video, un podcast sau un apel de vânzări, camera arată pielea obosită de aproape. O rutină de două minute dimineața și seara ajută pielea ta să arate odihnită înainte să înregistrezi.",
-  "cameraTitle": "În fața camerei",
-  "closeVideo": "Închide videoclipul",
-  "founderBody1": "Aceasta este ideea din spatele Tava Labs. PDRN Brightening Serum este singurul pas în jurul căruia este construită rutina: două minute, de două ori pe zi, dimineața și seara.",
-  "founderBody2": "Urmărește videoclipul ca să auzi de ce l-am creat, în propriile noastre cuvinte.",
-  "founderLabel": "Un mesaj de la fondatorul nostru",
-  "founderPhilosophy": "Filozofia Tava Labs",
-  "founderQuote": "„Un ser, două minute, dimineața și seara. Asta este întreaga rutină.”",
-  "founderVideoAria": "Videoclipul Tava Labs, de ce am creat PDRN Brightening Serum",
-  "freeFromItems": [
-   {
-    "blurb": "Nu a fost testat niciodată pe animale.",
-    "name": "Fără cruzime"
-   },
-   {
-    "blurb": "Fără parfumuri adăugate sau arome sintetice.",
-    "name": "Fără parfum"
-   },
-   {
-    "blurb": "Fără ulei mineral sau umpluturi din petrol.",
-    "name": "Fără ulei mineral"
-   },
-   {
-    "blurb": "Fără ftalați în formulă.",
-    "name": "Fără ftalați"
-   },
-   {
-    "blurb": "Fără siliconi care îți acoperă pielea.",
-    "name": "Fără siliconi"
-   },
-   {
-    "blurb": "Fără sulfați duri. Blând cu pielea.",
-    "name": "Fără sulfați"
-   },
-   {
-    "blurb": "Creat fără alergeni comuni.",
-    "name": "Fără alergeni"
-   },
-   {
-    "blurb": "Fără alcooli care usucă.",
-    "name": "Fără alcool"
-   }
-  ],
-  "freeFromSub": "Ce lăsăm pe dinafară contează la fel de mult ca ce punem înăuntru.",
-  "freeFromTitleAccent": "în formulă.",
-  "freeFromTitleLead": "Ce nu este",
-  "introBody": "Fondatorii și proprietarii de afaceri își petrec zilele în întâlniri, apeluri de vânzări și videoclipuri înregistrate. Fața ta este pe ecran și în cameră pentru toate acestea. PDRN Brightening Serum este un pas ușor cu PDRN, peptide și acid hialuronic. Se absoarbe rapid și ajută pielea să arate mai luminoasă, hidratată și netedă. Două minute, de două ori pe zi.",
-  "introTitleAccent": "cu aspect sănătos",
-  "introTitleLead": "Piele mai luminoasă, hidratată,",
-  "journalSub": "Articole despre somn, stres și piele pentru fondatori.",
-  "journalTitle": "The Tava Journal",
-  "maintenanceBody": "Aplică două până la patru picături de PDRN Brightening Serum pe pielea curată și uscată, dimineața și seara, apoi urmează cu cremă hidratantă. Întreaga rutină durează aproximativ două minute pe zi.",
-  "maintenanceTitle": "Un ser este întreaga rutină.",
-  "marqueeSlogan": "Creat pentru fondatori și proprietari de afaceri",
-  "marqueeTagline": "Un ser, dimineața și seara",
-  "motionBody": "Fondatori și creatori care folosesc PDRN Brightening Serum, înregistrați pe video.",
-  "motionTitle": "Urmărește videoclipurile clienților",
-  "pitchAlt": "Fondator care își prezintă ideea unui investitor",
-  "pitchBody": "Când prezinți investitorilor în persoană, ei te văd pe tine înainte să îți vadă slide-urile. O rutină zilnică cu ser ajută pielea ta să arate luminoasă, hidratată și odihnită în acea zi.",
-  "pitchTitle": "În prezentare",
-  "playVideo": "Redă videoclipul",
-  "readJournal": "Citește jurnalul",
-  "readStory": "Citește povestea",
-  "shopSerum": "Cumpără serumul",
-  "videoPlayer": "Player video"
- },
- "appTeaser": {
-  "caption": "Aplicația Tava Labs aduce planul tău cu serum, rutina zilnică, panourile și rezultatele de laborator și comenzile tale într-un singur loc, creată pentru iPhone.",
-  "features": [
-   {
-    "desc": "Sesiuni de dimineață și de seară, bifate pas cu pas.",
-    "title": "O rutină zilnică"
-   },
-   {
-    "desc": "Seria ta actuală și zilele rămase în planul tău.",
-    "title": "Serii și progres"
-   },
-   {
-    "desc": "Panouri, rezultate și intervale, în buzunarul tău.",
-    "title": "Panouri de laborator și rezultate"
-   },
-   {
-    "desc": "Vezi comenzile și datele de reaprovizionare într-un singur loc.",
-    "title": "Comenzi și reaprovizionări"
-   }
-  ],
-  "headlineLead": "Serul tău, analizele și comenzile tale",
-  "headlineTrail": "într-o singură aplicație.",
-  "label": "În curând",
-  "lead": "Rutina ta, rezultatele tale de laborator și comenzile tale, toate în aplicația Tava Labs.",
-  "phone": {
-   "amDrops": "Dimineața · 3 picături",
-   "clinicalReview": "Revizuire clinică",
-   "dayLine": "Ziua 12 din 30 · mai ai 18 zile până la prima ta lună completă",
-   "goodMorning": "Bună dimineața",
-   "inRange": "2 în interval",
-   "morningRoutine": "Rutina de dimineață",
-   "optimal": "4 optime",
-   "resultsIn": "Rezultatele tale au sosit",
-   "steps": [
-    {
-     "detail": "Produs de curățare blând, tamponează până se usucă",
-     "title": "Curăță"
-    },
-    {
-     "detail": "Apasă pe față și gât",
-     "title": "Aplică 3 picături de serum"
-    },
-    {
-     "detail": "SPF 30 sau mai mare",
-     "title": "Hidratează + SPF"
-    }
-   ],
-   "stepsToGo": "Astăzi: mai ai 4 din 6 pași de rutină",
-   "tabs": {
-    "lab": "Laborator",
-    "orders": "Comenzi",
-    "profile": "Profil",
-    "shop": "Magazin",
-    "today": "Astăzi"
-   },
-   "toReview": "1 de revizuit",
-   "today": "Astăzi"
-  },
-  "scroll": "Derulează"
- },
- "categoryChrome": {
-  "explore": "Explorează",
-  "goTo": "Mergi la {title}",
-  "nextProducts": "Produsele următoare",
-  "prevProducts": "Produsele anterioare",
-  "readMore": "Citește mai mult +",
-  "showLess": "Arată mai puțin −"
- },
- "categories": {
-  "skincare": {
-   "eyebrow": "ÎNGRIJIRE A PIELII",
-   "heroTitleLead": "Următoarea ta întâlnire",
-   "heroTitleAccent": "începe cu tine.",
-   "heroCopy": "Creat pentru antreprenori care prezintă, vând și înregistrează pe cameră. Un ser zilnic, construit în jurul PDRN, pentru o piele care arată luminoasă și odihnită în cameră și pe cameră.",
-   "heroFinePrint": "Îngrijire cosmetică a pielii. Nu este destinată diagnosticării, tratării, vindecării sau prevenirii vreunei boli.",
-   "stamp": "ÎNGRIJIREA PIELII PENTRU FONDATORI",
-   "primaryCta": "Adaugă la rutină",
-   "secondaryCta": "Vezi ingredientele",
-   "optionsEyebrow": "GAMA",
-   "optionsTitleLead": "Un singur serum.",
-   "optionsTitleAccent": "Fără raft de presupuneri.",
-   "optionsCopy": "Începe cu serumul. Restul gamei este pe drum.",
-   "products": [
-    {
-     "title": "PDRN Brightening Serum",
-     "subtitle": "PDRN, peptide și Sodium Hyaluronate",
-     "unit": "o singură dată",
-     "imageAlt": "Sticla PDRN Brightening Serum de la Tava Labs",
-     "badges": [
-      "Cel mai vândut"
-     ],
-     "description": "Serul zilnic pentru o piele mai luminoasă, hidratată și cu aspect sănătos. $39 pe lună la Abonează-te și economisește.",
-     "linkLabel": "Vezi serumul"
-    },
-    {
-     "title": "Peptide Moisturizer",
-     "subtitle": "1.7 fl oz (50ml)",
-     "imageAlt": "Tub alb Peptide Moisturizer de la Tava Labs cu o pată roz",
-     "badges": [
-      "În curând"
-     ],
-     "description": "O cremă hidratantă cu peptide care vizează ridurile și hidratează, făcută pentru o piele care trebuie să arate stăpână toată ziua."
-    },
-    {
-     "title": "Peptide Eye Cream",
-     "subtitle": "1 fl oz (30ml)",
-     "imageAlt": "Tub alb Peptide Eye Cream de la Tava Labs cu o picătură șampanie",
-     "badges": [
-      "În curând"
-     ],
-     "description": "Reduce aspectul umflăturilor ochilor și vizează ridurile din zona ochilor, pentru un aspect odihnit în fața camerei."
-    },
-    {
-     "title": "Skin Firming Cream",
-     "subtitle": "2 oz (56g)",
-     "imageAlt": "Borcan alb Skin Firming Cream de la Tava Labs cu un fundal cu undă aurie",
-     "badges": [
-      "În curând"
-     ],
-     "description": "Acid hialuronic și CoQ10 într-o cremă bogată care lasă pielea cu un aspect ferm și îngrijit."
-    }
-   ],
-   "disclaimerLead": "Produsele de îngrijire a pielii Tava Labs sunt cosmetice. Nu sunt destinate diagnosticării, tratării, vindecării sau prevenirii vreunei boli.",
-   "disclaimerMore": [
-    "Rezultatele individuale variază. Folosește doar conform indicațiilor: 2 până la 4 picături de PDRN Brightening Serum, de două ori pe zi, pe piele curată.",
-    "Dacă apare iritație, oprește folosirea și consultă un profesionist. Prețurile de pe această pagină erau corecte la publicare și se pot schimba."
-   ],
-   "protocolEyebrow": "RUTINA",
-   "protocolTitleLead": "Două minute, de două ori pe zi.",
-   "protocolTitleAccent": "Asta este toată rutina.",
-   "protocolCopy": "O rutină construită în jurul unui singur serum și al programului unui antreprenor, cu apeluri devreme, nopți târzii și tot restul.",
-   "protocolCta": "Adaugă la rutină",
-   "steps": [
-    {
-     "title": "Evaluează",
-     "lead": "cu testul pentru piele",
-     "body": "Răspunde la câteva întrebări rapide despre pielea, somnul și programul tău, pentru ca planul tău să pornească de unde ești cu adevărat."
-    },
-    {
-     "title": "Aplică",
-     "lead": "2 până la 4 picături, de două ori pe zi",
-     "body": "Dimineața și seara, pe piele curată. Un singur serum, un singur pas, fără o rutină în zece pași de întreținut."
-    },
-    {
-     "title": "Urmărește",
-     "lead": "planul tău în aplicație",
-     "body": "Achiziția ta se conectează la aplicația Tava cu un cod de revendicare, unde planul, comenzile și rutina ta rămân într-un singur loc."
-    }
-   ],
-   "legalLines": [
-    "Doar produse cosmetice. Nimic de pe această pagină nu este sfat medical."
-   ]
-  },
-  "biomarkers": {
-   "eyebrow": "BIOMARKERI DE LABORATOR",
-   "heroTitleLead": "Cunoaște-ți datele,",
-   "heroTitleAccent": "pe Tava.",
-   "heroCopy": "Îți conduci compania pe cifre. În curând poți aplica aceeași disciplină asupra ta: biomarkerii tăi cheie, urmăriți în timp, în aplicația Tava.",
-   "heroFinePrint": "În curând în aplicația Tava. Perspectivele sunt doar informative și nu diagnostichează nicio afecțiune.",
-   "stamp": "DATELE TALE ÎNTR-UN SINGUR LOC",
-   "primaryCta": "Vezi ce este urmărit",
-   "secondaryCta": "Cum va funcționa",
-   "optionsEyebrow": "CE ESTE URMĂRIT",
-   "optionsTitleLead": "Șase domenii.",
-   "optionsTitleAccent": "O imagine clară.",
-   "optionsCopy": "Domeniile de biomarkeri din previzualizarea aplicației Tava, în curs de construire acum.",
-   "products": [
-    {
-     "title": "Creier",
-     "subtitle": "Concentrare și claritate",
-     "badges": [
-      "În curând"
-     ],
-     "description": "Markerii din spatele concentrării, clarității și ritmului cognitiv, adunați într-o singură vedere."
-    },
-    {
-     "title": "Hormoni",
-     "subtitle": "Echilibru",
-     "badges": [
-      "În curând"
-     ],
-     "description": "Imaginea ta hormonală în timp, pentru ca schimbările să fie vizibile, nu ghicite."
-    },
-    {
-     "title": "Inimă",
-     "subtitle": "Markeri cardiovasculari",
-     "badges": [
-      "În curând"
-     ],
-     "description": "Markerii inimii care contează, urmăriți ca tendință, nu ca o citire unică."
-    },
-    {
-     "title": "Metabolism",
-     "subtitle": "Energie și ardere",
-     "badges": [
-      "În curând"
-     ],
-     "description": "Cum folosește corpul tău energia, în cifre pe care le poți urmări cu adevărat."
-    },
-    {
-     "title": "Intestin",
-     "subtitle": "Sănătate digestivă",
-     "badges": [
-      "În curând"
-     ],
-     "description": "Semnale de sănătate intestinală care se leagă de energie, stare de spirit și recuperare."
-    },
-    {
-     "title": "Longevitate",
-     "subtitle": "Vârstă biologică",
-     "badges": [
-      "În curând"
-     ],
-     "description": "Perspectiva pe termen lung: cum se adună markerii tăi într-o imagine a vârstei biologice."
-    }
-   ],
-   "disclaimerLead": "Perspectivele asupra biomarkerilor din aplicația Tava sunt doar informative. Nu diagnostichează, tratează sau previn nicio afecțiune.",
-   "disclaimerMore": [
-    "Discută cu furnizorul tău despre orice rezultat care te îngrijorează. În caz de urgență, sună la 911."
-   ],
-   "protocolEyebrow": "CUM VA FUNCȚIONA",
-   "protocolTitleLead": "Testezi, revizuiești,",
-   "protocolTitleAccent": "urmărești tendința.",
-   "protocolCopy": "Un singur tablou de bord pentru persoana care conduce afacerea, lângă planul tău cu serum, în aceeași aplicație.",
-   "steps": [
-    {
-     "title": "Testezi",
-     "lead": "printr-un partener de laborator",
-     "body": "Proba ta este colectată și procesată, iar rezultatele ajung în aplicația ta Tava."
-    },
-    {
-     "title": "Revizuiești",
-     "lead": "domeniu cu domeniu",
-     "body": "Creier, hormoni, inimă, metabolism, intestin și longevitate, fiecare cu vederea sa."
-    },
-    {
-     "title": "Urmărești",
-     "lead": "tendința în timp",
-     "body": "O singură citire este o fotografie de moment. Valoarea este tendința, iar aplicația o păstrează pentru tine."
-    }
-   ],
-   "legalLines": [
-    "Urmărirea biomarkerilor de laborator vine în curând și nu este încă deschisă pentru comenzi."
-   ]
-  },
-  "mentalHealth": {
-   "eyebrow": "SĂNĂTATE MINTALĂ",
-   "heroTitleLead": "Concentrează-te mai bine,",
-   "heroTitleAccent": "pe Tava.",
-   "heroCopy": "Sprijin pentru concentrare și atenție care începe cu o revizuire de către un clinician, nu cu un buton de finalizare.",
-   "heroFinePrint": "După revizuirea de către clinician. Acest program este în dezvoltare și nu este încă deschis pentru înscrieri.",
-   "stamp": "ÎNGRIJIRE REVIZUITĂ DE CLINICIENI",
-   "primaryCta": "Vezi cum funcționează",
-   "optionsEyebrow": "PROGRAMUL",
-   "optionsTitleLead": "Îngrijire care începe",
-   "optionsTitleAccent": "cu o revizuire.",
-   "optionsCopy": "",
-   "products": [],
-   "disclaimerLead": "Sprijinul pentru sănătatea mintală pe Tava începe cu o revizuire de către un clinician. Nimic aici nu este un diagnostic sau o recomandare de tratament.",
-   "disclaimerMore": [
-    "Dacă ești în criză sau te gândești să îți faci rău, sună sau trimite mesaj la 988 în Statele Unite. În caz de urgență, sună la 911."
-   ],
-   "protocolEyebrow": "CUM FUNCȚIONEAZĂ",
-   "protocolTitleLead": "Mai întâi revizuirea.",
-   "protocolTitleAccent": "Apoi un plan.",
-   "protocolCopy": "Un parcurs atent, deschis, în ritmul tău.",
-   "steps": [
-    {
-     "title": "Revizuire",
-     "lead": "cu un clinician",
-     "body": "Împărtășește istoricul tău și cu ce te confrunți, iar un clinician revizuiește dacă sprijinul de aici este potrivit."
-    },
-    {
-     "title": "Plan",
-     "lead": "construit în jurul tău",
-     "body": "Dacă este potrivit, planul tău este construit în jurul obiectivelor și programului tău."
-    },
-    {
-     "title": "Sprijin",
-     "lead": "pe parcurs",
-     "body": "Verificările mențin planul onest pe măsură ce lucrurile se schimbă."
-    }
-   ],
-   "legalLines": [
-    "Ofertele de sănătate mintală pe Tava sunt în dezvoltare și nu sunt încă deschise pentru înscrieri."
-   ]
-  },
-  "peptides": {
-   "eyebrow": "PROGRAME CU PEPTIDE",
-   "heroTitleLead": "Peptide,",
-   "heroTitleAccent": "cu un furnizor alături de tine.",
-   "heroCopy": "Treisprezece programe cu peptide de la Tava Labs, fiecare începând cu o consultație online și o revizuire de către furnizor.",
-   "heroFinePrint": "Este necesară prescripție. Un furnizor autorizat decide eligibilitatea după consultație.",
-   "stamp": "PROGRAME GHIDATE DE FURNIZOR",
-   "primaryCta": "Începe o consultație",
-   "secondaryCta": "Cum funcționează",
-   "optionsEyebrow": "PROGRAMELE",
-   "optionsTitleLead": "Treisprezece programe.",
-   "optionsTitleAccent": "O consultație începe oricare dintre ele.",
-   "optionsCopy": "Fiecare program include o consultație de $20. Majoritatea includ teste de laborator. Prețurile sunt prețurile lunare ale programelor.",
-   "unitPerMonth": "/lună",
-   "products": [
-    {
-     "subtitle": "Recuperare",
-     "imageAlt": "Ilustrație cu flaconul programului BPC-157",
-     "badges": [
-      "Recuperare",
-      "Sănătate intestinală",
-      "Teste de laborator incluse"
-     ],
-     "description": "BPC-157 de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
-     "linkLabel": "Vezi programul"
-    },
-    {
-     "subtitle": "Sănătate intestinală",
-     "imageAlt": "Ilustrație cu flaconul programului CJC-1295 + Ipamorelin",
-     "badges": [
-      "Sănătate intestinală",
-      "Somn",
-      "Recuperare",
-      "Longevitate",
-      "Teste de laborator incluse"
-     ],
-     "description": "CJC-1295 + Ipamorelin de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
-     "linkLabel": "Vezi programul"
-    },
-    {
-     "subtitle": "Longevitate",
-     "imageAlt": "Ilustrație cu flaconul programului GHK-Cu",
-     "badges": [
-      "Longevitate",
-      "Teste de laborator incluse"
-     ],
-     "description": "GHK-Cu de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
-     "linkLabel": "Vezi programul"
-    },
-    {
-     "subtitle": "Recuperare",
-     "imageAlt": "Ilustrație cu flaconul programului GLOW Injection",
-     "badges": [
-      "Recuperare",
-      "Teste de laborator incluse"
-     ],
-     "description": "GLOW Injection de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
-     "linkLabel": "Vezi programul"
-    },
-    {
-     "subtitle": "Slăbire",
-     "imageAlt": "Ilustrație cu flaconul programului MOTS-C",
-     "badges": [
-      "Slăbire",
-      "Energie",
-      "Performanță",
-      "Teste de laborator incluse"
-     ],
-     "description": "MOTS-C de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
-     "linkLabel": "Vezi programul"
-    },
-    {
-     "subtitle": "Longevitate",
-     "imageAlt": "Ilustrație cu flaconul programului NAD+ Injectable",
-     "badges": [
-      "Longevitate",
-      "Energie",
-      "Recuperare",
-      "Concentrare"
-     ],
-     "description": "NAD+ Injectable de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
-     "linkLabel": "Vezi programul"
-    },
-    {
-     "subtitle": "Sănătate sexuală",
-     "imageAlt": "Ilustrație cu flaconul programului PT-141",
-     "badges": [
-      "Sănătate sexuală",
-      "Teste de laborator incluse"
-     ],
-     "description": "PT-141 de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
-     "linkLabel": "Vezi programul"
-    },
-    {
-     "subtitle": "Slăbire",
-     "imageAlt": "Ilustrație cu flaconul programului Semaglutide + B12 (Cyanocobalamin)",
-     "badges": [
-      "Slăbire",
-      "Teste de laborator incluse"
-     ],
-     "description": "Semaglutide + B12 (Cyanocobalamin) de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
-     "linkLabel": "Vezi programul"
-    },
-    {
-     "subtitle": "Longevitate",
-     "imageAlt": "Ilustrație cu flaconul programului Sermorelin",
-     "badges": [
-      "Longevitate",
-      "Recuperare",
-      "Performanță",
-      "Teste de laborator incluse"
-     ],
-     "description": "Sermorelin de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
-     "linkLabel": "Vezi programul"
-    },
-    {
-     "subtitle": "Performanță",
-     "imageAlt": "Ilustrație cu flaconul programului TB-500",
-     "badges": [
-      "Performanță",
-      "Recuperare",
-      "Teste de laborator incluse"
-     ],
-     "description": "TB-500 de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
-     "linkLabel": "Vezi programul"
-    },
-    {
-     "subtitle": "Longevitate",
-     "imageAlt": "Ilustrație cu flaconul programului Tesamorelin",
-     "badges": [
-      "Longevitate",
-      "Recuperare",
-      "Performanță",
-      "Teste de laborator incluse"
-     ],
-     "description": "Tesamorelin de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
-     "linkLabel": "Vezi programul"
-    },
-    {
-     "subtitle": "Slăbire",
-     "imageAlt": "Ilustrație cu flaconul programului Tirzepatide + B12 (Cyanocobalamin)",
-     "badges": [
-      "Slăbire",
-      "Teste de laborator incluse"
-     ],
-     "description": "Tirzepatide + B12 (Cyanocobalamin) de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
-     "linkLabel": "Vezi programul"
-    },
-    {
-     "subtitle": "Recuperare",
-     "imageAlt": "Ilustrație cu flaconul programului Wolverine Injection",
-     "badges": [
-      "Recuperare",
-      "Teste de laborator incluse"
-     ],
-     "description": "Wolverine Injection de la Tava Labs. Revizuirea de către furnizor și urmărirea fac parte din program.",
-     "linkLabel": "Vezi programul"
-    }
-   ],
-   "disclaimerLead": "Medicamentele preparate sunt realizate de farmacii autorizate pentru pacienți individuali. Nu sunt aprobate de FDA, iar FDA nu revizuiește medicamentele preparate din punct de vedere al siguranței, eficacității sau calității.",
-   "disclaimerMore": [
-    "Îngrijirea medicală este oferită de furnizori independenți și autorizați. Furnizorii decid independent dacă un tratament este potrivit pentru tine; achiziția nu garantează o prescripție.",
-    "Un furnizor autorizat îți revizuiește informațiile și decide independent dacă un tratament este potrivit pentru tine. Achiziția nu garantează o prescripție.",
-    "Pentru urgențe, sună la 911."
-   ],
-   "protocolEyebrow": "CUM FUNCȚIONEAZĂ",
-   "protocolTitleLead": "Consulți, revizuiești,",
-   "protocolTitleAccent": "apoi începi.",
-   "protocolCopy": "Fiecare program se desfășoară prin furnizori independenți și autorizați.",
-   "protocolCta": "Începe o consultație",
-   "steps": [
-    {
-     "title": "Consulți",
-     "lead": "online, în programul tău",
-     "body": "Completează consultația online pentru programul ales. Consultația este $20."
-    },
-    {
-     "title": "Revizuire",
-     "lead": "de către un furnizor autorizat",
-     "body": "Un furnizor îți revizuiește informațiile și analizele și decide independent dacă tratamentul este potrivit pentru tine."
-    },
-    {
-     "title": "Începi",
-     "lead": "dacă este prescris",
-     "body": "Medicația ta este livrată de la o farmacie autorizată, iar furnizorul tău te urmărește pe măsură ce programul tău continuă."
-    }
-   ],
-   "legalLines": [
-    "Magazinul nostru de peptide este în prezent în mod de testare, așa că programele sunt afișate pentru revizuire și nu sunt încă deschise pentru comenzi reale.",
-    "Pentru urgențe, sună la 911."
-   ]
-  }
- },
- "product": {
-  "breadcrumbHome": "Acasă",
-  "bullets": [
-   "PDRN, Acetil Hexapeptidă-8 și acid hialuronic, pentru a susține o piele mai netedă și mai luminoasă.",
-   "Hidratare profundă din glicerină, Sodium PCA și Panthenol.",
-   "100% fără cruzime, fără parfum, fără parabeni, fără sulfați, fără ulei mineral, fără siliconi și vegan."
-  ],
-  "cleanVegan": "Curat și vegan • PDRN activ",
-  "clinical": {
-   "imgAlts": [
-    "Diagramă Promovează luminozitatea",
-    "Diagramă Susține hidratarea profundă",
-    "Diagramă Îmbunătățește textura pielii"
-   ],
-   "label": "Teste clinice",
-   "note": "Evaluări ale activelor bio topice bazate pe percepția consumatorilor pe 8 săptămâni și teste instrumentale de hidratare. Barierele individuale ale pielii, genetica și mediul influențează calendarele și rezultatele specifice.",
-   "titleAccent": "sănătății pielii tale",
-   "titleLead": "Ai grijă de"
-  },
-  "dermTested": "Testat dermatologic • Făcut pentru toate tipurile de piele",
-  "details": [
-   {
-    "body": "O formulă ușoară și hidratantă pentru o piele cu aspect mai neted și mai luminos. Se absoarbe rapid, nu lasă reziduuri și menține pielea confortabilă.",
-    "title": "Cunoaște PDRN Brightening Serum"
-   },
-   {
-    "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin.",
-    "title": "Ingrediente și formulare"
-   },
-   {
-    "body": "Aplică 2 până la 4 picături pe piele curată și uscată. Masează blând pe față și gât până la absorbție. Folosește de două ori pe zi, dimineața și seara. Continuă cu cremă hidratantă sau protecție solară.",
-    "title": "Cum se aplică"
-   },
-   {
-    "body": "Formulat la standarde certificate fără cruzime și făcut fără parfum, siliconi, parabeni, ulei mineral, sulfați, ftalați sau alergeni comuni. Testat dermatologic pe toate tipurile de piele.",
-    "title": "Garanție de îngrijire curată a pielii"
-   }
-  ],
-  "ecosystem": {
-   "items": [
-    "Un diagnostic personalizat al pielii și un ghid de regim din testul tău pentru piele",
-    "Un plan de tratament care începe încet și se construiește în timp",
-    "Mementouri de aplicare pe care le controlezi, dimineața și seara",
-    "Asistență prin mesaje chiar în aplicație",
-    "Livrare Subscribe and Save în fiecare lună, pune pe pauză sau anulează oricând"
-   ],
-   "label": "Planul tău",
-   "note": "Pune pe pauză, ajustează sau anulează Subscribe and Save oricând. Achizițiile unice rămân disponibile la $49.",
-   "sub": "Alături de serumul tău, fiecare plan Tava Labs include:",
-   "title": "Primește sprijin complet pentru rutină"
-  },
-  "faqSection": {
-   "items": [
-    {
-     "a": "PDRN (Polydeoxyribonucleotide) este format din fragmente de ADN care sunt biocompatibile cu celulele pielii umane. Promovează regenerarea naturală a celulelor, stimulează microcirculația și ajută la repararea barierei pielii, pentru o piele care arată mai luminoasă și mai fermă.",
-     "q": "Ce este PDRN și cum beneficiază pielea?"
-    },
-    {
-     "a": "Folosește PDRN Brightening Serum de două ori pe zi după curățare și tonifiere. Pune 2 până la 4 picături direct pe vârful degetelor sau pe pielea umedă, netezind pe față, gât și decolteu. Continuă cu crema ta hidratantă și protecția solară de dimineață.",
-     "q": "Cum includ PDRN Brightening Serum în rutina mea de îngrijire a pielii?"
-    },
-    {
-     "a": "Da. Formularea noastră este non comedogenică, fără ulei, fără parfum și îmbogățită cu Panthenol calmant. Calmează sensibilitatea în timp ce hidratează profund, fără să înfunde porii sau să declanșeze iritații.",
-     "q": "Este acest serum potrivit pentru pielea sensibilă și predispusă la acnee?"
-    },
-    {
-     "a": "Da. PDRN funcționează bine alături de tratamente active precum retinoizii și vitamina C. Baza sa hidratantă ajută la calmarea descuamării sau roșeții pe care exfolianții chimici le pot provoca.",
-     "q": "Pot suprapune PDRN cu retinol, vitamina C sau AHA/BHA?"
-    },
-    {
-     "a": "Când este aplicată în cantitate de 2 până la 4 picături de două ori pe zi, o sticlă de 30ml (1 fl oz) durează de obicei 4 până la 6 săptămâni. Subscribe and Save trimite următoarea sticlă înainte să rămâi fără.",
-     "q": "Cât durează de obicei o sticlă de 30ml?"
-    }
-   ],
-   "label": "Întrebări și răspunsuri",
-   "title": "Întrebări frecvente",
-   "viewAll": "Vezi toate întrebările frecvente"
-  },
-  "finalCta": {
-   "line": "PDRN Brightening Serum · $49.00 / 30ml · Curat și vegan · Hidratare profundă · Anulează oricând",
-   "title": "Un ser pentru o piele care arată mai luminoasă, hidratată și mai netedă."
-  },
-  "formulary": {
-   "activeIngredient": "Ingredient activ",
-   "comingSoon": "În curând",
-   "howToUse": "Cum se folosește",
-   "label": "Compară formulele",
-   "others": [
-    {
-     "rows": [
-      [
-       "Beneficiu principal",
-       "Hidratare zilnică"
-      ],
-      [
-       "Mărime",
-       "1.7 fl oz (50ml)"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Beneficiu principal",
-       "Îngrijirea zonei ochilor"
-      ],
-      [
-       "Mărime",
-       "1 fl oz (30ml)"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Beneficiu principal",
-       "Fermitate și hidratare"
-      ],
-      [
-       "Mărime",
-       "2 oz (56g)"
-      ],
-      [
-       "Ingredient activ",
-       "Acid hialuronic și CoQ10"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Beneficiu principal",
-       "Îngrijirea scalpului și a părului"
-      ],
-      [
-       "Mărime",
-       "1 fl oz (30ml)"
-      ]
-     ]
-    }
-   ],
-   "primaryBenefit": "Beneficiu principal",
-   "selectSerum": "Selectează serumul",
-   "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
-   "serumAlt": "PDRN Brightening Serum",
-   "serumBenefitValue": "Luminozitate și fermitate",
-   "serumHowValue": "Dimineața și seara",
-   "serumOneTime": "sau $49 o singură dată",
-   "serumPriceLine": "Subscribe and Save $39/lună",
-   "sizeLabel": "Mărime",
-   "status": "Stare",
-   "sub": "Formule pentru obiective, preocupări și rutine diferite ale pielii. Alege-o pe cea care se potrivește pielii tale și programului tău.",
-   "title": "Ce tratament de îngrijire a pielii este potrivit pentru tine?"
-  },
-  "gallery": {
-   "alts": [
-    "Sticla PDRN Brightening Serum",
-    "Vederea 2 a sticlei de serum",
-    "Vederea 3 a sticlei de serum",
-    "Vederea 4 a sticlei de serum",
-    "Vederea 5 a sticlei de serum"
-   ],
-   "view": "Vederea {n}"
-  },
-  "inStock": "În stoc",
-  "innovation": {
-   "footnote": "*Activitate biocelulară evaluată prin evaluări clinice in vitro și ex vivo. Rezultatele pot varia în funcție de starea individuală a pielii.",
-   "imgAlts": [
-    "Textura serumului",
-    "Cristal și formulă",
-    "Probă de cristal"
-   ],
-   "items": [
-    {
-     "body": "PDRN marin crește reînnoirea celulară, ceea ce luminează un ten tern și netezește textura vizibilă.",
-     "label": "Textura pielii",
-     "title": "PDRN"
-    },
-    {
-     "body": "Această peptidă susține elasticitatea colagenului, pentru o piele care arată mai fermă.",
-     "label": "Fermitate",
-     "title": "Acetyl Hexapeptide-8"
-    },
-    {
-     "body": "Acidul hialuronic, Sodium PCA și Panthenol lucrează împreună pentru a reține umezeala în bariera pielii pentru peste 24 de ore.",
-     "label": "Hidratare profundă",
-     "title": "Acid hialuronic și pantenol"
-    }
-   ],
-   "label": "Ingrediente cheie",
-   "sub": "Cele trei ingrediente de mai jos fac cea mai mare parte a muncii în acest ser.",
-   "titleAccent": "ingrediente",
-   "titleLead": "Ce fac principalele"
-  },
-  "pricePerUnit": "/ 30ml (1 fl oz)",
-  "protocol": {
-   "label": "Cum să îl folosești",
-   "progressionBody": "Piele mai luminoasă, mai hidratată în 7 până la 14 zile; elasticitate îmbunătățită a pielii și fermitate a barierei până în săptămâna 4 până la 6.",
-   "progressionLabel": "Progresie clinică",
-   "progressionTitle": "Calendarul rezultatelor vizibile",
-   "steps": [
-    {
-     "body": "Curăță cu un produs de curățare blând, cu pH echilibrat, pentru a îndepărta impuritățile și a pregăti pielea, fără să îi îndepărtezi lipidele naturale.",
-     "title": "Curăță, cu un produs blând"
-    },
-    {
-     "body": "Aplică 2 până la 4 picături de serum PDRN pe pielea umedă. Apasă și tamponează blând pe față și gât până la absorbția completă.",
-     "title": "Serum PDRN, 2 până la 4 picături"
-    },
-    {
-     "body": "Aplică cremă hidratantă pentru a păstra peptidele și a susține bariera pielii.",
-     "title": "Hidratează și menține umezeala"
-    },
-    {
-     "body": "Termină rutina de dimineață cu SPF 30+ cu spectru larg pentru a proteja pielea împotriva UV și a daunelor radicalilor liberi.",
-     "title": "Protejează (doar dimineața), SPF 30+"
-    },
-    {
-     "body": "Testul tău pentru piele îți construiește planul, inclusiv cum să începi încet și când să intensifici.",
-     "title": "Planul tău personal, inclus"
-    }
-   ],
-   "sub": "Consecvența contează. Urmează acești pași dimineața și seara și termină cu cremă hidratantă pentru a păstra hidratarea.",
-   "timelineAlt": "Exemplu de calendar al rezultatelor, săptămânile 1 până la 4 și mai departe",
-   "titleAccent": "de două ori pe zi",
-   "titleLead": "O rutină simplă,"
-  },
-  "subPrice": "sau $39 pe lună cu Subscribe and Save",
-  "titleAccent": "Serum",
-  "titleLead": "PDRN Brightening",
-  "viewFormulation": "Vezi formularea completă și testele clinice"
- },
- "about": {
-  "bullets": [
-   "PDRN pentru un ten cu aspect mai luminos și mai uniform.",
-   "Acetyl Hexapeptide-8 pentru a susține aspectul de fermitate.",
-   "Sodium Hyaluronate și Panthenol pentru hidratare.",
-   "Folosește de două ori pe zi: 2 până la 4 apăsări pe piele curată și uscată, dimineața și seara."
-  ],
-  "contactUs": "Contactează-ne",
-  "label": "Despre noi",
-  "onlineSegments": [
-   {
-    "text": "Tava Labs este un brand exclusiv online. Întrebări? Scrie la "
-   },
-   {
-    "href": "mailto:support@tavalabs.app",
-    "text": "support@tavalabs.app"
-   },
-   {
-    "text": "."
-   }
-  ],
-  "onlineTitle": "Exclusiv online",
-  "p1": "Tava Labs este un brand de îngrijire a pielii pentru persoanele care construiesc afaceri. Aspectul tău face parte din prezența ta profesională. Oamenii te văd pe cameră, în întâlniri de prezentare și la muncă în fiecare zi.",
-  "p2": "Facem un singur lucru și îl facem bine. Un ser zilnic care menține pielea ta arătând hidratată și odihnită, fără o rutină complicată.",
-  "p3": "Tava Labs a fost fondată pentru fondatori și proprietari de afaceri. Un pas, dimineața și seara, înainte de întâlniri, prezentări și munca pe cameră.",
-  "p4": "Îngrijirea pielii, tratată ca îngrijire de bază. Aceeași consecvență pe care o aduci afacerii tale, aplicată rutinei tale proprii.",
-  "philosophyCaption": "Filozofia Tava Labs",
-  "philosophyLabel": "Filozofia noastră",
-  "philosophyP1": "Credem în a avea grijă de tine așa cum ai grijă de munca ta, cu pași mici făcuți consecvent în fiecare zi.",
-  "philosophyP2": "Nu promitem transformare. Facem un ser zilnic bine formulat și îți spunem exact ce conține.",
-  "priceLine": "$49 o singură dată sau $39 pe lună cu Subscribe & Save.",
-  "quote": "„Un ser, două minute, dimineața și seara. Asta este întreaga rutină.”",
-  "serumAlt": "PDRN Brightening Serum",
-  "serumBody": "O rutină zilnică pentru ten, construită în jurul PDRN (Polydeoxyribonucleotide) și Acetyl Hexapeptide-8, cu Sodium Hyaluronate și Panthenol pentru hidratare și confort. Curată și fără parfum și făcută fără nimic de pe lista noastră de ingrediente excluse.",
-  "serumLabel": "Serumul",
-  "serumTitle": "PDRN Brightening Serum",
-  "tagline": "Construiește-ți afacerea. Nu te neglija pe tine.",
-  "titleAccent": "pentru fondatori.",
-  "titleLead": "Un ser facial zilnic"
- },
- "contact": {
-  "emailLabel": "Email:",
-  "label": "Contactează-ne",
-  "phoneLabel": "Telefon:",
-  "sub": "Scrie-ne pe email și îți răspundem. Alege subiectul potrivit sau scrie-ne direct.",
-  "title": "Ne-ar plăcea să auzim de la tine.",
-  "topics": {
-   "general": {
-    "body": "Întrebări generale despre Tava Labs și serum.",
-    "title": "General"
-   },
-   "partnerships": {
-    "body": "Parteneriate cu acceleratoare, universități, investitori și comunități.",
-    "title": "Parteneriate"
-   },
-   "pr": {
-    "body": "Solicitări din presă și media.",
-    "title": "PR"
-   },
-   "product-support": {
-    "body": "Ajutor cu folosirea serumului, rutinele și planul tău personal.",
-    "title": "Asistență pentru produs"
-   },
-   "sales-support": {
-    "body": "Întrebări despre comandă, Subscribe & Save și finalizarea comenzii.",
-    "title": "Asistență vânzări"
-   },
-   "wholesale": {
-    "body": "Solicitări en gros și de retail pentru PDRN Brightening Serum.",
-    "title": "En gros"
-   }
-  }
- },
- "faq": {
-  "items": [
-   {
-    "a": [
-     {
-      "text": "Un ser zilnic construit în jurul PDRN (Polydeoxyribonucleotide) și Acetil Hexapeptidei-8, cu Hialuronat de sodiu și Pantenol. Aplică-l dimineața și seara pentru a susține un ten care arată mai luminos și mai uniform."
-     }
-    ],
-    "q": "Ce este PDRN Brightening Serum?"
-   },
-   {
-    "a": [
-     {
-      "text": "Aplică 2 până la 4 picături pe piele curată și uscată, dimineața și seara. Continuă cu cremă hidratantă. Dacă ești nou în îngrijirea activă a pielii, începe o dată pe zi în prima săptămână, apoi treci la de două ori pe zi."
-     }
-    ],
-    "q": "Cum îl folosesc?"
-   },
-   {
-    "a": [
-     {
-      "text": "Fă "
-     },
-     {
-      "href": "/quiz",
-      "text": "Testul pentru piele"
-     },
-     {
-      "text": ". Răspunsurile tale creează un plan personal, inclusiv cum să începi încet și când să intensifici."
-     }
-    ],
-    "q": "Cum primesc planul meu personal?"
-   },
-   {
-    "a": [
-     {
-      "text": "$49 o singură dată sau $39 pe lună cu Subscribe & Save (reducere de 20%). Subscribe & Save poate fi pus pe pauză, sărit sau anulat oricând."
-     }
-    ],
-    "q": "Cât costă?"
-   },
-   {
-    "a": [
-     {
-      "text": "Comenzile sunt onorate de partenerul nostru și livrate la adresa pe care o dai la finalizare. Vezi "
-     },
-     {
-      "href": "/shipping",
-      "text": "Politica de livrare"
-     },
-     {
-      "text": " pentru detalii."
-     }
-    ],
-    "q": "Cum funcționează livrarea?"
-   },
-   {
-    "a": [
-     {
-      "text": "Toate vânzările sunt finale. Te rugăm să citești "
-     },
-     {
-      "href": "/returns",
-      "text": "Politica de returnări"
-     },
-     {
-      "text": " înainte de a comanda."
-     }
-    ],
-    "q": "Care este politica voastră de returnări?"
-   },
-   {
-    "a": [
-     {
-      "text": "Lista completă de ingrediente este pe "
-     },
-     {
-      "href": "/ingredients",
-      "text": "pagina Ingrediente"
-     },
-     {
-      "text": ". Serumul este fără parfum și făcut fără parabeni, sulfați, siliconi, ulei mineral, ftalați și alergeni comuni."
-     }
-    ],
-    "q": "Ce ingrediente conține?"
-   },
-   {
-    "a": [
-     {
-      "text": "Serumul este formulat să se potrivească tuturor tipurilor de piele. Dacă ai o afecțiune a pielii sau îngrijorări, discută cu dermatologul tău înainte de a începe orice îngrijire nouă a pielii."
-     }
-    ],
-    "q": "Este potrivit pentru tipul meu de piele?"
-   },
-   {
-    "a": [
-     {
-      "text": "Scrie la support@tavalabs.app sau folosește pagina "
-     },
-     {
-      "href": "/contact",
-      "text": "Contactează-ne"
-     },
-     {
-      "text": "."
-     }
-    ],
-    "q": "Cum vă contactez?"
-   }
-  ],
-  "label": "Întrebări frecvente",
-  "sub": "Răspunsuri despre serum, comandă, livrare și planul tău personal.",
-  "titleAccent": "frecvente",
-  "titleLead": "Întrebări"
- },
- "ingredients": {
-  "fullTitle": "Ingrediente complete",
-  "howBody": "Aplică 2 până la 4 apăsări pe piele curată și uscată, dimineața și seara. Continuă cu cremă hidratantă. Începe o dată pe zi dacă ești nou în îngrijirea activă a pielii.",
-  "howTitle": "Cum se folosește",
-  "intro": "Iată fiecare ingredient din PDRN Brightening Serum, ce face fiecare și lista completă exact așa cum apare pe etichetă.",
-  "keyItems": [
-   {
-    "body": "Principalul nostru ingredient activ. Susține un ten care arată mai luminos și mai uniform.",
-    "name": "PDRN (Polydeoxyribonucleotide)"
-   },
-   {
-    "body": "O peptidă care susține aspectul de fermitate și netezime.",
-    "name": "Acetyl Hexapeptide-8"
-   },
-   {
-    "body": "Atrage umezeala pentru o piele hidratată și confortabilă.",
-    "name": "Sodium Hyaluronate (Hyaluronic Acid)"
-   },
-   {
-    "body": "Calmează și susține bariera pielii.",
-    "name": "Panthenol"
-   },
-   {
-    "body": "Umectanți care ajută pielea să rețină apa pe parcursul zilei.",
-    "name": "Glycerin + Sodium PCA"
-   }
-  ],
-  "keyTitle": "Ingrediente cheie",
-  "label": "Ingrediente",
-  "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Fabricat în SUA · Potrivit pentru toate tipurile de piele.",
-  "titleAccent": "ce lăsăm pe dinafară.",
-  "titleLead": "Ce este înăuntru și",
-  "warningBody": "Doar pentru uz extern. Evită contactul direct cu ochii. Dacă apare iritație, oprește folosirea. Nu lăsa la îndemâna copiilor.",
-  "warningTitle": "Atenție"
- },
- "partners": {
-  "audiences": [
-   {
-    "alt": "Fondatori de startup la o sesiune de accelerator",
-    "body": "Fondatorii tăi prezintă, fac demonstrații și filmează conținut din prima zi. Oferă-le o lună de îngrijire zilnică a pielii care durează două minute pe zi în timpul programului.",
-    "how": "Cum funcționează: livrăm fiecărui fondator din cohorta ta o sticlă gratuită, cu un plan personal din testul pentru piele. Ne prezinți o singură dată; noi ne ocupăm de tot restul.",
-    "title": "Pentru acceleratoare"
-   },
-   {
-    "alt": "Studenți universitari în campus",
-    "body": "Studenții la antreprenoriat construiesc în public: concursuri de prezentări, zile demonstrative, discuții ale fondatorilor și prime întâlniri cu investitori. O lună gratuită de Tava Labs este un cadou practic și memorabil pentru studenții din programul tău.",
-    "how": "Cum funcționează: oferim sticle pentru cohorta, clasa sau evenimentul tău, plus un material simplu de prezentare. Fără cost pentru universitate și fără cost pentru studenți.",
-    "title": "Pentru universități"
-   },
-   {
-    "alt": "Întâlnire a unui investitor cu un fondator",
-    "body": "O lună gratuită de Tava Labs este un cadou practic pentru fondatorii din portofoliul tău. Ne ocupăm noi de livrare și de planurile lor personale.",
-    "how": "Cum funcționează: spune-ne câți fondatori ai vrea să primească un cadou și aranjăm livrarea și planurile lor personale. Fără cost pentru tine și fără cost pentru ei.",
-    "title": "Pentru investitori providențiali"
-   }
-  ],
-  "becomePartner": "Devino partener",
-  "closingSegments": [
-   {
-    "text": "Scrie la "
-   },
-   {
-    "href": "mailto:talia@tavalabs.app",
-    "text": "talia@tavalabs.app"
-   },
-   {
-    "text": " sau sună la "
-   },
-   {
-    "href": "tel:+19099061308",
-    "text": "909-906-1308"
-   },
-   {
-    "text": ", și aranjăm totul."
-   }
-  ],
-  "closingTitleAccent": "lună gratuită.",
-  "closingTitleLead": "Oferă fondatorilor tăi o",
-  "formulationSub": "Serumul este făcut fără ingredientele despre care membrii tăi întreabă cel mai des:",
-  "formulationTitle": "Creat fără aceste ingrediente.",
-  "intro": "Tava Labs colaborează cu acceleratoare, universități, investitori înger și comunități de fondatori. Membrii tăi primesc prima lună de PDRN Brightening Serum gratuit.",
-  "label": "Devino partener Tava Labs",
-  "partnershipsContact": "Contact pentru parteneriate",
-  "steps": [
-   {
-    "body": "Spune-ne despre programul tău și câți oameni ai vrea să primească un cadou.",
-    "title": "Contactează-ne"
-   },
-   {
-    "body": "Livrăm serumul și configurăm planul personal al fiecărei persoane din testul pentru piele.",
-    "title": "Aranjăm cadoul"
-   },
-   {
-    "body": "Membrii tăi primesc o lună gratuită de ser, cu o notă de mulțumire de la noi în fiecare cutie.",
-    "title": "Tu oferi cadoul"
-   }
-  ],
-  "stepsTitle": "Cum funcționează un parteneriat",
-  "tagline": "O lună gratuită de la noi, fără cost și fără obligație.",
-  "titleAccent": "Tava Labs.",
-  "titleLead": "Oferă fondatorilor tăi o lună gratuită de",
-  "why": [
-   {
-    "body": "Membrii tăi primesc un produs real și un plan personal, nu un cod de reducere pe care îl vor uita.",
-    "title": "Mai multă valoare din prima zi"
-   },
-   {
-    "body": "Prima lună este din partea noastră, pentru fiecare persoană căreia îi oferi cadoul.",
-    "title": "Cost zero pentru tine"
-   },
-   {
-    "body": "Ne ocupăm de livrare, integrare și asistență. Tu faci o singură prezentare.",
-    "title": "Efort zero pentru tine"
-   },
-   {
-    "body": "Un singur pas, dimineața și seara. Se potrivește programului unui fondator pentru că a fost creat pentru unul.",
-    "title": "Un cadou pe care îl vor folosi cu adevărat"
-   }
-  ],
-  "whyTitleAccent": "Valoare reală.",
-  "whyTitleLead": "Cost zero. Efort zero."
- },
- "blog": {
-  "label": "The Tava Journal",
-  "readStory": "Citește povestea",
-  "sub": "Articole despre știința somnului, cercetarea stresului și sănătatea pielii pentru fondatori și proprietari de afaceri.",
-  "titleAccent": "pentru fondatori",
-  "titleLead": "Cercetarea somnului și a stresului"
- },
- "research": {
-  "adherence": [
-   "Aderență generală",
-   "Aderență la suplimente",
-   "Aderență la produse topice"
-  ],
-  "adherenceAria": "{label}, {val} la sută",
-  "adherenceFoot": "Pe parcursul programului de 16 săptămâni",
-  "adherenceLabel": "Urmărirea programului",
-  "adherenceSub": "Aderența pe parcursul celor 16 săptămâni complete, așa cum este înregistrată în raport.",
-  "adherenceTitle": "Cât de aproape au rămas oamenii de plan.",
-  "ageLabel": "Vârsta medie",
-  "ageSuffix": "Ani · Interval 20 până la 48",
-  "alertBody": "Această linie este menționată în raport alături de efectele ușoare listate pe această pagină. Este inclusă aici exact așa cum a fost raportată.",
-  "alertTitle": "Nu s-au raportat evenimente adverse grave.",
-  "amSteps": [
-   "Produs de curățare blând",
-   "Serum cu vitamina C, 15 la sută",
-   "Cremă hidratantă cu ceramide",
-   "Protecție solară minerală, SPF 50"
-  ],
-  "badges": [
-   {
-    "big": "cu 60 la sută mai mare",
-    "small": "Hidratarea pielii, 29.4 AU până la 47.1 AU"
-   },
-   {
-    "big": "cu 52 la sută mai mic",
-    "small": "Scor clinic de textură, 2.7 din 4 până la 1.3 din 4"
-   }
-  ],
-  "baseline": "Moment inițial",
-  "baselineAndWeek": "Moment inițial și săptămâna 16",
-  "chips": [
-   "Prospectiv și deschis",
-   "Un singur braț",
-   "Supravegheat medical",
-   "Site de cercetare clinică în persoană"
-  ],
-  "concerns": [
-   "Hiperpigmentare postinflamatorie",
-   "Textură neuniformă și asprime",
-   "Acnee inflamatorie",
-   "Roșeață facială și sensibilitate",
-   "Cearcăne sub ochi",
-   "Uscăciune și barieră compromisă",
-   "Linii fine și fotoîmbătrânire timpurie"
-  ],
-  "concernsNote": "Participanții puteau raporta mai mult de o preocupare, așa că aceste ponderi nu se adună la 100 la sută.",
-  "concernsTitle": "Preocupări ale pielii la momentul inițial",
-  "docViews": [
-   "Vedere de profil lateral",
-   "Vedere frontală",
-   "Vedere frontală cu ochelari",
-   "Vedere de aproape a obrazului"
-  ],
-  "donutNote": "Graficul inelar se animează până la distribuția raportată când intră în vizualizare la derulare.",
-  "eveningTag": "Rutina de seară",
-  "eveningTitle": "Încheie ziua",
-  "facts": [
-   {
-    "k": "Design",
-    "v": "Prospectiv, deschis, un singur braț"
-   },
-   {
-    "k": "Cadru",
-    "v": "În persoană, supravegheat medical"
-   },
-   {
-    "k": "Evaluări",
-    "v": "Moment inițial plus săptămânile 4, 8, 12, 16"
-   },
-   {
-    "k": "Finalizat",
-    "v": "84 din 92 înscriși · 91 la sută"
-   }
-  ],
-  "factsLabel": "Designul studiului",
-  "factsTitle": "Designul dintr-o privire.",
-  "gender": [
-   {
-    "label": "Femei",
-    "pct": "74 la sută"
-   },
-   {
-    "label": "Bărbați",
-    "pct": "24 la sută"
-   },
-   {
-    "label": "Non binar",
-    "pct": "2 la sută"
-   }
-  ],
-  "genderAria": "Grafic inelar cu distribuția pe genuri, 74 la sută femei, 24 la sută bărbați, 2 la sută non binar",
-  "genderTitle": "Distribuția pe genuri",
-  "h1Accent": "schimbărilor pielii.",
-  "h1Lead": "O privire de 16 săptămâni asupra",
-  "headlineLabel": "Rezultat principal",
-  "headlineTitle": "Totalul leziunilor acneice a scăzut de la 16.8 la 6.2",
-  "heroSub": "Un program prospectiv, deschis, cu participanți, care combină o rutină personalizată de îngrijire a pielii, suplimente și ghidare privind stilul de viață. Fiecare cifră de pe această pagină provine din raport, măsurată la momentul inițial și în săptămâna 16.",
-  "lifestyleItems": [
-   "7 până la 9 ore de somn",
-   "Cel puțin 150 de minute de activitate moderată pe săptămână",
-   "Exercițiu zilnic de respirație de cinci minute",
-   "Somn înregistrat săptămânal",
-   "Obiceiuri de hidratare și protecție solară revizuite la vizite"
-  ],
-  "lifestyleTitle": "Obiective de stil de viață",
-  "methods": [
-   "Leziuni acneice numărate de dermatolog",
-   "Hidratare cu corneometru",
-   "Indici de roșeață și melanină cu cromametru",
-   "Gradarea texturii pe o scară de la 0 la 4",
-   "Fotografie standardizată"
-  ],
-  "methodsLabel": "Cum au fost luate măsurătorile",
-  "methodsTitle": "Măsurători clinice",
-  "morningTag": "Rutina de dimineață",
-  "morningTitle": "Începe ziua",
-  "nutritionItems": [
-   "Cel puțin 2.5 L de apă zilnic",
-   "Legume, fructe de pădure și alimente bogate în omega 3",
-   "Limitează zahărul adăugat și alimentele cu indice glicemic mare",
-   "Reset opțional de două săptămâni cu lactate puține și zahăr puțin",
-   "Consiliere inițială cu un dietetician autorizat"
-  ],
-  "nutritionTitle": "Ghidare nutrițională",
-  "participant": "Participant {initial}",
-  "participantsLabel": "Cine a participat",
-  "participantsSub": "Cinci vizite pe parcursul programului, de la momentul inițial până în săptămâna 16.",
-  "participantsTitle": "Cine a luat parte la program.",
-  "peopleBg": "Oameni",
-  "percentWord": "la sută",
-  "photoLabel": "Documentare vizuală",
-  "photoProtocol": "Captură standardizată la momentul inițial și la urmărire, folosind o configurație fixă a camerei, iluminare vizibilă și cu polarizare încrucișată consecventă, unghiuri frontal, la 45 de grade și de profil și un fundal calibrat cromatic.",
-  "photoProtocolTitle": "Protocol de fotografie",
-  "photoSub": "Fotografii alăturate din programul de patru luni. Imaginea din stânga din fiecare pereche arăta momentul inițial, iar imaginea din dreapta arăta săptămâna 16. Nicio fotografie a participanților nu este reprodusă pe această pagină.",
-  "photoTitle": "Comparații foto ale participanților.",
-  "pill": "Seria de cercetare 001 · Rezultatele participanților",
-  "pmSteps": [
-   "Produs de curățare blând",
-   "Serum cu Niacinamide 5 la sută plus zinc",
-   "Cremă barieră cu peptide",
-   "Retinol 0.3 la sută, introdus în săptămâna 2 și titrat sub ghidarea clinicianului"
-  ],
-  "programBg": "Program",
-  "programLabel": "Program și protocol",
-  "programSub": "Participanții au primit screening în persoană, distribuire de produse, coaching pentru aplicare și evaluări de urmărire la un site de cercetare clinică.",
-  "programTitle": "Programul de 16 săptămâni, pas cu pas.",
-  "results": [
-   {
-    "change": "cu 63 la sută mai puține",
-    "note": "Leziuni numărate de dermatolog",
-    "title": "Totalul leziunilor acneice"
-   },
-   {
-    "change": "cu 60 la sută mai mare",
-    "note": "Măsurare cu corneometru în AU",
-    "title": "Hidratarea pielii"
-   },
-   {
-    "change": "cu 30 la sută mai mic",
-    "note": "Indice cu cromametru",
-    "title": "Indice de eritem și roșeață"
-   },
-   {
-    "change": "cu 25 la sută mai mic",
-    "note": "Indice cu cromametru",
-    "title": "Indice de melanină și pigmentare"
-   },
-   {
-    "change": "cu 52 la sută mai mic",
-    "note": "Gradat pe o scară de la 0 la 4",
-    "title": "Scor clinic de textură"
-   }
-  ],
-  "resultsBg": "Rezultate",
-  "resultsLabel": "Schimbare medie · Moment inițial până în săptămâna 16",
-  "resultsSub": "Rezultate pentru cei 84 de participanți care au finalizat toate vizitele. Fiecare card compară cele două momente pe care studiul le-a măsurat cu adevărat.",
-  "resultsTitle": "Ce s-a schimbat, în cifre simple.",
-  "routineNote": "Retinolul a fost folosit 3 până la 5 nopți pe săptămână după perioada inițială de creștere de două săptămâni. După nevoie, acid salicilic 2 la sută a fost folosit pentru leziuni active.",
-  "safetyBg": "Siguranță",
-  "safetyLabel": "Efecte secundare raportate",
-  "safetySub": "Ponderi ale participanților care au raportat fiecare efect în timpul programului.",
-  "safetyTitle": "Ce au raportat participanții.",
-  "sideEffects": [
-   "Uscăciune ușoară sau descuamare",
-   "Erupție acneică temporară",
-   "Disconfort gastrointestinal ușor"
-  ],
-  "sideEffectsTitle": "Efecte secundare",
-  "slopeAria": "Grafic de pantă care arată totalul leziunilor acneice de la 16.8 la momentul inițial la 6.2 în săptămâna 16",
-  "slopeBaseline": "Moment inițial 16.8",
-  "slopeFoot": "Moment inițial până în săptămâna 16",
-  "slopeNote": "O linie dreaptă doar între cele două puncte măsurate. Raportul nu a publicat valori ale rezultatelor pentru săptămânile 4, 8 sau 12.",
-  "slopeWeek": "Săptămâna 16 · 6.2",
-  "source": "Sursă, Rezultatele participanților Tava Labs, Seria de cercetare 001, program cu participanți pe 16 săptămâni. Această pagină prezintă doar cifrele din raport, cu momentul inițial și săptămâna 16 ca cele două puncte de rezultat măsurate.",
-  "statsLabels": [
-   "Săptămâni în program",
-   "Adulți înscriși",
-   "Oameni care au finalizat toate vizitele",
-   "Rata de finalizare"
-  ],
-  "supplementLabel": "Rutina de suplimente",
-  "supplementNote": "Adăugare opțională, Omega 3, o capsulă moale zilnic.",
-  "supplementSub": "Două capsule zilnic la micul dejun. Cantități afișate per porție de două capsule.",
-  "supplementTitle": "Tava Skin Complex",
-  "supplements": [
-   "Vitamina C",
-   "Zinc",
-   "Niacinamide",
-   "Astaxanthin",
-   "Fitocomplex de curcumină",
-   "Amestec probiotic Lactobacillus"
-  ],
-  "visitTimeline": "Calendarul vizitelor",
-  "visits": [
-   {
-    "desc": "Screening, măsurători și fotografie",
-    "name": "Moment inițial"
-   },
-   {
-    "desc": "Evaluare de urmărire",
-    "name": "Săptămâna 4"
-   },
-   {
-    "desc": "Evaluare de urmărire",
-    "name": "Săptămâna 8"
-   },
-   {
-    "desc": "Evaluare de urmărire",
-    "name": "Săptămâna 12"
-   },
-   {
-    "desc": "Măsurători finale și fotografie",
-    "name": "Săptămâna 16"
-   }
-  ],
-  "week16": "Săptămâna 16",
-  "withdrawals": [
-   {
-    "label": "Conflicte de program",
-    "value": "5 oameni"
-   },
-   {
-    "label": "Efecte secundare ușoare",
-    "value": "2 oameni"
-   },
-   {
-    "label": "Pierduți din urmărire",
-    "value": "1 persoană"
-   }
-  ],
-  "withdrawalsSub": "8 participanți s-au retras din cei 92 înscriși.",
-  "withdrawalsTitle": "Retrageri"
- },
- "account": {
-  "amSteps": [
-   {
-    "detail": "Produs de curățare blând, tamponează până se usucă",
-    "title": "Curăță"
-   },
-   {
-    "detail": "Apasă pe față și gât",
-    "title": "Aplică 3 picături de serum"
-   },
-   {
-    "detail": "SPF 30 sau mai mare",
-    "title": "Hidratează + SPF"
-   }
-  ],
-  "amTitle": "Dimineața · 3 picături",
-  "bottleSuffix": " · mai ai {days} zile în sticlă",
-  "carrierFallback": "Curier",
-  "chipLabels": {
-   "concern": "Preocupare",
-   "goal": "Obiectiv",
-   "plan": "Plan",
-   "routine": "Rutină",
-   "routineTimes": "Orele rutinei",
-   "skinType": "Tip de piele"
-  },
-  "claimEmpty": "Ai cumpărat prin test sau prin acest site? Emailul tău de confirmare și pagina de imediat după finalizare ți-au arătat un cod de revendicare. Deschide aplicația mobilă Tava, autentifică-te și introdu codul în fila Comenzi. Achiziția, planul și răspunsurile tale la test se mută în contul tău din aplicație. Aici pe web, autentificarea cu același email cu care ai finalizat comanda arată deja totul mai sus. Nu mai ai nimic de introdus.",
-  "claimEnter": ". Introdu-l în aplicația Tava la Comenzi pentru a lega această achiziție de contul tău din aplicație:",
-  "claimEyebrow": "Cod de revendicare",
-  "claimForOrder": "Codul tău de revendicare pentru comanda {order}",
-  "claimTitle": "Legarea unei achiziții la aplicație",
-  "claimValidUntil": " (valid până la {date})",
-  "claimWebNote": "Aici pe web nu ai nevoie de cod. Autentificarea cu emailul tău de la finalizare arată deja comenzile și planul tău mai sus.",
-  "claimYourCode": "Codul tău de revendicare",
-  "dayLine": "Ziua {day} din 30{bottle}. Finalizează rutina de astăzi în aplicație pentru a-ți începe seria.",
-  "failedSegments": [
-   {
-    "text": "Verifică-ți conexiunea și încearcă din nou. Dacă continuă să se întâmple, scrie la "
-   },
-   {
-    "href": "mailto:support@tavalabs.app",
-    "text": "support@tavalabs.app"
-   },
-   {
-    "text": " și rezolvăm noi."
-   }
-  ],
-  "failedTitle": "Nu am putut încărca contul tău",
-  "greetings": {
-   "afternoon": "Bună după-amiaza",
-   "evening": "Bună seara",
-   "morning": "Bună dimineața"
-  },
-  "labTab": {
-   "eyebrow": "Laborator",
-   "sub": "Panouri reale de analize de sânge, comandate sub contul tău Tava. Răsfoiește panourile, vezi fiecare marker înainte de a comanda și primește rezultatele livrate chiar aici.",
-   "title": "Cunoaște-ți cifrele."
-  },
-  "labelMaps": {
-   "concern": {
-    "dryness": "Uscăciune",
-    "dullness": "Ternitate",
-    "fine_lines": "Linii fine",
-    "texture": "Textură",
-    "uneven_tone": "Ton neuniform"
-   },
-   "goal": {
-    "even_tone": "Un ton uniform",
-    "fine_lines": "Linii fine",
-    "hydration": "Hidratare",
-    "radiance": "Luminozitate"
-   },
-   "ramp": {
-    "full": "Putere completă",
-    "gentle": "Creștere blândă",
-    "standard": "Creștere standard"
-   },
-   "routine": {
-    "cleanser_only": "Doar produs de curățare",
-    "few_products": "Câteva produse",
-    "full_routine": "Rutină completă"
-   },
-   "sensitivity": {
-    "never": "Rar sensibilă",
-    "often": "Adesea sensibilă",
-    "sometimes": "Uneori sensibilă"
-   },
-   "skinType": {
-    "combination": "Mixtă",
-    "dry": "Uscată",
-    "not_sure": "Nu sunt sigur",
-    "oily": "Grasă",
-    "sensitive": "Sensibilă"
-   }
-  },
-  "loading": "Se încarcă contul tău…",
-  "morningEyebrow": "Rutina de dimineață",
-  "nightEyebrow": "Rutina de seară",
-  "ordersEmpty": "Încă nu ai comenzi. Când cumperi, comenzile și urmărirea ta vor apărea aici și în aplicație.",
-  "ordersEyebrow": "Comenzi",
-  "ordersTitle": "Comenzile tale",
-  "paid": "Plătită",
-  "paymentFailed": "Plată eșuată",
-  "planDefault": "Fă testul pentru piele, iar planul tău personal, construit din răspunsurile tale, va locui aici și în aplicație.",
-  "planEyebrow": "Planul tău",
-  "pmSteps": [
-   {
-    "detail": "Îndepărtează SPF și machiajul",
-    "title": "Curățare dublă"
-   },
-   {
-    "detail": "Înainte de retinol sau tratamente",
-    "title": "Aplică 3 picături de serum"
-   },
-   {
-    "detail": "Sigilează hidratarea",
-    "title": "Cremă hidratantă de noapte"
-   }
-  ],
-  "pmTitle": "Seara · 3 picături",
-  "progressLine": "Ziua {day} din 30 · mai ai {left} zile până la prima ta lună completă",
-  "retakeQuiz": "Refă testul pentru piele",
-  "shop": {
-   "body": "1 fl oz (30 ml). Reduce liniile fine, hidratează profund, redă luminozitatea și întărește pielea. 2 până la 4 apăsări, dimineața și seara.",
-   "buyOnceBtn": "Cumpără o dată, $49",
-   "eyebrow": "PDRN Brightening Serum",
-   "oneTimeLine": "O singură dată, $49.",
-   "oneTimeRest": " O singură sticlă.",
-   "stripeNote": "Finalizare securizată prin Stripe. Vei confirma plata pe pagina Stripe.",
-   "subscribeBtn": "Abonează-te, $39 pe lună",
-   "subscribeLine": "Abonează-te, $39 pe lună.",
-   "subscribeRest": " O sticlă proaspătă în fiecare lună, automat.",
-   "title": "Magazin Tava Labs"
-  },
-  "signOut": "Deconectează-te",
-  "signedInAs": "Autentificat ca",
-  "statusLabels": [
-   "Comandată",
-   "Expediată",
-   "În curs de livrare",
-   "Livrată"
-  ],
-  "stepsNote": "Bifezi pașii în aplicația mobilă. Această pagină arată rutina de astăzi și ce a înregistrat aplicația până acum astăzi.",
-  "stepsToGo": "Astăzi: mai ai {n} din {total} pași de rutină.",
-  "streakLine": "Serie de {streak} zile · Ziua {day} din 30{bottle}",
-  "subscription": "Abonament",
-  "support": {
-   "eyebrow": "Asistență",
-   "links": {
-    "faqs": "Întrebări frecvente",
-    "general": "Întrebări generale",
-    "productSupport": "Asistență pentru produs",
-    "returns": "Politica de returnări",
-    "salesSupport": "Asistență pentru comenzi și vânzări",
-    "shipping": "Politica de livrare"
-   },
-   "segments": [
-    {
-     "text": "Scrie la "
-    },
-    {
-     "href": "mailto:support@tavalabs.app",
-     "text": "support@tavalabs.app"
-    },
-    {
-     "text": " sau sună la "
-    },
-    {
-     "href": "tel:+19099061308",
-     "text": "909-906-1308"
-    },
-    {
-     "text": "."
-    }
-   ],
-   "title": "Suntem aici să ajutăm"
-  },
-  "tabs": {
-   "lab": "Laborator",
-   "orders": "Comenzi",
-   "shop": "Magazin",
-   "support": "Asistență",
-   "today": "Astăzi"
-  },
-  "takeQuiz": "Fă testul pentru piele",
-  "todayComplete": "Astăzi este complet. Ziua ta următoare este deja pregătită.",
-  "trackPackage": "Urmărește coletul",
-  "tryAgain": "Încearcă din nou",
-  "unpaid": "Neplătită",
-  "weekInitials": [
-   "D",
-   "L",
-   "M",
-   "M",
-   "J",
-   "V",
-   "S"
-  ]
- },
- "lab": {
-  "ordersLabel": "Revizuire clinică",
-  "ordersTitle": "Comenzile tale de laborator",
-  "loadingOrders": "Se încarcă comenzile tale…",
-  "ordersEmpty": "Încă nu este nimic aici. Când finalizezi un panou, fiecare marker ajunge aici cu valoarea sa, intervalul său sănătos și cum se mișcă în timp. Comandă primul tău panou mai jos și acest spațiu se umple.",
-  "viewResults": "Vezi rezultatele",
-  "howLabel": "Cum funcționează analizele",
-  "howTitle": "Patru pași, o singură recoltare",
-  "steps": [
-   {
-    "title": "Alege un panou",
-    "body": "Alege panoul care corespunde cu ce vrei să știi. Fiecare marker din el este listat înainte de a comanda."
-   },
-   {
-    "title": "Revizuire de către medic",
-    "body": "Un medic autorizat revizuiește și autorizează fiecare comandă, așa că nu este nevoie de o vizită separată la medic."
-   },
-   {
-    "title": "Mergi pentru recoltare",
-    "body": "O recoltare rapidă de sânge la un punct de colectare de lângă tine. Majoritatea vizitelor durează aproximativ cincisprezece minute."
-   },
-   {
-    "title": "Rezultatele ajung aici",
-    "body": "Rezultatele sunt livrate digital în această filă în câteva zile, cu fiecare marker și intervalul său."
-   }
-  ],
-  "panelsLabel": "Panourile",
-  "panelsTitle": "Paisprezece panouri, construite în jurul a ceea ce urmărești",
-  "panelsSub": "Fiecare panou își arată prețul. Comandarea se deschide odată ce finalizarea este activată, iar un medic autorizat revizuiește fiecare comandă înainte ca rezultatele tale să fie livrate chiar aici. Panourile nu pot fi comandate pentru adrese din New York, New Jersey sau Rhode Island.",
-  "markersSuffix": "{n} markeri",
-  "resultsInDays": "Rezultate în câteva zile",
-  "hideMarkers": "Ascunde markerii",
-  "seeMarkers": "Vezi markerii",
-  "markersAria": "Markeri în {name}",
-  "disclaimer": "Perspectivele de laborator sunt informații despre propria ta sănătate și nu sunt un diagnostic. Discută cu medicul tău despre orice rezultat care te îngrijorează și sună la 911 în caz de urgență.",
-  "panelsById": {
-   "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
-    "name": "Panoul Performanță Atletică",
-    "description": "Pregătire pentru antrenament și recuperare: hemogramă, panou metabolic, rezerve de fier, vitamina D, testosteron, inflamație și enzime musculare.",
-    "collection": "Recoltare de sânge fără programare"
-   },
-   "38c76039-05dc-4cd3-8475-7a675989fbf2": {
-    "name": "Panoul Stare de Bine Inițială",
-    "description": "Punct de plecare pentru tot corpul: hemogramă, sănătate metabolică, colesterol, glicemie, vitamina D și tiroidă.",
-    "collection": "Recoltare de sânge fără programare"
-   },
-   "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
-    "name": "Panoul Energie și Oboseală",
-    "description": "Suspecții obișnuiți din spatele energiei scăzute: rezerve și transport de fier, B12, folat, vitamina D, tiroidă și hemogramă.",
-    "collection": "Recoltare de sânge fără programare"
-   },
-   "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
-    "name": "Panoul Inițial pentru Femei",
-    "description": "Un panou concentrat de 14 markeri, listați complet mai jos.",
-    "collection": "Recoltare de sânge fără programare"
-   },
-   "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
-    "name": "Panoul GLP1",
-    "description": "Un panou concentrat de 10 markeri, listați complet mai jos.",
-    "collection": "Recoltare de sânge fără programare"
-   },
-   "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
-    "name": "Panoul Sănătatea Inimii",
-    "description": "Risc cardiovascular dincolo de colesterolul de bază: lipide, ApoB, Lp(a), hs-CRP și homocisteină.",
-    "collection": "Recoltare de sânge fără programare"
-   },
-   "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
-    "name": "Panoul Longevitate",
-    "description": "Analiză anuală cuprinzătoare și aprofundată a markerilor de sănătate metabolică, cardiovasculară, inflamatorie și hormonală.",
-    "collection": "Recoltare de sânge fără programare"
-   },
-   "b909fb21-b264-483c-a915-4ce87713cfa9": {
-    "name": "Testul Inițial pentru Bărbați",
-    "description": "Un panou concentrat de 12 markeri, listați complet mai jos.",
-    "collection": "Recoltare de sânge fără programare"
-   },
-   "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
-    "name": "Panoul TRT pentru Bărbați",
-    "description": "Un panou concentrat de 16 markeri, listați complet mai jos.",
-    "collection": "Recoltare de sânge fără programare"
-   },
-   "abfabb68-c777-4457-87c2-46bf5fe26d81": {
-    "name": "Panoul Hormonal pentru Bărbați",
-    "description": "Starea hormonilor masculini: testosteron total, SHBG, estradiol, LH și FSH.",
-    "collection": "Recoltare de sânge fără programare"
-   },
-   "f12fe316-367a-4c53-9735-8c0129c45506": {
-    "name": "Panoul Sănătate Metabolică",
-    "description": "Controlul glicemiei și riscul metabolic: A1c, insulină a jeun, colesterol și un panou metabolic complet.",
-    "collection": "Recoltare de sânge fără programare"
-   },
-   "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
-    "name": "Panoul Stres și Recuperare",
-    "description": "Încărcarea de stres și capacitatea de recuperare: cortizol, DHEA-S, tiroidă și inflamație.",
-    "collection": "Recoltare de sânge fără programare"
-   },
-   "1760616d-44d3-4654-817d-440a969e5cdf": {
-    "name": "Panoul Tiroidă Complet",
-    "description": "Analiză completă a tiroidei: TSH, T4 liber, T3 liber și anticorpi TPO.",
-    "collection": "Recoltare de sânge fără programare"
-   },
-   "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
-    "name": "Panoul Hormonal pentru Femei",
-    "description": "Starea hormonilor feminini: estradiol, progesteron, FSH, LH, DHEA-S și testosteron.",
-    "collection": "Recoltare de sânge fără programare"
-   }
-  },
-  "detail": {
-   "backToAccount": "Înapoi la contul tău",
-   "notFoundTitle": "Acea comandă de laborator nu a fost găsită",
-   "notFoundBody": "Este posibil să aparțină unui alt email. Autentifică-te cu emailul sub care ai comandat și încearcă din nou.",
-   "clinicalReview": "REVIZUIRE CLINICĂ",
-   "loadingResults": "Se încarcă rezultatele tale…",
-   "yourPanel": "Panoul tău",
-   "markerFallback": "Marker",
-   "headlines": {
-    "loading": "Îți aducem rezultatele",
-    "pending": "Rezultatele tale sunt pe drum",
-    "allIn": "Toate rezultatele tale au sosit.",
-    "in": "Rezultatele tale au sosit."
-   },
-   "sublines": {
-    "loading": "Un moment, cât se încarcă raportul de laborator.",
-    "pending": "Imediat ce laboratorul raportează, această pagină se umple cu fiecare marker, valoarea sa și intervalul său sănătos.",
-    "allIn": "Fiecare marker este în interval. Iată imaginea completă.",
-    "oneAttention": "Un marker are nevoie de o privire mai atentă. Hai să aprofundăm.",
-    "manyAttention": "{n} markeri au nevoie de o privire mai atentă. Hai să aprofundăm."
-   },
-   "orderedPrefix": "Comandat",
-   "statusPrefix": "Stare:",
-   "notInYetTitle": "Rezultatele nu au sosit încă",
-   "notInYetBody": "Majoritatea panourilor raportează în câteva zile de la recoltare. Când ale tale ajung, această pagină arată vederea completă de echilibru, cu fiecare marker și intervalul său.",
-   "markerBalance": "Echilibrul markerilor tăi",
-   "biomarkers": "BIOMARKERI",
-   "analyzedSuffix": "{pct}% analizat",
-   "statusNames": {
-    "optimal": "Optim",
-    "inRange": "În interval",
-    "attention": "Necesită atenție"
-   },
-   "statusLabels": {
-    "optimal": "OPTIM",
-    "inRange": "ÎN INTERVAL",
-    "attention": "SEMNALAT"
-   },
-   "basePrefix": "Bază: {name}",
-   "updatedPrefix": "Actualizat {date}",
-   "updatedRecently": "Actualizat recent",
-   "triageTitle": "Triaj de stare",
-   "tapToFilter": "Atinge pentru a filtra",
-   "triageSubs": {
-    "optimal": "Exact unde îi vrei",
-    "inRange": "În interiorul intervalului sănătos",
-    "attention": "Merită o discuție cu medicul tău"
-   },
-   "allFilter": "Toate ({n})",
-   "rangePrefix": "Interval {range}",
-   "disclaimer": "Rezultatele de laborator sunt informații despre propria ta sănătate și nu sunt un diagnostic. Discută cu medicul tău despre orice rezultat care te îngrijorează și sună la 911 în caz de urgență."
-  }
- },
- "login": {
-  "brandCopy": "Planul tău, comenzile tale și rutina ta. Un singur email leagă aplicația și webul împreună.",
-  "brandHeadAccent": "înapoi.",
-  "brandHeadLead": "Bun venit",
-  "claimBody1": "Când ai cumpărat prin test sau prin acest site, emailul tău de confirmare a achiziției (și pagina de imediat după finalizare) ți-a arătat un cod de revendicare. Deschide aplicația mobilă Tava, autentifică-te și introdu acel cod în fila Comenzi. Achiziția, planul și răspunsurile tale la test se mută în contul tău din aplicație, fără o a doua achiziție.",
-  "claimBody2": "Pe web este și mai simplu. Autentifică-te mai sus cu același email cu care ai finalizat comanda, iar comenzile și planul tău sunt deja aici.",
-  "claimLabel": "Ai cumpărat pe web și folosești aplicația?",
-  "claimTitle": "Folosește codul tău de revendicare în aplicație",
-  "differentEmail": "Folosește un alt email",
-  "emailLabel": "Adresa de email",
-  "faqButton": "Întrebări? Vezi întrebările frecvente",
-  "footNote": "Prima dată aici? Același link îți creează contul. Folosește emailul din comanda ta și totul te așteaptă deja.",
-  "intro": "Autentifică-te cu emailul pe care l-ai folosit la finalizare sau în aplicația mobilă Tava. Planul, comenzile și rutina ta sunt legate de acel email, așa că totul aici corespunde aplicației. Nu ai nevoie de parolă. Îți trimitem pe email un link de autentificare, iar o atingere a lui te duce în contul tău.",
-  "invalidEmail": "Introdu o adresă de email validă.",
-  "label": "Contul tău Tava",
-  "resend": "Retrimite emailul",
-  "sendButton": "Trimite-mi pe email un link de autentificare",
-  "sendFailed": "Nu am putut trimite acel email. Verifică adresa și încearcă din nou.",
-  "sending": "Se trimite…",
-  "sentBody": "Deschide acel email pe acest dispozitiv și atinge linkul din el. Vei ajunge în contul tău, deja autentificat. Linkul funcționează o singură dată și expiră, așa că folosește-l curând.",
-  "sentNotice": "Link de autentificare trimis la {email}. Poate dura un minut până sosește. Verifică folderul de spam dacă nu îl vezi.",
-  "title": "Autentificare"
- },
- "checkout": {
-  "addressLine2": "Linia de adresă 2 (opțional)",
-  "city": "Oraș",
-  "closeAria": "Închide finalizarea comenzii",
-  "continueBtn": "Continuă la plată",
-  "country": "Țară",
-  "creating": "Se creează sesiunea ta de finalizare…",
-  "email": "Email",
-  "firstName": "Prenume",
-  "lastName": "Nume de familie",
-  "missingIntro": "Aproape gata. Adaugă {fields}.",
-  "missingNames": {
-   "address1": "adresa străzii",
-   "city": "orașul",
-   "email": "un email valid",
-   "firstName": "prenumele",
-   "lastName": "numele de familie",
-   "state": "statul",
-   "zip": "codul ZIP"
-  },
-  "phoneOptional": "Telefon (opțional)",
-  "planOneTime": "PDRN Brightening Serum · $49 · Achiziție unică",
-  "planSubscribe": "PDRN Brightening Serum · $39 pe lună · Subscribe & Save 20%",
-  "startError": "Finalizarea comenzii nu a putut începe. Verifică-ți datele și încearcă din nou. Nu s-a debitat nimic.",
-  "state": "Stat",
-  "streetAddress": "Adresa străzii",
-  "stripeNote": "Finalizare securizată prin Stripe. Vei confirma plata pe pagina Stripe. Încă nu se debitează nimic.",
-  "taking": "Te ducem la finalizarea securizată…",
-  "title": "Finalizarea comenzii",
-  "zip": "ZIP"
- },
- "legal": {
-  "governsNote": "Această pagină este o traducere a originalului în limba engleză. Dacă formularea diferă vreodată, versiunea în limba engleză prevalează."
- }
 }

@@ -82,6 +82,11 @@ export default function Footer({
                 </Link>
               </li>
               <li>
+                <Link href={lh("/peptide-moisturizer")} className="text-[#fafaf9]/85 hover:text-white">
+                  {c.footerMoisturizer}
+                </Link>
+              </li>
+              <li>
                 <Link href={lh("/glow-brightening-serum")} className="text-[#fafaf9]/85 hover:text-white">
                   {c.addToRoutine}
                 </Link>

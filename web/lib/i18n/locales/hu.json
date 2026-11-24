@@ -1,1943 +1,2052 @@
 {
- "meta": {
+  "meta": {
+    "home": {
+      "title": "PDRN Brightening Serum vállalkozóknak | Tava Labs",
+      "description": "Napi arcszérum alapítóknak és cégtulajdonosoknak. PDRN Brightening Serum PDRN-nel, peptidekkel és hialuronsavval a ragyogóbb, hidratált megjelenésű bőrért. $49 egyszeri áron vagy $39 havonta."
+    },
+    "product": {
+      "title": "PDRN Brightening Serum vállalkozóknak | Tava Labs",
+      "description": "A Tava Labs PDRN Brightening Serum egy napi arcszérum PDRN-nel, peptidekkel és nátrium-hialuronáttal a ragyogóbb, hidratált megjelenésű bőrért. Alapítóknak és cégtulajdonosoknak készült. $49 egyszeri áron vagy $39 havonta."
+    },
+    "moisturizer": {
+      "title": "Peptide Moisturizer alapítóknak és cégtulajdonosoknak | Tava Labs",
+      "description": "A Tava Labs Peptide Moisturizer arckrém rézpeptiddel és vörösáfonya kivonattal. Hidratálja a bőrt, és a finom vonalak és ráncok megjelenését célozza. 1.7 fl oz (50 ml). $27.99 egyszeri vásárlással."
+    },
+    "about": {
+      "title": "A Tava Labsról | Arcszérum alapítóknak",
+      "description": "A Tava Labs egy terméket készít, a PDRN Brightening Serumot, egy napi arcszérumot alapítóknak és cégtulajdonosoknak. Olvassa el, kik vagyunk és miért készítettük."
+    },
+    "ingredients": {
+      "title": "A PDRN Brightening Serum összetevői | Tava Labs",
+      "description": "A PDRN Brightening Serum minden összetevője elmagyarázva, a PDRN-től és a peptidektől a Sodium Hyaluronate-ig és a Panthenolig, plusz a teljes INCI lista és az, amit kihagyunk belőle."
+    },
+    "faq": {
+      "title": "PDRN Brightening Serum GYIK és válaszok | Tava Labs",
+      "description": "Válaszok a PDRN Brightening Serumről: árazás, Subscribe and Save, szállítási idők, visszaküldés, a bőrkvíz és a vásárlásod összekapcsolása a Tava alkalmazással."
+    },
+    "contact": {
+      "title": "Kapcsolat a Tava Labsszal | Támogatás, értékesítés és partnerségek",
+      "description": "Lépj kapcsolatba a Tava Labsszal terméktámogatás, rendelési segítség, nagykereskedelem, partnerségek és sajtó ügyében. Írj a support@tavalabs.app címre rendelések és terméksegítség ügyében, vagy a talia@tavalabs.app címre nagykereskedelem, partnerségek és sajtó ügyében. Vagy hívj minket a 909-906-1308 számon."
+    },
+    "partners": {
+      "title": "Legyél a Tava Labs partnere | Ingyenes szérum a programodnak",
+      "description": "Akcelerátorok, inkubátorok, üzleti programok és befektetők: adj az alapítóidnak egy hónap ingyenes PDRN Brightening Serumot. Legyél a Tava Labs partnere."
+    },
+    "research": {
+      "title": "16 hetes kutatási eredmények | Tava Labs",
+      "description": "Mért eredmények a Tava Labs 16 hetes résztvevői programjából. Az aknés elváltozások, a hidratáltság, a bőrpír, a pigmentáció és a textúra változása a kiindulástól a 16. hétig, a teljes programprotokollal."
+    },
+    "blog": {
+      "title": "The Tava Journal | Bőr, alvás és stressz alapítóknak",
+      "description": "Alvástudomány, stresszkutatás és bőr-egészség alapítóknak és cégtulajdonosoknak, plusz gyakorlati rutinok, hogy kipihentnek nézzen ki a munkában."
+    },
+    "quiz": {
+      "title": "Bőrkvíz | Építsd fel a személyes szérumtervedet | Tava Labs",
+      "description": "Válaszolj néhány gyors kérdésre, és építsd fel a személyes tervedet a PDRN Brightening Serum köré. Egy szérum, naponta kétszer, a bőrödhöz és a céljaidhoz igazítva."
+    },
+    "checkoutSuccess": {
+      "title": "Rendelés visszaigazolva | A PDRN Brightening Serumod | Tava Labs",
+      "description": "A Tava Labs PDRN Brightening Serum rendelése megerősítve. Az igénylési kódja összeköti ezt a vásárlást az alkalmazással, ahol láthatja a tervét, a kvíz válaszait és a rendelését."
+    },
+    "checkoutCancel": {
+      "title": "Fizetés megszakítva | Nem történt terhelés | Tava Labs",
+      "description": "Nem történt terhelés. A Tava Labs terve és válaszai mentve vannak, így később befejezheti a rendelését, amikor készen áll."
+    },
+    "login": {
+      "title": "Bejelentkezés | Tava Labs",
+      "description": "Jelentkezz be a Tava Labs fiókodba: a terved, a rendeléseid, a rutinod és a támogatás, ugyanahhoz az e-mail címhez kötve, mint a mobilalkalmazás."
+    },
+    "account": {
+      "title": "A fiókod | Tava Labs",
+      "description": "A Tava Labs fiókod a weben: a terved, a rendeléseid, a rutinod és a támogatás, ugyanahhoz az e-mail címhez kötve, mint a mobilalkalmazás."
+    },
+    "terms": {
+      "title": "Felhasználási feltételek | Tava Labs",
+      "description": "A feltételek, amelyek a tavalabs.app használatát és a PDRN Brightening Serum megvásárlását szabályozzák a Tava Labs, LLC vállalattól, beleértve a minden eladás végleges szabályunkat."
+    },
+    "privacy": {
+      "title": "Adatvédelmi szabályzat | Tava Labs",
+      "description": "Hogyan gyűjti, használja és védi a Tava Labs az adataidat, amikor meglátogatod a tavalabs.app oldalt, kitöltöd a bőrkvízt vagy megrendeled a PDRN Brightening Serumot."
+    },
+    "returns": {
+      "title": "Visszaküldési és visszatérítési szabályzat | Tava Labs",
+      "description": "A Tava Labs visszaküldési és visszatérítési szabályzata a PDRN Brightening Serum rendelésekre, beleértve a minden eladás végleges feltételeinket és azt, hogyan érheted el a támogatást."
+    },
+    "cookies": {
+      "title": "Cookie szabályzat | Tava Labs",
+      "description": "Hogyan használ a Tava Labs weboldala cookie-kat és hasonló eszközöket, amikor meglátogatod a tavalabs.app oldalt, mit tárolnak, és hogyan szabályozhatod őket."
+    },
+    "shipping": {
+      "title": "Szállítási szabályzat | Tava Labs",
+      "description": "A Tava Labs szállítási szabályzata a PDRN Brightening Serum rendelésekre: feldolgozási idők, szállítási becslések, nyomon követés és szállítási területek."
+    }
+  },
+  "chrome": {
+    "homeAria": "Tava Labs kezdőlap",
+    "primaryNavAria": "Elsődleges",
+    "mobileNavAria": "Mobil",
+    "navSerum": "A szérum",
+    "navAbout": "Rólunk",
+    "navIngredients": "Összetevők",
+    "navFaqs": "GYIK",
+    "navBlog": "Blog",
+    "navContact": "Kapcsolat",
+    "login": "Bejelentkezés",
+    "addToRoutine": "Hozzáadás a rutinhoz",
+    "openMenu": "Menü megnyitása",
+    "closeMenu": "Menü bezárása",
+    "language": "Nyelv",
+    "tagline": "PDRN Brightening Serum alapítóknak",
+    "shopHeading": "Vásárlás",
+    "contactHeading": "Kapcsolat",
+    "infoHeading": "Információ",
+    "legalHeading": "Jogi",
+    "footerSerum": "PDRN Brightening Serum",
+    "footerMoisturizer": "Peptide Moisturizer",
+    "footerIngredients": "Összetevők",
+    "contactLinks": {
+      "general": "Általános",
+      "wholesale": "Nagykereskedelem",
+      "salesSupport": "Értékesítési támogatás",
+      "productSupport": "Terméktámogatás",
+      "pr": "PR"
+    },
+    "contactEmails": {
+      "supportLabel": "Rendelések és terméksegítség",
+      "generalLabel": "Általános kapcsolat"
+    },
+    "infoLinks": {
+      "about": "Rólunk",
+      "partners": "Partnerek",
+      "ingredients": "Összetevők",
+      "faqs": "GYIK",
+      "blog": "Blog",
+      "research": "Kutatás"
+    },
+    "newsletterHeading": "Kapjon Tava Labs frissítéseket e-mailben",
+    "newsletter": {
+      "placeholder": "Az e-mail címed",
+      "subscribe": "Feliratkozás",
+      "sending": "Küldés...",
+      "done": "Feliratkozott. Köszönjük.",
+      "error": "Valami hiba történt, próbáld újra."
+    },
+    "disclaimer1": "A PDRN Brightening Serum kozmetikai termék. Nem szolgál betegségek diagnosztizálására, kezelésére, gyógyítására vagy megelőzésére. Az egyéni eredmények eltérhetnek.",
+    "disclaimer2": "Minden eladás végleges. Rendelés előtt olvasd el a Visszaküldési szabályzatunkat.",
+    "copyright": "© 2026 Tava Labs · PDRN Brightening Serum alapítóknak",
+    "notFoundLabel": "Tava Labs",
+    "notFoundTitle": "Az oldal nem található",
+    "notFoundBody": "Ez az oldal nincs itt. Lehet, hogy átköltözött, vagy a cím hiányos.",
+    "notFoundHome": "Vissza a kezdőlapra",
+    "notFoundShop": "Vásárold meg a PDRN Brightening Serumot",
+    "legalLinks": {
+      "terms": "Felhasználási feltételek",
+      "privacy": "Adatvédelmi szabályzat",
+      "returns": "Visszaküldési szabályzat",
+      "cookies": "Cookie szabályzat",
+      "shipping": "Szállítási szabályzat"
+    }
+  },
+  "hero": {
+    "ariaLabel": "PDRN Brightening Serum",
+    "pill": "Alapítóknak és cégtulajdonosoknak",
+    "line1": "Napi arcszérum a",
+    "line2": "ragyogóbb, simább bőrért.",
+    "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Vigyen fel két-négy cseppet reggel és este. $49 egyszeri áron vagy $39 havonta.",
+    "cardAria": "PDRN Brightening Serum, a termékoldal",
+    "onSetPill": "Kamera előtt",
+    "onSetCaption": "Forgatáshoz és videóhívásokhoz",
+    "onSetAlt": "Alapító egy stúdióforgatáson ülve, a kamerába nézve",
+    "morningPill": "Reggeli rutin",
+    "morningCaption": "Vigye fel a tükör előtt minden reggel",
+    "morningAlt": "Alapító szérumot visz fel egy fürdőszobai tükör előtt reggeli fényben",
+    "widePill": "Nappal és éjszaka",
+    "wideHead": "Egy üveg, reggel és este használva.",
+    "priceLine": "$49 egyszeri áron vagy $39 havonta",
+    "talia": {
+      "baseline": "Kiindulás",
+      "week16": "16. hét",
+      "statBig": "63% kal kevesebb",
+      "statCap": "Aknés elváltozások",
+      "statNote": "Átlagos változás a 16 hetes résztvevői programban",
+      "alt": "Talia Kade, a Tava Labs kutatója, fehér laborköpenyben",
+      "slopeAria": "Trendvonal a kiindulási 16.8 értékről a 16. heti 6.2 értékre"
+    }
+  },
   "home": {
-   "title": "PDRN Brightening Serum vállalkozóknak | Tava Labs",
-   "description": "Napi arcszérum alapítóknak és cégtulajdonosoknak. PDRN Brightening Serum PDRN-nel, peptidekkel és hialuronsavval a ragyogóbb, hidratált megjelenésű bőrért. $49 egyszeri áron vagy $39 havonta."
+    "introTitleLead": "Ragyogóbb, hidratált,",
+    "introTitleAccent": "egészségesnek tűnő bőr",
+    "introBody": "Az alapítók és cégtulajdonosok a napjaikat megbeszéléseken, értékesítési hívásokon és rögzített videókban töltik. Az arca képernyőn és a szobában van mindezek során. A PDRN Brightening Serum egy könnyű lépés PDRN-nel, peptidekkel és hialuronsavval. Gyorsan beszívódik, és segít a bőrnek ragyogóbbnak, hidratáltnak és simának látszani. Két perc, naponta kétszer.",
+    "marqueeTagline": "Egy szérum, reggel és este",
+    "marqueeSlogan": "Alapítóknak és cégtulajdonosoknak készült",
+    "buildersTitle": "Alapítóknak és cégtulajdonosoknak készült",
+    "buildersTagline": "Építsd a vállalkozásodat. Ne hanyagold el magad.",
+    "buildersBody": "Az alapítók és cégtulajdonosok egész nap prezentálnak. Személyesen pitchelnek befektetőknek, videóhívásokon értékesítenek, és videókat rögzítenek ügyfeleknek. A tiszta és kipihent megjelenés része a vállalkozás jó bemutatásának. Egy rövid napi bőrápolási rutin egy jó ruhatár és egy megbízható laptop mellett áll alapvető karbantartásként. A PDRN Brightening Serum két percet vesz igénybe, reggel és este.",
+    "pitchAlt": "Alapító az ötletét pitcheli egy befektetőnek",
+    "pitchTitle": "A pitchben",
+    "pitchBody": "Amikor személyesen pitchel befektetőknek, Önt látják, mielőtt a diáit látnák. Egy napi szérumrutin segít a bőrének ragyogónak, hidratáltnak és kipihentnek látszani aznap.",
+    "cameraAlt": "Alapító egy kamera előtt beszél",
+    "cameraTitle": "Kamerán",
+    "cameraBody": "Egy videóforgatáson, podcaston vagy értékesítési híváson a kamera közelről mutatja a fáradt bőrt. Egy kétperces rutin reggel és este segít a bőrének kipihentnek látszani, mielőtt rögzít.",
+    "maintenanceTitle": "Egy szérum az egész rutin.",
+    "maintenanceBody": "Vigyen fel két-négy csepp PDRN Brightening Serumot tiszta, száraz bőrre, reggel és este, majd kövesse hidratálókrémmel. Az egész rutin körülbelül két percet vesz igénybe naponta.",
+    "motionTitle": "Nézzen ügyfélvideókat",
+    "motionBody": "Alapítók és alkotók, akik a PDRN Brightening Serumot használják, videón rögzítve.",
+    "playVideo": "Videó lejátszása",
+    "videoPlayer": "Videólejátszó",
+    "closeVideo": "Videó bezárása",
+    "freeFromTitleLead": "Ami nincs",
+    "freeFromTitleAccent": "a formulában.",
+    "freeFromSub": "Az is számít, amit kihagyunk, nemcsak az, amit beleteszünk.",
+    "freeFromItems": [
+      {
+        "name": "Állatkísérlet mentes",
+        "blurb": "Soha nem teszteljük állatokon."
+      },
+      {
+        "name": "Illatanyag mentes",
+        "blurb": "Nincsenek hozzáadott parfümök vagy szintetikus illatok."
+      },
+      {
+        "name": "Ásványolaj mentes",
+        "blurb": "Nincs ásványolaj vagy petróleum alapú töltőanyag."
+      },
+      {
+        "name": "Ftalátmentes",
+        "blurb": "Nincsenek ftalátok a formulában."
+      },
+      {
+        "name": "Szilikonmentes",
+        "blurb": "Nincsenek szilikonok, amelyek bevonnák a bőrödet."
+      },
+      {
+        "name": "Szulfátmentes",
+        "blurb": "Nincsenek erős szulfátok. Kíméletes a bőrhöz."
+      },
+      {
+        "name": "Allergénmentes",
+        "blurb": "Gyakori allergének nélkül készült."
+      },
+      {
+        "name": "Alkoholmentes",
+        "blurb": "Nincsenek szárító alkoholok."
+      }
+    ],
+    "founderLabel": "Üzenet az alapítónktól",
+    "founderQuote": "„Egy szérum, két perc, reggel és este. Ez az egész rutin.”",
+    "founderBody1": "Ez a Tava Labs mögötti ötlet. A PDRN Brightening Serum az az egyetlen lépés, amely köré a rutin épül: két perc, naponta kétszer, reggel és este.",
+    "founderBody2": "Nézze meg a videót, hogy saját szavainkkal hallja, miért készítettük.",
+    "founderPhilosophy": "A Tava Labs filozófiája",
+    "founderVideoAria": "A Tava Labs videó, miért készítettük a PDRN Brightening Serumot",
+    "shopSerum": "Vásárold meg a szérumot",
+    "journalTitle": "The Tava Journal",
+    "journalSub": "Cikkek alvásról, stresszről és bőrről alapítóknak.",
+    "readJournal": "Olvasd a The Tava Journalt",
+    "readStory": "Olvasd el a történetet"
+  },
+  "appTeaser": {
+    "label": "Hamarosan",
+    "lead": "A rutinja, a laboreredményei és a rendelései, mind a Tava Labs alkalmazásban.",
+    "headlineLead": "A széruma, laborjai és rendelései",
+    "headlineTrail": "egy alkalmazásban.",
+    "scroll": "Görgetés",
+    "caption": "A Tava Labs alkalmazás egy helyre hozza a szérumtervedet, a napi rutinodat, a laborpaneljeidet és eredményeidet, valamint a rendeléseidet, iPhone-ra tervezve.",
+    "features": [
+      {
+        "title": "Napi rutin",
+        "desc": "Reggeli és esti alkalmak, lépésről lépésre kipipálva."
+      },
+      {
+        "title": "Sorozatok és haladás",
+        "desc": "Az aktuális sorozata és a tervéből hátralévő napok."
+      },
+      {
+        "title": "Laborpanelek és eredmények",
+        "desc": "Panelek, eredmények és tartományok a zsebedben."
+      },
+      {
+        "title": "Rendelések és utánpótlás",
+        "desc": "Tekintse meg rendeléseit és utántöltési dátumait egy helyen."
+      }
+    ],
+    "phone": {
+      "today": "Ma",
+      "goodMorning": "Jó reggelt",
+      "dayLine": "30 ból a 12. nap · még 18 nap az első teljes hónapodig",
+      "stepsToGo": "Ma: 6 rutinlépésből 4 van még hátra",
+      "morningRoutine": "Reggeli rutin",
+      "amDrops": "Reggel · 3 csepp",
+      "clinicalReview": "Klinikai értékelés",
+      "resultsIn": "Megérkeztek az eredményeid",
+      "optimal": "4 optimális",
+      "inRange": "2 tartományban",
+      "toReview": "1 átnézendő",
+      "tabs": {
+        "today": "Ma",
+        "shop": "Bolt",
+        "lab": "Labor",
+        "orders": "Rendelések",
+        "profile": "Profil"
+      },
+      "steps": [
+        {
+          "title": "Tisztítás",
+          "detail": "Kíméletes tisztító, finoman töröld szárazra"
+        },
+        {
+          "title": "Vigyél fel 3 csepp szérumot",
+          "detail": "Nyomkodd az arcodba és a nyakadba"
+        },
+        {
+          "title": "Hidratálás + SPF",
+          "detail": "SPF 30 vagy magasabb"
+        }
+      ]
+    }
+  },
+  "categoryChrome": {
+    "readMore": "Tovább olvasom +",
+    "showLess": "Kevesebb megjelenítése −",
+    "prevProducts": "Előző termékek",
+    "nextProducts": "Következő termékek",
+    "goTo": "Ugrás: {title}",
+    "explore": "Felfedezés"
+  },
+  "categories": {
+    "skincare": {
+      "eyebrow": "BŐRÁPOLÁS",
+      "heroTitleLead": "A következő megbeszélésed",
+      "heroTitleAccent": "veled kezdődik.",
+      "heroCopy": "Vállalkozóknak készült, akik pitchelnek, értékesítenek és kamera előtt rögzítenek. Egy napi szérum, a PDRN köré építve, olyan bőrért, amely ragyogónak és kipihentnek látszik a szobában és a kamerán.",
+      "heroFinePrint": "Kozmetikai bőrápolás. Nem szolgál betegségek diagnosztizálására, kezelésére, gyógyítására vagy megelőzésére.",
+      "stamp": "BŐRÁPOLÁS ALAPÍTÓKNAK",
+      "primaryCta": "Hozzáadás a rutinhoz",
+      "secondaryCta": "Nézd meg az összetevőket",
+      "optionsEyebrow": "A KÍNÁLAT",
+      "optionsTitleLead": "Egy szérum.",
+      "optionsTitleAccent": "Nincs polcnyi találgatás.",
+      "optionsCopy": "Kezdd a szérummal. A termékcsalád többi része úton van.",
+      "products": [
+        {
+          "title": "PDRN Brightening Serum",
+          "subtitle": "PDRN, peptidek és Sodium Hyaluronate",
+          "unit": "egyszeri",
+          "imageAlt": "Tava Labs PDRN Brightening Serum üveg",
+          "badges": [
+            "Bestseller"
+          ],
+          "description": "A napi szérum a ragyogóbb, hidratált, egészséges megjelenésű bőrért. $39 havonta Subscribe and Save előfizetéssel.",
+          "linkLabel": "Nézd meg a szérumot"
+        },
+        {
+          "title": "Peptide Moisturizer",
+          "subtitle": "1.7 fl oz (50ml)",
+          "imageAlt": "Tava Labs Peptide Moisturizer fehér tubus rózsaszín fröccsenéssel",
+          "badges": [
+            "Hamarosan"
+          ],
+          "description": "Peptides hidratáló, amely a ráncokat célozza és hidratál, olyan bőrre készült, amelynek egész nap összeszedettnek kell tűnnie."
+        },
+        {
+          "title": "Peptide Eye Cream",
+          "subtitle": "1 fl oz (30ml)",
+          "imageAlt": "Tava Labs Peptide Eye Cream fehér tubus pezsgőszínű cseppel",
+          "badges": [
+            "Hamarosan"
+          ],
+          "description": "Csökkenti a szem alatti duzzanat láthatóságát, és a szem környéki ráncokat célozza, a kipihent kamerás megjelenésért."
+        },
+        {
+          "title": "Skin Firming Cream",
+          "subtitle": "2 oz (56g)",
+          "imageAlt": "Tava Labs Skin Firming Cream fehér tégely arany hullám háttérrel",
+          "badges": [
+            "Hamarosan"
+          ],
+          "description": "Hialuronsav és CoQ10 egy gazdag krémben, amely feszesnek és ápoltnak mutatja a bőrt."
+        }
+      ],
+      "disclaimerLead": "A Tava Labs bőrápoló termékek kozmetikumok. Nem szolgálnak betegségek diagnosztizálására, kezelésére, gyógyítására vagy megelőzésére.",
+      "disclaimerMore": [
+        "Az egyéni eredmények eltérnek. Csak az utasítás szerint használd: két, négy csepp PDRN Brightening Serum, naponta kétszer, tiszta bőrön.",
+        "Ha irritáció lép fel, hagyd abba a használatot, és fordulj szakemberhez. Az ezen az oldalon szereplő árak a közzétételkor voltak pontosak, és változhatnak."
+      ],
+      "protocolEyebrow": "A RUTIN",
+      "protocolTitleLead": "Két perc, naponta kétszer.",
+      "protocolTitleAccent": "Ez az egész rutin.",
+      "protocolCopy": "Egy rutin, amely egyetlen szérum és egy vállalkozói napirend köré épül, korai hívások, késő éjszakák és minden más.",
+      "protocolCta": "Hozzáadás a rutinhoz",
+      "steps": [
+        {
+          "title": "Felmérés",
+          "lead": "a bőrkvízzel",
+          "body": "Válaszolj néhány gyors kérdésre a bőrödről, az alvásodról és a napirendedről, hogy a terved onnan induljon, ahol tényleg tartasz."
+        },
+        {
+          "title": "Alkalmazás",
+          "lead": "két, négy csepp, naponta kétszer",
+          "body": "Reggel és este, tiszta bőrön. Egy szérum, egy lépés, nincs tízlépéses rutin, amit fenn kellene tartani."
+        },
+        {
+          "title": "Követés",
+          "lead": "a terved az alkalmazásban",
+          "body": "A vásárlásod egy igénylőkóddal kapcsolódik a Tava alkalmazáshoz, ahol a terved, a rendeléseid és a rutinod egy helyen maradnak."
+        }
+      ],
+      "legalLines": [
+        "Csak kozmetikai termékek. Semmi ezen az oldalon nem orvosi tanács."
+      ]
+    },
+    "biomarkers": {
+      "eyebrow": "LABOR BIOMARKEREK",
+      "heroTitleLead": "Ismerd az adataidat,",
+      "heroTitleAccent": "a Taván.",
+      "heroCopy": "A cégedet számok alapján vezeted. Hamarosan ugyanezt a fegyelmet alkalmazhatod magadra is: a kulcsfontosságú biomarkereid, időben követve, a Tava alkalmazásban.",
+      "heroFinePrint": "Hamarosan a Tava alkalmazásban. A betekintések csak tájékoztató jellegűek, és nem diagnosztizálnak semmilyen állapotot.",
+      "stamp": "AZ ADATAID EGY HELYEN",
+      "primaryCta": "Nézd meg, mit követünk nyomon",
+      "secondaryCta": "Így fog működni",
+      "optionsEyebrow": "MIT KÖVETÜNK NYOMON",
+      "optionsTitleLead": "Hat terület.",
+      "optionsTitleAccent": "Egy tiszta kép.",
+      "optionsCopy": "A biomarker területek a Tava alkalmazás előnézetében, amelyek most épülnek.",
+      "products": [
+        {
+          "title": "Agy",
+          "subtitle": "Fókusz és tisztaság",
+          "badges": [
+            "Hamarosan"
+          ],
+          "description": "A fókusz, a tisztaság és a kognitív tempó mögötti markerek, egyetlen nézetben összegyűjtve."
+        },
+        {
+          "title": "Hormonok",
+          "subtitle": "Egyensúly",
+          "badges": [
+            "Hamarosan"
+          ],
+          "description": "A hormonképed időben, hogy a változások láthatóak legyenek, ne találgatni kelljen."
+        },
+        {
+          "title": "Szív",
+          "subtitle": "Kardiovaszkuláris markerek",
+          "badges": [
+            "Hamarosan"
+          ],
+          "description": "A fontos szívmarkerek, trendként követve, nem egyszeri leolvasásként."
+        },
+        {
+          "title": "Anyagcsere",
+          "subtitle": "Energia és égetés",
+          "badges": [
+            "Hamarosan"
+          ],
+          "description": "Hogyan használja a tested az energiát, számokban, amelyeket tényleg követni tudsz."
+        },
+        {
+          "title": "Bélrendszer",
+          "subtitle": "Emésztőrendszeri egészség",
+          "badges": [
+            "Hamarosan"
+          ],
+          "description": "A bél egészségének jelei, amelyek az energiához, a hangulathoz és a regenerálódáshoz kapcsolódnak."
+        },
+        {
+          "title": "Hosszú élet",
+          "subtitle": "Biológiai kor",
+          "badges": [
+            "Hamarosan"
+          ],
+          "description": "A hosszú távú nézet: hogyan állnak össze a markereid egy biológiai kor képpé."
+        }
+      ],
+      "disclaimerLead": "A Tava alkalmazásban a biomarker betekintések csak tájékoztató jellegűek. Nem diagnosztizálnak, kezelnek vagy előznek meg semmilyen állapotot.",
+      "disclaimerMore": [
+        "Beszélj a saját orvosoddal minden olyan eredményről, amely aggaszt. Vészhelyzetben hívd a 911-et."
+      ],
+      "protocolEyebrow": "ÍGY FOG MŰKÖDNI",
+      "protocolTitleLead": "Tesztelj, nézd át,",
+      "protocolTitleAccent": "kövesd a trendet.",
+      "protocolCopy": "Egy műszerfal annak, aki a vállalkozást vezeti, a szérumterved mellett ugyanabban az alkalmazásban.",
+      "steps": [
+        {
+          "title": "Teszt",
+          "lead": "egy laborpartneren keresztül",
+          "body": "A mintádat begyűjtik és feldolgozzák, az eredmények pedig a Tava alkalmazásodba érkeznek."
+        },
+        {
+          "title": "Áttekintés",
+          "lead": "területenként",
+          "body": "Agy, hormonok, szív, anyagcsere, bélrendszer és hosszú élet, mindegyik saját nézettel."
+        },
+        {
+          "title": "Követés",
+          "lead": "a trend időben",
+          "body": "Egyetlen leolvasás csak pillanatkép. Az érték a trend, és az alkalmazás megőrzi neked."
+        }
+      ],
+      "legalLines": [
+        "A labor biomarkerek követése hamarosan érkezik, és még nem rendelhető."
+      ]
+    },
+    "mentalHealth": {
+      "eyebrow": "MENTÁLIS EGÉSZSÉG",
+      "heroTitleLead": "Fókuszálj jobban,",
+      "heroTitleAccent": "a Taván.",
+      "heroCopy": "Támogatás a fókuszhoz és a figyelemhez, amely klinikai értékeléssel kezdődik, nem egy fizetés gombbal.",
+      "heroFinePrint": "Klinikai értékelés után. Ez a program fejlesztés alatt áll, és még nem lehet rá jelentkezni.",
+      "stamp": "KLINIKUS ÁLTAL ÉRTÉKELT GONDOSKODÁS",
+      "primaryCta": "Nézd meg, hogyan működik",
+      "optionsEyebrow": "A PROGRAM",
+      "optionsTitleLead": "Gondoskodás, amely ezzel kezdődik:",
+      "optionsTitleAccent": "egy értékeléssel.",
+      "optionsCopy": "",
+      "products": [],
+      "disclaimerLead": "A Taván a mentális egészség támogatása klinikai értékeléssel kezdődik. Semmi itt nem diagnózis vagy kezelési javaslat.",
+      "disclaimerMore": [
+        "Ha krízisben vagy, vagy arra gondolsz, hogy ártasz magadnak, hívd vagy írj a 988-as számra az Egyesült Államokban. Vészhelyzetben hívd a 911-et."
+      ],
+      "protocolEyebrow": "ÍGY MŰKÖDIK",
+      "protocolTitleLead": "Először értékelés.",
+      "protocolTitleAccent": "Aztán egy terv.",
+      "protocolCopy": "Egy körültekintő út, nyíltan, a saját tempódban.",
+      "steps": [
+        {
+          "title": "Értékelés",
+          "lead": "egy klinikussal",
+          "body": "Oszd meg a történetedet és azt, amivel küzdesz, és egy klinikus értékeli, hogy az itteni támogatás megfelelő e neked."
+        },
+        {
+          "title": "Terv",
+          "lead": "köréd építve",
+          "body": "Ha megfelelő, a terved a céljaid és az időbeosztásod köré épül."
+        },
+        {
+          "title": "Támogatás",
+          "lead": "útközben",
+          "body": "A bejelentkezések őszintén tartják a tervet, ahogy a dolgok változnak."
+        }
+      ],
+      "legalLines": [
+        "A Tava mentális egészség ajánlatai fejlesztés alatt állnak, és még nem lehet rájuk jelentkezni."
+      ]
+    },
+    "peptides": {
+      "eyebrow": "PEPTID PROGRAMOK",
+      "heroTitleLead": "Peptidek,",
+      "heroTitleAccent": "egy szolgáltatóval melletted.",
+      "heroCopy": "Tizenhárom peptid program a Tava Labstól, mindegyik online konzultációval és szolgáltatói értékeléssel kezdődik.",
+      "heroFinePrint": "Recept szükséges. Egy engedéllyel rendelkező szolgáltató dönt a jogosultságról a konzultáció után.",
+      "stamp": "SZOLGÁLTATÓ ÁLTAL VEZETETT PROGRAMOK",
+      "primaryCta": "Konzultáció indítása",
+      "secondaryCta": "Így működik",
+      "optionsEyebrow": "A PROGRAMOK",
+      "optionsTitleLead": "Tizenhárom program.",
+      "optionsTitleAccent": "Egyetlen konzultáció bármelyiket elindítja.",
+      "optionsCopy": "Minden program tartalmaz egy $20 értékű konzultációt. A legtöbb laborvizsgálatokat is tartalmaz. Az árak a havi programárak.",
+      "unitPerMonth": "/hó",
+      "products": [
+        {
+          "subtitle": "Regenerálódás",
+          "imageAlt": "BPC-157 program fiola illusztráció",
+          "badges": [
+            "Regenerálódás",
+            "Bélrendszer egészsége",
+            "Laborvizsgálatok mellékelve"
+          ],
+          "description": "BPC-157 a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
+          "linkLabel": "Program megtekintése"
+        },
+        {
+          "subtitle": "Bélrendszer egészsége",
+          "imageAlt": "CJC-1295 + Ipamorelin program fiola illusztráció",
+          "badges": [
+            "Bélrendszer egészsége",
+            "Alvás",
+            "Regenerálódás",
+            "Hosszú élet",
+            "Laborvizsgálatok mellékelve"
+          ],
+          "description": "CJC-1295 + Ipamorelin a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
+          "linkLabel": "Program megtekintése"
+        },
+        {
+          "subtitle": "Hosszú élet",
+          "imageAlt": "GHK-Cu program fiola illusztráció",
+          "badges": [
+            "Hosszú élet",
+            "Laborvizsgálatok mellékelve"
+          ],
+          "description": "GHK-Cu a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
+          "linkLabel": "Program megtekintése"
+        },
+        {
+          "subtitle": "Regenerálódás",
+          "imageAlt": "GLOW Injection program fiola illusztráció",
+          "badges": [
+            "Regenerálódás",
+            "Laborvizsgálatok mellékelve"
+          ],
+          "description": "GLOW Injection a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
+          "linkLabel": "Program megtekintése"
+        },
+        {
+          "subtitle": "Fogyás",
+          "imageAlt": "MOTS-C program fiola illusztráció",
+          "badges": [
+            "Fogyás",
+            "Energia",
+            "Teljesítmény",
+            "Laborvizsgálatok mellékelve"
+          ],
+          "description": "MOTS-C a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
+          "linkLabel": "Program megtekintése"
+        },
+        {
+          "subtitle": "Hosszú élet",
+          "imageAlt": "NAD+ Injectable program fiola illusztráció",
+          "badges": [
+            "Hosszú élet",
+            "Energia",
+            "Regenerálódás",
+            "Fókusz"
+          ],
+          "description": "NAD+ Injectable a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
+          "linkLabel": "Program megtekintése"
+        },
+        {
+          "subtitle": "Szexuális egészség",
+          "imageAlt": "PT-141 program fiola illusztráció",
+          "badges": [
+            "Szexuális egészség",
+            "Laborvizsgálatok mellékelve"
+          ],
+          "description": "PT-141 a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
+          "linkLabel": "Program megtekintése"
+        },
+        {
+          "subtitle": "Fogyás",
+          "imageAlt": "Semaglutide + B12 (Cyanocobalamin) program fiola illusztráció",
+          "badges": [
+            "Fogyás",
+            "Laborvizsgálatok mellékelve"
+          ],
+          "description": "Semaglutide + B12 (Cyanocobalamin) a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
+          "linkLabel": "Program megtekintése"
+        },
+        {
+          "subtitle": "Hosszú élet",
+          "imageAlt": "Sermorelin program fiola illusztráció",
+          "badges": [
+            "Hosszú élet",
+            "Regenerálódás",
+            "Teljesítmény",
+            "Laborvizsgálatok mellékelve"
+          ],
+          "description": "Sermorelin a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
+          "linkLabel": "Program megtekintése"
+        },
+        {
+          "subtitle": "Teljesítmény",
+          "imageAlt": "TB-500 program fiola illusztráció",
+          "badges": [
+            "Teljesítmény",
+            "Regenerálódás",
+            "Laborvizsgálatok mellékelve"
+          ],
+          "description": "TB-500 a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
+          "linkLabel": "Program megtekintése"
+        },
+        {
+          "subtitle": "Hosszú élet",
+          "imageAlt": "Tesamorelin program fiola illusztráció",
+          "badges": [
+            "Hosszú élet",
+            "Regenerálódás",
+            "Teljesítmény",
+            "Laborvizsgálatok mellékelve"
+          ],
+          "description": "Tesamorelin a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
+          "linkLabel": "Program megtekintése"
+        },
+        {
+          "subtitle": "Fogyás",
+          "imageAlt": "Tirzepatide + B12 (Cyanocobalamin) program fiola illusztráció",
+          "badges": [
+            "Fogyás",
+            "Laborvizsgálatok mellékelve"
+          ],
+          "description": "Tirzepatide + B12 (Cyanocobalamin) a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
+          "linkLabel": "Program megtekintése"
+        },
+        {
+          "subtitle": "Regenerálódás",
+          "imageAlt": "Wolverine Injection program fiola illusztráció",
+          "badges": [
+            "Regenerálódás",
+            "Laborvizsgálatok mellékelve"
+          ],
+          "description": "Wolverine Injection a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
+          "linkLabel": "Program megtekintése"
+        }
+      ],
+      "disclaimerLead": "Az összetett gyógyszereket engedéllyel rendelkező gyógyszertárak készítik egyéni betegek számára. Nem FDA által jóváhagyottak, és az FDA nem vizsgálja az összetett gyógyszerek biztonságosságát, hatékonyságát vagy minőségét.",
+      "disclaimerMore": [
+        "Az orvosi ellátást független, engedéllyel rendelkező szolgáltatók nyújtják. A szolgáltatók önállóan döntenek arról, hogy egy kezelés megfelelő e neked; a vásárlás nem garantál receptet.",
+        "Egy engedéllyel rendelkező szolgáltató áttekinti az adataidat, és önállóan dönt arról, hogy egy kezelés megfelelő e neked. A vásárlás nem garantál receptet.",
+        "Vészhelyzetben hívd a 911-et."
+      ],
+      "protocolEyebrow": "ÍGY MŰKÖDIK",
+      "protocolTitleLead": "Konzultáció, értékelés,",
+      "protocolTitleAccent": "aztán kezdés.",
+      "protocolCopy": "Minden program független, engedéllyel rendelkező szolgáltatókon keresztül fut.",
+      "protocolCta": "Konzultáció indítása",
+      "steps": [
+        {
+          "title": "Konzultáció",
+          "lead": "online, a saját időbeosztásod szerint",
+          "body": "Töltsd ki az online konzultációt a választott programhoz. A konzultáció $20."
+        },
+        {
+          "title": "Értékelés",
+          "lead": "egy engedéllyel rendelkező szolgáltató által",
+          "body": "Egy szolgáltató áttekinti az adataidat és a laborjaidat, és önállóan dönt arról, hogy a kezelés megfelelő e neked."
+        },
+        {
+          "title": "Kezdés",
+          "lead": "ha felírják",
+          "body": "A gyógyszered egy engedéllyel rendelkező gyógyszertárból érkezik, és a szolgáltatód nyomon követ, ahogy a programod halad."
+        }
+      ],
+      "legalLines": [
+        "A peptid áruházunk jelenleg teszt üzemmódban van, így a programok áttekintésre jelennek meg, és még nem rendelhetők valódi megrendeléssel.",
+        "Vészhelyzetben hívd a 911-et."
+      ]
+    }
   },
   "product": {
-   "title": "PDRN Brightening Serum vállalkozóknak | Tava Labs",
-   "description": "A Tava Labs PDRN Brightening Serum egy napi arcszérum PDRN-nel, peptidekkel és nátrium-hialuronáttal a ragyogóbb, hidratált megjelenésű bőrért. Alapítóknak és cégtulajdonosoknak készült. $49 egyszeri áron vagy $39 havonta."
+    "breadcrumbHome": "Kezdőlap",
+    "inStock": "Készleten",
+    "cleanVegan": "Tiszta és vegán • PDRN aktív",
+    "dermTested": "Bőrgyógyász által tesztelt • Minden bőrtípusra készült",
+    "titleLead": "PDRN Brightening",
+    "titleAccent": "Serum",
+    "pricePerUnit": "/ 30ml (1 fl oz)",
+    "subPrice": "vagy $39 havonta Subscribe and Save előfizetéssel",
+    "bullets": [
+      "PDRN, acetil-hexapeptid-8 és hialuronsav, a simább, ragyogóbb megjelenésű bőr támogatására.",
+      "Mély hidratálás glicerinből, Sodium PCA-ból és Panthenolból.",
+      "100% állatkísérlet mentes, illatanyag mentes, parabénmentes, szulfátmentes, ásványolaj mentes, szilikonmentes és vegán."
+    ],
+    "viewFormulation": "Teljes formula és klinikai tesztek megtekintése",
+    "details": [
+      {
+        "title": "Ismerd meg a PDRN Brightening Serumot",
+        "body": "Könnyű, hidratáló formula a simább, ragyogóbbnak tűnő bőrért. Gyorsan beszívódik, nem hagy maradékot, és kényelmesen tartja a bőrt."
+      },
+      {
+        "title": "Összetevők és formula",
+        "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin."
+      },
+      {
+        "title": "Így alkalmazd",
+        "body": "Vigyél fel két, négy cseppet tiszta, száraz bőrre. Finoman masszírozd az arcba és a nyakba, amíg be nem szívódik. Használd naponta kétszer, reggel és este. Folytasd hidratálóval vagy fényvédővel."
+      },
+      {
+        "title": "Tiszta bőrápolási garancia",
+        "body": "Tanúsított állatkísérlet mentes szabványok szerint készült, illatanyagok, szilikonok, parabének, ásványolaj, szulfátok, ftalátok és gyakori allergének nélkül. Bőrgyógyász által tesztelve minden bőrtípuson."
+      }
+    ],
+    "innovation": {
+      "label": "Kulcsösszetevők",
+      "titleLead": "Mit tesznek a fő",
+      "titleAccent": "összetevők",
+      "sub": "Az alábbi három összetevő végzi a munka nagy részét ebben a szérumban.",
+      "items": [
+        {
+          "label": "Bőr textúra",
+          "title": "PDRN",
+          "body": "A tengeri PDRN növeli a sejtmegújulást, ami ragyogóbbá teszi a fakó arcszínt és simítja a látható textúrát."
+        },
+        {
+          "label": "Feszesség",
+          "title": "Acetyl Hexapeptide-8",
+          "body": "Ez a peptid támogatja a kollagén rugalmasságát, a feszesebb megjelenésű bőrért."
+        },
+        {
+          "label": "Mély hidratálás",
+          "title": "Hialuronsav és pantenol",
+          "body": "A hialuronsav, a Sodium PCA és a Panthenol együtt tartják a nedvességet a bőrgátban több mint 24 órán át."
+        }
+      ],
+      "imgAlts": [
+        "Szérum textúra",
+        "Kristály és formula",
+        "Kristály minta"
+      ],
+      "footnote": "*A biosejtes aktivitást in vitro és ex vivo klinikai értékelésekkel mérték. Az eredmények az egyéni bőr állapotától függően eltérhetnek."
+    },
+    "ecosystem": {
+      "label": "A terve",
+      "title": "Teljes rutin támogatást kapsz",
+      "sub": "A szérumod mellett minden Tava Labs terv tartalmazza:",
+      "items": [
+        "Személyre szabott bőrdiagnosztika és rutin útmutató a bőrkvízedből",
+        "Kezelési terv, amely lassan indul és idővel épül fel",
+        "Alkalmazási emlékeztetők, amelyeket te szabályozol, reggel és este",
+        "Üzenetes támogatás közvetlenül az alkalmazásban",
+        "Subscribe and Save kézbesítés minden hónapban, szüneteltethető vagy lemondható bármikor"
+      ],
+      "note": "A Subscribe and Save bármikor szüneteltethető, módosítható vagy lemondható. Az egyszeri vásárlások továbbra is elérhetők $49 áron."
+    },
+    "clinical": {
+      "label": "Klinikai tesztek",
+      "titleLead": "Vigyázz a",
+      "titleAccent": "bőröd egészségére",
+      "imgAlts": [
+        "Ragyogást támogató ábra",
+        "Mély hidratálást támogató ábra",
+        "Bőrtextúrát javító ábra"
+      ],
+      "note": "Helyi bioaktív értékelések 8 hetes fogyasztói észlelési és műszeres hidratálási tesztek alapján. Az egyéni bőrgátak, a genetika és a környezet befolyásolják a konkrét időkereteket és eredményeket."
+    },
+    "formulary": {
+      "label": "Formulák összehasonlítása",
+      "title": "Melyik bőrápoló kezelés a megfelelő neked?",
+      "sub": "Formulák különböző bőrcélokhoz, problémákhoz és rutinokhoz. Válassza azt, amelyik illik a bőréhez és az időbeosztásához.",
+      "serumAlt": "PDRN Brightening Serum",
+      "serumPriceLine": "Subscribe and Save $39/hó",
+      "serumOneTime": "vagy $49 egyszeri áron",
+      "primaryBenefit": "Elsődleges előny",
+      "howToUse": "Így használd",
+      "activeIngredient": "Aktív összetevő",
+      "serumBenefitValue": "Ragyogás és feszesség",
+      "serumHowValue": "Reggel és este",
+      "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
+      "selectSerum": "Szérum kiválasztása",
+      "comingSoon": "Hamarosan",
+      "status": "Állapot",
+      "sizeLabel": "Méret",
+      "others": [
+        {
+          "rows": [
+            [
+              "Elsődleges előny",
+              "Napi hidratálás"
+            ],
+            [
+              "Méret",
+              "1.7 fl oz (50ml)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Elsődleges előny",
+              "Szemkörnyék ápolása"
+            ],
+            [
+              "Méret",
+              "1 fl oz (30ml)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Elsődleges előny",
+              "Feszesítés és hidratálás"
+            ],
+            [
+              "Méret",
+              "2 oz (56g)"
+            ],
+            [
+              "Aktív összetevő",
+              "Hialuronsav és CoQ10"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Elsődleges előny",
+              "Fejbőr és haj ápolása"
+            ],
+            [
+              "Méret",
+              "1 fl oz (30ml)"
+            ]
+          ]
+        }
+      ]
+    },
+    "protocol": {
+      "label": "Hogyan használja",
+      "titleLead": "Egy egyszerű rutin,",
+      "titleAccent": "naponta kétszer",
+      "sub": "A következetesség számít. Kövesse ezeket a lépéseket reggel és este, és fejezze be hidratálókrémmel, hogy bent tartsa a nedvességet.",
+      "progressionLabel": "Klinikai haladás",
+      "progressionTitle": "Látható eredmények idővonala",
+      "progressionBody": "Ragyogóbb, hidratáltabb bőr 7-14 nap alatt; javult bőrrugalmasság és barrier feszesség a 4-6. hétre.",
+      "timelineAlt": "Példa eredmény idővonal, 1, 4. hét és azon túl",
+      "steps": [
+        {
+          "title": "Tisztítás, kíméletes lemosóval",
+          "body": "Tisztíts kíméletes, pH kiegyensúlyozott lemosóval, hogy eltávolítsd a szennyeződéseket és felkészítsd a bőrt anélkül, hogy megfosztanád a természetes lipidjeitől."
+        },
+        {
+          "title": "PDRN szérum, két, négy csepp",
+          "body": "Vigyél fel két, négy csepp PDRN szérumot nedves bőrre. Finoman nyomkodd és ütögesd az arcba és a nyakba, amíg teljesen be nem szívódik."
+        },
+        {
+          "title": "Hidratálás és nedvesség",
+          "body": "Vigyen fel hidratálókrémet, hogy bent tartsa a peptideket és támogassa a bőrbarriert."
+        },
+        {
+          "title": "Védelem (csak reggel), SPF 30+",
+          "body": "Zárd a reggeli rutint széles spektrumú SPF 30+ fényvédővel, hogy megvédd a bőrt az UV és a szabad gyökök károsodásától."
+        },
+        {
+          "title": "A személyes terved, mellékelve",
+          "body": "A bőrkvízed felépíti a tervedet, beleértve azt is, hogyan kezdj lassan, és mikor építs feljebb."
+        }
+      ]
+    },
+    "faqSection": {
+      "label": "Kérdések és válaszok",
+      "title": "Gyakran ismételt kérdések",
+      "viewAll": "Összes GYIK megtekintése",
+      "items": [
+        {
+          "q": "Mi a PDRN, és hogyan hasznos a bőrnek?",
+          "a": "A PDRN (polidezoxiribonukleotid) DNS-töredékekből áll, amelyek biokompatibilisek az emberi bőrsejtekkel. Elősegíti a természetes sejtregenerációt, serkenti a mikrokeringést, és segít helyreállítani a bőrbarriert, a ragyogóbb, feszesebb megjelenésű bőrért."
+        },
+        {
+          "q": "Hogyan illesszem be a PDRN Brightening Serumot a bőrápolási rutinomba?",
+          "a": "Használd a PDRN Brightening Serumot naponta kétszer tisztítás és tonizálás után. Cseppents két, négy cseppet közvetlenül az ujjbegyeidre vagy nedves bőrre, és simítsd szét az arcon, a nyakon és a dekoltázson. Folytasd a hidratálóddal és a reggeli fényvédőddel."
+        },
+        {
+          "q": "Alkalmas ez a szérum érzékeny és aknéra hajlamos bőrre?",
+          "a": "Igen. A formulánk nem komedogén, olajmentes, illatanyag mentes, és nyugtató Panthenollal dúsított. Csillapítja az érzékenységet, miközben mélyen hidratál anélkül, hogy eltömítené a pórusokat vagy irritációt váltana ki."
+        },
+        {
+          "q": "Rétegezhetem a PDRN-t retinollal, C-vitaminnal vagy AHA/BHA-val?",
+          "a": "Igen. A PDRN jól működik aktív kezelések, például retinoidok és C-vitamin mellett. Hidratáló alapja segít csillapítani a hámlást vagy bőrpírt, amelyet a kémiai hámlasztók okozhatnak."
+        },
+        {
+          "q": "Meddig tart általában egy 30 ml-es üveg?",
+          "a": "Napi kétszer két, négy cseppel használva egy 30 ml-es (1 fl oz) üveg általában 4, 6 hétig tart. A Subscribe and Save elküldi a következő üveget, mielőtt kifogynál."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Egy szérum a ragyogóbb, hidratált, simább megjelenésű bőrért.",
+      "line": "PDRN Brightening Serum · $49.00 / 30ml · Tiszta és vegán · Mély hidratálás · Bármikor lemondható"
+    },
+    "gallery": {
+      "view": "{n}. nézet",
+      "alts": [
+        "PDRN Brightening Serum üveg",
+        "Szérumüveg, 2. nézet",
+        "Szérumüveg, 3. nézet",
+        "Szérumüveg, 4. nézet",
+        "Szérumüveg, 5. nézet"
+      ]
+    }
+  },
+  "moisturizer": {
+    "breadcrumbHome": "Kezdőlap",
+    "inStock": "Készleten",
+    "subBadge": "Rézpeptid és vörösáfonya kivonat",
+    "madeLine": "Az USA ban készült",
+    "titleLead": "Peptide",
+    "titleAccent": "Moisturizer",
+    "pricePerUnit": "1.7 fl oz (50 ml)",
+    "intro": "Arckrém rézpeptiddel és vörösáfonya kivonattal. Hidratálja a bőrt, és a finom vonalak és ráncok megjelenését célozza.",
+    "bullets": [
+      "Hidratálja a bőrt, és ápolja az arcot és a nyakat, reggel vagy este.",
+      "Rézpeptiddel és vörösáfonya kivonattal készült.",
+      "A finom vonalak és ráncok megjelenését célozza.",
+      "Alapítóknak és cégtulajdonosoknak készült. Egy egyszerű lépés, reggel vagy este."
+    ],
+    "details": [
+      {
+        "title": "Használat",
+        "body": "Vigyen fel egy érme nagyságú mennyiséget az arcra és a nyakra, és gyengéden masszírozza be, amíg teljesen fel nem szívódik. Használja reggel vagy este."
+      },
+      {
+        "title": "Összetevők",
+        "body": "Aqua, Sorbitan Olivate, Cetearyl Olivate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Cetyl Alcohol, Stearyl Alcohol, Methylglucoside Phosphate, Copper Lysinate/Prolinate, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Eclipta Prostrata Extract, Moringa Oleifera Seed Extract, Melia Azadirachta (Neem) Leaf Extract, Glycerin, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate, Totarol, Hamamelis Virginiana (Witch Hazel) Water, Xanthan Gum, Alcohol, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Maltodextrin, Syringa Vulgaris (Lilac) Leaf Cell Culture Extract."
+      },
+      {
+        "title": "Jó tudni",
+        "body": "Csak külső használatra. Ne nyelje le. Kerülje a szemmel való érintkezést. Ha irritáció lép fel, hagyja abba a használatot. Gyermekektől elzárva tartandó. Hűvös és száraz helyen tárolja. Méret 1.7 fl oz (50 ml). Az USA ban készült."
+      }
+    ],
+    "keyIngredients": {
+      "label": "Fő összetevők",
+      "titleLead": "Mik a fő",
+      "titleAccent": "összetevők",
+      "sub": "Az alábbi összetevők azok, amelyek köré ez a hidratáló krém épül.",
+      "items": [
+        {
+          "title": "Rézpeptid",
+          "body": "A rézpeptid, a címkén Copper Lysinate/Prolinate néven szerepel, a formula peptidje. A finom vonalak és ráncok megjelenését célozza."
+        },
+        {
+          "title": "Vörösáfonya kivonat",
+          "body": "A vörösáfonya kivonat a vörösáfonya terméséből származik. Növényi kivonatként szerepel a napi formulában."
+        },
+        {
+          "title": "Aloe vera és varázsmogyoró",
+          "body": "Az aloe vera levélnedv és a varázsmogyoró víz növényi összetevők a formulában. A glicerin mellett állnak, amely segít a bőrnek megtartani a nedvességet."
+        },
+        {
+          "title": "Moringa és neem",
+          "body": "A moringa magkivonat és a neem levélkivonat növényi kivonatok a formulában. Az E vitamin is szerepel, Tocopheryl Acetate néven."
+        }
+      ]
+    },
+    "howToUse": {
+      "label": "Használat",
+      "title": "Egy lépés, reggel vagy este",
+      "sub": "Vigye fel a hidratáló krémet az arcra és a nyakra a rutin hidratáló lépéseként.",
+      "steps": [
+        {
+          "title": "Reggel",
+          "body": "Vigyen fel egy érme nagyságú mennyiséget az arcra és a nyakra reggel. Gyengéden masszírozza be, amíg teljesen fel nem szívódik."
+        },
+        {
+          "title": "Este",
+          "body": "Vigyen fel egy érme nagyságú mennyiséget az arcra és a nyakra este. Gyengéden masszírozza be, amíg teljesen fel nem szívódik."
+        }
+      ]
+    },
+    "faqSection": {
+      "label": "Kérdések és válaszok",
+      "title": "Gyakran ismételt kérdések",
+      "items": [
+        {
+          "q": "Mi a Peptide Moisturizer?",
+          "a": "Ez egy arckrém rézpeptiddel és vörösáfonya kivonattal, valamint aloe verával, varázsmogyoróval, moringával, neemmel, ecliptával, glicerinnel és E vitaminnal. Hidratálja a bőrt, és ápolja az arcot és a nyakat."
+        },
+        {
+          "q": "Mennyibe kerül, és mekkora a mérete?",
+          "a": "Ára $27.99 egyszeri vásárlással. Mérete 1.7 fl oz (50 ml). Ehhez a termékhez nincs előfizetéses ár."
+        },
+        {
+          "q": "Hogyan használjam?",
+          "a": "Vigyen fel egy érme nagyságú mennyiséget az arcra és a nyakra, és gyengéden masszírozza be, amíg teljesen fel nem szívódik. Használja reggel vagy este."
+        },
+        {
+          "q": "Kinek készült?",
+          "a": "Alapítóknak és cégtulajdonosoknak készült, akik egy egyszerű hidratáló lépést szeretnének, reggel vagy este. A finom vonalak és ráncok megjelenését célozza."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Peptide Moisturizer a napi hidratáláshoz.",
+      "line": "Peptide Moisturizer · $27.99 · 1.7 fl oz (50 ml) · Az USA ban készült"
+    },
+    "gallery": {
+      "view": "{n}. nézet",
+      "alts": [
+        "Peptide Moisturizer tégely feltett fedéllel",
+        "Peptide Moisturizer tégely levett fedéllel",
+        "Három Peptide Moisturizer tégely",
+        "Két Peptide Moisturizer tégely"
+      ]
+    }
   },
   "about": {
-   "title": "A Tava Labsról | Arcszérum alapítóknak",
-   "description": "A Tava Labs egy terméket készít, a PDRN Brightening Serumot, egy napi arcszérumot alapítóknak és cégtulajdonosoknak. Olvassa el, kik vagyunk és miért készítettük."
-  },
-  "ingredients": {
-   "title": "A PDRN Brightening Serum összetevői | Tava Labs",
-   "description": "A PDRN Brightening Serum minden összetevője elmagyarázva, a PDRN-től és a peptidektől a Sodium Hyaluronate-ig és a Panthenolig, plusz a teljes INCI lista és az, amit kihagyunk belőle."
-  },
-  "faq": {
-   "title": "PDRN Brightening Serum GYIK és válaszok | Tava Labs",
-   "description": "Válaszok a PDRN Brightening Serumről: árazás, Subscribe and Save, szállítási idők, visszaküldés, a bőrkvíz és a vásárlásod összekapcsolása a Tava alkalmazással."
+    "label": "Rólunk",
+    "titleLead": "Napi arcszérum",
+    "titleAccent": "alapítóknak.",
+    "tagline": "Építsd a vállalkozásodat. Ne hanyagold el magad.",
+    "p1": "A Tava Labs egy bőrápolási márka vállalkozásokat építő embereknek. A megjelenése a szakmai jelenléte része. Az emberek minden nap látják Önt kamerán, pitch megbeszéléseken és a munkában.",
+    "p2": "Egy dolgot készítünk, és jól készítjük. Egy napi szérum, amely hidratáltnak és kipihentnek tartja a bőrét, bonyolult rutin nélkül.",
+    "p3": "A Tava Labs alapítóknak és cégtulajdonosoknak alapult. Egy lépés, reggel és este, a megbeszélések, a pitchek és a kameramunka előtt.",
+    "p4": "Bőrápolás, alapvető karbantartásként kezelve. Ugyanaz a következetesség, amelyet a vállalkozásába visz, a saját rutinjára alkalmazva.",
+    "serumLabel": "A szérum",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumAlt": "PDRN Brightening Serum",
+    "serumBody": "Napi arcszín rutin, amely a PDRN (Polydeoxyribonucleotide) és az Acetyl Hexapeptide-8 köré épül, Sodium Hyaluronate-tal és Panthenollal a hidratálásért és a kényelemért. Tiszta és illatanyag mentes, és semmit nem tartalmaz a mentességi listánkról.",
+    "bullets": [
+      "PDRN a ragyogóbb, egyenletesebbnek tűnő arcszínért.",
+      "Acetyl Hexapeptide-8, hogy támogassa a feszesség látszatát.",
+      "Sodium Hyaluronate és Panthenol a hidratálásért.",
+      "Használd naponta kétszer: két, négy pumpálás tiszta, száraz bőrön, reggel és este."
+    ],
+    "priceLine": "$49 egyszeri áron, vagy $39 havonta Subscribe & Save előfizetéssel.",
+    "philosophyLabel": "A filozófiánk",
+    "quote": "„Egy szérum, két perc, reggel és este. Ez az egész rutin.”",
+    "philosophyCaption": "A Tava Labs filozófiája",
+    "philosophyP1": "Hiszünk abban, hogy úgy vigyázzon magára, ahogy a munkájára vigyáz, kis lépésekkel, amelyeket minden nap következetesen megtesz.",
+    "philosophyP2": "Nem ígérünk átalakulást. Egy jól formulázott napi szérumot készítünk, és pontosan elmondjuk, mi van benne.",
+    "onlineTitle": "Csak online",
+    "onlineSegments": [
+      {
+        "text": "A Tava Labs csak online márka. Kérdésed van? Írj nekünk: "
+      },
+      {
+        "text": "support@tavalabs.app",
+        "href": "mailto:support@tavalabs.app"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "contactUs": "Kapcsolat"
   },
   "contact": {
-   "title": "Kapcsolat a Tava Labsszal | Támogatás, értékesítés és partnerségek",
-   "description": "Lépj kapcsolatba a Tava Labsszal terméktámogatás, rendelési segítség, nagykereskedelem, partnerségek és sajtó ügyében. Írj a support@tavalabs.app címre rendelések és terméksegítség ügyében, vagy a talia@tavalabs.app címre nagykereskedelem, partnerségek és sajtó ügyében. Vagy hívj minket a 909-906-1308 számon."
+    "label": "Kapcsolat",
+    "title": "Szívesen hallanánk felőled.",
+    "sub": "Írj nekünk e-mailt, és válaszolunk. Válaszd ki a megfelelő témát, vagy írj nekünk közvetlenül.",
+    "emailLabel": "E-mail:",
+    "phoneLabel": "Telefon:",
+    "topics": {
+      "general": {
+        "title": "Általános",
+        "body": "Általános kérdések a Tava Labsról és a szérumról."
+      },
+      "wholesale": {
+        "title": "Nagykereskedelem",
+        "body": "Nagykereskedelmi és kiskereskedelmi megkeresések a PDRN Brightening Serumról."
+      },
+      "sales-support": {
+        "title": "Értékesítési támogatás",
+        "body": "Kérdések a rendelésről, a Subscribe & Save előfizetésről és a fizetésről."
+      },
+      "product-support": {
+        "title": "Terméktámogatás",
+        "body": "Segítség a szérum használatához, a rutinokhoz és a személyes tervedhez."
+      },
+      "partnerships": {
+        "title": "Partnerségek",
+        "body": "Partnerségek akcelerátorokkal, egyetemekkel, befektetőkkel és közösségekkel."
+      },
+      "pr": {
+        "title": "PR",
+        "body": "Sajtó és média megkeresések."
+      }
+    }
+  },
+  "faq": {
+    "label": "GYIK",
+    "titleLead": "Gyakran ismételt",
+    "titleAccent": "Kérdések",
+    "sub": "Válaszok a szérumról, a rendelésről, a szállításról és a személyes tervedről.",
+    "items": [
+      {
+        "q": "Mi a PDRN Brightening Serum?",
+        "a": [
+          {
+            "text": "Napi szérum, a PDRN (polidezoxiribonukleotid) és az acetil-hexapeptid-8 köré építve, nátrium-hialuronáttal és pantenollal. Vigye fel reggel és este a ragyogóbb, egyenletesebb megjelenésű arcszín támogatására."
+          }
+        ]
+      },
+      {
+        "q": "Hogyan használjam?",
+        "a": [
+          {
+            "text": "Vigyél fel két, négy cseppet tiszta, száraz bőrre, reggel és este. Folytasd hidratálóval. Ha új vagy az aktív bőrápolásban, az első héten kezdj napi egyszeri használattal, majd építs fel a napi kétszerire."
+          }
+        ]
+      },
+      {
+        "q": "Hogyan kapom meg a személyes tervemet?",
+        "a": [
+          {
+            "text": "Töltsd ki a "
+          },
+          {
+            "text": "bőrkvízt",
+            "href": "/quiz"
+          },
+          {
+            "text": ". A válaszaid személyes tervet építenek, beleértve azt is, hogyan kezdj lassan, és mikor építs feljebb."
+          }
+        ]
+      },
+      {
+        "q": "Mennyibe kerül?",
+        "a": [
+          {
+            "text": "$49 egyszeri áron, vagy $39 havonta Subscribe & Save előfizetéssel (20% kedvezmény). A Subscribe & Save bármikor szüneteltethető, kihagyható vagy lemondható."
+          }
+        ]
+      },
+      {
+        "q": "Hogyan működik a szállítás?",
+        "a": [
+          {
+            "text": "A rendeléseket a partnerünk teljesíti, és a fizetéskor megadott címre szállítjuk. Részletekért nézd meg a "
+          },
+          {
+            "text": "Szállítási szabályzatot",
+            "href": "/shipping"
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      {
+        "q": "Mi a visszaküldési szabályzatotok?",
+        "a": [
+          {
+            "text": "Minden eladás végleges. Rendelés előtt olvasd el a "
+          },
+          {
+            "text": "Visszaküldési szabályzatot",
+            "href": "/returns"
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      {
+        "q": "Milyen összetevőket tartalmaz?",
+        "a": [
+          {
+            "text": "A teljes összetevőlista az "
+          },
+          {
+            "text": "Összetevők oldalon",
+            "href": "/ingredients"
+          },
+          {
+            "text": " található. A szérum illatanyag mentes, és parabének, szulfátok, szilikonok, ásványolaj, ftalátok és gyakori allergének nélkül készült."
+          }
+        ]
+      },
+      {
+        "q": "Alkalmas az én bőrtípusomra?",
+        "a": [
+          {
+            "text": "A szérum úgy készült, hogy minden bőrtípusra alkalmas legyen. Ha bőrbetegséged vagy aggályod van, beszélj a bőrgyógyászoddal, mielőtt bármilyen új bőrápolást elkezdenél."
+          }
+        ]
+      },
+      {
+        "q": "Hogyan léphetek kapcsolatba veletek?",
+        "a": [
+          {
+            "text": "Írj a support@tavalabs.app címre, vagy használd a "
+          },
+          {
+            "text": "Kapcsolat oldalt",
+            "href": "/contact"
+          },
+          {
+            "text": "."
+          }
+        ]
+      }
+    ]
+  },
+  "ingredients": {
+    "label": "Összetevők",
+    "titleLead": "Mi van benne,",
+    "titleAccent": "és amit kihagyunk.",
+    "intro": "Itt van a PDRN Brightening Serum minden összetevője, hogy melyik mit csinál, és a teljes lista pontosan úgy, ahogyan a címkén szerepel.",
+    "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Az USA-ban készült · Minden bőrtípusra alkalmas",
+    "keyTitle": "Kulcsösszetevők",
+    "keyItems": [
+      {
+        "name": "PDRN (Polydeoxyribonucleotide)",
+        "body": "A fő aktív összetevőnk. Támogatja a ragyogóbb, egyenletesebb megjelenésű arcszínt."
+      },
+      {
+        "name": "Acetyl Hexapeptide-8",
+        "body": "Peptid, amely támogatja a feszesség és a simaság látszatát."
+      },
+      {
+        "name": "Sodium Hyaluronate (Hyaluronic Acid)",
+        "body": "Magához vonzza a nedvességet a hidratált, kényelmes bőrért."
+      },
+      {
+        "name": "Panthenol",
+        "body": "Nyugtatja és támogatja a bőrgátat."
+      },
+      {
+        "name": "Glycerin + Sodium PCA",
+        "body": "Nedvességmegkötők, amelyek segítenek a bőrnek egész nap megtartani a vizet."
+      }
+    ],
+    "fullTitle": "Teljes összetevők",
+    "howTitle": "Így használd",
+    "howBody": "Vigyél fel két, négy pumpálást tiszta, száraz bőrre, reggel és este. Folytasd hidratálóval. Kezdj napi egyszeri használattal, ha új vagy az aktív bőrápolásban.",
+    "warningTitle": "Figyelmeztetés",
+    "warningBody": "Csak külső használatra. Kerüld a szemmel való közvetlen érintkezést. Ha irritáció lép fel, hagyd abba a használatot. Gyermekektől elzárva tartandó."
   },
   "partners": {
-   "title": "Legyél a Tava Labs partnere | Ingyenes szérum a programodnak",
-   "description": "Akcelerátorok, inkubátorok, üzleti programok és befektetők: adj az alapítóidnak egy hónap ingyenes PDRN Brightening Serumot. Legyél a Tava Labs partnere."
-  },
-  "research": {
-   "title": "16 hetes kutatási eredmények | Tava Labs",
-   "description": "Mért eredmények a Tava Labs 16 hetes résztvevői programjából. Az aknés elváltozások, a hidratáltság, a bőrpír, a pigmentáció és a textúra változása a kiindulástól a 16. hétig, a teljes programprotokollal."
+    "label": "Legyél a Tava Labs partnere",
+    "titleLead": "Adj az alapítóidnak egy ingyenes hónapot:",
+    "titleAccent": "Tava Labsot.",
+    "intro": "A Tava Labs gyorsítókkal, egyetemekkel, angyalbefektetőkkel és alapítói közösségekkel működik együtt. A tagjai az első hónap PDRN Brightening Serumot ingyen kapják.",
+    "tagline": "Egy ingyen hónap tőlünk, költség és kötelezettség nélkül.",
+    "becomePartner": "Legyél partner",
+    "partnershipsContact": "Partnerségi kapcsolat",
+    "audiences": [
+      {
+        "alt": "Startup alapítók egy akcelerátor foglalkozáson",
+        "title": "Akcelerátoroknak",
+        "body": "Az alapítói az első naptól pitchelnek, demóznak és tartalmat forgatnak. Adjon nekik egy hónap napi bőrápolást, amely napi két percet vesz igénybe a program alatt.",
+        "how": "Így működik: a csoportod minden alapítójának ingyen küldünk egy üveget, a bőrkvízből készült személyes tervvel. Te egyszer bemutatsz minket; minden mást mi intézünk."
+      },
+      {
+        "alt": "Egyetemi hallgatók a kampuszon",
+        "title": "Egyetemeknek",
+        "body": "A vállalkozó hallgatók nyilvánosan építenek: pitch versenyek, demónapok, alapítói előadások és első befektetői megbeszélések. Egy ingyenes hónap Tava Labs gyakorlati, emlékezetes ajándék a programod hallgatóinak.",
+        "how": "Így működik: üvegeket biztosítunk a csoportodnak, osztályodnak vagy eseményednek, plusz egy egyszerű tájékoztatót. Nincs költség az egyetemnek, és nincs költség a hallgatóknak."
+      },
+      {
+        "alt": "Befektetői megbeszélés egy alapítóval",
+        "title": "Angyalbefektetőknek",
+        "body": "Egy ingyen hónap Tava Labs praktikus ajándék a portfóliójában lévő alapítóknak. Mi kezeljük a szállítást és a személyes terveiket.",
+        "how": "Így működik: mondd el, hány alapítót szeretnél megajándékozni, és mi megszervezzük a kézbesítést és a személyes terveiket. Nincs költség neked, és nincs költség nekik."
+      }
+    ],
+    "whyTitleLead": "Nulla költség. Nulla erőfeszítés.",
+    "whyTitleAccent": "Valódi érték.",
+    "why": [
+      {
+        "title": "Több érték az első naptól",
+        "body": "A tagjaid valódi terméket és személyes tervet kapnak, nem egy kedvezménykódot, amelyet elfelejtenek."
+      },
+      {
+        "title": "Nulla költség neked",
+        "body": "Az első hónap a mi számlánkra megy, minden megajándékozott személynél."
+      },
+      {
+        "title": "Nulla erőfeszítés neked",
+        "body": "Mi intézzük a szállítást, a bevezetést és a támogatást. Te egyetlen bemutatást teszel."
+      },
+      {
+        "title": "Ajándék, amelyet tényleg használni fognak",
+        "body": "Egy lépés, reggel és este. Azért illik egy alapító napirendjébe, mert arra tervezték."
+      }
+    ],
+    "formulationTitle": "Ezen összetevők nélkül készült.",
+    "formulationSub": "A szérum azok nélkül az összetevők nélkül készült, amelyekről a tagjaid a legtöbbet kérdeznek:",
+    "stepsTitle": "Hogyan működik egy partnerség",
+    "steps": [
+      {
+        "title": "Vedd fel a kapcsolatot",
+        "body": "Mesélj a programodról, és arról, hány embert szeretnél megajándékozni."
+      },
+      {
+        "title": "Mi megszervezzük az ajándékot",
+        "body": "Elküldjük a szérumot, és mindenki személyes tervét beállítjuk a bőrkvízből."
+      },
+      {
+        "title": "Te adod az ajándékot",
+        "body": "A tagjai egy ingyen hónapot kapnak a szérumból, minden dobozban egy köszönő üzenettel tőlünk."
+      }
+    ],
+    "closingTitleLead": "Adjon alapítóinak egy",
+    "closingTitleAccent": "ingyen hónapot.",
+    "closingSegments": [
+      {
+        "text": "Írj nekünk: "
+      },
+      {
+        "text": "talia@tavalabs.app",
+        "href": "mailto:talia@tavalabs.app"
+      },
+      {
+        "text": " vagy hívj minket: "
+      },
+      {
+        "text": "909-906-1308",
+        "href": "tel:+19099061308"
+      },
+      {
+        "text": ", és beállítjuk."
+      }
+    ]
   },
   "blog": {
-   "title": "The Tava Journal | Bőr, alvás és stressz alapítóknak",
-   "description": "Alvástudomány, stresszkutatás és bőr-egészség alapítóknak és cégtulajdonosoknak, plusz gyakorlati rutinok, hogy kipihentnek nézzen ki a munkában."
+    "label": "The Tava Journal",
+    "titleLead": "Alvás és stressz kutatás",
+    "titleAccent": "alapítóknak",
+    "sub": "Cikkek alvástudományról, stresszkutatásról és bőr-egészségről alapítóknak és cégtulajdonosoknak.",
+    "readStory": "Olvasd el a történetet"
   },
-  "quiz": {
-   "title": "Bőrkvíz | Építsd fel a személyes szérumtervedet | Tava Labs",
-   "description": "Válaszolj néhány gyors kérdésre, és építsd fel a személyes tervedet a PDRN Brightening Serum köré. Egy szérum, naponta kétszer, a bőrödhöz és a céljaidhoz igazítva."
-  },
-  "checkoutSuccess": {
-   "title": "Rendelés visszaigazolva | A PDRN Brightening Serumod | Tava Labs",
-   "description": "A Tava Labs PDRN Brightening Serum rendelése megerősítve. Az igénylési kódja összeköti ezt a vásárlást az alkalmazással, ahol láthatja a tervét, a kvíz válaszait és a rendelését."
-  },
-  "checkoutCancel": {
-   "title": "Fizetés megszakítva | Nem történt terhelés | Tava Labs",
-   "description": "Nem történt terhelés. A Tava Labs terve és válaszai mentve vannak, így később befejezheti a rendelését, amikor készen áll."
-  },
-  "login": {
-   "title": "Bejelentkezés | Tava Labs",
-   "description": "Jelentkezz be a Tava Labs fiókodba: a terved, a rendeléseid, a rutinod és a támogatás, ugyanahhoz az e-mail címhez kötve, mint a mobilalkalmazás."
+  "research": {
+    "pill": "Kutatási sorozat 001 · Résztvevői eredmények",
+    "h1Lead": "16 hetes betekintés a mért",
+    "h1Accent": "bőrváltozásokról.",
+    "heroSub": "Prospektív, nyílt jelölésű résztvevői program, amely személyre szabott bőrápolási rutint, kiegészítőket és életmód tanácsadást egyesít. Ezen az oldalon minden szám a jelentésből származik, a kiinduláskor és a 16. héten mérve.",
+    "chips": [
+      "Prospektív és nyílt jelölésű",
+      "Egykarú",
+      "Orvosilag felügyelt",
+      "Személyes klinikai kutatóhely"
+    ],
+    "headlineLabel": "Fő eredmény",
+    "headlineTitle": "Az összes aknés elváltozás 16.8 ról 6.2 re csökkent",
+    "slopeAria": "Lejtődiagram, amely az összes aknés elváltozást mutatja 16.8 ról a kiinduláskor 6.2 re a 16. héten",
+    "slopeBaseline": "Kiindulás 16.8",
+    "slopeWeek": "16. hét · 6.2",
+    "slopeNote": "Egyenes vonal csak a két mért pont között. A jelentés nem közölt eredményértékeket a 4., 8. vagy 12. hétre.",
+    "badges": [
+      {
+        "big": "60 százalékkal magasabb",
+        "small": "Bőrhidratáltság, 29.4 AU-ról 47.1 AU-ra"
+      },
+      {
+        "big": "52 százalékkal alacsonyabb",
+        "small": "Klinikai textúra pontszám, 4 ből 2.7 ről 4 ből 1.3 ra"
+      }
+    ],
+    "statsLabels": [
+      "Hetek a programban",
+      "Beiratkozott felnőttek",
+      "Minden vizitet teljesítő emberek",
+      "Teljesítési arány"
+    ],
+    "percentWord": "százalék",
+    "resultsBg": "Eredmények",
+    "resultsLabel": "Átlagos változás · Kiindulástól a 16. hétig",
+    "resultsTitle": "Mi változott, egyszerű számokban.",
+    "resultsSub": "Eredmények annál a 84 résztvevőnél, aki minden vizitet teljesített. Minden kártya azt a két időpontot hasonlítja össze, amelyet a vizsgálat ténylegesen mért.",
+    "baseline": "Kiindulás",
+    "week16": "16. hét",
+    "slopeFoot": "Kiindulástól a 16. hétig",
+    "results": [
+      {
+        "title": "Összes aknés elváltozás",
+        "change": "63 százalékkal alacsonyabb",
+        "note": "Bőrgyógyász által számolt elváltozások"
+      },
+      {
+        "title": "Bőrhidratáltság",
+        "change": "60 százalékkal magasabb",
+        "note": "Corneometer mérés AU-ban"
+      },
+      {
+        "title": "Erythema és bőrpír index",
+        "change": "30 százalékkal alacsonyabb",
+        "note": "Chromameter index"
+      },
+      {
+        "title": "Melanin és pigmentációs index",
+        "change": "25 százalékkal alacsonyabb",
+        "note": "Chromameter index"
+      },
+      {
+        "title": "Klinikai textúra pontszám",
+        "change": "52 százalékkal alacsonyabb",
+        "note": "0, 4 skálán osztályozva"
+      }
+    ],
+    "peopleBg": "Emberek",
+    "participantsLabel": "Kik vettek részt",
+    "participantsTitle": "Kik vettek részt a programban.",
+    "participantsSub": "Öt vizit a program során, a kiindulástól a 16. hétig.",
+    "ageLabel": "Átlagéletkor",
+    "ageSuffix": "Éves · Tartomány: 20, 48",
+    "visitTimeline": "Vizit idővonal",
+    "visits": [
+      {
+        "name": "Kiindulás",
+        "desc": "Szűrés, mérések és fényképezés"
+      },
+      {
+        "name": "4. hét",
+        "desc": "Nyomon követő értékelés"
+      },
+      {
+        "name": "8. hét",
+        "desc": "Nyomon követő értékelés"
+      },
+      {
+        "name": "12. hét",
+        "desc": "Nyomon követő értékelés"
+      },
+      {
+        "name": "16. hét",
+        "desc": "Végső mérések és fényképezés"
+      }
+    ],
+    "genderTitle": "Nemek megoszlása",
+    "genderAria": "Nemek megoszlása fánkdiagramon, 74 százalék nő, 24 százalék férfi, 2 százalék nem bináris",
+    "gender": [
+      {
+        "label": "Nő",
+        "pct": "74 százalék"
+      },
+      {
+        "label": "Férfi",
+        "pct": "24 százalék"
+      },
+      {
+        "label": "Nem bináris",
+        "pct": "2 százalék"
+      }
+    ],
+    "donutNote": "A fánkdiagram a jelentett megoszláshoz animálódik, amikor a nézetbe görget.",
+    "concernsTitle": "Kiindulási bőrproblémák",
+    "concerns": [
+      "Gyulladás utáni hiperpigmentáció",
+      "Egyenetlen textúra és érdesség",
+      "Gyulladásos akne",
+      "Arcbőrpír és érzékenység",
+      "Szem alatti sötét karikák",
+      "Szárazság és károsodott gát",
+      "Finom vonalak és korai fotoöregedés"
+    ],
+    "concernsNote": "A résztvevők több problémát is jelenthettek, így ezek az arányok nem adódnak össze 100 százalékra.",
+    "programBg": "Program",
+    "programLabel": "Program és protokoll",
+    "programTitle": "A 16 hetes program, lépésről lépésre.",
+    "programSub": "A résztvevők személyes szűrést, termékkiadást, alkalmazási oktatást és nyomon követő értékeléseket kaptak egy klinikai kutatóhelyen.",
+    "morningTag": "Reggeli rutin",
+    "morningTitle": "Kezdd a napot",
+    "amSteps": [
+      "Kíméletes tisztító",
+      "C-vitamin szérum, 15 százalék",
+      "Ceramid hidratáló",
+      "Ásványi fényvédő, SPF 50"
+    ],
+    "eveningTag": "Esti rutin",
+    "eveningTitle": "Zárd a napot",
+    "pmSteps": [
+      "Kíméletes tisztító",
+      "Niacinamide 5 százalék plusz cink szérum",
+      "Peptid gátkrém",
+      "Retinol 0.3 százalék, a 2. héten bevezetve és klinikai irányítás mellett adagolva"
+    ],
+    "routineNote": "A retinolt heti 3, 5 éjszaka használták a kezdeti kéthetes felépítési időszak után. Szükség szerint 2 százalékos szalicilsavat használtak az aktív elváltozásokra.",
+    "supplementLabel": "Kiegészítő rutin",
+    "supplementTitle": "Tava Skin Complex",
+    "supplementSub": "Két kapszula naponta reggelivel. A feltüntetett mennyiségek két kapszulás adagonként értendők.",
+    "supplements": [
+      "Vitamin C",
+      "Zinc",
+      "Niacinamide",
+      "Astaxanthin",
+      "Curcumin phytosome",
+      "Lactobacillus probiotikus keverék"
+    ],
+    "supplementNote": "Opcionális kiegészítés: Omega 3, egy lágykapszula naponta.",
+    "nutritionTitle": "Táplálkozási útmutatás",
+    "nutritionItems": [
+      "Legalább 2.5 L víz naponta",
+      "Zöldségek, bogyós gyümölcsök és omega 3 ban gazdag ételek",
+      "Korlátozd a hozzáadott cukrot és a magas glikémiás ételeket",
+      "Opcionális kéthetes alacsony tejtermékes, alacsony cukros újraindítás",
+      "Kiindulási tanácsadás regisztrált dietetikussal"
+    ],
+    "lifestyleTitle": "Életmód célok",
+    "lifestyleItems": [
+      "7, 9 óra alvás",
+      "Legalább 150 perc mérsékelt aktivitás hetente",
+      "Ötperces napi légzőgyakorlat",
+      "Alvás hetente naplózva",
+      "Hidratálási és fényvédő szokások áttekintése a viziteken"
+    ],
+    "adherenceLabel": "Programkövetés",
+    "adherenceTitle": "Mennyire maradtak az emberek a tervnél.",
+    "adherenceSub": "A követés a teljes 16 hét során, ahogyan a jelentésben rögzítették.",
+    "adherence": [
+      "Általános követés",
+      "Kiegészítők követése",
+      "Helyi kezelés követése"
+    ],
+    "adherenceAria": "{label}, {val} százalék",
+    "adherenceFoot": "A 16 hetes program során",
+    "safetyBg": "Biztonság",
+    "safetyLabel": "Jelentett mellékhatások",
+    "safetyTitle": "Amit a résztvevők jelentettek.",
+    "safetySub": "Az egyes hatásokat a program során jelentő résztvevők aránya.",
+    "sideEffectsTitle": "Mellékhatások",
+    "sideEffects": [
+      "Enyhe szárazság vagy hámlás",
+      "Átmeneti akne fellángolás",
+      "Enyhe gyomor és bélrendszeri kellemetlenség"
+    ],
+    "withdrawalsTitle": "Kilépések",
+    "withdrawalsSub": "8 résztvevő lépett ki a 92 beiratkozott közül.",
+    "withdrawals": [
+      {
+        "label": "Időbeosztási ütközések",
+        "value": "5 ember"
+      },
+      {
+        "label": "Enyhe mellékhatások",
+        "value": "2 ember"
+      },
+      {
+        "label": "Elveszett a nyomon követésből",
+        "value": "1 ember"
+      }
+    ],
+    "alertTitle": "Nem jelentettek súlyos nemkívánatos eseményt.",
+    "alertBody": "Ez a mondat a jelentésben szerepel az ezen az oldalon felsorolt enyhe hatások mellett. Pontosan úgy szerepel itt, ahogyan jelentették.",
+    "photoLabel": "Vizuális dokumentáció",
+    "photoTitle": "Résztvevői fénykép összehasonlítások.",
+    "photoSub": "Egymás melletti fényképek a négy hónapos programból. Minden pár bal oldali képe a kiindulást, a jobb oldali a 16. hetet mutatta. Ezen az oldalon nem szerepel résztvevői fénykép.",
+    "participant": "{initial} résztvevő",
+    "docViews": [
+      "Oldalprofil nézet",
+      "Szembőli nézet",
+      "Szembőli nézet szemüveggel",
+      "Közeli arc nézet"
+    ],
+    "baselineAndWeek": "Kiindulás és 16. hét",
+    "photoProtocolTitle": "Fényképezési protokoll",
+    "photoProtocol": "Szabványosított felvétel a kiinduláskor és a nyomon követéskor rögzített kamerabeállítással, egységes látható és keresztpolarizált világítással, szembőli, 45 fokos és profil szögekkel, valamint színkalibrált háttérrel.",
+    "methodsLabel": "Hogyan történtek a mérések",
+    "methodsTitle": "Klinikai mérések",
+    "methods": [
+      "Bőrgyógyász által számolt aknés elváltozások",
+      "Corneometer hidratálás",
+      "Chromameter bőrpír és melanin indexek",
+      "Textúra osztályozás 0, 4 skálán",
+      "Szabványosított fényképezés"
+    ],
+    "factsLabel": "Vizsgálati terv",
+    "factsTitle": "A terv egy pillantásra.",
+    "facts": [
+      {
+        "k": "Terv",
+        "v": "Prospektív, nyílt jelölésű, egykarú"
+      },
+      {
+        "k": "Helyszín",
+        "v": "Személyes, orvosilag felügyelt"
+      },
+      {
+        "k": "Értékelések",
+        "v": "Kiindulás, plusz 4., 8., 12., 16. hét"
+      },
+      {
+        "k": "Befejezte",
+        "v": "92 beiratkozottból 84 · 91 százalék"
+      }
+    ],
+    "source": "Forrás: Tava Labs Participant Outcomes, Research Series 001, 16 hetes résztvevői program. Ez az oldal csak a jelentés számait mutatja be, a kiindulással és a 16. héttel mint a két mért eredmény időponttal."
   },
   "account": {
-   "title": "A fiókod | Tava Labs",
-   "description": "A Tava Labs fiókod a weben: a terved, a rendeléseid, a rutinod és a támogatás, ugyanahhoz az e-mail címhez kötve, mint a mobilalkalmazás."
-  },
-  "terms": {
-   "title": "Felhasználási feltételek | Tava Labs",
-   "description": "A feltételek, amelyek a tavalabs.app használatát és a PDRN Brightening Serum megvásárlását szabályozzák a Tava Labs, LLC vállalattól, beleértve a minden eladás végleges szabályunkat."
-  },
-  "privacy": {
-   "title": "Adatvédelmi szabályzat | Tava Labs",
-   "description": "Hogyan gyűjti, használja és védi a Tava Labs az adataidat, amikor meglátogatod a tavalabs.app oldalt, kitöltöd a bőrkvízt vagy megrendeled a PDRN Brightening Serumot."
-  },
-  "returns": {
-   "title": "Visszaküldési és visszatérítési szabályzat | Tava Labs",
-   "description": "A Tava Labs visszaküldési és visszatérítési szabályzata a PDRN Brightening Serum rendelésekre, beleértve a minden eladás végleges feltételeinket és azt, hogyan érheted el a támogatást."
-  },
-  "cookies": {
-   "title": "Cookie szabályzat | Tava Labs",
-   "description": "Hogyan használ a Tava Labs weboldala cookie-kat és hasonló eszközöket, amikor meglátogatod a tavalabs.app oldalt, mit tárolnak, és hogyan szabályozhatod őket."
-  },
-  "shipping": {
-   "title": "Szállítási szabályzat | Tava Labs",
-   "description": "A Tava Labs szállítási szabályzata a PDRN Brightening Serum rendelésekre: feldolgozási idők, szállítási becslések, nyomon követés és szállítási területek."
-  }
- },
- "chrome": {
-  "homeAria": "Tava Labs kezdőlap",
-  "primaryNavAria": "Elsődleges",
-  "mobileNavAria": "Mobil",
-  "navSerum": "A szérum",
-  "navAbout": "Rólunk",
-  "navIngredients": "Összetevők",
-  "navFaqs": "GYIK",
-  "navBlog": "Blog",
-  "navContact": "Kapcsolat",
-  "login": "Bejelentkezés",
-  "addToRoutine": "Hozzáadás a rutinhoz",
-  "openMenu": "Menü megnyitása",
-  "closeMenu": "Menü bezárása",
-  "language": "Nyelv",
-  "tagline": "PDRN Brightening Serum alapítóknak",
-  "shopHeading": "Vásárlás",
-  "contactHeading": "Kapcsolat",
-  "infoHeading": "Információ",
-  "legalHeading": "Jogi",
-  "footerSerum": "PDRN Brightening Serum",
-  "footerIngredients": "Összetevők",
-  "contactLinks": {
-   "general": "Általános",
-   "wholesale": "Nagykereskedelem",
-   "salesSupport": "Értékesítési támogatás",
-   "productSupport": "Terméktámogatás",
-   "pr": "PR"
-  },
-  "contactEmails": {
-   "supportLabel": "Rendelések és terméksegítség",
-   "generalLabel": "Általános kapcsolat"
-  },
-  "infoLinks": {
-   "about": "Rólunk",
-   "partners": "Partnerek",
-   "ingredients": "Összetevők",
-   "faqs": "GYIK",
-   "blog": "Blog",
-   "research": "Kutatás"
-  },
-  "newsletterHeading": "Kapjon Tava Labs frissítéseket e-mailben",
-  "newsletter": {
-   "placeholder": "Az e-mail címed",
-   "subscribe": "Feliratkozás",
-   "sending": "Küldés...",
-   "done": "Feliratkozott. Köszönjük.",
-   "error": "Valami hiba történt, próbáld újra."
-  },
-  "disclaimer1": "A PDRN Brightening Serum kozmetikai termék. Nem szolgál betegségek diagnosztizálására, kezelésére, gyógyítására vagy megelőzésére. Az egyéni eredmények eltérhetnek.",
-  "disclaimer2": "Minden eladás végleges. Rendelés előtt olvasd el a Visszaküldési szabályzatunkat.",
-  "copyright": "© 2026 Tava Labs · PDRN Brightening Serum alapítóknak",
-  "notFoundLabel": "Tava Labs",
-  "notFoundTitle": "Az oldal nem található",
-  "notFoundBody": "Ez az oldal nincs itt. Lehet, hogy átköltözött, vagy a cím hiányos.",
-  "notFoundHome": "Vissza a kezdőlapra",
-  "notFoundShop": "Vásárold meg a PDRN Brightening Serumot",
-  "legalLinks": {
-   "terms": "Felhasználási feltételek",
-   "privacy": "Adatvédelmi szabályzat",
-   "returns": "Visszaküldési szabályzat",
-   "cookies": "Cookie szabályzat",
-   "shipping": "Szállítási szabályzat"
-  }
- },
- "hero": {
-  "ariaLabel": "PDRN Brightening Serum",
-  "pill": "Alapítóknak és cégtulajdonosoknak",
-  "line1": "Napi arcszérum a",
-  "line2": "ragyogóbb, simább bőrért.",
-  "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Vigyen fel két-négy cseppet reggel és este. $49 egyszeri áron vagy $39 havonta.",
-  "cardAria": "PDRN Brightening Serum, a termékoldal",
-  "onSetPill": "Kamera előtt",
-  "onSetCaption": "Forgatáshoz és videóhívásokhoz",
-  "onSetAlt": "Alapító egy stúdióforgatáson ülve, a kamerába nézve",
-  "morningPill": "Reggeli rutin",
-  "morningCaption": "Vigye fel a tükör előtt minden reggel",
-  "morningAlt": "Alapító szérumot visz fel egy fürdőszobai tükör előtt reggeli fényben",
-  "widePill": "Nappal és éjszaka",
-  "wideHead": "Egy üveg, reggel és este használva.",
-  "priceLine": "$49 egyszeri áron vagy $39 havonta",
-  "talia": {
-   "baseline": "Kiindulás",
-   "week16": "16. hét",
-   "statBig": "63% kal kevesebb",
-   "statCap": "Aknés elváltozások",
-   "statNote": "Átlagos változás a 16 hetes résztvevői programban",
-   "alt": "Talia Kade, a Tava Labs kutatója, fehér laborköpenyben",
-   "slopeAria": "Trendvonal a kiindulási 16.8 értékről a 16. heti 6.2 értékre"
-  }
- },
- "home": {
-  "introTitleLead": "Ragyogóbb, hidratált,",
-  "introTitleAccent": "egészségesnek tűnő bőr",
-  "introBody": "Az alapítók és cégtulajdonosok a napjaikat megbeszéléseken, értékesítési hívásokon és rögzített videókban töltik. Az arca képernyőn és a szobában van mindezek során. A PDRN Brightening Serum egy könnyű lépés PDRN-nel, peptidekkel és hialuronsavval. Gyorsan beszívódik, és segít a bőrnek ragyogóbbnak, hidratáltnak és simának látszani. Két perc, naponta kétszer.",
-  "marqueeTagline": "Egy szérum, reggel és este",
-  "marqueeSlogan": "Alapítóknak és cégtulajdonosoknak készült",
-  "buildersTitle": "Alapítóknak és cégtulajdonosoknak készült",
-  "buildersTagline": "Építsd a vállalkozásodat. Ne hanyagold el magad.",
-  "buildersBody": "Az alapítók és cégtulajdonosok egész nap prezentálnak. Személyesen pitchelnek befektetőknek, videóhívásokon értékesítenek, és videókat rögzítenek ügyfeleknek. A tiszta és kipihent megjelenés része a vállalkozás jó bemutatásának. Egy rövid napi bőrápolási rutin egy jó ruhatár és egy megbízható laptop mellett áll alapvető karbantartásként. A PDRN Brightening Serum két percet vesz igénybe, reggel és este.",
-  "pitchAlt": "Alapító az ötletét pitcheli egy befektetőnek",
-  "pitchTitle": "A pitchben",
-  "pitchBody": "Amikor személyesen pitchel befektetőknek, Önt látják, mielőtt a diáit látnák. Egy napi szérumrutin segít a bőrének ragyogónak, hidratáltnak és kipihentnek látszani aznap.",
-  "cameraAlt": "Alapító egy kamera előtt beszél",
-  "cameraTitle": "Kamerán",
-  "cameraBody": "Egy videóforgatáson, podcaston vagy értékesítési híváson a kamera közelről mutatja a fáradt bőrt. Egy kétperces rutin reggel és este segít a bőrének kipihentnek látszani, mielőtt rögzít.",
-  "maintenanceTitle": "Egy szérum az egész rutin.",
-  "maintenanceBody": "Vigyen fel két-négy csepp PDRN Brightening Serumot tiszta, száraz bőrre, reggel és este, majd kövesse hidratálókrémmel. Az egész rutin körülbelül két percet vesz igénybe naponta.",
-  "motionTitle": "Nézzen ügyfélvideókat",
-  "motionBody": "Alapítók és alkotók, akik a PDRN Brightening Serumot használják, videón rögzítve.",
-  "playVideo": "Videó lejátszása",
-  "videoPlayer": "Videólejátszó",
-  "closeVideo": "Videó bezárása",
-  "freeFromTitleLead": "Ami nincs",
-  "freeFromTitleAccent": "a formulában.",
-  "freeFromSub": "Az is számít, amit kihagyunk, nemcsak az, amit beleteszünk.",
-  "freeFromItems": [
-   {
-    "name": "Állatkísérlet mentes",
-    "blurb": "Soha nem teszteljük állatokon."
-   },
-   {
-    "name": "Illatanyag mentes",
-    "blurb": "Nincsenek hozzáadott parfümök vagy szintetikus illatok."
-   },
-   {
-    "name": "Ásványolaj mentes",
-    "blurb": "Nincs ásványolaj vagy petróleum alapú töltőanyag."
-   },
-   {
-    "name": "Ftalátmentes",
-    "blurb": "Nincsenek ftalátok a formulában."
-   },
-   {
-    "name": "Szilikonmentes",
-    "blurb": "Nincsenek szilikonok, amelyek bevonnák a bőrödet."
-   },
-   {
-    "name": "Szulfátmentes",
-    "blurb": "Nincsenek erős szulfátok. Kíméletes a bőrhöz."
-   },
-   {
-    "name": "Allergénmentes",
-    "blurb": "Gyakori allergének nélkül készült."
-   },
-   {
-    "name": "Alkoholmentes",
-    "blurb": "Nincsenek szárító alkoholok."
-   }
-  ],
-  "founderLabel": "Üzenet az alapítónktól",
-  "founderQuote": "„Egy szérum, két perc, reggel és este. Ez az egész rutin.”",
-  "founderBody1": "Ez a Tava Labs mögötti ötlet. A PDRN Brightening Serum az az egyetlen lépés, amely köré a rutin épül: két perc, naponta kétszer, reggel és este.",
-  "founderBody2": "Nézze meg a videót, hogy saját szavainkkal hallja, miért készítettük.",
-  "founderPhilosophy": "A Tava Labs filozófiája",
-  "founderVideoAria": "A Tava Labs videó, miért készítettük a PDRN Brightening Serumot",
-  "shopSerum": "Vásárold meg a szérumot",
-  "journalTitle": "The Tava Journal",
-  "journalSub": "Cikkek alvásról, stresszről és bőrről alapítóknak.",
-  "readJournal": "Olvasd a The Tava Journalt",
-  "readStory": "Olvasd el a történetet"
- },
- "appTeaser": {
-  "label": "Hamarosan",
-  "lead": "A rutinja, a laboreredményei és a rendelései, mind a Tava Labs alkalmazásban.",
-  "headlineLead": "A széruma, laborjai és rendelései",
-  "headlineTrail": "egy alkalmazásban.",
-  "scroll": "Görgetés",
-  "caption": "A Tava Labs alkalmazás egy helyre hozza a szérumtervedet, a napi rutinodat, a laborpaneljeidet és eredményeidet, valamint a rendeléseidet, iPhone-ra tervezve.",
-  "features": [
-   {
-    "title": "Napi rutin",
-    "desc": "Reggeli és esti alkalmak, lépésről lépésre kipipálva."
-   },
-   {
-    "title": "Sorozatok és haladás",
-    "desc": "Az aktuális sorozata és a tervéből hátralévő napok."
-   },
-   {
-    "title": "Laborpanelek és eredmények",
-    "desc": "Panelek, eredmények és tartományok a zsebedben."
-   },
-   {
-    "title": "Rendelések és utánpótlás",
-    "desc": "Tekintse meg rendeléseit és utántöltési dátumait egy helyen."
-   }
-  ],
-  "phone": {
-   "today": "Ma",
-   "goodMorning": "Jó reggelt",
-   "dayLine": "30 ból a 12. nap · még 18 nap az első teljes hónapodig",
-   "stepsToGo": "Ma: 6 rutinlépésből 4 van még hátra",
-   "morningRoutine": "Reggeli rutin",
-   "amDrops": "Reggel · 3 csepp",
-   "clinicalReview": "Klinikai értékelés",
-   "resultsIn": "Megérkeztek az eredményeid",
-   "optimal": "4 optimális",
-   "inRange": "2 tartományban",
-   "toReview": "1 átnézendő",
-   "tabs": {
-    "today": "Ma",
-    "shop": "Bolt",
-    "lab": "Labor",
-    "orders": "Rendelések",
-    "profile": "Profil"
-   },
-   "steps": [
-    {
-     "title": "Tisztítás",
-     "detail": "Kíméletes tisztító, finoman töröld szárazra"
+    "signedInAs": "Bejelentkezve mint",
+    "signOut": "Kijelentkezés",
+    "loading": "A fiókod betöltése…",
+    "failedTitle": "Nem tudtuk betölteni a fiókodat",
+    "failedSegments": [
+      {
+        "text": "Ellenőrizd a kapcsolatodat, és próbáld újra. Ha továbbra is előfordul, írj nekünk: "
+      },
+      {
+        "text": "support@tavalabs.app",
+        "href": "mailto:support@tavalabs.app"
+      },
+      {
+        "text": " és elintézzük."
+      }
+    ],
+    "tryAgain": "Próbáld újra",
+    "tabs": {
+      "today": "Ma",
+      "orders": "Rendelések",
+      "shop": "Bolt",
+      "lab": "Labor",
+      "support": "Támogatás"
     },
-    {
-     "title": "Vigyél fel 3 csepp szérumot",
-     "detail": "Nyomkodd az arcodba és a nyakadba"
+    "greetings": {
+      "morning": "Jó reggelt",
+      "afternoon": "Jó délutánt",
+      "evening": "Jó estét"
     },
-    {
-     "title": "Hidratálás + SPF",
-     "detail": "SPF 30 vagy magasabb"
-    }
-   ]
-  }
- },
- "categoryChrome": {
-  "readMore": "Tovább olvasom +",
-  "showLess": "Kevesebb megjelenítése −",
-  "prevProducts": "Előző termékek",
-  "nextProducts": "Következő termékek",
-  "goTo": "Ugrás: {title}",
-  "explore": "Felfedezés"
- },
- "categories": {
-  "skincare": {
-   "eyebrow": "BŐRÁPOLÁS",
-   "heroTitleLead": "A következő megbeszélésed",
-   "heroTitleAccent": "veled kezdődik.",
-   "heroCopy": "Vállalkozóknak készült, akik pitchelnek, értékesítenek és kamera előtt rögzítenek. Egy napi szérum, a PDRN köré építve, olyan bőrért, amely ragyogónak és kipihentnek látszik a szobában és a kamerán.",
-   "heroFinePrint": "Kozmetikai bőrápolás. Nem szolgál betegségek diagnosztizálására, kezelésére, gyógyítására vagy megelőzésére.",
-   "stamp": "BŐRÁPOLÁS ALAPÍTÓKNAK",
-   "primaryCta": "Hozzáadás a rutinhoz",
-   "secondaryCta": "Nézd meg az összetevőket",
-   "optionsEyebrow": "A KÍNÁLAT",
-   "optionsTitleLead": "Egy szérum.",
-   "optionsTitleAccent": "Nincs polcnyi találgatás.",
-   "optionsCopy": "Kezdd a szérummal. A termékcsalád többi része úton van.",
-   "products": [
-    {
-     "title": "PDRN Brightening Serum",
-     "subtitle": "PDRN, peptidek és Sodium Hyaluronate",
-     "unit": "egyszeri",
-     "imageAlt": "Tava Labs PDRN Brightening Serum üveg",
-     "badges": [
-      "Bestseller"
-     ],
-     "description": "A napi szérum a ragyogóbb, hidratált, egészséges megjelenésű bőrért. $39 havonta Subscribe and Save előfizetéssel.",
-     "linkLabel": "Nézd meg a szérumot"
+    "weekInitials": [
+      "V",
+      "H",
+      "K",
+      "Sze",
+      "Cs",
+      "P",
+      "Szo"
+    ],
+    "streakLine": "{streak} napos sorozat · 30 ból a {day}. nap{bottle}",
+    "dayLine": "30 ból a {day}. nap{bottle}. Teljesítsd a mai rutinodat az alkalmazásban, hogy elindítsd a sorozatodat.",
+    "bottleSuffix": " · {days} nap van hátra az üvegből",
+    "progressLine": "30 ból a {day}. nap · {left} nap van hátra az első teljes hónapodig",
+    "stepsToGo": "Ma: {total} rutinlépésből {n} van még hátra.",
+    "todayComplete": "A mai nap kész. A következő napod már sorban áll.",
+    "planEyebrow": "A terved",
+    "planDefault": "Töltsd ki a bőrkvízt, és a válaszaidból épített személyes terved itt és az alkalmazásban is élni fog.",
+    "retakeQuiz": "Bőrkvíz újratöltése",
+    "takeQuiz": "Töltsd ki a bőrkvízt",
+    "chipLabels": {
+      "goal": "Cél",
+      "skinType": "Bőrtípus",
+      "concern": "Probléma",
+      "routine": "Rutin",
+      "plan": "Terv",
+      "routineTimes": "Rutin időpontok"
     },
-    {
-     "title": "Peptide Moisturizer",
-     "subtitle": "1.7 fl oz (50ml)",
-     "imageAlt": "Tava Labs Peptide Moisturizer fehér tubus rózsaszín fröccsenéssel",
-     "badges": [
-      "Hamarosan"
-     ],
-     "description": "Peptides hidratáló, amely a ráncokat célozza és hidratál, olyan bőrre készült, amelynek egész nap összeszedettnek kell tűnnie."
+    "labelMaps": {
+      "goal": {
+        "radiance": "Ragyogás",
+        "fine_lines": "Finom vonalak",
+        "hydration": "Hidratálás",
+        "even_tone": "Egyenletes tónus"
+      },
+      "skinType": {
+        "dry": "Száraz",
+        "oily": "Zsíros",
+        "combination": "Kombinált",
+        "sensitive": "Érzékeny",
+        "not_sure": "Nem biztos"
+      },
+      "concern": {
+        "dullness": "Fakóság",
+        "fine_lines": "Finom vonalak",
+        "uneven_tone": "Egyenetlen tónus",
+        "texture": "Textúra",
+        "dryness": "Szárazság"
+      },
+      "sensitivity": {
+        "often": "Gyakran érzékeny",
+        "sometimes": "Néha érzékeny",
+        "never": "Ritkán érzékeny"
+      },
+      "routine": {
+        "cleanser_only": "Csak tisztító",
+        "few_products": "Néhány termék",
+        "full_routine": "Teljes rutin"
+      },
+      "ramp": {
+        "gentle": "Kíméletes felépítés",
+        "standard": "Szokásos felépítés",
+        "full": "Teljes erősség"
+      }
     },
-    {
-     "title": "Peptide Eye Cream",
-     "subtitle": "1 fl oz (30ml)",
-     "imageAlt": "Tava Labs Peptide Eye Cream fehér tubus pezsgőszínű cseppel",
-     "badges": [
-      "Hamarosan"
-     ],
-     "description": "Csökkenti a szem alatti duzzanat láthatóságát, és a szem környéki ráncokat célozza, a kipihent kamerás megjelenésért."
+    "morningEyebrow": "Reggeli rutin",
+    "nightEyebrow": "Esti rutin",
+    "amTitle": "Reggel · 3 csepp",
+    "pmTitle": "Este · 3 csepp",
+    "amSteps": [
+      {
+        "title": "Tisztítás",
+        "detail": "Kíméletes tisztító, finoman töröld szárazra"
+      },
+      {
+        "title": "Vigyél fel 3 csepp szérumot",
+        "detail": "Nyomkodd az arcodba és a nyakadba"
+      },
+      {
+        "title": "Hidratálás + SPF",
+        "detail": "SPF 30 vagy magasabb"
+      }
+    ],
+    "pmSteps": [
+      {
+        "title": "Dupla tisztítás",
+        "detail": "Távolítsd el az SPF-et és a sminket"
+      },
+      {
+        "title": "Vigyél fel 3 csepp szérumot",
+        "detail": "Retinol vagy kezelések előtt"
+      },
+      {
+        "title": "Éjszakai hidratáló",
+        "detail": "Zárd be a hidratálást"
+      }
+    ],
+    "stepsNote": "A lépéseket a mobilalkalmazásban pipálod ki. Ez az oldal a mai rutinodat mutatja, és azt, amit az alkalmazás mára eddig rögzített.",
+    "ordersEyebrow": "Rendelések",
+    "ordersTitle": "A rendeléseid",
+    "ordersEmpty": "Még nincsenek rendelések. Amikor vásárolsz, a rendeléseid és a nyomon követésük itt és az alkalmazásban is megjelennek.",
+    "paid": "Kifizetve",
+    "paymentFailed": "Sikertelen fizetés",
+    "unpaid": "Kifizetetlen",
+    "statusLabels": [
+      "Megrendelve",
+      "Feladva",
+      "Kiszállítás alatt",
+      "Kézbesítve"
+    ],
+    "subscription": "Előfizetés",
+    "carrierFallback": "Fuvarozó",
+    "trackPackage": "Csomag nyomon követése",
+    "claimEyebrow": "Igénylőkód",
+    "claimTitle": "Vásárlás összekapcsolása az alkalmazással",
+    "claimForOrder": "Az igénylőkódod a {order} rendeléshez",
+    "claimYourCode": "Az igénylőkódod",
+    "claimValidUntil": " (érvényes: {date})",
+    "claimEnter": ". Add meg a Tava alkalmazásban a Rendelések alatt, hogy összekapcsold ezt a vásárlást az alkalmazás fiókoddal:",
+    "claimWebNote": "Itt a weben nincs szükséged a kódra. A fizetéskor használt e-mail címmel bejelentkezve a rendeléseid és a terved már fent megjelennek.",
+    "claimEmpty": "A kvízen vagy ezen az oldalon keresztül vásároltál? A visszaigazoló e-mailed és a fizetés utáni oldal egy igénylőkódot mutatott. Nyisd meg a Tava mobilalkalmazást, jelentkezz be, és add meg a kódot a Rendelések fülön. A vásárlásod, a terved és a kvíz válaszaid átkerülnek az alkalmazás fiókodba. Itt a weben azzal az e-mail címmel bejelentkezve, amellyel fizettél, már minden fent megjelenik. Semmi mást nem kell megadnod.",
+    "shop": {
+      "eyebrow": "PDRN Brightening Serum",
+      "title": "Vásároljon a Tava Labsnál",
+      "body": "1 fl oz (30 ml). Csökkentsd a finom vonalakat, hidratálj mélyen, állítsd vissza a ragyogást, és erősítsd a bőrt. Két, négy pumpálás, reggel és este.",
+      "subscribeLine": "Előfizetés, $39 havonta.",
+      "subscribeRest": " Minden hónapban friss üveg, automatikusan.",
+      "oneTimeLine": "Egyszeri, $49.",
+      "oneTimeRest": " Egyetlen üveg.",
+      "subscribeBtn": "Előfizetés, $39 havonta",
+      "buyOnceBtn": "Egyszeri vásárlás, $49",
+      "stripeNote": "Biztonságos fizetés a Stripe-on keresztül. A fizetést a Stripe oldalán erősíted meg."
     },
-    {
-     "title": "Skin Firming Cream",
-     "subtitle": "2 oz (56g)",
-     "imageAlt": "Tava Labs Skin Firming Cream fehér tégely arany hullám háttérrel",
-     "badges": [
-      "Hamarosan"
-     ],
-     "description": "Hialuronsav és CoQ10 egy gazdag krémben, amely feszesnek és ápoltnak mutatja a bőrt."
-    }
-   ],
-   "disclaimerLead": "A Tava Labs bőrápoló termékek kozmetikumok. Nem szolgálnak betegségek diagnosztizálására, kezelésére, gyógyítására vagy megelőzésére.",
-   "disclaimerMore": [
-    "Az egyéni eredmények eltérnek. Csak az utasítás szerint használd: két, négy csepp PDRN Brightening Serum, naponta kétszer, tiszta bőrön.",
-    "Ha irritáció lép fel, hagyd abba a használatot, és fordulj szakemberhez. Az ezen az oldalon szereplő árak a közzétételkor voltak pontosak, és változhatnak."
-   ],
-   "protocolEyebrow": "A RUTIN",
-   "protocolTitleLead": "Két perc, naponta kétszer.",
-   "protocolTitleAccent": "Ez az egész rutin.",
-   "protocolCopy": "Egy rutin, amely egyetlen szérum és egy vállalkozói napirend köré épül, korai hívások, késő éjszakák és minden más.",
-   "protocolCta": "Hozzáadás a rutinhoz",
-   "steps": [
-    {
-     "title": "Felmérés",
-     "lead": "a bőrkvízzel",
-     "body": "Válaszolj néhány gyors kérdésre a bőrödről, az alvásodról és a napirendedről, hogy a terved onnan induljon, ahol tényleg tartasz."
+    "labTab": {
+      "eyebrow": "Labor",
+      "title": "Ismerd a számaidat.",
+      "sub": "Valódi vérpanelek, a Tava fiókod alatt rendelve. Böngészd a paneleket, nézd meg minden markert rendelés előtt, és az eredményeidet közvetlenül ide kézbesítjük."
     },
-    {
-     "title": "Alkalmazás",
-     "lead": "két, négy csepp, naponta kétszer",
-     "body": "Reggel és este, tiszta bőrön. Egy szérum, egy lépés, nincs tízlépéses rutin, amit fenn kellene tartani."
-    },
-    {
-     "title": "Követés",
-     "lead": "a terved az alkalmazásban",
-     "body": "A vásárlásod egy igénylőkóddal kapcsolódik a Tava alkalmazáshoz, ahol a terved, a rendeléseid és a rutinod egy helyen maradnak."
-    }
-   ],
-   "legalLines": [
-    "Csak kozmetikai termékek. Semmi ezen az oldalon nem orvosi tanács."
-   ]
-  },
-  "biomarkers": {
-   "eyebrow": "LABOR BIOMARKEREK",
-   "heroTitleLead": "Ismerd az adataidat,",
-   "heroTitleAccent": "a Taván.",
-   "heroCopy": "A cégedet számok alapján vezeted. Hamarosan ugyanezt a fegyelmet alkalmazhatod magadra is: a kulcsfontosságú biomarkereid, időben követve, a Tava alkalmazásban.",
-   "heroFinePrint": "Hamarosan a Tava alkalmazásban. A betekintések csak tájékoztató jellegűek, és nem diagnosztizálnak semmilyen állapotot.",
-   "stamp": "AZ ADATAID EGY HELYEN",
-   "primaryCta": "Nézd meg, mit követünk nyomon",
-   "secondaryCta": "Így fog működni",
-   "optionsEyebrow": "MIT KÖVETÜNK NYOMON",
-   "optionsTitleLead": "Hat terület.",
-   "optionsTitleAccent": "Egy tiszta kép.",
-   "optionsCopy": "A biomarker területek a Tava alkalmazás előnézetében, amelyek most épülnek.",
-   "products": [
-    {
-     "title": "Agy",
-     "subtitle": "Fókusz és tisztaság",
-     "badges": [
-      "Hamarosan"
-     ],
-     "description": "A fókusz, a tisztaság és a kognitív tempó mögötti markerek, egyetlen nézetben összegyűjtve."
-    },
-    {
-     "title": "Hormonok",
-     "subtitle": "Egyensúly",
-     "badges": [
-      "Hamarosan"
-     ],
-     "description": "A hormonképed időben, hogy a változások láthatóak legyenek, ne találgatni kelljen."
-    },
-    {
-     "title": "Szív",
-     "subtitle": "Kardiovaszkuláris markerek",
-     "badges": [
-      "Hamarosan"
-     ],
-     "description": "A fontos szívmarkerek, trendként követve, nem egyszeri leolvasásként."
-    },
-    {
-     "title": "Anyagcsere",
-     "subtitle": "Energia és égetés",
-     "badges": [
-      "Hamarosan"
-     ],
-     "description": "Hogyan használja a tested az energiát, számokban, amelyeket tényleg követni tudsz."
-    },
-    {
-     "title": "Bélrendszer",
-     "subtitle": "Emésztőrendszeri egészség",
-     "badges": [
-      "Hamarosan"
-     ],
-     "description": "A bél egészségének jelei, amelyek az energiához, a hangulathoz és a regenerálódáshoz kapcsolódnak."
-    },
-    {
-     "title": "Hosszú élet",
-     "subtitle": "Biológiai kor",
-     "badges": [
-      "Hamarosan"
-     ],
-     "description": "A hosszú távú nézet: hogyan állnak össze a markereid egy biológiai kor képpé."
-    }
-   ],
-   "disclaimerLead": "A Tava alkalmazásban a biomarker betekintések csak tájékoztató jellegűek. Nem diagnosztizálnak, kezelnek vagy előznek meg semmilyen állapotot.",
-   "disclaimerMore": [
-    "Beszélj a saját orvosoddal minden olyan eredményről, amely aggaszt. Vészhelyzetben hívd a 911-et."
-   ],
-   "protocolEyebrow": "ÍGY FOG MŰKÖDNI",
-   "protocolTitleLead": "Tesztelj, nézd át,",
-   "protocolTitleAccent": "kövesd a trendet.",
-   "protocolCopy": "Egy műszerfal annak, aki a vállalkozást vezeti, a szérumterved mellett ugyanabban az alkalmazásban.",
-   "steps": [
-    {
-     "title": "Teszt",
-     "lead": "egy laborpartneren keresztül",
-     "body": "A mintádat begyűjtik és feldolgozzák, az eredmények pedig a Tava alkalmazásodba érkeznek."
-    },
-    {
-     "title": "Áttekintés",
-     "lead": "területenként",
-     "body": "Agy, hormonok, szív, anyagcsere, bélrendszer és hosszú élet, mindegyik saját nézettel."
-    },
-    {
-     "title": "Követés",
-     "lead": "a trend időben",
-     "body": "Egyetlen leolvasás csak pillanatkép. Az érték a trend, és az alkalmazás megőrzi neked."
-    }
-   ],
-   "legalLines": [
-    "A labor biomarkerek követése hamarosan érkezik, és még nem rendelhető."
-   ]
-  },
-  "mentalHealth": {
-   "eyebrow": "MENTÁLIS EGÉSZSÉG",
-   "heroTitleLead": "Fókuszálj jobban,",
-   "heroTitleAccent": "a Taván.",
-   "heroCopy": "Támogatás a fókuszhoz és a figyelemhez, amely klinikai értékeléssel kezdődik, nem egy fizetés gombbal.",
-   "heroFinePrint": "Klinikai értékelés után. Ez a program fejlesztés alatt áll, és még nem lehet rá jelentkezni.",
-   "stamp": "KLINIKUS ÁLTAL ÉRTÉKELT GONDOSKODÁS",
-   "primaryCta": "Nézd meg, hogyan működik",
-   "optionsEyebrow": "A PROGRAM",
-   "optionsTitleLead": "Gondoskodás, amely ezzel kezdődik:",
-   "optionsTitleAccent": "egy értékeléssel.",
-   "optionsCopy": "",
-   "products": [],
-   "disclaimerLead": "A Taván a mentális egészség támogatása klinikai értékeléssel kezdődik. Semmi itt nem diagnózis vagy kezelési javaslat.",
-   "disclaimerMore": [
-    "Ha krízisben vagy, vagy arra gondolsz, hogy ártasz magadnak, hívd vagy írj a 988-as számra az Egyesült Államokban. Vészhelyzetben hívd a 911-et."
-   ],
-   "protocolEyebrow": "ÍGY MŰKÖDIK",
-   "protocolTitleLead": "Először értékelés.",
-   "protocolTitleAccent": "Aztán egy terv.",
-   "protocolCopy": "Egy körültekintő út, nyíltan, a saját tempódban.",
-   "steps": [
-    {
-     "title": "Értékelés",
-     "lead": "egy klinikussal",
-     "body": "Oszd meg a történetedet és azt, amivel küzdesz, és egy klinikus értékeli, hogy az itteni támogatás megfelelő e neked."
-    },
-    {
-     "title": "Terv",
-     "lead": "köréd építve",
-     "body": "Ha megfelelő, a terved a céljaid és az időbeosztásod köré épül."
-    },
-    {
-     "title": "Támogatás",
-     "lead": "útközben",
-     "body": "A bejelentkezések őszintén tartják a tervet, ahogy a dolgok változnak."
-    }
-   ],
-   "legalLines": [
-    "A Tava mentális egészség ajánlatai fejlesztés alatt állnak, és még nem lehet rájuk jelentkezni."
-   ]
-  },
-  "peptides": {
-   "eyebrow": "PEPTID PROGRAMOK",
-   "heroTitleLead": "Peptidek,",
-   "heroTitleAccent": "egy szolgáltatóval melletted.",
-   "heroCopy": "Tizenhárom peptid program a Tava Labstól, mindegyik online konzultációval és szolgáltatói értékeléssel kezdődik.",
-   "heroFinePrint": "Recept szükséges. Egy engedéllyel rendelkező szolgáltató dönt a jogosultságról a konzultáció után.",
-   "stamp": "SZOLGÁLTATÓ ÁLTAL VEZETETT PROGRAMOK",
-   "primaryCta": "Konzultáció indítása",
-   "secondaryCta": "Így működik",
-   "optionsEyebrow": "A PROGRAMOK",
-   "optionsTitleLead": "Tizenhárom program.",
-   "optionsTitleAccent": "Egyetlen konzultáció bármelyiket elindítja.",
-   "optionsCopy": "Minden program tartalmaz egy $20 értékű konzultációt. A legtöbb laborvizsgálatokat is tartalmaz. Az árak a havi programárak.",
-   "unitPerMonth": "/hó",
-   "products": [
-    {
-     "subtitle": "Regenerálódás",
-     "imageAlt": "BPC-157 program fiola illusztráció",
-     "badges": [
-      "Regenerálódás",
-      "Bélrendszer egészsége",
-      "Laborvizsgálatok mellékelve"
-     ],
-     "description": "BPC-157 a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
-     "linkLabel": "Program megtekintése"
-    },
-    {
-     "subtitle": "Bélrendszer egészsége",
-     "imageAlt": "CJC-1295 + Ipamorelin program fiola illusztráció",
-     "badges": [
-      "Bélrendszer egészsége",
-      "Alvás",
-      "Regenerálódás",
-      "Hosszú élet",
-      "Laborvizsgálatok mellékelve"
-     ],
-     "description": "CJC-1295 + Ipamorelin a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
-     "linkLabel": "Program megtekintése"
-    },
-    {
-     "subtitle": "Hosszú élet",
-     "imageAlt": "GHK-Cu program fiola illusztráció",
-     "badges": [
-      "Hosszú élet",
-      "Laborvizsgálatok mellékelve"
-     ],
-     "description": "GHK-Cu a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
-     "linkLabel": "Program megtekintése"
-    },
-    {
-     "subtitle": "Regenerálódás",
-     "imageAlt": "GLOW Injection program fiola illusztráció",
-     "badges": [
-      "Regenerálódás",
-      "Laborvizsgálatok mellékelve"
-     ],
-     "description": "GLOW Injection a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
-     "linkLabel": "Program megtekintése"
-    },
-    {
-     "subtitle": "Fogyás",
-     "imageAlt": "MOTS-C program fiola illusztráció",
-     "badges": [
-      "Fogyás",
-      "Energia",
-      "Teljesítmény",
-      "Laborvizsgálatok mellékelve"
-     ],
-     "description": "MOTS-C a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
-     "linkLabel": "Program megtekintése"
-    },
-    {
-     "subtitle": "Hosszú élet",
-     "imageAlt": "NAD+ Injectable program fiola illusztráció",
-     "badges": [
-      "Hosszú élet",
-      "Energia",
-      "Regenerálódás",
-      "Fókusz"
-     ],
-     "description": "NAD+ Injectable a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
-     "linkLabel": "Program megtekintése"
-    },
-    {
-     "subtitle": "Szexuális egészség",
-     "imageAlt": "PT-141 program fiola illusztráció",
-     "badges": [
-      "Szexuális egészség",
-      "Laborvizsgálatok mellékelve"
-     ],
-     "description": "PT-141 a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
-     "linkLabel": "Program megtekintése"
-    },
-    {
-     "subtitle": "Fogyás",
-     "imageAlt": "Semaglutide + B12 (Cyanocobalamin) program fiola illusztráció",
-     "badges": [
-      "Fogyás",
-      "Laborvizsgálatok mellékelve"
-     ],
-     "description": "Semaglutide + B12 (Cyanocobalamin) a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
-     "linkLabel": "Program megtekintése"
-    },
-    {
-     "subtitle": "Hosszú élet",
-     "imageAlt": "Sermorelin program fiola illusztráció",
-     "badges": [
-      "Hosszú élet",
-      "Regenerálódás",
-      "Teljesítmény",
-      "Laborvizsgálatok mellékelve"
-     ],
-     "description": "Sermorelin a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
-     "linkLabel": "Program megtekintése"
-    },
-    {
-     "subtitle": "Teljesítmény",
-     "imageAlt": "TB-500 program fiola illusztráció",
-     "badges": [
-      "Teljesítmény",
-      "Regenerálódás",
-      "Laborvizsgálatok mellékelve"
-     ],
-     "description": "TB-500 a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
-     "linkLabel": "Program megtekintése"
-    },
-    {
-     "subtitle": "Hosszú élet",
-     "imageAlt": "Tesamorelin program fiola illusztráció",
-     "badges": [
-      "Hosszú élet",
-      "Regenerálódás",
-      "Teljesítmény",
-      "Laborvizsgálatok mellékelve"
-     ],
-     "description": "Tesamorelin a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
-     "linkLabel": "Program megtekintése"
-    },
-    {
-     "subtitle": "Fogyás",
-     "imageAlt": "Tirzepatide + B12 (Cyanocobalamin) program fiola illusztráció",
-     "badges": [
-      "Fogyás",
-      "Laborvizsgálatok mellékelve"
-     ],
-     "description": "Tirzepatide + B12 (Cyanocobalamin) a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
-     "linkLabel": "Program megtekintése"
-    },
-    {
-     "subtitle": "Regenerálódás",
-     "imageAlt": "Wolverine Injection program fiola illusztráció",
-     "badges": [
-      "Regenerálódás",
-      "Laborvizsgálatok mellékelve"
-     ],
-     "description": "Wolverine Injection a Tava Labstól. A szolgáltatói értékelés és a nyomon követés a program része.",
-     "linkLabel": "Program megtekintése"
-    }
-   ],
-   "disclaimerLead": "Az összetett gyógyszereket engedéllyel rendelkező gyógyszertárak készítik egyéni betegek számára. Nem FDA által jóváhagyottak, és az FDA nem vizsgálja az összetett gyógyszerek biztonságosságát, hatékonyságát vagy minőségét.",
-   "disclaimerMore": [
-    "Az orvosi ellátást független, engedéllyel rendelkező szolgáltatók nyújtják. A szolgáltatók önállóan döntenek arról, hogy egy kezelés megfelelő e neked; a vásárlás nem garantál receptet.",
-    "Egy engedéllyel rendelkező szolgáltató áttekinti az adataidat, és önállóan dönt arról, hogy egy kezelés megfelelő e neked. A vásárlás nem garantál receptet.",
-    "Vészhelyzetben hívd a 911-et."
-   ],
-   "protocolEyebrow": "ÍGY MŰKÖDIK",
-   "protocolTitleLead": "Konzultáció, értékelés,",
-   "protocolTitleAccent": "aztán kezdés.",
-   "protocolCopy": "Minden program független, engedéllyel rendelkező szolgáltatókon keresztül fut.",
-   "protocolCta": "Konzultáció indítása",
-   "steps": [
-    {
-     "title": "Konzultáció",
-     "lead": "online, a saját időbeosztásod szerint",
-     "body": "Töltsd ki az online konzultációt a választott programhoz. A konzultáció $20."
-    },
-    {
-     "title": "Értékelés",
-     "lead": "egy engedéllyel rendelkező szolgáltató által",
-     "body": "Egy szolgáltató áttekinti az adataidat és a laborjaidat, és önállóan dönt arról, hogy a kezelés megfelelő e neked."
-    },
-    {
-     "title": "Kezdés",
-     "lead": "ha felírják",
-     "body": "A gyógyszered egy engedéllyel rendelkező gyógyszertárból érkezik, és a szolgáltatód nyomon követ, ahogy a programod halad."
-    }
-   ],
-   "legalLines": [
-    "A peptid áruházunk jelenleg teszt üzemmódban van, így a programok áttekintésre jelennek meg, és még nem rendelhetők valódi megrendeléssel.",
-    "Vészhelyzetben hívd a 911-et."
-   ]
-  }
- },
- "product": {
-  "breadcrumbHome": "Kezdőlap",
-  "inStock": "Készleten",
-  "cleanVegan": "Tiszta és vegán • PDRN aktív",
-  "dermTested": "Bőrgyógyász által tesztelt • Minden bőrtípusra készült",
-  "titleLead": "PDRN Brightening",
-  "titleAccent": "Serum",
-  "pricePerUnit": "/ 30ml (1 fl oz)",
-  "subPrice": "vagy $39 havonta Subscribe and Save előfizetéssel",
-  "bullets": [
-   "PDRN, acetil-hexapeptid-8 és hialuronsav, a simább, ragyogóbb megjelenésű bőr támogatására.",
-   "Mély hidratálás glicerinből, Sodium PCA-ból és Panthenolból.",
-   "100% állatkísérlet mentes, illatanyag mentes, parabénmentes, szulfátmentes, ásványolaj mentes, szilikonmentes és vegán."
-  ],
-  "viewFormulation": "Teljes formula és klinikai tesztek megtekintése",
-  "details": [
-   {
-    "title": "Ismerd meg a PDRN Brightening Serumot",
-    "body": "Könnyű, hidratáló formula a simább, ragyogóbbnak tűnő bőrért. Gyorsan beszívódik, nem hagy maradékot, és kényelmesen tartja a bőrt."
-   },
-   {
-    "title": "Összetevők és formula",
-    "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin."
-   },
-   {
-    "title": "Így alkalmazd",
-    "body": "Vigyél fel két, négy cseppet tiszta, száraz bőrre. Finoman masszírozd az arcba és a nyakba, amíg be nem szívódik. Használd naponta kétszer, reggel és este. Folytasd hidratálóval vagy fényvédővel."
-   },
-   {
-    "title": "Tiszta bőrápolási garancia",
-    "body": "Tanúsított állatkísérlet mentes szabványok szerint készült, illatanyagok, szilikonok, parabének, ásványolaj, szulfátok, ftalátok és gyakori allergének nélkül. Bőrgyógyász által tesztelve minden bőrtípuson."
-   }
-  ],
-  "innovation": {
-   "label": "Kulcsösszetevők",
-   "titleLead": "Mit tesznek a fő",
-   "titleAccent": "összetevők",
-   "sub": "Az alábbi három összetevő végzi a munka nagy részét ebben a szérumban.",
-   "items": [
-    {
-     "label": "Bőr textúra",
-     "title": "PDRN",
-     "body": "A tengeri PDRN növeli a sejtmegújulást, ami ragyogóbbá teszi a fakó arcszínt és simítja a látható textúrát."
-    },
-    {
-     "label": "Feszesség",
-     "title": "Acetyl Hexapeptide-8",
-     "body": "Ez a peptid támogatja a kollagén rugalmasságát, a feszesebb megjelenésű bőrért."
-    },
-    {
-     "label": "Mély hidratálás",
-     "title": "Hialuronsav és pantenol",
-     "body": "A hialuronsav, a Sodium PCA és a Panthenol együtt tartják a nedvességet a bőrgátban több mint 24 órán át."
-    }
-   ],
-   "imgAlts": [
-    "Szérum textúra",
-    "Kristály és formula",
-    "Kristály minta"
-   ],
-   "footnote": "*A biosejtes aktivitást in vitro és ex vivo klinikai értékelésekkel mérték. Az eredmények az egyéni bőr állapotától függően eltérhetnek."
-  },
-  "ecosystem": {
-   "label": "A terve",
-   "title": "Teljes rutin támogatást kapsz",
-   "sub": "A szérumod mellett minden Tava Labs terv tartalmazza:",
-   "items": [
-    "Személyre szabott bőrdiagnosztika és rutin útmutató a bőrkvízedből",
-    "Kezelési terv, amely lassan indul és idővel épül fel",
-    "Alkalmazási emlékeztetők, amelyeket te szabályozol, reggel és este",
-    "Üzenetes támogatás közvetlenül az alkalmazásban",
-    "Subscribe and Save kézbesítés minden hónapban, szüneteltethető vagy lemondható bármikor"
-   ],
-   "note": "A Subscribe and Save bármikor szüneteltethető, módosítható vagy lemondható. Az egyszeri vásárlások továbbra is elérhetők $49 áron."
-  },
-  "clinical": {
-   "label": "Klinikai tesztek",
-   "titleLead": "Vigyázz a",
-   "titleAccent": "bőröd egészségére",
-   "imgAlts": [
-    "Ragyogást támogató ábra",
-    "Mély hidratálást támogató ábra",
-    "Bőrtextúrát javító ábra"
-   ],
-   "note": "Helyi bioaktív értékelések 8 hetes fogyasztói észlelési és műszeres hidratálási tesztek alapján. Az egyéni bőrgátak, a genetika és a környezet befolyásolják a konkrét időkereteket és eredményeket."
-  },
-  "formulary": {
-   "label": "Formulák összehasonlítása",
-   "title": "Melyik bőrápoló kezelés a megfelelő neked?",
-   "sub": "Formulák különböző bőrcélokhoz, problémákhoz és rutinokhoz. Válassza azt, amelyik illik a bőréhez és az időbeosztásához.",
-   "serumAlt": "PDRN Brightening Serum",
-   "serumPriceLine": "Subscribe and Save $39/hó",
-   "serumOneTime": "vagy $49 egyszeri áron",
-   "primaryBenefit": "Elsődleges előny",
-   "howToUse": "Így használd",
-   "activeIngredient": "Aktív összetevő",
-   "serumBenefitValue": "Ragyogás és feszesség",
-   "serumHowValue": "Reggel és este",
-   "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
-   "selectSerum": "Szérum kiválasztása",
-   "comingSoon": "Hamarosan",
-   "status": "Állapot",
-   "sizeLabel": "Méret",
-   "others": [
-    {
-     "rows": [
-      [
-       "Elsődleges előny",
-       "Napi hidratálás"
+    "support": {
+      "eyebrow": "Támogatás",
+      "title": "Itt vagyunk, hogy segítsünk",
+      "segments": [
+        {
+          "text": "Írj nekünk: "
+        },
+        {
+          "text": "support@tavalabs.app",
+          "href": "mailto:support@tavalabs.app"
+        },
+        {
+          "text": " vagy hívj minket: "
+        },
+        {
+          "text": "909-906-1308",
+          "href": "tel:+19099061308"
+        },
+        {
+          "text": "."
+        }
       ],
-      [
-       "Méret",
-       "1.7 fl oz (50ml)"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Elsődleges előny",
-       "Szemkörnyék ápolása"
-      ],
-      [
-       "Méret",
-       "1 fl oz (30ml)"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Elsődleges előny",
-       "Feszesítés és hidratálás"
-      ],
-      [
-       "Méret",
-       "2 oz (56g)"
-      ],
-      [
-       "Aktív összetevő",
-       "Hialuronsav és CoQ10"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Elsődleges előny",
-       "Fejbőr és haj ápolása"
-      ],
-      [
-       "Méret",
-       "1 fl oz (30ml)"
-      ]
-     ]
+      "links": {
+        "general": "Általános kérdések",
+        "productSupport": "Terméktámogatás",
+        "salesSupport": "Rendelési és értékesítési támogatás",
+        "faqs": "GYIK",
+        "shipping": "Szállítási szabályzat",
+        "returns": "Visszaküldési szabályzat"
+      }
     }
-   ]
   },
-  "protocol": {
-   "label": "Hogyan használja",
-   "titleLead": "Egy egyszerű rutin,",
-   "titleAccent": "naponta kétszer",
-   "sub": "A következetesség számít. Kövesse ezeket a lépéseket reggel és este, és fejezze be hidratálókrémmel, hogy bent tartsa a nedvességet.",
-   "progressionLabel": "Klinikai haladás",
-   "progressionTitle": "Látható eredmények idővonala",
-   "progressionBody": "Ragyogóbb, hidratáltabb bőr 7-14 nap alatt; javult bőrrugalmasság és barrier feszesség a 4-6. hétre.",
-   "timelineAlt": "Példa eredmény idővonal, 1, 4. hét és azon túl",
-   "steps": [
-    {
-     "title": "Tisztítás, kíméletes lemosóval",
-     "body": "Tisztíts kíméletes, pH kiegyensúlyozott lemosóval, hogy eltávolítsd a szennyeződéseket és felkészítsd a bőrt anélkül, hogy megfosztanád a természetes lipidjeitől."
+  "lab": {
+    "ordersLabel": "Klinikai értékelés",
+    "ordersTitle": "A laborrendeléseid",
+    "loadingOrders": "A rendeléseid betöltése…",
+    "ordersEmpty": "Még semmi sincs itt. Amikor elvégzel egy panelt, minden marker ide érkezik az értékével, az egészséges tartományával és azzal, hogyan mozog időben. Rendeld meg lent az első paneledet, és ez a tér feltöltődik.",
+    "viewResults": "Eredmények megtekintése",
+    "howLabel": "Hogyan működnek a laborok",
+    "howTitle": "Négy lépés, egy vérvétel",
+    "steps": [
+      {
+        "title": "Válassz egy panelt",
+        "body": "Válaszd azt a panelt, amely illik ahhoz, amit tudni szeretnél. Benne minden marker fel van sorolva, mielőtt rendelsz."
+      },
+      {
+        "title": "Orvosi értékelés",
+        "body": "Egy engedéllyel rendelkező orvos minden rendelést értékel és engedélyez, így nincs szükség külön orvosi vizitre."
+      },
+      {
+        "title": "Menj be a vérvételre",
+        "body": "Egy gyors vérvétel egy hozzád közeli mintavételi helyen. A legtöbb vizit körülbelül tizenöt percig tart."
+      },
+      {
+        "title": "Az eredmények ide érkeznek",
+        "body": "Az eredményeket napokon belül digitálisan kézbesítjük erre a fülre, minden markerrel és tartományával."
+      }
+    ],
+    "panelsLabel": "A panelek",
+    "panelsTitle": "Tizennégy panel, aköré építve, amit követsz",
+    "panelsSub": "Minden panel mutatja az árát. A rendelés akkor nyílik meg, amikor a fizetést bekapcsolják, és egy engedéllyel rendelkező orvos minden rendelést értékel, mielőtt az eredményeidet közvetlenül ide kézbesítik. A panelek nem rendelhetők New York, New Jersey vagy Rhode Island államokbeli címekre.",
+    "markersSuffix": "{n} marker",
+    "resultsInDays": "Eredmények napokon belül",
+    "hideMarkers": "Markerek elrejtése",
+    "seeMarkers": "Markerek megtekintése",
+    "markersAria": "Markerek ebben: {name}",
+    "disclaimer": "A labor betekintések információk a saját egészségedről, és nem diagnózisok. Beszélj az orvosoddal minden olyan eredményről, amely aggaszt, és vészhelyzetben hívd a 911-et.",
+    "panelsById": {
+      "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
+        "name": "Sportteljesítmény panel",
+        "description": "Edzési készenlét és regenerálódás: vérkép, anyagcsere panel, vasraktárak, D-vitamin, tesztoszteron, gyulladás és izomenzimek.",
+        "collection": "Vérvétel személyesen"
+      },
+      "38c76039-05dc-4cd3-8475-7a675989fbf2": {
+        "name": "Kiindulási jólléti panel",
+        "description": "Teljes test kiindulópont: vérkép, anyagcsere egészség, koleszterin, vércukor, D-vitamin és pajzsmirigy.",
+        "collection": "Vérvétel személyesen"
+      },
+      "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
+        "name": "Energia és fáradtság panel",
+        "description": "Az alacsony energia mögötti szokásos gyanúsítottak: vasraktárak és szállítás, B12, folát, D-vitamin, pajzsmirigy és vérkép.",
+        "collection": "Vérvétel személyesen"
+      },
+      "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
+        "name": "Női alap panel",
+        "description": "Fókuszált panel 14 markerrel, lent teljes egészében felsorolva.",
+        "collection": "Vérvétel személyesen"
+      },
+      "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
+        "name": "GLP1 panel",
+        "description": "Fókuszált panel 10 markerrel, lent teljes egészében felsorolva.",
+        "collection": "Vérvétel személyesen"
+      },
+      "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
+        "name": "Szív egészsége panel",
+        "description": "Kardiovaszkuláris kockázat az alap koleszterinen túl: lipidek, ApoB, Lp(a), hs-CRP és homocisztein.",
+        "collection": "Vérvétel személyesen"
+      },
+      "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
+        "name": "Hosszú élet panel",
+        "description": "Átfogó éves mélyelemzés az anyagcsere, a kardiovaszkuláris, a gyulladásos és a hormonális egészség markerein keresztül.",
+        "collection": "Vérvétel személyesen"
+      },
+      "b909fb21-b264-483c-a915-4ce87713cfa9": {
+        "name": "Férfi alap teszt",
+        "description": "Fókuszált panel 12 markerrel, lent teljes egészében felsorolva.",
+        "collection": "Vérvétel személyesen"
+      },
+      "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
+        "name": "Férfi TRT panel",
+        "description": "Fókuszált panel 16 markerrel, lent teljes egészében felsorolva.",
+        "collection": "Vérvétel személyesen"
+      },
+      "abfabb68-c777-4457-87c2-46bf5fe26d81": {
+        "name": "Férfi hormon panel",
+        "description": "Férfi hormonállapot: összes tesztoszteron, SHBG, ösztradiol, LH és FSH.",
+        "collection": "Vérvétel személyesen"
+      },
+      "f12fe316-367a-4c53-9735-8c0129c45506": {
+        "name": "Anyagcsere egészsége panel",
+        "description": "Vércukor szabályozás és anyagcsere kockázat: A1c, éhgyomri inzulin, koleszterin és teljes anyagcsere panel.",
+        "collection": "Vérvétel személyesen"
+      },
+      "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
+        "name": "Stressz és regenerálódás panel",
+        "description": "Stresszterhelés és regenerálódási képesség: kortizol, DHEA-S, pajzsmirigy és gyulladás.",
+        "collection": "Vérvétel személyesen"
+      },
+      "1760616d-44d3-4654-817d-440a969e5cdf": {
+        "name": "Teljes pajzsmirigy panel",
+        "description": "Teljes pajzsmirigy vizsgálat: TSH, szabad T4, szabad T3 és TPO antitestek.",
+        "collection": "Vérvétel személyesen"
+      },
+      "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
+        "name": "Női hormon panel",
+        "description": "Női hormonállapot: ösztradiol, progeszteron, FSH, LH, DHEA-S és tesztoszteron.",
+        "collection": "Vérvétel személyesen"
+      }
     },
-    {
-     "title": "PDRN szérum, két, négy csepp",
-     "body": "Vigyél fel két, négy csepp PDRN szérumot nedves bőrre. Finoman nyomkodd és ütögesd az arcba és a nyakba, amíg teljesen be nem szívódik."
-    },
-    {
-     "title": "Hidratálás és nedvesség",
-     "body": "Vigyen fel hidratálókrémet, hogy bent tartsa a peptideket és támogassa a bőrbarriert."
-    },
-    {
-     "title": "Védelem (csak reggel), SPF 30+",
-     "body": "Zárd a reggeli rutint széles spektrumú SPF 30+ fényvédővel, hogy megvédd a bőrt az UV és a szabad gyökök károsodásától."
-    },
-    {
-     "title": "A személyes terved, mellékelve",
-     "body": "A bőrkvízed felépíti a tervedet, beleértve azt is, hogyan kezdj lassan, és mikor építs feljebb."
+    "detail": {
+      "backToAccount": "Vissza a fiókodhoz",
+      "notFoundTitle": "Ez a laborrendelés nem található",
+      "notFoundBody": "Lehet, hogy egy másik e-mail címhez tartozik. Jelentkezz be azzal az e-mail címmel, amely alatt rendeltél, és próbáld újra.",
+      "clinicalReview": "KLINIKAI ÉRTÉKELÉS",
+      "loadingResults": "Az eredményeid betöltése…",
+      "yourPanel": "A paneled",
+      "markerFallback": "Marker",
+      "headlines": {
+        "loading": "Az eredményeid előhívása",
+        "pending": "Az eredményeid úton vannak",
+        "allIn": "Minden eredményed megérkezett.",
+        "in": "Megérkeztek az eredményeid."
+      },
+      "sublines": {
+        "loading": "Egy pillanat, amíg a laborjelentés betöltődik.",
+        "pending": "Amint a labor jelent, ez az oldal feltöltődik minden markerrel, az értékével és az egészséges tartományával.",
+        "allIn": "Minden marker a tartományban van. Itt a teljes kép.",
+        "oneAttention": "Egy marker igényel közelebbi vizsgálatot. Nézzük meg.",
+        "manyAttention": "{n} marker igényel közelebbi vizsgálatot. Nézzük meg."
+      },
+      "orderedPrefix": "Megrendelve",
+      "statusPrefix": "Állapot:",
+      "notInYetTitle": "Az eredmények még nem érkeztek meg",
+      "notInYetBody": "A legtöbb panel a vérvételtől számított napokon belül jelent. Amikor a tied megérkezik, ez az oldal a teljes egyensúly nézetet mutatja minden markerrel és tartományával.",
+      "markerBalance": "A markeregyensúlyod",
+      "biomarkers": "BIOMARKEREK",
+      "analyzedSuffix": "{pct}% elemezve",
+      "statusNames": {
+        "optimal": "Optimális",
+        "inRange": "Tartományban",
+        "attention": "Figyelmet igényel"
+      },
+      "statusLabels": {
+        "optimal": "OPTIMÁLIS",
+        "inRange": "TARTOMÁNYBAN",
+        "attention": "JELÖLT"
+      },
+      "basePrefix": "Alap: {name}",
+      "updatedPrefix": "Frissítve: {date}",
+      "updatedRecently": "Nemrég frissítve",
+      "triageTitle": "Állapot válogatás",
+      "tapToFilter": "Koppints a szűréshez",
+      "triageSubs": {
+        "optimal": "Pont ott, ahol szeretnéd őket",
+        "inRange": "Az egészséges tartományon belül",
+        "attention": "Érdemes megbeszélni az orvosoddal"
+      },
+      "allFilter": "Összes ({n})",
+      "rangePrefix": "Tartomány: {range}",
+      "disclaimer": "A laboreredmények információk a saját egészségedről, és nem diagnózisok. Beszélj az orvosoddal minden olyan eredményről, amely aggaszt, és vészhelyzetben hívd a 911-et."
     }
-   ]
   },
-  "faqSection": {
-   "label": "Kérdések és válaszok",
-   "title": "Gyakran ismételt kérdések",
-   "viewAll": "Összes GYIK megtekintése",
-   "items": [
-    {
-     "q": "Mi a PDRN, és hogyan hasznos a bőrnek?",
-     "a": "A PDRN (polidezoxiribonukleotid) DNS-töredékekből áll, amelyek biokompatibilisek az emberi bőrsejtekkel. Elősegíti a természetes sejtregenerációt, serkenti a mikrokeringést, és segít helyreállítani a bőrbarriert, a ragyogóbb, feszesebb megjelenésű bőrért."
-    },
-    {
-     "q": "Hogyan illesszem be a PDRN Brightening Serumot a bőrápolási rutinomba?",
-     "a": "Használd a PDRN Brightening Serumot naponta kétszer tisztítás és tonizálás után. Cseppents két, négy cseppet közvetlenül az ujjbegyeidre vagy nedves bőrre, és simítsd szét az arcon, a nyakon és a dekoltázson. Folytasd a hidratálóddal és a reggeli fényvédőddel."
-    },
-    {
-     "q": "Alkalmas ez a szérum érzékeny és aknéra hajlamos bőrre?",
-     "a": "Igen. A formulánk nem komedogén, olajmentes, illatanyag mentes, és nyugtató Panthenollal dúsított. Csillapítja az érzékenységet, miközben mélyen hidratál anélkül, hogy eltömítené a pórusokat vagy irritációt váltana ki."
-    },
-    {
-     "q": "Rétegezhetem a PDRN-t retinollal, C-vitaminnal vagy AHA/BHA-val?",
-     "a": "Igen. A PDRN jól működik aktív kezelések, például retinoidok és C-vitamin mellett. Hidratáló alapja segít csillapítani a hámlást vagy bőrpírt, amelyet a kémiai hámlasztók okozhatnak."
-    },
-    {
-     "q": "Meddig tart általában egy 30 ml-es üveg?",
-     "a": "Napi kétszer két, négy cseppel használva egy 30 ml-es (1 fl oz) üveg általában 4, 6 hétig tart. A Subscribe and Save elküldi a következő üveget, mielőtt kifogynál."
-    }
-   ]
+  "login": {
+    "brandHeadLead": "Üdvözlünk",
+    "brandHeadAccent": "újra.",
+    "brandCopy": "A terved, a rendeléseid és a rutinod. Egyetlen e-mail köti össze az alkalmazást és a webet.",
+    "label": "A Tava fiókod",
+    "title": "Bejelentkezés",
+    "intro": "Jelentkezz be azzal az e-mail címmel, amelyet a fizetéskor vagy a Tava mobilalkalmazásban használtál. A terved, a rendeléseid és a rutinod ahhoz az e-mail címhez kötődnek, így itt minden megegyezik az alkalmazással. Nincs szükség jelszóra. E-mailben küldünk egy bejelentkezési linket, és arra koppintva a fiókodba érkezel.",
+    "emailLabel": "E-mail cím",
+    "invalidEmail": "Adj meg egy érvényes e-mail címet.",
+    "sendFailed": "Nem tudtuk elküldeni azt az e-mailt. Ellenőrizd a címet, és próbáld újra.",
+    "sending": "Küldés…",
+    "sendButton": "Küldj bejelentkezési linket e-mailben",
+    "sentNotice": "Bejelentkezési link elküldve erre: {email}. Egy percig is eltarthat, amíg megérkezik. Nézd meg a spam mappádat, ha nem látod.",
+    "sentBody": "Nyisd meg azt az e-mailt ezen az eszközön, és koppints a benne lévő linkre. A fiókodba érkezel, már bejelentkezve. A link egyszer működik és lejár, használd hamar.",
+    "resend": "E-mail újraküldése",
+    "differentEmail": "Másik e-mail cím használata",
+    "footNote": "Először jársz itt? Ugyanaz a link létrehozza a fiókodat. Használd a rendelésed e-mail címét, és minden már vár rád.",
+    "claimLabel": "A weben vásároltál, az alkalmazást használod?",
+    "claimTitle": "Használd az igénylőkódodat az alkalmazásban",
+    "claimBody1": "Amikor a kvízen vagy ezen az oldalon keresztül vásároltál, a vásárlást visszaigazoló e-mailed (és a fizetés utáni oldal) egy igénylőkódot mutatott. Nyisd meg a Tava mobilalkalmazást, jelentkezz be, és add meg azt a kódot a Rendelések fülön. A vásárlásod, a terved és a kvíz válaszaid átkerülnek az alkalmazás fiókodba, második vásárlás nélkül.",
+    "claimBody2": "A weben még egyszerűbb. Jelentkezz be fent azzal az e-mail címmel, amellyel fizettél, és a rendeléseid és a terved már itt vannak.",
+    "faqButton": "Kérdésed van? Nézd meg a GYIK-et"
   },
-  "finalCta": {
-   "title": "Egy szérum a ragyogóbb, hidratált, simább megjelenésű bőrért.",
-   "line": "PDRN Brightening Serum · $49.00 / 30ml · Tiszta és vegán · Mély hidratálás · Bármikor lemondható"
+  "checkout": {
+    "title": "Fizetés",
+    "closeAria": "Fizetés bezárása",
+    "planOneTime": "PDRN Brightening Serum · $49 · Egyszeri vásárlás",
+    "planSubscribe": "PDRN Brightening Serum · $39 havonta · Subscribe & Save 20%",
+    "email": "E-mail",
+    "firstName": "Keresztnév",
+    "lastName": "Vezetéknév",
+    "streetAddress": "Utca és házszám",
+    "addressLine2": "2. címsor (opcionális)",
+    "city": "Város",
+    "state": "Állam",
+    "zip": "ZIP",
+    "country": "Ország",
+    "phoneOptional": "Telefon (opcionális)",
+    "missingIntro": "Már majdnem kész. Add meg: {fields}.",
+    "missingNames": {
+      "email": "érvényes e-mail cím",
+      "firstName": "keresztnév",
+      "lastName": "vezetéknév",
+      "address1": "utca és házszám",
+      "city": "város",
+      "state": "állam",
+      "zip": "ZIP kód"
+    },
+    "creating": "A fizetésed létrehozása…",
+    "taking": "Átirányítunk a biztonságos fizetéshez…",
+    "continueBtn": "Tovább a fizetéshez",
+    "startError": "A fizetés nem indulhatott el. Ellenőrizd az adataidat, és próbáld újra. Semmit nem terheltünk.",
+    "stripeNote": "Biztonságos fizetés a Stripe-on keresztül. A fizetést a Stripe oldalán erősíted meg. Még semmit nem terhelünk."
   },
-  "gallery": {
-   "view": "{n}. nézet",
-   "alts": [
-    "PDRN Brightening Serum üveg",
-    "Szérumüveg, 2. nézet",
-    "Szérumüveg, 3. nézet",
-    "Szérumüveg, 4. nézet",
-    "Szérumüveg, 5. nézet"
-   ]
+  "legal": {
+    "governsNote": "Ez az oldal az angol eredeti fordítása. Ha a megfogalmazás valaha eltér, az angol változat az irányadó."
   }
- },
- "about": {
-  "label": "Rólunk",
-  "titleLead": "Napi arcszérum",
-  "titleAccent": "alapítóknak.",
-  "tagline": "Építsd a vállalkozásodat. Ne hanyagold el magad.",
-  "p1": "A Tava Labs egy bőrápolási márka vállalkozásokat építő embereknek. A megjelenése a szakmai jelenléte része. Az emberek minden nap látják Önt kamerán, pitch megbeszéléseken és a munkában.",
-  "p2": "Egy dolgot készítünk, és jól készítjük. Egy napi szérum, amely hidratáltnak és kipihentnek tartja a bőrét, bonyolult rutin nélkül.",
-  "p3": "A Tava Labs alapítóknak és cégtulajdonosoknak alapult. Egy lépés, reggel és este, a megbeszélések, a pitchek és a kameramunka előtt.",
-  "p4": "Bőrápolás, alapvető karbantartásként kezelve. Ugyanaz a következetesség, amelyet a vállalkozásába visz, a saját rutinjára alkalmazva.",
-  "serumLabel": "A szérum",
-  "serumTitle": "PDRN Brightening Serum",
-  "serumAlt": "PDRN Brightening Serum",
-  "serumBody": "Napi arcszín rutin, amely a PDRN (Polydeoxyribonucleotide) és az Acetyl Hexapeptide-8 köré épül, Sodium Hyaluronate-tal és Panthenollal a hidratálásért és a kényelemért. Tiszta és illatanyag mentes, és semmit nem tartalmaz a mentességi listánkról.",
-  "bullets": [
-   "PDRN a ragyogóbb, egyenletesebbnek tűnő arcszínért.",
-   "Acetyl Hexapeptide-8, hogy támogassa a feszesség látszatát.",
-   "Sodium Hyaluronate és Panthenol a hidratálásért.",
-   "Használd naponta kétszer: két, négy pumpálás tiszta, száraz bőrön, reggel és este."
-  ],
-  "priceLine": "$49 egyszeri áron, vagy $39 havonta Subscribe & Save előfizetéssel.",
-  "philosophyLabel": "A filozófiánk",
-  "quote": "„Egy szérum, két perc, reggel és este. Ez az egész rutin.”",
-  "philosophyCaption": "A Tava Labs filozófiája",
-  "philosophyP1": "Hiszünk abban, hogy úgy vigyázzon magára, ahogy a munkájára vigyáz, kis lépésekkel, amelyeket minden nap következetesen megtesz.",
-  "philosophyP2": "Nem ígérünk átalakulást. Egy jól formulázott napi szérumot készítünk, és pontosan elmondjuk, mi van benne.",
-  "onlineTitle": "Csak online",
-  "onlineSegments": [
-   {
-    "text": "A Tava Labs csak online márka. Kérdésed van? Írj nekünk: "
-   },
-   {
-    "text": "support@tavalabs.app",
-    "href": "mailto:support@tavalabs.app"
-   },
-   {
-    "text": "."
-   }
-  ],
-  "contactUs": "Kapcsolat"
- },
- "contact": {
-  "label": "Kapcsolat",
-  "title": "Szívesen hallanánk felőled.",
-  "sub": "Írj nekünk e-mailt, és válaszolunk. Válaszd ki a megfelelő témát, vagy írj nekünk közvetlenül.",
-  "emailLabel": "E-mail:",
-  "phoneLabel": "Telefon:",
-  "topics": {
-   "general": {
-    "title": "Általános",
-    "body": "Általános kérdések a Tava Labsról és a szérumról."
-   },
-   "wholesale": {
-    "title": "Nagykereskedelem",
-    "body": "Nagykereskedelmi és kiskereskedelmi megkeresések a PDRN Brightening Serumról."
-   },
-   "sales-support": {
-    "title": "Értékesítési támogatás",
-    "body": "Kérdések a rendelésről, a Subscribe & Save előfizetésről és a fizetésről."
-   },
-   "product-support": {
-    "title": "Terméktámogatás",
-    "body": "Segítség a szérum használatához, a rutinokhoz és a személyes tervedhez."
-   },
-   "partnerships": {
-    "title": "Partnerségek",
-    "body": "Partnerségek akcelerátorokkal, egyetemekkel, befektetőkkel és közösségekkel."
-   },
-   "pr": {
-    "title": "PR",
-    "body": "Sajtó és média megkeresések."
-   }
-  }
- },
- "faq": {
-  "label": "GYIK",
-  "titleLead": "Gyakran ismételt",
-  "titleAccent": "Kérdések",
-  "sub": "Válaszok a szérumról, a rendelésről, a szállításról és a személyes tervedről.",
-  "items": [
-   {
-    "q": "Mi a PDRN Brightening Serum?",
-    "a": [
-     {
-      "text": "Napi szérum, a PDRN (polidezoxiribonukleotid) és az acetil-hexapeptid-8 köré építve, nátrium-hialuronáttal és pantenollal. Vigye fel reggel és este a ragyogóbb, egyenletesebb megjelenésű arcszín támogatására."
-     }
-    ]
-   },
-   {
-    "q": "Hogyan használjam?",
-    "a": [
-     {
-      "text": "Vigyél fel két, négy cseppet tiszta, száraz bőrre, reggel és este. Folytasd hidratálóval. Ha új vagy az aktív bőrápolásban, az első héten kezdj napi egyszeri használattal, majd építs fel a napi kétszerire."
-     }
-    ]
-   },
-   {
-    "q": "Hogyan kapom meg a személyes tervemet?",
-    "a": [
-     {
-      "text": "Töltsd ki a "
-     },
-     {
-      "text": "bőrkvízt",
-      "href": "/quiz"
-     },
-     {
-      "text": ". A válaszaid személyes tervet építenek, beleértve azt is, hogyan kezdj lassan, és mikor építs feljebb."
-     }
-    ]
-   },
-   {
-    "q": "Mennyibe kerül?",
-    "a": [
-     {
-      "text": "$49 egyszeri áron, vagy $39 havonta Subscribe & Save előfizetéssel (20% kedvezmény). A Subscribe & Save bármikor szüneteltethető, kihagyható vagy lemondható."
-     }
-    ]
-   },
-   {
-    "q": "Hogyan működik a szállítás?",
-    "a": [
-     {
-      "text": "A rendeléseket a partnerünk teljesíti, és a fizetéskor megadott címre szállítjuk. Részletekért nézd meg a "
-     },
-     {
-      "text": "Szállítási szabályzatot",
-      "href": "/shipping"
-     },
-     {
-      "text": "."
-     }
-    ]
-   },
-   {
-    "q": "Mi a visszaküldési szabályzatotok?",
-    "a": [
-     {
-      "text": "Minden eladás végleges. Rendelés előtt olvasd el a "
-     },
-     {
-      "text": "Visszaküldési szabályzatot",
-      "href": "/returns"
-     },
-     {
-      "text": "."
-     }
-    ]
-   },
-   {
-    "q": "Milyen összetevőket tartalmaz?",
-    "a": [
-     {
-      "text": "A teljes összetevőlista az "
-     },
-     {
-      "text": "Összetevők oldalon",
-      "href": "/ingredients"
-     },
-     {
-      "text": " található. A szérum illatanyag mentes, és parabének, szulfátok, szilikonok, ásványolaj, ftalátok és gyakori allergének nélkül készült."
-     }
-    ]
-   },
-   {
-    "q": "Alkalmas az én bőrtípusomra?",
-    "a": [
-     {
-      "text": "A szérum úgy készült, hogy minden bőrtípusra alkalmas legyen. Ha bőrbetegséged vagy aggályod van, beszélj a bőrgyógyászoddal, mielőtt bármilyen új bőrápolást elkezdenél."
-     }
-    ]
-   },
-   {
-    "q": "Hogyan léphetek kapcsolatba veletek?",
-    "a": [
-     {
-      "text": "Írj a support@tavalabs.app címre, vagy használd a "
-     },
-     {
-      "text": "Kapcsolat oldalt",
-      "href": "/contact"
-     },
-     {
-      "text": "."
-     }
-    ]
-   }
-  ]
- },
- "ingredients": {
-  "label": "Összetevők",
-  "titleLead": "Mi van benne,",
-  "titleAccent": "és amit kihagyunk.",
-  "intro": "Itt van a PDRN Brightening Serum minden összetevője, hogy melyik mit csinál, és a teljes lista pontosan úgy, ahogyan a címkén szerepel.",
-  "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Az USA-ban készült · Minden bőrtípusra alkalmas",
-  "keyTitle": "Kulcsösszetevők",
-  "keyItems": [
-   {
-    "name": "PDRN (Polydeoxyribonucleotide)",
-    "body": "A fő aktív összetevőnk. Támogatja a ragyogóbb, egyenletesebb megjelenésű arcszínt."
-   },
-   {
-    "name": "Acetyl Hexapeptide-8",
-    "body": "Peptid, amely támogatja a feszesség és a simaság látszatát."
-   },
-   {
-    "name": "Sodium Hyaluronate (Hyaluronic Acid)",
-    "body": "Magához vonzza a nedvességet a hidratált, kényelmes bőrért."
-   },
-   {
-    "name": "Panthenol",
-    "body": "Nyugtatja és támogatja a bőrgátat."
-   },
-   {
-    "name": "Glycerin + Sodium PCA",
-    "body": "Nedvességmegkötők, amelyek segítenek a bőrnek egész nap megtartani a vizet."
-   }
-  ],
-  "fullTitle": "Teljes összetevők",
-  "howTitle": "Így használd",
-  "howBody": "Vigyél fel két, négy pumpálást tiszta, száraz bőrre, reggel és este. Folytasd hidratálóval. Kezdj napi egyszeri használattal, ha új vagy az aktív bőrápolásban.",
-  "warningTitle": "Figyelmeztetés",
-  "warningBody": "Csak külső használatra. Kerüld a szemmel való közvetlen érintkezést. Ha irritáció lép fel, hagyd abba a használatot. Gyermekektől elzárva tartandó."
- },
- "partners": {
-  "label": "Legyél a Tava Labs partnere",
-  "titleLead": "Adj az alapítóidnak egy ingyenes hónapot:",
-  "titleAccent": "Tava Labsot.",
-  "intro": "A Tava Labs gyorsítókkal, egyetemekkel, angyalbefektetőkkel és alapítói közösségekkel működik együtt. A tagjai az első hónap PDRN Brightening Serumot ingyen kapják.",
-  "tagline": "Egy ingyen hónap tőlünk, költség és kötelezettség nélkül.",
-  "becomePartner": "Legyél partner",
-  "partnershipsContact": "Partnerségi kapcsolat",
-  "audiences": [
-   {
-    "alt": "Startup alapítók egy akcelerátor foglalkozáson",
-    "title": "Akcelerátoroknak",
-    "body": "Az alapítói az első naptól pitchelnek, demóznak és tartalmat forgatnak. Adjon nekik egy hónap napi bőrápolást, amely napi két percet vesz igénybe a program alatt.",
-    "how": "Így működik: a csoportod minden alapítójának ingyen küldünk egy üveget, a bőrkvízből készült személyes tervvel. Te egyszer bemutatsz minket; minden mást mi intézünk."
-   },
-   {
-    "alt": "Egyetemi hallgatók a kampuszon",
-    "title": "Egyetemeknek",
-    "body": "A vállalkozó hallgatók nyilvánosan építenek: pitch versenyek, demónapok, alapítói előadások és első befektetői megbeszélések. Egy ingyenes hónap Tava Labs gyakorlati, emlékezetes ajándék a programod hallgatóinak.",
-    "how": "Így működik: üvegeket biztosítunk a csoportodnak, osztályodnak vagy eseményednek, plusz egy egyszerű tájékoztatót. Nincs költség az egyetemnek, és nincs költség a hallgatóknak."
-   },
-   {
-    "alt": "Befektetői megbeszélés egy alapítóval",
-    "title": "Angyalbefektetőknek",
-    "body": "Egy ingyen hónap Tava Labs praktikus ajándék a portfóliójában lévő alapítóknak. Mi kezeljük a szállítást és a személyes terveiket.",
-    "how": "Így működik: mondd el, hány alapítót szeretnél megajándékozni, és mi megszervezzük a kézbesítést és a személyes terveiket. Nincs költség neked, és nincs költség nekik."
-   }
-  ],
-  "whyTitleLead": "Nulla költség. Nulla erőfeszítés.",
-  "whyTitleAccent": "Valódi érték.",
-  "why": [
-   {
-    "title": "Több érték az első naptól",
-    "body": "A tagjaid valódi terméket és személyes tervet kapnak, nem egy kedvezménykódot, amelyet elfelejtenek."
-   },
-   {
-    "title": "Nulla költség neked",
-    "body": "Az első hónap a mi számlánkra megy, minden megajándékozott személynél."
-   },
-   {
-    "title": "Nulla erőfeszítés neked",
-    "body": "Mi intézzük a szállítást, a bevezetést és a támogatást. Te egyetlen bemutatást teszel."
-   },
-   {
-    "title": "Ajándék, amelyet tényleg használni fognak",
-    "body": "Egy lépés, reggel és este. Azért illik egy alapító napirendjébe, mert arra tervezték."
-   }
-  ],
-  "formulationTitle": "Ezen összetevők nélkül készült.",
-  "formulationSub": "A szérum azok nélkül az összetevők nélkül készült, amelyekről a tagjaid a legtöbbet kérdeznek:",
-  "stepsTitle": "Hogyan működik egy partnerség",
-  "steps": [
-   {
-    "title": "Vedd fel a kapcsolatot",
-    "body": "Mesélj a programodról, és arról, hány embert szeretnél megajándékozni."
-   },
-   {
-    "title": "Mi megszervezzük az ajándékot",
-    "body": "Elküldjük a szérumot, és mindenki személyes tervét beállítjuk a bőrkvízből."
-   },
-   {
-    "title": "Te adod az ajándékot",
-    "body": "A tagjai egy ingyen hónapot kapnak a szérumból, minden dobozban egy köszönő üzenettel tőlünk."
-   }
-  ],
-  "closingTitleLead": "Adjon alapítóinak egy",
-  "closingTitleAccent": "ingyen hónapot.",
-  "closingSegments": [
-   {
-    "text": "Írj nekünk: "
-   },
-   {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
-   },
-   {
-    "text": " vagy hívj minket: "
-   },
-   {
-    "text": "909-906-1308",
-    "href": "tel:+19099061308"
-   },
-   {
-    "text": ", és beállítjuk."
-   }
-  ]
- },
- "blog": {
-  "label": "The Tava Journal",
-  "titleLead": "Alvás és stressz kutatás",
-  "titleAccent": "alapítóknak",
-  "sub": "Cikkek alvástudományról, stresszkutatásról és bőr-egészségről alapítóknak és cégtulajdonosoknak.",
-  "readStory": "Olvasd el a történetet"
- },
- "research": {
-  "pill": "Kutatási sorozat 001 · Résztvevői eredmények",
-  "h1Lead": "16 hetes betekintés a mért",
-  "h1Accent": "bőrváltozásokról.",
-  "heroSub": "Prospektív, nyílt jelölésű résztvevői program, amely személyre szabott bőrápolási rutint, kiegészítőket és életmód tanácsadást egyesít. Ezen az oldalon minden szám a jelentésből származik, a kiinduláskor és a 16. héten mérve.",
-  "chips": [
-   "Prospektív és nyílt jelölésű",
-   "Egykarú",
-   "Orvosilag felügyelt",
-   "Személyes klinikai kutatóhely"
-  ],
-  "headlineLabel": "Fő eredmény",
-  "headlineTitle": "Az összes aknés elváltozás 16.8 ról 6.2 re csökkent",
-  "slopeAria": "Lejtődiagram, amely az összes aknés elváltozást mutatja 16.8 ról a kiinduláskor 6.2 re a 16. héten",
-  "slopeBaseline": "Kiindulás 16.8",
-  "slopeWeek": "16. hét · 6.2",
-  "slopeNote": "Egyenes vonal csak a két mért pont között. A jelentés nem közölt eredményértékeket a 4., 8. vagy 12. hétre.",
-  "badges": [
-   {
-    "big": "60 százalékkal magasabb",
-    "small": "Bőrhidratáltság, 29.4 AU-ról 47.1 AU-ra"
-   },
-   {
-    "big": "52 százalékkal alacsonyabb",
-    "small": "Klinikai textúra pontszám, 4 ből 2.7 ről 4 ből 1.3 ra"
-   }
-  ],
-  "statsLabels": [
-   "Hetek a programban",
-   "Beiratkozott felnőttek",
-   "Minden vizitet teljesítő emberek",
-   "Teljesítési arány"
-  ],
-  "percentWord": "százalék",
-  "resultsBg": "Eredmények",
-  "resultsLabel": "Átlagos változás · Kiindulástól a 16. hétig",
-  "resultsTitle": "Mi változott, egyszerű számokban.",
-  "resultsSub": "Eredmények annál a 84 résztvevőnél, aki minden vizitet teljesített. Minden kártya azt a két időpontot hasonlítja össze, amelyet a vizsgálat ténylegesen mért.",
-  "baseline": "Kiindulás",
-  "week16": "16. hét",
-  "slopeFoot": "Kiindulástól a 16. hétig",
-  "results": [
-   {
-    "title": "Összes aknés elváltozás",
-    "change": "63 százalékkal alacsonyabb",
-    "note": "Bőrgyógyász által számolt elváltozások"
-   },
-   {
-    "title": "Bőrhidratáltság",
-    "change": "60 százalékkal magasabb",
-    "note": "Corneometer mérés AU-ban"
-   },
-   {
-    "title": "Erythema és bőrpír index",
-    "change": "30 százalékkal alacsonyabb",
-    "note": "Chromameter index"
-   },
-   {
-    "title": "Melanin és pigmentációs index",
-    "change": "25 százalékkal alacsonyabb",
-    "note": "Chromameter index"
-   },
-   {
-    "title": "Klinikai textúra pontszám",
-    "change": "52 százalékkal alacsonyabb",
-    "note": "0, 4 skálán osztályozva"
-   }
-  ],
-  "peopleBg": "Emberek",
-  "participantsLabel": "Kik vettek részt",
-  "participantsTitle": "Kik vettek részt a programban.",
-  "participantsSub": "Öt vizit a program során, a kiindulástól a 16. hétig.",
-  "ageLabel": "Átlagéletkor",
-  "ageSuffix": "Éves · Tartomány: 20, 48",
-  "visitTimeline": "Vizit idővonal",
-  "visits": [
-   {
-    "name": "Kiindulás",
-    "desc": "Szűrés, mérések és fényképezés"
-   },
-   {
-    "name": "4. hét",
-    "desc": "Nyomon követő értékelés"
-   },
-   {
-    "name": "8. hét",
-    "desc": "Nyomon követő értékelés"
-   },
-   {
-    "name": "12. hét",
-    "desc": "Nyomon követő értékelés"
-   },
-   {
-    "name": "16. hét",
-    "desc": "Végső mérések és fényképezés"
-   }
-  ],
-  "genderTitle": "Nemek megoszlása",
-  "genderAria": "Nemek megoszlása fánkdiagramon, 74 százalék nő, 24 százalék férfi, 2 százalék nem bináris",
-  "gender": [
-   {
-    "label": "Nő",
-    "pct": "74 százalék"
-   },
-   {
-    "label": "Férfi",
-    "pct": "24 százalék"
-   },
-   {
-    "label": "Nem bináris",
-    "pct": "2 százalék"
-   }
-  ],
-  "donutNote": "A fánkdiagram a jelentett megoszláshoz animálódik, amikor a nézetbe görget.",
-  "concernsTitle": "Kiindulási bőrproblémák",
-  "concerns": [
-   "Gyulladás utáni hiperpigmentáció",
-   "Egyenetlen textúra és érdesség",
-   "Gyulladásos akne",
-   "Arcbőrpír és érzékenység",
-   "Szem alatti sötét karikák",
-   "Szárazság és károsodott gát",
-   "Finom vonalak és korai fotoöregedés"
-  ],
-  "concernsNote": "A résztvevők több problémát is jelenthettek, így ezek az arányok nem adódnak össze 100 százalékra.",
-  "programBg": "Program",
-  "programLabel": "Program és protokoll",
-  "programTitle": "A 16 hetes program, lépésről lépésre.",
-  "programSub": "A résztvevők személyes szűrést, termékkiadást, alkalmazási oktatást és nyomon követő értékeléseket kaptak egy klinikai kutatóhelyen.",
-  "morningTag": "Reggeli rutin",
-  "morningTitle": "Kezdd a napot",
-  "amSteps": [
-   "Kíméletes tisztító",
-   "C-vitamin szérum, 15 százalék",
-   "Ceramid hidratáló",
-   "Ásványi fényvédő, SPF 50"
-  ],
-  "eveningTag": "Esti rutin",
-  "eveningTitle": "Zárd a napot",
-  "pmSteps": [
-   "Kíméletes tisztító",
-   "Niacinamide 5 százalék plusz cink szérum",
-   "Peptid gátkrém",
-   "Retinol 0.3 százalék, a 2. héten bevezetve és klinikai irányítás mellett adagolva"
-  ],
-  "routineNote": "A retinolt heti 3, 5 éjszaka használták a kezdeti kéthetes felépítési időszak után. Szükség szerint 2 százalékos szalicilsavat használtak az aktív elváltozásokra.",
-  "supplementLabel": "Kiegészítő rutin",
-  "supplementTitle": "Tava Skin Complex",
-  "supplementSub": "Két kapszula naponta reggelivel. A feltüntetett mennyiségek két kapszulás adagonként értendők.",
-  "supplements": [
-   "Vitamin C",
-   "Zinc",
-   "Niacinamide",
-   "Astaxanthin",
-   "Curcumin phytosome",
-   "Lactobacillus probiotikus keverék"
-  ],
-  "supplementNote": "Opcionális kiegészítés: Omega 3, egy lágykapszula naponta.",
-  "nutritionTitle": "Táplálkozási útmutatás",
-  "nutritionItems": [
-   "Legalább 2.5 L víz naponta",
-   "Zöldségek, bogyós gyümölcsök és omega 3 ban gazdag ételek",
-   "Korlátozd a hozzáadott cukrot és a magas glikémiás ételeket",
-   "Opcionális kéthetes alacsony tejtermékes, alacsony cukros újraindítás",
-   "Kiindulási tanácsadás regisztrált dietetikussal"
-  ],
-  "lifestyleTitle": "Életmód célok",
-  "lifestyleItems": [
-   "7, 9 óra alvás",
-   "Legalább 150 perc mérsékelt aktivitás hetente",
-   "Ötperces napi légzőgyakorlat",
-   "Alvás hetente naplózva",
-   "Hidratálási és fényvédő szokások áttekintése a viziteken"
-  ],
-  "adherenceLabel": "Programkövetés",
-  "adherenceTitle": "Mennyire maradtak az emberek a tervnél.",
-  "adherenceSub": "A követés a teljes 16 hét során, ahogyan a jelentésben rögzítették.",
-  "adherence": [
-   "Általános követés",
-   "Kiegészítők követése",
-   "Helyi kezelés követése"
-  ],
-  "adherenceAria": "{label}, {val} százalék",
-  "adherenceFoot": "A 16 hetes program során",
-  "safetyBg": "Biztonság",
-  "safetyLabel": "Jelentett mellékhatások",
-  "safetyTitle": "Amit a résztvevők jelentettek.",
-  "safetySub": "Az egyes hatásokat a program során jelentő résztvevők aránya.",
-  "sideEffectsTitle": "Mellékhatások",
-  "sideEffects": [
-   "Enyhe szárazság vagy hámlás",
-   "Átmeneti akne fellángolás",
-   "Enyhe gyomor és bélrendszeri kellemetlenség"
-  ],
-  "withdrawalsTitle": "Kilépések",
-  "withdrawalsSub": "8 résztvevő lépett ki a 92 beiratkozott közül.",
-  "withdrawals": [
-   {
-    "label": "Időbeosztási ütközések",
-    "value": "5 ember"
-   },
-   {
-    "label": "Enyhe mellékhatások",
-    "value": "2 ember"
-   },
-   {
-    "label": "Elveszett a nyomon követésből",
-    "value": "1 ember"
-   }
-  ],
-  "alertTitle": "Nem jelentettek súlyos nemkívánatos eseményt.",
-  "alertBody": "Ez a mondat a jelentésben szerepel az ezen az oldalon felsorolt enyhe hatások mellett. Pontosan úgy szerepel itt, ahogyan jelentették.",
-  "photoLabel": "Vizuális dokumentáció",
-  "photoTitle": "Résztvevői fénykép összehasonlítások.",
-  "photoSub": "Egymás melletti fényképek a négy hónapos programból. Minden pár bal oldali képe a kiindulást, a jobb oldali a 16. hetet mutatta. Ezen az oldalon nem szerepel résztvevői fénykép.",
-  "participant": "{initial} résztvevő",
-  "docViews": [
-   "Oldalprofil nézet",
-   "Szembőli nézet",
-   "Szembőli nézet szemüveggel",
-   "Közeli arc nézet"
-  ],
-  "baselineAndWeek": "Kiindulás és 16. hét",
-  "photoProtocolTitle": "Fényképezési protokoll",
-  "photoProtocol": "Szabványosított felvétel a kiinduláskor és a nyomon követéskor rögzített kamerabeállítással, egységes látható és keresztpolarizált világítással, szembőli, 45 fokos és profil szögekkel, valamint színkalibrált háttérrel.",
-  "methodsLabel": "Hogyan történtek a mérések",
-  "methodsTitle": "Klinikai mérések",
-  "methods": [
-   "Bőrgyógyász által számolt aknés elváltozások",
-   "Corneometer hidratálás",
-   "Chromameter bőrpír és melanin indexek",
-   "Textúra osztályozás 0, 4 skálán",
-   "Szabványosított fényképezés"
-  ],
-  "factsLabel": "Vizsgálati terv",
-  "factsTitle": "A terv egy pillantásra.",
-  "facts": [
-   {
-    "k": "Terv",
-    "v": "Prospektív, nyílt jelölésű, egykarú"
-   },
-   {
-    "k": "Helyszín",
-    "v": "Személyes, orvosilag felügyelt"
-   },
-   {
-    "k": "Értékelések",
-    "v": "Kiindulás, plusz 4., 8., 12., 16. hét"
-   },
-   {
-    "k": "Befejezte",
-    "v": "92 beiratkozottból 84 · 91 százalék"
-   }
-  ],
-  "source": "Forrás: Tava Labs Participant Outcomes, Research Series 001, 16 hetes résztvevői program. Ez az oldal csak a jelentés számait mutatja be, a kiindulással és a 16. héttel mint a két mért eredmény időponttal."
- },
- "account": {
-  "signedInAs": "Bejelentkezve mint",
-  "signOut": "Kijelentkezés",
-  "loading": "A fiókod betöltése…",
-  "failedTitle": "Nem tudtuk betölteni a fiókodat",
-  "failedSegments": [
-   {
-    "text": "Ellenőrizd a kapcsolatodat, és próbáld újra. Ha továbbra is előfordul, írj nekünk: "
-   },
-   {
-    "text": "support@tavalabs.app",
-    "href": "mailto:support@tavalabs.app"
-   },
-   {
-    "text": " és elintézzük."
-   }
-  ],
-  "tryAgain": "Próbáld újra",
-  "tabs": {
-   "today": "Ma",
-   "orders": "Rendelések",
-   "shop": "Bolt",
-   "lab": "Labor",
-   "support": "Támogatás"
-  },
-  "greetings": {
-   "morning": "Jó reggelt",
-   "afternoon": "Jó délutánt",
-   "evening": "Jó estét"
-  },
-  "weekInitials": [
-   "V",
-   "H",
-   "K",
-   "Sze",
-   "Cs",
-   "P",
-   "Szo"
-  ],
-  "streakLine": "{streak} napos sorozat · 30 ból a {day}. nap{bottle}",
-  "dayLine": "30 ból a {day}. nap{bottle}. Teljesítsd a mai rutinodat az alkalmazásban, hogy elindítsd a sorozatodat.",
-  "bottleSuffix": " · {days} nap van hátra az üvegből",
-  "progressLine": "30 ból a {day}. nap · {left} nap van hátra az első teljes hónapodig",
-  "stepsToGo": "Ma: {total} rutinlépésből {n} van még hátra.",
-  "todayComplete": "A mai nap kész. A következő napod már sorban áll.",
-  "planEyebrow": "A terved",
-  "planDefault": "Töltsd ki a bőrkvízt, és a válaszaidból épített személyes terved itt és az alkalmazásban is élni fog.",
-  "retakeQuiz": "Bőrkvíz újratöltése",
-  "takeQuiz": "Töltsd ki a bőrkvízt",
-  "chipLabels": {
-   "goal": "Cél",
-   "skinType": "Bőrtípus",
-   "concern": "Probléma",
-   "routine": "Rutin",
-   "plan": "Terv",
-   "routineTimes": "Rutin időpontok"
-  },
-  "labelMaps": {
-   "goal": {
-    "radiance": "Ragyogás",
-    "fine_lines": "Finom vonalak",
-    "hydration": "Hidratálás",
-    "even_tone": "Egyenletes tónus"
-   },
-   "skinType": {
-    "dry": "Száraz",
-    "oily": "Zsíros",
-    "combination": "Kombinált",
-    "sensitive": "Érzékeny",
-    "not_sure": "Nem biztos"
-   },
-   "concern": {
-    "dullness": "Fakóság",
-    "fine_lines": "Finom vonalak",
-    "uneven_tone": "Egyenetlen tónus",
-    "texture": "Textúra",
-    "dryness": "Szárazság"
-   },
-   "sensitivity": {
-    "often": "Gyakran érzékeny",
-    "sometimes": "Néha érzékeny",
-    "never": "Ritkán érzékeny"
-   },
-   "routine": {
-    "cleanser_only": "Csak tisztító",
-    "few_products": "Néhány termék",
-    "full_routine": "Teljes rutin"
-   },
-   "ramp": {
-    "gentle": "Kíméletes felépítés",
-    "standard": "Szokásos felépítés",
-    "full": "Teljes erősség"
-   }
-  },
-  "morningEyebrow": "Reggeli rutin",
-  "nightEyebrow": "Esti rutin",
-  "amTitle": "Reggel · 3 csepp",
-  "pmTitle": "Este · 3 csepp",
-  "amSteps": [
-   {
-    "title": "Tisztítás",
-    "detail": "Kíméletes tisztító, finoman töröld szárazra"
-   },
-   {
-    "title": "Vigyél fel 3 csepp szérumot",
-    "detail": "Nyomkodd az arcodba és a nyakadba"
-   },
-   {
-    "title": "Hidratálás + SPF",
-    "detail": "SPF 30 vagy magasabb"
-   }
-  ],
-  "pmSteps": [
-   {
-    "title": "Dupla tisztítás",
-    "detail": "Távolítsd el az SPF-et és a sminket"
-   },
-   {
-    "title": "Vigyél fel 3 csepp szérumot",
-    "detail": "Retinol vagy kezelések előtt"
-   },
-   {
-    "title": "Éjszakai hidratáló",
-    "detail": "Zárd be a hidratálást"
-   }
-  ],
-  "stepsNote": "A lépéseket a mobilalkalmazásban pipálod ki. Ez az oldal a mai rutinodat mutatja, és azt, amit az alkalmazás mára eddig rögzített.",
-  "ordersEyebrow": "Rendelések",
-  "ordersTitle": "A rendeléseid",
-  "ordersEmpty": "Még nincsenek rendelések. Amikor vásárolsz, a rendeléseid és a nyomon követésük itt és az alkalmazásban is megjelennek.",
-  "paid": "Kifizetve",
-  "paymentFailed": "Sikertelen fizetés",
-  "unpaid": "Kifizetetlen",
-  "statusLabels": [
-   "Megrendelve",
-   "Feladva",
-   "Kiszállítás alatt",
-   "Kézbesítve"
-  ],
-  "subscription": "Előfizetés",
-  "carrierFallback": "Fuvarozó",
-  "trackPackage": "Csomag nyomon követése",
-  "claimEyebrow": "Igénylőkód",
-  "claimTitle": "Vásárlás összekapcsolása az alkalmazással",
-  "claimForOrder": "Az igénylőkódod a {order} rendeléshez",
-  "claimYourCode": "Az igénylőkódod",
-  "claimValidUntil": " (érvényes: {date})",
-  "claimEnter": ". Add meg a Tava alkalmazásban a Rendelések alatt, hogy összekapcsold ezt a vásárlást az alkalmazás fiókoddal:",
-  "claimWebNote": "Itt a weben nincs szükséged a kódra. A fizetéskor használt e-mail címmel bejelentkezve a rendeléseid és a terved már fent megjelennek.",
-  "claimEmpty": "A kvízen vagy ezen az oldalon keresztül vásároltál? A visszaigazoló e-mailed és a fizetés utáni oldal egy igénylőkódot mutatott. Nyisd meg a Tava mobilalkalmazást, jelentkezz be, és add meg a kódot a Rendelések fülön. A vásárlásod, a terved és a kvíz válaszaid átkerülnek az alkalmazás fiókodba. Itt a weben azzal az e-mail címmel bejelentkezve, amellyel fizettél, már minden fent megjelenik. Semmi mást nem kell megadnod.",
-  "shop": {
-   "eyebrow": "PDRN Brightening Serum",
-   "title": "Vásároljon a Tava Labsnál",
-   "body": "1 fl oz (30 ml). Csökkentsd a finom vonalakat, hidratálj mélyen, állítsd vissza a ragyogást, és erősítsd a bőrt. Két, négy pumpálás, reggel és este.",
-   "subscribeLine": "Előfizetés, $39 havonta.",
-   "subscribeRest": " Minden hónapban friss üveg, automatikusan.",
-   "oneTimeLine": "Egyszeri, $49.",
-   "oneTimeRest": " Egyetlen üveg.",
-   "subscribeBtn": "Előfizetés, $39 havonta",
-   "buyOnceBtn": "Egyszeri vásárlás, $49",
-   "stripeNote": "Biztonságos fizetés a Stripe-on keresztül. A fizetést a Stripe oldalán erősíted meg."
-  },
-  "labTab": {
-   "eyebrow": "Labor",
-   "title": "Ismerd a számaidat.",
-   "sub": "Valódi vérpanelek, a Tava fiókod alatt rendelve. Böngészd a paneleket, nézd meg minden markert rendelés előtt, és az eredményeidet közvetlenül ide kézbesítjük."
-  },
-  "support": {
-   "eyebrow": "Támogatás",
-   "title": "Itt vagyunk, hogy segítsünk",
-   "segments": [
-    {
-     "text": "Írj nekünk: "
-    },
-    {
-     "text": "support@tavalabs.app",
-     "href": "mailto:support@tavalabs.app"
-    },
-    {
-     "text": " vagy hívj minket: "
-    },
-    {
-     "text": "909-906-1308",
-     "href": "tel:+19099061308"
-    },
-    {
-     "text": "."
-    }
-   ],
-   "links": {
-    "general": "Általános kérdések",
-    "productSupport": "Terméktámogatás",
-    "salesSupport": "Rendelési és értékesítési támogatás",
-    "faqs": "GYIK",
-    "shipping": "Szállítási szabályzat",
-    "returns": "Visszaküldési szabályzat"
-   }
-  }
- },
- "lab": {
-  "ordersLabel": "Klinikai értékelés",
-  "ordersTitle": "A laborrendeléseid",
-  "loadingOrders": "A rendeléseid betöltése…",
-  "ordersEmpty": "Még semmi sincs itt. Amikor elvégzel egy panelt, minden marker ide érkezik az értékével, az egészséges tartományával és azzal, hogyan mozog időben. Rendeld meg lent az első paneledet, és ez a tér feltöltődik.",
-  "viewResults": "Eredmények megtekintése",
-  "howLabel": "Hogyan működnek a laborok",
-  "howTitle": "Négy lépés, egy vérvétel",
-  "steps": [
-   {
-    "title": "Válassz egy panelt",
-    "body": "Válaszd azt a panelt, amely illik ahhoz, amit tudni szeretnél. Benne minden marker fel van sorolva, mielőtt rendelsz."
-   },
-   {
-    "title": "Orvosi értékelés",
-    "body": "Egy engedéllyel rendelkező orvos minden rendelést értékel és engedélyez, így nincs szükség külön orvosi vizitre."
-   },
-   {
-    "title": "Menj be a vérvételre",
-    "body": "Egy gyors vérvétel egy hozzád közeli mintavételi helyen. A legtöbb vizit körülbelül tizenöt percig tart."
-   },
-   {
-    "title": "Az eredmények ide érkeznek",
-    "body": "Az eredményeket napokon belül digitálisan kézbesítjük erre a fülre, minden markerrel és tartományával."
-   }
-  ],
-  "panelsLabel": "A panelek",
-  "panelsTitle": "Tizennégy panel, aköré építve, amit követsz",
-  "panelsSub": "Minden panel mutatja az árát. A rendelés akkor nyílik meg, amikor a fizetést bekapcsolják, és egy engedéllyel rendelkező orvos minden rendelést értékel, mielőtt az eredményeidet közvetlenül ide kézbesítik. A panelek nem rendelhetők New York, New Jersey vagy Rhode Island államokbeli címekre.",
-  "markersSuffix": "{n} marker",
-  "resultsInDays": "Eredmények napokon belül",
-  "hideMarkers": "Markerek elrejtése",
-  "seeMarkers": "Markerek megtekintése",
-  "markersAria": "Markerek ebben: {name}",
-  "disclaimer": "A labor betekintések információk a saját egészségedről, és nem diagnózisok. Beszélj az orvosoddal minden olyan eredményről, amely aggaszt, és vészhelyzetben hívd a 911-et.",
-  "panelsById": {
-   "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
-    "name": "Sportteljesítmény panel",
-    "description": "Edzési készenlét és regenerálódás: vérkép, anyagcsere panel, vasraktárak, D-vitamin, tesztoszteron, gyulladás és izomenzimek.",
-    "collection": "Vérvétel személyesen"
-   },
-   "38c76039-05dc-4cd3-8475-7a675989fbf2": {
-    "name": "Kiindulási jólléti panel",
-    "description": "Teljes test kiindulópont: vérkép, anyagcsere egészség, koleszterin, vércukor, D-vitamin és pajzsmirigy.",
-    "collection": "Vérvétel személyesen"
-   },
-   "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
-    "name": "Energia és fáradtság panel",
-    "description": "Az alacsony energia mögötti szokásos gyanúsítottak: vasraktárak és szállítás, B12, folát, D-vitamin, pajzsmirigy és vérkép.",
-    "collection": "Vérvétel személyesen"
-   },
-   "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
-    "name": "Női alap panel",
-    "description": "Fókuszált panel 14 markerrel, lent teljes egészében felsorolva.",
-    "collection": "Vérvétel személyesen"
-   },
-   "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
-    "name": "GLP1 panel",
-    "description": "Fókuszált panel 10 markerrel, lent teljes egészében felsorolva.",
-    "collection": "Vérvétel személyesen"
-   },
-   "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
-    "name": "Szív egészsége panel",
-    "description": "Kardiovaszkuláris kockázat az alap koleszterinen túl: lipidek, ApoB, Lp(a), hs-CRP és homocisztein.",
-    "collection": "Vérvétel személyesen"
-   },
-   "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
-    "name": "Hosszú élet panel",
-    "description": "Átfogó éves mélyelemzés az anyagcsere, a kardiovaszkuláris, a gyulladásos és a hormonális egészség markerein keresztül.",
-    "collection": "Vérvétel személyesen"
-   },
-   "b909fb21-b264-483c-a915-4ce87713cfa9": {
-    "name": "Férfi alap teszt",
-    "description": "Fókuszált panel 12 markerrel, lent teljes egészében felsorolva.",
-    "collection": "Vérvétel személyesen"
-   },
-   "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
-    "name": "Férfi TRT panel",
-    "description": "Fókuszált panel 16 markerrel, lent teljes egészében felsorolva.",
-    "collection": "Vérvétel személyesen"
-   },
-   "abfabb68-c777-4457-87c2-46bf5fe26d81": {
-    "name": "Férfi hormon panel",
-    "description": "Férfi hormonállapot: összes tesztoszteron, SHBG, ösztradiol, LH és FSH.",
-    "collection": "Vérvétel személyesen"
-   },
-   "f12fe316-367a-4c53-9735-8c0129c45506": {
-    "name": "Anyagcsere egészsége panel",
-    "description": "Vércukor szabályozás és anyagcsere kockázat: A1c, éhgyomri inzulin, koleszterin és teljes anyagcsere panel.",
-    "collection": "Vérvétel személyesen"
-   },
-   "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
-    "name": "Stressz és regenerálódás panel",
-    "description": "Stresszterhelés és regenerálódási képesség: kortizol, DHEA-S, pajzsmirigy és gyulladás.",
-    "collection": "Vérvétel személyesen"
-   },
-   "1760616d-44d3-4654-817d-440a969e5cdf": {
-    "name": "Teljes pajzsmirigy panel",
-    "description": "Teljes pajzsmirigy vizsgálat: TSH, szabad T4, szabad T3 és TPO antitestek.",
-    "collection": "Vérvétel személyesen"
-   },
-   "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
-    "name": "Női hormon panel",
-    "description": "Női hormonállapot: ösztradiol, progeszteron, FSH, LH, DHEA-S és tesztoszteron.",
-    "collection": "Vérvétel személyesen"
-   }
-  },
-  "detail": {
-   "backToAccount": "Vissza a fiókodhoz",
-   "notFoundTitle": "Ez a laborrendelés nem található",
-   "notFoundBody": "Lehet, hogy egy másik e-mail címhez tartozik. Jelentkezz be azzal az e-mail címmel, amely alatt rendeltél, és próbáld újra.",
-   "clinicalReview": "KLINIKAI ÉRTÉKELÉS",
-   "loadingResults": "Az eredményeid betöltése…",
-   "yourPanel": "A paneled",
-   "markerFallback": "Marker",
-   "headlines": {
-    "loading": "Az eredményeid előhívása",
-    "pending": "Az eredményeid úton vannak",
-    "allIn": "Minden eredményed megérkezett.",
-    "in": "Megérkeztek az eredményeid."
-   },
-   "sublines": {
-    "loading": "Egy pillanat, amíg a laborjelentés betöltődik.",
-    "pending": "Amint a labor jelent, ez az oldal feltöltődik minden markerrel, az értékével és az egészséges tartományával.",
-    "allIn": "Minden marker a tartományban van. Itt a teljes kép.",
-    "oneAttention": "Egy marker igényel közelebbi vizsgálatot. Nézzük meg.",
-    "manyAttention": "{n} marker igényel közelebbi vizsgálatot. Nézzük meg."
-   },
-   "orderedPrefix": "Megrendelve",
-   "statusPrefix": "Állapot:",
-   "notInYetTitle": "Az eredmények még nem érkeztek meg",
-   "notInYetBody": "A legtöbb panel a vérvételtől számított napokon belül jelent. Amikor a tied megérkezik, ez az oldal a teljes egyensúly nézetet mutatja minden markerrel és tartományával.",
-   "markerBalance": "A markeregyensúlyod",
-   "biomarkers": "BIOMARKEREK",
-   "analyzedSuffix": "{pct}% elemezve",
-   "statusNames": {
-    "optimal": "Optimális",
-    "inRange": "Tartományban",
-    "attention": "Figyelmet igényel"
-   },
-   "statusLabels": {
-    "optimal": "OPTIMÁLIS",
-    "inRange": "TARTOMÁNYBAN",
-    "attention": "JELÖLT"
-   },
-   "basePrefix": "Alap: {name}",
-   "updatedPrefix": "Frissítve: {date}",
-   "updatedRecently": "Nemrég frissítve",
-   "triageTitle": "Állapot válogatás",
-   "tapToFilter": "Koppints a szűréshez",
-   "triageSubs": {
-    "optimal": "Pont ott, ahol szeretnéd őket",
-    "inRange": "Az egészséges tartományon belül",
-    "attention": "Érdemes megbeszélni az orvosoddal"
-   },
-   "allFilter": "Összes ({n})",
-   "rangePrefix": "Tartomány: {range}",
-   "disclaimer": "A laboreredmények információk a saját egészségedről, és nem diagnózisok. Beszélj az orvosoddal minden olyan eredményről, amely aggaszt, és vészhelyzetben hívd a 911-et."
-  }
- },
- "login": {
-  "brandHeadLead": "Üdvözlünk",
-  "brandHeadAccent": "újra.",
-  "brandCopy": "A terved, a rendeléseid és a rutinod. Egyetlen e-mail köti össze az alkalmazást és a webet.",
-  "label": "A Tava fiókod",
-  "title": "Bejelentkezés",
-  "intro": "Jelentkezz be azzal az e-mail címmel, amelyet a fizetéskor vagy a Tava mobilalkalmazásban használtál. A terved, a rendeléseid és a rutinod ahhoz az e-mail címhez kötődnek, így itt minden megegyezik az alkalmazással. Nincs szükség jelszóra. E-mailben küldünk egy bejelentkezési linket, és arra koppintva a fiókodba érkezel.",
-  "emailLabel": "E-mail cím",
-  "invalidEmail": "Adj meg egy érvényes e-mail címet.",
-  "sendFailed": "Nem tudtuk elküldeni azt az e-mailt. Ellenőrizd a címet, és próbáld újra.",
-  "sending": "Küldés…",
-  "sendButton": "Küldj bejelentkezési linket e-mailben",
-  "sentNotice": "Bejelentkezési link elküldve erre: {email}. Egy percig is eltarthat, amíg megérkezik. Nézd meg a spam mappádat, ha nem látod.",
-  "sentBody": "Nyisd meg azt az e-mailt ezen az eszközön, és koppints a benne lévő linkre. A fiókodba érkezel, már bejelentkezve. A link egyszer működik és lejár, használd hamar.",
-  "resend": "E-mail újraküldése",
-  "differentEmail": "Másik e-mail cím használata",
-  "footNote": "Először jársz itt? Ugyanaz a link létrehozza a fiókodat. Használd a rendelésed e-mail címét, és minden már vár rád.",
-  "claimLabel": "A weben vásároltál, az alkalmazást használod?",
-  "claimTitle": "Használd az igénylőkódodat az alkalmazásban",
-  "claimBody1": "Amikor a kvízen vagy ezen az oldalon keresztül vásároltál, a vásárlást visszaigazoló e-mailed (és a fizetés utáni oldal) egy igénylőkódot mutatott. Nyisd meg a Tava mobilalkalmazást, jelentkezz be, és add meg azt a kódot a Rendelések fülön. A vásárlásod, a terved és a kvíz válaszaid átkerülnek az alkalmazás fiókodba, második vásárlás nélkül.",
-  "claimBody2": "A weben még egyszerűbb. Jelentkezz be fent azzal az e-mail címmel, amellyel fizettél, és a rendeléseid és a terved már itt vannak.",
-  "faqButton": "Kérdésed van? Nézd meg a GYIK-et"
- },
- "checkout": {
-  "title": "Fizetés",
-  "closeAria": "Fizetés bezárása",
-  "planOneTime": "PDRN Brightening Serum · $49 · Egyszeri vásárlás",
-  "planSubscribe": "PDRN Brightening Serum · $39 havonta · Subscribe & Save 20%",
-  "email": "E-mail",
-  "firstName": "Keresztnév",
-  "lastName": "Vezetéknév",
-  "streetAddress": "Utca és házszám",
-  "addressLine2": "2. címsor (opcionális)",
-  "city": "Város",
-  "state": "Állam",
-  "zip": "ZIP",
-  "country": "Ország",
-  "phoneOptional": "Telefon (opcionális)",
-  "missingIntro": "Már majdnem kész. Add meg: {fields}.",
-  "missingNames": {
-   "email": "érvényes e-mail cím",
-   "firstName": "keresztnév",
-   "lastName": "vezetéknév",
-   "address1": "utca és házszám",
-   "city": "város",
-   "state": "állam",
-   "zip": "ZIP kód"
-  },
-  "creating": "A fizetésed létrehozása…",
-  "taking": "Átirányítunk a biztonságos fizetéshez…",
-  "continueBtn": "Tovább a fizetéshez",
-  "startError": "A fizetés nem indulhatott el. Ellenőrizd az adataidat, és próbáld újra. Semmit nem terheltünk.",
-  "stripeNote": "Biztonságos fizetés a Stripe-on keresztül. A fizetést a Stripe oldalán erősíted meg. Még semmit nem terhelünk."
- },
- "legal": {
-  "governsNote": "Ez az oldal az angol eredeti fordítása. Ha a megfogalmazás valaha eltér, az angol változat az irányadó."
- }
 }

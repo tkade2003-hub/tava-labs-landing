@@ -1,1943 +1,2052 @@
 {
- "meta": {
-  "about": {
-   "description": "Tava Labs vyrába jeden produkt, PDRN Brightening Serum, denné sérum na tvár pre zakladateľov a majiteľov firiem. Prečítajte si, kto sme a prečo sme ho vyrobili.",
-   "title": "O Tava Labs | Sérum na tvár pre zakladateľov"
+  "meta": {
+    "about": {
+      "description": "Tava Labs vyrába jeden produkt, PDRN Brightening Serum, denné sérum na tvár pre zakladateľov a majiteľov firiem. Prečítajte si, kto sme a prečo sme ho vyrobili.",
+      "title": "O Tava Labs | Sérum na tvár pre zakladateľov"
+    },
+    "account": {
+      "description": "Váš účet Tava Labs na webe: váš plán, objednávky, rutina a podpora, prepojené s rovnakým emailom ako mobilná aplikácia.",
+      "title": "Váš účet | Tava Labs"
+    },
+    "blog": {
+      "description": "Veda o spánku, výskum stresu a zdravie pleti pre zakladateľov a majiteľov firiem, plus praktické rutiny, ako v práci vyzerať oddýchnuto.",
+      "title": "The Tava Journal | Pleť, spánok a stres pre zakladateľov"
+    },
+    "checkoutCancel": {
+      "description": "Nebol účtovaný žiadny poplatok. Váš plán a odpovede Tava Labs sú uložené, takže objednávku môžete dokončiť neskôr, keď budete pripravení.",
+      "title": "Pokladňa zrušená | Nebola účtovaná žiadna suma | Tava Labs"
+    },
+    "checkoutSuccess": {
+      "description": "Vaša objednávka PDRN Brightening Serum od Tava Labs je potvrdená. Váš kód nároku spája tento nákup s aplikáciou, kde vidíte svoj plán, svoje odpovede z kvízu a svoju objednávku.",
+      "title": "Objednávka potvrdená | Vaše PDRN Brightening Serum | Tava Labs"
+    },
+    "contact": {
+      "description": "Kontaktujte Tava Labs ohľadom podpory k produktom, pomoci s objednávkami, veľkoobchodu, partnerstiev a tlače. Napíšte na support@tavalabs.app pre objednávky a pomoc s produktmi, alebo na talia@tavalabs.app pre veľkoobchod, partnerstvá a tlač. Alebo zavolajte na 909-906-1308.",
+      "title": "Kontaktujte Tava Labs | Podpora, predaj a partnerstvá"
+    },
+    "cookies": {
+      "description": "Ako webová stránka Tava Labs používa súbory cookie a podobné nástroje, keď navštívite tavalabs.app, čo ukladajú a ako ich môžete ovládať.",
+      "title": "Zásady používania súborov cookie | Tava Labs"
+    },
+    "faq": {
+      "description": "Odpovede o PDRN Brightening Serum: ceny, Subscribe and Save, dodacie lehoty, vrátenie tovaru, kvíz o pleti a prepojenie nákupu s aplikáciou Tava.",
+      "title": "Časté otázky a odpovede o PDRN Brightening Serum | Tava Labs"
+    },
+    "home": {
+      "description": "Denné sérum na tvár pre zakladateľov a majiteľov firiem. PDRN Brightening Serum s PDRN, peptidmi a kyselinou hyalurónovou pre jasnejšiu a hydratovanú pleť na pohľad. $49 jednorazovo alebo $39 mesačne.",
+      "title": "PDRN Brightening Serum pre podnikateľov | Tava Labs"
+    },
+    "ingredients": {
+      "description": "Každá zložka v PDRN Brightening Serum vysvetlená, od PDRN a peptidov až po Sodium Hyaluronate a Panthenol, vrátane úplného zoznamu INCI a toho, čo zámerne vynechávame.",
+      "title": "Zloženie PDRN Brightening Serum | Tava Labs"
+    },
+    "login": {
+      "description": "Prihláste sa do svojho účtu Tava Labs: váš plán, objednávky, rutina a podpora, prepojené s rovnakým emailom ako mobilná aplikácia.",
+      "title": "Prihlásiť sa | Tava Labs"
+    },
+    "partners": {
+      "description": "Akcelerátory, inkubátory, podnikateľské programy a investori: darujte svojim zakladateľom mesačnú zásobu PDRN Brightening Serum zadarmo. Staňte sa partnerom Tava Labs.",
+      "title": "Staňte sa partnerom Tava Labs | Sérum zadarmo pre váš program"
+    },
+    "privacy": {
+      "description": "Ako Tava Labs zhromažďuje, používa a chráni vaše údaje, keď navštívite tavalabs.app, vyplníte kvíz o pleti alebo si objednáte PDRN Brightening Serum.",
+      "title": "Zásady ochrany osobných údajov | Tava Labs"
+    },
+    "product": {
+      "description": "PDRN Brightening Serum od Tava Labs je denné sérum na tvár s PDRN, peptidmi a sodium hyaluronátom pre jasnejšiu a hydratovanú pleť na pohľad. Vyrobené pre zakladateľov a majiteľov firiem. $49 jednorazovo alebo $39 mesačne.",
+      "title": "PDRN Brightening Serum pre podnikateľov | Tava Labs"
+    },
+    "moisturizer": {
+      "title": "Peptide Moisturizer pre zakladateľov a majiteľov firiem | Tava Labs",
+      "description": "Peptide Moisturizer od Tava Labs je pleťový hydratačný krém s medeným peptidom a extraktom z brusníc. Hydratuje pleť a cieli na vzhľad jemných liniek a vrások. 1.7 fl oz (50 ml). $27.99 jednorazovo."
+    },
+    "quiz": {
+      "description": "Odpovedzte na pár rýchlych otázok a vytvorte si osobný plán okolo PDRN Brightening Serum. Jedno sérum, dvakrát denne, prispôsobené vašej pleti a vašim cieľom.",
+      "title": "Kvíz o pleti | Vytvorte si osobný plán séra | Tava Labs"
+    },
+    "research": {
+      "description": "Namerané výsledky 16-týždňového programu účastníkov Tava Labs. Zmeny od začiatku do 16. týždňa pri léziách akné, hydratácii, začervenaní, pigmentácii a textúre, vrátane úplného protokolu programu.",
+      "title": "Výsledky 16-týždňového výskumu | Tava Labs"
+    },
+    "returns": {
+      "description": "Zásady Tava Labs pre vrátenie tovaru a refundáciu objednávok PDRN Brightening Serum, vrátane našich podmienok, že každý predaj je konečný, a ako kontaktovať podporu.",
+      "title": "Zásady vrátenia tovaru a refundácie | Tava Labs"
+    },
+    "shipping": {
+      "description": "Zásady doručovania Tava Labs pre objednávky PDRN Brightening Serum: časy spracovania, odhady doručenia, sledovanie zásielky a oblasti doručenia.",
+      "title": "Zásady doručovania | Tava Labs"
+    },
+    "terms": {
+      "description": "Podmienky, ktoré upravujú vaše používanie stránky tavalabs.app a váš nákup PDRN Brightening Serum od Tava Labs, LLC, vrátane našich podmienok, že každý predaj je konečný.",
+      "title": "Obchodné podmienky | Tava Labs"
+    }
   },
-  "account": {
-   "description": "Váš účet Tava Labs na webe: váš plán, objednávky, rutina a podpora, prepojené s rovnakým emailom ako mobilná aplikácia.",
-   "title": "Váš účet | Tava Labs"
+  "chrome": {
+    "addToRoutine": "Pridať do rutiny",
+    "closeMenu": "Zavrieť menu",
+    "contactHeading": "Kontaktujte nás",
+    "contactLinks": {
+      "general": "Všeobecné",
+      "pr": "PR",
+      "productSupport": "Podpora k produktom",
+      "salesSupport": "Podpora predaja",
+      "wholesale": "Veľkoobchod"
+    },
+    "contactEmails": {
+      "supportLabel": "Objednávky a pomoc s produktmi",
+      "generalLabel": "Všeobecný kontakt"
+    },
+    "copyright": "© 2026 Tava Labs · PDRN Brightening Serum pre zakladateľov",
+    "disclaimer1": "PDRN Brightening Serum je kozmetický produkt. Nie je určený na diagnostiku, liečbu, vyliečenie ani prevenciu žiadneho ochorenia. Jednotlivé výsledky sa môžu líšiť.",
+    "disclaimer2": "Každý predaj je konečný. Pred objednaním si prosím pozrite naše Zásady vrátenia tovaru.",
+    "footerIngredients": "Zloženie",
+    "footerSerum": "PDRN Brightening Serum",
+    "footerMoisturizer": "Peptide Moisturizer",
+    "homeAria": "Domovská stránka Tava Labs",
+    "infoHeading": "Informácie",
+    "infoLinks": {
+      "about": "O nás",
+      "blog": "Blog",
+      "faqs": "Časté otázky",
+      "ingredients": "Zloženie",
+      "partners": "Partneri",
+      "research": "Výskum"
+    },
+    "language": "Jazyk",
+    "legalHeading": "Právne informácie",
+    "legalLinks": {
+      "cookies": "Zásady používania súborov cookie",
+      "privacy": "Zásady ochrany osobných údajov",
+      "returns": "Zásady vrátenia tovaru",
+      "shipping": "Zásady doručovania",
+      "terms": "Obchodné podmienky"
+    },
+    "login": "Prihlásiť sa",
+    "mobileNavAria": "Mobilná",
+    "navAbout": "O nás",
+    "navBlog": "Blog",
+    "navContact": "Kontakt",
+    "navFaqs": "Časté otázky",
+    "navIngredients": "Zloženie",
+    "navSerum": "Sérum",
+    "newsletter": {
+      "done": "Ste prihlásení na odber. Ďakujeme.",
+      "error": "Niečo sa pokazilo, skúste to prosím znova.",
+      "placeholder": "Váš email",
+      "sending": "Odosiela sa...",
+      "subscribe": "Odoberať"
+    },
+    "newsletterHeading": "Dostávať novinky Tava Labs e-mailom",
+    "notFoundBody": "Táto stránka tu nie je. Možno sa presunula alebo je adresa neúplná.",
+    "notFoundHome": "Späť na domovskú stránku",
+    "notFoundLabel": "Tava Labs",
+    "notFoundShop": "Kúpiť PDRN Brightening Serum",
+    "notFoundTitle": "Stránka sa nenašla",
+    "openMenu": "Otvoriť menu",
+    "primaryNavAria": "Hlavná",
+    "shopHeading": "Obchod",
+    "tagline": "PDRN Brightening Serum pre zakladateľov"
   },
-  "blog": {
-   "description": "Veda o spánku, výskum stresu a zdravie pleti pre zakladateľov a majiteľov firiem, plus praktické rutiny, ako v práci vyzerať oddýchnuto.",
-   "title": "The Tava Journal | Pleť, spánok a stres pre zakladateľov"
-  },
-  "checkoutCancel": {
-   "description": "Nebol účtovaný žiadny poplatok. Váš plán a odpovede Tava Labs sú uložené, takže objednávku môžete dokončiť neskôr, keď budete pripravení.",
-   "title": "Pokladňa zrušená | Nebola účtovaná žiadna suma | Tava Labs"
-  },
-  "checkoutSuccess": {
-   "description": "Vaša objednávka PDRN Brightening Serum od Tava Labs je potvrdená. Váš kód nároku spája tento nákup s aplikáciou, kde vidíte svoj plán, svoje odpovede z kvízu a svoju objednávku.",
-   "title": "Objednávka potvrdená | Vaše PDRN Brightening Serum | Tava Labs"
-  },
-  "contact": {
-   "description": "Kontaktujte Tava Labs ohľadom podpory k produktom, pomoci s objednávkami, veľkoobchodu, partnerstiev a tlače. Napíšte na support@tavalabs.app pre objednávky a pomoc s produktmi, alebo na talia@tavalabs.app pre veľkoobchod, partnerstvá a tlač. Alebo zavolajte na 909-906-1308.",
-   "title": "Kontaktujte Tava Labs | Podpora, predaj a partnerstvá"
-  },
-  "cookies": {
-   "description": "Ako webová stránka Tava Labs používa súbory cookie a podobné nástroje, keď navštívite tavalabs.app, čo ukladajú a ako ich môžete ovládať.",
-   "title": "Zásady používania súborov cookie | Tava Labs"
-  },
-  "faq": {
-   "description": "Odpovede o PDRN Brightening Serum: ceny, Subscribe and Save, dodacie lehoty, vrátenie tovaru, kvíz o pleti a prepojenie nákupu s aplikáciou Tava.",
-   "title": "Časté otázky a odpovede o PDRN Brightening Serum | Tava Labs"
+  "hero": {
+    "ariaLabel": "PDRN Brightening Serum",
+    "cardAria": "PDRN Brightening Serum, stránka produktu",
+    "line1": "Denné sérum na tvár pre",
+    "line2": "jasnejšia, hladšia pleť.",
+    "morningAlt": "Zakladateľ si nanáša sérum pri kúpeľňovom zrkadle v rannom svetle",
+    "morningCaption": "Nanášajte pri zrkadle každé ráno",
+    "morningPill": "Ranná rutina",
+    "onSetAlt": "Zakladateľ sediaci v štúdiu, tvárou ku kamere",
+    "onSetCaption": "Na natáčanie a videohovory",
+    "onSetPill": "Pred kamerou",
+    "pill": "Pre zakladateľov a majiteľov firiem",
+    "priceLine": "$49 jednorazovo alebo $39 mesačne",
+    "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Nanášajte dve až štyri kvapky ráno a večer. $49 jednorazovo alebo $39 mesačne.",
+    "talia": {
+      "alt": "Talia Kade, výskumníčka v Tava Labs, v bielom laboratórnom plášti",
+      "baseline": "Začiatok",
+      "slopeAria": "Trendová čiara z hodnoty 16.8 na začiatku na 6.2 v 16. týždni",
+      "statBig": "o 63 % nižšie",
+      "statCap": "Lézie akné",
+      "statNote": "Priemerná zmena v 16-týždňovom programe účastníkov",
+      "week16": "16. týždeň"
+    },
+    "wideHead": "Jedna fľaša, používaná ráno a večer.",
+    "widePill": "Deň a noc"
   },
   "home": {
-   "description": "Denné sérum na tvár pre zakladateľov a majiteľov firiem. PDRN Brightening Serum s PDRN, peptidmi a kyselinou hyalurónovou pre jasnejšiu a hydratovanú pleť na pohľad. $49 jednorazovo alebo $39 mesačne.",
-   "title": "PDRN Brightening Serum pre podnikateľov | Tava Labs"
+    "buildersBody": "Zakladatelia a majitelia firiem sa prezentujú celý deň. Prezentujete investorom osobne, predávate na videohovoroch a nahrávate videá pre zákazníkov. Vyzerať čisto a oddýchnuto je súčasťou dobrej prezentácie vašej firmy. Krátka denná rutina starostlivosti o pleť sedí vedľa dobrého šatníka a spoľahlivého notebooku ako základná údržba. PDRN Brightening Serum zaberie dve minúty, ráno a večer.",
+    "buildersTagline": "Budujte svoju firmu. Nezanedbávajte seba.",
+    "buildersTitle": "Vyrobené pre zakladateľov a majiteľov firiem",
+    "cameraAlt": "Zakladateľ hovoriaci pred kamerou",
+    "cameraBody": "Pri natáčaní videa, podcaste alebo predajnom hovore kamera ukazuje unavenú pleť zblízka. Dvojminútová rutina ráno a večer pomáha vašej pleti vyzerať oddýchnuto pred nahrávaním.",
+    "cameraTitle": "Pred kamerou",
+    "closeVideo": "Zavrieť video",
+    "founderBody1": "To je myšlienka za Tava Labs. PDRN Brightening Serum je jediný krok, okolo ktorého je rutina postavená: dve minúty, dvakrát denne, ráno a večer.",
+    "founderBody2": "Pozrite si video a vypočujte si, prečo sme ho vyrobili, našimi vlastnými slovami.",
+    "founderLabel": "Odkaz od nášho zakladateľa",
+    "founderPhilosophy": "Filozofia Tava Labs",
+    "founderQuote": "„Jedno sérum, dve minúty, ráno a večer. To je celá rutina.“",
+    "founderVideoAria": "Video Tava Labs, prečo sme vyrobili PDRN Brightening Serum",
+    "freeFromItems": [
+      {
+        "blurb": "Nikdy netestované na zvieratách.",
+        "name": "Bez krutosti"
+      },
+      {
+        "blurb": "Žiadne pridané parfumy ani syntetické vône.",
+        "name": "Bez parfumácie"
+      },
+      {
+        "blurb": "Žiadny minerálny olej ani ropné plnivá.",
+        "name": "Bez minerálneho oleja"
+      },
+      {
+        "blurb": "Žiadne ftaláty vo formule.",
+        "name": "Bez ftalátov"
+      },
+      {
+        "blurb": "Žiadne silikóny, ktoré by pokrývali vašu pleť.",
+        "name": "Bez silikónov"
+      },
+      {
+        "blurb": "Žiadne agresívne sulfáty. Šetrné k pleti.",
+        "name": "Bez sulfátov"
+      },
+      {
+        "blurb": "Vyrobené bez bežných alergénov.",
+        "name": "Bez alergénov"
+      },
+      {
+        "blurb": "Žiadne vysušujúce alkoholy.",
+        "name": "Bez alkoholu"
+      }
+    ],
+    "freeFromSub": "To, čo vynechávame, je rovnako dôležité ako to, čo pridávame.",
+    "freeFromTitleAccent": "vo formule.",
+    "freeFromTitleLead": "Čo nie je",
+    "introBody": "Zakladatelia a majitelia firiem trávia svoje dni na stretnutiach, predajných hovoroch a v nahratých videách. Vaša tvár je na obrazovke a v miestnosti pri tom všetkom. PDRN Brightening Serum je jeden ľahký krok s PDRN, peptidmi a kyselinou hyalurónovou. Rýchlo sa vstrebáva a pomáha pleti vyzerať jasnejšie, hydratovane a hladko. Dve minúty, dvakrát denne.",
+    "introTitleAccent": "zdravo vyzerajúca pleť",
+    "introTitleLead": "Jasnejšia, hydratovaná,",
+    "journalSub": "Články o spánku, strese a pleti pre zakladateľov.",
+    "journalTitle": "The Tava Journal",
+    "maintenanceBody": "Naneste dve až štyri kvapky PDRN Brightening Serum na čistú, suchú pleť, ráno a večer, potom pokračujte hydratačným krémom. Celá rutina zaberie asi dve minúty denne.",
+    "maintenanceTitle": "Jedno sérum je celá rutina.",
+    "marqueeSlogan": "Vyrobené pre zakladateľov a majiteľov firiem",
+    "marqueeTagline": "Jedno sérum, ráno a večer",
+    "motionBody": "Zakladatelia a tvorcovia, ktorí používajú PDRN Brightening Serum, nahratí na videu.",
+    "motionTitle": "Pozrieť videá zákazníkov",
+    "pitchAlt": "Zakladateľ predstavuje svoj nápad investorovi",
+    "pitchBody": "Keď prezentujete investorom osobne, vidia najprv vás, až potom vaše slajdy. Denná rutina so sérom pomáha vašej pleti vyzerať v ten deň jasne, hydratovane a oddýchnuto.",
+    "pitchTitle": "Pri prezentácii investorom",
+    "playVideo": "Prehrať video",
+    "readJournal": "Čítať Journal",
+    "readStory": "Prečítať príbeh",
+    "shopSerum": "Kúpiť sérum",
+    "videoPlayer": "Prehrávač videa"
   },
-  "ingredients": {
-   "description": "Každá zložka v PDRN Brightening Serum vysvetlená, od PDRN a peptidov až po Sodium Hyaluronate a Panthenol, vrátane úplného zoznamu INCI a toho, čo zámerne vynechávame.",
-   "title": "Zloženie PDRN Brightening Serum | Tava Labs"
+  "appTeaser": {
+    "caption": "Aplikácia Tava Labs prináša váš plán séra, vašu každodennú rutinu, vaše laboratórne panely a výsledky aj vaše objednávky na jedno miesto, vytvorená pre iPhone.",
+    "features": [
+      {
+        "desc": "Ranné a večerné sedenia, odškrtávané krok za krokom.",
+        "title": "Každodenná rutina"
+      },
+      {
+        "desc": "Vaša aktuálna séria a dni, ktoré zostávajú vo vašom pláne.",
+        "title": "Série a pokrok"
+      },
+      {
+        "desc": "Panely, výsledky a rozsahy vo vašom vrecku.",
+        "title": "Laboratórne panely a výsledky"
+      },
+      {
+        "desc": "Svoje objednávky a dátumy doplnenia vidíte na jednom mieste.",
+        "title": "Objednávky a doplnenia"
+      }
+    ],
+    "headlineLead": "Vaše sérum, laboratórne výsledky a objednávky",
+    "headlineTrail": "v jednej aplikácii.",
+    "label": "Už čoskoro",
+    "lead": "Vaša rutina, vaše laboratórne výsledky a vaše objednávky, všetko v aplikácii Tava Labs.",
+    "phone": {
+      "amDrops": "Ráno · 3 kvapky",
+      "clinicalReview": "Klinické posúdenie",
+      "dayLine": "Deň 12 z 30 · ešte 18 dní do vášho prvého celého mesiaca",
+      "goodMorning": "Dobré ráno",
+      "inRange": "2 v rozsahu",
+      "morningRoutine": "Ranná rutina",
+      "optimal": "4 optimálne",
+      "resultsIn": "Vaše výsledky sú tu",
+      "steps": [
+        {
+          "detail": "Jemný čistiaci prípravok, osušiť poklepaním",
+          "title": "Vyčistiť"
+        },
+        {
+          "detail": "Vtlačiť do tváre a krku",
+          "title": "Naniesť 3 kvapky séra"
+        },
+        {
+          "detail": "SPF 30 alebo vyšší",
+          "title": "Hydratovať + SPF"
+        }
+      ],
+      "stepsToGo": "Dnes: zostávajú 4 zo 6 krokov rutiny",
+      "tabs": {
+        "lab": "Laboratórium",
+        "orders": "Objednávky",
+        "profile": "Profil",
+        "shop": "Obchod",
+        "today": "Dnes"
+      },
+      "toReview": "1 na posúdenie",
+      "today": "Dnes"
+    },
+    "scroll": "Posúvať"
   },
-  "login": {
-   "description": "Prihláste sa do svojho účtu Tava Labs: váš plán, objednávky, rutina a podpora, prepojené s rovnakým emailom ako mobilná aplikácia.",
-   "title": "Prihlásiť sa | Tava Labs"
+  "categoryChrome": {
+    "explore": "Preskúmať",
+    "goTo": "Prejsť na {title}",
+    "nextProducts": "Ďalšie produkty",
+    "prevProducts": "Predchádzajúce produkty",
+    "readMore": "Čítať viac +",
+    "showLess": "Zobraziť menej −"
   },
-  "partners": {
-   "description": "Akcelerátory, inkubátory, podnikateľské programy a investori: darujte svojim zakladateľom mesačnú zásobu PDRN Brightening Serum zadarmo. Staňte sa partnerom Tava Labs.",
-   "title": "Staňte sa partnerom Tava Labs | Sérum zadarmo pre váš program"
-  },
-  "privacy": {
-   "description": "Ako Tava Labs zhromažďuje, používa a chráni vaše údaje, keď navštívite tavalabs.app, vyplníte kvíz o pleti alebo si objednáte PDRN Brightening Serum.",
-   "title": "Zásady ochrany osobných údajov | Tava Labs"
+  "categories": {
+    "skincare": {
+      "eyebrow": "STAROSTLIVOSŤ O PLEŤ",
+      "heroTitleLead": "Vaše ďalšie stretnutie",
+      "heroTitleAccent": "sa začína vami.",
+      "heroCopy": "Vyrobené pre podnikateľov, ktorí prezentujú, predávajú a nahrávajú pred kamerou. Jedno denné sérum, postavené okolo PDRN, pre pleť, ktorá vyzerá jasne a oddýchnuto v miestnosti aj pred kamerou.",
+      "heroFinePrint": "Kozmetická starostlivosť o pleť. Nie je určená na diagnostiku, liečbu, vyliečenie ani prevenciu žiadneho ochorenia.",
+      "stamp": "STAROSTLIVOSŤ O PLEŤ PRE ZAKLADATEĽOV",
+      "primaryCta": "Pridať do rutiny",
+      "secondaryCta": "Pozrite si zloženie",
+      "optionsEyebrow": "RAD PRODUKTOV",
+      "optionsTitleLead": "Jedno sérum.",
+      "optionsTitleAccent": "Žiadna polica dohadov.",
+      "optionsCopy": "Začnite sérom. Zvyšok rady je na ceste.",
+      "products": [
+        {
+          "title": "PDRN Brightening Serum",
+          "subtitle": "PDRN, peptidy a Sodium Hyaluronate",
+          "unit": "jednorazovo",
+          "imageAlt": "Fľaštička PDRN Brightening Serum od Tava Labs",
+          "badges": [
+            "Bestseller"
+          ],
+          "description": "Denné sérum pre jasnejšiu, hydratovanú a zdravo vyzerajúcu pleť. $39 mesačne pri Subscribe and Save.",
+          "linkLabel": "Pozrite si sérum"
+        },
+        {
+          "title": "Peptidový hydratačný krém",
+          "subtitle": "1.7 fl oz (50ml)",
+          "imageAlt": "Biela tuba Peptide Moisturizer od Tava Labs s ružovým špliechnutím",
+          "badges": [
+            "Už čoskoro"
+          ],
+          "description": "Peptidový hydratačný krém, ktorý cieli na vrásky a hydratuje, vyrobený pre pleť, ktorá musí vyzerať vyrovnane po celý deň."
+        },
+        {
+          "title": "Peptidový očný krém",
+          "subtitle": "1 fl oz (30ml)",
+          "imageAlt": "Biela tuba Peptide Eye Cream od Tava Labs s kvapkou vo farbe šampanského",
+          "badges": [
+            "Už čoskoro"
+          ],
+          "description": "Znižuje vzhľad opuchu očí a cieli na vrásky v oblasti očí, pre oddýchnutý vzhľad pred kamerou."
+        },
+        {
+          "title": "Spevňujúci krém na pleť",
+          "subtitle": "2 oz (56g)",
+          "imageAlt": "Biely téglik Skin Firming Cream od Tava Labs so zlatou vlnou v pozadí",
+          "badges": [
+            "Už čoskoro"
+          ],
+          "description": "Kyselina hyalurónová a CoQ10 v bohatom kréme, po ktorom pleť vyzerá pevne a ošetrene."
+        }
+      ],
+      "disclaimerLead": "Produkty starostlivosti o pleť Tava Labs sú kozmetika. Nie sú určené na diagnostiku, liečbu, vyliečenie ani prevenciu žiadneho ochorenia.",
+      "disclaimerMore": [
+        "Jednotlivé výsledky sa líšia. Používajte iba podľa pokynov: 2 až 4 kvapky PDRN Brightening Serum, dvakrát denne, na čistú pleť.",
+        "Ak sa objaví podráždenie, prestaňte produkt používať a poraďte sa s odborníkom. Ceny na tejto stránke boli správne v čase zverejnenia a môžu sa zmeniť."
+      ],
+      "protocolEyebrow": "RUTINA",
+      "protocolTitleLead": "Dve minúty, dvakrát denne.",
+      "protocolTitleAccent": "To je celá rutina.",
+      "protocolCopy": "Rutina postavená okolo jedného séra a rozvrhu podnikateľa, skoré hovory, dlhé noci a všetko ostatné.",
+      "protocolCta": "Pridať do rutiny",
+      "steps": [
+        {
+          "title": "Posúdiť",
+          "lead": "kvízom o pleti",
+          "body": "Odpovedzte na pár rýchlych otázok o vašej pleti, spánku a rozvrhu, aby váš plán vychádzal z toho, kde skutočne ste."
+        },
+        {
+          "title": "Naniesť",
+          "lead": "2 až 4 kvapky, dvakrát denne",
+          "body": "Ráno a večer, na čistú pleť. Jedno sérum, jeden krok, žiadna desaťkroková rutina na udržiavanie."
+        },
+        {
+          "title": "Sledovať",
+          "lead": "váš plán v aplikácii",
+          "body": "Váš nákup sa prepája s aplikáciou Tava kódom na uplatnenie, kde váš plán, objednávky a rutina zostávajú na jednom mieste."
+        }
+      ],
+      "legalLines": [
+        "Iba kozmetické produkty. Nič na tejto stránke nie je lekárska rada."
+      ]
+    },
+    "biomarkers": {
+      "eyebrow": "LABORATÓRNE BIOMARKERY",
+      "heroTitleLead": "Poznajte svoje dáta,",
+      "heroTitleAccent": "na Tava.",
+      "heroCopy": "Svoju firmu vediete na číslach. Čoskoro môžete rovnakú disciplínu uplatniť na seba: vaše kľúčové biomarkery, sledované v čase, v aplikácii Tava.",
+      "heroFinePrint": "Už čoskoro v aplikácii Tava. Poznatky slúžia iba na informáciu a nediagnostikujú žiadne ochorenie.",
+      "stamp": "VAŠE DÁTA NA JEDNOM MIESTE",
+      "primaryCta": "Pozrite si, čo sa sleduje",
+      "secondaryCta": "Ako to bude fungovať",
+      "optionsEyebrow": "ČO SA SLEDUJE",
+      "optionsTitleLead": "Šesť oblastí.",
+      "optionsTitleAccent": "Jeden jasný obraz.",
+      "optionsCopy": "Oblasti biomarkerov v ukážke aplikácie Tava, ktoré sa práve vytvárajú.",
+      "products": [
+        {
+          "title": "Mozog",
+          "subtitle": "Sústredenie a jasnosť",
+          "badges": [
+            "Už čoskoro"
+          ],
+          "description": "Markery, ktoré stoja za sústredením, jasnosťou a kognitívnym tempom, zhromaždené v jednom pohľade."
+        },
+        {
+          "title": "Hormóny",
+          "subtitle": "Rovnováha",
+          "badges": [
+            "Už čoskoro"
+          ],
+          "description": "Váš hormonálny obraz v čase, aby zmeny boli viditeľné, nie odhadované."
+        },
+        {
+          "title": "Srdce",
+          "subtitle": "Kardiovaskulárne markery",
+          "badges": [
+            "Už čoskoro"
+          ],
+          "description": "Markery srdca, na ktorých záleží, sledované ako trend, nie ako jednorazové meranie."
+        },
+        {
+          "title": "Metabolizmus",
+          "subtitle": "Energia a spaľovanie",
+          "badges": [
+            "Už čoskoro"
+          ],
+          "description": "Ako vaše telo využíva energiu, v číslach, ktoré skutočne môžete sledovať."
+        },
+        {
+          "title": "Črevá",
+          "subtitle": "Zdravie trávenia",
+          "badges": [
+            "Už čoskoro"
+          ],
+          "description": "Signály zdravia čriev, ktoré súvisia s energiou, náladou a regeneráciou."
+        },
+        {
+          "title": "Dlhovekosť",
+          "subtitle": "Biologický vek",
+          "badges": [
+            "Už čoskoro"
+          ],
+          "description": "Dlhý pohľad: ako vaše markery spolu vytvárajú obraz biologického veku."
+        }
+      ],
+      "disclaimerLead": "Poznatky o biomarkeroch v aplikácii Tava slúžia iba na informáciu. Nediagnostikujú, neliečia ani nepredchádzajú žiadnemu ochoreniu.",
+      "disclaimerMore": [
+        "O akomkoľvek výsledku, ktorý vás znepokojuje, sa porozprávajte so svojím poskytovateľom. V prípade núdze volajte 911."
+      ],
+      "protocolEyebrow": "AKO TO BUDE FUNGOVAŤ",
+      "protocolTitleLead": "Test, posúdenie,",
+      "protocolTitleAccent": "sledovať trend.",
+      "protocolCopy": "Jeden panel pre človeka, ktorý vedie firmu, vedľa vášho plánu séra v tej istej aplikácii.",
+      "steps": [
+        {
+          "title": "Test",
+          "lead": "cez laboratórneho partnera",
+          "body": "Vaša vzorka sa odoberie a spracuje a výsledky pristanú vo vašej aplikácii Tava."
+        },
+        {
+          "title": "Posúdenie",
+          "lead": "oblasť po oblasti",
+          "body": "Mozog, hormóny, srdce, metabolizmus, črevá a dlhovekosť, každé s vlastným pohľadom."
+        },
+        {
+          "title": "Sledovať",
+          "lead": "trend v čase",
+          "body": "Jedno meranie je momentka. Hodnota je v trende a aplikácia ho pre vás uchováva."
+        }
+      ],
+      "legalLines": [
+        "Sledovanie laboratórnych biomarkerov príde čoskoro a zatiaľ nie je otvorené na objednávky."
+      ]
+    },
+    "mentalHealth": {
+      "eyebrow": "DUŠEVNÉ ZDRAVIE",
+      "heroTitleLead": "Sústreďte sa lepšie,",
+      "heroTitleAccent": "na Tava.",
+      "heroCopy": "Podpora sústredenia a pozornosti, ktorá sa začína posúdením klinikom, nie tlačidlom pokladne.",
+      "heroFinePrint": "Po posúdení klinikom. Tento program je vo vývoji a zatiaľ nie je otvorený na registráciu.",
+      "stamp": "STAROSTLIVOSŤ POSÚDENÁ KLINIKOM",
+      "primaryCta": "Pozrite si, ako to funguje",
+      "optionsEyebrow": "PROGRAM",
+      "optionsTitleLead": "Starostlivosť, ktorá sa začína",
+      "optionsTitleAccent": "posúdením.",
+      "optionsCopy": "",
+      "products": [],
+      "disclaimerLead": "Podpora duševného zdravia na Tava sa začína posúdením klinikom. Nič tu nie je diagnóza ani odporúčanie liečby.",
+      "disclaimerMore": [
+        "Ak ste v kríze alebo premýšľate o tom, že si ublížite, volajte alebo píšte na 988 v Spojených štátoch. V prípade núdze volajte 911."
+      ],
+      "protocolEyebrow": "AKO TO FUNGUJE",
+      "protocolTitleLead": "Najprv posúdenie.",
+      "protocolTitleAccent": "Potom plán.",
+      "protocolCopy": "Starostlivá cesta, otvorene, vaším tempom.",
+      "steps": [
+        {
+          "title": "Posúdenie",
+          "lead": "s klinikom",
+          "body": "Zdieľajte svoju históriu a to, čím prechádzate, a klinik posúdi, či je podpora tu pre vás vhodná."
+        },
+        {
+          "title": "Plán",
+          "lead": "postavený okolo vás",
+          "body": "Ak je to vhodné, váš plán je postavený okolo vašich cieľov a vášho rozvrhu."
+        },
+        {
+          "title": "Podpora",
+          "lead": "počas cesty",
+          "body": "Pravidelné kontroly udržiavajú plán poctivý, keď sa veci menia."
+        }
+      ],
+      "legalLines": [
+        "Ponuky duševného zdravia na Tava sú vo vývoji a zatiaľ nie sú otvorené na registráciu."
+      ]
+    },
+    "peptides": {
+      "eyebrow": "PEPTIDOVÉ PROGRAMY",
+      "heroTitleLead": "Peptidy,",
+      "heroTitleAccent": "s poskytovateľom na vašej strane.",
+      "heroCopy": "Trinásť peptidových programov od Tava Labs, každý sa začína online konzultáciou a posúdením poskytovateľom.",
+      "heroFinePrint": "Vyžaduje sa predpis. Licencovaný poskytovateľ po konzultácii rozhodne o vhodnosti.",
+      "stamp": "PROGRAMY VEDENÉ POSKYTOVATEĽOM",
+      "primaryCta": "Začať konzultáciu",
+      "secondaryCta": "Ako to funguje",
+      "optionsEyebrow": "PROGRAMY",
+      "optionsTitleLead": "Trinásť programov.",
+      "optionsTitleAccent": "Jedna konzultácia spustí ktorýkoľvek z nich.",
+      "optionsCopy": "Každý program zahŕňa konzultáciu za $20. Väčšina zahŕňa laboratórne testy. Ceny sú mesačné ceny programov.",
+      "unitPerMonth": "/mes.",
+      "products": [
+        {
+          "subtitle": "Regenerácia",
+          "imageAlt": "Obrázok fľaštičky programu BPC-157",
+          "badges": [
+            "Regenerácia",
+            "Zdravie čriev",
+            "Laboratórne testy v cene"
+          ],
+          "description": "BPC-157 od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
+          "linkLabel": "Zobraziť program"
+        },
+        {
+          "subtitle": "Zdravie čriev",
+          "imageAlt": "Obrázok fľaštičky programu CJC-1295 + Ipamorelin",
+          "badges": [
+            "Zdravie čriev",
+            "Spánok",
+            "Regenerácia",
+            "Dlhovekosť",
+            "Laboratórne testy v cene"
+          ],
+          "description": "CJC-1295 + Ipamorelin od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
+          "linkLabel": "Zobraziť program"
+        },
+        {
+          "subtitle": "Dlhovekosť",
+          "imageAlt": "Obrázok fľaštičky programu GHK-Cu",
+          "badges": [
+            "Dlhovekosť",
+            "Laboratórne testy v cene"
+          ],
+          "description": "GHK-Cu od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
+          "linkLabel": "Zobraziť program"
+        },
+        {
+          "subtitle": "Regenerácia",
+          "imageAlt": "Obrázok fľaštičky programu GLOW Injection",
+          "badges": [
+            "Regenerácia",
+            "Laboratórne testy v cene"
+          ],
+          "description": "GLOW Injection od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
+          "linkLabel": "Zobraziť program"
+        },
+        {
+          "subtitle": "Chudnutie",
+          "imageAlt": "Obrázok fľaštičky programu MOTS-C",
+          "badges": [
+            "Chudnutie",
+            "Energia",
+            "Výkon",
+            "Laboratórne testy v cene"
+          ],
+          "description": "MOTS-C od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
+          "linkLabel": "Zobraziť program"
+        },
+        {
+          "subtitle": "Dlhovekosť",
+          "imageAlt": "Obrázok fľaštičky programu NAD+ Injectable",
+          "badges": [
+            "Dlhovekosť",
+            "Energia",
+            "Regenerácia",
+            "Sústredenie"
+          ],
+          "description": "NAD+ Injectable od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
+          "linkLabel": "Zobraziť program"
+        },
+        {
+          "subtitle": "Sexuálne zdravie",
+          "imageAlt": "Obrázok fľaštičky programu PT-141",
+          "badges": [
+            "Sexuálne zdravie",
+            "Laboratórne testy v cene"
+          ],
+          "description": "PT-141 od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
+          "linkLabel": "Zobraziť program"
+        },
+        {
+          "subtitle": "Chudnutie",
+          "imageAlt": "Obrázok fľaštičky programu Semaglutide + B12 (Cyanocobalamin)",
+          "badges": [
+            "Chudnutie",
+            "Laboratórne testy v cene"
+          ],
+          "description": "Semaglutide + B12 (Cyanocobalamin) od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
+          "linkLabel": "Zobraziť program"
+        },
+        {
+          "subtitle": "Dlhovekosť",
+          "imageAlt": "Obrázok fľaštičky programu Sermorelin",
+          "badges": [
+            "Dlhovekosť",
+            "Regenerácia",
+            "Výkon",
+            "Laboratórne testy v cene"
+          ],
+          "description": "Sermorelin od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
+          "linkLabel": "Zobraziť program"
+        },
+        {
+          "subtitle": "Výkon",
+          "imageAlt": "Obrázok fľaštičky programu TB-500",
+          "badges": [
+            "Výkon",
+            "Regenerácia",
+            "Laboratórne testy v cene"
+          ],
+          "description": "TB-500 od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
+          "linkLabel": "Zobraziť program"
+        },
+        {
+          "subtitle": "Dlhovekosť",
+          "imageAlt": "Obrázok fľaštičky programu Tesamorelin",
+          "badges": [
+            "Dlhovekosť",
+            "Regenerácia",
+            "Výkon",
+            "Laboratórne testy v cene"
+          ],
+          "description": "Tesamorelin od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
+          "linkLabel": "Zobraziť program"
+        },
+        {
+          "subtitle": "Chudnutie",
+          "imageAlt": "Obrázok fľaštičky programu Tirzepatide + B12 (Cyanocobalamin)",
+          "badges": [
+            "Chudnutie",
+            "Laboratórne testy v cene"
+          ],
+          "description": "Tirzepatide + B12 (Cyanocobalamin) od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
+          "linkLabel": "Zobraziť program"
+        },
+        {
+          "subtitle": "Regenerácia",
+          "imageAlt": "Obrázok fľaštičky programu Wolverine Injection",
+          "badges": [
+            "Regenerácia",
+            "Laboratórne testy v cene"
+          ],
+          "description": "Wolverine Injection od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
+          "linkLabel": "Zobraziť program"
+        }
+      ],
+      "disclaimerLead": "Magistrálne pripravované lieky pripravujú licencované lekárne pre jednotlivých pacientov. Nie sú schválené úradom FDA a FDA neposudzuje magistrálne lieky z hľadiska bezpečnosti, účinnosti ani kvality.",
+      "disclaimerMore": [
+        "Lekársku starostlivosť poskytujú nezávislí licencovaní poskytovatelia. Poskytovatelia nezávisle rozhodujú, či je liečba pre vás vhodná; nákup nezaručuje predpis.",
+        "Licencovaný poskytovateľ posúdi vaše údaje a nezávisle rozhodne, či je liečba pre vás vhodná. Nákup nezaručuje predpis.",
+        "V prípade núdze volajte 911."
+      ],
+      "protocolEyebrow": "AKO TO FUNGUJE",
+      "protocolTitleLead": "Konzultácia, posúdenie,",
+      "protocolTitleAccent": "potom začnite.",
+      "protocolCopy": "Každý program prebieha cez nezávislých licencovaných poskytovateľov.",
+      "protocolCta": "Začať konzultáciu",
+      "steps": [
+        {
+          "title": "Konzultovať",
+          "lead": "online, podľa vášho rozvrhu",
+          "body": "Vyplňte online konzultáciu pre program, ktorý ste si vybrali. Konzultácia stojí $20."
+        },
+        {
+          "title": "Posúdenie",
+          "lead": "licencovaným poskytovateľom",
+          "body": "Poskytovateľ posúdi vaše údaje a vaše laboratórne výsledky a nezávisle rozhodne, či je liečba pre vás vhodná."
+        },
+        {
+          "title": "Začať",
+          "lead": "ak je predpísané",
+          "body": "Vaše lieky sa odosielajú z licencovanej lekárne a váš poskytovateľ vás sleduje, ako váš program pokračuje."
+        }
+      ],
+      "legalLines": [
+        "Náš obchod s peptidmi je momentálne v testovacom režime, takže programy sú zobrazené na posúdenie a zatiaľ nie sú otvorené na skutočné objednávky.",
+        "V prípade núdze volajte 911."
+      ]
+    }
   },
   "product": {
-   "description": "PDRN Brightening Serum od Tava Labs je denné sérum na tvár s PDRN, peptidmi a sodium hyaluronátom pre jasnejšiu a hydratovanú pleť na pohľad. Vyrobené pre zakladateľov a majiteľov firiem. $49 jednorazovo alebo $39 mesačne.",
-   "title": "PDRN Brightening Serum pre podnikateľov | Tava Labs"
+    "breadcrumbHome": "Domov",
+    "bullets": [
+      "PDRN, acetyl hexapeptid-8 a kyselina hyalurónová na podporu hladšej a jasnejšej pleti na pohľad.",
+      "Hlboká hydratácia z glycerínu, Sodium PCA a Panthenol.",
+      "100 % bez krutosti, bez parfumácie, bez parabénov, bez sulfátov, bez minerálneho oleja, bez silikónov a vegánske."
+    ],
+    "cleanVegan": "Čisté a vegánske • Aktívne PDRN",
+    "clinical": {
+      "imgAlts": [
+        "Diagram Podporuje žiarivosť",
+        "Diagram Podporuje hlbokú hydratáciu",
+        "Diagram Zlepšuje textúru pleti"
+      ],
+      "label": "Klinické testy",
+      "note": "Hodnotenia lokálnych bioaktívnych látok na základe 8-týždňového vnímania spotrebiteľov a prístrojových testov hydratácie. Jednotlivé kožné bariéry, genetika a prostredie ovplyvňujú konkrétne časové rámce a výsledky.",
+      "titleAccent": "zdravie vašej pleti",
+      "titleLead": "Starajte sa o"
+    },
+    "dermTested": "Testované dermatológmi • Vyrobené pre všetky typy pleti",
+    "details": [
+      {
+        "body": "Ľahká, hydratačná formula pre hladšiu a žiarivejšie vyzerajúcu pleť. Rýchlo sa vstrebáva, nezanecháva zvyšky a udržiava pleť príjemnú.",
+        "title": "Spoznajte PDRN Brightening Serum"
+      },
+      {
+        "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin.",
+        "title": "Zloženie a formula"
+      },
+      {
+        "body": "Naneste 2 až 4 kvapky na čistú a suchú pleť. Jemne vmasírujte do tváre a krku, kým sa nevstrebe. Používajte dvakrát denne, ráno a večer. Potom použite hydratačný krém alebo opaľovací krém.",
+        "title": "Ako nanášať"
+      },
+      {
+        "body": "Sformulované podľa certifikovaných štandardov bez krutosti a vyrobené bez parfumácie, silikónov, parabénov, minerálneho oleja, sulfátov, ftalátov a bežných alergénov. Testované dermatológmi na všetkých typoch pleti.",
+        "title": "Garancia čistej starostlivosti o pleť"
+      }
+    ],
+    "ecosystem": {
+      "items": [
+        "Osobná diagnostika pleti a sprievodca režimom z vášho kvízu o pleti",
+        "Plán starostlivosti, ktorý začína pomaly a časom sa stupňuje",
+        "Pripomienky nanášania, ktoré ovládate vy, ráno a večer",
+        "Podpora cez správy priamo v aplikácii",
+        "Doručenie Subscribe and Save každý mesiac, kedykoľvek pozastavte alebo zrušte"
+      ],
+      "label": "Váš plán",
+      "note": "Subscribe and Save môžete kedykoľvek pozastaviť, upraviť alebo zrušiť. Jednorazové nákupy zostávajú dostupné za $49.",
+      "sub": "Spolu so sérom každý plán Tava Labs zahŕňa:",
+      "title": "Získajte kompletnú podporu rutiny"
+    },
+    "faqSection": {
+      "items": [
+        {
+          "a": "PDRN (polydeoxyribonukleotid) je vyrobený z fragmentov DNA, ktoré sú biologicky kompatibilné s ľudskými kožnými bunkami. Podporuje prirodzenú regeneráciu buniek, stimuluje mikrocirkuláciu a pomáha opravovať kožnú bariéru, pre jasnejšiu a pevnejšiu pleť na pohľad.",
+          "q": "Čo je PDRN a ako prospieva pleti?"
+        },
+        {
+          "a": "PDRN Brightening Serum používajte dvakrát denne po vyčistení a tonizácii. Naneste 2 až 4 kvapky priamo na končeky prstov alebo na vlhkú pleť a rozotrite po tvári, krku a dekolte. Potom použite hydratačný krém a ranný opaľovací krém.",
+          "q": "Ako zaradím PDRN Brightening Serum do svojej rutiny starostlivosti o pleť?"
+        },
+        {
+          "a": "Áno. Naša formula je nekomedogénna, bez oleja, bez parfumácie a obohatená o upokojujúci Panthenol. Upokojuje citlivosť a zároveň hlboko hydratuje bez upchávania pórov alebo vyvolávania podráždenia.",
+          "q": "Je toto sérum vhodné pre citlivú pleť a pleť so sklonom k akné?"
+        },
+        {
+          "a": "Áno. PDRN dobre funguje spolu s aktívnymi prípravkami, ako sú retinoidy a vitamín C. Jeho hydratačný základ pomáha upokojiť šupinatenie alebo začervenanie, ktoré chemické exfolianty môžu spôsobiť.",
+          "q": "Môžem PDRN vrstviť s retinolom, vitamínom C alebo AHA/BHA?"
+        },
+        {
+          "a": "Pri nanášaní 2 až 4 kvapiek dvakrát denne jedna 30 ml (1 fl oz) fľaštička zvyčajne vydrží 4 až 6 týždňov. Subscribe and Save odošle ďalšiu fľaštičku skôr, než sa vám minie.",
+          "q": "Ako dlho zvyčajne vydrží jedna 30 ml fľaštička?"
+        }
+      ],
+      "label": "Otázky a odpovede",
+      "title": "Najčastejšie kladené otázky",
+      "viewAll": "Zobraziť všetky časté otázky"
+    },
+    "finalCta": {
+      "line": "PDRN Brightening Serum · $49.00 / 30ml · Čisté a vegánske · Hlboká hydratácia · Kedykoľvek zrušte",
+      "title": "Jedno sérum pre jasnejšiu, hydratovanú a hladšiu pleť na pohľad."
+    },
+    "formulary": {
+      "activeIngredient": "Aktívna zložka",
+      "comingSoon": "Už čoskoro",
+      "howToUse": "Ako používať",
+      "label": "Porovnať formuly",
+      "others": [
+        {
+          "rows": [
+            [
+              "Hlavný prínos",
+              "Každodenná hydratácia"
+            ],
+            [
+              "Veľkosť",
+              "1.7 fl oz (50ml)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Hlavný prínos",
+              "Starostlivosť o oblasť očí"
+            ],
+            [
+              "Veľkosť",
+              "1 fl oz (30ml)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Hlavný prínos",
+              "Spevnenie a hydratácia"
+            ],
+            [
+              "Veľkosť",
+              "2 oz (56g)"
+            ],
+            [
+              "Aktívna zložka",
+              "Hyaluronic Acid and CoQ10"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Hlavný prínos",
+              "Starostlivosť o pokožku hlavy a vlasy"
+            ],
+            [
+              "Veľkosť",
+              "1 fl oz (30ml)"
+            ]
+          ]
+        }
+      ],
+      "primaryBenefit": "Hlavný prínos",
+      "selectSerum": "Vybrať sérum",
+      "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
+      "serumAlt": "PDRN Brightening Serum",
+      "serumBenefitValue": "Jas a pevnosť",
+      "serumHowValue": "Ráno a večer",
+      "serumOneTime": "alebo $49 jednorazovo",
+      "serumPriceLine": "Subscribe and Save $39/mes.",
+      "sizeLabel": "Veľkosť",
+      "status": "Stav",
+      "sub": "Formuly pre rôzne ciele, problémy a rutiny pleti. Vyberte si tú, ktorá vyhovuje vašej pleti a vášmu programu.",
+      "title": "Ktorá starostlivosť o pleť je pre vás tá pravá?"
+    },
+    "gallery": {
+      "alts": [
+        "Fľaštička PDRN Brightening Serum",
+        "Pohľad 2 na fľaštičku séra",
+        "Pohľad 3 na fľaštičku séra",
+        "Pohľad 4 na fľaštičku séra",
+        "Pohľad 5 na fľaštičku séra"
+      ],
+      "view": "Pohľad {n}"
+    },
+    "inStock": "Na sklade",
+    "innovation": {
+      "footnote": "*Bunková bioaktivita hodnotená prostredníctvom klinických hodnotení in vitro a ex vivo. Výsledky sa môžu líšiť podľa individuálneho stavu pleti.",
+      "imgAlts": [
+        "Textúra séra",
+        "Kryštál a formula",
+        "Vzorka s kryštálom"
+      ],
+      "items": [
+        {
+          "body": "Morský PDRN zvyšuje obnovu buniek, čo rozjasňuje matnú pleť a vyhladzuje viditeľnú textúru.",
+          "label": "Textúra pleti",
+          "title": "PDRN"
+        },
+        {
+          "body": "Tento peptid podporuje pružnosť kolagénu, pre pevnejšiu pleť na pohľad.",
+          "label": "Pevnosť",
+          "title": "Acetyl Hexapeptide-8"
+        },
+        {
+          "body": "Kyselina hyalurónová, Sodium PCA a Panthenol spoločne udržiavajú vlhkosť v kožnej bariére viac než 24 hodín.",
+          "label": "Hlboká hydratácia",
+          "title": "Kyselina hyalurónová a pantenol"
+        }
+      ],
+      "label": "Kľúčové zložky",
+      "sub": "Tri zložky nižšie robia v tomto sére väčšinu práce.",
+      "titleAccent": "zložky robia",
+      "titleLead": "Čo hlavné"
+    },
+    "pricePerUnit": "/ 30ml (1 fl oz)",
+    "protocol": {
+      "label": "Ako ho používať",
+      "progressionBody": "Jasnejšia a viac hydratovaná pleť za 7 až 14 dní; lepšia pružnosť pleti a pevnosť bariéry do 4. až 6. týždňa.",
+      "progressionLabel": "Klinický pokrok",
+      "progressionTitle": "Časová os viditeľných výsledkov",
+      "steps": [
+        {
+          "body": "Vyčistite jemným umývacím prípravkom s vyváženým pH, aby ste odstránili nečistoty a pripravili pleť bez toho, aby ste ju zbavili prirodzených lipidov.",
+          "title": "Vyčistiť jemným umývaním"
+        },
+        {
+          "body": "Naneste 2 až 4 kvapky séra PDRN na vlhkú pleť. Jemne vtlačte a poklepte po tvári a krku, kým sa dôkladne nevstrebe.",
+          "title": "Sérum PDRN, 2 až 4 kvapky"
+        },
+        {
+          "body": "Naneste hydratačný krém na uzamknutie peptidov a podporu kožnej bariéry.",
+          "title": "Hydratovať a zvlhčiť"
+        },
+        {
+          "body": "Rannú rutinu zakončite širokospektrálnym SPF 30+ na ochranu pleti pred UV žiarením a poškodením voľnými radikálmi.",
+          "title": "Chrániť (iba ráno), SPF 30+"
+        },
+        {
+          "body": "Váš kvíz o pleti vytvorí váš plán vrátane toho, ako začať pomaly a kedy dávku zvýšiť.",
+          "title": "Váš osobný plán, v cene"
+        }
+      ],
+      "sub": "Dôslednosť je dôležitá. Postupujte podľa týchto krokov ráno a večer a na záver naneste hydratačný krém na udržanie vlhkosti.",
+      "timelineAlt": "Príklad časovej osi výsledkov, 1. až 4. týždeň a ďalej",
+      "titleAccent": "dvakrát denne",
+      "titleLead": "Jedna jednoduchá rutina,"
+    },
+    "subPrice": "alebo $39 mesačne pri Subscribe and Save",
+    "titleAccent": "Serum",
+    "titleLead": "PDRN Brightening",
+    "viewFormulation": "Zobraziť úplnú formulu a klinické testy"
   },
-  "quiz": {
-   "description": "Odpovedzte na pár rýchlych otázok a vytvorte si osobný plán okolo PDRN Brightening Serum. Jedno sérum, dvakrát denne, prispôsobené vašej pleti a vašim cieľom.",
-   "title": "Kvíz o pleti | Vytvorte si osobný plán séra | Tava Labs"
+  "moisturizer": {
+    "breadcrumbHome": "Domov",
+    "inStock": "Na sklade",
+    "subBadge": "Medený peptid a extrakt z brusníc",
+    "madeLine": "Vyrobené v USA",
+    "titleLead": "Peptide",
+    "titleAccent": "Moisturizer",
+    "pricePerUnit": "1.7 fl oz (50 ml)",
+    "intro": "Pleťový hydratačný krém s medeným peptidom a extraktom z brusníc. Hydratuje pleť a cieli na vzhľad jemných liniek a vrások.",
+    "bullets": [
+      "Hydratuje pleť a stará sa o tvár a krk, ráno alebo večer.",
+      "Vyrobený s medeným peptidom a extraktom z brusníc.",
+      "Cieli na vzhľad jemných liniek a vrások.",
+      "Vytvorený pre zakladateľov a majiteľov firiem. Jeden jednoduchý krok, ráno alebo večer."
+    ],
+    "details": [
+      {
+        "title": "Ako používať",
+        "body": "Naneste množstvo vo veľkosti mince na tvár a krk a jemne vmasírujte, kým sa krém úplne nevstrebe. Používajte ráno alebo večer."
+      },
+      {
+        "title": "Zloženie",
+        "body": "Aqua, Sorbitan Olivate, Cetearyl Olivate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Cetyl Alcohol, Stearyl Alcohol, Methylglucoside Phosphate, Copper Lysinate/Prolinate, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Eclipta Prostrata Extract, Moringa Oleifera Seed Extract, Melia Azadirachta (Neem) Leaf Extract, Glycerin, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate, Totarol, Hamamelis Virginiana (Witch Hazel) Water, Xanthan Gum, Alcohol, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Maltodextrin, Syringa Vulgaris (Lilac) Leaf Cell Culture Extract."
+      },
+      {
+        "title": "Dobré vedieť",
+        "body": "Len na vonkajšie použitie. Neprehĺtajte. Zabráňte kontaktu s očami. Ak sa objaví podráždenie, prestaňte krém používať. Uchovávajte mimo dosahu detí. Skladujte na chladnom a suchom mieste. Veľkosť 1.7 fl oz (50 ml). Vyrobené v USA."
+      }
+    ],
+    "keyIngredients": {
+      "label": "Kľúčové zložky",
+      "titleLead": "Čo sú hlavné",
+      "titleAccent": "zložky",
+      "sub": "Zložky nižšie sú tie, na ktorých je tento hydratačný krém postavený.",
+      "items": [
+        {
+          "title": "Medený peptid",
+          "body": "Medený peptid, uvedený na etikete ako Copper Lysinate/Prolinate, je peptid v tomto zložení. Cieli na vzhľad jemných liniek a vrások."
+        },
+        {
+          "title": "Extrakt z brusníc",
+          "body": "Extrakt z brusníc pochádza z plodu brusnice. Je zahrnutý ako rastlinný extrakt v dennom zložení."
+        },
+        {
+          "title": "Aloe vera a hamamel",
+          "body": "Šťava z listov aloe vera a voda z hamamelu sú rastlinné zložky v zložení. Stoja vedľa glycerínu, ktorý pomáha pleti udržať vlhkosť."
+        },
+        {
+          "title": "Moringa a neem",
+          "body": "Extrakt zo semien moringy a extrakt z listov neemu sú rastlinné extrakty v zložení. Zahrnutý je aj vitamín E, uvedený ako Tocopheryl Acetate."
+        }
+      ]
+    },
+    "howToUse": {
+      "label": "Ako používať",
+      "title": "Jeden krok, ráno alebo večer",
+      "sub": "Naneste hydratačný krém na tvár a krk ako hydratačný krok svojej rutiny.",
+      "steps": [
+        {
+          "title": "Ráno",
+          "body": "Naneste množstvo vo veľkosti mince na tvár a krk ráno. Jemne vmasírujte, kým sa krém úplne nevstrebe."
+        },
+        {
+          "title": "Večer",
+          "body": "Naneste množstvo vo veľkosti mince na tvár a krk večer. Jemne vmasírujte, kým sa krém úplne nevstrebe."
+        }
+      ]
+    },
+    "faqSection": {
+      "label": "Otázky a odpovede",
+      "title": "Najčastejšie kladené otázky",
+      "items": [
+        {
+          "q": "Čo je Peptide Moisturizer?",
+          "a": "Je to pleťový hydratačný krém s medeným peptidom a extraktom z brusníc a ďalej s aloe vera, hamamelom, moringou, neemom, ecliptou, glycerínom a vitamínom E. Hydratuje pleť a stará sa o tvár a krk."
+        },
+        {
+          "q": "Koľko stojí a akú má veľkosť?",
+          "a": "Stojí $27.99 jednorazovo. Veľkosť je 1.7 fl oz (50 ml). Tento produkt nemá cenu predplatného."
+        },
+        {
+          "q": "Ako sa používa?",
+          "a": "Naneste množstvo vo veľkosti mince na tvár a krk a jemne vmasírujte, kým sa krém úplne nevstrebe. Používajte ráno alebo večer."
+        },
+        {
+          "q": "Pre koho je vytvorený?",
+          "a": "Je vytvorený pre zakladateľov a majiteľov firiem, ktorí chcú jeden jednoduchý hydratačný krok, ráno alebo večer. Cieli na vzhľad jemných liniek a vrások."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Peptide Moisturizer na každodennú hydratáciu.",
+      "line": "Peptide Moisturizer · $27.99 · 1.7 fl oz (50 ml) · Vyrobené v USA"
+    },
+    "gallery": {
+      "view": "Pohľad {n}",
+      "alts": [
+        "Téglik Peptide Moisturizer so zatvoreným viečkom",
+        "Téglik Peptide Moisturizer s otvoreným viečkom",
+        "Tri tégliky Peptide Moisturizer",
+        "Dva tégliky Peptide Moisturizer"
+      ]
+    }
+  },
+  "about": {
+    "bullets": [
+      "PDRN pre jasnejšiu a rovnomernejšie vyzerajúcu pleť.",
+      "Acetyl Hexapeptide-8 na podporu vzhľadu pevnosti.",
+      "Sodium Hyaluronate a Panthenol pre hydratáciu.",
+      "Používajte dvakrát denne: 2 až 4 dávky na čistú a suchú pleť, ráno a večer."
+    ],
+    "contactUs": "Kontaktujte nás",
+    "label": "O nás",
+    "onlineSegments": [
+      {
+        "text": "Tava Labs je značka dostupná iba online. Máte otázky? Napíšte na "
+      },
+      {
+        "href": "mailto:support@tavalabs.app",
+        "text": "support@tavalabs.app"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "onlineTitle": "Iba online",
+    "p1": "Tava Labs je značka starostlivosti o pleť pre ľudí, ktorí budujú firmy. Váš vzhľad je súčasťou vašej profesionálnej prítomnosti. Ľudia vás vidia pred kamerou, na prezentáciách a v práci každý deň.",
+    "p2": "Vyrábame jednu vec a vyrábame ju dobre. Denné sérum, ktoré udržuje vašu pleť hydratovanú a oddýchnutú na pohľad, bez zložitej rutiny.",
+    "p3": "Tava Labs bola založená pre zakladateľov a majiteľov firiem. Jeden krok, ráno a večer, pred stretnutiami, prezentáciami a prácou pred kamerou.",
+    "p4": "Starostlivosť o pleť ako základná údržba. Rovnaká dôslednosť, akú prinášate do svojho podnikania, použitá vo vašej vlastnej rutine.",
+    "philosophyCaption": "Filozofia Tava Labs",
+    "philosophyLabel": "Naša filozofia",
+    "philosophyP1": "Veríme v starostlivosť o seba tak, ako sa staráte o svoju prácu, malými krokmi robenými dôsledne každý deň.",
+    "philosophyP2": "Nesľubujeme premenu. Vyrábame dobre zložené denné sérum a presne vám povieme, čo v ňom je.",
+    "priceLine": "$49 jednorazovo, alebo $39 mesačne so Subscribe & Save.",
+    "quote": "„Jedno sérum, dve minúty, ráno a večer. To je celá rutina.“",
+    "serumAlt": "PDRN Brightening Serum",
+    "serumBody": "Každodenná rutina pre pleť postavená okolo PDRN (Polydeoxyribonucleotide) a Acetyl Hexapeptide-8, so Sodium Hyaluronate a Panthenol pre hydratáciu a pohodlie. Čisté a bez parfumácie, vyrobené bez čohokoľvek z nášho zoznamu vynechaných látok.",
+    "serumLabel": "Sérum",
+    "serumTitle": "PDRN Brightening Serum",
+    "tagline": "Budujte svoju firmu. Nezanedbávajte seba.",
+    "titleAccent": "pre zakladateľov.",
+    "titleLead": "Denné sérum na tvár"
+  },
+  "contact": {
+    "emailLabel": "Email:",
+    "label": "Kontaktujte nás",
+    "phoneLabel": "Telefón:",
+    "sub": "Napíšte nám email a ozveme sa vám späť. Vyberte si tému, ktorá sedí, alebo nám napíšte priamo.",
+    "title": "Radi sa od vás dozvieme.",
+    "topics": {
+      "general": {
+        "body": "Všeobecné otázky o Tava Labs a sére.",
+        "title": "Všeobecné"
+      },
+      "partnerships": {
+        "body": "Partnerstvá s akcelerátormi, univerzitami, investormi a komunitami.",
+        "title": "Partnerstvá"
+      },
+      "pr": {
+        "body": "Otázky z tlače a médií.",
+        "title": "PR"
+      },
+      "product-support": {
+        "body": "Pomoc s používaním séra, rutinami a vaším osobným plánom.",
+        "title": "Podpora k produktom"
+      },
+      "sales-support": {
+        "body": "Otázky o objednávaní, Subscribe & Save a pokladni.",
+        "title": "Podpora predaja"
+      },
+      "wholesale": {
+        "body": "Veľkoobchodné a maloobchodné otázky o PDRN Brightening Serum.",
+        "title": "Veľkoobchod"
+      }
+    }
+  },
+  "faq": {
+    "items": [
+      {
+        "a": [
+          {
+            "text": "Denné sérum postavené okolo PDRN (polydeoxyribonukleotid) a acetyl hexapeptidu-8, so sodium hyaluronátom a pantenolom. Nanášajte ho ráno a večer na podporu jasnejšej a rovnomernejšej pleti na pohľad."
+          }
+        ],
+        "q": "Čo je PDRN Brightening Serum?"
+      },
+      {
+        "a": [
+          {
+            "text": "Naneste 2 až 4 kvapky na čistú a suchú pleť, ráno a večer. Potom použite hydratačný krém. Ak s aktívnou starostlivosťou o pleť začínate, začnite raz denne počas prvého týždňa a potom prejdite na dvakrát denne."
+          }
+        ],
+        "q": "Ako ho mám používať?"
+      },
+      {
+        "a": [
+          {
+            "text": "Vyplňte "
+          },
+          {
+            "href": "/quiz",
+            "text": "Kvíz o pleti"
+          },
+          {
+            "text": ". Vaše odpovede vytvoria osobný plán vrátane toho, ako začať pomaly a kedy dávku zvýšiť."
+          }
+        ],
+        "q": "Ako získam svoj osobný plán?"
+      },
+      {
+        "a": [
+          {
+            "text": "$49 jednorazovo, alebo $39 mesačne so Subscribe & Save (zľava 20 %). Subscribe & Save môžete kedykoľvek pozastaviť, preskočiť alebo zrušiť."
+          }
+        ],
+        "q": "Koľko to stojí?"
+      },
+      {
+        "a": [
+          {
+            "text": "Objednávky vybavuje náš partner a odosiela ich na adresu, ktorú uvediete pri pokladni. Podrobnosti nájdete v "
+          },
+          {
+            "href": "/shipping",
+            "text": "Zásadách doručovania"
+          },
+          {
+            "text": "."
+          }
+        ],
+        "q": "Ako funguje doručenie?"
+      },
+      {
+        "a": [
+          {
+            "text": "Každý predaj je konečný. Pred objednaním si prosím prečítajte "
+          },
+          {
+            "href": "/returns",
+            "text": "Zásady vrátenia tovaru"
+          },
+          {
+            "text": "."
+          }
+        ],
+        "q": "Aké sú vaše zásady vrátenia tovaru?"
+      },
+      {
+        "a": [
+          {
+            "text": "Úplný zoznam zložiek je na "
+          },
+          {
+            "href": "/ingredients",
+            "text": "stránke Zloženie"
+          },
+          {
+            "text": ". Sérum je bez parfumácie a vyrobené bez parabénov, sulfátov, silikónov, minerálneho oleja, ftalátov a bežných alergénov."
+          }
+        ],
+        "q": "Aké zložky obsahuje?"
+      },
+      {
+        "a": [
+          {
+            "text": "Sérum je sformulované tak, aby vyhovovalo všetkým typom pleti. Ak máte kožné ochorenie alebo obavy, poraďte sa so svojím dermatológom skôr, než začnete s akoukoľvek novou starostlivosťou o pleť."
+          }
+        ],
+        "q": "Je vhodné pre môj typ pleti?"
+      },
+      {
+        "a": [
+          {
+            "text": "Napíšte na support@tavalabs.app alebo použite stránku "
+          },
+          {
+            "href": "/contact",
+            "text": "Kontaktujte nás"
+          },
+          {
+            "text": "."
+          }
+        ],
+        "q": "Ako vás môžem kontaktovať?"
+      }
+    ],
+    "label": "Časté otázky",
+    "sub": "Odpovede o sére, objednávaní, doručení a vašom osobnom pláne.",
+    "titleAccent": "otázky",
+    "titleLead": "Najčastejšie kladené"
+  },
+  "ingredients": {
+    "fullTitle": "Úplné zloženie",
+    "howBody": "Naneste 2 až 4 dávky na čistú a suchú pleť, ráno a večer. Potom použite hydratačný krém. Ak s aktívnou starostlivosťou o pleť začínate, začnite raz denne.",
+    "howTitle": "Ako používať",
+    "intro": "Tu je každá zložka v PDRN Brightening Serum, čo každá z nich robí, a úplný zoznam presne tak, ako je uvedený na etikete.",
+    "keyItems": [
+      {
+        "body": "Naša hlavná účinná zložka. Podporuje jasnejšiu a rovnomernejšiu pleť na pohľad.",
+        "name": "PDRN (Polydeoxyribonucleotide)"
+      },
+      {
+        "body": "Peptid, ktorý podporuje vzhľad pevnosti a hladkosti.",
+        "name": "Acetyl Hexapeptide-8"
+      },
+      {
+        "body": "Priťahuje vlhkosť pre hydratovanú a príjemnú pleť.",
+        "name": "Sodium Hyaluronate (Hyaluronic Acid)"
+      },
+      {
+        "body": "Upokojuje a podporuje kožnú bariéru.",
+        "name": "Panthenol"
+      },
+      {
+        "body": "Zvlhčujúce látky, ktoré pomáhajú pleti udržať vodu počas celého dňa.",
+        "name": "Glycerin + Sodium PCA"
+      }
+    ],
+    "keyTitle": "Kľúčové zložky",
+    "label": "Zloženie",
+    "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Vyrobené v USA · Vhodné pre všetky typy pleti.",
+    "titleAccent": "čo vynechávame.",
+    "titleLead": "Čo je vo vnútri a",
+    "warningBody": "Len na vonkajšie použitie. Vyhnite sa priamemu kontaktu s očami. Ak sa objaví podráždenie, prestaňte produkt používať. Uchovávajte mimo dosahu detí.",
+    "warningTitle": "Upozornenie"
+  },
+  "partners": {
+    "audiences": [
+      {
+        "alt": "Zakladatelia startupov na stretnutí akcelerátora",
+        "body": "Vaši zakladatelia prezentujú, predvádzajú a natáčajú obsah od prvého dňa. Dajte im mesiac dennej starostlivosti o pleť, ktorá počas programu zaberie dve minúty denne.",
+        "how": "Ako to funguje: každému zakladateľovi vo vašej kohorte odošleme jednu fľaštičku zadarmo, s osobným plánom z kvízu o pleti. Vy nás raz predstavíte; o všetko ostatné sa postaráme my.",
+        "title": "Pre akcelerátory"
+      },
+      {
+        "alt": "Študenti univerzity na kampuse",
+        "body": "Študenti podnikania budujú verejne: súťaže prezentácií, demo dni, prednášky zakladateľov a prvé stretnutia s investormi. Mesiac Tava Labs zadarmo je praktický a zapamätateľný darček pre študentov vo vašom programe.",
+        "how": "Ako to funguje: poskytneme fľaštičky pre vašu kohortu, triedu alebo podujatie, plus jednoduchý leták. Bez nákladov pre univerzitu a bez nákladov pre študentov.",
+        "title": "Pre univerzity"
+      },
+      {
+        "alt": "Stretnutie investora so zakladateľom",
+        "body": "Mesiac Tava Labs zadarmo je praktický darček pre zakladateľov vo vašom portfóliu. My zabezpečíme doručenie a ich osobné plány.",
+        "how": "Ako to funguje: povedzte nám, koľkých zakladateľov by ste chceli obdarovať, a my zariadime doručenie a ich osobné plány. Bez nákladov pre vás a bez nákladov pre nich.",
+        "title": "Pre anjelských investorov"
+      }
+    ],
+    "becomePartner": "Stať sa partnerom",
+    "closingSegments": [
+      {
+        "text": "Napíšte na "
+      },
+      {
+        "href": "mailto:talia@tavalabs.app",
+        "text": "talia@tavalabs.app"
+      },
+      {
+        "text": " alebo zavolajte na "
+      },
+      {
+        "href": "tel:+19099061308",
+        "text": "909-906-1308"
+      },
+      {
+        "text": " a my to zariadime."
+      }
+    ],
+    "closingTitleAccent": "mesiac zadarmo.",
+    "closingTitleLead": "Dajte svojim zakladateľom",
+    "formulationSub": "Sérum je vyrobené bez zložiek, na ktoré sa vaši členovia pýtajú najčastejšie:",
+    "formulationTitle": "Vyrobené bez týchto zložiek.",
+    "intro": "Tava Labs spolupracuje s akcelerátormi, univerzitami, anjelskými investormi a komunitami zakladateľov. Vaši členovia dostanú prvý mesiac PDRN Brightening Serum zadarmo.",
+    "label": "Staňte sa partnerom Tava Labs",
+    "partnershipsContact": "Kontakt pre partnerstvá",
+    "steps": [
+      {
+        "body": "Povedzte nám o svojom programe a o tom, koľkých ľudí by ste chceli obdarovať.",
+        "title": "Ozvite sa"
+      },
+      {
+        "body": "Odošleme sérum a nastavíme osobný plán každého človeka z kvízu o pleti.",
+        "title": "Zariadime darček"
+      },
+      {
+        "body": "Vaši členovia dostanú mesiac séra zadarmo, s poďakovaním od nás v každej krabici.",
+        "title": "Vy darujete darček"
+      }
+    ],
+    "stepsTitle": "Ako partnerstvo funguje",
+    "tagline": "Mesiac zadarmo od nás, bez nákladov a bez záväzkov.",
+    "titleAccent": "Tava Labs.",
+    "titleLead": "Darujte svojim zakladateľom mesiac zadarmo od",
+    "why": [
+      {
+        "body": "Vaši členovia získajú skutočný produkt a osobný plán, nie zľavový kód, na ktorý zabudnú.",
+        "title": "Viac hodnoty od prvého dňa"
+      },
+      {
+        "body": "Prvý mesiac je na nás, pre každého človeka, ktorého obdarujete.",
+        "title": "Nulové náklady pre vás"
+      },
+      {
+        "body": "Staráme sa o doručenie, uvedenie a podporu. Vy urobíte jedno predstavenie.",
+        "title": "Nulová námaha pre vás"
+      },
+      {
+        "body": "Jeden krok, ráno a večer. Sedí k rozvrhu zakladateľa, pretože pre taký rozvrh bolo navrhnuté.",
+        "title": "Darček, ktorý skutočne využijú"
+      }
+    ],
+    "whyTitleAccent": "Skutočná hodnota.",
+    "whyTitleLead": "Nulové náklady. Nulová námaha."
+  },
+  "blog": {
+    "label": "The Tava Journal",
+    "readStory": "Prečítať príbeh",
+    "sub": "Články o vede o spánku, výskume stresu a zdraví pleti pre zakladateľov a majiteľov firiem.",
+    "titleAccent": "pre zakladateľov",
+    "titleLead": "Výskum spánku a stresu"
   },
   "research": {
-   "description": "Namerané výsledky 16-týždňového programu účastníkov Tava Labs. Zmeny od začiatku do 16. týždňa pri léziách akné, hydratácii, začervenaní, pigmentácii a textúre, vrátane úplného protokolu programu.",
-   "title": "Výsledky 16-týždňového výskumu | Tava Labs"
+    "pill": "Research Series 001 · Výsledky účastníkov",
+    "h1Lead": "16-týždňový pohľad na namerané",
+    "h1Accent": "zmeny pleti.",
+    "heroSub": "Prospektívny, otvorený program účastníkov, ktorý spája osobnú rutinu starostlivosti o pleť, doplnky a poradenstvo o životnom štýle. Každé číslo na tejto stránke pochádza zo správy, namerané na začiatku a v 16. týždni.",
+    "chips": [
+      "Prospektívny a otvorený",
+      "Jedno rameno",
+      "Pod lekárskym dohľadom",
+      "Osobné pracovisko klinického výskumu"
+    ],
+    "headlineLabel": "Hlavný výsledok",
+    "headlineTitle": "Celkový počet lézií akné klesol z 16.8 na 6.2",
+    "slopeAria": "Graf sklonu zobrazujúci celkový počet lézií akné z 16.8 na začiatku na 6.2 v 16. týždni",
+    "slopeBaseline": "Začiatok 16.8",
+    "slopeWeek": "16. týždeň · 6.2",
+    "slopeNote": "Priama čiara iba medzi dvoma nameranými bodmi. Správa nezverejnila hodnoty výsledkov za 4., 8. ani 12. týždeň.",
+    "badges": [
+      {
+        "big": "o 60 percent vyššie",
+        "small": "Hydratácia pleti, 29.4 AU až 47.1 AU"
+      },
+      {
+        "big": "o 52 percent nižšie",
+        "small": "Klinické skóre textúry, 2.7 zo 4 na 1.3 zo 4"
+      }
+    ],
+    "statsLabels": [
+      "Týždne v programe",
+      "Zapísaní dospelí",
+      "Ľudia dokončili všetky návštevy",
+      "Miera dokončenia"
+    ],
+    "percentWord": "percent",
+    "resultsBg": "Výsledky",
+    "resultsLabel": "Priemerná zmena · Začiatok až 16. týždeň",
+    "resultsTitle": "Čo sa zmenilo, v jasných číslach.",
+    "resultsSub": "Výsledky za 84 účastníkov, ktorí dokončili všetky návštevy. Každá karta porovnáva dva časové body, ktoré štúdia skutočne merala.",
+    "baseline": "Začiatok",
+    "week16": "16. týždeň",
+    "slopeFoot": "Začiatok až 16. týždeň",
+    "results": [
+      {
+        "title": "Celkový počet lézií akné",
+        "change": "o 63 percent nižšie",
+        "note": "Lézie počítané dermatológom"
+      },
+      {
+        "title": "Hydratácia pleti",
+        "change": "o 60 percent vyššie",
+        "note": "Meranie korneometrom v AU"
+      },
+      {
+        "title": "Index erytému a začervenania",
+        "change": "o 30 percent nižšie",
+        "note": "Index chromametra"
+      },
+      {
+        "title": "Index melanínu a pigmentácie",
+        "change": "o 25 percent nižšie",
+        "note": "Index chromametra"
+      },
+      {
+        "title": "Klinické skóre textúry",
+        "change": "o 52 percent nižšie",
+        "note": "Hodnotené na stupnici 0 až 4"
+      }
+    ],
+    "peopleBg": "Ľudia",
+    "participantsLabel": "Kto sa zúčastnil",
+    "participantsTitle": "Kto sa programu zúčastnil.",
+    "participantsSub": "Päť návštev počas programu, od začiatku až po 16. týždeň.",
+    "ageLabel": "Priemerný vek",
+    "ageSuffix": "Rokov · Rozsah 20 až 48",
+    "visitTimeline": "Časová os návštev",
+    "visits": [
+      {
+        "name": "Začiatok",
+        "desc": "Skríning, merania a fotografovanie"
+      },
+      {
+        "name": "4. týždeň",
+        "desc": "Kontrolné hodnotenie"
+      },
+      {
+        "name": "8. týždeň",
+        "desc": "Kontrolné hodnotenie"
+      },
+      {
+        "name": "12. týždeň",
+        "desc": "Kontrolné hodnotenie"
+      },
+      {
+        "name": "16. týždeň",
+        "desc": "Záverečné merania a fotografovanie"
+      }
+    ],
+    "genderTitle": "Rozdelenie podľa pohlavia",
+    "genderAria": "Prstencový graf rozdelenia podľa pohlavia, 74 percent ženy, 24 percent muži, 2 percentá nebinárni",
+    "gender": [
+      {
+        "label": "Ženy",
+        "pct": "74 percent"
+      },
+      {
+        "label": "Muži",
+        "pct": "24 percent"
+      },
+      {
+        "label": "Nebinárni",
+        "pct": "2 percentá"
+      }
+    ],
+    "donutNote": "Prstencový graf sa animuje na nahlásené rozdelenie, keď sa posunie do pohľadu.",
+    "concernsTitle": "Obavy o pleť na začiatku",
+    "concerns": [
+      "Pozápalová hyperpigmentácia",
+      "Nerovnomerná textúra a drsnosť",
+      "Zápalové akné",
+      "Začervenanie a citlivosť tváre",
+      "Tmavé kruhy pod očami",
+      "Suchosť a narušená bariéra",
+      "Jemné vrásky a skoré fotostarnutie"
+    ],
+    "concernsNote": "Účastníci mohli nahlásiť viac než jednu obavu, takže tieto podiely sa nesčítavajú do 100 percent.",
+    "programBg": "Program",
+    "programLabel": "Program a protokol",
+    "programTitle": "16-týždňový program, krok za krokom.",
+    "programSub": "Účastníci absolvovali osobný skríning, výdaj produktov, školenie o nanášaní a kontrolné hodnotenia na pracovisku klinického výskumu.",
+    "morningTag": "Ranná rutina",
+    "morningTitle": "Začať deň",
+    "amSteps": [
+      "Jemný čistiaci prípravok",
+      "Sérum s vitamínom C, 15 percent",
+      "Ceramidový hydratačný krém",
+      "Minerálny opaľovací krém, SPF 50"
+    ],
+    "eveningTag": "Večerná rutina",
+    "eveningTitle": "Ukončiť deň",
+    "pmSteps": [
+      "Jemný čistiaci prípravok",
+      "Sérum s Niacinamide 5 percent plus zinok",
+      "Peptidový bariérový krém",
+      "Retinol 0.3 percent, zavedený v 2. týždni a titrovaný pod vedením klinika"
+    ],
+    "routineNote": "Retinol sa používal 3 až 5 nocí týždenne po počiatočnom dvojtýždňovom období navykania. Podľa potreby sa na aktívne lézie používala 2-percentná kyselina salicylová.",
+    "supplementLabel": "Rutina doplnkov",
+    "supplementTitle": "Tava Skin Complex",
+    "supplementSub": "Dve kapsuly denne s raňajkami. Množstvá sú uvedené na dávku dvoch kapsúl.",
+    "supplements": [
+      "Vitamín C",
+      "Zinok",
+      "Niacinamide",
+      "Astaxanthin",
+      "Fytozóm kurkumínu",
+      "Probiotická zmes Lactobacillus"
+    ],
+    "supplementNote": "Nepovinný doplnok, Omega 3, jedna mäkká kapsula denne.",
+    "nutritionTitle": "Poradenstvo o výžive",
+    "nutritionItems": [
+      "Aspoň 2.5 l vody denne",
+      "Zelenina, bobuľové ovocie a potraviny bohaté na omega 3",
+      "Obmedziť pridaný cukor a potraviny s vysokým glykemickým indexom",
+      "Nepovinný dvojtýždňový reštart s nízkym obsahom mliečnych výrobkov a cukru",
+      "Úvodné poradenstvo s registrovaným dietológom"
+    ],
+    "lifestyleTitle": "Ciele životného štýlu",
+    "lifestyleItems": [
+      "7 až 9 hodín spánku",
+      "Aspoň 150 minút strednej aktivity týždenne",
+      "Päťminútové každodenné dychové cvičenie",
+      "Spánok zaznamenávaný týždenne",
+      "Návyky hydratácie a opaľovania posudzované pri návštevách"
+    ],
+    "adherenceLabel": "Sledovanie programu",
+    "adherenceTitle": "Ako dôsledne ľudia zostali pri pláne.",
+    "adherenceSub": "Dodržiavanie počas celých 16 týždňov, ako je zaznamenané v správe.",
+    "adherence": [
+      "Celkové dodržiavanie",
+      "Dodržiavanie doplnkov",
+      "Dodržiavanie lokálnej aplikácie"
+    ],
+    "adherenceAria": "{label}, {val} percent",
+    "adherenceFoot": "Počas 16-týždňového programu",
+    "safetyBg": "Bezpečnosť",
+    "safetyLabel": "Nahlásené vedľajšie účinky",
+    "safetyTitle": "Čo účastníci nahlásili.",
+    "safetySub": "Podiely účastníkov, ktorí nahlásili každý účinok počas programu.",
+    "sideEffectsTitle": "Vedľajšie účinky",
+    "sideEffects": [
+      "Mierna suchosť alebo olupovanie",
+      "Dočasné vzplanutie akné",
+      "Mierne tráviace ťažkosti"
+    ],
+    "withdrawalsTitle": "Odstúpenia",
+    "withdrawalsSub": "8 účastníkov odstúpilo z 92 zapísaných.",
+    "withdrawals": [
+      {
+        "label": "Konflikty v rozvrhu",
+        "value": "5 ľudí"
+      },
+      {
+        "label": "Mierne vedľajšie účinky",
+        "value": "2 ľudia"
+      },
+      {
+        "label": "Stratení pri sledovaní",
+        "value": "1 človek"
+      }
+    ],
+    "alertTitle": "Neboli nahlásené žiadne závažné nežiaduce udalosti.",
+    "alertBody": "Táto veta je uvedená v správe popri miernych účinkoch uvedených na tejto stránke. Je tu zahrnutá presne tak, ako bola nahlásená.",
+    "photoLabel": "Vizuálna dokumentácia",
+    "photoTitle": "Porovnania fotografií účastníkov.",
+    "photoSub": "Fotografie vedľa seba zo štvormesačného programu. Ľavý obrázok v každom páre ukazoval začiatok a pravý obrázok ukazoval 16. týždeň. Na tejto stránke nie sú reprodukované žiadne fotografie účastníkov.",
+    "participant": "Účastník {initial}",
+    "docViews": [
+      "Pohľad z bočného profilu",
+      "Čelný pohľad",
+      "Čelný pohľad s okuliarmi",
+      "Detailný pohľad na líce"
+    ],
+    "baselineAndWeek": "Začiatok a 16. týždeň",
+    "photoProtocolTitle": "Protokol fotografovania",
+    "photoProtocol": "Štandardizované snímanie na začiatku a pri kontrole s pevným nastavením kamery, konzistentným viditeľným a krížovo polarizovaným osvetlením, čelnými, 45-stupňovými a profilovými uhlami a farebne kalibrovaným pozadím.",
+    "methodsLabel": "Ako sa merania vykonávali",
+    "methodsTitle": "Klinické merania",
+    "methods": [
+      "Lézie akné počítané dermatológom",
+      "Hydratácia korneometrom",
+      "Indexy začervenania a melanínu chromametrom",
+      "Hodnotenie textúry na stupnici 0 až 4",
+      "Štandardizované fotografovanie"
+    ],
+    "factsLabel": "Dizajn štúdie",
+    "factsTitle": "Dizajn na prvý pohľad.",
+    "facts": [
+      {
+        "k": "Dizajn",
+        "v": "Prospektívny, otvorený, jednoramenný"
+      },
+      {
+        "k": "Prostredie",
+        "v": "Osobne, pod lekárskym dohľadom"
+      },
+      {
+        "k": "Hodnotenia",
+        "v": "Začiatok plus 4., 8., 12. a 16. týždeň"
+      },
+      {
+        "k": "Dokončené",
+        "v": "84 z 92 zapísaných · 91 percent"
+      }
+    ],
+    "source": "Zdroj, Tava Labs Participant Outcomes, Research Series 001, 16-týždňový program účastníkov. Táto stránka uvádza iba čísla zo správy, so začiatkom a 16. týždňom ako dvoma nameranými bodmi výsledkov."
   },
-  "returns": {
-   "description": "Zásady Tava Labs pre vrátenie tovaru a refundáciu objednávok PDRN Brightening Serum, vrátane našich podmienok, že každý predaj je konečný, a ako kontaktovať podporu.",
-   "title": "Zásady vrátenia tovaru a refundácie | Tava Labs"
-  },
-  "shipping": {
-   "description": "Zásady doručovania Tava Labs pre objednávky PDRN Brightening Serum: časy spracovania, odhady doručenia, sledovanie zásielky a oblasti doručenia.",
-   "title": "Zásady doručovania | Tava Labs"
-  },
-  "terms": {
-   "description": "Podmienky, ktoré upravujú vaše používanie stránky tavalabs.app a váš nákup PDRN Brightening Serum od Tava Labs, LLC, vrátane našich podmienok, že každý predaj je konečný.",
-   "title": "Obchodné podmienky | Tava Labs"
-  }
- },
- "chrome": {
-  "addToRoutine": "Pridať do rutiny",
-  "closeMenu": "Zavrieť menu",
-  "contactHeading": "Kontaktujte nás",
-  "contactLinks": {
-   "general": "Všeobecné",
-   "pr": "PR",
-   "productSupport": "Podpora k produktom",
-   "salesSupport": "Podpora predaja",
-   "wholesale": "Veľkoobchod"
-  },
-  "contactEmails": {
-   "supportLabel": "Objednávky a pomoc s produktmi",
-   "generalLabel": "Všeobecný kontakt"
-  },
-  "copyright": "© 2026 Tava Labs · PDRN Brightening Serum pre zakladateľov",
-  "disclaimer1": "PDRN Brightening Serum je kozmetický produkt. Nie je určený na diagnostiku, liečbu, vyliečenie ani prevenciu žiadneho ochorenia. Jednotlivé výsledky sa môžu líšiť.",
-  "disclaimer2": "Každý predaj je konečný. Pred objednaním si prosím pozrite naše Zásady vrátenia tovaru.",
-  "footerIngredients": "Zloženie",
-  "footerSerum": "PDRN Brightening Serum",
-  "homeAria": "Domovská stránka Tava Labs",
-  "infoHeading": "Informácie",
-  "infoLinks": {
-   "about": "O nás",
-   "blog": "Blog",
-   "faqs": "Časté otázky",
-   "ingredients": "Zloženie",
-   "partners": "Partneri",
-   "research": "Výskum"
-  },
-  "language": "Jazyk",
-  "legalHeading": "Právne informácie",
-  "legalLinks": {
-   "cookies": "Zásady používania súborov cookie",
-   "privacy": "Zásady ochrany osobných údajov",
-   "returns": "Zásady vrátenia tovaru",
-   "shipping": "Zásady doručovania",
-   "terms": "Obchodné podmienky"
-  },
-  "login": "Prihlásiť sa",
-  "mobileNavAria": "Mobilná",
-  "navAbout": "O nás",
-  "navBlog": "Blog",
-  "navContact": "Kontakt",
-  "navFaqs": "Časté otázky",
-  "navIngredients": "Zloženie",
-  "navSerum": "Sérum",
-  "newsletter": {
-   "done": "Ste prihlásení na odber. Ďakujeme.",
-   "error": "Niečo sa pokazilo, skúste to prosím znova.",
-   "placeholder": "Váš email",
-   "sending": "Odosiela sa...",
-   "subscribe": "Odoberať"
-  },
-  "newsletterHeading": "Dostávať novinky Tava Labs e-mailom",
-  "notFoundBody": "Táto stránka tu nie je. Možno sa presunula alebo je adresa neúplná.",
-  "notFoundHome": "Späť na domovskú stránku",
-  "notFoundLabel": "Tava Labs",
-  "notFoundShop": "Kúpiť PDRN Brightening Serum",
-  "notFoundTitle": "Stránka sa nenašla",
-  "openMenu": "Otvoriť menu",
-  "primaryNavAria": "Hlavná",
-  "shopHeading": "Obchod",
-  "tagline": "PDRN Brightening Serum pre zakladateľov"
- },
- "hero": {
-  "ariaLabel": "PDRN Brightening Serum",
-  "cardAria": "PDRN Brightening Serum, stránka produktu",
-  "line1": "Denné sérum na tvár pre",
-  "line2": "jasnejšia, hladšia pleť.",
-  "morningAlt": "Zakladateľ si nanáša sérum pri kúpeľňovom zrkadle v rannom svetle",
-  "morningCaption": "Nanášajte pri zrkadle každé ráno",
-  "morningPill": "Ranná rutina",
-  "onSetAlt": "Zakladateľ sediaci v štúdiu, tvárou ku kamere",
-  "onSetCaption": "Na natáčanie a videohovory",
-  "onSetPill": "Pred kamerou",
-  "pill": "Pre zakladateľov a majiteľov firiem",
-  "priceLine": "$49 jednorazovo alebo $39 mesačne",
-  "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Nanášajte dve až štyri kvapky ráno a večer. $49 jednorazovo alebo $39 mesačne.",
-  "talia": {
-   "alt": "Talia Kade, výskumníčka v Tava Labs, v bielom laboratórnom plášti",
-   "baseline": "Začiatok",
-   "slopeAria": "Trendová čiara z hodnoty 16.8 na začiatku na 6.2 v 16. týždni",
-   "statBig": "o 63 % nižšie",
-   "statCap": "Lézie akné",
-   "statNote": "Priemerná zmena v 16-týždňovom programe účastníkov",
-   "week16": "16. týždeň"
-  },
-  "wideHead": "Jedna fľaša, používaná ráno a večer.",
-  "widePill": "Deň a noc"
- },
- "home": {
-  "buildersBody": "Zakladatelia a majitelia firiem sa prezentujú celý deň. Prezentujete investorom osobne, predávate na videohovoroch a nahrávate videá pre zákazníkov. Vyzerať čisto a oddýchnuto je súčasťou dobrej prezentácie vašej firmy. Krátka denná rutina starostlivosti o pleť sedí vedľa dobrého šatníka a spoľahlivého notebooku ako základná údržba. PDRN Brightening Serum zaberie dve minúty, ráno a večer.",
-  "buildersTagline": "Budujte svoju firmu. Nezanedbávajte seba.",
-  "buildersTitle": "Vyrobené pre zakladateľov a majiteľov firiem",
-  "cameraAlt": "Zakladateľ hovoriaci pred kamerou",
-  "cameraBody": "Pri natáčaní videa, podcaste alebo predajnom hovore kamera ukazuje unavenú pleť zblízka. Dvojminútová rutina ráno a večer pomáha vašej pleti vyzerať oddýchnuto pred nahrávaním.",
-  "cameraTitle": "Pred kamerou",
-  "closeVideo": "Zavrieť video",
-  "founderBody1": "To je myšlienka za Tava Labs. PDRN Brightening Serum je jediný krok, okolo ktorého je rutina postavená: dve minúty, dvakrát denne, ráno a večer.",
-  "founderBody2": "Pozrite si video a vypočujte si, prečo sme ho vyrobili, našimi vlastnými slovami.",
-  "founderLabel": "Odkaz od nášho zakladateľa",
-  "founderPhilosophy": "Filozofia Tava Labs",
-  "founderQuote": "„Jedno sérum, dve minúty, ráno a večer. To je celá rutina.“",
-  "founderVideoAria": "Video Tava Labs, prečo sme vyrobili PDRN Brightening Serum",
-  "freeFromItems": [
-   {
-    "blurb": "Nikdy netestované na zvieratách.",
-    "name": "Bez krutosti"
-   },
-   {
-    "blurb": "Žiadne pridané parfumy ani syntetické vône.",
-    "name": "Bez parfumácie"
-   },
-   {
-    "blurb": "Žiadny minerálny olej ani ropné plnivá.",
-    "name": "Bez minerálneho oleja"
-   },
-   {
-    "blurb": "Žiadne ftaláty vo formule.",
-    "name": "Bez ftalátov"
-   },
-   {
-    "blurb": "Žiadne silikóny, ktoré by pokrývali vašu pleť.",
-    "name": "Bez silikónov"
-   },
-   {
-    "blurb": "Žiadne agresívne sulfáty. Šetrné k pleti.",
-    "name": "Bez sulfátov"
-   },
-   {
-    "blurb": "Vyrobené bez bežných alergénov.",
-    "name": "Bez alergénov"
-   },
-   {
-    "blurb": "Žiadne vysušujúce alkoholy.",
-    "name": "Bez alkoholu"
-   }
-  ],
-  "freeFromSub": "To, čo vynechávame, je rovnako dôležité ako to, čo pridávame.",
-  "freeFromTitleAccent": "vo formule.",
-  "freeFromTitleLead": "Čo nie je",
-  "introBody": "Zakladatelia a majitelia firiem trávia svoje dni na stretnutiach, predajných hovoroch a v nahratých videách. Vaša tvár je na obrazovke a v miestnosti pri tom všetkom. PDRN Brightening Serum je jeden ľahký krok s PDRN, peptidmi a kyselinou hyalurónovou. Rýchlo sa vstrebáva a pomáha pleti vyzerať jasnejšie, hydratovane a hladko. Dve minúty, dvakrát denne.",
-  "introTitleAccent": "zdravo vyzerajúca pleť",
-  "introTitleLead": "Jasnejšia, hydratovaná,",
-  "journalSub": "Články o spánku, strese a pleti pre zakladateľov.",
-  "journalTitle": "The Tava Journal",
-  "maintenanceBody": "Naneste dve až štyri kvapky PDRN Brightening Serum na čistú, suchú pleť, ráno a večer, potom pokračujte hydratačným krémom. Celá rutina zaberie asi dve minúty denne.",
-  "maintenanceTitle": "Jedno sérum je celá rutina.",
-  "marqueeSlogan": "Vyrobené pre zakladateľov a majiteľov firiem",
-  "marqueeTagline": "Jedno sérum, ráno a večer",
-  "motionBody": "Zakladatelia a tvorcovia, ktorí používajú PDRN Brightening Serum, nahratí na videu.",
-  "motionTitle": "Pozrieť videá zákazníkov",
-  "pitchAlt": "Zakladateľ predstavuje svoj nápad investorovi",
-  "pitchBody": "Keď prezentujete investorom osobne, vidia najprv vás, až potom vaše slajdy. Denná rutina so sérom pomáha vašej pleti vyzerať v ten deň jasne, hydratovane a oddýchnuto.",
-  "pitchTitle": "Pri prezentácii investorom",
-  "playVideo": "Prehrať video",
-  "readJournal": "Čítať Journal",
-  "readStory": "Prečítať príbeh",
-  "shopSerum": "Kúpiť sérum",
-  "videoPlayer": "Prehrávač videa"
- },
- "appTeaser": {
-  "caption": "Aplikácia Tava Labs prináša váš plán séra, vašu každodennú rutinu, vaše laboratórne panely a výsledky aj vaše objednávky na jedno miesto, vytvorená pre iPhone.",
-  "features": [
-   {
-    "desc": "Ranné a večerné sedenia, odškrtávané krok za krokom.",
-    "title": "Každodenná rutina"
-   },
-   {
-    "desc": "Vaša aktuálna séria a dni, ktoré zostávajú vo vašom pláne.",
-    "title": "Série a pokrok"
-   },
-   {
-    "desc": "Panely, výsledky a rozsahy vo vašom vrecku.",
-    "title": "Laboratórne panely a výsledky"
-   },
-   {
-    "desc": "Svoje objednávky a dátumy doplnenia vidíte na jednom mieste.",
-    "title": "Objednávky a doplnenia"
-   }
-  ],
-  "headlineLead": "Vaše sérum, laboratórne výsledky a objednávky",
-  "headlineTrail": "v jednej aplikácii.",
-  "label": "Už čoskoro",
-  "lead": "Vaša rutina, vaše laboratórne výsledky a vaše objednávky, všetko v aplikácii Tava Labs.",
-  "phone": {
-   "amDrops": "Ráno · 3 kvapky",
-   "clinicalReview": "Klinické posúdenie",
-   "dayLine": "Deň 12 z 30 · ešte 18 dní do vášho prvého celého mesiaca",
-   "goodMorning": "Dobré ráno",
-   "inRange": "2 v rozsahu",
-   "morningRoutine": "Ranná rutina",
-   "optimal": "4 optimálne",
-   "resultsIn": "Vaše výsledky sú tu",
-   "steps": [
-    {
-     "detail": "Jemný čistiaci prípravok, osušiť poklepaním",
-     "title": "Vyčistiť"
+  "account": {
+    "signedInAs": "Prihlásení ako",
+    "signOut": "Odhlásiť sa",
+    "loading": "Načítava sa váš účet…",
+    "failedTitle": "Váš účet sa nám nepodarilo načítať",
+    "failedSegments": [
+      {
+        "text": "Skontrolujte svoje pripojenie a skúste to znova. Ak sa to deje aj naďalej, napíšte na "
+      },
+      {
+        "text": "support@tavalabs.app",
+        "href": "mailto:support@tavalabs.app"
+      },
+      {
+        "text": " a my to vyriešime."
+      }
+    ],
+    "tryAgain": "Skúsiť znova",
+    "tabs": {
+      "today": "Dnes",
+      "orders": "Objednávky",
+      "shop": "Obchod",
+      "lab": "Laboratórium",
+      "support": "Podpora"
     },
-    {
-     "detail": "Vtlačiť do tváre a krku",
-     "title": "Naniesť 3 kvapky séra"
+    "greetings": {
+      "morning": "Dobré ráno",
+      "afternoon": "Dobré popoludnie",
+      "evening": "Dobrý večer"
     },
-    {
-     "detail": "SPF 30 alebo vyšší",
-     "title": "Hydratovať + SPF"
-    }
-   ],
-   "stepsToGo": "Dnes: zostávajú 4 zo 6 krokov rutiny",
-   "tabs": {
-    "lab": "Laboratórium",
-    "orders": "Objednávky",
-    "profile": "Profil",
-    "shop": "Obchod",
-    "today": "Dnes"
-   },
-   "toReview": "1 na posúdenie",
-   "today": "Dnes"
-  },
-  "scroll": "Posúvať"
- },
- "categoryChrome": {
-  "explore": "Preskúmať",
-  "goTo": "Prejsť na {title}",
-  "nextProducts": "Ďalšie produkty",
-  "prevProducts": "Predchádzajúce produkty",
-  "readMore": "Čítať viac +",
-  "showLess": "Zobraziť menej −"
- },
- "categories": {
-  "skincare": {
-   "eyebrow": "STAROSTLIVOSŤ O PLEŤ",
-   "heroTitleLead": "Vaše ďalšie stretnutie",
-   "heroTitleAccent": "sa začína vami.",
-   "heroCopy": "Vyrobené pre podnikateľov, ktorí prezentujú, predávajú a nahrávajú pred kamerou. Jedno denné sérum, postavené okolo PDRN, pre pleť, ktorá vyzerá jasne a oddýchnuto v miestnosti aj pred kamerou.",
-   "heroFinePrint": "Kozmetická starostlivosť o pleť. Nie je určená na diagnostiku, liečbu, vyliečenie ani prevenciu žiadneho ochorenia.",
-   "stamp": "STAROSTLIVOSŤ O PLEŤ PRE ZAKLADATEĽOV",
-   "primaryCta": "Pridať do rutiny",
-   "secondaryCta": "Pozrite si zloženie",
-   "optionsEyebrow": "RAD PRODUKTOV",
-   "optionsTitleLead": "Jedno sérum.",
-   "optionsTitleAccent": "Žiadna polica dohadov.",
-   "optionsCopy": "Začnite sérom. Zvyšok rady je na ceste.",
-   "products": [
-    {
-     "title": "PDRN Brightening Serum",
-     "subtitle": "PDRN, peptidy a Sodium Hyaluronate",
-     "unit": "jednorazovo",
-     "imageAlt": "Fľaštička PDRN Brightening Serum od Tava Labs",
-     "badges": [
-      "Bestseller"
-     ],
-     "description": "Denné sérum pre jasnejšiu, hydratovanú a zdravo vyzerajúcu pleť. $39 mesačne pri Subscribe and Save.",
-     "linkLabel": "Pozrite si sérum"
+    "weekInitials": [
+      "N",
+      "P",
+      "U",
+      "S",
+      "Š",
+      "P",
+      "S"
+    ],
+    "streakLine": "Séria {streak} dní · Deň {day} z 30{bottle}",
+    "dayLine": "Deň {day} z 30{bottle}. Dokončite dnešnú rutinu v aplikácii a začnite svoju sériu.",
+    "bottleSuffix": " · ešte {days} dní vo fľaštičke",
+    "progressLine": "Deň {day} z 30 · ešte {left} dní do vášho prvého celého mesiaca",
+    "stepsToGo": "Dnes: zostáva {n} z {total} krokov rutiny.",
+    "todayComplete": "Dnešok je hotový. Váš ďalší deň je už pripravený.",
+    "planEyebrow": "Váš plán",
+    "planDefault": "Vyplňte kvíz o pleti a váš osobný plán, vytvorený z vašich odpovedí, bude žiť tu a v aplikácii.",
+    "retakeQuiz": "Znova vyplniť kvíz o pleti",
+    "takeQuiz": "Vyplniť kvíz o pleti",
+    "chipLabels": {
+      "goal": "Cieľ",
+      "skinType": "Typ pleti",
+      "concern": "Obava",
+      "routine": "Rutina",
+      "plan": "Plán",
+      "routineTimes": "Časy rutiny"
     },
-    {
-     "title": "Peptidový hydratačný krém",
-     "subtitle": "1.7 fl oz (50ml)",
-     "imageAlt": "Biela tuba Peptide Moisturizer od Tava Labs s ružovým špliechnutím",
-     "badges": [
-      "Už čoskoro"
-     ],
-     "description": "Peptidový hydratačný krém, ktorý cieli na vrásky a hydratuje, vyrobený pre pleť, ktorá musí vyzerať vyrovnane po celý deň."
+    "labelMaps": {
+      "goal": {
+        "radiance": "Žiarivosť",
+        "fine_lines": "Jemné vrásky",
+        "hydration": "Hydratácia",
+        "even_tone": "Rovnomerný tón"
+      },
+      "skinType": {
+        "dry": "Suchá",
+        "oily": "Mastná",
+        "combination": "Zmiešaná",
+        "sensitive": "Citlivá",
+        "not_sure": "Nie som si istý"
+      },
+      "concern": {
+        "dullness": "Mdlý vzhľad",
+        "fine_lines": "Jemné vrásky",
+        "uneven_tone": "Nerovnomerný tón",
+        "texture": "Textúra",
+        "dryness": "Suchosť"
+      },
+      "sensitivity": {
+        "often": "Často citlivá",
+        "sometimes": "Niekedy citlivá",
+        "never": "Zriedka citlivá"
+      },
+      "routine": {
+        "cleanser_only": "Iba čistiaci prípravok",
+        "few_products": "Pár produktov",
+        "full_routine": "Úplná rutina"
+      },
+      "ramp": {
+        "gentle": "Jemné navykanie",
+        "standard": "Štandardné navykanie",
+        "full": "Plná sila"
+      }
     },
-    {
-     "title": "Peptidový očný krém",
-     "subtitle": "1 fl oz (30ml)",
-     "imageAlt": "Biela tuba Peptide Eye Cream od Tava Labs s kvapkou vo farbe šampanského",
-     "badges": [
-      "Už čoskoro"
-     ],
-     "description": "Znižuje vzhľad opuchu očí a cieli na vrásky v oblasti očí, pre oddýchnutý vzhľad pred kamerou."
+    "morningEyebrow": "Ranná rutina",
+    "nightEyebrow": "Nočná rutina",
+    "amTitle": "Ráno · 3 kvapky",
+    "pmTitle": "Večer · 3 kvapky",
+    "amSteps": [
+      {
+        "title": "Vyčistiť",
+        "detail": "Jemný čistiaci prípravok, osušiť poklepaním"
+      },
+      {
+        "title": "Naniesť 3 kvapky séra",
+        "detail": "Vtlačiť do tváre a krku"
+      },
+      {
+        "title": "Hydratovať + SPF",
+        "detail": "SPF 30 alebo vyšší"
+      }
+    ],
+    "pmSteps": [
+      {
+        "title": "Dvojité čistenie",
+        "detail": "Odstrániť SPF a make-up"
+      },
+      {
+        "title": "Naniesť 3 kvapky séra",
+        "detail": "Pred retinolom alebo ošetreniami"
+      },
+      {
+        "title": "Nočný hydratačný krém",
+        "detail": "Uzamknúť hydratáciu"
+      }
+    ],
+    "stepsNote": "Kroky odškrtávate v mobilnej aplikácii. Táto stránka ukazuje dnešnú rutinu a to, čo aplikácia dnes zatiaľ zaznamenala.",
+    "ordersEyebrow": "Objednávky",
+    "ordersTitle": "Vaše objednávky",
+    "ordersEmpty": "Zatiaľ žiadne objednávky. Keď nakúpite, vaše objednávky a sledovanie sa zobrazia tu a v aplikácii.",
+    "paid": "Zaplatené",
+    "paymentFailed": "Platba zlyhala",
+    "unpaid": "Nezaplatené",
+    "statusLabels": [
+      "Objednané",
+      "Odoslané",
+      "Na doručení",
+      "Doručené"
+    ],
+    "subscription": "Predplatné",
+    "carrierFallback": "Dopravca",
+    "trackPackage": "Sledovať zásielku",
+    "claimEyebrow": "Kód na uplatnenie",
+    "claimTitle": "Prepojenie nákupu s aplikáciou",
+    "claimForOrder": "Váš kód na uplatnenie pre objednávku {order}",
+    "claimYourCode": "Váš kód na uplatnenie",
+    "claimValidUntil": " (platný do {date})",
+    "claimEnter": ". Zadajte ho v aplikácii Tava v časti Objednávky, aby ste prepojili tento nákup so svojím účtom v aplikácii:",
+    "claimWebNote": "Tu na webe kód nepotrebujete. Prihlásenie emailom z pokladne už zobrazí vaše objednávky a plán vyššie.",
+    "claimEmpty": "Kúpili ste cez kvíz alebo túto stránku? Váš potvrdzovací email a stránka hneď po pokladni ukázali kód na uplatnenie. Otvorte mobilnú aplikáciu Tava, prihláste sa a zadajte kód na karte Objednávky. Váš nákup, plán a odpovede z kvízu sa presunú do vášho účtu v aplikácii. Tu na webe prihlásenie rovnakým emailom, aký ste použili pri pokladni, už zobrazí všetko vyššie. Nič ďalšie netreba zadávať.",
+    "shop": {
+      "eyebrow": "PDRN Brightening Serum",
+      "title": "Nakupovať Tava Labs",
+      "body": "1 fl oz (30 ml). Znížte jemné vrásky, hlboko hydratujte, obnovte žiarivosť a posilnite pleť. 2 až 4 dávky, ráno a večer.",
+      "subscribeLine": "Predplatiť, $39 mesačne.",
+      "subscribeRest": " Čerstvá fľaštička každý mesiac, automaticky.",
+      "oneTimeLine": "Jednorazovo, $49.",
+      "oneTimeRest": " Jedna fľaštička.",
+      "subscribeBtn": "Predplatiť, $39 mesačne",
+      "buyOnceBtn": "Kúpiť raz, $49",
+      "stripeNote": "Bezpečná pokladňa cez Stripe. Platbu potvrdíte na stránke Stripe."
     },
-    {
-     "title": "Spevňujúci krém na pleť",
-     "subtitle": "2 oz (56g)",
-     "imageAlt": "Biely téglik Skin Firming Cream od Tava Labs so zlatou vlnou v pozadí",
-     "badges": [
-      "Už čoskoro"
-     ],
-     "description": "Kyselina hyalurónová a CoQ10 v bohatom kréme, po ktorom pleť vyzerá pevne a ošetrene."
-    }
-   ],
-   "disclaimerLead": "Produkty starostlivosti o pleť Tava Labs sú kozmetika. Nie sú určené na diagnostiku, liečbu, vyliečenie ani prevenciu žiadneho ochorenia.",
-   "disclaimerMore": [
-    "Jednotlivé výsledky sa líšia. Používajte iba podľa pokynov: 2 až 4 kvapky PDRN Brightening Serum, dvakrát denne, na čistú pleť.",
-    "Ak sa objaví podráždenie, prestaňte produkt používať a poraďte sa s odborníkom. Ceny na tejto stránke boli správne v čase zverejnenia a môžu sa zmeniť."
-   ],
-   "protocolEyebrow": "RUTINA",
-   "protocolTitleLead": "Dve minúty, dvakrát denne.",
-   "protocolTitleAccent": "To je celá rutina.",
-   "protocolCopy": "Rutina postavená okolo jedného séra a rozvrhu podnikateľa, skoré hovory, dlhé noci a všetko ostatné.",
-   "protocolCta": "Pridať do rutiny",
-   "steps": [
-    {
-     "title": "Posúdiť",
-     "lead": "kvízom o pleti",
-     "body": "Odpovedzte na pár rýchlych otázok o vašej pleti, spánku a rozvrhu, aby váš plán vychádzal z toho, kde skutočne ste."
+    "labTab": {
+      "eyebrow": "Laboratórium",
+      "title": "Poznajte svoje čísla.",
+      "sub": "Skutočné krvné panely, objednané pod vaším účtom Tava. Prezrite si panely, pozrite si každý marker skôr, než objednáte, a nechajte si výsledky doručiť priamo sem."
     },
-    {
-     "title": "Naniesť",
-     "lead": "2 až 4 kvapky, dvakrát denne",
-     "body": "Ráno a večer, na čistú pleť. Jedno sérum, jeden krok, žiadna desaťkroková rutina na udržiavanie."
-    },
-    {
-     "title": "Sledovať",
-     "lead": "váš plán v aplikácii",
-     "body": "Váš nákup sa prepája s aplikáciou Tava kódom na uplatnenie, kde váš plán, objednávky a rutina zostávajú na jednom mieste."
-    }
-   ],
-   "legalLines": [
-    "Iba kozmetické produkty. Nič na tejto stránke nie je lekárska rada."
-   ]
-  },
-  "biomarkers": {
-   "eyebrow": "LABORATÓRNE BIOMARKERY",
-   "heroTitleLead": "Poznajte svoje dáta,",
-   "heroTitleAccent": "na Tava.",
-   "heroCopy": "Svoju firmu vediete na číslach. Čoskoro môžete rovnakú disciplínu uplatniť na seba: vaše kľúčové biomarkery, sledované v čase, v aplikácii Tava.",
-   "heroFinePrint": "Už čoskoro v aplikácii Tava. Poznatky slúžia iba na informáciu a nediagnostikujú žiadne ochorenie.",
-   "stamp": "VAŠE DÁTA NA JEDNOM MIESTE",
-   "primaryCta": "Pozrite si, čo sa sleduje",
-   "secondaryCta": "Ako to bude fungovať",
-   "optionsEyebrow": "ČO SA SLEDUJE",
-   "optionsTitleLead": "Šesť oblastí.",
-   "optionsTitleAccent": "Jeden jasný obraz.",
-   "optionsCopy": "Oblasti biomarkerov v ukážke aplikácie Tava, ktoré sa práve vytvárajú.",
-   "products": [
-    {
-     "title": "Mozog",
-     "subtitle": "Sústredenie a jasnosť",
-     "badges": [
-      "Už čoskoro"
-     ],
-     "description": "Markery, ktoré stoja za sústredením, jasnosťou a kognitívnym tempom, zhromaždené v jednom pohľade."
-    },
-    {
-     "title": "Hormóny",
-     "subtitle": "Rovnováha",
-     "badges": [
-      "Už čoskoro"
-     ],
-     "description": "Váš hormonálny obraz v čase, aby zmeny boli viditeľné, nie odhadované."
-    },
-    {
-     "title": "Srdce",
-     "subtitle": "Kardiovaskulárne markery",
-     "badges": [
-      "Už čoskoro"
-     ],
-     "description": "Markery srdca, na ktorých záleží, sledované ako trend, nie ako jednorazové meranie."
-    },
-    {
-     "title": "Metabolizmus",
-     "subtitle": "Energia a spaľovanie",
-     "badges": [
-      "Už čoskoro"
-     ],
-     "description": "Ako vaše telo využíva energiu, v číslach, ktoré skutočne môžete sledovať."
-    },
-    {
-     "title": "Črevá",
-     "subtitle": "Zdravie trávenia",
-     "badges": [
-      "Už čoskoro"
-     ],
-     "description": "Signály zdravia čriev, ktoré súvisia s energiou, náladou a regeneráciou."
-    },
-    {
-     "title": "Dlhovekosť",
-     "subtitle": "Biologický vek",
-     "badges": [
-      "Už čoskoro"
-     ],
-     "description": "Dlhý pohľad: ako vaše markery spolu vytvárajú obraz biologického veku."
-    }
-   ],
-   "disclaimerLead": "Poznatky o biomarkeroch v aplikácii Tava slúžia iba na informáciu. Nediagnostikujú, neliečia ani nepredchádzajú žiadnemu ochoreniu.",
-   "disclaimerMore": [
-    "O akomkoľvek výsledku, ktorý vás znepokojuje, sa porozprávajte so svojím poskytovateľom. V prípade núdze volajte 911."
-   ],
-   "protocolEyebrow": "AKO TO BUDE FUNGOVAŤ",
-   "protocolTitleLead": "Test, posúdenie,",
-   "protocolTitleAccent": "sledovať trend.",
-   "protocolCopy": "Jeden panel pre človeka, ktorý vedie firmu, vedľa vášho plánu séra v tej istej aplikácii.",
-   "steps": [
-    {
-     "title": "Test",
-     "lead": "cez laboratórneho partnera",
-     "body": "Vaša vzorka sa odoberie a spracuje a výsledky pristanú vo vašej aplikácii Tava."
-    },
-    {
-     "title": "Posúdenie",
-     "lead": "oblasť po oblasti",
-     "body": "Mozog, hormóny, srdce, metabolizmus, črevá a dlhovekosť, každé s vlastným pohľadom."
-    },
-    {
-     "title": "Sledovať",
-     "lead": "trend v čase",
-     "body": "Jedno meranie je momentka. Hodnota je v trende a aplikácia ho pre vás uchováva."
-    }
-   ],
-   "legalLines": [
-    "Sledovanie laboratórnych biomarkerov príde čoskoro a zatiaľ nie je otvorené na objednávky."
-   ]
-  },
-  "mentalHealth": {
-   "eyebrow": "DUŠEVNÉ ZDRAVIE",
-   "heroTitleLead": "Sústreďte sa lepšie,",
-   "heroTitleAccent": "na Tava.",
-   "heroCopy": "Podpora sústredenia a pozornosti, ktorá sa začína posúdením klinikom, nie tlačidlom pokladne.",
-   "heroFinePrint": "Po posúdení klinikom. Tento program je vo vývoji a zatiaľ nie je otvorený na registráciu.",
-   "stamp": "STAROSTLIVOSŤ POSÚDENÁ KLINIKOM",
-   "primaryCta": "Pozrite si, ako to funguje",
-   "optionsEyebrow": "PROGRAM",
-   "optionsTitleLead": "Starostlivosť, ktorá sa začína",
-   "optionsTitleAccent": "posúdením.",
-   "optionsCopy": "",
-   "products": [],
-   "disclaimerLead": "Podpora duševného zdravia na Tava sa začína posúdením klinikom. Nič tu nie je diagnóza ani odporúčanie liečby.",
-   "disclaimerMore": [
-    "Ak ste v kríze alebo premýšľate o tom, že si ublížite, volajte alebo píšte na 988 v Spojených štátoch. V prípade núdze volajte 911."
-   ],
-   "protocolEyebrow": "AKO TO FUNGUJE",
-   "protocolTitleLead": "Najprv posúdenie.",
-   "protocolTitleAccent": "Potom plán.",
-   "protocolCopy": "Starostlivá cesta, otvorene, vaším tempom.",
-   "steps": [
-    {
-     "title": "Posúdenie",
-     "lead": "s klinikom",
-     "body": "Zdieľajte svoju históriu a to, čím prechádzate, a klinik posúdi, či je podpora tu pre vás vhodná."
-    },
-    {
-     "title": "Plán",
-     "lead": "postavený okolo vás",
-     "body": "Ak je to vhodné, váš plán je postavený okolo vašich cieľov a vášho rozvrhu."
-    },
-    {
-     "title": "Podpora",
-     "lead": "počas cesty",
-     "body": "Pravidelné kontroly udržiavajú plán poctivý, keď sa veci menia."
-    }
-   ],
-   "legalLines": [
-    "Ponuky duševného zdravia na Tava sú vo vývoji a zatiaľ nie sú otvorené na registráciu."
-   ]
-  },
-  "peptides": {
-   "eyebrow": "PEPTIDOVÉ PROGRAMY",
-   "heroTitleLead": "Peptidy,",
-   "heroTitleAccent": "s poskytovateľom na vašej strane.",
-   "heroCopy": "Trinásť peptidových programov od Tava Labs, každý sa začína online konzultáciou a posúdením poskytovateľom.",
-   "heroFinePrint": "Vyžaduje sa predpis. Licencovaný poskytovateľ po konzultácii rozhodne o vhodnosti.",
-   "stamp": "PROGRAMY VEDENÉ POSKYTOVATEĽOM",
-   "primaryCta": "Začať konzultáciu",
-   "secondaryCta": "Ako to funguje",
-   "optionsEyebrow": "PROGRAMY",
-   "optionsTitleLead": "Trinásť programov.",
-   "optionsTitleAccent": "Jedna konzultácia spustí ktorýkoľvek z nich.",
-   "optionsCopy": "Každý program zahŕňa konzultáciu za $20. Väčšina zahŕňa laboratórne testy. Ceny sú mesačné ceny programov.",
-   "unitPerMonth": "/mes.",
-   "products": [
-    {
-     "subtitle": "Regenerácia",
-     "imageAlt": "Obrázok fľaštičky programu BPC-157",
-     "badges": [
-      "Regenerácia",
-      "Zdravie čriev",
-      "Laboratórne testy v cene"
-     ],
-     "description": "BPC-157 od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
-     "linkLabel": "Zobraziť program"
-    },
-    {
-     "subtitle": "Zdravie čriev",
-     "imageAlt": "Obrázok fľaštičky programu CJC-1295 + Ipamorelin",
-     "badges": [
-      "Zdravie čriev",
-      "Spánok",
-      "Regenerácia",
-      "Dlhovekosť",
-      "Laboratórne testy v cene"
-     ],
-     "description": "CJC-1295 + Ipamorelin od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
-     "linkLabel": "Zobraziť program"
-    },
-    {
-     "subtitle": "Dlhovekosť",
-     "imageAlt": "Obrázok fľaštičky programu GHK-Cu",
-     "badges": [
-      "Dlhovekosť",
-      "Laboratórne testy v cene"
-     ],
-     "description": "GHK-Cu od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
-     "linkLabel": "Zobraziť program"
-    },
-    {
-     "subtitle": "Regenerácia",
-     "imageAlt": "Obrázok fľaštičky programu GLOW Injection",
-     "badges": [
-      "Regenerácia",
-      "Laboratórne testy v cene"
-     ],
-     "description": "GLOW Injection od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
-     "linkLabel": "Zobraziť program"
-    },
-    {
-     "subtitle": "Chudnutie",
-     "imageAlt": "Obrázok fľaštičky programu MOTS-C",
-     "badges": [
-      "Chudnutie",
-      "Energia",
-      "Výkon",
-      "Laboratórne testy v cene"
-     ],
-     "description": "MOTS-C od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
-     "linkLabel": "Zobraziť program"
-    },
-    {
-     "subtitle": "Dlhovekosť",
-     "imageAlt": "Obrázok fľaštičky programu NAD+ Injectable",
-     "badges": [
-      "Dlhovekosť",
-      "Energia",
-      "Regenerácia",
-      "Sústredenie"
-     ],
-     "description": "NAD+ Injectable od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
-     "linkLabel": "Zobraziť program"
-    },
-    {
-     "subtitle": "Sexuálne zdravie",
-     "imageAlt": "Obrázok fľaštičky programu PT-141",
-     "badges": [
-      "Sexuálne zdravie",
-      "Laboratórne testy v cene"
-     ],
-     "description": "PT-141 od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
-     "linkLabel": "Zobraziť program"
-    },
-    {
-     "subtitle": "Chudnutie",
-     "imageAlt": "Obrázok fľaštičky programu Semaglutide + B12 (Cyanocobalamin)",
-     "badges": [
-      "Chudnutie",
-      "Laboratórne testy v cene"
-     ],
-     "description": "Semaglutide + B12 (Cyanocobalamin) od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
-     "linkLabel": "Zobraziť program"
-    },
-    {
-     "subtitle": "Dlhovekosť",
-     "imageAlt": "Obrázok fľaštičky programu Sermorelin",
-     "badges": [
-      "Dlhovekosť",
-      "Regenerácia",
-      "Výkon",
-      "Laboratórne testy v cene"
-     ],
-     "description": "Sermorelin od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
-     "linkLabel": "Zobraziť program"
-    },
-    {
-     "subtitle": "Výkon",
-     "imageAlt": "Obrázok fľaštičky programu TB-500",
-     "badges": [
-      "Výkon",
-      "Regenerácia",
-      "Laboratórne testy v cene"
-     ],
-     "description": "TB-500 od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
-     "linkLabel": "Zobraziť program"
-    },
-    {
-     "subtitle": "Dlhovekosť",
-     "imageAlt": "Obrázok fľaštičky programu Tesamorelin",
-     "badges": [
-      "Dlhovekosť",
-      "Regenerácia",
-      "Výkon",
-      "Laboratórne testy v cene"
-     ],
-     "description": "Tesamorelin od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
-     "linkLabel": "Zobraziť program"
-    },
-    {
-     "subtitle": "Chudnutie",
-     "imageAlt": "Obrázok fľaštičky programu Tirzepatide + B12 (Cyanocobalamin)",
-     "badges": [
-      "Chudnutie",
-      "Laboratórne testy v cene"
-     ],
-     "description": "Tirzepatide + B12 (Cyanocobalamin) od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
-     "linkLabel": "Zobraziť program"
-    },
-    {
-     "subtitle": "Regenerácia",
-     "imageAlt": "Obrázok fľaštičky programu Wolverine Injection",
-     "badges": [
-      "Regenerácia",
-      "Laboratórne testy v cene"
-     ],
-     "description": "Wolverine Injection od Tava Labs. Posúdenie poskytovateľom a následná starostlivosť sú súčasťou programu.",
-     "linkLabel": "Zobraziť program"
-    }
-   ],
-   "disclaimerLead": "Magistrálne pripravované lieky pripravujú licencované lekárne pre jednotlivých pacientov. Nie sú schválené úradom FDA a FDA neposudzuje magistrálne lieky z hľadiska bezpečnosti, účinnosti ani kvality.",
-   "disclaimerMore": [
-    "Lekársku starostlivosť poskytujú nezávislí licencovaní poskytovatelia. Poskytovatelia nezávisle rozhodujú, či je liečba pre vás vhodná; nákup nezaručuje predpis.",
-    "Licencovaný poskytovateľ posúdi vaše údaje a nezávisle rozhodne, či je liečba pre vás vhodná. Nákup nezaručuje predpis.",
-    "V prípade núdze volajte 911."
-   ],
-   "protocolEyebrow": "AKO TO FUNGUJE",
-   "protocolTitleLead": "Konzultácia, posúdenie,",
-   "protocolTitleAccent": "potom začnite.",
-   "protocolCopy": "Každý program prebieha cez nezávislých licencovaných poskytovateľov.",
-   "protocolCta": "Začať konzultáciu",
-   "steps": [
-    {
-     "title": "Konzultovať",
-     "lead": "online, podľa vášho rozvrhu",
-     "body": "Vyplňte online konzultáciu pre program, ktorý ste si vybrali. Konzultácia stojí $20."
-    },
-    {
-     "title": "Posúdenie",
-     "lead": "licencovaným poskytovateľom",
-     "body": "Poskytovateľ posúdi vaše údaje a vaše laboratórne výsledky a nezávisle rozhodne, či je liečba pre vás vhodná."
-    },
-    {
-     "title": "Začať",
-     "lead": "ak je predpísané",
-     "body": "Vaše lieky sa odosielajú z licencovanej lekárne a váš poskytovateľ vás sleduje, ako váš program pokračuje."
-    }
-   ],
-   "legalLines": [
-    "Náš obchod s peptidmi je momentálne v testovacom režime, takže programy sú zobrazené na posúdenie a zatiaľ nie sú otvorené na skutočné objednávky.",
-    "V prípade núdze volajte 911."
-   ]
-  }
- },
- "product": {
-  "breadcrumbHome": "Domov",
-  "bullets": [
-   "PDRN, acetyl hexapeptid-8 a kyselina hyalurónová na podporu hladšej a jasnejšej pleti na pohľad.",
-   "Hlboká hydratácia z glycerínu, Sodium PCA a Panthenol.",
-   "100 % bez krutosti, bez parfumácie, bez parabénov, bez sulfátov, bez minerálneho oleja, bez silikónov a vegánske."
-  ],
-  "cleanVegan": "Čisté a vegánske • Aktívne PDRN",
-  "clinical": {
-   "imgAlts": [
-    "Diagram Podporuje žiarivosť",
-    "Diagram Podporuje hlbokú hydratáciu",
-    "Diagram Zlepšuje textúru pleti"
-   ],
-   "label": "Klinické testy",
-   "note": "Hodnotenia lokálnych bioaktívnych látok na základe 8-týždňového vnímania spotrebiteľov a prístrojových testov hydratácie. Jednotlivé kožné bariéry, genetika a prostredie ovplyvňujú konkrétne časové rámce a výsledky.",
-   "titleAccent": "zdravie vašej pleti",
-   "titleLead": "Starajte sa o"
-  },
-  "dermTested": "Testované dermatológmi • Vyrobené pre všetky typy pleti",
-  "details": [
-   {
-    "body": "Ľahká, hydratačná formula pre hladšiu a žiarivejšie vyzerajúcu pleť. Rýchlo sa vstrebáva, nezanecháva zvyšky a udržiava pleť príjemnú.",
-    "title": "Spoznajte PDRN Brightening Serum"
-   },
-   {
-    "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin.",
-    "title": "Zloženie a formula"
-   },
-   {
-    "body": "Naneste 2 až 4 kvapky na čistú a suchú pleť. Jemne vmasírujte do tváre a krku, kým sa nevstrebe. Používajte dvakrát denne, ráno a večer. Potom použite hydratačný krém alebo opaľovací krém.",
-    "title": "Ako nanášať"
-   },
-   {
-    "body": "Sformulované podľa certifikovaných štandardov bez krutosti a vyrobené bez parfumácie, silikónov, parabénov, minerálneho oleja, sulfátov, ftalátov a bežných alergénov. Testované dermatológmi na všetkých typoch pleti.",
-    "title": "Garancia čistej starostlivosti o pleť"
-   }
-  ],
-  "ecosystem": {
-   "items": [
-    "Osobná diagnostika pleti a sprievodca režimom z vášho kvízu o pleti",
-    "Plán starostlivosti, ktorý začína pomaly a časom sa stupňuje",
-    "Pripomienky nanášania, ktoré ovládate vy, ráno a večer",
-    "Podpora cez správy priamo v aplikácii",
-    "Doručenie Subscribe and Save každý mesiac, kedykoľvek pozastavte alebo zrušte"
-   ],
-   "label": "Váš plán",
-   "note": "Subscribe and Save môžete kedykoľvek pozastaviť, upraviť alebo zrušiť. Jednorazové nákupy zostávajú dostupné za $49.",
-   "sub": "Spolu so sérom každý plán Tava Labs zahŕňa:",
-   "title": "Získajte kompletnú podporu rutiny"
-  },
-  "faqSection": {
-   "items": [
-    {
-     "a": "PDRN (polydeoxyribonukleotid) je vyrobený z fragmentov DNA, ktoré sú biologicky kompatibilné s ľudskými kožnými bunkami. Podporuje prirodzenú regeneráciu buniek, stimuluje mikrocirkuláciu a pomáha opravovať kožnú bariéru, pre jasnejšiu a pevnejšiu pleť na pohľad.",
-     "q": "Čo je PDRN a ako prospieva pleti?"
-    },
-    {
-     "a": "PDRN Brightening Serum používajte dvakrát denne po vyčistení a tonizácii. Naneste 2 až 4 kvapky priamo na končeky prstov alebo na vlhkú pleť a rozotrite po tvári, krku a dekolte. Potom použite hydratačný krém a ranný opaľovací krém.",
-     "q": "Ako zaradím PDRN Brightening Serum do svojej rutiny starostlivosti o pleť?"
-    },
-    {
-     "a": "Áno. Naša formula je nekomedogénna, bez oleja, bez parfumácie a obohatená o upokojujúci Panthenol. Upokojuje citlivosť a zároveň hlboko hydratuje bez upchávania pórov alebo vyvolávania podráždenia.",
-     "q": "Je toto sérum vhodné pre citlivú pleť a pleť so sklonom k akné?"
-    },
-    {
-     "a": "Áno. PDRN dobre funguje spolu s aktívnymi prípravkami, ako sú retinoidy a vitamín C. Jeho hydratačný základ pomáha upokojiť šupinatenie alebo začervenanie, ktoré chemické exfolianty môžu spôsobiť.",
-     "q": "Môžem PDRN vrstviť s retinolom, vitamínom C alebo AHA/BHA?"
-    },
-    {
-     "a": "Pri nanášaní 2 až 4 kvapiek dvakrát denne jedna 30 ml (1 fl oz) fľaštička zvyčajne vydrží 4 až 6 týždňov. Subscribe and Save odošle ďalšiu fľaštičku skôr, než sa vám minie.",
-     "q": "Ako dlho zvyčajne vydrží jedna 30 ml fľaštička?"
-    }
-   ],
-   "label": "Otázky a odpovede",
-   "title": "Najčastejšie kladené otázky",
-   "viewAll": "Zobraziť všetky časté otázky"
-  },
-  "finalCta": {
-   "line": "PDRN Brightening Serum · $49.00 / 30ml · Čisté a vegánske · Hlboká hydratácia · Kedykoľvek zrušte",
-   "title": "Jedno sérum pre jasnejšiu, hydratovanú a hladšiu pleť na pohľad."
-  },
-  "formulary": {
-   "activeIngredient": "Aktívna zložka",
-   "comingSoon": "Už čoskoro",
-   "howToUse": "Ako používať",
-   "label": "Porovnať formuly",
-   "others": [
-    {
-     "rows": [
-      [
-       "Hlavný prínos",
-       "Každodenná hydratácia"
+    "support": {
+      "eyebrow": "Podpora",
+      "title": "Sme tu, aby sme pomohli",
+      "segments": [
+        {
+          "text": "Napíšte na "
+        },
+        {
+          "text": "support@tavalabs.app",
+          "href": "mailto:support@tavalabs.app"
+        },
+        {
+          "text": " alebo zavolajte na "
+        },
+        {
+          "text": "909-906-1308",
+          "href": "tel:+19099061308"
+        },
+        {
+          "text": "."
+        }
       ],
-      [
-       "Veľkosť",
-       "1.7 fl oz (50ml)"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Hlavný prínos",
-       "Starostlivosť o oblasť očí"
-      ],
-      [
-       "Veľkosť",
-       "1 fl oz (30ml)"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Hlavný prínos",
-       "Spevnenie a hydratácia"
-      ],
-      [
-       "Veľkosť",
-       "2 oz (56g)"
-      ],
-      [
-       "Aktívna zložka",
-       "Hyaluronic Acid and CoQ10"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Hlavný prínos",
-       "Starostlivosť o pokožku hlavy a vlasy"
-      ],
-      [
-       "Veľkosť",
-       "1 fl oz (30ml)"
-      ]
-     ]
+      "links": {
+        "general": "Všeobecné otázky",
+        "productSupport": "Podpora k produktom",
+        "salesSupport": "Podpora objednávok a predaja",
+        "faqs": "Časté otázky",
+        "shipping": "Zásady doručovania",
+        "returns": "Zásady vrátenia tovaru"
+      }
     }
-   ],
-   "primaryBenefit": "Hlavný prínos",
-   "selectSerum": "Vybrať sérum",
-   "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
-   "serumAlt": "PDRN Brightening Serum",
-   "serumBenefitValue": "Jas a pevnosť",
-   "serumHowValue": "Ráno a večer",
-   "serumOneTime": "alebo $49 jednorazovo",
-   "serumPriceLine": "Subscribe and Save $39/mes.",
-   "sizeLabel": "Veľkosť",
-   "status": "Stav",
-   "sub": "Formuly pre rôzne ciele, problémy a rutiny pleti. Vyberte si tú, ktorá vyhovuje vašej pleti a vášmu programu.",
-   "title": "Ktorá starostlivosť o pleť je pre vás tá pravá?"
   },
-  "gallery": {
-   "alts": [
-    "Fľaštička PDRN Brightening Serum",
-    "Pohľad 2 na fľaštičku séra",
-    "Pohľad 3 na fľaštičku séra",
-    "Pohľad 4 na fľaštičku séra",
-    "Pohľad 5 na fľaštičku séra"
-   ],
-   "view": "Pohľad {n}"
-  },
-  "inStock": "Na sklade",
-  "innovation": {
-   "footnote": "*Bunková bioaktivita hodnotená prostredníctvom klinických hodnotení in vitro a ex vivo. Výsledky sa môžu líšiť podľa individuálneho stavu pleti.",
-   "imgAlts": [
-    "Textúra séra",
-    "Kryštál a formula",
-    "Vzorka s kryštálom"
-   ],
-   "items": [
-    {
-     "body": "Morský PDRN zvyšuje obnovu buniek, čo rozjasňuje matnú pleť a vyhladzuje viditeľnú textúru.",
-     "label": "Textúra pleti",
-     "title": "PDRN"
+  "lab": {
+    "ordersLabel": "Klinické posúdenie",
+    "ordersTitle": "Vaše laboratórne objednávky",
+    "loadingOrders": "Načítavajú sa vaše objednávky…",
+    "ordersEmpty": "Zatiaľ tu nič nie je. Keď dokončíte panel, každý marker tu pristane so svojou hodnotou, svojím zdravým rozsahom a tým, ako sa v čase hýbe. Objednajte si svoj prvý panel nižšie a tento priestor sa zaplní.",
+    "viewResults": "Zobraziť výsledky",
+    "howLabel": "Ako fungujú laboratórne testy",
+    "howTitle": "Štyri kroky, jeden odber",
+    "steps": [
+      {
+        "title": "Vybrať panel",
+        "body": "Vyberte panel, ktorý zodpovedá tomu, čo chcete vedieť. Každý marker v ňom je uvedený skôr, než objednáte."
+      },
+      {
+        "title": "Posúdenie lekárom",
+        "body": "Licencovaný lekár posúdi a schváli každú objednávku, takže nie je potrebná samostatná návšteva lekára."
+      },
+      {
+        "title": "Prísť na odber",
+        "body": "Jeden rýchly odber krvi na odbernom mieste vo vašej blízkosti. Väčšina návštev trvá asi pätnásť minút."
+      },
+      {
+        "title": "Výsledky pristanú tu",
+        "body": "Výsledky sa doručia digitálne na túto kartu v priebehu dní, s každým markerom a jeho rozsahom."
+      }
+    ],
+    "panelsLabel": "Panely",
+    "panelsTitle": "Štrnásť panelov, postavených okolo toho, čo sledujete",
+    "panelsSub": "Každý panel ukazuje svoju cenu. Objednávanie sa otvorí, keď sa zapne pokladňa, a licencovaný lekár posúdi každú objednávku skôr, než sa vaše výsledky doručia priamo sem. Panely nie je možné objednať na adresy v štátoch New York, New Jersey alebo Rhode Island.",
+    "markersSuffix": "{n} markerov",
+    "resultsInDays": "Výsledky v priebehu dní",
+    "hideMarkers": "Skryť markery",
+    "seeMarkers": "Pozrieť markery",
+    "markersAria": "Markery v paneli {name}",
+    "disclaimer": "Laboratórne poznatky sú informácie o vašom vlastnom zdraví a nie sú diagnózou. O akomkoľvek výsledku, ktorý vás znepokojuje, sa porozprávajte so svojím lekárom a v prípade núdze volajte 911.",
+    "panelsById": {
+      "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
+        "name": "Panel športového výkonu",
+        "description": "Pripravenosť na tréning a regenerácia: krvný obraz, metabolický panel, zásoby železa, vitamín D, testosterón, zápal a svalové enzýmy.",
+        "collection": "Odber krvi bez objednania"
+      },
+      "38c76039-05dc-4cd3-8475-7a675989fbf2": {
+        "name": "Základný panel zdravia",
+        "description": "Východiskový bod pre celé telo: krvný obraz, metabolické zdravie, cholesterol, krvný cukor, vitamín D a štítna žľaza.",
+        "collection": "Odber krvi bez objednania"
+      },
+      "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
+        "name": "Panel energie a únavy",
+        "description": "Obvyklí podozriví za nízkou energiou: zásoby a transport železa, B12, folát, vitamín D, štítna žľaza a krvný obraz.",
+        "collection": "Odber krvi bez objednania"
+      },
+      "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
+        "name": "Základný panel pre ženy",
+        "description": "Cielený panel 14 markerov, v úplnom zozname nižšie.",
+        "collection": "Odber krvi bez objednania"
+      },
+      "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
+        "name": "Panel GLP1",
+        "description": "Cielený panel 10 markerov, v úplnom zozname nižšie.",
+        "collection": "Odber krvi bez objednania"
+      },
+      "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
+        "name": "Panel zdravia srdca",
+        "description": "Kardiovaskulárne riziko nad rámec základného cholesterolu: lipidy, ApoB, Lp(a), hs-CRP a homocysteín.",
+        "collection": "Odber krvi bez objednania"
+      },
+      "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
+        "name": "Panel dlhovekosti",
+        "description": "Komplexný každoročný hlboký pohľad naprieč markermi metabolického, kardiovaskulárneho, zápalového a hormonálneho zdravia.",
+        "collection": "Odber krvi bez objednania"
+      },
+      "b909fb21-b264-483c-a915-4ce87713cfa9": {
+        "name": "Základný test pre mužov",
+        "description": "Cielený panel 12 markerov, v úplnom zozname nižšie.",
+        "collection": "Odber krvi bez objednania"
+      },
+      "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
+        "name": "Panel TRT pre mužov",
+        "description": "Cielený panel 16 markerov, v úplnom zozname nižšie.",
+        "collection": "Odber krvi bez objednania"
+      },
+      "abfabb68-c777-4457-87c2-46bf5fe26d81": {
+        "name": "Panel mužských hormónov",
+        "description": "Stav mužských hormónov: celkový testosterón, SHBG, estradiol, LH a FSH.",
+        "collection": "Odber krvi bez objednania"
+      },
+      "f12fe316-367a-4c53-9735-8c0129c45506": {
+        "name": "Panel metabolického zdravia",
+        "description": "Kontrola krvného cukru a metabolické riziko: A1c, inzulín nalačno, cholesterol a úplný metabolický panel.",
+        "collection": "Odber krvi bez objednania"
+      },
+      "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
+        "name": "Panel stresu a regenerácie",
+        "description": "Záťaž stresom a schopnosť regenerácie: kortizol, DHEA-S, štítna žľaza a zápal.",
+        "collection": "Odber krvi bez objednania"
+      },
+      "1760616d-44d3-4654-817d-440a969e5cdf": {
+        "name": "Kompletný panel štítnej žľazy",
+        "description": "Kompletné vyšetrenie štítnej žľazy: TSH, voľný T4, voľný T3 a protilátky TPO.",
+        "collection": "Odber krvi bez objednania"
+      },
+      "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
+        "name": "Panel ženských hormónov",
+        "description": "Stav ženských hormónov: estradiol, progesterón, FSH, LH, DHEA-S a testosterón.",
+        "collection": "Odber krvi bez objednania"
+      }
     },
-    {
-     "body": "Tento peptid podporuje pružnosť kolagénu, pre pevnejšiu pleť na pohľad.",
-     "label": "Pevnosť",
-     "title": "Acetyl Hexapeptide-8"
-    },
-    {
-     "body": "Kyselina hyalurónová, Sodium PCA a Panthenol spoločne udržiavajú vlhkosť v kožnej bariére viac než 24 hodín.",
-     "label": "Hlboká hydratácia",
-     "title": "Kyselina hyalurónová a pantenol"
+    "detail": {
+      "backToAccount": "Späť do vášho účtu",
+      "notFoundTitle": "Táto laboratórna objednávka sa nenašla",
+      "notFoundBody": "Možno patrí inému emailu. Prihláste sa emailom, pod ktorým ste objednali, a skúste to znova.",
+      "clinicalReview": "KLINICKÉ POSÚDENIE",
+      "loadingResults": "Načítavajú sa vaše výsledky…",
+      "yourPanel": "Váš panel",
+      "markerFallback": "Marker",
+      "headlines": {
+        "loading": "Načítavajú sa vaše výsledky",
+        "pending": "Vaše výsledky sú na ceste",
+        "allIn": "Všetky vaše výsledky sú tu.",
+        "in": "Vaše výsledky sú tu."
+      },
+      "sublines": {
+        "loading": "Chvíľku, kým sa načíta laboratórna správa.",
+        "pending": "Hneď ako laboratórium nahlási výsledky, táto stránka sa zaplní každým markerom, jeho hodnotou a jeho zdravým rozsahom.",
+        "allIn": "Každý marker je v rozsahu. Tu je úplný obraz.",
+        "oneAttention": "Jeden marker si vyžaduje bližší pohľad. Poďme sa do toho ponoriť.",
+        "manyAttention": "{n} markerov si vyžaduje bližší pohľad. Poďme sa do toho ponoriť."
+      },
+      "orderedPrefix": "Objednané",
+      "statusPrefix": "Stav:",
+      "notInYetTitle": "Výsledky zatiaľ nie sú tu",
+      "notInYetBody": "Väčšina panelov nahlási výsledky v priebehu dní od vášho odberu. Keď ten váš pristane, táto stránka ukáže úplný pohľad na rovnováhu s každým markerom a jeho rozsahom.",
+      "markerBalance": "Rovnováha vašich markerov",
+      "biomarkers": "BIOMARKERY",
+      "analyzedSuffix": "{pct} % analyzovaných",
+      "statusNames": {
+        "optimal": "Optimálne",
+        "inRange": "V rozsahu",
+        "attention": "Vyžaduje pozornosť"
+      },
+      "statusLabels": {
+        "optimal": "OPTIMÁLNE",
+        "inRange": "V ROZSAHU",
+        "attention": "OZNAČENÉ"
+      },
+      "basePrefix": "Základ: {name}",
+      "updatedPrefix": "Aktualizované {date}",
+      "updatedRecently": "Nedávno aktualizované",
+      "triageTitle": "Triedenie podľa stavu",
+      "tapToFilter": "Ťuknite na filtrovanie",
+      "triageSubs": {
+        "optimal": "Presne tam, kde ich chcete mať",
+        "inRange": "Vnútri zdravého rozsahu",
+        "attention": "Stojí za rozhovor s vaším lekárom"
+      },
+      "allFilter": "Všetky ({n})",
+      "rangePrefix": "Rozsah {range}",
+      "disclaimer": "Laboratórne výsledky sú informácie o vašom vlastnom zdraví a nie sú diagnózou. O akomkoľvek výsledku, ktorý vás znepokojuje, sa porozprávajte so svojím lekárom a v prípade núdze volajte 911."
     }
-   ],
-   "label": "Kľúčové zložky",
-   "sub": "Tri zložky nižšie robia v tomto sére väčšinu práce.",
-   "titleAccent": "zložky robia",
-   "titleLead": "Čo hlavné"
   },
-  "pricePerUnit": "/ 30ml (1 fl oz)",
-  "protocol": {
-   "label": "Ako ho používať",
-   "progressionBody": "Jasnejšia a viac hydratovaná pleť za 7 až 14 dní; lepšia pružnosť pleti a pevnosť bariéry do 4. až 6. týždňa.",
-   "progressionLabel": "Klinický pokrok",
-   "progressionTitle": "Časová os viditeľných výsledkov",
-   "steps": [
-    {
-     "body": "Vyčistite jemným umývacím prípravkom s vyváženým pH, aby ste odstránili nečistoty a pripravili pleť bez toho, aby ste ju zbavili prirodzených lipidov.",
-     "title": "Vyčistiť jemným umývaním"
-    },
-    {
-     "body": "Naneste 2 až 4 kvapky séra PDRN na vlhkú pleť. Jemne vtlačte a poklepte po tvári a krku, kým sa dôkladne nevstrebe.",
-     "title": "Sérum PDRN, 2 až 4 kvapky"
-    },
-    {
-     "body": "Naneste hydratačný krém na uzamknutie peptidov a podporu kožnej bariéry.",
-     "title": "Hydratovať a zvlhčiť"
-    },
-    {
-     "body": "Rannú rutinu zakončite širokospektrálnym SPF 30+ na ochranu pleti pred UV žiarením a poškodením voľnými radikálmi.",
-     "title": "Chrániť (iba ráno), SPF 30+"
-    },
-    {
-     "body": "Váš kvíz o pleti vytvorí váš plán vrátane toho, ako začať pomaly a kedy dávku zvýšiť.",
-     "title": "Váš osobný plán, v cene"
-    }
-   ],
-   "sub": "Dôslednosť je dôležitá. Postupujte podľa týchto krokov ráno a večer a na záver naneste hydratačný krém na udržanie vlhkosti.",
-   "timelineAlt": "Príklad časovej osi výsledkov, 1. až 4. týždeň a ďalej",
-   "titleAccent": "dvakrát denne",
-   "titleLead": "Jedna jednoduchá rutina,"
+  "login": {
+    "brandCopy": "Váš plán, vaše objednávky a vaša rutina. Jeden email prepája aplikáciu a web.",
+    "brandHeadAccent": "späť.",
+    "brandHeadLead": "Vitajte",
+    "claimBody1": "Keď ste nakúpili cez kvíz alebo túto stránku, email s potvrdením nákupu (a stránka hneď po pokladni) vám ukázal kód na uplatnenie. Otvorte mobilnú aplikáciu Tava, prihláste sa a zadajte tento kód na karte Objednávky. Váš nákup, plán a odpovede z kvízu sa presunú do vášho účtu v aplikácii, bez druhého nákupu.",
+    "claimBody2": "Na webe je to ešte jednoduchšie. Prihláste sa vyššie rovnakým emailom, aký ste použili pri pokladni, a vaše objednávky a plán sú už tu.",
+    "claimLabel": "Kúpili ste na webe a používate aplikáciu?",
+    "claimTitle": "Použite svoj kód na uplatnenie v aplikácii",
+    "differentEmail": "Použiť iný email",
+    "emailLabel": "Emailová adresa",
+    "faqButton": "Máte otázky? Pozrite si časté otázky",
+    "footNote": "Ste tu prvýkrát? Rovnaký odkaz vytvorí váš účet. Použite email z vašej objednávky a všetko na vás už čaká.",
+    "intro": "Prihláste sa emailom, ktorý ste použili pri pokladni alebo v mobilnej aplikácii Tava. Váš plán, objednávky a rutina sú viazané na tento email, takže všetko tu zodpovedá aplikácii. Nie je potrebné žiadne heslo. Pošleme vám emailom odkaz na prihlásenie a ťuknutím naň sa dostanete do svojho účtu.",
+    "invalidEmail": "Zadajte platnú emailovú adresu.",
+    "label": "Váš účet Tava",
+    "resend": "Znova odoslať email",
+    "sendButton": "Poslať mi emailom odkaz na prihlásenie",
+    "sendFailed": "Tento email sa nám nepodarilo odoslať. Skontrolujte adresu a skúste to znova.",
+    "sending": "Odosiela sa…",
+    "sentBody": "Otvorte tento email na tomto zariadení a ťuknite na odkaz vo vnútri. Dostanete sa do svojho účtu, už prihlásení. Odkaz funguje raz a jeho platnosť vyprší, takže ho použite čoskoro.",
+    "sentNotice": "Odkaz na prihlásenie bol odoslaný na {email}. Môže trvať minútu, kým dorazí. Ak ho nevidíte, skontrolujte priečinok so spamom.",
+    "title": "Prihlásiť sa"
   },
-  "subPrice": "alebo $39 mesačne pri Subscribe and Save",
-  "titleAccent": "Serum",
-  "titleLead": "PDRN Brightening",
-  "viewFormulation": "Zobraziť úplnú formulu a klinické testy"
- },
- "about": {
-  "bullets": [
-   "PDRN pre jasnejšiu a rovnomernejšie vyzerajúcu pleť.",
-   "Acetyl Hexapeptide-8 na podporu vzhľadu pevnosti.",
-   "Sodium Hyaluronate a Panthenol pre hydratáciu.",
-   "Používajte dvakrát denne: 2 až 4 dávky na čistú a suchú pleť, ráno a večer."
-  ],
-  "contactUs": "Kontaktujte nás",
-  "label": "O nás",
-  "onlineSegments": [
-   {
-    "text": "Tava Labs je značka dostupná iba online. Máte otázky? Napíšte na "
-   },
-   {
-    "href": "mailto:support@tavalabs.app",
-    "text": "support@tavalabs.app"
-   },
-   {
-    "text": "."
-   }
-  ],
-  "onlineTitle": "Iba online",
-  "p1": "Tava Labs je značka starostlivosti o pleť pre ľudí, ktorí budujú firmy. Váš vzhľad je súčasťou vašej profesionálnej prítomnosti. Ľudia vás vidia pred kamerou, na prezentáciách a v práci každý deň.",
-  "p2": "Vyrábame jednu vec a vyrábame ju dobre. Denné sérum, ktoré udržuje vašu pleť hydratovanú a oddýchnutú na pohľad, bez zložitej rutiny.",
-  "p3": "Tava Labs bola založená pre zakladateľov a majiteľov firiem. Jeden krok, ráno a večer, pred stretnutiami, prezentáciami a prácou pred kamerou.",
-  "p4": "Starostlivosť o pleť ako základná údržba. Rovnaká dôslednosť, akú prinášate do svojho podnikania, použitá vo vašej vlastnej rutine.",
-  "philosophyCaption": "Filozofia Tava Labs",
-  "philosophyLabel": "Naša filozofia",
-  "philosophyP1": "Veríme v starostlivosť o seba tak, ako sa staráte o svoju prácu, malými krokmi robenými dôsledne každý deň.",
-  "philosophyP2": "Nesľubujeme premenu. Vyrábame dobre zložené denné sérum a presne vám povieme, čo v ňom je.",
-  "priceLine": "$49 jednorazovo, alebo $39 mesačne so Subscribe & Save.",
-  "quote": "„Jedno sérum, dve minúty, ráno a večer. To je celá rutina.“",
-  "serumAlt": "PDRN Brightening Serum",
-  "serumBody": "Každodenná rutina pre pleť postavená okolo PDRN (Polydeoxyribonucleotide) a Acetyl Hexapeptide-8, so Sodium Hyaluronate a Panthenol pre hydratáciu a pohodlie. Čisté a bez parfumácie, vyrobené bez čohokoľvek z nášho zoznamu vynechaných látok.",
-  "serumLabel": "Sérum",
-  "serumTitle": "PDRN Brightening Serum",
-  "tagline": "Budujte svoju firmu. Nezanedbávajte seba.",
-  "titleAccent": "pre zakladateľov.",
-  "titleLead": "Denné sérum na tvár"
- },
- "contact": {
-  "emailLabel": "Email:",
-  "label": "Kontaktujte nás",
-  "phoneLabel": "Telefón:",
-  "sub": "Napíšte nám email a ozveme sa vám späť. Vyberte si tému, ktorá sedí, alebo nám napíšte priamo.",
-  "title": "Radi sa od vás dozvieme.",
-  "topics": {
-   "general": {
-    "body": "Všeobecné otázky o Tava Labs a sére.",
-    "title": "Všeobecné"
-   },
-   "partnerships": {
-    "body": "Partnerstvá s akcelerátormi, univerzitami, investormi a komunitami.",
-    "title": "Partnerstvá"
-   },
-   "pr": {
-    "body": "Otázky z tlače a médií.",
-    "title": "PR"
-   },
-   "product-support": {
-    "body": "Pomoc s používaním séra, rutinami a vaším osobným plánom.",
-    "title": "Podpora k produktom"
-   },
-   "sales-support": {
-    "body": "Otázky o objednávaní, Subscribe & Save a pokladni.",
-    "title": "Podpora predaja"
-   },
-   "wholesale": {
-    "body": "Veľkoobchodné a maloobchodné otázky o PDRN Brightening Serum.",
-    "title": "Veľkoobchod"
-   }
+  "checkout": {
+    "addressLine2": "Adresa, riadok 2 (nepovinné)",
+    "city": "Mesto",
+    "closeAria": "Zavrieť pokladňu",
+    "continueBtn": "Pokračovať k platbe",
+    "country": "Krajina",
+    "creating": "Vytvára sa vaša pokladňa…",
+    "email": "Email",
+    "firstName": "Meno",
+    "lastName": "Priezvisko",
+    "missingIntro": "Už skoro. Pridajte svoje {fields}.",
+    "missingNames": {
+      "address1": "adresu ulice",
+      "city": "mesto",
+      "email": "platný email",
+      "firstName": "meno",
+      "lastName": "priezvisko",
+      "state": "štát",
+      "zip": "PSČ"
+    },
+    "phoneOptional": "Telefón (nepovinné)",
+    "planOneTime": "PDRN Brightening Serum · $49 · Jednorazový nákup",
+    "planSubscribe": "PDRN Brightening Serum · $39 mesačne · Subscribe & Save 20%",
+    "startError": "Pokladňu sa nepodarilo spustiť. Skontrolujte svoje údaje a skúste to znova. Nič nebolo účtované.",
+    "state": "Štát",
+    "streetAddress": "Adresa ulice",
+    "stripeNote": "Bezpečná pokladňa cez Stripe. Platbu potvrdíte na stránke Stripe. Zatiaľ nie je nič účtované.",
+    "taking": "Prechádzate do bezpečnej pokladne…",
+    "title": "Pokladňa",
+    "zip": "PSČ"
+  },
+  "legal": {
+    "governsNote": "Táto stránka je prekladom anglického originálu. Ak sa znenie niekedy líši, rozhodujúca je anglická verzia."
   }
- },
- "faq": {
-  "items": [
-   {
-    "a": [
-     {
-      "text": "Denné sérum postavené okolo PDRN (polydeoxyribonukleotid) a acetyl hexapeptidu-8, so sodium hyaluronátom a pantenolom. Nanášajte ho ráno a večer na podporu jasnejšej a rovnomernejšej pleti na pohľad."
-     }
-    ],
-    "q": "Čo je PDRN Brightening Serum?"
-   },
-   {
-    "a": [
-     {
-      "text": "Naneste 2 až 4 kvapky na čistú a suchú pleť, ráno a večer. Potom použite hydratačný krém. Ak s aktívnou starostlivosťou o pleť začínate, začnite raz denne počas prvého týždňa a potom prejdite na dvakrát denne."
-     }
-    ],
-    "q": "Ako ho mám používať?"
-   },
-   {
-    "a": [
-     {
-      "text": "Vyplňte "
-     },
-     {
-      "href": "/quiz",
-      "text": "Kvíz o pleti"
-     },
-     {
-      "text": ". Vaše odpovede vytvoria osobný plán vrátane toho, ako začať pomaly a kedy dávku zvýšiť."
-     }
-    ],
-    "q": "Ako získam svoj osobný plán?"
-   },
-   {
-    "a": [
-     {
-      "text": "$49 jednorazovo, alebo $39 mesačne so Subscribe & Save (zľava 20 %). Subscribe & Save môžete kedykoľvek pozastaviť, preskočiť alebo zrušiť."
-     }
-    ],
-    "q": "Koľko to stojí?"
-   },
-   {
-    "a": [
-     {
-      "text": "Objednávky vybavuje náš partner a odosiela ich na adresu, ktorú uvediete pri pokladni. Podrobnosti nájdete v "
-     },
-     {
-      "href": "/shipping",
-      "text": "Zásadách doručovania"
-     },
-     {
-      "text": "."
-     }
-    ],
-    "q": "Ako funguje doručenie?"
-   },
-   {
-    "a": [
-     {
-      "text": "Každý predaj je konečný. Pred objednaním si prosím prečítajte "
-     },
-     {
-      "href": "/returns",
-      "text": "Zásady vrátenia tovaru"
-     },
-     {
-      "text": "."
-     }
-    ],
-    "q": "Aké sú vaše zásady vrátenia tovaru?"
-   },
-   {
-    "a": [
-     {
-      "text": "Úplný zoznam zložiek je na "
-     },
-     {
-      "href": "/ingredients",
-      "text": "stránke Zloženie"
-     },
-     {
-      "text": ". Sérum je bez parfumácie a vyrobené bez parabénov, sulfátov, silikónov, minerálneho oleja, ftalátov a bežných alergénov."
-     }
-    ],
-    "q": "Aké zložky obsahuje?"
-   },
-   {
-    "a": [
-     {
-      "text": "Sérum je sformulované tak, aby vyhovovalo všetkým typom pleti. Ak máte kožné ochorenie alebo obavy, poraďte sa so svojím dermatológom skôr, než začnete s akoukoľvek novou starostlivosťou o pleť."
-     }
-    ],
-    "q": "Je vhodné pre môj typ pleti?"
-   },
-   {
-    "a": [
-     {
-      "text": "Napíšte na support@tavalabs.app alebo použite stránku "
-     },
-     {
-      "href": "/contact",
-      "text": "Kontaktujte nás"
-     },
-     {
-      "text": "."
-     }
-    ],
-    "q": "Ako vás môžem kontaktovať?"
-   }
-  ],
-  "label": "Časté otázky",
-  "sub": "Odpovede o sére, objednávaní, doručení a vašom osobnom pláne.",
-  "titleAccent": "otázky",
-  "titleLead": "Najčastejšie kladené"
- },
- "ingredients": {
-  "fullTitle": "Úplné zloženie",
-  "howBody": "Naneste 2 až 4 dávky na čistú a suchú pleť, ráno a večer. Potom použite hydratačný krém. Ak s aktívnou starostlivosťou o pleť začínate, začnite raz denne.",
-  "howTitle": "Ako používať",
-  "intro": "Tu je každá zložka v PDRN Brightening Serum, čo každá z nich robí, a úplný zoznam presne tak, ako je uvedený na etikete.",
-  "keyItems": [
-   {
-    "body": "Naša hlavná účinná zložka. Podporuje jasnejšiu a rovnomernejšiu pleť na pohľad.",
-    "name": "PDRN (Polydeoxyribonucleotide)"
-   },
-   {
-    "body": "Peptid, ktorý podporuje vzhľad pevnosti a hladkosti.",
-    "name": "Acetyl Hexapeptide-8"
-   },
-   {
-    "body": "Priťahuje vlhkosť pre hydratovanú a príjemnú pleť.",
-    "name": "Sodium Hyaluronate (Hyaluronic Acid)"
-   },
-   {
-    "body": "Upokojuje a podporuje kožnú bariéru.",
-    "name": "Panthenol"
-   },
-   {
-    "body": "Zvlhčujúce látky, ktoré pomáhajú pleti udržať vodu počas celého dňa.",
-    "name": "Glycerin + Sodium PCA"
-   }
-  ],
-  "keyTitle": "Kľúčové zložky",
-  "label": "Zloženie",
-  "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Vyrobené v USA · Vhodné pre všetky typy pleti.",
-  "titleAccent": "čo vynechávame.",
-  "titleLead": "Čo je vo vnútri a",
-  "warningBody": "Len na vonkajšie použitie. Vyhnite sa priamemu kontaktu s očami. Ak sa objaví podráždenie, prestaňte produkt používať. Uchovávajte mimo dosahu detí.",
-  "warningTitle": "Upozornenie"
- },
- "partners": {
-  "audiences": [
-   {
-    "alt": "Zakladatelia startupov na stretnutí akcelerátora",
-    "body": "Vaši zakladatelia prezentujú, predvádzajú a natáčajú obsah od prvého dňa. Dajte im mesiac dennej starostlivosti o pleť, ktorá počas programu zaberie dve minúty denne.",
-    "how": "Ako to funguje: každému zakladateľovi vo vašej kohorte odošleme jednu fľaštičku zadarmo, s osobným plánom z kvízu o pleti. Vy nás raz predstavíte; o všetko ostatné sa postaráme my.",
-    "title": "Pre akcelerátory"
-   },
-   {
-    "alt": "Študenti univerzity na kampuse",
-    "body": "Študenti podnikania budujú verejne: súťaže prezentácií, demo dni, prednášky zakladateľov a prvé stretnutia s investormi. Mesiac Tava Labs zadarmo je praktický a zapamätateľný darček pre študentov vo vašom programe.",
-    "how": "Ako to funguje: poskytneme fľaštičky pre vašu kohortu, triedu alebo podujatie, plus jednoduchý leták. Bez nákladov pre univerzitu a bez nákladov pre študentov.",
-    "title": "Pre univerzity"
-   },
-   {
-    "alt": "Stretnutie investora so zakladateľom",
-    "body": "Mesiac Tava Labs zadarmo je praktický darček pre zakladateľov vo vašom portfóliu. My zabezpečíme doručenie a ich osobné plány.",
-    "how": "Ako to funguje: povedzte nám, koľkých zakladateľov by ste chceli obdarovať, a my zariadime doručenie a ich osobné plány. Bez nákladov pre vás a bez nákladov pre nich.",
-    "title": "Pre anjelských investorov"
-   }
-  ],
-  "becomePartner": "Stať sa partnerom",
-  "closingSegments": [
-   {
-    "text": "Napíšte na "
-   },
-   {
-    "href": "mailto:talia@tavalabs.app",
-    "text": "talia@tavalabs.app"
-   },
-   {
-    "text": " alebo zavolajte na "
-   },
-   {
-    "href": "tel:+19099061308",
-    "text": "909-906-1308"
-   },
-   {
-    "text": " a my to zariadime."
-   }
-  ],
-  "closingTitleAccent": "mesiac zadarmo.",
-  "closingTitleLead": "Dajte svojim zakladateľom",
-  "formulationSub": "Sérum je vyrobené bez zložiek, na ktoré sa vaši členovia pýtajú najčastejšie:",
-  "formulationTitle": "Vyrobené bez týchto zložiek.",
-  "intro": "Tava Labs spolupracuje s akcelerátormi, univerzitami, anjelskými investormi a komunitami zakladateľov. Vaši členovia dostanú prvý mesiac PDRN Brightening Serum zadarmo.",
-  "label": "Staňte sa partnerom Tava Labs",
-  "partnershipsContact": "Kontakt pre partnerstvá",
-  "steps": [
-   {
-    "body": "Povedzte nám o svojom programe a o tom, koľkých ľudí by ste chceli obdarovať.",
-    "title": "Ozvite sa"
-   },
-   {
-    "body": "Odošleme sérum a nastavíme osobný plán každého človeka z kvízu o pleti.",
-    "title": "Zariadime darček"
-   },
-   {
-    "body": "Vaši členovia dostanú mesiac séra zadarmo, s poďakovaním od nás v každej krabici.",
-    "title": "Vy darujete darček"
-   }
-  ],
-  "stepsTitle": "Ako partnerstvo funguje",
-  "tagline": "Mesiac zadarmo od nás, bez nákladov a bez záväzkov.",
-  "titleAccent": "Tava Labs.",
-  "titleLead": "Darujte svojim zakladateľom mesiac zadarmo od",
-  "why": [
-   {
-    "body": "Vaši členovia získajú skutočný produkt a osobný plán, nie zľavový kód, na ktorý zabudnú.",
-    "title": "Viac hodnoty od prvého dňa"
-   },
-   {
-    "body": "Prvý mesiac je na nás, pre každého človeka, ktorého obdarujete.",
-    "title": "Nulové náklady pre vás"
-   },
-   {
-    "body": "Staráme sa o doručenie, uvedenie a podporu. Vy urobíte jedno predstavenie.",
-    "title": "Nulová námaha pre vás"
-   },
-   {
-    "body": "Jeden krok, ráno a večer. Sedí k rozvrhu zakladateľa, pretože pre taký rozvrh bolo navrhnuté.",
-    "title": "Darček, ktorý skutočne využijú"
-   }
-  ],
-  "whyTitleAccent": "Skutočná hodnota.",
-  "whyTitleLead": "Nulové náklady. Nulová námaha."
- },
- "blog": {
-  "label": "The Tava Journal",
-  "readStory": "Prečítať príbeh",
-  "sub": "Články o vede o spánku, výskume stresu a zdraví pleti pre zakladateľov a majiteľov firiem.",
-  "titleAccent": "pre zakladateľov",
-  "titleLead": "Výskum spánku a stresu"
- },
- "research": {
-  "pill": "Research Series 001 · Výsledky účastníkov",
-  "h1Lead": "16-týždňový pohľad na namerané",
-  "h1Accent": "zmeny pleti.",
-  "heroSub": "Prospektívny, otvorený program účastníkov, ktorý spája osobnú rutinu starostlivosti o pleť, doplnky a poradenstvo o životnom štýle. Každé číslo na tejto stránke pochádza zo správy, namerané na začiatku a v 16. týždni.",
-  "chips": [
-   "Prospektívny a otvorený",
-   "Jedno rameno",
-   "Pod lekárskym dohľadom",
-   "Osobné pracovisko klinického výskumu"
-  ],
-  "headlineLabel": "Hlavný výsledok",
-  "headlineTitle": "Celkový počet lézií akné klesol z 16.8 na 6.2",
-  "slopeAria": "Graf sklonu zobrazujúci celkový počet lézií akné z 16.8 na začiatku na 6.2 v 16. týždni",
-  "slopeBaseline": "Začiatok 16.8",
-  "slopeWeek": "16. týždeň · 6.2",
-  "slopeNote": "Priama čiara iba medzi dvoma nameranými bodmi. Správa nezverejnila hodnoty výsledkov za 4., 8. ani 12. týždeň.",
-  "badges": [
-   {
-    "big": "o 60 percent vyššie",
-    "small": "Hydratácia pleti, 29.4 AU až 47.1 AU"
-   },
-   {
-    "big": "o 52 percent nižšie",
-    "small": "Klinické skóre textúry, 2.7 zo 4 na 1.3 zo 4"
-   }
-  ],
-  "statsLabels": [
-   "Týždne v programe",
-   "Zapísaní dospelí",
-   "Ľudia dokončili všetky návštevy",
-   "Miera dokončenia"
-  ],
-  "percentWord": "percent",
-  "resultsBg": "Výsledky",
-  "resultsLabel": "Priemerná zmena · Začiatok až 16. týždeň",
-  "resultsTitle": "Čo sa zmenilo, v jasných číslach.",
-  "resultsSub": "Výsledky za 84 účastníkov, ktorí dokončili všetky návštevy. Každá karta porovnáva dva časové body, ktoré štúdia skutočne merala.",
-  "baseline": "Začiatok",
-  "week16": "16. týždeň",
-  "slopeFoot": "Začiatok až 16. týždeň",
-  "results": [
-   {
-    "title": "Celkový počet lézií akné",
-    "change": "o 63 percent nižšie",
-    "note": "Lézie počítané dermatológom"
-   },
-   {
-    "title": "Hydratácia pleti",
-    "change": "o 60 percent vyššie",
-    "note": "Meranie korneometrom v AU"
-   },
-   {
-    "title": "Index erytému a začervenania",
-    "change": "o 30 percent nižšie",
-    "note": "Index chromametra"
-   },
-   {
-    "title": "Index melanínu a pigmentácie",
-    "change": "o 25 percent nižšie",
-    "note": "Index chromametra"
-   },
-   {
-    "title": "Klinické skóre textúry",
-    "change": "o 52 percent nižšie",
-    "note": "Hodnotené na stupnici 0 až 4"
-   }
-  ],
-  "peopleBg": "Ľudia",
-  "participantsLabel": "Kto sa zúčastnil",
-  "participantsTitle": "Kto sa programu zúčastnil.",
-  "participantsSub": "Päť návštev počas programu, od začiatku až po 16. týždeň.",
-  "ageLabel": "Priemerný vek",
-  "ageSuffix": "Rokov · Rozsah 20 až 48",
-  "visitTimeline": "Časová os návštev",
-  "visits": [
-   {
-    "name": "Začiatok",
-    "desc": "Skríning, merania a fotografovanie"
-   },
-   {
-    "name": "4. týždeň",
-    "desc": "Kontrolné hodnotenie"
-   },
-   {
-    "name": "8. týždeň",
-    "desc": "Kontrolné hodnotenie"
-   },
-   {
-    "name": "12. týždeň",
-    "desc": "Kontrolné hodnotenie"
-   },
-   {
-    "name": "16. týždeň",
-    "desc": "Záverečné merania a fotografovanie"
-   }
-  ],
-  "genderTitle": "Rozdelenie podľa pohlavia",
-  "genderAria": "Prstencový graf rozdelenia podľa pohlavia, 74 percent ženy, 24 percent muži, 2 percentá nebinárni",
-  "gender": [
-   {
-    "label": "Ženy",
-    "pct": "74 percent"
-   },
-   {
-    "label": "Muži",
-    "pct": "24 percent"
-   },
-   {
-    "label": "Nebinárni",
-    "pct": "2 percentá"
-   }
-  ],
-  "donutNote": "Prstencový graf sa animuje na nahlásené rozdelenie, keď sa posunie do pohľadu.",
-  "concernsTitle": "Obavy o pleť na začiatku",
-  "concerns": [
-   "Pozápalová hyperpigmentácia",
-   "Nerovnomerná textúra a drsnosť",
-   "Zápalové akné",
-   "Začervenanie a citlivosť tváre",
-   "Tmavé kruhy pod očami",
-   "Suchosť a narušená bariéra",
-   "Jemné vrásky a skoré fotostarnutie"
-  ],
-  "concernsNote": "Účastníci mohli nahlásiť viac než jednu obavu, takže tieto podiely sa nesčítavajú do 100 percent.",
-  "programBg": "Program",
-  "programLabel": "Program a protokol",
-  "programTitle": "16-týždňový program, krok za krokom.",
-  "programSub": "Účastníci absolvovali osobný skríning, výdaj produktov, školenie o nanášaní a kontrolné hodnotenia na pracovisku klinického výskumu.",
-  "morningTag": "Ranná rutina",
-  "morningTitle": "Začať deň",
-  "amSteps": [
-   "Jemný čistiaci prípravok",
-   "Sérum s vitamínom C, 15 percent",
-   "Ceramidový hydratačný krém",
-   "Minerálny opaľovací krém, SPF 50"
-  ],
-  "eveningTag": "Večerná rutina",
-  "eveningTitle": "Ukončiť deň",
-  "pmSteps": [
-   "Jemný čistiaci prípravok",
-   "Sérum s Niacinamide 5 percent plus zinok",
-   "Peptidový bariérový krém",
-   "Retinol 0.3 percent, zavedený v 2. týždni a titrovaný pod vedením klinika"
-  ],
-  "routineNote": "Retinol sa používal 3 až 5 nocí týždenne po počiatočnom dvojtýždňovom období navykania. Podľa potreby sa na aktívne lézie používala 2-percentná kyselina salicylová.",
-  "supplementLabel": "Rutina doplnkov",
-  "supplementTitle": "Tava Skin Complex",
-  "supplementSub": "Dve kapsuly denne s raňajkami. Množstvá sú uvedené na dávku dvoch kapsúl.",
-  "supplements": [
-   "Vitamín C",
-   "Zinok",
-   "Niacinamide",
-   "Astaxanthin",
-   "Fytozóm kurkumínu",
-   "Probiotická zmes Lactobacillus"
-  ],
-  "supplementNote": "Nepovinný doplnok, Omega 3, jedna mäkká kapsula denne.",
-  "nutritionTitle": "Poradenstvo o výžive",
-  "nutritionItems": [
-   "Aspoň 2.5 l vody denne",
-   "Zelenina, bobuľové ovocie a potraviny bohaté na omega 3",
-   "Obmedziť pridaný cukor a potraviny s vysokým glykemickým indexom",
-   "Nepovinný dvojtýždňový reštart s nízkym obsahom mliečnych výrobkov a cukru",
-   "Úvodné poradenstvo s registrovaným dietológom"
-  ],
-  "lifestyleTitle": "Ciele životného štýlu",
-  "lifestyleItems": [
-   "7 až 9 hodín spánku",
-   "Aspoň 150 minút strednej aktivity týždenne",
-   "Päťminútové každodenné dychové cvičenie",
-   "Spánok zaznamenávaný týždenne",
-   "Návyky hydratácie a opaľovania posudzované pri návštevách"
-  ],
-  "adherenceLabel": "Sledovanie programu",
-  "adherenceTitle": "Ako dôsledne ľudia zostali pri pláne.",
-  "adherenceSub": "Dodržiavanie počas celých 16 týždňov, ako je zaznamenané v správe.",
-  "adherence": [
-   "Celkové dodržiavanie",
-   "Dodržiavanie doplnkov",
-   "Dodržiavanie lokálnej aplikácie"
-  ],
-  "adherenceAria": "{label}, {val} percent",
-  "adherenceFoot": "Počas 16-týždňového programu",
-  "safetyBg": "Bezpečnosť",
-  "safetyLabel": "Nahlásené vedľajšie účinky",
-  "safetyTitle": "Čo účastníci nahlásili.",
-  "safetySub": "Podiely účastníkov, ktorí nahlásili každý účinok počas programu.",
-  "sideEffectsTitle": "Vedľajšie účinky",
-  "sideEffects": [
-   "Mierna suchosť alebo olupovanie",
-   "Dočasné vzplanutie akné",
-   "Mierne tráviace ťažkosti"
-  ],
-  "withdrawalsTitle": "Odstúpenia",
-  "withdrawalsSub": "8 účastníkov odstúpilo z 92 zapísaných.",
-  "withdrawals": [
-   {
-    "label": "Konflikty v rozvrhu",
-    "value": "5 ľudí"
-   },
-   {
-    "label": "Mierne vedľajšie účinky",
-    "value": "2 ľudia"
-   },
-   {
-    "label": "Stratení pri sledovaní",
-    "value": "1 človek"
-   }
-  ],
-  "alertTitle": "Neboli nahlásené žiadne závažné nežiaduce udalosti.",
-  "alertBody": "Táto veta je uvedená v správe popri miernych účinkoch uvedených na tejto stránke. Je tu zahrnutá presne tak, ako bola nahlásená.",
-  "photoLabel": "Vizuálna dokumentácia",
-  "photoTitle": "Porovnania fotografií účastníkov.",
-  "photoSub": "Fotografie vedľa seba zo štvormesačného programu. Ľavý obrázok v každom páre ukazoval začiatok a pravý obrázok ukazoval 16. týždeň. Na tejto stránke nie sú reprodukované žiadne fotografie účastníkov.",
-  "participant": "Účastník {initial}",
-  "docViews": [
-   "Pohľad z bočného profilu",
-   "Čelný pohľad",
-   "Čelný pohľad s okuliarmi",
-   "Detailný pohľad na líce"
-  ],
-  "baselineAndWeek": "Začiatok a 16. týždeň",
-  "photoProtocolTitle": "Protokol fotografovania",
-  "photoProtocol": "Štandardizované snímanie na začiatku a pri kontrole s pevným nastavením kamery, konzistentným viditeľným a krížovo polarizovaným osvetlením, čelnými, 45-stupňovými a profilovými uhlami a farebne kalibrovaným pozadím.",
-  "methodsLabel": "Ako sa merania vykonávali",
-  "methodsTitle": "Klinické merania",
-  "methods": [
-   "Lézie akné počítané dermatológom",
-   "Hydratácia korneometrom",
-   "Indexy začervenania a melanínu chromametrom",
-   "Hodnotenie textúry na stupnici 0 až 4",
-   "Štandardizované fotografovanie"
-  ],
-  "factsLabel": "Dizajn štúdie",
-  "factsTitle": "Dizajn na prvý pohľad.",
-  "facts": [
-   {
-    "k": "Dizajn",
-    "v": "Prospektívny, otvorený, jednoramenný"
-   },
-   {
-    "k": "Prostredie",
-    "v": "Osobne, pod lekárskym dohľadom"
-   },
-   {
-    "k": "Hodnotenia",
-    "v": "Začiatok plus 4., 8., 12. a 16. týždeň"
-   },
-   {
-    "k": "Dokončené",
-    "v": "84 z 92 zapísaných · 91 percent"
-   }
-  ],
-  "source": "Zdroj, Tava Labs Participant Outcomes, Research Series 001, 16-týždňový program účastníkov. Táto stránka uvádza iba čísla zo správy, so začiatkom a 16. týždňom ako dvoma nameranými bodmi výsledkov."
- },
- "account": {
-  "signedInAs": "Prihlásení ako",
-  "signOut": "Odhlásiť sa",
-  "loading": "Načítava sa váš účet…",
-  "failedTitle": "Váš účet sa nám nepodarilo načítať",
-  "failedSegments": [
-   {
-    "text": "Skontrolujte svoje pripojenie a skúste to znova. Ak sa to deje aj naďalej, napíšte na "
-   },
-   {
-    "text": "support@tavalabs.app",
-    "href": "mailto:support@tavalabs.app"
-   },
-   {
-    "text": " a my to vyriešime."
-   }
-  ],
-  "tryAgain": "Skúsiť znova",
-  "tabs": {
-   "today": "Dnes",
-   "orders": "Objednávky",
-   "shop": "Obchod",
-   "lab": "Laboratórium",
-   "support": "Podpora"
-  },
-  "greetings": {
-   "morning": "Dobré ráno",
-   "afternoon": "Dobré popoludnie",
-   "evening": "Dobrý večer"
-  },
-  "weekInitials": [
-   "N",
-   "P",
-   "U",
-   "S",
-   "Š",
-   "P",
-   "S"
-  ],
-  "streakLine": "Séria {streak} dní · Deň {day} z 30{bottle}",
-  "dayLine": "Deň {day} z 30{bottle}. Dokončite dnešnú rutinu v aplikácii a začnite svoju sériu.",
-  "bottleSuffix": " · ešte {days} dní vo fľaštičke",
-  "progressLine": "Deň {day} z 30 · ešte {left} dní do vášho prvého celého mesiaca",
-  "stepsToGo": "Dnes: zostáva {n} z {total} krokov rutiny.",
-  "todayComplete": "Dnešok je hotový. Váš ďalší deň je už pripravený.",
-  "planEyebrow": "Váš plán",
-  "planDefault": "Vyplňte kvíz o pleti a váš osobný plán, vytvorený z vašich odpovedí, bude žiť tu a v aplikácii.",
-  "retakeQuiz": "Znova vyplniť kvíz o pleti",
-  "takeQuiz": "Vyplniť kvíz o pleti",
-  "chipLabels": {
-   "goal": "Cieľ",
-   "skinType": "Typ pleti",
-   "concern": "Obava",
-   "routine": "Rutina",
-   "plan": "Plán",
-   "routineTimes": "Časy rutiny"
-  },
-  "labelMaps": {
-   "goal": {
-    "radiance": "Žiarivosť",
-    "fine_lines": "Jemné vrásky",
-    "hydration": "Hydratácia",
-    "even_tone": "Rovnomerný tón"
-   },
-   "skinType": {
-    "dry": "Suchá",
-    "oily": "Mastná",
-    "combination": "Zmiešaná",
-    "sensitive": "Citlivá",
-    "not_sure": "Nie som si istý"
-   },
-   "concern": {
-    "dullness": "Mdlý vzhľad",
-    "fine_lines": "Jemné vrásky",
-    "uneven_tone": "Nerovnomerný tón",
-    "texture": "Textúra",
-    "dryness": "Suchosť"
-   },
-   "sensitivity": {
-    "often": "Často citlivá",
-    "sometimes": "Niekedy citlivá",
-    "never": "Zriedka citlivá"
-   },
-   "routine": {
-    "cleanser_only": "Iba čistiaci prípravok",
-    "few_products": "Pár produktov",
-    "full_routine": "Úplná rutina"
-   },
-   "ramp": {
-    "gentle": "Jemné navykanie",
-    "standard": "Štandardné navykanie",
-    "full": "Plná sila"
-   }
-  },
-  "morningEyebrow": "Ranná rutina",
-  "nightEyebrow": "Nočná rutina",
-  "amTitle": "Ráno · 3 kvapky",
-  "pmTitle": "Večer · 3 kvapky",
-  "amSteps": [
-   {
-    "title": "Vyčistiť",
-    "detail": "Jemný čistiaci prípravok, osušiť poklepaním"
-   },
-   {
-    "title": "Naniesť 3 kvapky séra",
-    "detail": "Vtlačiť do tváre a krku"
-   },
-   {
-    "title": "Hydratovať + SPF",
-    "detail": "SPF 30 alebo vyšší"
-   }
-  ],
-  "pmSteps": [
-   {
-    "title": "Dvojité čistenie",
-    "detail": "Odstrániť SPF a make-up"
-   },
-   {
-    "title": "Naniesť 3 kvapky séra",
-    "detail": "Pred retinolom alebo ošetreniami"
-   },
-   {
-    "title": "Nočný hydratačný krém",
-    "detail": "Uzamknúť hydratáciu"
-   }
-  ],
-  "stepsNote": "Kroky odškrtávate v mobilnej aplikácii. Táto stránka ukazuje dnešnú rutinu a to, čo aplikácia dnes zatiaľ zaznamenala.",
-  "ordersEyebrow": "Objednávky",
-  "ordersTitle": "Vaše objednávky",
-  "ordersEmpty": "Zatiaľ žiadne objednávky. Keď nakúpite, vaše objednávky a sledovanie sa zobrazia tu a v aplikácii.",
-  "paid": "Zaplatené",
-  "paymentFailed": "Platba zlyhala",
-  "unpaid": "Nezaplatené",
-  "statusLabels": [
-   "Objednané",
-   "Odoslané",
-   "Na doručení",
-   "Doručené"
-  ],
-  "subscription": "Predplatné",
-  "carrierFallback": "Dopravca",
-  "trackPackage": "Sledovať zásielku",
-  "claimEyebrow": "Kód na uplatnenie",
-  "claimTitle": "Prepojenie nákupu s aplikáciou",
-  "claimForOrder": "Váš kód na uplatnenie pre objednávku {order}",
-  "claimYourCode": "Váš kód na uplatnenie",
-  "claimValidUntil": " (platný do {date})",
-  "claimEnter": ". Zadajte ho v aplikácii Tava v časti Objednávky, aby ste prepojili tento nákup so svojím účtom v aplikácii:",
-  "claimWebNote": "Tu na webe kód nepotrebujete. Prihlásenie emailom z pokladne už zobrazí vaše objednávky a plán vyššie.",
-  "claimEmpty": "Kúpili ste cez kvíz alebo túto stránku? Váš potvrdzovací email a stránka hneď po pokladni ukázali kód na uplatnenie. Otvorte mobilnú aplikáciu Tava, prihláste sa a zadajte kód na karte Objednávky. Váš nákup, plán a odpovede z kvízu sa presunú do vášho účtu v aplikácii. Tu na webe prihlásenie rovnakým emailom, aký ste použili pri pokladni, už zobrazí všetko vyššie. Nič ďalšie netreba zadávať.",
-  "shop": {
-   "eyebrow": "PDRN Brightening Serum",
-   "title": "Nakupovať Tava Labs",
-   "body": "1 fl oz (30 ml). Znížte jemné vrásky, hlboko hydratujte, obnovte žiarivosť a posilnite pleť. 2 až 4 dávky, ráno a večer.",
-   "subscribeLine": "Predplatiť, $39 mesačne.",
-   "subscribeRest": " Čerstvá fľaštička každý mesiac, automaticky.",
-   "oneTimeLine": "Jednorazovo, $49.",
-   "oneTimeRest": " Jedna fľaštička.",
-   "subscribeBtn": "Predplatiť, $39 mesačne",
-   "buyOnceBtn": "Kúpiť raz, $49",
-   "stripeNote": "Bezpečná pokladňa cez Stripe. Platbu potvrdíte na stránke Stripe."
-  },
-  "labTab": {
-   "eyebrow": "Laboratórium",
-   "title": "Poznajte svoje čísla.",
-   "sub": "Skutočné krvné panely, objednané pod vaším účtom Tava. Prezrite si panely, pozrite si každý marker skôr, než objednáte, a nechajte si výsledky doručiť priamo sem."
-  },
-  "support": {
-   "eyebrow": "Podpora",
-   "title": "Sme tu, aby sme pomohli",
-   "segments": [
-    {
-     "text": "Napíšte na "
-    },
-    {
-     "text": "support@tavalabs.app",
-     "href": "mailto:support@tavalabs.app"
-    },
-    {
-     "text": " alebo zavolajte na "
-    },
-    {
-     "text": "909-906-1308",
-     "href": "tel:+19099061308"
-    },
-    {
-     "text": "."
-    }
-   ],
-   "links": {
-    "general": "Všeobecné otázky",
-    "productSupport": "Podpora k produktom",
-    "salesSupport": "Podpora objednávok a predaja",
-    "faqs": "Časté otázky",
-    "shipping": "Zásady doručovania",
-    "returns": "Zásady vrátenia tovaru"
-   }
-  }
- },
- "lab": {
-  "ordersLabel": "Klinické posúdenie",
-  "ordersTitle": "Vaše laboratórne objednávky",
-  "loadingOrders": "Načítavajú sa vaše objednávky…",
-  "ordersEmpty": "Zatiaľ tu nič nie je. Keď dokončíte panel, každý marker tu pristane so svojou hodnotou, svojím zdravým rozsahom a tým, ako sa v čase hýbe. Objednajte si svoj prvý panel nižšie a tento priestor sa zaplní.",
-  "viewResults": "Zobraziť výsledky",
-  "howLabel": "Ako fungujú laboratórne testy",
-  "howTitle": "Štyri kroky, jeden odber",
-  "steps": [
-   {
-    "title": "Vybrať panel",
-    "body": "Vyberte panel, ktorý zodpovedá tomu, čo chcete vedieť. Každý marker v ňom je uvedený skôr, než objednáte."
-   },
-   {
-    "title": "Posúdenie lekárom",
-    "body": "Licencovaný lekár posúdi a schváli každú objednávku, takže nie je potrebná samostatná návšteva lekára."
-   },
-   {
-    "title": "Prísť na odber",
-    "body": "Jeden rýchly odber krvi na odbernom mieste vo vašej blízkosti. Väčšina návštev trvá asi pätnásť minút."
-   },
-   {
-    "title": "Výsledky pristanú tu",
-    "body": "Výsledky sa doručia digitálne na túto kartu v priebehu dní, s každým markerom a jeho rozsahom."
-   }
-  ],
-  "panelsLabel": "Panely",
-  "panelsTitle": "Štrnásť panelov, postavených okolo toho, čo sledujete",
-  "panelsSub": "Každý panel ukazuje svoju cenu. Objednávanie sa otvorí, keď sa zapne pokladňa, a licencovaný lekár posúdi každú objednávku skôr, než sa vaše výsledky doručia priamo sem. Panely nie je možné objednať na adresy v štátoch New York, New Jersey alebo Rhode Island.",
-  "markersSuffix": "{n} markerov",
-  "resultsInDays": "Výsledky v priebehu dní",
-  "hideMarkers": "Skryť markery",
-  "seeMarkers": "Pozrieť markery",
-  "markersAria": "Markery v paneli {name}",
-  "disclaimer": "Laboratórne poznatky sú informácie o vašom vlastnom zdraví a nie sú diagnózou. O akomkoľvek výsledku, ktorý vás znepokojuje, sa porozprávajte so svojím lekárom a v prípade núdze volajte 911.",
-  "panelsById": {
-   "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
-    "name": "Panel športového výkonu",
-    "description": "Pripravenosť na tréning a regenerácia: krvný obraz, metabolický panel, zásoby železa, vitamín D, testosterón, zápal a svalové enzýmy.",
-    "collection": "Odber krvi bez objednania"
-   },
-   "38c76039-05dc-4cd3-8475-7a675989fbf2": {
-    "name": "Základný panel zdravia",
-    "description": "Východiskový bod pre celé telo: krvný obraz, metabolické zdravie, cholesterol, krvný cukor, vitamín D a štítna žľaza.",
-    "collection": "Odber krvi bez objednania"
-   },
-   "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
-    "name": "Panel energie a únavy",
-    "description": "Obvyklí podozriví za nízkou energiou: zásoby a transport železa, B12, folát, vitamín D, štítna žľaza a krvný obraz.",
-    "collection": "Odber krvi bez objednania"
-   },
-   "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
-    "name": "Základný panel pre ženy",
-    "description": "Cielený panel 14 markerov, v úplnom zozname nižšie.",
-    "collection": "Odber krvi bez objednania"
-   },
-   "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
-    "name": "Panel GLP1",
-    "description": "Cielený panel 10 markerov, v úplnom zozname nižšie.",
-    "collection": "Odber krvi bez objednania"
-   },
-   "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
-    "name": "Panel zdravia srdca",
-    "description": "Kardiovaskulárne riziko nad rámec základného cholesterolu: lipidy, ApoB, Lp(a), hs-CRP a homocysteín.",
-    "collection": "Odber krvi bez objednania"
-   },
-   "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
-    "name": "Panel dlhovekosti",
-    "description": "Komplexný každoročný hlboký pohľad naprieč markermi metabolického, kardiovaskulárneho, zápalového a hormonálneho zdravia.",
-    "collection": "Odber krvi bez objednania"
-   },
-   "b909fb21-b264-483c-a915-4ce87713cfa9": {
-    "name": "Základný test pre mužov",
-    "description": "Cielený panel 12 markerov, v úplnom zozname nižšie.",
-    "collection": "Odber krvi bez objednania"
-   },
-   "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
-    "name": "Panel TRT pre mužov",
-    "description": "Cielený panel 16 markerov, v úplnom zozname nižšie.",
-    "collection": "Odber krvi bez objednania"
-   },
-   "abfabb68-c777-4457-87c2-46bf5fe26d81": {
-    "name": "Panel mužských hormónov",
-    "description": "Stav mužských hormónov: celkový testosterón, SHBG, estradiol, LH a FSH.",
-    "collection": "Odber krvi bez objednania"
-   },
-   "f12fe316-367a-4c53-9735-8c0129c45506": {
-    "name": "Panel metabolického zdravia",
-    "description": "Kontrola krvného cukru a metabolické riziko: A1c, inzulín nalačno, cholesterol a úplný metabolický panel.",
-    "collection": "Odber krvi bez objednania"
-   },
-   "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
-    "name": "Panel stresu a regenerácie",
-    "description": "Záťaž stresom a schopnosť regenerácie: kortizol, DHEA-S, štítna žľaza a zápal.",
-    "collection": "Odber krvi bez objednania"
-   },
-   "1760616d-44d3-4654-817d-440a969e5cdf": {
-    "name": "Kompletný panel štítnej žľazy",
-    "description": "Kompletné vyšetrenie štítnej žľazy: TSH, voľný T4, voľný T3 a protilátky TPO.",
-    "collection": "Odber krvi bez objednania"
-   },
-   "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
-    "name": "Panel ženských hormónov",
-    "description": "Stav ženských hormónov: estradiol, progesterón, FSH, LH, DHEA-S a testosterón.",
-    "collection": "Odber krvi bez objednania"
-   }
-  },
-  "detail": {
-   "backToAccount": "Späť do vášho účtu",
-   "notFoundTitle": "Táto laboratórna objednávka sa nenašla",
-   "notFoundBody": "Možno patrí inému emailu. Prihláste sa emailom, pod ktorým ste objednali, a skúste to znova.",
-   "clinicalReview": "KLINICKÉ POSÚDENIE",
-   "loadingResults": "Načítavajú sa vaše výsledky…",
-   "yourPanel": "Váš panel",
-   "markerFallback": "Marker",
-   "headlines": {
-    "loading": "Načítavajú sa vaše výsledky",
-    "pending": "Vaše výsledky sú na ceste",
-    "allIn": "Všetky vaše výsledky sú tu.",
-    "in": "Vaše výsledky sú tu."
-   },
-   "sublines": {
-    "loading": "Chvíľku, kým sa načíta laboratórna správa.",
-    "pending": "Hneď ako laboratórium nahlási výsledky, táto stránka sa zaplní každým markerom, jeho hodnotou a jeho zdravým rozsahom.",
-    "allIn": "Každý marker je v rozsahu. Tu je úplný obraz.",
-    "oneAttention": "Jeden marker si vyžaduje bližší pohľad. Poďme sa do toho ponoriť.",
-    "manyAttention": "{n} markerov si vyžaduje bližší pohľad. Poďme sa do toho ponoriť."
-   },
-   "orderedPrefix": "Objednané",
-   "statusPrefix": "Stav:",
-   "notInYetTitle": "Výsledky zatiaľ nie sú tu",
-   "notInYetBody": "Väčšina panelov nahlási výsledky v priebehu dní od vášho odberu. Keď ten váš pristane, táto stránka ukáže úplný pohľad na rovnováhu s každým markerom a jeho rozsahom.",
-   "markerBalance": "Rovnováha vašich markerov",
-   "biomarkers": "BIOMARKERY",
-   "analyzedSuffix": "{pct} % analyzovaných",
-   "statusNames": {
-    "optimal": "Optimálne",
-    "inRange": "V rozsahu",
-    "attention": "Vyžaduje pozornosť"
-   },
-   "statusLabels": {
-    "optimal": "OPTIMÁLNE",
-    "inRange": "V ROZSAHU",
-    "attention": "OZNAČENÉ"
-   },
-   "basePrefix": "Základ: {name}",
-   "updatedPrefix": "Aktualizované {date}",
-   "updatedRecently": "Nedávno aktualizované",
-   "triageTitle": "Triedenie podľa stavu",
-   "tapToFilter": "Ťuknite na filtrovanie",
-   "triageSubs": {
-    "optimal": "Presne tam, kde ich chcete mať",
-    "inRange": "Vnútri zdravého rozsahu",
-    "attention": "Stojí za rozhovor s vaším lekárom"
-   },
-   "allFilter": "Všetky ({n})",
-   "rangePrefix": "Rozsah {range}",
-   "disclaimer": "Laboratórne výsledky sú informácie o vašom vlastnom zdraví a nie sú diagnózou. O akomkoľvek výsledku, ktorý vás znepokojuje, sa porozprávajte so svojím lekárom a v prípade núdze volajte 911."
-  }
- },
- "login": {
-  "brandCopy": "Váš plán, vaše objednávky a vaša rutina. Jeden email prepája aplikáciu a web.",
-  "brandHeadAccent": "späť.",
-  "brandHeadLead": "Vitajte",
-  "claimBody1": "Keď ste nakúpili cez kvíz alebo túto stránku, email s potvrdením nákupu (a stránka hneď po pokladni) vám ukázal kód na uplatnenie. Otvorte mobilnú aplikáciu Tava, prihláste sa a zadajte tento kód na karte Objednávky. Váš nákup, plán a odpovede z kvízu sa presunú do vášho účtu v aplikácii, bez druhého nákupu.",
-  "claimBody2": "Na webe je to ešte jednoduchšie. Prihláste sa vyššie rovnakým emailom, aký ste použili pri pokladni, a vaše objednávky a plán sú už tu.",
-  "claimLabel": "Kúpili ste na webe a používate aplikáciu?",
-  "claimTitle": "Použite svoj kód na uplatnenie v aplikácii",
-  "differentEmail": "Použiť iný email",
-  "emailLabel": "Emailová adresa",
-  "faqButton": "Máte otázky? Pozrite si časté otázky",
-  "footNote": "Ste tu prvýkrát? Rovnaký odkaz vytvorí váš účet. Použite email z vašej objednávky a všetko na vás už čaká.",
-  "intro": "Prihláste sa emailom, ktorý ste použili pri pokladni alebo v mobilnej aplikácii Tava. Váš plán, objednávky a rutina sú viazané na tento email, takže všetko tu zodpovedá aplikácii. Nie je potrebné žiadne heslo. Pošleme vám emailom odkaz na prihlásenie a ťuknutím naň sa dostanete do svojho účtu.",
-  "invalidEmail": "Zadajte platnú emailovú adresu.",
-  "label": "Váš účet Tava",
-  "resend": "Znova odoslať email",
-  "sendButton": "Poslať mi emailom odkaz na prihlásenie",
-  "sendFailed": "Tento email sa nám nepodarilo odoslať. Skontrolujte adresu a skúste to znova.",
-  "sending": "Odosiela sa…",
-  "sentBody": "Otvorte tento email na tomto zariadení a ťuknite na odkaz vo vnútri. Dostanete sa do svojho účtu, už prihlásení. Odkaz funguje raz a jeho platnosť vyprší, takže ho použite čoskoro.",
-  "sentNotice": "Odkaz na prihlásenie bol odoslaný na {email}. Môže trvať minútu, kým dorazí. Ak ho nevidíte, skontrolujte priečinok so spamom.",
-  "title": "Prihlásiť sa"
- },
- "checkout": {
-  "addressLine2": "Adresa, riadok 2 (nepovinné)",
-  "city": "Mesto",
-  "closeAria": "Zavrieť pokladňu",
-  "continueBtn": "Pokračovať k platbe",
-  "country": "Krajina",
-  "creating": "Vytvára sa vaša pokladňa…",
-  "email": "Email",
-  "firstName": "Meno",
-  "lastName": "Priezvisko",
-  "missingIntro": "Už skoro. Pridajte svoje {fields}.",
-  "missingNames": {
-   "address1": "adresu ulice",
-   "city": "mesto",
-   "email": "platný email",
-   "firstName": "meno",
-   "lastName": "priezvisko",
-   "state": "štát",
-   "zip": "PSČ"
-  },
-  "phoneOptional": "Telefón (nepovinné)",
-  "planOneTime": "PDRN Brightening Serum · $49 · Jednorazový nákup",
-  "planSubscribe": "PDRN Brightening Serum · $39 mesačne · Subscribe & Save 20%",
-  "startError": "Pokladňu sa nepodarilo spustiť. Skontrolujte svoje údaje a skúste to znova. Nič nebolo účtované.",
-  "state": "Štát",
-  "streetAddress": "Adresa ulice",
-  "stripeNote": "Bezpečná pokladňa cez Stripe. Platbu potvrdíte na stránke Stripe. Zatiaľ nie je nič účtované.",
-  "taking": "Prechádzate do bezpečnej pokladne…",
-  "title": "Pokladňa",
-  "zip": "PSČ"
- },
- "legal": {
-  "governsNote": "Táto stránka je prekladom anglického originálu. Ak sa znenie niekedy líši, rozhodujúca je anglická verzia."
- }
 }

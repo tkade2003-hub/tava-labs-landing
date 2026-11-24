@@ -1,0 +1,19 @@
+{
+  "route": "/peptide-moisturizer",
+  "slug": "peptide-moisturizer",
+  "family": "webflow",
+  "title": "Peptide Moisturizer for Founders and Business Owners | Tava Labs",
+  "description": "The Tava Labs Peptide Moisturizer is a face moisturizer with copper peptide and cranberry fruit extract. It hydrates skin and targets the look of fine lines and wrinkles. 1.7 fl oz (50 ml). $27.99 one time.",
+  "canonical": "/peptide-moisturizer",
+  "cssLinks": [],
+  "preconnects": [],
+  "metaRaw": [],
+  "styles": [],
+  "ldjson": [],
+  "scripts": [],
+  "bodyClass": "",
+  "htmlAttrs": {
+    "lang": "en"
+  },
+  "contentHtml": ""
+}

@@ -280,23 +280,46 @@ export function ProductBody({ locale = "en" }: { locale?: Locale }) {
 
             {FORMULARY_OTHERS_META.map((meta, i) => (
               <article key={meta.name} className="border-t-2 border-forest pt-5">
-                <div className="relative aspect-square overflow-hidden rounded-2xl bg-linen">
-                  <Image
-                    src={meta.img}
-                    alt={meta.name}
-                    fill
-                    sizes="(min-width: 1280px) 20vw, (min-width: 640px) 50vw, 100vw"
-                    className="object-cover"
-                  />
-                </div>
+                {i === 0 ? (
+                  <Link href={lh("/peptide-moisturizer")} className="block">
+                    <div className="relative aspect-square overflow-hidden rounded-2xl bg-linen">
+                      <Image
+                        src={meta.img}
+                        alt={meta.name}
+                        fill
+                        sizes="(min-width: 1280px) 20vw, (min-width: 640px) 50vw, 100vw"
+                        className="object-cover"
+                      />
+                    </div>
+                  </Link>
+                ) : (
+                  <div className="relative aspect-square overflow-hidden rounded-2xl bg-linen">
+                    <Image
+                      src={meta.img}
+                      alt={meta.name}
+                      fill
+                      sizes="(min-width: 1280px) 20vw, (min-width: 640px) 50vw, 100vw"
+                      className="object-cover"
+                    />
+                  </div>
+                )}
                 <div className="mt-4 flex items-start justify-between gap-2">
                   <h3 className="font-display text-2xl font-semibold text-forest-deep">
-                    {meta.name}
+                    {i === 0 ? (
+                      <Link href={lh("/peptide-moisturizer")}>{meta.name}</Link>
+                    ) : (
+                      meta.name
+                    )}
                   </h3>
-                  <Badge variant="secondary" className="shrink-0">
-                    {t.formulary.comingSoon}
-                  </Badge>
+                  {i !== 0 && (
+                    <Badge variant="secondary" className="shrink-0">
+                      {t.formulary.comingSoon}
+                    </Badge>
+                  )}
                 </div>
+                {i === 0 && (
+                  <p className="mt-2 font-display text-xl text-forest">$27.99</p>
+                )}
                 <dl className="mt-3 space-y-2 text-sm">
                   {t.formulary.others[i].rows.map(([k, v], j) => (
                     <div key={j}>
@@ -304,10 +327,12 @@ export function ProductBody({ locale = "en" }: { locale?: Locale }) {
                       <dd className="text-ink/70">{v}</dd>
                     </div>
                   ))}
-                  <div>
-                    <dt className="font-semibold text-forest-deep">{t.formulary.status}</dt>
-                    <dd className="text-ink/70">{t.formulary.comingSoon}</dd>
-                  </div>
+                  {i !== 0 && (
+                    <div>
+                      <dt className="font-semibold text-forest-deep">{t.formulary.status}</dt>
+                      <dd className="text-ink/70">{t.formulary.comingSoon}</dd>
+                    </div>
+                  )}
                 </dl>
               </article>
             ))}

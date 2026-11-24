@@ -1,1943 +1,2052 @@
 {
- "meta": {
+  "meta": {
+    "home": {
+      "title": "PDRN Brightening Serum za podjetnike | Tava Labs",
+      "description": "Dnevni serum za obraz za ustanovitelje in lastnike podjetij. PDRN Brightening Serum s PDRN, peptidi in hialuronsko kislino za svetlejšo in navlaženo kožo na videz. $49 enkratno ali $39 na mesec."
+    },
+    "product": {
+      "title": "PDRN Brightening Serum za podjetnike | Tava Labs",
+      "description": "PDRN Brightening Serum Tava Labs je dnevni serum za obraz s PDRN, peptidi in natrijevim hialuronatom za svetlejšo in navlaženo kožo na videz. Izdelano za ustanovitelje in lastnike podjetij. $49 enkratno ali $39 na mesec."
+    },
+    "moisturizer": {
+      "title": "Peptide Moisturizer za ustanovitelje in lastnike podjetij | Tava Labs",
+      "description": "Peptide Moisturizer znamke Tava Labs je vlažilna krema za obraz z bakrovim peptidom in izvlečkom brusnice. Kožo navlaži in cilja na videz drobnih linij in gub. 1.7 fl oz (50 ml). $27.99 enkratno."
+    },
+    "about": {
+      "title": "O Tava Labs | Serum za obraz za ustanovitelje",
+      "description": "Tava Labs izdeluje en izdelek, PDRN Brightening Serum, dnevni serum za obraz za ustanovitelje in lastnike podjetij. Preberite, kdo smo in zakaj smo ga izdelali."
+    },
+    "ingredients": {
+      "title": "Sestavine seruma PDRN Brightening Serum | Tava Labs",
+      "description": "Razlaga vsake sestavine v serumu PDRN Brightening Serum, od PDRN in peptidov do natrijevega hialuronata in pantenola, ter celoten seznam INCI in kaj izpuščamo."
+    },
+    "faq": {
+      "title": "Pogosta vprašanja in odgovori o serumu PDRN Brightening Serum | Tava Labs",
+      "description": "Odgovori o serumu PDRN Brightening Serum: cene, Subscribe and Save, časi dostave, vračila, kviz o koži in povezava nakupa z aplikacijo Tava."
+    },
+    "contact": {
+      "title": "Kontakt Tava Labs | Podpora, prodaja in partnerstva",
+      "description": "Pišite podjetju Tava Labs za podporo za izdelke, pomoč pri naročilih, veleprodajo, partnerstva in medije. Pišite na support@tavalabs.app za naročila in pomoč pri izdelkih, ali na talia@tavalabs.app za veleprodajo, partnerstva in medije. Ali pokličite 909-906-1308."
+    },
+    "partners": {
+      "title": "Postanite partner podjetja Tava Labs | Brezplačen serum za vaš program",
+      "description": "Pospeševalniki, inkubatorji, poslovni programi in vlagatelji: podarite svojim ustanoviteljem enomesečno zalogo seruma PDRN Brightening Serum brezplačno. Postanite partner podjetja Tava Labs."
+    },
+    "research": {
+      "title": "Rezultati 16-tedenske raziskave | Tava Labs",
+      "description": "Izmerjeni rezultati 16-tedenskega programa udeležencev podjetja Tava Labs. Spremembe od izhodišča do 16. tedna pri aknastih lezijah, vlaženju, rdečici, pigmentaciji in teksturi, s celotnim protokolom programa."
+    },
+    "blog": {
+      "title": "The Tava Journal | Koža, spanje in stres za ustanovitelje",
+      "description": "Znanost spanja, raziskave stresa in zdravje kože za ustanovitelje in lastnike podjetij, plus praktične rutine za spočit videz pri delu."
+    },
+    "quiz": {
+      "title": "Kviz o koži | Sestavite svoj osebni načrt seruma | Tava Labs",
+      "description": "Odgovorite na nekaj kratkih vprašanj in sestavite svoj osebni načrt okoli seruma PDRN Brightening Serum. En serum, dvakrat na dan, prilagojen vaši koži in vašim ciljem."
+    },
+    "checkoutSuccess": {
+      "title": "Naročilo potrjeno | Vaš PDRN Brightening Serum | Tava Labs",
+      "description": "Vaše naročilo PDRN Brightening Serum Tava Labs je potrjeno. Vaša koda zahtevka povezuje ta nakup z aplikacijo, kjer lahko vidite svoj načrt, svoje odgovore na kviz in svoje naročilo."
+    },
+    "checkoutCancel": {
+      "title": "Blagajna preklicana | Brez bremenitve | Tava Labs",
+      "description": "Noben strošek ni bil zaračunan. Vaš načrt in odgovori Tava Labs so shranjeni, tako da lahko naročilo dokončate pozneje, ko boste pripravljeni."
+    },
+    "login": {
+      "title": "Prijava | Tava Labs",
+      "description": "Prijavite se v svoj račun Tava Labs: vaš načrt, naročila, rutina in podpora, povezani z istim e-poštnim naslovom kot mobilna aplikacija."
+    },
+    "account": {
+      "title": "Vaš račun | Tava Labs",
+      "description": "Vaš račun Tava Labs v spletu: vaš načrt, naročila, rutina in podpora, povezani z istim e-poštnim naslovom kot mobilna aplikacija."
+    },
+    "terms": {
+      "title": "Pogoji poslovanja | Tava Labs",
+      "description": "Pogoji, ki urejajo vašo uporabo spletnega mesta tavalabs.app in vaš nakup seruma PDRN Brightening Serum pri podjetju Tava Labs, LLC, vključno z našo politiko, da so vse prodaje dokončne."
+    },
+    "privacy": {
+      "title": "Politika zasebnosti | Tava Labs",
+      "description": "Kako Tava Labs zbira, uporablja in varuje vaše podatke, ko obiščete tavalabs.app, rešite kviz o koži ali naročite PDRN Brightening Serum."
+    },
+    "returns": {
+      "title": "Politika vračil in povračil | Tava Labs",
+      "description": "Politika vračil in povračil podjetja Tava Labs za naročila seruma PDRN Brightening Serum, vključno z našimi pogoji, da so vse prodaje dokončne, in kako doseči podporo."
+    },
+    "cookies": {
+      "title": "Politika piškotkov | Tava Labs",
+      "description": "Kako spletno mesto Tava Labs uporablja piškotke in podobna orodja, ko obiščete tavalabs.app, kaj shranjujejo in kako jih lahko nadzirate."
+    },
+    "shipping": {
+      "title": "Politika dostave | Tava Labs",
+      "description": "Politika dostave podjetja Tava Labs za naročila seruma PDRN Brightening Serum: časi obdelave, ocene dostave, sledenje in območja dostave."
+    }
+  },
+  "chrome": {
+    "homeAria": "Domov Tava Labs",
+    "primaryNavAria": "Glavna",
+    "mobileNavAria": "Mobilna",
+    "navSerum": "Serum",
+    "navAbout": "O nas",
+    "navIngredients": "Sestavine",
+    "navFaqs": "Pogosta vprašanja",
+    "navBlog": "Blog",
+    "navContact": "Kontakt",
+    "login": "Prijava",
+    "addToRoutine": "Dodaj v rutino",
+    "openMenu": "Odpri meni",
+    "closeMenu": "Zapri meni",
+    "language": "Jezik",
+    "tagline": "PDRN Brightening Serum za ustanovitelje",
+    "shopHeading": "Trgovina",
+    "contactHeading": "Pišite nam",
+    "infoHeading": "Informacije",
+    "legalHeading": "Pravno",
+    "footerSerum": "PDRN Brightening Serum",
+    "footerMoisturizer": "Peptide Moisturizer",
+    "footerIngredients": "Sestavine",
+    "contactLinks": {
+      "general": "Splošno",
+      "wholesale": "Veleprodaja",
+      "salesSupport": "Podpora prodaji",
+      "productSupport": "Podpora za izdelke",
+      "pr": "Odnosi z javnostmi"
+    },
+    "contactEmails": {
+      "supportLabel": "Naročila in pomoč pri izdelkih",
+      "generalLabel": "Splošni stik"
+    },
+    "infoLinks": {
+      "about": "O nas",
+      "partners": "Partnerji",
+      "ingredients": "Sestavine",
+      "faqs": "Pogosta vprašanja",
+      "blog": "Blog",
+      "research": "Raziskave"
+    },
+    "newsletterHeading": "Prejemajte novosti Tava Labs po e-pošti",
+    "newsletter": {
+      "placeholder": "Vaš e-poštni naslov",
+      "subscribe": "Naročite se",
+      "sending": "Pošiljanje ...",
+      "done": "Naročeni ste. Hvala.",
+      "error": "Nekaj je šlo narobe, poskusite znova."
+    },
+    "disclaimer1": "PDRN Brightening Serum je kozmetični izdelek. Ni namenjen diagnosticiranju, zdravljenju, ozdravitvi ali preprečevanju katere koli bolezni. Posamezni rezultati se lahko razlikujejo.",
+    "disclaimer2": "Vse prodaje so dokončne. Pred naročilom si oglejte našo politiko vračil.",
+    "copyright": "© 2026 Tava Labs · PDRN Brightening Serum za ustanovitelje",
+    "notFoundLabel": "Tava Labs",
+    "notFoundTitle": "Stran ni najdena",
+    "notFoundBody": "Te strani tukaj ni. Morda se je preselila ali pa je naslov nepopoln.",
+    "notFoundHome": "Nazaj na domačo stran",
+    "notFoundShop": "Kupite PDRN Brightening Serum",
+    "legalLinks": {
+      "terms": "Pogoji poslovanja",
+      "privacy": "Politika zasebnosti",
+      "returns": "Politika vračil",
+      "cookies": "Politika piškotkov",
+      "shipping": "Politika dostave"
+    }
+  },
+  "hero": {
+    "ariaLabel": "PDRN Brightening Serum",
+    "pill": "Za ustanovitelje in lastnike podjetij",
+    "line1": "Dnevni serum za obraz za",
+    "line2": "svetlejša, bolj gladka koža.",
+    "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Nanesite dve do štiri kapljice zjutraj in zvečer. $49 enkratno ali $39 na mesec.",
+    "cardAria": "PDRN Brightening Serum, stran izdelka",
+    "onSetPill": "Pred kamero",
+    "onSetCaption": "Za snemanje in videoklice",
+    "onSetAlt": "Ustanovitelj sedi na studijskem prizorišču in gleda v kamero",
+    "morningPill": "Jutranja rutina",
+    "morningCaption": "Vsako jutro nanesite pred ogledalom",
+    "morningAlt": "Ustanovitelj si v jutranji svetlobi pred kopalniškim ogledalom nanaša serum",
+    "widePill": "Dan in noč",
+    "wideHead": "Ena steklenička, ki se uporablja zjutraj in zvečer.",
+    "priceLine": "$49 enkratno ali $39 na mesec",
+    "talia": {
+      "baseline": "Izhodišče",
+      "week16": "16. teden",
+      "statBig": "63 % manj",
+      "statCap": "Aknaste lezije",
+      "statNote": "Povprečna sprememba v 16-tedenskem programu udeležencev",
+      "alt": "Talia Kade, raziskovalka pri Tava Labs, v belem laboratorijskem plašču",
+      "slopeAria": "Črta trenda od 16,8 v izhodišču do 6,2 v 16. tednu"
+    }
+  },
   "home": {
-   "title": "PDRN Brightening Serum za podjetnike | Tava Labs",
-   "description": "Dnevni serum za obraz za ustanovitelje in lastnike podjetij. PDRN Brightening Serum s PDRN, peptidi in hialuronsko kislino za svetlejšo in navlaženo kožo na videz. $49 enkratno ali $39 na mesec."
+    "introTitleLead": "Svetlejša, navlažena,",
+    "introTitleAccent": "zdravo videti koža",
+    "introBody": "Ustanovitelji in lastniki podjetij dneve preživijo na srečanjih, prodajnih klicih in v posnetih videih. Vaš obraz je na zaslonu in v sobi pri vsem tem. PDRN Brightening Serum je en lahek korak s PDRN, peptidi in hialuronsko kislino. Hitro se vpije in pomaga koži videti svetlejšo, navlaženo in gladko. Dve minuti, dvakrat na dan.",
+    "marqueeTagline": "En serum, zjutraj in zvečer",
+    "marqueeSlogan": "Izdelano za ustanovitelje in lastnike podjetij",
+    "buildersTitle": "Izdelano za ustanovitelje in lastnike podjetij",
+    "buildersTagline": "Gradite svoje podjetje. Ne zanemarjajte sebe.",
+    "buildersBody": "Ustanovitelji in lastniki podjetij se predstavljajo ves dan. Vlagateljem predstavljate osebno, prodajate na videoklicih in snemate videe za stranke. Videti čist in spočit je del dobrega predstavljanja vašega podjetja. Kratka dnevna rutina nege kože sedi ob dobri garderobi in zanesljivem prenosniku kot osnovno vzdrževanje. PDRN Brightening Serum traja dve minuti, zjutraj in zvečer.",
+    "pitchAlt": "Ustanovitelj vlagatelju predstavlja svojo idejo",
+    "pitchTitle": "Med predstavitvijo",
+    "pitchBody": "Ko vlagateljem predstavljate osebno, vidijo vas, preden vidijo vaše diapozitive. Dnevna rutina s serumom pomaga vaši koži tisti dan videti svetlo, navlaženo in spočito.",
+    "cameraAlt": "Ustanovitelj govori pred kamero",
+    "cameraTitle": "Pred kamero",
+    "cameraBody": "Pri snemanju videa, podcastu ali prodajnem klicu kamera od blizu pokaže utrujeno kožo. Dvominutna rutina zjutraj in zvečer pomaga vaši koži videti spočito pred snemanjem.",
+    "maintenanceTitle": "En serum je celotna rutina.",
+    "maintenanceBody": "Nanesite dve do štiri kapljice PDRN Brightening Serum na čisto, suho kožo, zjutraj in zvečer, nato nadaljujte z vlažilno kremo. Celotna rutina traja približno dve minuti na dan.",
+    "motionTitle": "Oglejte si videe strank",
+    "motionBody": "Ustanovitelji in ustvarjalci, ki uporabljajo PDRN Brightening Serum, posneti na videu.",
+    "playVideo": "Predvajaj video",
+    "videoPlayer": "Predvajalnik videa",
+    "closeVideo": "Zapri video",
+    "freeFromTitleLead": "Kaj ni",
+    "freeFromTitleAccent": "v formuli.",
+    "freeFromSub": "Kar izpuščamo, je enako pomembno kot to, kar vključimo.",
+    "freeFromItems": [
+      {
+        "name": "Brez testiranja na živalih",
+        "blurb": "Nikoli testirano na živalih."
+      },
+      {
+        "name": "Brez dišav",
+        "blurb": "Brez dodanih parfumov ali sintetičnih vonjav."
+      },
+      {
+        "name": "Brez mineralnega olja",
+        "blurb": "Brez mineralnega olja ali naftnih polnil."
+      },
+      {
+        "name": "Brez ftalatov",
+        "blurb": "Brez ftalatov v formuli."
+      },
+      {
+        "name": "Brez silikonov",
+        "blurb": "Brez silikonov, ki bi prekrivali vašo kožo."
+      },
+      {
+        "name": "Brez sulfatov",
+        "blurb": "Brez grobih sulfatov. Nežno do kože."
+      },
+      {
+        "name": "Brez alergenov",
+        "blurb": "Izdelano brez pogostih alergenov."
+      },
+      {
+        "name": "Brez alkohola",
+        "blurb": "Brez alkoholov, ki izsušujejo."
+      }
+    ],
+    "founderLabel": "Sporočilo našega ustanovitelja",
+    "founderQuote": "„En serum, dve minuti, zjutraj in zvečer. To je celotna rutina.“",
+    "founderBody1": "To je ideja za Tava Labs. PDRN Brightening Serum je en korak, okoli katerega je rutina zgrajena: dve minuti, dvakrat na dan, zjutraj in zvečer.",
+    "founderBody2": "Oglejte si video in poslušajte, zakaj smo ga izdelali, z našimi lastnimi besedami.",
+    "founderPhilosophy": "Filozofija Tava Labs",
+    "founderVideoAria": "Video Tava Labs, zakaj smo izdelali PDRN Brightening Serum",
+    "shopSerum": "Kupite serum",
+    "journalTitle": "The Tava Journal",
+    "journalSub": "Članki o spanju, stresu in koži za ustanovitelje.",
+    "readJournal": "Preberite Journal",
+    "readStory": "Preberite zgodbo"
+  },
+  "appTeaser": {
+    "label": "Kmalu na voljo",
+    "lead": "Vaša rutina, vaši laboratorijski izvidi in vaša naročila, vse v aplikaciji Tava Labs.",
+    "headlineLead": "Vaš serum, laboratorijski izvidi in naročila",
+    "headlineTrail": "v eni aplikaciji.",
+    "scroll": "Pomaknite se",
+    "caption": "Aplikacija Tava Labs na eno mesto združuje vaš načrt seruma, vašo dnevno rutino, vaše laboratorijske panele in izvide ter vaša naročila, narejena za iPhone.",
+    "features": [
+      {
+        "title": "Dnevna rutina",
+        "desc": "Jutranje in večerne seje, odkljukane korak za korakom."
+      },
+      {
+        "title": "Nizi in napredek",
+        "desc": "Vaš trenutni niz in dnevi, ki so ostali v vašem načrtu."
+      },
+      {
+        "title": "Laboratorijski paneli in izvidi",
+        "desc": "Paneli, izvidi in razponi v vašem žepu."
+      },
+      {
+        "title": "Naročila in obnove zalog",
+        "desc": "Svoja naročila in datume dopolnitve vidite na enem mestu."
+      }
+    ],
+    "phone": {
+      "today": "Danes",
+      "goodMorning": "Dobro jutro",
+      "dayLine": "12. dan od 30 · še 18 dni do vašega prvega polnega meseca",
+      "stepsToGo": "Danes: še 4 od 6 korakov rutine",
+      "morningRoutine": "Jutranja rutina",
+      "amDrops": "Dopoldne · 3 kapljice",
+      "clinicalReview": "Klinični pregled",
+      "resultsIn": "Vaši izvidi so prispeli",
+      "optimal": "4 optimalni",
+      "inRange": "2 v razponu",
+      "toReview": "1 za pregled",
+      "tabs": {
+        "today": "Danes",
+        "shop": "Trgovina",
+        "lab": "Laboratorij",
+        "orders": "Naročila",
+        "profile": "Profil"
+      },
+      "steps": [
+        {
+          "title": "Očistite",
+          "detail": "Nežno čistilo, popivnajte do suhega"
+        },
+        {
+          "title": "Nanesite 3 kapljice seruma",
+          "detail": "Vtiskajte v obraz in vrat"
+        },
+        {
+          "title": "Navlažite + zaščita pred soncem",
+          "detail": "SPF 30 ali višji"
+        }
+      ]
+    }
+  },
+  "categoryChrome": {
+    "readMore": "Preberite več +",
+    "showLess": "Pokaži manj −",
+    "prevProducts": "Prejšnji izdelki",
+    "nextProducts": "Naslednji izdelki",
+    "goTo": "Pojdi na {title}",
+    "explore": "Raziščite"
+  },
+  "categories": {
+    "skincare": {
+      "eyebrow": "NEGA KOŽE",
+      "heroTitleLead": "Vaš naslednji sestanek",
+      "heroTitleAccent": "se začne pri vas.",
+      "heroCopy": "Izdelano za podjetnike, ki predstavljajo, prodajajo in snemajo pred kamero. En dnevni serum, zgrajen okoli PDRN, za kožo, ki izgleda svetla in spočita v sobi in pred kamero.",
+      "heroFinePrint": "Kozmetična nega kože. Ni namenjena diagnosticiranju, zdravljenju, ozdravitvi ali preprečevanju katere koli bolezni.",
+      "stamp": "NEGA KOŽE ZA USTANOVITELJE",
+      "primaryCta": "Dodaj v rutino",
+      "secondaryCta": "Oglejte si sestavine",
+      "optionsEyebrow": "PONUDBA",
+      "optionsTitleLead": "En serum.",
+      "optionsTitleAccent": "Brez police ugibanja.",
+      "optionsCopy": "Začnite s serumom. Preostala linija je na poti.",
+      "products": [
+        {
+          "title": "PDRN Brightening Serum",
+          "subtitle": "PDRN, peptidi in natrijev hialuronat",
+          "unit": "enkratno",
+          "imageAlt": "Steklenička seruma PDRN Brightening Serum podjetja Tava Labs",
+          "badges": [
+            "Najbolje prodajano"
+          ],
+          "description": "Dnevni serum za svetlejšo, navlaženo in zdravo kožo na videz. $39 na mesec pri Subscribe and Save.",
+          "linkLabel": "Oglejte si serum"
+        },
+        {
+          "title": "Peptide Moisturizer",
+          "subtitle": "1,7 fl oz (50 ml)",
+          "imageAlt": "Bela tuba vlažilne kreme Peptide Moisturizer podjetja Tava Labs z rožnatim brizgom",
+          "badges": [
+            "Kmalu na voljo"
+          ],
+          "description": "Peptidna vlažilna krema, ki cilja na gube in vlaži, narejena za kožo, ki mora biti ves dan videti zbrana."
+        },
+        {
+          "title": "Peptide Eye Cream",
+          "subtitle": "1 fl oz (30 ml)",
+          "imageAlt": "Bela tuba kreme za oči Peptide Eye Cream podjetja Tava Labs s kapljico barve šampanjca",
+          "badges": [
+            "Kmalu na voljo"
+          ],
+          "description": "Zmanjšuje videz zabuhlosti okoli oči in cilja na gube na predelu oči, za spočit videz pred kamero."
+        },
+        {
+          "title": "Skin Firming Cream",
+          "subtitle": "2 oz (56 g)",
+          "imageAlt": "Bel kozarček kreme Skin Firming Cream podjetja Tava Labs z zlatim valom v ozadju",
+          "badges": [
+            "Kmalu na voljo"
+          ],
+          "description": "Hialuronska kislina in CoQ10 v bogati kremi, po kateri je koža videti čvrsta in negovana."
+        }
+      ],
+      "disclaimerLead": "Izdelki za nego kože Tava Labs so kozmetika. Niso namenjeni diagnosticiranju, zdravljenju, ozdravitvi ali preprečevanju katere koli bolezni.",
+      "disclaimerMore": [
+        "Posamezni rezultati se razlikujejo. Uporabljajte le po navodilih: 2 do 4 kapljice seruma PDRN Brightening Serum, dvakrat na dan, na čisto kožo.",
+        "Če pride do draženja, prenehajte z uporabo in se posvetujte s strokovnjakom. Cene na tej strani so bile točne ob objavi in se lahko spremenijo."
+      ],
+      "protocolEyebrow": "RUTINA",
+      "protocolTitleLead": "Dve minuti, dvakrat na dan.",
+      "protocolTitleAccent": "To je celotna rutina.",
+      "protocolCopy": "Rutina, zgrajena okoli enega seruma in urnika podjetnika, zgodnjih klicev, poznih noči in vsega vmes.",
+      "protocolCta": "Dodaj v rutino",
+      "steps": [
+        {
+          "title": "Ocenite",
+          "lead": "s kvizom o koži",
+          "body": "Odgovorite na nekaj kratkih vprašanj o svoji koži, spanju in urniku, da se vaš načrt začne tam, kjer dejansko ste."
+        },
+        {
+          "title": "Nanesite",
+          "lead": "2 do 4 kapljice, dvakrat na dan",
+          "body": "Zjutraj in zvečer, na čisto kožo. En serum, en korak, brez rutine v desetih korakih."
+        },
+        {
+          "title": "Spremljajte",
+          "lead": "svoj načrt v aplikaciji",
+          "body": "Vaš nakup se z aplikacijo Tava poveže s kodo za prevzem, kjer vaš načrt, naročila in rutina ostanejo na enem mestu."
+        }
+      ],
+      "legalLines": [
+        "Samo kozmetični izdelki. Nič na tej strani ni zdravniški nasvet."
+      ]
+    },
+    "biomarkers": {
+      "eyebrow": "LABORATORIJSKI BIOMARKERJI",
+      "heroTitleLead": "Spoznajte svoje podatke,",
+      "heroTitleAccent": "na Tavi.",
+      "heroCopy": "Svoje podjetje vodite s številkami. Kmalu boste lahko isto disciplino uporabili zase: svoje ključne biomarkerje, spremljane skozi čas, v aplikaciji Tava.",
+      "heroFinePrint": "Kmalu na voljo v aplikaciji Tava. Vpogledi so zgolj informativni in ne diagnosticirajo nobenega stanja.",
+      "stamp": "VAŠI PODATKI NA ENEM MESTU",
+      "primaryCta": "Oglejte si, kaj se spremlja",
+      "secondaryCta": "Kako bo delovalo",
+      "optionsEyebrow": "KAJ SE SPREMLJA",
+      "optionsTitleLead": "Šest področij.",
+      "optionsTitleAccent": "Ena jasna slika.",
+      "optionsCopy": "Področja biomarkerjev v predogledu aplikacije Tava, ki nastaja zdaj.",
+      "products": [
+        {
+          "title": "Možgani",
+          "subtitle": "Osredotočenost in jasnost",
+          "badges": [
+            "Kmalu na voljo"
+          ],
+          "description": "Označevalci, ki stojijo za osredotočenostjo, jasnostjo in kognitivnim tempom, zbrani v enem pogledu."
+        },
+        {
+          "title": "Hormoni",
+          "subtitle": "Ravnotežje",
+          "badges": [
+            "Kmalu na voljo"
+          ],
+          "description": "Vaša slika hormonov skozi čas, da so spremembe vidne, namesto da o njih ugibate."
+        },
+        {
+          "title": "Srce",
+          "subtitle": "Kardiovaskularni označevalci",
+          "badges": [
+            "Kmalu na voljo"
+          ],
+          "description": "Označevalci srca, ki so pomembni, spremljani kot trend in ne kot enkratno merjenje."
+        },
+        {
+          "title": "Presnova",
+          "subtitle": "Energija in poraba",
+          "badges": [
+            "Kmalu na voljo"
+          ],
+          "description": "Kako vaše telo uporablja energijo, v številkah, ki jim dejansko lahko sledite."
+        },
+        {
+          "title": "Črevesje",
+          "subtitle": "Zdravje prebave",
+          "badges": [
+            "Kmalu na voljo"
+          ],
+          "description": "Signali zdravja črevesja, ki se povezujejo z energijo, razpoloženjem in okrevanjem."
+        },
+        {
+          "title": "Dolgoživost",
+          "subtitle": "Biološka starost",
+          "badges": [
+            "Kmalu na voljo"
+          ],
+          "description": "Dolg pogled: kako se vaši označevalci seštejejo v sliko biološke starosti."
+        }
+      ],
+      "disclaimerLead": "Vpogledi v biomarkerje v aplikaciji Tava so zgolj informativni. Ne diagnosticirajo, ne zdravijo in ne preprečujejo nobenega stanja.",
+      "disclaimerMore": [
+        "O vsakem izvidu, ki vas skrbi, se pogovorite s svojim izvajalcem. V nujnem primeru pokličite 911."
+      ],
+      "protocolEyebrow": "KAKO BO DELOVALO",
+      "protocolTitleLead": "Testirajte, preglejte,",
+      "protocolTitleAccent": "spremljajte trend.",
+      "protocolCopy": "Ena nadzorna plošča za osebo, ki vodi podjetje, ob vašem načrtu seruma v isti aplikaciji.",
+      "steps": [
+        {
+          "title": "Testiranje",
+          "lead": "prek laboratorijskega partnerja",
+          "body": "Vaš vzorec se odvzame in obdela, izvidi pa pristanejo v vaši aplikaciji Tava."
+        },
+        {
+          "title": "Pregled",
+          "lead": "področje za področjem",
+          "body": "Možgani, hormoni, srce, presnova, črevesje in dolgoživost, vsako s svojim pogledom."
+        },
+        {
+          "title": "Spremljajte",
+          "lead": "trend skozi čas",
+          "body": "Eno merjenje je posnetek. Vrednost je trend, in aplikacija ga hrani za vas."
+        }
+      ],
+      "legalLines": [
+        "Spremljanje laboratorijskih biomarkerjev prihaja kmalu in še ni odprto za naročila."
+      ]
+    },
+    "mentalHealth": {
+      "eyebrow": "DUŠEVNO ZDRAVJE",
+      "heroTitleLead": "Boljša osredotočenost,",
+      "heroTitleAccent": "na Tavi.",
+      "heroCopy": "Podpora za osredotočenost in pozornost, ki se začne s kliničnim pregledom, ne z gumbom za blagajno.",
+      "heroFinePrint": "Po kliničnem pregledu. Ta program je v razvoju in še ni odprt za vpis.",
+      "stamp": "OSKRBA S KLINIČNIM PREGLEDOM",
+      "primaryCta": "Oglejte si, kako deluje",
+      "optionsEyebrow": "PROGRAM",
+      "optionsTitleLead": "Oskrba, ki se začne",
+      "optionsTitleAccent": "s pregledom.",
+      "optionsCopy": "",
+      "products": [],
+      "disclaimerLead": "Podpora za duševno zdravje pri Tavi se začne s kliničnim pregledom. Nič tukaj ni diagnoza ali priporočilo za zdravljenje.",
+      "disclaimerMore": [
+        "Če ste v krizi ali razmišljate o samopoškodovanju, v Združenih državah pokličite ali pošljite sporočilo na 988. V nujnem primeru pokličite 911."
+      ],
+      "protocolEyebrow": "KAKO DELUJE",
+      "protocolTitleLead": "Najprej pregled.",
+      "protocolTitleAccent": "Potem načrt.",
+      "protocolCopy": "Previdna pot, odprto, v vašem tempu.",
+      "steps": [
+        {
+          "title": "Pregled",
+          "lead": "s klinikom",
+          "body": "Delite svojo zgodovino in to, s čimer se spopadate, in klinik pregleda, ali je podpora tukaj primerna za vas."
+        },
+        {
+          "title": "Načrt",
+          "lead": "zgrajen okoli vas",
+          "body": "Če je primerna, je vaš načrt zgrajen okoli vaših ciljev in vašega urnika."
+        },
+        {
+          "title": "Podpora",
+          "lead": "med potjo",
+          "body": "Preverjanja ohranjajo načrt pošten, ko se stvari spreminjajo."
+        }
+      ],
+      "legalLines": [
+        "Ponudbe za duševno zdravje pri Tavi so v razvoju in še niso odprte za vpis."
+      ]
+    },
+    "peptides": {
+      "eyebrow": "PROGRAMI PEPTIDOV",
+      "heroTitleLead": "Peptidi,",
+      "heroTitleAccent": "z izvajalcem na vaši strani.",
+      "heroCopy": "Trinajst programov peptidov podjetja Tava Labs, vsak se začne s spletnim posvetom in pregledom izvajalca.",
+      "heroFinePrint": "Potreben je recept. Licencirani izvajalec po posvetu odloči o primernosti.",
+      "stamp": "PROGRAMI POD VODSTVOM IZVAJALCA",
+      "primaryCta": "Začnite posvet",
+      "secondaryCta": "Kako deluje",
+      "optionsEyebrow": "PROGRAMI",
+      "optionsTitleLead": "Trinajst programov.",
+      "optionsTitleAccent": "En posvet začne katerega koli od njih.",
+      "optionsCopy": "Vsak program vključuje posvet za $20. Večina vključuje laboratorijske teste. Cene so mesečne cene programov.",
+      "unitPerMonth": "/mesec",
+      "products": [
+        {
+          "subtitle": "Okrevanje",
+          "imageAlt": "Umetniška podoba viale programa BPC-157",
+          "badges": [
+            "Okrevanje",
+            "Zdravje črevesja",
+            "Laboratorijski testi vključeni"
+          ],
+          "description": "BPC-157 podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
+          "linkLabel": "Oglejte si program"
+        },
+        {
+          "subtitle": "Zdravje črevesja",
+          "imageAlt": "Umetniška podoba viale programa CJC-1295 + Ipamorelin",
+          "badges": [
+            "Zdravje črevesja",
+            "Spanje",
+            "Okrevanje",
+            "Dolgoživost",
+            "Laboratorijski testi vključeni"
+          ],
+          "description": "CJC-1295 + Ipamorelin podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
+          "linkLabel": "Oglejte si program"
+        },
+        {
+          "subtitle": "Dolgoživost",
+          "imageAlt": "Umetniška podoba viale programa GHK-Cu",
+          "badges": [
+            "Dolgoživost",
+            "Laboratorijski testi vključeni"
+          ],
+          "description": "GHK-Cu podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
+          "linkLabel": "Oglejte si program"
+        },
+        {
+          "subtitle": "Okrevanje",
+          "imageAlt": "Umetniška podoba viale programa GLOW Injection",
+          "badges": [
+            "Okrevanje",
+            "Laboratorijski testi vključeni"
+          ],
+          "description": "GLOW Injection podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
+          "linkLabel": "Oglejte si program"
+        },
+        {
+          "subtitle": "Izguba teže",
+          "imageAlt": "Umetniška podoba viale programa MOTS-C",
+          "badges": [
+            "Izguba teže",
+            "Energija",
+            "Delovanje",
+            "Laboratorijski testi vključeni"
+          ],
+          "description": "MOTS-C podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
+          "linkLabel": "Oglejte si program"
+        },
+        {
+          "subtitle": "Dolgoživost",
+          "imageAlt": "Umetniška podoba viale programa NAD+ Injectable",
+          "badges": [
+            "Dolgoživost",
+            "Energija",
+            "Okrevanje",
+            "Osredotočenost"
+          ],
+          "description": "NAD+ Injectable podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
+          "linkLabel": "Oglejte si program"
+        },
+        {
+          "subtitle": "Spolno zdravje",
+          "imageAlt": "Umetniška podoba viale programa PT-141",
+          "badges": [
+            "Spolno zdravje",
+            "Laboratorijski testi vključeni"
+          ],
+          "description": "PT-141 podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
+          "linkLabel": "Oglejte si program"
+        },
+        {
+          "subtitle": "Izguba teže",
+          "imageAlt": "Umetniška podoba viale programa Semaglutide + B12 (Cyanocobalamin)",
+          "badges": [
+            "Izguba teže",
+            "Laboratorijski testi vključeni"
+          ],
+          "description": "Semaglutide + B12 (Cyanocobalamin) podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
+          "linkLabel": "Oglejte si program"
+        },
+        {
+          "subtitle": "Dolgoživost",
+          "imageAlt": "Umetniška podoba viale programa Sermorelin",
+          "badges": [
+            "Dolgoživost",
+            "Okrevanje",
+            "Delovanje",
+            "Laboratorijski testi vključeni"
+          ],
+          "description": "Sermorelin podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
+          "linkLabel": "Oglejte si program"
+        },
+        {
+          "subtitle": "Delovanje",
+          "imageAlt": "Umetniška podoba viale programa TB-500",
+          "badges": [
+            "Delovanje",
+            "Okrevanje",
+            "Laboratorijski testi vključeni"
+          ],
+          "description": "TB-500 podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
+          "linkLabel": "Oglejte si program"
+        },
+        {
+          "subtitle": "Dolgoživost",
+          "imageAlt": "Umetniška podoba viale programa Tesamorelin",
+          "badges": [
+            "Dolgoživost",
+            "Okrevanje",
+            "Delovanje",
+            "Laboratorijski testi vključeni"
+          ],
+          "description": "Tesamorelin podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
+          "linkLabel": "Oglejte si program"
+        },
+        {
+          "subtitle": "Izguba teže",
+          "imageAlt": "Umetniška podoba viale programa Tirzepatide + B12 (Cyanocobalamin)",
+          "badges": [
+            "Izguba teže",
+            "Laboratorijski testi vključeni"
+          ],
+          "description": "Tirzepatide + B12 (Cyanocobalamin) podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
+          "linkLabel": "Oglejte si program"
+        },
+        {
+          "subtitle": "Okrevanje",
+          "imageAlt": "Umetniška podoba viale programa Wolverine Injection",
+          "badges": [
+            "Okrevanje",
+            "Laboratorijski testi vključeni"
+          ],
+          "description": "Wolverine Injection podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
+          "linkLabel": "Oglejte si program"
+        }
+      ],
+      "disclaimerLead": "Sestavljena zdravila pripravijo licencirane lekarne za posamezne bolnike. Niso odobrena s strani FDA in FDA sestavljenih zdravil ne pregleduje glede varnosti, učinkovitosti ali kakovosti.",
+      "disclaimerMore": [
+        "Zdravstveno oskrbo zagotavljajo neodvisni, licencirani izvajalci. Izvajalci neodvisno odločajo, ali je zdravljenje primerno za vas; nakup ne zagotavlja recepta.",
+        "Licencirani izvajalec pregleda vaše podatke in neodvisno odloči, ali je zdravljenje primerno za vas. Nakup ne zagotavlja recepta.",
+        "V nujnih primerih pokličite 911."
+      ],
+      "protocolEyebrow": "KAKO DELUJE",
+      "protocolTitleLead": "Posvet, pregled,",
+      "protocolTitleAccent": "nato začetek.",
+      "protocolCopy": "Vsak program poteka prek neodvisnih licenciranih izvajalcev.",
+      "protocolCta": "Začnite posvet",
+      "steps": [
+        {
+          "title": "Posvet",
+          "lead": "spletno, po vašem urniku",
+          "body": "Izpolnite spletni posvet za program, ki ste ga izbrali. Posvet stane $20."
+        },
+        {
+          "title": "Pregled",
+          "lead": "licenciranega izvajalca",
+          "body": "Izvajalec pregleda vaše podatke in vaše laboratorijske izvide ter neodvisno odloči, ali je zdravljenje primerno za vas."
+        },
+        {
+          "title": "Začnite",
+          "lead": "če je predpisano",
+          "body": "Vaše zdravilo se pošlje iz licencirane lekarne, vaš izvajalec pa vas spremlja, ko se vaš program nadaljuje."
+        }
+      ],
+      "legalLines": [
+        "Naša trgovina s peptidi je trenutno v testnem načinu, zato so programi prikazani za pregled in še niso odprti za prava naročila.",
+        "V nujnih primerih pokličite 911."
+      ]
+    }
   },
   "product": {
-   "title": "PDRN Brightening Serum za podjetnike | Tava Labs",
-   "description": "PDRN Brightening Serum Tava Labs je dnevni serum za obraz s PDRN, peptidi in natrijevim hialuronatom za svetlejšo in navlaženo kožo na videz. Izdelano za ustanovitelje in lastnike podjetij. $49 enkratno ali $39 na mesec."
+    "breadcrumbHome": "Domov",
+    "inStock": "Na zalogi",
+    "cleanVegan": "Čisto in vegansko • Aktivni PDRN",
+    "dermTested": "Dermatološko testirano • Narejeno za vse tipe kože",
+    "titleLead": "PDRN Brightening",
+    "titleAccent": "Serum",
+    "pricePerUnit": "/ 30 ml (1 fl oz)",
+    "subPrice": "ali $39 na mesec z Subscribe and Save",
+    "bullets": [
+      "PDRN, acetil heksapeptid-8 in hialuronska kislina za podporo bolj gladke in svetlejše kože na videz.",
+      "Globoko vlaženje z glicerinom, natrijevim PCA in pantenolom.",
+      "100 % brez testiranja na živalih, brez dišav, brez parabenov, brez sulfatov, brez mineralnega olja, brez silikonov in vegansko."
+    ],
+    "viewFormulation": "Oglejte si celotno formulacijo in klinične teste",
+    "details": [
+      {
+        "title": "Spoznajte PDRN Brightening Serum",
+        "body": "Lahka, vlažilna formula za gladkejšo in bolj sijočo kožo. Hitro se vpije, ne pušča ostankov in ohranja udobje kože."
+      },
+      {
+        "title": "Sestavine in formulacija",
+        "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin."
+      },
+      {
+        "title": "Kako nanesti",
+        "body": "Nanesite 2 do 4 kapljice na čisto, suho kožo. Nežno masirajte po obrazu in vratu, dokler se ne vpije. Uporabljajte dvakrat na dan, zjutraj in zvečer. Nadaljujte z vlažilno kremo ali zaščito pred soncem."
+      },
+      {
+        "title": "Jamstvo čiste nege kože",
+        "body": "Formulirano po certificiranih standardih brez testiranja na živalih in izdelano brez dišav, silikonov, parabenov, mineralnega olja, sulfatov, ftalatov ali pogostih alergenov. Dermatološko testirano na vseh tipih kože."
+      }
+    ],
+    "innovation": {
+      "label": "Ključne sestavine",
+      "titleLead": "Kaj glavne",
+      "titleAccent": "sestavine naredijo",
+      "sub": "Tri sestavine spodaj opravijo večino dela v tem serumu.",
+      "items": [
+        {
+          "label": "Tekstura kože",
+          "title": "PDRN",
+          "body": "Morski PDRN poveča obnovo celic, kar posvetli dolgočasno polt in zgladi vidno teksturo."
+        },
+        {
+          "label": "Čvrstost",
+          "title": "Acetyl Hexapeptide-8",
+          "body": "Ta peptid podpira elastičnost kolagena, za čvrstejšo kožo na videz."
+        },
+        {
+          "label": "Globoko vlaženje",
+          "title": "Hialuronska kislina in pantenol",
+          "body": "Hialuronska kislina, natrijev PCA in pantenol skupaj zadržujejo vlago v kožni pregradi več kot 24 ur."
+        }
+      ],
+      "imgAlts": [
+        "Tekstura seruma",
+        "Kristal in formula",
+        "Vzorec kristala"
+      ],
+      "footnote": "*Biocelična aktivnost, ocenjena z in vitro in ex vivo kliničnimi ocenami. Rezultati se lahko razlikujejo glede na stanje kože posameznika."
+    },
+    "ecosystem": {
+      "label": "Vaš načrt",
+      "title": "Pridobite popolno podporo za rutino",
+      "sub": "Ob vašem serumu vsak načrt Tava Labs vključuje:",
+      "items": [
+        "Osebno diagnostiko kože in vodnik po režimu iz vašega kviza o koži",
+        "Načrt nege, ki se začne počasi in se sčasoma nadgrajuje",
+        "Opomnike za nanos, ki jih nadzirate vi, zjutraj in zvečer",
+        "Podporo prek sporočil kar v aplikaciji",
+        "Dostavo Subscribe and Save vsak mesec, kadar koli prekinite ali prekličete"
+      ],
+      "note": "Subscribe and Save kadar koli prekinite, prilagodite ali prekličete. Enkratni nakupi ostanejo na voljo za $49."
+    },
+    "clinical": {
+      "label": "Klinični testi",
+      "titleLead": "Poskrbite za svoje",
+      "titleAccent": "zdravje kože",
+      "imgAlts": [
+        "Diagram spodbujanja sijaja",
+        "Diagram podpore globokemu vlaženju",
+        "Diagram izboljšanja teksture kože"
+      ],
+      "note": "Ocena lokalnih bioaktivnih sestavin na podlagi 8-tedenskega zaznavanja potrošnikov in instrumentalnih testov vlaženja. Posamezne kožne pregrade, genetika in okolje vplivajo na konkretne časovnice in rezultate."
+    },
+    "formulary": {
+      "label": "Primerjajte formule",
+      "title": "Katera nega kože je prava za vas?",
+      "sub": "Formule za različne cilje, težave in rutine kože. Izberite tisto, ki ustreza vaši koži in vašemu urniku.",
+      "serumAlt": "PDRN Brightening Serum",
+      "serumPriceLine": "Subscribe and Save $39/mesec",
+      "serumOneTime": "ali $49 enkratno",
+      "primaryBenefit": "Glavna korist",
+      "howToUse": "Kako uporabljati",
+      "activeIngredient": "Aktivna sestavina",
+      "serumBenefitValue": "Svetlost in čvrstost",
+      "serumHowValue": "Dopoldne in zvečer",
+      "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
+      "selectSerum": "Izberite serum",
+      "comingSoon": "Kmalu na voljo",
+      "status": "Stanje",
+      "sizeLabel": "Velikost",
+      "others": [
+        {
+          "rows": [
+            [
+              "Glavna korist",
+              "Dnevno vlaženje"
+            ],
+            [
+              "Velikost",
+              "1,7 fl oz (50 ml)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Glavna korist",
+              "Nega predela oči"
+            ],
+            [
+              "Velikost",
+              "1 fl oz (30 ml)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Glavna korist",
+              "Čvrstost in vlaženje"
+            ],
+            [
+              "Velikost",
+              "2 oz (56 g)"
+            ],
+            [
+              "Aktivna sestavina",
+              "Hyaluronic Acid and CoQ10"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Glavna korist",
+              "Nega lasišča in las"
+            ],
+            [
+              "Velikost",
+              "1 fl oz (30 ml)"
+            ]
+          ]
+        }
+      ]
+    },
+    "protocol": {
+      "label": "Kako ga uporabljati",
+      "titleLead": "Ena preprosta rutina,",
+      "titleAccent": "dvakrat na dan",
+      "sub": "Doslednost je pomembna. Sledite tem korakom zjutraj in zvečer ter zaključite z vlažilno kremo, da zadržite vlago.",
+      "progressionLabel": "Klinično napredovanje",
+      "progressionTitle": "Časovnica vidnih rezultatov",
+      "progressionBody": "Svetlejša in bolj navlažena koža v 7 do 14 dneh; izboljšana elastičnost kože in čvrstost pregrade do 4. do 6. tedna.",
+      "timelineAlt": "Primer časovnice rezultatov, 1. do 4. teden in naprej",
+      "steps": [
+        {
+          "title": "Čiščenje, z nežnim umivanjem",
+          "body": "Očistite z nežnim umivanjem z uravnoteženim pH, da odstranite nečistoče in pripravite kožo, ne da bi ji odvzeli naravne lipide."
+        },
+        {
+          "title": "Serum PDRN, 2 do 4 kapljice",
+          "body": "Nanesite 2 do 4 kapljice seruma PDRN na vlažno kožo. Nežno vtiskajte in tapkajte po obrazu in vratu, dokler se popolnoma ne vpije."
+        },
+        {
+          "title": "Navlažite in hidrirajte",
+          "body": "Nanesite vlažilno kremo, da zadržite peptide in podprete kožno pregrado."
+        },
+        {
+          "title": "Zaščita (samo dopoldne), SPF 30+",
+          "body": "Jutranjo rutino zaključite s širokospektralnim SPF 30+, da zaščitite kožo pred UV in poškodbami prostih radikalov."
+        },
+        {
+          "title": "Vaš osebni načrt, vključen",
+          "body": "Vaš kviz o koži sestavi vaš načrt, vključno s tem, kako začeti počasi in kdaj stopnjevati."
+        }
+      ]
+    },
+    "faqSection": {
+      "label": "Vprašanja in odgovori",
+      "title": "Pogosto zastavljena vprašanja",
+      "viewAll": "Oglejte si vsa pogosta vprašanja",
+      "items": [
+        {
+          "q": "Kaj je PDRN in kako koristi koži?",
+          "a": "PDRN (polideoksiribonukleotid) je narejen iz fragmentov DNK, ki so biološko združljivi s človeškimi kožnimi celicami. Spodbuja naravno regeneracijo celic, stimulira mikrocirkulacijo in pomaga popravljati kožno pregrado, za svetlejšo in čvrstejšo kožo na videz."
+        },
+        {
+          "q": "Kako serum PDRN Brightening Serum vključim v svojo rutino nege kože?",
+          "a": "PDRN Brightening Serum uporabljajte dvakrat na dan po čiščenju in toniranju. Iztisnite 2 do 4 kapljice neposredno na konice prstov ali vlažno kožo in zgladite po obrazu, vratu in dekolteju. Nadaljujte s svojo vlažilno kremo in jutranjo zaščito pred soncem."
+        },
+        {
+          "q": "Je ta serum primeren za občutljivo kožo in kožo, nagnjeno k aknam?",
+          "a": "Da. Naša formulacija je nekomedogena, brez olja, brez dišav in obogatena s pomirjujočim pantenolom. Pomirja občutljivost in hkrati globoko vlaži, ne da bi mašila pore ali sprožala draženje."
+        },
+        {
+          "q": "Ali lahko PDRN nanesem v plasteh z retinolom, vitaminom C ali AHA/BHA?",
+          "a": "Da. PDRN dobro deluje ob aktivnih negah, kot so retinoidi in vitamin C. Njegova vlažilna osnova pomaga pomiriti luščenje ali rdečico, ki jo lahko povzročijo kemični pilingi."
+        },
+        {
+          "q": "Kako dolgo običajno zdrži ena steklenička 30 ml?",
+          "a": "Pri nanosu 2 do 4 kapljic dvakrat na dan ena steklenička 30 ml (1 fl oz) običajno zdrži 4 do 6 tednov. Subscribe and Save pošlje naslednjo stekleničko, preden vam zmanjka."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "En serum za svetlejšo, navlaženo in bolj gladko kožo na videz.",
+      "line": "PDRN Brightening Serum · $49.00 / 30ml · Čisto in vegansko · Globoko vlaženje · Prekličite kadar koli"
+    },
+    "gallery": {
+      "view": "Pogled {n}",
+      "alts": [
+        "Steklenička seruma PDRN Brightening Serum",
+        "Pogled 2 na stekleničko seruma",
+        "Pogled 3 na stekleničko seruma",
+        "Pogled 4 na stekleničko seruma",
+        "Pogled 5 na stekleničko seruma"
+      ]
+    }
+  },
+  "moisturizer": {
+    "breadcrumbHome": "Domov",
+    "inStock": "Na zalogi",
+    "subBadge": "Bakrov peptid in izvleček brusnice",
+    "madeLine": "Izdelano v ZDA",
+    "titleLead": "Peptide",
+    "titleAccent": "Moisturizer",
+    "pricePerUnit": "1.7 fl oz (50 ml)",
+    "intro": "Vlažilna krema za obraz z bakrovim peptidom in izvlečkom brusnice. Kožo navlaži in cilja na videz drobnih linij in gub.",
+    "bullets": [
+      "Navlaži kožo ter neguje obraz in vrat, zjutraj ali zvečer.",
+      "Izdelana z bakrovim peptidom in izvlečkom brusnice.",
+      "Cilja na videz drobnih linij in gub.",
+      "Izdelana za ustanovitelje in lastnike podjetij. En preprost korak, zjutraj ali zvečer."
+    ],
+    "details": [
+      {
+        "title": "Kako uporabljati",
+        "body": "Na obraz in vrat nanesite količino v velikosti kovanca in nežno vmasirajte, dokler se krema popolnoma ne vpije. Uporabljajte zjutraj ali zvečer."
+      },
+      {
+        "title": "Sestavine",
+        "body": "Aqua, Sorbitan Olivate, Cetearyl Olivate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Cetyl Alcohol, Stearyl Alcohol, Methylglucoside Phosphate, Copper Lysinate/Prolinate, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Eclipta Prostrata Extract, Moringa Oleifera Seed Extract, Melia Azadirachta (Neem) Leaf Extract, Glycerin, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate, Totarol, Hamamelis Virginiana (Witch Hazel) Water, Xanthan Gum, Alcohol, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Maltodextrin, Syringa Vulgaris (Lilac) Leaf Cell Culture Extract."
+      },
+      {
+        "title": "Dobro je vedeti",
+        "body": "Samo za zunanjo uporabo. Ne zaužijte. Izogibajte se stiku z očmi. Če se pojavi draženje, prenehajte z uporabo. Hranite zunaj dosega otrok. Hranite na hladnem in suhem mestu. Velikost 1.7 fl oz (50 ml). Izdelano v ZDA."
+      }
+    ],
+    "keyIngredients": {
+      "label": "Ključne sestavine",
+      "titleLead": "Katere so glavne",
+      "titleAccent": "sestavine",
+      "sub": "Spodnje sestavine so tiste, na katerih temelji ta vlažilna krema.",
+      "items": [
+        {
+          "title": "Bakrov peptid",
+          "body": "Bakrov peptid, na etiketi naveden kot Copper Lysinate/Prolinate, je peptid v tej formuli. Cilja na videz drobnih linij in gub."
+        },
+        {
+          "title": "Izvleček brusnice",
+          "body": "Izvleček brusnice prihaja iz plodu brusnice. V dnevno formulo je vključen kot rastlinski izvleček."
+        },
+        {
+          "title": "Aloe vera in virginijski nepozebnik",
+          "body": "Sok listov aloe vere in voda virginijskega nepozebnika sta rastlinski sestavini v formuli. Stojita ob glicerinu, ki koži pomaga zadrževati vlago."
+        },
+        {
+          "title": "Moringa in neem",
+          "body": "Izvleček semen moringe in izvleček listov neema sta rastlinska izvlečka v formuli. Vključen je tudi vitamin E, naveden kot Tocopheryl Acetate."
+        }
+      ]
+    },
+    "howToUse": {
+      "label": "Kako uporabljati",
+      "title": "En korak, zjutraj ali zvečer",
+      "sub": "Vlažilno kremo nanesite na obraz in vrat kot vlažilni korak svoje rutine.",
+      "steps": [
+        {
+          "title": "Zjutraj",
+          "body": "Zjutraj na obraz in vrat nanesite količino v velikosti kovanca. Nežno vmasirajte, dokler se krema popolnoma ne vpije."
+        },
+        {
+          "title": "Zvečer",
+          "body": "Zvečer na obraz in vrat nanesite količino v velikosti kovanca. Nežno vmasirajte, dokler se krema popolnoma ne vpije."
+        }
+      ]
+    },
+    "faqSection": {
+      "label": "Vprašanja in odgovori",
+      "title": "Pogosto zastavljena vprašanja",
+      "items": [
+        {
+          "q": "Kaj je Peptide Moisturizer?",
+          "a": "Je vlažilna krema za obraz z bakrovim peptidom in izvlečkom brusnice ter aloe vero, virginijskim nepozebnikom, moringo, neemom, eklipto, glicerinom in vitaminom E. Kožo navlaži ter neguje obraz in vrat."
+        },
+        {
+          "q": "Koliko stane in kakšna je velikost?",
+          "a": "Stane $27.99 enkratno. Velikost je 1.7 fl oz (50 ml). Ta izdelek nima naročniške cene."
+        },
+        {
+          "q": "Kako ga uporabljam?",
+          "a": "Na obraz in vrat nanesite količino v velikosti kovanca in nežno vmasirajte, dokler se krema popolnoma ne vpije. Uporabljajte zjutraj ali zvečer."
+        },
+        {
+          "q": "Za koga je izdelan?",
+          "a": "Izdelan je za ustanovitelje in lastnike podjetij, ki želijo en preprost vlažilni korak, zjutraj ali zvečer. Cilja na videz drobnih linij in gub."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Peptide Moisturizer za vsakodnevno vlaženje.",
+      "line": "Peptide Moisturizer · $27.99 · 1.7 fl oz (50 ml) · Izdelano v ZDA"
+    },
+    "gallery": {
+      "view": "Pogled {n}",
+      "alts": [
+        "Lonček Peptide Moisturizer z zaprtim pokrovom",
+        "Lonček Peptide Moisturizer z odprtim pokrovom",
+        "Trije lončki Peptide Moisturizer",
+        "Dva lončka Peptide Moisturizer"
+      ]
+    }
   },
   "about": {
-   "title": "O Tava Labs | Serum za obraz za ustanovitelje",
-   "description": "Tava Labs izdeluje en izdelek, PDRN Brightening Serum, dnevni serum za obraz za ustanovitelje in lastnike podjetij. Preberite, kdo smo in zakaj smo ga izdelali."
-  },
-  "ingredients": {
-   "title": "Sestavine seruma PDRN Brightening Serum | Tava Labs",
-   "description": "Razlaga vsake sestavine v serumu PDRN Brightening Serum, od PDRN in peptidov do natrijevega hialuronata in pantenola, ter celoten seznam INCI in kaj izpuščamo."
-  },
-  "faq": {
-   "title": "Pogosta vprašanja in odgovori o serumu PDRN Brightening Serum | Tava Labs",
-   "description": "Odgovori o serumu PDRN Brightening Serum: cene, Subscribe and Save, časi dostave, vračila, kviz o koži in povezava nakupa z aplikacijo Tava."
+    "label": "O nas",
+    "titleLead": "Dnevni serum za obraz",
+    "titleAccent": "za ustanovitelje.",
+    "tagline": "Gradite svoje podjetje. Ne zanemarjajte sebe.",
+    "p1": "Tava Labs je blagovna znamka nege kože za ljudi, ki gradijo podjetja. Vaš videz je del vaše poklicne prisotnosti. Ljudje vas vidijo pred kamero, na predstavitvah in pri delu vsak dan.",
+    "p2": "Izdelujemo eno stvar in jo izdelujemo dobro. Dnevni serum, ki ohranja vašo kožo navlaženo in spočito na videz, brez zapletene rutine.",
+    "p3": "Tava Labs je bila ustanovljena za ustanovitelje in lastnike podjetij. En korak, zjutraj in zvečer, pred srečanji, predstavitvami in delom pred kamero.",
+    "p4": "Nega kože, obravnavana kot osnovno vzdrževanje. Ista doslednost, ki jo prinašate v svoje podjetje, uporabljena v vaši lastni rutini.",
+    "serumLabel": "Serum",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumAlt": "PDRN Brightening Serum",
+    "serumBody": "Dnevna rutina za polt, zgrajena okoli PDRN (Polydeoxyribonucleotide) in Acetyl Hexapeptide-8, z natrijevim hialuronatom in pantenolom za vlaženje in udobje. Čista in brez dišav ter izdelana brez vsega z našega seznama izključenih sestavin.",
+    "bullets": [
+      "PDRN za svetlejšo in enakomernejšo polt.",
+      "Acetyl Hexapeptide-8 za podporo videzu čvrstosti.",
+      "Sodium Hyaluronate in Panthenol za vlaženje.",
+      "Uporabljajte dvakrat na dan: 2 do 4 pritiski na čisto, suho kožo, zjutraj in zvečer."
+    ],
+    "priceLine": "$49 enkratno ali $39 na mesec z Subscribe & Save.",
+    "philosophyLabel": "Naša filozofija",
+    "quote": "„En serum, dve minuti, zjutraj in zvečer. To je celotna rutina.“",
+    "philosophyCaption": "Filozofija Tava Labs",
+    "philosophyP1": "Verjamemo v skrb zase tako, kot skrbite za svoje delo, z majhnimi koraki, ki se izvajajo dosledno vsak dan.",
+    "philosophyP2": "Ne obljubljamo preobrazbe. Izdelujemo dobro oblikovan dnevni serum in vam povemo točno, kaj je v njem.",
+    "onlineTitle": "Samo na spletu",
+    "onlineSegments": [
+      {
+        "text": "Tava Labs je blagovna znamka samo na spletu. Vprašanja? Pišite na "
+      },
+      {
+        "text": "support@tavalabs.app",
+        "href": "mailto:support@tavalabs.app"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "contactUs": "Pišite nam"
   },
   "contact": {
-   "title": "Kontakt Tava Labs | Podpora, prodaja in partnerstva",
-   "description": "Pišite podjetju Tava Labs za podporo za izdelke, pomoč pri naročilih, veleprodajo, partnerstva in medije. Pišite na support@tavalabs.app za naročila in pomoč pri izdelkih, ali na talia@tavalabs.app za veleprodajo, partnerstva in medije. Ali pokličite 909-906-1308."
+    "label": "Pišite nam",
+    "title": "Z veseljem bi slišali od vas.",
+    "sub": "Pišite nam in odgovorili vam bomo. Izberite temo, ki ustreza, ali nam pišite neposredno.",
+    "emailLabel": "E-pošta:",
+    "phoneLabel": "Telefon:",
+    "topics": {
+      "general": {
+        "title": "Splošno",
+        "body": "Splošna vprašanja o podjetju Tava Labs in serumu."
+      },
+      "wholesale": {
+        "title": "Veleprodaja",
+        "body": "Poizvedbe o veleprodaji in maloprodaji za PDRN Brightening Serum."
+      },
+      "sales-support": {
+        "title": "Podpora prodaji",
+        "body": "Vprašanja o naročanju, Subscribe & Save in blagajni."
+      },
+      "product-support": {
+        "title": "Podpora za izdelke",
+        "body": "Pomoč pri uporabi seruma, rutinah in vašem osebnem načrtu."
+      },
+      "partnerships": {
+        "title": "Partnerstva",
+        "body": "Partnerstva s pospeševalniki, univerzami, vlagatelji in skupnostmi."
+      },
+      "pr": {
+        "title": "Odnosi z javnostmi",
+        "body": "Poizvedbe za medije in novinarje."
+      }
+    }
+  },
+  "faq": {
+    "label": "Pogosta vprašanja",
+    "titleLead": "Pogosto zastavljena",
+    "titleAccent": "Vprašanja",
+    "sub": "Odgovori o serumu, naročanju, dostavi in vašem osebnem načrtu.",
+    "items": [
+      {
+        "q": "Kaj je PDRN Brightening Serum?",
+        "a": [
+          {
+            "text": "Dnevni serum, zgrajen okoli PDRN (polideoksiribonukleotid) in acetil heksapeptida-8, z natrijevim hialuronatom in pantenolom. Nanesite ga zjutraj in zvečer za podporo svetlejše in bolj enakomerne polti na videz."
+          }
+        ]
+      },
+      {
+        "q": "Kako ga uporabljam?",
+        "a": [
+          {
+            "text": "Nanesite 2 do 4 kapljice na čisto, suho kožo, zjutraj in zvečer. Nadaljujte z vlažilno kremo. Če ste novi v aktivni negi kože, prvi teden začnite enkrat na dan, nato stopnjujte na dvakrat na dan."
+          }
+        ]
+      },
+      {
+        "q": "Kako dobim svoj osebni načrt?",
+        "a": [
+          {
+            "text": "Rešite "
+          },
+          {
+            "text": "Kviz o koži",
+            "href": "/quiz"
+          },
+          {
+            "text": ". Vaši odgovori sestavijo osebni načrt, vključno s tem, kako začeti počasi in kdaj stopnjevati."
+          }
+        ]
+      },
+      {
+        "q": "Koliko stane?",
+        "a": [
+          {
+            "text": "$49 enkratno ali $39 na mesec z Subscribe & Save (20 % ceneje). Subscribe & Save lahko kadar koli prekinete, preskočite ali prekličete."
+          }
+        ]
+      },
+      {
+        "q": "Kako deluje dostava?",
+        "a": [
+          {
+            "text": "Naročila izpolni naš partner in jih pošlje na naslov, ki ga navedete na blagajni. Oglejte si "
+          },
+          {
+            "text": "Politika dostave",
+            "href": "/shipping"
+          },
+          {
+            "text": " za podrobnosti."
+          }
+        ]
+      },
+      {
+        "q": "Kakšna je vaša politika vračil?",
+        "a": [
+          {
+            "text": "Vse prodaje so dokončne. Pred naročilom preberite "
+          },
+          {
+            "text": "Politika vračil",
+            "href": "/returns"
+          },
+          {
+            "text": "."
+          }
+        ]
+      },
+      {
+        "q": "Katere sestavine vsebuje?",
+        "a": [
+          {
+            "text": "Celoten seznam sestavin je na "
+          },
+          {
+            "text": "Stran s sestavinami",
+            "href": "/ingredients"
+          },
+          {
+            "text": ". Serum je brez dišav in izdelan brez parabenov, sulfatov, silikonov, mineralnega olja, ftalatov in pogostih alergenov."
+          }
+        ]
+      },
+      {
+        "q": "Je primeren za moj tip kože?",
+        "a": [
+          {
+            "text": "Serum je formuliran za vse tipe kože. Če imate kožno stanje ali pomisleke, se pred začetkom katere koli nove nege kože pogovorite s svojim dermatologom."
+          }
+        ]
+      },
+      {
+        "q": "Kako vas kontaktiram?",
+        "a": [
+          {
+            "text": "Pišite na support@tavalabs.app ali uporabite stran "
+          },
+          {
+            "text": "Pišite nam",
+            "href": "/contact"
+          },
+          {
+            "text": "."
+          }
+        ]
+      }
+    ]
+  },
+  "ingredients": {
+    "label": "Sestavine",
+    "titleLead": "Kaj je notri in",
+    "titleAccent": "kaj izpuščamo.",
+    "intro": "Tukaj je vsaka sestavina v serumu PDRN Brightening Serum, kaj vsaka počne, in celoten seznam točno tako, kot je na etiketi.",
+    "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Izdelano v ZDA · Primerno za vse tipe kože.",
+    "keyTitle": "Ključne sestavine",
+    "keyItems": [
+      {
+        "name": "PDRN (Polydeoxyribonucleotide)",
+        "body": "Naša glavna aktivna sestavina. Podpira svetlejšo in bolj enakomerno polt na videz."
+      },
+      {
+        "name": "Acetyl Hexapeptide-8",
+        "body": "Peptid, ki podpira videz čvrstosti in gladkosti."
+      },
+      {
+        "name": "Sodium Hyaluronate (Hyaluronic Acid)",
+        "body": "Privlači vlago za navlaženo in udobno kožo."
+      },
+      {
+        "name": "Panthenol",
+        "body": "Pomirja in podpira kožno pregrado."
+      },
+      {
+        "name": "Glycerin + Sodium PCA",
+        "body": "Vlažilci, ki koži pomagajo zadrževati vodo čez dan."
+      }
+    ],
+    "fullTitle": "Vse sestavine",
+    "howTitle": "Kako uporabljati",
+    "howBody": "Nanesite 2 do 4 pritiske na čisto, suho kožo, zjutraj in zvečer. Nadaljujte z vlažilno kremo. Začnite enkrat na dan, če ste novi v aktivni negi kože.",
+    "warningTitle": "Opozorilo",
+    "warningBody": "Samo za zunanjo uporabo. Izogibajte se neposrednemu stiku z očmi. Če pride do draženja, prenehajte z uporabo. Hranite zunaj dosega otrok."
   },
   "partners": {
-   "title": "Postanite partner podjetja Tava Labs | Brezplačen serum za vaš program",
-   "description": "Pospeševalniki, inkubatorji, poslovni programi in vlagatelji: podarite svojim ustanoviteljem enomesečno zalogo seruma PDRN Brightening Serum brezplačno. Postanite partner podjetja Tava Labs."
-  },
-  "research": {
-   "title": "Rezultati 16-tedenske raziskave | Tava Labs",
-   "description": "Izmerjeni rezultati 16-tedenskega programa udeležencev podjetja Tava Labs. Spremembe od izhodišča do 16. tedna pri aknastih lezijah, vlaženju, rdečici, pigmentaciji in teksturi, s celotnim protokolom programa."
+    "label": "Postanite partner podjetja Tava Labs",
+    "titleLead": "Podarite svojim ustanoviteljem brezplačen mesec",
+    "titleAccent": "Tava Labs.",
+    "intro": "Tava Labs sodeluje s pospeševalniki, univerzami, angelskimi vlagatelji in skupnostmi ustanoviteljev. Vaši člani prejmejo prvi mesec PDRN Brightening Serum brezplačno.",
+    "tagline": "Brezplačen mesec od nas, brez stroškov in brez obveznosti.",
+    "becomePartner": "Postanite partner",
+    "partnershipsContact": "Kontakt za partnerstva",
+    "audiences": [
+      {
+        "alt": "Ustanovitelji zagonskih podjetij na seji pospeševalnika",
+        "title": "Za pospeševalnike",
+        "body": "Vaši ustanovitelji predstavljajo, demonstrirajo in snemajo vsebine od prvega dne. Dajte jim mesec dnevne nege kože, ki med programom traja dve minuti na dan.",
+        "how": "Kako deluje: vsakemu ustanovitelju v vaši skupini pošljemo eno brezplačno stekleničko, z osebnim načrtom iz kviza o koži. Vi nas enkrat predstavite; za vse ostalo poskrbimo mi."
+      },
+      {
+        "alt": "Univerzitetni študenti na kampusu",
+        "title": "Za univerze",
+        "body": "Študenti podjetništva gradijo v javnosti: tekmovanja v predstavitvah, dnevi demonstracij, pogovori ustanoviteljev in prvi sestanki z vlagatelji. Brezplačen mesec Tava Labs je praktično in nepozabno darilo za študente v vašem programu.",
+        "how": "Kako deluje: zagotovimo stekleničke za vašo skupino, razred ali dogodek ter preprost letak. Brez stroškov za univerzo in brez stroškov za študente."
+      },
+      {
+        "alt": "Sestanek vlagatelja z ustanoviteljem",
+        "title": "Za angelske vlagatelje",
+        "body": "Brezplačen mesec Tava Labs je praktično darilo za ustanovitelje v vašem portfelju. Mi poskrbimo za dostavo in njihove osebne načrte.",
+        "how": "Kako deluje: povejte nam, koliko ustanoviteljev želite obdariti, in uredimo dostavo ter njihove osebne načrte. Brez stroškov za vas in brez stroškov zanje."
+      }
+    ],
+    "whyTitleLead": "Nič stroškov. Nič truda.",
+    "whyTitleAccent": "Resnična vrednost.",
+    "why": [
+      {
+        "title": "Več vrednosti od prvega dne",
+        "body": "Vaši člani dobijo pravi izdelek in osebni načrt, ne kode za popust, ki jo bodo pozabili."
+      },
+      {
+        "title": "Nič stroškov za vas",
+        "body": "Prvi mesec je na naš račun, za vsako osebo, ki jo obdarite."
+      },
+      {
+        "title": "Nič truda za vas",
+        "body": "Mi poskrbimo za dostavo, uvajanje in podporo. Vi naredite eno predstavitev."
+      },
+      {
+        "title": "Darilo, ki ga bodo dejansko uporabljali",
+        "body": "En korak, zjutraj in zvečer. Ustreza urniku ustanovitelja, ker je bilo zasnovano zanj."
+      }
+    ],
+    "formulationTitle": "Izdelano brez teh sestavin.",
+    "formulationSub": "Serum je izdelan brez sestavin, o katerih vaši člani sprašujejo najpogosteje:",
+    "stepsTitle": "Kako partnerstvo deluje",
+    "steps": [
+      {
+        "title": "Obrnite se na nas",
+        "body": "Povejte nam o svojem programu in koliko ljudi želite obdariti."
+      },
+      {
+        "title": "Mi uredimo darilo",
+        "body": "Pošljemo serum in za vsako osebo pripravimo osebni načrt iz kviza o koži."
+      },
+      {
+        "title": "Vi podarite darilo",
+        "body": "Vaši člani prejmejo brezplačen mesec seruma, z zahvalno opombo od nas v vsaki škatli."
+      }
+    ],
+    "closingTitleLead": "Dajte svojim ustanoviteljem",
+    "closingTitleAccent": "mesec brezplačno.",
+    "closingSegments": [
+      {
+        "text": "Pišite na "
+      },
+      {
+        "text": "talia@tavalabs.app",
+        "href": "mailto:talia@tavalabs.app"
+      },
+      {
+        "text": " ali pokličite "
+      },
+      {
+        "text": "909-906-1308",
+        "href": "tel:+19099061308"
+      },
+      {
+        "text": ", in uredili bomo."
+      }
+    ]
   },
   "blog": {
-   "title": "The Tava Journal | Koža, spanje in stres za ustanovitelje",
-   "description": "Znanost spanja, raziskave stresa in zdravje kože za ustanovitelje in lastnike podjetij, plus praktične rutine za spočit videz pri delu."
+    "label": "The Tava Journal",
+    "titleLead": "Raziskave o spanju in stresu",
+    "titleAccent": "za ustanovitelje",
+    "sub": "Članki o znanosti spanja, raziskavah stresa in zdravju kože za ustanovitelje in lastnike podjetij.",
+    "readStory": "Preberite zgodbo"
   },
-  "quiz": {
-   "title": "Kviz o koži | Sestavite svoj osebni načrt seruma | Tava Labs",
-   "description": "Odgovorite na nekaj kratkih vprašanj in sestavite svoj osebni načrt okoli seruma PDRN Brightening Serum. En serum, dvakrat na dan, prilagojen vaši koži in vašim ciljem."
-  },
-  "checkoutSuccess": {
-   "title": "Naročilo potrjeno | Vaš PDRN Brightening Serum | Tava Labs",
-   "description": "Vaše naročilo PDRN Brightening Serum Tava Labs je potrjeno. Vaša koda zahtevka povezuje ta nakup z aplikacijo, kjer lahko vidite svoj načrt, svoje odgovore na kviz in svoje naročilo."
-  },
-  "checkoutCancel": {
-   "title": "Blagajna preklicana | Brez bremenitve | Tava Labs",
-   "description": "Noben strošek ni bil zaračunan. Vaš načrt in odgovori Tava Labs so shranjeni, tako da lahko naročilo dokončate pozneje, ko boste pripravljeni."
-  },
-  "login": {
-   "title": "Prijava | Tava Labs",
-   "description": "Prijavite se v svoj račun Tava Labs: vaš načrt, naročila, rutina in podpora, povezani z istim e-poštnim naslovom kot mobilna aplikacija."
+  "research": {
+    "pill": "Serija raziskav 001 · Rezultati udeležencev",
+    "h1Lead": "16-tedenski pogled na izmerjene",
+    "h1Accent": "spremembe kože.",
+    "heroSub": "Prospektivni, odprti program udeležencev, ki združuje osebno rutino nege kože, dodatke in smernice za življenjski slog. Vsaka številka na tej strani prihaja iz poročila, izmerjena v izhodišču in v 16. tednu.",
+    "chips": [
+      "Prospektivno in odprto",
+      "Ena skupina",
+      "Pod zdravniškim nadzorom",
+      "Klinično raziskovalno mesto v živo"
+    ],
+    "headlineLabel": "Glavni rezultat",
+    "headlineTitle": "Skupno število aknastih lezij je padlo s 16,8 na 6,2",
+    "slopeAria": "Graf naklona, ki prikazuje skupno število aknastih lezij od 16,8 v izhodišču do 6,2 v 16. tednu",
+    "slopeBaseline": "Izhodišče 16,8",
+    "slopeWeek": "16. teden · 6,2",
+    "slopeNote": "Ravna črta le med dvema izmerjenima točkama. Poročilo ni objavilo vrednosti rezultatov za 4., 8. ali 12. teden.",
+    "badges": [
+      {
+        "big": "60 odstotkov višje",
+        "small": "Vlaženje kože, 29,4 AU do 47,1 AU"
+      },
+      {
+        "big": "52 odstotkov nižje",
+        "small": "Ocena klinične teksture, 2,7 od 4 do 1,3 od 4"
+      }
+    ],
+    "statsLabels": [
+      "Tedni v programu",
+      "Vključeni odrasli",
+      "Ljudje, ki so opravili vse obiske",
+      "Stopnja dokončanja"
+    ],
+    "percentWord": "odstotkov",
+    "resultsBg": "Rezultati",
+    "resultsLabel": "Povprečna sprememba · Izhodišče do 16. tedna",
+    "resultsTitle": "Kaj se je spremenilo, v preprostih številkah.",
+    "resultsSub": "Rezultati za 84 udeležencev, ki so opravili vse obiske. Vsaka kartica primerja dve časovni točki, ki ju je študija dejansko izmerila.",
+    "baseline": "Izhodišče",
+    "week16": "16. teden",
+    "slopeFoot": "Izhodišče do 16. tedna",
+    "results": [
+      {
+        "title": "Skupno število aknastih lezij",
+        "change": "63 odstotkov manj",
+        "note": "Lezije, ki jih je preštel dermatolog"
+      },
+      {
+        "title": "Vlaženje kože",
+        "change": "60 odstotkov višje",
+        "note": "Meritev s korneometrom v AU"
+      },
+      {
+        "title": "Indeks eritema in rdečice",
+        "change": "30 odstotkov manj",
+        "note": "Indeks kromametra"
+      },
+      {
+        "title": "Indeks melanina in pigmentacije",
+        "change": "25 odstotkov manj",
+        "note": "Indeks kromametra"
+      },
+      {
+        "title": "Ocena klinične teksture",
+        "change": "52 odstotkov nižje",
+        "note": "Ocenjeno na lestvici od 0 do 4"
+      }
+    ],
+    "peopleBg": "Ljudje",
+    "participantsLabel": "Kdo je sodeloval",
+    "participantsTitle": "Kdo je sodeloval v programu.",
+    "participantsSub": "Pet obiskov skozi program, od izhodišča do 16. tedna.",
+    "ageLabel": "Povprečna starost",
+    "ageSuffix": "Let starosti · Razpon 20 do 48",
+    "visitTimeline": "Časovnica obiskov",
+    "visits": [
+      {
+        "name": "Izhodišče",
+        "desc": "Pregled, meritve in fotografiranje"
+      },
+      {
+        "name": "4. teden",
+        "desc": "Nadaljnja ocena"
+      },
+      {
+        "name": "8. teden",
+        "desc": "Nadaljnja ocena"
+      },
+      {
+        "name": "12. teden",
+        "desc": "Nadaljnja ocena"
+      },
+      {
+        "name": "16. teden",
+        "desc": "Končne meritve in fotografiranje"
+      }
+    ],
+    "genderTitle": "Razdelitev po spolu",
+    "genderAria": "Krožni graf razdelitve po spolu, 74 odstotkov žensk, 24 odstotkov moških, 2 odstotka nebinarnih",
+    "gender": [
+      {
+        "label": "Ženske",
+        "pct": "74 odstotkov"
+      },
+      {
+        "label": "Moški",
+        "pct": "24 odstotkov"
+      },
+      {
+        "label": "Nebinarni",
+        "pct": "2 odstotka"
+      }
+    ],
+    "donutNote": "Krožni graf se animira do poročane razdelitve, ko pride v vidno polje.",
+    "concernsTitle": "Izhodiščne težave kože",
+    "concerns": [
+      "Postinflamatorna hiperpigmentacija",
+      "Neenakomerna tekstura in hrapavost",
+      "Vnetne akne",
+      "Rdečica obraza in občutljivost",
+      "Temni kolobarji pod očmi",
+      "Suhost in oslabljena pregrada",
+      "Drobne gubice in zgodnje fotostaranje"
+    ],
+    "concernsNote": "Udeleženci so lahko navedli več kot eno težavo, zato se ti deleži ne seštejejo v 100 odstotkov.",
+    "programBg": "Program",
+    "programLabel": "Program in protokol",
+    "programTitle": "16-tedenski program, korak za korakom.",
+    "programSub": "Udeleženci so prejeli osebni pregled, izdajo izdelkov, usposabljanje za nanos in nadaljnje ocene na kliničnem raziskovalnem mestu.",
+    "morningTag": "Jutranja rutina",
+    "morningTitle": "Začnite dan",
+    "amSteps": [
+      "Nežno čistilo",
+      "Serum z vitaminom C, 15 odstotkov",
+      "Ceramidna vlažilna krema",
+      "Mineralna zaščita pred soncem, SPF 50"
+    ],
+    "eveningTag": "Večerna rutina",
+    "eveningTitle": "Zaključite dan",
+    "pmSteps": [
+      "Nežno čistilo",
+      "Serum z niacinamidom 5 odstotkov in cinkom",
+      "Peptidna krema za pregrado",
+      "Retinol 0,3 odstotka, uveden v 2. tednu in titriran pod vodstvom klinika"
+    ],
+    "routineNote": "Retinol se je uporabljal 3 do 5 noči na teden po začetnem dvotedenskem obdobju uvajanja. Po potrebi se je za aktivne lezije uporabljala 2-odstotna salicilna kislina.",
+    "supplementLabel": "Rutina dodatkov",
+    "supplementTitle": "Tava Skin Complex",
+    "supplementSub": "Dve kapsuli na dan z zajtrkom. Količine so navedene na porcijo dveh kapsul.",
+    "supplements": [
+      "Vitamin C",
+      "Cink",
+      "Niacinamide",
+      "Astaxanthin",
+      "Curcumin phytosome",
+      "Mešanica probiotikov Lactobacillus"
+    ],
+    "supplementNote": "Izbirni dodatek, Omega 3, ena mehka kapsula na dan.",
+    "nutritionTitle": "Smernice za prehrano",
+    "nutritionItems": [
+      "Vsaj 2,5 L vode na dan",
+      "Zelenjava, jagodičevje in živila, bogata z omega 3",
+      "Omejite dodani sladkor in živila z visokim glikemičnim indeksom",
+      "Izbirna dvotedenska ponastavitev z malo mlečnih izdelkov in malo sladkorja",
+      "Izhodiščno svetovanje z registriranim dietetikom"
+    ],
+    "lifestyleTitle": "Cilji življenjskega sloga",
+    "lifestyleItems": [
+      "7 do 9 ur spanja",
+      "Vsaj 150 minut zmerne aktivnosti na teden",
+      "Petminutna dnevna dihalna vaja",
+      "Spanje, beleženo tedensko",
+      "Navade vlaženja in zaščite pred soncem, pregledane ob obiskih"
+    ],
+    "adherenceLabel": "Spremljanje programa",
+    "adherenceTitle": "Kako natančno so ljudje ostali pri načrtu.",
+    "adherenceSub": "Upoštevanje skozi celih 16 tednov, kot je zabeleženo v poročilu.",
+    "adherence": [
+      "Splošno upoštevanje",
+      "Upoštevanje dodatkov",
+      "Upoštevanje lokalne nege"
+    ],
+    "adherenceAria": "{label}, {val} odstotkov",
+    "adherenceFoot": "Skozi 16-tedenski program",
+    "safetyBg": "Varnost",
+    "safetyLabel": "Poročani neželeni učinki",
+    "safetyTitle": "Kaj so udeleženci poročali.",
+    "safetySub": "Deleži udeležencev, ki so med programom poročali o posameznem učinku.",
+    "sideEffectsTitle": "Neželeni učinki",
+    "sideEffects": [
+      "Blaga suhost ali luščenje",
+      "Začasen izbruh aken",
+      "Blago prebavno nelagodje"
+    ],
+    "withdrawalsTitle": "Umiki",
+    "withdrawalsSub": "8 udeležencev se je umaknilo od 92 vključenih.",
+    "withdrawals": [
+      {
+        "label": "Konflikti urnika",
+        "value": "5 ljudi"
+      },
+      {
+        "label": "Blagi neželeni učinki",
+        "value": "2 osebi"
+      },
+      {
+        "label": "Izgubljeni za spremljanje",
+        "value": "1 oseba"
+      }
+    ],
+    "alertTitle": "Ni poročil o resnih neželenih dogodkih.",
+    "alertBody": "Ta vrstica je v poročilu navedena ob blagih učinkih, navedenih na tej strani. Tukaj je vključena točno tako, kot je bila poročana.",
+    "photoLabel": "Vizualna dokumentacija",
+    "photoTitle": "Primerjave fotografij udeležencev.",
+    "photoSub": "Fotografije ena ob drugi iz štirimesečnega programa. Leva slika v vsakem paru je prikazovala izhodišče, desna pa 16. teden. Na tej strani ni reproduciranih nobenih fotografij udeležencev.",
+    "participant": "Udeleženec {initial}",
+    "docViews": [
+      "Pogled s stranskega profila",
+      "Pogled od spredaj",
+      "Pogled od spredaj z očali",
+      "Pogled ličnice od blizu"
+    ],
+    "baselineAndWeek": "Izhodišče in 16. teden",
+    "photoProtocolTitle": "Protokol fotografiranja",
+    "photoProtocol": "Standardiziran posnetek v izhodišču in ob spremljanju z fiksno nastavitvijo kamere, dosledno vidno in navzkrižno polarizirano svetlobo, koti od spredaj, 45 stopinj in profil ter barvno umerjeno ozadje.",
+    "methodsLabel": "Kako so bile meritve opravljene",
+    "methodsTitle": "Klinične meritve",
+    "methods": [
+      "Aknaste lezije, ki jih je preštel dermatolog",
+      "Vlaženje s korneometrom",
+      "Indeksi rdečice in melanina s kromametrom",
+      "Ocenjevanje teksture na lestvici od 0 do 4",
+      "Standardizirana fotografija"
+    ],
+    "factsLabel": "Zasnova študije",
+    "factsTitle": "Zasnova na prvi pogled.",
+    "facts": [
+      {
+        "k": "Zasnova",
+        "v": "Prospektivna, odprta, ena skupina"
+      },
+      {
+        "k": "Okolje",
+        "v": "V živo, pod zdravniškim nadzorom"
+      },
+      {
+        "k": "Ocene",
+        "v": "Izhodišče ter 4., 8., 12. in 16. teden"
+      },
+      {
+        "k": "Dokončano",
+        "v": "84 od 92 vključenih · 91 odstotkov"
+      }
+    ],
+    "source": "Vir, Tava Labs Participant Outcomes, Research Series 001, 16-tedenski program udeležencev. Ta stran predstavlja le številke iz poročila, z izhodiščem in 16. tednom kot dvema izmerjenima točkama rezultatov."
   },
   "account": {
-   "title": "Vaš račun | Tava Labs",
-   "description": "Vaš račun Tava Labs v spletu: vaš načrt, naročila, rutina in podpora, povezani z istim e-poštnim naslovom kot mobilna aplikacija."
-  },
-  "terms": {
-   "title": "Pogoji poslovanja | Tava Labs",
-   "description": "Pogoji, ki urejajo vašo uporabo spletnega mesta tavalabs.app in vaš nakup seruma PDRN Brightening Serum pri podjetju Tava Labs, LLC, vključno z našo politiko, da so vse prodaje dokončne."
-  },
-  "privacy": {
-   "title": "Politika zasebnosti | Tava Labs",
-   "description": "Kako Tava Labs zbira, uporablja in varuje vaše podatke, ko obiščete tavalabs.app, rešite kviz o koži ali naročite PDRN Brightening Serum."
-  },
-  "returns": {
-   "title": "Politika vračil in povračil | Tava Labs",
-   "description": "Politika vračil in povračil podjetja Tava Labs za naročila seruma PDRN Brightening Serum, vključno z našimi pogoji, da so vse prodaje dokončne, in kako doseči podporo."
-  },
-  "cookies": {
-   "title": "Politika piškotkov | Tava Labs",
-   "description": "Kako spletno mesto Tava Labs uporablja piškotke in podobna orodja, ko obiščete tavalabs.app, kaj shranjujejo in kako jih lahko nadzirate."
-  },
-  "shipping": {
-   "title": "Politika dostave | Tava Labs",
-   "description": "Politika dostave podjetja Tava Labs za naročila seruma PDRN Brightening Serum: časi obdelave, ocene dostave, sledenje in območja dostave."
-  }
- },
- "chrome": {
-  "homeAria": "Domov Tava Labs",
-  "primaryNavAria": "Glavna",
-  "mobileNavAria": "Mobilna",
-  "navSerum": "Serum",
-  "navAbout": "O nas",
-  "navIngredients": "Sestavine",
-  "navFaqs": "Pogosta vprašanja",
-  "navBlog": "Blog",
-  "navContact": "Kontakt",
-  "login": "Prijava",
-  "addToRoutine": "Dodaj v rutino",
-  "openMenu": "Odpri meni",
-  "closeMenu": "Zapri meni",
-  "language": "Jezik",
-  "tagline": "PDRN Brightening Serum za ustanovitelje",
-  "shopHeading": "Trgovina",
-  "contactHeading": "Pišite nam",
-  "infoHeading": "Informacije",
-  "legalHeading": "Pravno",
-  "footerSerum": "PDRN Brightening Serum",
-  "footerIngredients": "Sestavine",
-  "contactLinks": {
-   "general": "Splošno",
-   "wholesale": "Veleprodaja",
-   "salesSupport": "Podpora prodaji",
-   "productSupport": "Podpora za izdelke",
-   "pr": "Odnosi z javnostmi"
-  },
-  "contactEmails": {
-   "supportLabel": "Naročila in pomoč pri izdelkih",
-   "generalLabel": "Splošni stik"
-  },
-  "infoLinks": {
-   "about": "O nas",
-   "partners": "Partnerji",
-   "ingredients": "Sestavine",
-   "faqs": "Pogosta vprašanja",
-   "blog": "Blog",
-   "research": "Raziskave"
-  },
-  "newsletterHeading": "Prejemajte novosti Tava Labs po e-pošti",
-  "newsletter": {
-   "placeholder": "Vaš e-poštni naslov",
-   "subscribe": "Naročite se",
-   "sending": "Pošiljanje ...",
-   "done": "Naročeni ste. Hvala.",
-   "error": "Nekaj je šlo narobe, poskusite znova."
-  },
-  "disclaimer1": "PDRN Brightening Serum je kozmetični izdelek. Ni namenjen diagnosticiranju, zdravljenju, ozdravitvi ali preprečevanju katere koli bolezni. Posamezni rezultati se lahko razlikujejo.",
-  "disclaimer2": "Vse prodaje so dokončne. Pred naročilom si oglejte našo politiko vračil.",
-  "copyright": "© 2026 Tava Labs · PDRN Brightening Serum za ustanovitelje",
-  "notFoundLabel": "Tava Labs",
-  "notFoundTitle": "Stran ni najdena",
-  "notFoundBody": "Te strani tukaj ni. Morda se je preselila ali pa je naslov nepopoln.",
-  "notFoundHome": "Nazaj na domačo stran",
-  "notFoundShop": "Kupite PDRN Brightening Serum",
-  "legalLinks": {
-   "terms": "Pogoji poslovanja",
-   "privacy": "Politika zasebnosti",
-   "returns": "Politika vračil",
-   "cookies": "Politika piškotkov",
-   "shipping": "Politika dostave"
-  }
- },
- "hero": {
-  "ariaLabel": "PDRN Brightening Serum",
-  "pill": "Za ustanovitelje in lastnike podjetij",
-  "line1": "Dnevni serum za obraz za",
-  "line2": "svetlejša, bolj gladka koža.",
-  "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Nanesite dve do štiri kapljice zjutraj in zvečer. $49 enkratno ali $39 na mesec.",
-  "cardAria": "PDRN Brightening Serum, stran izdelka",
-  "onSetPill": "Pred kamero",
-  "onSetCaption": "Za snemanje in videoklice",
-  "onSetAlt": "Ustanovitelj sedi na studijskem prizorišču in gleda v kamero",
-  "morningPill": "Jutranja rutina",
-  "morningCaption": "Vsako jutro nanesite pred ogledalom",
-  "morningAlt": "Ustanovitelj si v jutranji svetlobi pred kopalniškim ogledalom nanaša serum",
-  "widePill": "Dan in noč",
-  "wideHead": "Ena steklenička, ki se uporablja zjutraj in zvečer.",
-  "priceLine": "$49 enkratno ali $39 na mesec",
-  "talia": {
-   "baseline": "Izhodišče",
-   "week16": "16. teden",
-   "statBig": "63 % manj",
-   "statCap": "Aknaste lezije",
-   "statNote": "Povprečna sprememba v 16-tedenskem programu udeležencev",
-   "alt": "Talia Kade, raziskovalka pri Tava Labs, v belem laboratorijskem plašču",
-   "slopeAria": "Črta trenda od 16,8 v izhodišču do 6,2 v 16. tednu"
-  }
- },
- "home": {
-  "introTitleLead": "Svetlejša, navlažena,",
-  "introTitleAccent": "zdravo videti koža",
-  "introBody": "Ustanovitelji in lastniki podjetij dneve preživijo na srečanjih, prodajnih klicih in v posnetih videih. Vaš obraz je na zaslonu in v sobi pri vsem tem. PDRN Brightening Serum je en lahek korak s PDRN, peptidi in hialuronsko kislino. Hitro se vpije in pomaga koži videti svetlejšo, navlaženo in gladko. Dve minuti, dvakrat na dan.",
-  "marqueeTagline": "En serum, zjutraj in zvečer",
-  "marqueeSlogan": "Izdelano za ustanovitelje in lastnike podjetij",
-  "buildersTitle": "Izdelano za ustanovitelje in lastnike podjetij",
-  "buildersTagline": "Gradite svoje podjetje. Ne zanemarjajte sebe.",
-  "buildersBody": "Ustanovitelji in lastniki podjetij se predstavljajo ves dan. Vlagateljem predstavljate osebno, prodajate na videoklicih in snemate videe za stranke. Videti čist in spočit je del dobrega predstavljanja vašega podjetja. Kratka dnevna rutina nege kože sedi ob dobri garderobi in zanesljivem prenosniku kot osnovno vzdrževanje. PDRN Brightening Serum traja dve minuti, zjutraj in zvečer.",
-  "pitchAlt": "Ustanovitelj vlagatelju predstavlja svojo idejo",
-  "pitchTitle": "Med predstavitvijo",
-  "pitchBody": "Ko vlagateljem predstavljate osebno, vidijo vas, preden vidijo vaše diapozitive. Dnevna rutina s serumom pomaga vaši koži tisti dan videti svetlo, navlaženo in spočito.",
-  "cameraAlt": "Ustanovitelj govori pred kamero",
-  "cameraTitle": "Pred kamero",
-  "cameraBody": "Pri snemanju videa, podcastu ali prodajnem klicu kamera od blizu pokaže utrujeno kožo. Dvominutna rutina zjutraj in zvečer pomaga vaši koži videti spočito pred snemanjem.",
-  "maintenanceTitle": "En serum je celotna rutina.",
-  "maintenanceBody": "Nanesite dve do štiri kapljice PDRN Brightening Serum na čisto, suho kožo, zjutraj in zvečer, nato nadaljujte z vlažilno kremo. Celotna rutina traja približno dve minuti na dan.",
-  "motionTitle": "Oglejte si videe strank",
-  "motionBody": "Ustanovitelji in ustvarjalci, ki uporabljajo PDRN Brightening Serum, posneti na videu.",
-  "playVideo": "Predvajaj video",
-  "videoPlayer": "Predvajalnik videa",
-  "closeVideo": "Zapri video",
-  "freeFromTitleLead": "Kaj ni",
-  "freeFromTitleAccent": "v formuli.",
-  "freeFromSub": "Kar izpuščamo, je enako pomembno kot to, kar vključimo.",
-  "freeFromItems": [
-   {
-    "name": "Brez testiranja na živalih",
-    "blurb": "Nikoli testirano na živalih."
-   },
-   {
-    "name": "Brez dišav",
-    "blurb": "Brez dodanih parfumov ali sintetičnih vonjav."
-   },
-   {
-    "name": "Brez mineralnega olja",
-    "blurb": "Brez mineralnega olja ali naftnih polnil."
-   },
-   {
-    "name": "Brez ftalatov",
-    "blurb": "Brez ftalatov v formuli."
-   },
-   {
-    "name": "Brez silikonov",
-    "blurb": "Brez silikonov, ki bi prekrivali vašo kožo."
-   },
-   {
-    "name": "Brez sulfatov",
-    "blurb": "Brez grobih sulfatov. Nežno do kože."
-   },
-   {
-    "name": "Brez alergenov",
-    "blurb": "Izdelano brez pogostih alergenov."
-   },
-   {
-    "name": "Brez alkohola",
-    "blurb": "Brez alkoholov, ki izsušujejo."
-   }
-  ],
-  "founderLabel": "Sporočilo našega ustanovitelja",
-  "founderQuote": "„En serum, dve minuti, zjutraj in zvečer. To je celotna rutina.“",
-  "founderBody1": "To je ideja za Tava Labs. PDRN Brightening Serum je en korak, okoli katerega je rutina zgrajena: dve minuti, dvakrat na dan, zjutraj in zvečer.",
-  "founderBody2": "Oglejte si video in poslušajte, zakaj smo ga izdelali, z našimi lastnimi besedami.",
-  "founderPhilosophy": "Filozofija Tava Labs",
-  "founderVideoAria": "Video Tava Labs, zakaj smo izdelali PDRN Brightening Serum",
-  "shopSerum": "Kupite serum",
-  "journalTitle": "The Tava Journal",
-  "journalSub": "Članki o spanju, stresu in koži za ustanovitelje.",
-  "readJournal": "Preberite Journal",
-  "readStory": "Preberite zgodbo"
- },
- "appTeaser": {
-  "label": "Kmalu na voljo",
-  "lead": "Vaša rutina, vaši laboratorijski izvidi in vaša naročila, vse v aplikaciji Tava Labs.",
-  "headlineLead": "Vaš serum, laboratorijski izvidi in naročila",
-  "headlineTrail": "v eni aplikaciji.",
-  "scroll": "Pomaknite se",
-  "caption": "Aplikacija Tava Labs na eno mesto združuje vaš načrt seruma, vašo dnevno rutino, vaše laboratorijske panele in izvide ter vaša naročila, narejena za iPhone.",
-  "features": [
-   {
-    "title": "Dnevna rutina",
-    "desc": "Jutranje in večerne seje, odkljukane korak za korakom."
-   },
-   {
-    "title": "Nizi in napredek",
-    "desc": "Vaš trenutni niz in dnevi, ki so ostali v vašem načrtu."
-   },
-   {
-    "title": "Laboratorijski paneli in izvidi",
-    "desc": "Paneli, izvidi in razponi v vašem žepu."
-   },
-   {
-    "title": "Naročila in obnove zalog",
-    "desc": "Svoja naročila in datume dopolnitve vidite na enem mestu."
-   }
-  ],
-  "phone": {
-   "today": "Danes",
-   "goodMorning": "Dobro jutro",
-   "dayLine": "12. dan od 30 · še 18 dni do vašega prvega polnega meseca",
-   "stepsToGo": "Danes: še 4 od 6 korakov rutine",
-   "morningRoutine": "Jutranja rutina",
-   "amDrops": "Dopoldne · 3 kapljice",
-   "clinicalReview": "Klinični pregled",
-   "resultsIn": "Vaši izvidi so prispeli",
-   "optimal": "4 optimalni",
-   "inRange": "2 v razponu",
-   "toReview": "1 za pregled",
-   "tabs": {
-    "today": "Danes",
-    "shop": "Trgovina",
-    "lab": "Laboratorij",
-    "orders": "Naročila",
-    "profile": "Profil"
-   },
-   "steps": [
-    {
-     "title": "Očistite",
-     "detail": "Nežno čistilo, popivnajte do suhega"
+    "signedInAs": "Prijavljeni ste kot",
+    "signOut": "Odjava",
+    "loading": "Nalaganje vašega računa …",
+    "failedTitle": "Vašega računa nismo mogli naložiti",
+    "failedSegments": [
+      {
+        "text": "Preverite povezavo in poskusite znova. Če se to ponavlja, pišite na "
+      },
+      {
+        "text": "support@tavalabs.app",
+        "href": "mailto:support@tavalabs.app"
+      },
+      {
+        "text": " in uredili bomo."
+      }
+    ],
+    "tryAgain": "Poskusite znova",
+    "tabs": {
+      "today": "Danes",
+      "orders": "Naročila",
+      "shop": "Trgovina",
+      "lab": "Laboratorij",
+      "support": "Podpora"
     },
-    {
-     "title": "Nanesite 3 kapljice seruma",
-     "detail": "Vtiskajte v obraz in vrat"
+    "greetings": {
+      "morning": "Dobro jutro",
+      "afternoon": "Dober dan",
+      "evening": "Dober večer"
     },
-    {
-     "title": "Navlažite + zaščita pred soncem",
-     "detail": "SPF 30 ali višji"
-    }
-   ]
-  }
- },
- "categoryChrome": {
-  "readMore": "Preberite več +",
-  "showLess": "Pokaži manj −",
-  "prevProducts": "Prejšnji izdelki",
-  "nextProducts": "Naslednji izdelki",
-  "goTo": "Pojdi na {title}",
-  "explore": "Raziščite"
- },
- "categories": {
-  "skincare": {
-   "eyebrow": "NEGA KOŽE",
-   "heroTitleLead": "Vaš naslednji sestanek",
-   "heroTitleAccent": "se začne pri vas.",
-   "heroCopy": "Izdelano za podjetnike, ki predstavljajo, prodajajo in snemajo pred kamero. En dnevni serum, zgrajen okoli PDRN, za kožo, ki izgleda svetla in spočita v sobi in pred kamero.",
-   "heroFinePrint": "Kozmetična nega kože. Ni namenjena diagnosticiranju, zdravljenju, ozdravitvi ali preprečevanju katere koli bolezni.",
-   "stamp": "NEGA KOŽE ZA USTANOVITELJE",
-   "primaryCta": "Dodaj v rutino",
-   "secondaryCta": "Oglejte si sestavine",
-   "optionsEyebrow": "PONUDBA",
-   "optionsTitleLead": "En serum.",
-   "optionsTitleAccent": "Brez police ugibanja.",
-   "optionsCopy": "Začnite s serumom. Preostala linija je na poti.",
-   "products": [
-    {
-     "title": "PDRN Brightening Serum",
-     "subtitle": "PDRN, peptidi in natrijev hialuronat",
-     "unit": "enkratno",
-     "imageAlt": "Steklenička seruma PDRN Brightening Serum podjetja Tava Labs",
-     "badges": [
-      "Najbolje prodajano"
-     ],
-     "description": "Dnevni serum za svetlejšo, navlaženo in zdravo kožo na videz. $39 na mesec pri Subscribe and Save.",
-     "linkLabel": "Oglejte si serum"
+    "weekInitials": [
+      "S",
+      "P",
+      "T",
+      "S",
+      "T",
+      "Č",
+      "S"
+    ],
+    "streakLine": "P",
+    "dayLine": "{streak} dni zapored · Dan {day} od 30{bottle}",
+    "bottleSuffix": "Dan {day} od 30{bottle}. Danes v aplikaciji opravite rutino in začnite svoj niz.",
+    "progressLine": " · še {days} dni v steklenički",
+    "stepsToGo": "Dan {day} od 30 · še {left} dni do vašega prvega polnega meseca",
+    "todayComplete": "Danes: še {n} od {total} korakov rutine.",
+    "planEyebrow": "Danes je opravljeno. Vaš naslednji dan je že na vrsti.",
+    "planDefault": "Vaš načrt",
+    "retakeQuiz": "Rešite kviz o koži in vaš osebni načrt, sestavljen iz vaših odgovorov, bo živel tukaj in v aplikaciji.",
+    "takeQuiz": "Ponovno rešite kviz o koži",
+    "chipLabels": {
+      "goal": "Rešite kviz o koži",
+      "skinType": "Cilj",
+      "concern": "Tip kože",
+      "routine": "Težava",
+      "plan": "Načrt",
+      "routineTimes": "Rutina"
     },
-    {
-     "title": "Peptide Moisturizer",
-     "subtitle": "1,7 fl oz (50 ml)",
-     "imageAlt": "Bela tuba vlažilne kreme Peptide Moisturizer podjetja Tava Labs z rožnatim brizgom",
-     "badges": [
-      "Kmalu na voljo"
-     ],
-     "description": "Peptidna vlažilna krema, ki cilja na gube in vlaži, narejena za kožo, ki mora biti ves dan videti zbrana."
+    "labelMaps": {
+      "goal": {
+        "radiance": "Časi rutine",
+        "fine_lines": "Sijaj",
+        "hydration": "Drobne gubice",
+        "even_tone": "Vlaženje"
+      },
+      "skinType": {
+        "dry": "Enakomeren ton",
+        "oily": "Suha",
+        "combination": "Mastna",
+        "sensitive": "Mešana",
+        "not_sure": "Občutljiva"
+      },
+      "concern": {
+        "dullness": "Nisem prepričan",
+        "fine_lines": "Sijaj",
+        "uneven_tone": "Pustost",
+        "texture": "Neenakomeren ton",
+        "dryness": "Tekstura"
+      },
+      "sensitivity": {
+        "often": "Suhost",
+        "sometimes": "Pogosto občutljiva",
+        "never": "Včasih občutljiva"
+      },
+      "routine": {
+        "cleanser_only": "Redko občutljiva",
+        "few_products": "Samo čistilo",
+        "full_routine": "Nekaj izdelkov"
+      },
+      "ramp": {
+        "gentle": "Popolna rutina",
+        "standard": "Nežno uvajanje",
+        "full": "Standardno uvajanje"
+      }
     },
-    {
-     "title": "Peptide Eye Cream",
-     "subtitle": "1 fl oz (30 ml)",
-     "imageAlt": "Bela tuba kreme za oči Peptide Eye Cream podjetja Tava Labs s kapljico barve šampanjca",
-     "badges": [
-      "Kmalu na voljo"
-     ],
-     "description": "Zmanjšuje videz zabuhlosti okoli oči in cilja na gube na predelu oči, za spočit videz pred kamero."
+    "morningEyebrow": "Jutranja rutina",
+    "nightEyebrow": "Polna moč",
+    "amTitle": "Dopoldne · 3 kapljice",
+    "pmTitle": "Nočna rutina",
+    "amSteps": [
+      {
+        "title": "Očistite",
+        "detail": "Nežno čistilo, popivnajte do suhega"
+      },
+      {
+        "title": "Nanesite 3 kapljice seruma",
+        "detail": "Vtiskajte v obraz in vrat"
+      },
+      {
+        "title": "Navlažite + zaščita pred soncem",
+        "detail": "SPF 30 ali višji"
+      }
+    ],
+    "pmSteps": [
+      {
+        "title": "Zvečer · 3 kapljice",
+        "detail": "Dvojno čiščenje"
+      },
+      {
+        "title": "Nanesite 3 kapljice seruma",
+        "detail": "Odstranite SPF in ličila"
+      },
+      {
+        "title": "Pred retinolom ali negami",
+        "detail": "Nočna vlažilna krema"
+      }
+    ],
+    "stepsNote": "Zapečatite vlaženje",
+    "ordersEyebrow": "Naročila",
+    "ordersTitle": "Korake odkljukate v mobilni aplikaciji. Ta stran prikazuje današnjo rutino in to, kar je aplikacija danes do zdaj zabeležila.",
+    "ordersEmpty": "Vaša naročila",
+    "paid": "Še ni naročil. Ko boste kupili, se bodo vaša naročila in sledenje prikazali tukaj in v aplikaciji.",
+    "paymentFailed": "Plačano",
+    "unpaid": "Plačilo ni uspelo",
+    "statusLabels": [
+      "Neplačano",
+      "Naročeno",
+      "Odposlano",
+      "Dostavljeno"
+    ],
+    "subscription": "Naročnina",
+    "carrierFallback": "Prevoznik",
+    "trackPackage": "Sledite paketu",
+    "claimEyebrow": "Koda za prevzem",
+    "claimTitle": "Povezava nakupa z aplikacijo",
+    "claimForOrder": "Vaša koda za prevzem za naročilo {order}",
+    "claimYourCode": "Vaša koda za prevzem",
+    "claimValidUntil": " (velja do {date})",
+    "claimEnter": ". Vnesite jo v aplikaciji Tava pod Naročila, da povežete ta nakup z vašim računom v aplikaciji:",
+    "claimWebNote": "Tukaj v spletu kode ne potrebujete. Prijava z vašim e-poštnim naslovom z blagajne že prikazuje vaša naročila in načrt zgoraj.",
+    "claimEmpty": "Ste kupili prek kviza ali tega mesta? Vaše potrditveno e-poštno sporočilo in stran takoj po blagajni sta prikazala kodo za prevzem. Odprite mobilno aplikacijo Tava, se prijavite in vnesite kodo v zavihku Naročila. Vaš nakup, načrt in odgovori na kviz se preselijo v vaš račun v aplikaciji. Tukaj v spletu prijava z istim e-poštnim naslovom, ki ste ga uporabili na blagajni, že prikazuje vse zgoraj. Nič drugega ni treba vnesti.",
+    "shop": {
+      "eyebrow": "PDRN Brightening Serum",
+      "title": "Nakupujte Tava Labs",
+      "body": "1 fl oz (30 ml). Zmanjšajte drobne gubice, globoko vlažite, povrnite sijaj in okrepite kožo. 2 do 4 pritiski, zjutraj in zvečer.",
+      "subscribeLine": "Naročite se, $39 na mesec.",
+      "subscribeRest": " Vsak mesec sveža steklenička, samodejno.",
+      "oneTimeLine": "Enkratno, $49.",
+      "oneTimeRest": " Ena steklenička.",
+      "subscribeBtn": "Naročite se, $39 na mesec",
+      "buyOnceBtn": "Kupite enkrat, $49",
+      "stripeNote": "Varna blagajna Stripe. Plačilo boste potrdili na strani Stripe."
     },
-    {
-     "title": "Skin Firming Cream",
-     "subtitle": "2 oz (56 g)",
-     "imageAlt": "Bel kozarček kreme Skin Firming Cream podjetja Tava Labs z zlatim valom v ozadju",
-     "badges": [
-      "Kmalu na voljo"
-     ],
-     "description": "Hialuronska kislina in CoQ10 v bogati kremi, po kateri je koža videti čvrsta in negovana."
-    }
-   ],
-   "disclaimerLead": "Izdelki za nego kože Tava Labs so kozmetika. Niso namenjeni diagnosticiranju, zdravljenju, ozdravitvi ali preprečevanju katere koli bolezni.",
-   "disclaimerMore": [
-    "Posamezni rezultati se razlikujejo. Uporabljajte le po navodilih: 2 do 4 kapljice seruma PDRN Brightening Serum, dvakrat na dan, na čisto kožo.",
-    "Če pride do draženja, prenehajte z uporabo in se posvetujte s strokovnjakom. Cene na tej strani so bile točne ob objavi in se lahko spremenijo."
-   ],
-   "protocolEyebrow": "RUTINA",
-   "protocolTitleLead": "Dve minuti, dvakrat na dan.",
-   "protocolTitleAccent": "To je celotna rutina.",
-   "protocolCopy": "Rutina, zgrajena okoli enega seruma in urnika podjetnika, zgodnjih klicev, poznih noči in vsega vmes.",
-   "protocolCta": "Dodaj v rutino",
-   "steps": [
-    {
-     "title": "Ocenite",
-     "lead": "s kvizom o koži",
-     "body": "Odgovorite na nekaj kratkih vprašanj o svoji koži, spanju in urniku, da se vaš načrt začne tam, kjer dejansko ste."
+    "labTab": {
+      "eyebrow": "Laboratorij",
+      "title": "Spoznajte svoje številke.",
+      "sub": "Pravi krvni paneli, naročeni pod vašim računom Tava. Prebrskajte panele, oglejte si vsak označevalec pred naročilom in prejmite izvide, dostavljene kar sem."
     },
-    {
-     "title": "Nanesite",
-     "lead": "2 do 4 kapljice, dvakrat na dan",
-     "body": "Zjutraj in zvečer, na čisto kožo. En serum, en korak, brez rutine v desetih korakih."
-    },
-    {
-     "title": "Spremljajte",
-     "lead": "svoj načrt v aplikaciji",
-     "body": "Vaš nakup se z aplikacijo Tava poveže s kodo za prevzem, kjer vaš načrt, naročila in rutina ostanejo na enem mestu."
-    }
-   ],
-   "legalLines": [
-    "Samo kozmetični izdelki. Nič na tej strani ni zdravniški nasvet."
-   ]
-  },
-  "biomarkers": {
-   "eyebrow": "LABORATORIJSKI BIOMARKERJI",
-   "heroTitleLead": "Spoznajte svoje podatke,",
-   "heroTitleAccent": "na Tavi.",
-   "heroCopy": "Svoje podjetje vodite s številkami. Kmalu boste lahko isto disciplino uporabili zase: svoje ključne biomarkerje, spremljane skozi čas, v aplikaciji Tava.",
-   "heroFinePrint": "Kmalu na voljo v aplikaciji Tava. Vpogledi so zgolj informativni in ne diagnosticirajo nobenega stanja.",
-   "stamp": "VAŠI PODATKI NA ENEM MESTU",
-   "primaryCta": "Oglejte si, kaj se spremlja",
-   "secondaryCta": "Kako bo delovalo",
-   "optionsEyebrow": "KAJ SE SPREMLJA",
-   "optionsTitleLead": "Šest področij.",
-   "optionsTitleAccent": "Ena jasna slika.",
-   "optionsCopy": "Področja biomarkerjev v predogledu aplikacije Tava, ki nastaja zdaj.",
-   "products": [
-    {
-     "title": "Možgani",
-     "subtitle": "Osredotočenost in jasnost",
-     "badges": [
-      "Kmalu na voljo"
-     ],
-     "description": "Označevalci, ki stojijo za osredotočenostjo, jasnostjo in kognitivnim tempom, zbrani v enem pogledu."
-    },
-    {
-     "title": "Hormoni",
-     "subtitle": "Ravnotežje",
-     "badges": [
-      "Kmalu na voljo"
-     ],
-     "description": "Vaša slika hormonov skozi čas, da so spremembe vidne, namesto da o njih ugibate."
-    },
-    {
-     "title": "Srce",
-     "subtitle": "Kardiovaskularni označevalci",
-     "badges": [
-      "Kmalu na voljo"
-     ],
-     "description": "Označevalci srca, ki so pomembni, spremljani kot trend in ne kot enkratno merjenje."
-    },
-    {
-     "title": "Presnova",
-     "subtitle": "Energija in poraba",
-     "badges": [
-      "Kmalu na voljo"
-     ],
-     "description": "Kako vaše telo uporablja energijo, v številkah, ki jim dejansko lahko sledite."
-    },
-    {
-     "title": "Črevesje",
-     "subtitle": "Zdravje prebave",
-     "badges": [
-      "Kmalu na voljo"
-     ],
-     "description": "Signali zdravja črevesja, ki se povezujejo z energijo, razpoloženjem in okrevanjem."
-    },
-    {
-     "title": "Dolgoživost",
-     "subtitle": "Biološka starost",
-     "badges": [
-      "Kmalu na voljo"
-     ],
-     "description": "Dolg pogled: kako se vaši označevalci seštejejo v sliko biološke starosti."
-    }
-   ],
-   "disclaimerLead": "Vpogledi v biomarkerje v aplikaciji Tava so zgolj informativni. Ne diagnosticirajo, ne zdravijo in ne preprečujejo nobenega stanja.",
-   "disclaimerMore": [
-    "O vsakem izvidu, ki vas skrbi, se pogovorite s svojim izvajalcem. V nujnem primeru pokličite 911."
-   ],
-   "protocolEyebrow": "KAKO BO DELOVALO",
-   "protocolTitleLead": "Testirajte, preglejte,",
-   "protocolTitleAccent": "spremljajte trend.",
-   "protocolCopy": "Ena nadzorna plošča za osebo, ki vodi podjetje, ob vašem načrtu seruma v isti aplikaciji.",
-   "steps": [
-    {
-     "title": "Testiranje",
-     "lead": "prek laboratorijskega partnerja",
-     "body": "Vaš vzorec se odvzame in obdela, izvidi pa pristanejo v vaši aplikaciji Tava."
-    },
-    {
-     "title": "Pregled",
-     "lead": "področje za področjem",
-     "body": "Možgani, hormoni, srce, presnova, črevesje in dolgoživost, vsako s svojim pogledom."
-    },
-    {
-     "title": "Spremljajte",
-     "lead": "trend skozi čas",
-     "body": "Eno merjenje je posnetek. Vrednost je trend, in aplikacija ga hrani za vas."
-    }
-   ],
-   "legalLines": [
-    "Spremljanje laboratorijskih biomarkerjev prihaja kmalu in še ni odprto za naročila."
-   ]
-  },
-  "mentalHealth": {
-   "eyebrow": "DUŠEVNO ZDRAVJE",
-   "heroTitleLead": "Boljša osredotočenost,",
-   "heroTitleAccent": "na Tavi.",
-   "heroCopy": "Podpora za osredotočenost in pozornost, ki se začne s kliničnim pregledom, ne z gumbom za blagajno.",
-   "heroFinePrint": "Po kliničnem pregledu. Ta program je v razvoju in še ni odprt za vpis.",
-   "stamp": "OSKRBA S KLINIČNIM PREGLEDOM",
-   "primaryCta": "Oglejte si, kako deluje",
-   "optionsEyebrow": "PROGRAM",
-   "optionsTitleLead": "Oskrba, ki se začne",
-   "optionsTitleAccent": "s pregledom.",
-   "optionsCopy": "",
-   "products": [],
-   "disclaimerLead": "Podpora za duševno zdravje pri Tavi se začne s kliničnim pregledom. Nič tukaj ni diagnoza ali priporočilo za zdravljenje.",
-   "disclaimerMore": [
-    "Če ste v krizi ali razmišljate o samopoškodovanju, v Združenih državah pokličite ali pošljite sporočilo na 988. V nujnem primeru pokličite 911."
-   ],
-   "protocolEyebrow": "KAKO DELUJE",
-   "protocolTitleLead": "Najprej pregled.",
-   "protocolTitleAccent": "Potem načrt.",
-   "protocolCopy": "Previdna pot, odprto, v vašem tempu.",
-   "steps": [
-    {
-     "title": "Pregled",
-     "lead": "s klinikom",
-     "body": "Delite svojo zgodovino in to, s čimer se spopadate, in klinik pregleda, ali je podpora tukaj primerna za vas."
-    },
-    {
-     "title": "Načrt",
-     "lead": "zgrajen okoli vas",
-     "body": "Če je primerna, je vaš načrt zgrajen okoli vaših ciljev in vašega urnika."
-    },
-    {
-     "title": "Podpora",
-     "lead": "med potjo",
-     "body": "Preverjanja ohranjajo načrt pošten, ko se stvari spreminjajo."
-    }
-   ],
-   "legalLines": [
-    "Ponudbe za duševno zdravje pri Tavi so v razvoju in še niso odprte za vpis."
-   ]
-  },
-  "peptides": {
-   "eyebrow": "PROGRAMI PEPTIDOV",
-   "heroTitleLead": "Peptidi,",
-   "heroTitleAccent": "z izvajalcem na vaši strani.",
-   "heroCopy": "Trinajst programov peptidov podjetja Tava Labs, vsak se začne s spletnim posvetom in pregledom izvajalca.",
-   "heroFinePrint": "Potreben je recept. Licencirani izvajalec po posvetu odloči o primernosti.",
-   "stamp": "PROGRAMI POD VODSTVOM IZVAJALCA",
-   "primaryCta": "Začnite posvet",
-   "secondaryCta": "Kako deluje",
-   "optionsEyebrow": "PROGRAMI",
-   "optionsTitleLead": "Trinajst programov.",
-   "optionsTitleAccent": "En posvet začne katerega koli od njih.",
-   "optionsCopy": "Vsak program vključuje posvet za $20. Večina vključuje laboratorijske teste. Cene so mesečne cene programov.",
-   "unitPerMonth": "/mesec",
-   "products": [
-    {
-     "subtitle": "Okrevanje",
-     "imageAlt": "Umetniška podoba viale programa BPC-157",
-     "badges": [
-      "Okrevanje",
-      "Zdravje črevesja",
-      "Laboratorijski testi vključeni"
-     ],
-     "description": "BPC-157 podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
-     "linkLabel": "Oglejte si program"
-    },
-    {
-     "subtitle": "Zdravje črevesja",
-     "imageAlt": "Umetniška podoba viale programa CJC-1295 + Ipamorelin",
-     "badges": [
-      "Zdravje črevesja",
-      "Spanje",
-      "Okrevanje",
-      "Dolgoživost",
-      "Laboratorijski testi vključeni"
-     ],
-     "description": "CJC-1295 + Ipamorelin podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
-     "linkLabel": "Oglejte si program"
-    },
-    {
-     "subtitle": "Dolgoživost",
-     "imageAlt": "Umetniška podoba viale programa GHK-Cu",
-     "badges": [
-      "Dolgoživost",
-      "Laboratorijski testi vključeni"
-     ],
-     "description": "GHK-Cu podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
-     "linkLabel": "Oglejte si program"
-    },
-    {
-     "subtitle": "Okrevanje",
-     "imageAlt": "Umetniška podoba viale programa GLOW Injection",
-     "badges": [
-      "Okrevanje",
-      "Laboratorijski testi vključeni"
-     ],
-     "description": "GLOW Injection podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
-     "linkLabel": "Oglejte si program"
-    },
-    {
-     "subtitle": "Izguba teže",
-     "imageAlt": "Umetniška podoba viale programa MOTS-C",
-     "badges": [
-      "Izguba teže",
-      "Energija",
-      "Delovanje",
-      "Laboratorijski testi vključeni"
-     ],
-     "description": "MOTS-C podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
-     "linkLabel": "Oglejte si program"
-    },
-    {
-     "subtitle": "Dolgoživost",
-     "imageAlt": "Umetniška podoba viale programa NAD+ Injectable",
-     "badges": [
-      "Dolgoživost",
-      "Energija",
-      "Okrevanje",
-      "Osredotočenost"
-     ],
-     "description": "NAD+ Injectable podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
-     "linkLabel": "Oglejte si program"
-    },
-    {
-     "subtitle": "Spolno zdravje",
-     "imageAlt": "Umetniška podoba viale programa PT-141",
-     "badges": [
-      "Spolno zdravje",
-      "Laboratorijski testi vključeni"
-     ],
-     "description": "PT-141 podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
-     "linkLabel": "Oglejte si program"
-    },
-    {
-     "subtitle": "Izguba teže",
-     "imageAlt": "Umetniška podoba viale programa Semaglutide + B12 (Cyanocobalamin)",
-     "badges": [
-      "Izguba teže",
-      "Laboratorijski testi vključeni"
-     ],
-     "description": "Semaglutide + B12 (Cyanocobalamin) podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
-     "linkLabel": "Oglejte si program"
-    },
-    {
-     "subtitle": "Dolgoživost",
-     "imageAlt": "Umetniška podoba viale programa Sermorelin",
-     "badges": [
-      "Dolgoživost",
-      "Okrevanje",
-      "Delovanje",
-      "Laboratorijski testi vključeni"
-     ],
-     "description": "Sermorelin podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
-     "linkLabel": "Oglejte si program"
-    },
-    {
-     "subtitle": "Delovanje",
-     "imageAlt": "Umetniška podoba viale programa TB-500",
-     "badges": [
-      "Delovanje",
-      "Okrevanje",
-      "Laboratorijski testi vključeni"
-     ],
-     "description": "TB-500 podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
-     "linkLabel": "Oglejte si program"
-    },
-    {
-     "subtitle": "Dolgoživost",
-     "imageAlt": "Umetniška podoba viale programa Tesamorelin",
-     "badges": [
-      "Dolgoživost",
-      "Okrevanje",
-      "Delovanje",
-      "Laboratorijski testi vključeni"
-     ],
-     "description": "Tesamorelin podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
-     "linkLabel": "Oglejte si program"
-    },
-    {
-     "subtitle": "Izguba teže",
-     "imageAlt": "Umetniška podoba viale programa Tirzepatide + B12 (Cyanocobalamin)",
-     "badges": [
-      "Izguba teže",
-      "Laboratorijski testi vključeni"
-     ],
-     "description": "Tirzepatide + B12 (Cyanocobalamin) podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
-     "linkLabel": "Oglejte si program"
-    },
-    {
-     "subtitle": "Okrevanje",
-     "imageAlt": "Umetniška podoba viale programa Wolverine Injection",
-     "badges": [
-      "Okrevanje",
-      "Laboratorijski testi vključeni"
-     ],
-     "description": "Wolverine Injection podjetja Tava Labs. Pregled izvajalca in spremljanje sta del programa.",
-     "linkLabel": "Oglejte si program"
-    }
-   ],
-   "disclaimerLead": "Sestavljena zdravila pripravijo licencirane lekarne za posamezne bolnike. Niso odobrena s strani FDA in FDA sestavljenih zdravil ne pregleduje glede varnosti, učinkovitosti ali kakovosti.",
-   "disclaimerMore": [
-    "Zdravstveno oskrbo zagotavljajo neodvisni, licencirani izvajalci. Izvajalci neodvisno odločajo, ali je zdravljenje primerno za vas; nakup ne zagotavlja recepta.",
-    "Licencirani izvajalec pregleda vaše podatke in neodvisno odloči, ali je zdravljenje primerno za vas. Nakup ne zagotavlja recepta.",
-    "V nujnih primerih pokličite 911."
-   ],
-   "protocolEyebrow": "KAKO DELUJE",
-   "protocolTitleLead": "Posvet, pregled,",
-   "protocolTitleAccent": "nato začetek.",
-   "protocolCopy": "Vsak program poteka prek neodvisnih licenciranih izvajalcev.",
-   "protocolCta": "Začnite posvet",
-   "steps": [
-    {
-     "title": "Posvet",
-     "lead": "spletno, po vašem urniku",
-     "body": "Izpolnite spletni posvet za program, ki ste ga izbrali. Posvet stane $20."
-    },
-    {
-     "title": "Pregled",
-     "lead": "licenciranega izvajalca",
-     "body": "Izvajalec pregleda vaše podatke in vaše laboratorijske izvide ter neodvisno odloči, ali je zdravljenje primerno za vas."
-    },
-    {
-     "title": "Začnite",
-     "lead": "če je predpisano",
-     "body": "Vaše zdravilo se pošlje iz licencirane lekarne, vaš izvajalec pa vas spremlja, ko se vaš program nadaljuje."
-    }
-   ],
-   "legalLines": [
-    "Naša trgovina s peptidi je trenutno v testnem načinu, zato so programi prikazani za pregled in še niso odprti za prava naročila.",
-    "V nujnih primerih pokličite 911."
-   ]
-  }
- },
- "product": {
-  "breadcrumbHome": "Domov",
-  "inStock": "Na zalogi",
-  "cleanVegan": "Čisto in vegansko • Aktivni PDRN",
-  "dermTested": "Dermatološko testirano • Narejeno za vse tipe kože",
-  "titleLead": "PDRN Brightening",
-  "titleAccent": "Serum",
-  "pricePerUnit": "/ 30 ml (1 fl oz)",
-  "subPrice": "ali $39 na mesec z Subscribe and Save",
-  "bullets": [
-   "PDRN, acetil heksapeptid-8 in hialuronska kislina za podporo bolj gladke in svetlejše kože na videz.",
-   "Globoko vlaženje z glicerinom, natrijevim PCA in pantenolom.",
-   "100 % brez testiranja na živalih, brez dišav, brez parabenov, brez sulfatov, brez mineralnega olja, brez silikonov in vegansko."
-  ],
-  "viewFormulation": "Oglejte si celotno formulacijo in klinične teste",
-  "details": [
-   {
-    "title": "Spoznajte PDRN Brightening Serum",
-    "body": "Lahka, vlažilna formula za gladkejšo in bolj sijočo kožo. Hitro se vpije, ne pušča ostankov in ohranja udobje kože."
-   },
-   {
-    "title": "Sestavine in formulacija",
-    "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin."
-   },
-   {
-    "title": "Kako nanesti",
-    "body": "Nanesite 2 do 4 kapljice na čisto, suho kožo. Nežno masirajte po obrazu in vratu, dokler se ne vpije. Uporabljajte dvakrat na dan, zjutraj in zvečer. Nadaljujte z vlažilno kremo ali zaščito pred soncem."
-   },
-   {
-    "title": "Jamstvo čiste nege kože",
-    "body": "Formulirano po certificiranih standardih brez testiranja na živalih in izdelano brez dišav, silikonov, parabenov, mineralnega olja, sulfatov, ftalatov ali pogostih alergenov. Dermatološko testirano na vseh tipih kože."
-   }
-  ],
-  "innovation": {
-   "label": "Ključne sestavine",
-   "titleLead": "Kaj glavne",
-   "titleAccent": "sestavine naredijo",
-   "sub": "Tri sestavine spodaj opravijo večino dela v tem serumu.",
-   "items": [
-    {
-     "label": "Tekstura kože",
-     "title": "PDRN",
-     "body": "Morski PDRN poveča obnovo celic, kar posvetli dolgočasno polt in zgladi vidno teksturo."
-    },
-    {
-     "label": "Čvrstost",
-     "title": "Acetyl Hexapeptide-8",
-     "body": "Ta peptid podpira elastičnost kolagena, za čvrstejšo kožo na videz."
-    },
-    {
-     "label": "Globoko vlaženje",
-     "title": "Hialuronska kislina in pantenol",
-     "body": "Hialuronska kislina, natrijev PCA in pantenol skupaj zadržujejo vlago v kožni pregradi več kot 24 ur."
-    }
-   ],
-   "imgAlts": [
-    "Tekstura seruma",
-    "Kristal in formula",
-    "Vzorec kristala"
-   ],
-   "footnote": "*Biocelična aktivnost, ocenjena z in vitro in ex vivo kliničnimi ocenami. Rezultati se lahko razlikujejo glede na stanje kože posameznika."
-  },
-  "ecosystem": {
-   "label": "Vaš načrt",
-   "title": "Pridobite popolno podporo za rutino",
-   "sub": "Ob vašem serumu vsak načrt Tava Labs vključuje:",
-   "items": [
-    "Osebno diagnostiko kože in vodnik po režimu iz vašega kviza o koži",
-    "Načrt nege, ki se začne počasi in se sčasoma nadgrajuje",
-    "Opomnike za nanos, ki jih nadzirate vi, zjutraj in zvečer",
-    "Podporo prek sporočil kar v aplikaciji",
-    "Dostavo Subscribe and Save vsak mesec, kadar koli prekinite ali prekličete"
-   ],
-   "note": "Subscribe and Save kadar koli prekinite, prilagodite ali prekličete. Enkratni nakupi ostanejo na voljo za $49."
-  },
-  "clinical": {
-   "label": "Klinični testi",
-   "titleLead": "Poskrbite za svoje",
-   "titleAccent": "zdravje kože",
-   "imgAlts": [
-    "Diagram spodbujanja sijaja",
-    "Diagram podpore globokemu vlaženju",
-    "Diagram izboljšanja teksture kože"
-   ],
-   "note": "Ocena lokalnih bioaktivnih sestavin na podlagi 8-tedenskega zaznavanja potrošnikov in instrumentalnih testov vlaženja. Posamezne kožne pregrade, genetika in okolje vplivajo na konkretne časovnice in rezultate."
-  },
-  "formulary": {
-   "label": "Primerjajte formule",
-   "title": "Katera nega kože je prava za vas?",
-   "sub": "Formule za različne cilje, težave in rutine kože. Izberite tisto, ki ustreza vaši koži in vašemu urniku.",
-   "serumAlt": "PDRN Brightening Serum",
-   "serumPriceLine": "Subscribe and Save $39/mesec",
-   "serumOneTime": "ali $49 enkratno",
-   "primaryBenefit": "Glavna korist",
-   "howToUse": "Kako uporabljati",
-   "activeIngredient": "Aktivna sestavina",
-   "serumBenefitValue": "Svetlost in čvrstost",
-   "serumHowValue": "Dopoldne in zvečer",
-   "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
-   "selectSerum": "Izberite serum",
-   "comingSoon": "Kmalu na voljo",
-   "status": "Stanje",
-   "sizeLabel": "Velikost",
-   "others": [
-    {
-     "rows": [
-      [
-       "Glavna korist",
-       "Dnevno vlaženje"
+    "support": {
+      "eyebrow": "Podpora",
+      "title": "Tukaj smo, da pomagamo",
+      "segments": [
+        {
+          "text": "Pišite na "
+        },
+        {
+          "text": "support@tavalabs.app",
+          "href": "mailto:support@tavalabs.app"
+        },
+        {
+          "text": " ali pokličite "
+        },
+        {
+          "text": "909-906-1308",
+          "href": "tel:+19099061308"
+        },
+        {
+          "text": "."
+        }
       ],
-      [
-       "Velikost",
-       "1,7 fl oz (50 ml)"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Glavna korist",
-       "Nega predela oči"
-      ],
-      [
-       "Velikost",
-       "1 fl oz (30 ml)"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Glavna korist",
-       "Čvrstost in vlaženje"
-      ],
-      [
-       "Velikost",
-       "2 oz (56 g)"
-      ],
-      [
-       "Aktivna sestavina",
-       "Hyaluronic Acid and CoQ10"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Glavna korist",
-       "Nega lasišča in las"
-      ],
-      [
-       "Velikost",
-       "1 fl oz (30 ml)"
-      ]
-     ]
+      "links": {
+        "general": "Splošna vprašanja",
+        "productSupport": "Podpora za izdelke",
+        "salesSupport": "Podpora za naročila in prodajo",
+        "faqs": "Pogosta vprašanja",
+        "shipping": "Politika dostave",
+        "returns": "Politika vračil"
+      }
     }
-   ]
   },
-  "protocol": {
-   "label": "Kako ga uporabljati",
-   "titleLead": "Ena preprosta rutina,",
-   "titleAccent": "dvakrat na dan",
-   "sub": "Doslednost je pomembna. Sledite tem korakom zjutraj in zvečer ter zaključite z vlažilno kremo, da zadržite vlago.",
-   "progressionLabel": "Klinično napredovanje",
-   "progressionTitle": "Časovnica vidnih rezultatov",
-   "progressionBody": "Svetlejša in bolj navlažena koža v 7 do 14 dneh; izboljšana elastičnost kože in čvrstost pregrade do 4. do 6. tedna.",
-   "timelineAlt": "Primer časovnice rezultatov, 1. do 4. teden in naprej",
-   "steps": [
-    {
-     "title": "Čiščenje, z nežnim umivanjem",
-     "body": "Očistite z nežnim umivanjem z uravnoteženim pH, da odstranite nečistoče in pripravite kožo, ne da bi ji odvzeli naravne lipide."
+  "lab": {
+    "ordersLabel": "Klinični pregled",
+    "ordersTitle": "Vaša laboratorijska naročila",
+    "loadingOrders": "Nalaganje vaših naročil …",
+    "ordersEmpty": "Tukaj še ni ničesar. Ko opravite panel, vsak označevalec pristane tukaj s svojo vrednostjo, svojim zdravim razponom in tem, kako se spreminja skozi čas. Spodaj naročite svoj prvi panel in ta prostor se zapolni.",
+    "viewResults": "Oglejte si izvide",
+    "howLabel": "Kako delujejo laboratoriji",
+    "howTitle": "Štirje koraki, en odvzem",
+    "steps": [
+      {
+        "title": "Izberite panel",
+        "body": "Izberite panel, ki ustreza temu, kar želite izvedeti. Vsak označevalec v njem je naveden pred naročilom."
+      },
+      {
+        "title": "Pregled zdravnika",
+        "body": "Licencirani zdravnik pregleda in odobri vsako naročilo, zato ločen obisk pri zdravniku ni potreben."
+      },
+      {
+        "title": "Pridite na odvzem",
+        "body": "En hiter odvzem krvi na zbirnem mestu v vaši bližini. Večina obiskov traja približno petnajst minut."
+      },
+      {
+        "title": "Izvidi pristanejo tukaj",
+        "body": "Izvidi se v nekaj dneh dostavijo digitalno v ta zavihek, z vsakim označevalcem in njegovim razponom."
+      }
+    ],
+    "panelsLabel": "Paneli",
+    "panelsTitle": "Štirinajst panelov, zgrajenih okoli tega, kar spremljate",
+    "panelsSub": "Vsak panel prikazuje svojo ceno. Naročanje se odpre, ko se vklopi blagajna, licencirani zdravnik pa pregleda vsako naročilo, preden se vaši izvidi dostavijo kar sem. Panelov ni mogoče naročiti za naslove v New Yorku, New Jerseyju ali Rhode Islandu.",
+    "markersSuffix": "{n} označevalcev",
+    "resultsInDays": "Izvidi v nekaj dneh",
+    "hideMarkers": "Skrijte označevalce",
+    "seeMarkers": "Oglejte si označevalce",
+    "markersAria": "Označevalci v panelu {name}",
+    "disclaimer": "Vpogledi laboratorija so informacije o vašem lastnem zdravju in niso diagnoza. O vsakem izvidu, ki vas skrbi, se pogovorite s svojim zdravnikom, v nujnem primeru pa pokličite 911.",
+    "panelsById": {
+      "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
+        "name": "Athletic Performance Panel",
+        "description": "Pripravljenost na trening in okrevanje: krvne slike, presnovni panel, zaloge železa, vitamin D, testosteron, vnetje in mišični encimi.",
+        "collection": "Odvzem krvi ob prihodu"
+      },
+      "38c76039-05dc-4cd3-8475-7a675989fbf2": {
+        "name": "Baseline Wellness Panel",
+        "description": "Začetna točka za celo telo: krvne slike, presnovno zdravje, holesterol, krvni sladkor, vitamin D in ščitnica.",
+        "collection": "Odvzem krvi ob prihodu"
+      },
+      "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
+        "name": "Energy & Fatigue Panel",
+        "description": "Običajni osumljenci za nizko energijo: zaloge in transport železa, B12, folat, vitamin D, ščitnica in krvne slike.",
+        "collection": "Odvzem krvi ob prihodu"
+      },
+      "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
+        "name": "Female Baseline Panel",
+        "description": "Osredotočen panel 14 označevalcev, v celoti naveden spodaj.",
+        "collection": "Odvzem krvi ob prihodu"
+      },
+      "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
+        "name": "GLP1 Panel",
+        "description": "Osredotočen panel 10 označevalcev, v celoti naveden spodaj.",
+        "collection": "Odvzem krvi ob prihodu"
+      },
+      "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
+        "name": "Heart Health Panel",
+        "description": "Kardiovaskularno tveganje onkraj osnovnega holesterola: lipidi, ApoB, Lp(a), hs-CRP in homocistein.",
+        "collection": "Odvzem krvi ob prihodu"
+      },
+      "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
+        "name": "Longevity Panel",
+        "description": "Celovit letni poglobljeni pregled presnovnih, kardiovaskularnih, vnetnih in hormonskih označevalcev zdravja.",
+        "collection": "Odvzem krvi ob prihodu"
+      },
+      "b909fb21-b264-483c-a915-4ce87713cfa9": {
+        "name": "Male Baseline Test",
+        "description": "Osredotočen panel 12 označevalcev, v celoti naveden spodaj.",
+        "collection": "Odvzem krvi ob prihodu"
+      },
+      "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
+        "name": "Male TRT Panel",
+        "description": "Osredotočen panel 16 označevalcev, v celoti naveden spodaj.",
+        "collection": "Odvzem krvi ob prihodu"
+      },
+      "abfabb68-c777-4457-87c2-46bf5fe26d81": {
+        "name": "Men's Hormone Panel",
+        "description": "Stanje moških hormonov: skupni testosteron, SHBG, estradiol, LH in FSH.",
+        "collection": "Odvzem krvi ob prihodu"
+      },
+      "f12fe316-367a-4c53-9735-8c0129c45506": {
+        "name": "Metabolic Health Panel",
+        "description": "Nadzor krvnega sladkorja in presnovno tveganje: A1c, inzulin na tešče, holesterol in celoten presnovni panel.",
+        "collection": "Odvzem krvi ob prihodu"
+      },
+      "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
+        "name": "Stress & Recovery Panel",
+        "description": "Obremenitev s stresom in zmožnost okrevanja: kortizol, DHEA-S, ščitnica in vnetje.",
+        "collection": "Odvzem krvi ob prihodu"
+      },
+      "1760616d-44d3-4654-817d-440a969e5cdf": {
+        "name": "Thyroid Complete Panel",
+        "description": "Celotna preiskava ščitnice: TSH, prosti T4, prosti T3 in protitelesa TPO.",
+        "collection": "Odvzem krvi ob prihodu"
+      },
+      "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
+        "name": "Women's Hormone Panel",
+        "description": "Stanje ženskih hormonov: estradiol, progesteron, FSH, LH, DHEA-S in testosteron.",
+        "collection": "Odvzem krvi ob prihodu"
+      }
     },
-    {
-     "title": "Serum PDRN, 2 do 4 kapljice",
-     "body": "Nanesite 2 do 4 kapljice seruma PDRN na vlažno kožo. Nežno vtiskajte in tapkajte po obrazu in vratu, dokler se popolnoma ne vpije."
-    },
-    {
-     "title": "Navlažite in hidrirajte",
-     "body": "Nanesite vlažilno kremo, da zadržite peptide in podprete kožno pregrado."
-    },
-    {
-     "title": "Zaščita (samo dopoldne), SPF 30+",
-     "body": "Jutranjo rutino zaključite s širokospektralnim SPF 30+, da zaščitite kožo pred UV in poškodbami prostih radikalov."
-    },
-    {
-     "title": "Vaš osebni načrt, vključen",
-     "body": "Vaš kviz o koži sestavi vaš načrt, vključno s tem, kako začeti počasi in kdaj stopnjevati."
+    "detail": {
+      "backToAccount": "Nazaj na vaš račun",
+      "notFoundTitle": "Tega laboratorijskega naročila ni bilo mogoče najti",
+      "notFoundBody": "Morda pripada drugemu e-poštnemu naslovu. Prijavite se z e-poštnim naslovom, pod katerim ste naročili, in poskusite znova.",
+      "clinicalReview": "KLINIČNI PREGLED",
+      "loadingResults": "Nalaganje vaših izvidov …",
+      "yourPanel": "Vaš panel",
+      "markerFallback": "Označevalec",
+      "headlines": {
+        "loading": "Pridobivanje vaših izvidov",
+        "pending": "Vaši izvidi so na poti",
+        "allIn": "Vsi vaši izvidi so prispeli.",
+        "in": "Vaši izvidi so prispeli."
+      },
+      "sublines": {
+        "loading": "En trenutek, medtem ko se nalaga laboratorijsko poročilo.",
+        "pending": "Takoj ko laboratorij poroča, se ta stran zapolni z vsakim označevalcem, njegovo vrednostjo in njegovim zdravim razponom.",
+        "allIn": "Vsak označevalec je v razponu. Tukaj je celotna slika.",
+        "oneAttention": "En označevalec potrebuje natančnejši pogled. Poglobimo se.",
+        "manyAttention": "{n} označevalcev potrebuje natančnejši pogled. Poglobimo se."
+      },
+      "orderedPrefix": "Neplačano",
+      "statusPrefix": "Stanje:",
+      "notInYetTitle": "Izvidi še niso prispeli",
+      "notInYetBody": "Večina panelov poroča v nekaj dneh po vašem odvzemu. Ko vaš prispe, ta stran prikaže celoten pogled ravnovesja z vsakim označevalcem in njegovim razponom.",
+      "markerBalance": "Ravnovesje vaših označevalcev",
+      "biomarkers": "BIOMARKERJI",
+      "analyzedSuffix": "{pct} % analiziranih",
+      "statusNames": {
+        "optimal": "Optimalno",
+        "inRange": "V razponu",
+        "attention": "Potrebuje pozornost"
+      },
+      "statusLabels": {
+        "optimal": "OPTIMALNO",
+        "inRange": "V RAZPONU",
+        "attention": "OZNAČENO"
+      },
+      "basePrefix": "Osnova: {name}",
+      "updatedPrefix": "Posodobljeno {date}",
+      "updatedRecently": "Nedavno posodobljeno",
+      "triageTitle": "Razvrščanje stanj",
+      "tapToFilter": "Tapnite za filtriranje",
+      "triageSubs": {
+        "optimal": "Točno tam, kjer jih želite",
+        "inRange": "Znotraj zdravega razpona",
+        "attention": "Vredno pogovora z vašim zdravnikom"
+      },
+      "allFilter": "Vsi ({n})",
+      "rangePrefix": "Razpon {range}",
+      "disclaimer": "Laboratorijski izvidi so informacije o vašem lastnem zdravju in niso diagnoza. O vsakem izvidu, ki vas skrbi, se pogovorite s svojim zdravnikom, v nujnem primeru pa pokličite 911."
     }
-   ]
   },
-  "faqSection": {
-   "label": "Vprašanja in odgovori",
-   "title": "Pogosto zastavljena vprašanja",
-   "viewAll": "Oglejte si vsa pogosta vprašanja",
-   "items": [
-    {
-     "q": "Kaj je PDRN in kako koristi koži?",
-     "a": "PDRN (polideoksiribonukleotid) je narejen iz fragmentov DNK, ki so biološko združljivi s človeškimi kožnimi celicami. Spodbuja naravno regeneracijo celic, stimulira mikrocirkulacijo in pomaga popravljati kožno pregrado, za svetlejšo in čvrstejšo kožo na videz."
-    },
-    {
-     "q": "Kako serum PDRN Brightening Serum vključim v svojo rutino nege kože?",
-     "a": "PDRN Brightening Serum uporabljajte dvakrat na dan po čiščenju in toniranju. Iztisnite 2 do 4 kapljice neposredno na konice prstov ali vlažno kožo in zgladite po obrazu, vratu in dekolteju. Nadaljujte s svojo vlažilno kremo in jutranjo zaščito pred soncem."
-    },
-    {
-     "q": "Je ta serum primeren za občutljivo kožo in kožo, nagnjeno k aknam?",
-     "a": "Da. Naša formulacija je nekomedogena, brez olja, brez dišav in obogatena s pomirjujočim pantenolom. Pomirja občutljivost in hkrati globoko vlaži, ne da bi mašila pore ali sprožala draženje."
-    },
-    {
-     "q": "Ali lahko PDRN nanesem v plasteh z retinolom, vitaminom C ali AHA/BHA?",
-     "a": "Da. PDRN dobro deluje ob aktivnih negah, kot so retinoidi in vitamin C. Njegova vlažilna osnova pomaga pomiriti luščenje ali rdečico, ki jo lahko povzročijo kemični pilingi."
-    },
-    {
-     "q": "Kako dolgo običajno zdrži ena steklenička 30 ml?",
-     "a": "Pri nanosu 2 do 4 kapljic dvakrat na dan ena steklenička 30 ml (1 fl oz) običajno zdrži 4 do 6 tednov. Subscribe and Save pošlje naslednjo stekleničko, preden vam zmanjka."
-    }
-   ]
+  "login": {
+    "brandHeadLead": "Dobrodošli",
+    "brandHeadAccent": "nazaj.",
+    "brandCopy": "Vaš načrt, vaša naročila in vaša rutina. En e-poštni naslov povezuje aplikacijo in splet.",
+    "label": "Vaš račun Tava",
+    "title": "Prijava",
+    "intro": "Prijavite se z e-poštnim naslovom, ki ste ga uporabili na blagajni ali v mobilni aplikaciji Tava. Vaš načrt, naročila in rutina so vezani na ta e-poštni naslov, zato se vse tukaj ujema z aplikacijo. Geslo ni potrebno. Pošljemo vam povezavo za prijavo po e-pošti in tap nanjo vas pripelje v vaš račun.",
+    "emailLabel": "E-poštni naslov",
+    "invalidEmail": "Vnesite veljaven e-poštni naslov.",
+    "sendFailed": "Tega e-poštnega sporočila nismo mogli poslati. Preverite naslov in poskusite znova.",
+    "sending": "Pošiljanje …",
+    "sendButton": "Pošljite mi povezavo za prijavo po e-pošti",
+    "sentNotice": "Povezava za prijavo poslana na {email}. Lahko traja minuto, da prispe. Če je ne vidite, preverite mapo z vsiljeno pošto.",
+    "sentBody": "Odprite to e-poštno sporočilo v tej napravi in tapnite povezavo v njem. Pristali boste v svojem računu, že prijavljeni. Povezava deluje enkrat in poteče, zato jo uporabite kmalu.",
+    "resend": "Ponovno pošljite e-poštno sporočilo",
+    "differentEmail": "Uporabite drug e-poštni naslov",
+    "footNote": "Ste tukaj prvič? Ista povezava ustvari vaš račun. Uporabite e-poštni naslov iz svojega naročila in vse vas že čaka.",
+    "claimLabel": "Ste kupili v spletu, uporabljate aplikacijo?",
+    "claimTitle": "Uporabite svojo kodo za prevzem v aplikaciji",
+    "claimBody1": "Ko ste kupili prek kviza ali tega mesta, je vaše e-poštno sporočilo s potrditvijo nakupa (in stran takoj po blagajni) prikazalo kodo za prevzem. Odprite mobilno aplikacijo Tava, se prijavite in vnesite to kodo v zavihku Naročila. Vaš nakup, načrt in odgovori na kviz se preselijo v vaš račun v aplikaciji, brez drugega nakupa.",
+    "claimBody2": "V spletu je še preprosteje. Zgoraj se prijavite z istim e-poštnim naslovom, ki ste ga uporabili na blagajni, in vaša naročila ter načrt so že tukaj.",
+    "faqButton": "Vprašanja? Oglejte si pogosta vprašanja"
   },
-  "finalCta": {
-   "title": "En serum za svetlejšo, navlaženo in bolj gladko kožo na videz.",
-   "line": "PDRN Brightening Serum · $49.00 / 30ml · Čisto in vegansko · Globoko vlaženje · Prekličite kadar koli"
+  "checkout": {
+    "title": "Blagajna",
+    "closeAria": "Zaprite blagajno",
+    "planOneTime": "PDRN Brightening Serum · $49 · Enkratni nakup",
+    "planSubscribe": "PDRN Brightening Serum · $39 na mesec · Subscribe & Save 20%",
+    "email": "E-pošta",
+    "firstName": "Ime",
+    "lastName": "Priimek",
+    "streetAddress": "Ulični naslov",
+    "addressLine2": "Vrstica naslova 2 (izbirno)",
+    "city": "Mesto",
+    "state": "Zvezna država",
+    "zip": "ZIP",
+    "country": "Država",
+    "phoneOptional": "Telefon (izbirno)",
+    "missingIntro": "Skoraj ste tam. Dodajte svoje {fields}.",
+    "missingNames": {
+      "email": "veljaven e-poštni naslov",
+      "firstName": "ime",
+      "lastName": "priimek",
+      "address1": "ulični naslov",
+      "city": "mesto",
+      "state": "zvezna država",
+      "zip": "poštna številka ZIP"
+    },
+    "creating": "Ustvarjanje vaše blagajne …",
+    "taking": "Vodimo vas na varno blagajno …",
+    "continueBtn": "Nadaljujte na plačilo",
+    "startError": "Blagajne ni bilo mogoče začeti. Preverite svoje podatke in poskusite znova. Nič ni bilo bremenjeno.",
+    "stripeNote": "Varna blagajna Stripe. Plačilo boste potrdili na strani Stripe. Za zdaj še nič ni bremenjeno."
   },
-  "gallery": {
-   "view": "Pogled {n}",
-   "alts": [
-    "Steklenička seruma PDRN Brightening Serum",
-    "Pogled 2 na stekleničko seruma",
-    "Pogled 3 na stekleničko seruma",
-    "Pogled 4 na stekleničko seruma",
-    "Pogled 5 na stekleničko seruma"
-   ]
+  "legal": {
+    "governsNote": "Ta stran je prevod angleškega izvirnika. Če se besedilo kdaj razlikuje, velja angleška različica."
   }
- },
- "about": {
-  "label": "O nas",
-  "titleLead": "Dnevni serum za obraz",
-  "titleAccent": "za ustanovitelje.",
-  "tagline": "Gradite svoje podjetje. Ne zanemarjajte sebe.",
-  "p1": "Tava Labs je blagovna znamka nege kože za ljudi, ki gradijo podjetja. Vaš videz je del vaše poklicne prisotnosti. Ljudje vas vidijo pred kamero, na predstavitvah in pri delu vsak dan.",
-  "p2": "Izdelujemo eno stvar in jo izdelujemo dobro. Dnevni serum, ki ohranja vašo kožo navlaženo in spočito na videz, brez zapletene rutine.",
-  "p3": "Tava Labs je bila ustanovljena za ustanovitelje in lastnike podjetij. En korak, zjutraj in zvečer, pred srečanji, predstavitvami in delom pred kamero.",
-  "p4": "Nega kože, obravnavana kot osnovno vzdrževanje. Ista doslednost, ki jo prinašate v svoje podjetje, uporabljena v vaši lastni rutini.",
-  "serumLabel": "Serum",
-  "serumTitle": "PDRN Brightening Serum",
-  "serumAlt": "PDRN Brightening Serum",
-  "serumBody": "Dnevna rutina za polt, zgrajena okoli PDRN (Polydeoxyribonucleotide) in Acetyl Hexapeptide-8, z natrijevim hialuronatom in pantenolom za vlaženje in udobje. Čista in brez dišav ter izdelana brez vsega z našega seznama izključenih sestavin.",
-  "bullets": [
-   "PDRN za svetlejšo in enakomernejšo polt.",
-   "Acetyl Hexapeptide-8 za podporo videzu čvrstosti.",
-   "Sodium Hyaluronate in Panthenol za vlaženje.",
-   "Uporabljajte dvakrat na dan: 2 do 4 pritiski na čisto, suho kožo, zjutraj in zvečer."
-  ],
-  "priceLine": "$49 enkratno ali $39 na mesec z Subscribe & Save.",
-  "philosophyLabel": "Naša filozofija",
-  "quote": "„En serum, dve minuti, zjutraj in zvečer. To je celotna rutina.“",
-  "philosophyCaption": "Filozofija Tava Labs",
-  "philosophyP1": "Verjamemo v skrb zase tako, kot skrbite za svoje delo, z majhnimi koraki, ki se izvajajo dosledno vsak dan.",
-  "philosophyP2": "Ne obljubljamo preobrazbe. Izdelujemo dobro oblikovan dnevni serum in vam povemo točno, kaj je v njem.",
-  "onlineTitle": "Samo na spletu",
-  "onlineSegments": [
-   {
-    "text": "Tava Labs je blagovna znamka samo na spletu. Vprašanja? Pišite na "
-   },
-   {
-    "text": "support@tavalabs.app",
-    "href": "mailto:support@tavalabs.app"
-   },
-   {
-    "text": "."
-   }
-  ],
-  "contactUs": "Pišite nam"
- },
- "contact": {
-  "label": "Pišite nam",
-  "title": "Z veseljem bi slišali od vas.",
-  "sub": "Pišite nam in odgovorili vam bomo. Izberite temo, ki ustreza, ali nam pišite neposredno.",
-  "emailLabel": "E-pošta:",
-  "phoneLabel": "Telefon:",
-  "topics": {
-   "general": {
-    "title": "Splošno",
-    "body": "Splošna vprašanja o podjetju Tava Labs in serumu."
-   },
-   "wholesale": {
-    "title": "Veleprodaja",
-    "body": "Poizvedbe o veleprodaji in maloprodaji za PDRN Brightening Serum."
-   },
-   "sales-support": {
-    "title": "Podpora prodaji",
-    "body": "Vprašanja o naročanju, Subscribe & Save in blagajni."
-   },
-   "product-support": {
-    "title": "Podpora za izdelke",
-    "body": "Pomoč pri uporabi seruma, rutinah in vašem osebnem načrtu."
-   },
-   "partnerships": {
-    "title": "Partnerstva",
-    "body": "Partnerstva s pospeševalniki, univerzami, vlagatelji in skupnostmi."
-   },
-   "pr": {
-    "title": "Odnosi z javnostmi",
-    "body": "Poizvedbe za medije in novinarje."
-   }
-  }
- },
- "faq": {
-  "label": "Pogosta vprašanja",
-  "titleLead": "Pogosto zastavljena",
-  "titleAccent": "Vprašanja",
-  "sub": "Odgovori o serumu, naročanju, dostavi in vašem osebnem načrtu.",
-  "items": [
-   {
-    "q": "Kaj je PDRN Brightening Serum?",
-    "a": [
-     {
-      "text": "Dnevni serum, zgrajen okoli PDRN (polideoksiribonukleotid) in acetil heksapeptida-8, z natrijevim hialuronatom in pantenolom. Nanesite ga zjutraj in zvečer za podporo svetlejše in bolj enakomerne polti na videz."
-     }
-    ]
-   },
-   {
-    "q": "Kako ga uporabljam?",
-    "a": [
-     {
-      "text": "Nanesite 2 do 4 kapljice na čisto, suho kožo, zjutraj in zvečer. Nadaljujte z vlažilno kremo. Če ste novi v aktivni negi kože, prvi teden začnite enkrat na dan, nato stopnjujte na dvakrat na dan."
-     }
-    ]
-   },
-   {
-    "q": "Kako dobim svoj osebni načrt?",
-    "a": [
-     {
-      "text": "Rešite "
-     },
-     {
-      "text": "Kviz o koži",
-      "href": "/quiz"
-     },
-     {
-      "text": ". Vaši odgovori sestavijo osebni načrt, vključno s tem, kako začeti počasi in kdaj stopnjevati."
-     }
-    ]
-   },
-   {
-    "q": "Koliko stane?",
-    "a": [
-     {
-      "text": "$49 enkratno ali $39 na mesec z Subscribe & Save (20 % ceneje). Subscribe & Save lahko kadar koli prekinete, preskočite ali prekličete."
-     }
-    ]
-   },
-   {
-    "q": "Kako deluje dostava?",
-    "a": [
-     {
-      "text": "Naročila izpolni naš partner in jih pošlje na naslov, ki ga navedete na blagajni. Oglejte si "
-     },
-     {
-      "text": "Politika dostave",
-      "href": "/shipping"
-     },
-     {
-      "text": " za podrobnosti."
-     }
-    ]
-   },
-   {
-    "q": "Kakšna je vaša politika vračil?",
-    "a": [
-     {
-      "text": "Vse prodaje so dokončne. Pred naročilom preberite "
-     },
-     {
-      "text": "Politika vračil",
-      "href": "/returns"
-     },
-     {
-      "text": "."
-     }
-    ]
-   },
-   {
-    "q": "Katere sestavine vsebuje?",
-    "a": [
-     {
-      "text": "Celoten seznam sestavin je na "
-     },
-     {
-      "text": "Stran s sestavinami",
-      "href": "/ingredients"
-     },
-     {
-      "text": ". Serum je brez dišav in izdelan brez parabenov, sulfatov, silikonov, mineralnega olja, ftalatov in pogostih alergenov."
-     }
-    ]
-   },
-   {
-    "q": "Je primeren za moj tip kože?",
-    "a": [
-     {
-      "text": "Serum je formuliran za vse tipe kože. Če imate kožno stanje ali pomisleke, se pred začetkom katere koli nove nege kože pogovorite s svojim dermatologom."
-     }
-    ]
-   },
-   {
-    "q": "Kako vas kontaktiram?",
-    "a": [
-     {
-      "text": "Pišite na support@tavalabs.app ali uporabite stran "
-     },
-     {
-      "text": "Pišite nam",
-      "href": "/contact"
-     },
-     {
-      "text": "."
-     }
-    ]
-   }
-  ]
- },
- "ingredients": {
-  "label": "Sestavine",
-  "titleLead": "Kaj je notri in",
-  "titleAccent": "kaj izpuščamo.",
-  "intro": "Tukaj je vsaka sestavina v serumu PDRN Brightening Serum, kaj vsaka počne, in celoten seznam točno tako, kot je na etiketi.",
-  "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Izdelano v ZDA · Primerno za vse tipe kože.",
-  "keyTitle": "Ključne sestavine",
-  "keyItems": [
-   {
-    "name": "PDRN (Polydeoxyribonucleotide)",
-    "body": "Naša glavna aktivna sestavina. Podpira svetlejšo in bolj enakomerno polt na videz."
-   },
-   {
-    "name": "Acetyl Hexapeptide-8",
-    "body": "Peptid, ki podpira videz čvrstosti in gladkosti."
-   },
-   {
-    "name": "Sodium Hyaluronate (Hyaluronic Acid)",
-    "body": "Privlači vlago za navlaženo in udobno kožo."
-   },
-   {
-    "name": "Panthenol",
-    "body": "Pomirja in podpira kožno pregrado."
-   },
-   {
-    "name": "Glycerin + Sodium PCA",
-    "body": "Vlažilci, ki koži pomagajo zadrževati vodo čez dan."
-   }
-  ],
-  "fullTitle": "Vse sestavine",
-  "howTitle": "Kako uporabljati",
-  "howBody": "Nanesite 2 do 4 pritiske na čisto, suho kožo, zjutraj in zvečer. Nadaljujte z vlažilno kremo. Začnite enkrat na dan, če ste novi v aktivni negi kože.",
-  "warningTitle": "Opozorilo",
-  "warningBody": "Samo za zunanjo uporabo. Izogibajte se neposrednemu stiku z očmi. Če pride do draženja, prenehajte z uporabo. Hranite zunaj dosega otrok."
- },
- "partners": {
-  "label": "Postanite partner podjetja Tava Labs",
-  "titleLead": "Podarite svojim ustanoviteljem brezplačen mesec",
-  "titleAccent": "Tava Labs.",
-  "intro": "Tava Labs sodeluje s pospeševalniki, univerzami, angelskimi vlagatelji in skupnostmi ustanoviteljev. Vaši člani prejmejo prvi mesec PDRN Brightening Serum brezplačno.",
-  "tagline": "Brezplačen mesec od nas, brez stroškov in brez obveznosti.",
-  "becomePartner": "Postanite partner",
-  "partnershipsContact": "Kontakt za partnerstva",
-  "audiences": [
-   {
-    "alt": "Ustanovitelji zagonskih podjetij na seji pospeševalnika",
-    "title": "Za pospeševalnike",
-    "body": "Vaši ustanovitelji predstavljajo, demonstrirajo in snemajo vsebine od prvega dne. Dajte jim mesec dnevne nege kože, ki med programom traja dve minuti na dan.",
-    "how": "Kako deluje: vsakemu ustanovitelju v vaši skupini pošljemo eno brezplačno stekleničko, z osebnim načrtom iz kviza o koži. Vi nas enkrat predstavite; za vse ostalo poskrbimo mi."
-   },
-   {
-    "alt": "Univerzitetni študenti na kampusu",
-    "title": "Za univerze",
-    "body": "Študenti podjetništva gradijo v javnosti: tekmovanja v predstavitvah, dnevi demonstracij, pogovori ustanoviteljev in prvi sestanki z vlagatelji. Brezplačen mesec Tava Labs je praktično in nepozabno darilo za študente v vašem programu.",
-    "how": "Kako deluje: zagotovimo stekleničke za vašo skupino, razred ali dogodek ter preprost letak. Brez stroškov za univerzo in brez stroškov za študente."
-   },
-   {
-    "alt": "Sestanek vlagatelja z ustanoviteljem",
-    "title": "Za angelske vlagatelje",
-    "body": "Brezplačen mesec Tava Labs je praktično darilo za ustanovitelje v vašem portfelju. Mi poskrbimo za dostavo in njihove osebne načrte.",
-    "how": "Kako deluje: povejte nam, koliko ustanoviteljev želite obdariti, in uredimo dostavo ter njihove osebne načrte. Brez stroškov za vas in brez stroškov zanje."
-   }
-  ],
-  "whyTitleLead": "Nič stroškov. Nič truda.",
-  "whyTitleAccent": "Resnična vrednost.",
-  "why": [
-   {
-    "title": "Več vrednosti od prvega dne",
-    "body": "Vaši člani dobijo pravi izdelek in osebni načrt, ne kode za popust, ki jo bodo pozabili."
-   },
-   {
-    "title": "Nič stroškov za vas",
-    "body": "Prvi mesec je na naš račun, za vsako osebo, ki jo obdarite."
-   },
-   {
-    "title": "Nič truda za vas",
-    "body": "Mi poskrbimo za dostavo, uvajanje in podporo. Vi naredite eno predstavitev."
-   },
-   {
-    "title": "Darilo, ki ga bodo dejansko uporabljali",
-    "body": "En korak, zjutraj in zvečer. Ustreza urniku ustanovitelja, ker je bilo zasnovano zanj."
-   }
-  ],
-  "formulationTitle": "Izdelano brez teh sestavin.",
-  "formulationSub": "Serum je izdelan brez sestavin, o katerih vaši člani sprašujejo najpogosteje:",
-  "stepsTitle": "Kako partnerstvo deluje",
-  "steps": [
-   {
-    "title": "Obrnite se na nas",
-    "body": "Povejte nam o svojem programu in koliko ljudi želite obdariti."
-   },
-   {
-    "title": "Mi uredimo darilo",
-    "body": "Pošljemo serum in za vsako osebo pripravimo osebni načrt iz kviza o koži."
-   },
-   {
-    "title": "Vi podarite darilo",
-    "body": "Vaši člani prejmejo brezplačen mesec seruma, z zahvalno opombo od nas v vsaki škatli."
-   }
-  ],
-  "closingTitleLead": "Dajte svojim ustanoviteljem",
-  "closingTitleAccent": "mesec brezplačno.",
-  "closingSegments": [
-   {
-    "text": "Pišite na "
-   },
-   {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
-   },
-   {
-    "text": " ali pokličite "
-   },
-   {
-    "text": "909-906-1308",
-    "href": "tel:+19099061308"
-   },
-   {
-    "text": ", in uredili bomo."
-   }
-  ]
- },
- "blog": {
-  "label": "The Tava Journal",
-  "titleLead": "Raziskave o spanju in stresu",
-  "titleAccent": "za ustanovitelje",
-  "sub": "Članki o znanosti spanja, raziskavah stresa in zdravju kože za ustanovitelje in lastnike podjetij.",
-  "readStory": "Preberite zgodbo"
- },
- "research": {
-  "pill": "Serija raziskav 001 · Rezultati udeležencev",
-  "h1Lead": "16-tedenski pogled na izmerjene",
-  "h1Accent": "spremembe kože.",
-  "heroSub": "Prospektivni, odprti program udeležencev, ki združuje osebno rutino nege kože, dodatke in smernice za življenjski slog. Vsaka številka na tej strani prihaja iz poročila, izmerjena v izhodišču in v 16. tednu.",
-  "chips": [
-   "Prospektivno in odprto",
-   "Ena skupina",
-   "Pod zdravniškim nadzorom",
-   "Klinično raziskovalno mesto v živo"
-  ],
-  "headlineLabel": "Glavni rezultat",
-  "headlineTitle": "Skupno število aknastih lezij je padlo s 16,8 na 6,2",
-  "slopeAria": "Graf naklona, ki prikazuje skupno število aknastih lezij od 16,8 v izhodišču do 6,2 v 16. tednu",
-  "slopeBaseline": "Izhodišče 16,8",
-  "slopeWeek": "16. teden · 6,2",
-  "slopeNote": "Ravna črta le med dvema izmerjenima točkama. Poročilo ni objavilo vrednosti rezultatov za 4., 8. ali 12. teden.",
-  "badges": [
-   {
-    "big": "60 odstotkov višje",
-    "small": "Vlaženje kože, 29,4 AU do 47,1 AU"
-   },
-   {
-    "big": "52 odstotkov nižje",
-    "small": "Ocena klinične teksture, 2,7 od 4 do 1,3 od 4"
-   }
-  ],
-  "statsLabels": [
-   "Tedni v programu",
-   "Vključeni odrasli",
-   "Ljudje, ki so opravili vse obiske",
-   "Stopnja dokončanja"
-  ],
-  "percentWord": "odstotkov",
-  "resultsBg": "Rezultati",
-  "resultsLabel": "Povprečna sprememba · Izhodišče do 16. tedna",
-  "resultsTitle": "Kaj se je spremenilo, v preprostih številkah.",
-  "resultsSub": "Rezultati za 84 udeležencev, ki so opravili vse obiske. Vsaka kartica primerja dve časovni točki, ki ju je študija dejansko izmerila.",
-  "baseline": "Izhodišče",
-  "week16": "16. teden",
-  "slopeFoot": "Izhodišče do 16. tedna",
-  "results": [
-   {
-    "title": "Skupno število aknastih lezij",
-    "change": "63 odstotkov manj",
-    "note": "Lezije, ki jih je preštel dermatolog"
-   },
-   {
-    "title": "Vlaženje kože",
-    "change": "60 odstotkov višje",
-    "note": "Meritev s korneometrom v AU"
-   },
-   {
-    "title": "Indeks eritema in rdečice",
-    "change": "30 odstotkov manj",
-    "note": "Indeks kromametra"
-   },
-   {
-    "title": "Indeks melanina in pigmentacije",
-    "change": "25 odstotkov manj",
-    "note": "Indeks kromametra"
-   },
-   {
-    "title": "Ocena klinične teksture",
-    "change": "52 odstotkov nižje",
-    "note": "Ocenjeno na lestvici od 0 do 4"
-   }
-  ],
-  "peopleBg": "Ljudje",
-  "participantsLabel": "Kdo je sodeloval",
-  "participantsTitle": "Kdo je sodeloval v programu.",
-  "participantsSub": "Pet obiskov skozi program, od izhodišča do 16. tedna.",
-  "ageLabel": "Povprečna starost",
-  "ageSuffix": "Let starosti · Razpon 20 do 48",
-  "visitTimeline": "Časovnica obiskov",
-  "visits": [
-   {
-    "name": "Izhodišče",
-    "desc": "Pregled, meritve in fotografiranje"
-   },
-   {
-    "name": "4. teden",
-    "desc": "Nadaljnja ocena"
-   },
-   {
-    "name": "8. teden",
-    "desc": "Nadaljnja ocena"
-   },
-   {
-    "name": "12. teden",
-    "desc": "Nadaljnja ocena"
-   },
-   {
-    "name": "16. teden",
-    "desc": "Končne meritve in fotografiranje"
-   }
-  ],
-  "genderTitle": "Razdelitev po spolu",
-  "genderAria": "Krožni graf razdelitve po spolu, 74 odstotkov žensk, 24 odstotkov moških, 2 odstotka nebinarnih",
-  "gender": [
-   {
-    "label": "Ženske",
-    "pct": "74 odstotkov"
-   },
-   {
-    "label": "Moški",
-    "pct": "24 odstotkov"
-   },
-   {
-    "label": "Nebinarni",
-    "pct": "2 odstotka"
-   }
-  ],
-  "donutNote": "Krožni graf se animira do poročane razdelitve, ko pride v vidno polje.",
-  "concernsTitle": "Izhodiščne težave kože",
-  "concerns": [
-   "Postinflamatorna hiperpigmentacija",
-   "Neenakomerna tekstura in hrapavost",
-   "Vnetne akne",
-   "Rdečica obraza in občutljivost",
-   "Temni kolobarji pod očmi",
-   "Suhost in oslabljena pregrada",
-   "Drobne gubice in zgodnje fotostaranje"
-  ],
-  "concernsNote": "Udeleženci so lahko navedli več kot eno težavo, zato se ti deleži ne seštejejo v 100 odstotkov.",
-  "programBg": "Program",
-  "programLabel": "Program in protokol",
-  "programTitle": "16-tedenski program, korak za korakom.",
-  "programSub": "Udeleženci so prejeli osebni pregled, izdajo izdelkov, usposabljanje za nanos in nadaljnje ocene na kliničnem raziskovalnem mestu.",
-  "morningTag": "Jutranja rutina",
-  "morningTitle": "Začnite dan",
-  "amSteps": [
-   "Nežno čistilo",
-   "Serum z vitaminom C, 15 odstotkov",
-   "Ceramidna vlažilna krema",
-   "Mineralna zaščita pred soncem, SPF 50"
-  ],
-  "eveningTag": "Večerna rutina",
-  "eveningTitle": "Zaključite dan",
-  "pmSteps": [
-   "Nežno čistilo",
-   "Serum z niacinamidom 5 odstotkov in cinkom",
-   "Peptidna krema za pregrado",
-   "Retinol 0,3 odstotka, uveden v 2. tednu in titriran pod vodstvom klinika"
-  ],
-  "routineNote": "Retinol se je uporabljal 3 do 5 noči na teden po začetnem dvotedenskem obdobju uvajanja. Po potrebi se je za aktivne lezije uporabljala 2-odstotna salicilna kislina.",
-  "supplementLabel": "Rutina dodatkov",
-  "supplementTitle": "Tava Skin Complex",
-  "supplementSub": "Dve kapsuli na dan z zajtrkom. Količine so navedene na porcijo dveh kapsul.",
-  "supplements": [
-   "Vitamin C",
-   "Cink",
-   "Niacinamide",
-   "Astaxanthin",
-   "Curcumin phytosome",
-   "Mešanica probiotikov Lactobacillus"
-  ],
-  "supplementNote": "Izbirni dodatek, Omega 3, ena mehka kapsula na dan.",
-  "nutritionTitle": "Smernice za prehrano",
-  "nutritionItems": [
-   "Vsaj 2,5 L vode na dan",
-   "Zelenjava, jagodičevje in živila, bogata z omega 3",
-   "Omejite dodani sladkor in živila z visokim glikemičnim indeksom",
-   "Izbirna dvotedenska ponastavitev z malo mlečnih izdelkov in malo sladkorja",
-   "Izhodiščno svetovanje z registriranim dietetikom"
-  ],
-  "lifestyleTitle": "Cilji življenjskega sloga",
-  "lifestyleItems": [
-   "7 do 9 ur spanja",
-   "Vsaj 150 minut zmerne aktivnosti na teden",
-   "Petminutna dnevna dihalna vaja",
-   "Spanje, beleženo tedensko",
-   "Navade vlaženja in zaščite pred soncem, pregledane ob obiskih"
-  ],
-  "adherenceLabel": "Spremljanje programa",
-  "adherenceTitle": "Kako natančno so ljudje ostali pri načrtu.",
-  "adherenceSub": "Upoštevanje skozi celih 16 tednov, kot je zabeleženo v poročilu.",
-  "adherence": [
-   "Splošno upoštevanje",
-   "Upoštevanje dodatkov",
-   "Upoštevanje lokalne nege"
-  ],
-  "adherenceAria": "{label}, {val} odstotkov",
-  "adherenceFoot": "Skozi 16-tedenski program",
-  "safetyBg": "Varnost",
-  "safetyLabel": "Poročani neželeni učinki",
-  "safetyTitle": "Kaj so udeleženci poročali.",
-  "safetySub": "Deleži udeležencev, ki so med programom poročali o posameznem učinku.",
-  "sideEffectsTitle": "Neželeni učinki",
-  "sideEffects": [
-   "Blaga suhost ali luščenje",
-   "Začasen izbruh aken",
-   "Blago prebavno nelagodje"
-  ],
-  "withdrawalsTitle": "Umiki",
-  "withdrawalsSub": "8 udeležencev se je umaknilo od 92 vključenih.",
-  "withdrawals": [
-   {
-    "label": "Konflikti urnika",
-    "value": "5 ljudi"
-   },
-   {
-    "label": "Blagi neželeni učinki",
-    "value": "2 osebi"
-   },
-   {
-    "label": "Izgubljeni za spremljanje",
-    "value": "1 oseba"
-   }
-  ],
-  "alertTitle": "Ni poročil o resnih neželenih dogodkih.",
-  "alertBody": "Ta vrstica je v poročilu navedena ob blagih učinkih, navedenih na tej strani. Tukaj je vključena točno tako, kot je bila poročana.",
-  "photoLabel": "Vizualna dokumentacija",
-  "photoTitle": "Primerjave fotografij udeležencev.",
-  "photoSub": "Fotografije ena ob drugi iz štirimesečnega programa. Leva slika v vsakem paru je prikazovala izhodišče, desna pa 16. teden. Na tej strani ni reproduciranih nobenih fotografij udeležencev.",
-  "participant": "Udeleženec {initial}",
-  "docViews": [
-   "Pogled s stranskega profila",
-   "Pogled od spredaj",
-   "Pogled od spredaj z očali",
-   "Pogled ličnice od blizu"
-  ],
-  "baselineAndWeek": "Izhodišče in 16. teden",
-  "photoProtocolTitle": "Protokol fotografiranja",
-  "photoProtocol": "Standardiziran posnetek v izhodišču in ob spremljanju z fiksno nastavitvijo kamere, dosledno vidno in navzkrižno polarizirano svetlobo, koti od spredaj, 45 stopinj in profil ter barvno umerjeno ozadje.",
-  "methodsLabel": "Kako so bile meritve opravljene",
-  "methodsTitle": "Klinične meritve",
-  "methods": [
-   "Aknaste lezije, ki jih je preštel dermatolog",
-   "Vlaženje s korneometrom",
-   "Indeksi rdečice in melanina s kromametrom",
-   "Ocenjevanje teksture na lestvici od 0 do 4",
-   "Standardizirana fotografija"
-  ],
-  "factsLabel": "Zasnova študije",
-  "factsTitle": "Zasnova na prvi pogled.",
-  "facts": [
-   {
-    "k": "Zasnova",
-    "v": "Prospektivna, odprta, ena skupina"
-   },
-   {
-    "k": "Okolje",
-    "v": "V živo, pod zdravniškim nadzorom"
-   },
-   {
-    "k": "Ocene",
-    "v": "Izhodišče ter 4., 8., 12. in 16. teden"
-   },
-   {
-    "k": "Dokončano",
-    "v": "84 od 92 vključenih · 91 odstotkov"
-   }
-  ],
-  "source": "Vir, Tava Labs Participant Outcomes, Research Series 001, 16-tedenski program udeležencev. Ta stran predstavlja le številke iz poročila, z izhodiščem in 16. tednom kot dvema izmerjenima točkama rezultatov."
- },
- "account": {
-  "signedInAs": "Prijavljeni ste kot",
-  "signOut": "Odjava",
-  "loading": "Nalaganje vašega računa …",
-  "failedTitle": "Vašega računa nismo mogli naložiti",
-  "failedSegments": [
-   {
-    "text": "Preverite povezavo in poskusite znova. Če se to ponavlja, pišite na "
-   },
-   {
-    "text": "support@tavalabs.app",
-    "href": "mailto:support@tavalabs.app"
-   },
-   {
-    "text": " in uredili bomo."
-   }
-  ],
-  "tryAgain": "Poskusite znova",
-  "tabs": {
-   "today": "Danes",
-   "orders": "Naročila",
-   "shop": "Trgovina",
-   "lab": "Laboratorij",
-   "support": "Podpora"
-  },
-  "greetings": {
-   "morning": "Dobro jutro",
-   "afternoon": "Dober dan",
-   "evening": "Dober večer"
-  },
-  "weekInitials": [
-   "S",
-   "P",
-   "T",
-   "S",
-   "T",
-   "Č",
-   "S"
-  ],
-  "streakLine": "P",
-  "dayLine": "{streak} dni zapored · Dan {day} od 30{bottle}",
-  "bottleSuffix": "Dan {day} od 30{bottle}. Danes v aplikaciji opravite rutino in začnite svoj niz.",
-  "progressLine": " · še {days} dni v steklenički",
-  "stepsToGo": "Dan {day} od 30 · še {left} dni do vašega prvega polnega meseca",
-  "todayComplete": "Danes: še {n} od {total} korakov rutine.",
-  "planEyebrow": "Danes je opravljeno. Vaš naslednji dan je že na vrsti.",
-  "planDefault": "Vaš načrt",
-  "retakeQuiz": "Rešite kviz o koži in vaš osebni načrt, sestavljen iz vaših odgovorov, bo živel tukaj in v aplikaciji.",
-  "takeQuiz": "Ponovno rešite kviz o koži",
-  "chipLabels": {
-   "goal": "Rešite kviz o koži",
-   "skinType": "Cilj",
-   "concern": "Tip kože",
-   "routine": "Težava",
-   "plan": "Načrt",
-   "routineTimes": "Rutina"
-  },
-  "labelMaps": {
-   "goal": {
-    "radiance": "Časi rutine",
-    "fine_lines": "Sijaj",
-    "hydration": "Drobne gubice",
-    "even_tone": "Vlaženje"
-   },
-   "skinType": {
-    "dry": "Enakomeren ton",
-    "oily": "Suha",
-    "combination": "Mastna",
-    "sensitive": "Mešana",
-    "not_sure": "Občutljiva"
-   },
-   "concern": {
-    "dullness": "Nisem prepričan",
-    "fine_lines": "Sijaj",
-    "uneven_tone": "Pustost",
-    "texture": "Neenakomeren ton",
-    "dryness": "Tekstura"
-   },
-   "sensitivity": {
-    "often": "Suhost",
-    "sometimes": "Pogosto občutljiva",
-    "never": "Včasih občutljiva"
-   },
-   "routine": {
-    "cleanser_only": "Redko občutljiva",
-    "few_products": "Samo čistilo",
-    "full_routine": "Nekaj izdelkov"
-   },
-   "ramp": {
-    "gentle": "Popolna rutina",
-    "standard": "Nežno uvajanje",
-    "full": "Standardno uvajanje"
-   }
-  },
-  "morningEyebrow": "Jutranja rutina",
-  "nightEyebrow": "Polna moč",
-  "amTitle": "Dopoldne · 3 kapljice",
-  "pmTitle": "Nočna rutina",
-  "amSteps": [
-   {
-    "title": "Očistite",
-    "detail": "Nežno čistilo, popivnajte do suhega"
-   },
-   {
-    "title": "Nanesite 3 kapljice seruma",
-    "detail": "Vtiskajte v obraz in vrat"
-   },
-   {
-    "title": "Navlažite + zaščita pred soncem",
-    "detail": "SPF 30 ali višji"
-   }
-  ],
-  "pmSteps": [
-   {
-    "title": "Zvečer · 3 kapljice",
-    "detail": "Dvojno čiščenje"
-   },
-   {
-    "title": "Nanesite 3 kapljice seruma",
-    "detail": "Odstranite SPF in ličila"
-   },
-   {
-    "title": "Pred retinolom ali negami",
-    "detail": "Nočna vlažilna krema"
-   }
-  ],
-  "stepsNote": "Zapečatite vlaženje",
-  "ordersEyebrow": "Naročila",
-  "ordersTitle": "Korake odkljukate v mobilni aplikaciji. Ta stran prikazuje današnjo rutino in to, kar je aplikacija danes do zdaj zabeležila.",
-  "ordersEmpty": "Vaša naročila",
-  "paid": "Še ni naročil. Ko boste kupili, se bodo vaša naročila in sledenje prikazali tukaj in v aplikaciji.",
-  "paymentFailed": "Plačano",
-  "unpaid": "Plačilo ni uspelo",
-  "statusLabels": [
-   "Neplačano",
-   "Naročeno",
-   "Odposlano",
-   "Dostavljeno"
-  ],
-  "subscription": "Naročnina",
-  "carrierFallback": "Prevoznik",
-  "trackPackage": "Sledite paketu",
-  "claimEyebrow": "Koda za prevzem",
-  "claimTitle": "Povezava nakupa z aplikacijo",
-  "claimForOrder": "Vaša koda za prevzem za naročilo {order}",
-  "claimYourCode": "Vaša koda za prevzem",
-  "claimValidUntil": " (velja do {date})",
-  "claimEnter": ". Vnesite jo v aplikaciji Tava pod Naročila, da povežete ta nakup z vašim računom v aplikaciji:",
-  "claimWebNote": "Tukaj v spletu kode ne potrebujete. Prijava z vašim e-poštnim naslovom z blagajne že prikazuje vaša naročila in načrt zgoraj.",
-  "claimEmpty": "Ste kupili prek kviza ali tega mesta? Vaše potrditveno e-poštno sporočilo in stran takoj po blagajni sta prikazala kodo za prevzem. Odprite mobilno aplikacijo Tava, se prijavite in vnesite kodo v zavihku Naročila. Vaš nakup, načrt in odgovori na kviz se preselijo v vaš račun v aplikaciji. Tukaj v spletu prijava z istim e-poštnim naslovom, ki ste ga uporabili na blagajni, že prikazuje vse zgoraj. Nič drugega ni treba vnesti.",
-  "shop": {
-   "eyebrow": "PDRN Brightening Serum",
-   "title": "Nakupujte Tava Labs",
-   "body": "1 fl oz (30 ml). Zmanjšajte drobne gubice, globoko vlažite, povrnite sijaj in okrepite kožo. 2 do 4 pritiski, zjutraj in zvečer.",
-   "subscribeLine": "Naročite se, $39 na mesec.",
-   "subscribeRest": " Vsak mesec sveža steklenička, samodejno.",
-   "oneTimeLine": "Enkratno, $49.",
-   "oneTimeRest": " Ena steklenička.",
-   "subscribeBtn": "Naročite se, $39 na mesec",
-   "buyOnceBtn": "Kupite enkrat, $49",
-   "stripeNote": "Varna blagajna Stripe. Plačilo boste potrdili na strani Stripe."
-  },
-  "labTab": {
-   "eyebrow": "Laboratorij",
-   "title": "Spoznajte svoje številke.",
-   "sub": "Pravi krvni paneli, naročeni pod vašim računom Tava. Prebrskajte panele, oglejte si vsak označevalec pred naročilom in prejmite izvide, dostavljene kar sem."
-  },
-  "support": {
-   "eyebrow": "Podpora",
-   "title": "Tukaj smo, da pomagamo",
-   "segments": [
-    {
-     "text": "Pišite na "
-    },
-    {
-     "text": "support@tavalabs.app",
-     "href": "mailto:support@tavalabs.app"
-    },
-    {
-     "text": " ali pokličite "
-    },
-    {
-     "text": "909-906-1308",
-     "href": "tel:+19099061308"
-    },
-    {
-     "text": "."
-    }
-   ],
-   "links": {
-    "general": "Splošna vprašanja",
-    "productSupport": "Podpora za izdelke",
-    "salesSupport": "Podpora za naročila in prodajo",
-    "faqs": "Pogosta vprašanja",
-    "shipping": "Politika dostave",
-    "returns": "Politika vračil"
-   }
-  }
- },
- "lab": {
-  "ordersLabel": "Klinični pregled",
-  "ordersTitle": "Vaša laboratorijska naročila",
-  "loadingOrders": "Nalaganje vaših naročil …",
-  "ordersEmpty": "Tukaj še ni ničesar. Ko opravite panel, vsak označevalec pristane tukaj s svojo vrednostjo, svojim zdravim razponom in tem, kako se spreminja skozi čas. Spodaj naročite svoj prvi panel in ta prostor se zapolni.",
-  "viewResults": "Oglejte si izvide",
-  "howLabel": "Kako delujejo laboratoriji",
-  "howTitle": "Štirje koraki, en odvzem",
-  "steps": [
-   {
-    "title": "Izberite panel",
-    "body": "Izberite panel, ki ustreza temu, kar želite izvedeti. Vsak označevalec v njem je naveden pred naročilom."
-   },
-   {
-    "title": "Pregled zdravnika",
-    "body": "Licencirani zdravnik pregleda in odobri vsako naročilo, zato ločen obisk pri zdravniku ni potreben."
-   },
-   {
-    "title": "Pridite na odvzem",
-    "body": "En hiter odvzem krvi na zbirnem mestu v vaši bližini. Večina obiskov traja približno petnajst minut."
-   },
-   {
-    "title": "Izvidi pristanejo tukaj",
-    "body": "Izvidi se v nekaj dneh dostavijo digitalno v ta zavihek, z vsakim označevalcem in njegovim razponom."
-   }
-  ],
-  "panelsLabel": "Paneli",
-  "panelsTitle": "Štirinajst panelov, zgrajenih okoli tega, kar spremljate",
-  "panelsSub": "Vsak panel prikazuje svojo ceno. Naročanje se odpre, ko se vklopi blagajna, licencirani zdravnik pa pregleda vsako naročilo, preden se vaši izvidi dostavijo kar sem. Panelov ni mogoče naročiti za naslove v New Yorku, New Jerseyju ali Rhode Islandu.",
-  "markersSuffix": "{n} označevalcev",
-  "resultsInDays": "Izvidi v nekaj dneh",
-  "hideMarkers": "Skrijte označevalce",
-  "seeMarkers": "Oglejte si označevalce",
-  "markersAria": "Označevalci v panelu {name}",
-  "disclaimer": "Vpogledi laboratorija so informacije o vašem lastnem zdravju in niso diagnoza. O vsakem izvidu, ki vas skrbi, se pogovorite s svojim zdravnikom, v nujnem primeru pa pokličite 911.",
-  "panelsById": {
-   "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
-    "name": "Athletic Performance Panel",
-    "description": "Pripravljenost na trening in okrevanje: krvne slike, presnovni panel, zaloge železa, vitamin D, testosteron, vnetje in mišični encimi.",
-    "collection": "Odvzem krvi ob prihodu"
-   },
-   "38c76039-05dc-4cd3-8475-7a675989fbf2": {
-    "name": "Baseline Wellness Panel",
-    "description": "Začetna točka za celo telo: krvne slike, presnovno zdravje, holesterol, krvni sladkor, vitamin D in ščitnica.",
-    "collection": "Odvzem krvi ob prihodu"
-   },
-   "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
-    "name": "Energy & Fatigue Panel",
-    "description": "Običajni osumljenci za nizko energijo: zaloge in transport železa, B12, folat, vitamin D, ščitnica in krvne slike.",
-    "collection": "Odvzem krvi ob prihodu"
-   },
-   "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
-    "name": "Female Baseline Panel",
-    "description": "Osredotočen panel 14 označevalcev, v celoti naveden spodaj.",
-    "collection": "Odvzem krvi ob prihodu"
-   },
-   "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
-    "name": "GLP1 Panel",
-    "description": "Osredotočen panel 10 označevalcev, v celoti naveden spodaj.",
-    "collection": "Odvzem krvi ob prihodu"
-   },
-   "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
-    "name": "Heart Health Panel",
-    "description": "Kardiovaskularno tveganje onkraj osnovnega holesterola: lipidi, ApoB, Lp(a), hs-CRP in homocistein.",
-    "collection": "Odvzem krvi ob prihodu"
-   },
-   "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
-    "name": "Longevity Panel",
-    "description": "Celovit letni poglobljeni pregled presnovnih, kardiovaskularnih, vnetnih in hormonskih označevalcev zdravja.",
-    "collection": "Odvzem krvi ob prihodu"
-   },
-   "b909fb21-b264-483c-a915-4ce87713cfa9": {
-    "name": "Male Baseline Test",
-    "description": "Osredotočen panel 12 označevalcev, v celoti naveden spodaj.",
-    "collection": "Odvzem krvi ob prihodu"
-   },
-   "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
-    "name": "Male TRT Panel",
-    "description": "Osredotočen panel 16 označevalcev, v celoti naveden spodaj.",
-    "collection": "Odvzem krvi ob prihodu"
-   },
-   "abfabb68-c777-4457-87c2-46bf5fe26d81": {
-    "name": "Men's Hormone Panel",
-    "description": "Stanje moških hormonov: skupni testosteron, SHBG, estradiol, LH in FSH.",
-    "collection": "Odvzem krvi ob prihodu"
-   },
-   "f12fe316-367a-4c53-9735-8c0129c45506": {
-    "name": "Metabolic Health Panel",
-    "description": "Nadzor krvnega sladkorja in presnovno tveganje: A1c, inzulin na tešče, holesterol in celoten presnovni panel.",
-    "collection": "Odvzem krvi ob prihodu"
-   },
-   "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
-    "name": "Stress & Recovery Panel",
-    "description": "Obremenitev s stresom in zmožnost okrevanja: kortizol, DHEA-S, ščitnica in vnetje.",
-    "collection": "Odvzem krvi ob prihodu"
-   },
-   "1760616d-44d3-4654-817d-440a969e5cdf": {
-    "name": "Thyroid Complete Panel",
-    "description": "Celotna preiskava ščitnice: TSH, prosti T4, prosti T3 in protitelesa TPO.",
-    "collection": "Odvzem krvi ob prihodu"
-   },
-   "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
-    "name": "Women's Hormone Panel",
-    "description": "Stanje ženskih hormonov: estradiol, progesteron, FSH, LH, DHEA-S in testosteron.",
-    "collection": "Odvzem krvi ob prihodu"
-   }
-  },
-  "detail": {
-   "backToAccount": "Nazaj na vaš račun",
-   "notFoundTitle": "Tega laboratorijskega naročila ni bilo mogoče najti",
-   "notFoundBody": "Morda pripada drugemu e-poštnemu naslovu. Prijavite se z e-poštnim naslovom, pod katerim ste naročili, in poskusite znova.",
-   "clinicalReview": "KLINIČNI PREGLED",
-   "loadingResults": "Nalaganje vaših izvidov …",
-   "yourPanel": "Vaš panel",
-   "markerFallback": "Označevalec",
-   "headlines": {
-    "loading": "Pridobivanje vaših izvidov",
-    "pending": "Vaši izvidi so na poti",
-    "allIn": "Vsi vaši izvidi so prispeli.",
-    "in": "Vaši izvidi so prispeli."
-   },
-   "sublines": {
-    "loading": "En trenutek, medtem ko se nalaga laboratorijsko poročilo.",
-    "pending": "Takoj ko laboratorij poroča, se ta stran zapolni z vsakim označevalcem, njegovo vrednostjo in njegovim zdravim razponom.",
-    "allIn": "Vsak označevalec je v razponu. Tukaj je celotna slika.",
-    "oneAttention": "En označevalec potrebuje natančnejši pogled. Poglobimo se.",
-    "manyAttention": "{n} označevalcev potrebuje natančnejši pogled. Poglobimo se."
-   },
-   "orderedPrefix": "Neplačano",
-   "statusPrefix": "Stanje:",
-   "notInYetTitle": "Izvidi še niso prispeli",
-   "notInYetBody": "Večina panelov poroča v nekaj dneh po vašem odvzemu. Ko vaš prispe, ta stran prikaže celoten pogled ravnovesja z vsakim označevalcem in njegovim razponom.",
-   "markerBalance": "Ravnovesje vaših označevalcev",
-   "biomarkers": "BIOMARKERJI",
-   "analyzedSuffix": "{pct} % analiziranih",
-   "statusNames": {
-    "optimal": "Optimalno",
-    "inRange": "V razponu",
-    "attention": "Potrebuje pozornost"
-   },
-   "statusLabels": {
-    "optimal": "OPTIMALNO",
-    "inRange": "V RAZPONU",
-    "attention": "OZNAČENO"
-   },
-   "basePrefix": "Osnova: {name}",
-   "updatedPrefix": "Posodobljeno {date}",
-   "updatedRecently": "Nedavno posodobljeno",
-   "triageTitle": "Razvrščanje stanj",
-   "tapToFilter": "Tapnite za filtriranje",
-   "triageSubs": {
-    "optimal": "Točno tam, kjer jih želite",
-    "inRange": "Znotraj zdravega razpona",
-    "attention": "Vredno pogovora z vašim zdravnikom"
-   },
-   "allFilter": "Vsi ({n})",
-   "rangePrefix": "Razpon {range}",
-   "disclaimer": "Laboratorijski izvidi so informacije o vašem lastnem zdravju in niso diagnoza. O vsakem izvidu, ki vas skrbi, se pogovorite s svojim zdravnikom, v nujnem primeru pa pokličite 911."
-  }
- },
- "login": {
-  "brandHeadLead": "Dobrodošli",
-  "brandHeadAccent": "nazaj.",
-  "brandCopy": "Vaš načrt, vaša naročila in vaša rutina. En e-poštni naslov povezuje aplikacijo in splet.",
-  "label": "Vaš račun Tava",
-  "title": "Prijava",
-  "intro": "Prijavite se z e-poštnim naslovom, ki ste ga uporabili na blagajni ali v mobilni aplikaciji Tava. Vaš načrt, naročila in rutina so vezani na ta e-poštni naslov, zato se vse tukaj ujema z aplikacijo. Geslo ni potrebno. Pošljemo vam povezavo za prijavo po e-pošti in tap nanjo vas pripelje v vaš račun.",
-  "emailLabel": "E-poštni naslov",
-  "invalidEmail": "Vnesite veljaven e-poštni naslov.",
-  "sendFailed": "Tega e-poštnega sporočila nismo mogli poslati. Preverite naslov in poskusite znova.",
-  "sending": "Pošiljanje …",
-  "sendButton": "Pošljite mi povezavo za prijavo po e-pošti",
-  "sentNotice": "Povezava za prijavo poslana na {email}. Lahko traja minuto, da prispe. Če je ne vidite, preverite mapo z vsiljeno pošto.",
-  "sentBody": "Odprite to e-poštno sporočilo v tej napravi in tapnite povezavo v njem. Pristali boste v svojem računu, že prijavljeni. Povezava deluje enkrat in poteče, zato jo uporabite kmalu.",
-  "resend": "Ponovno pošljite e-poštno sporočilo",
-  "differentEmail": "Uporabite drug e-poštni naslov",
-  "footNote": "Ste tukaj prvič? Ista povezava ustvari vaš račun. Uporabite e-poštni naslov iz svojega naročila in vse vas že čaka.",
-  "claimLabel": "Ste kupili v spletu, uporabljate aplikacijo?",
-  "claimTitle": "Uporabite svojo kodo za prevzem v aplikaciji",
-  "claimBody1": "Ko ste kupili prek kviza ali tega mesta, je vaše e-poštno sporočilo s potrditvijo nakupa (in stran takoj po blagajni) prikazalo kodo za prevzem. Odprite mobilno aplikacijo Tava, se prijavite in vnesite to kodo v zavihku Naročila. Vaš nakup, načrt in odgovori na kviz se preselijo v vaš račun v aplikaciji, brez drugega nakupa.",
-  "claimBody2": "V spletu je še preprosteje. Zgoraj se prijavite z istim e-poštnim naslovom, ki ste ga uporabili na blagajni, in vaša naročila ter načrt so že tukaj.",
-  "faqButton": "Vprašanja? Oglejte si pogosta vprašanja"
- },
- "checkout": {
-  "title": "Blagajna",
-  "closeAria": "Zaprite blagajno",
-  "planOneTime": "PDRN Brightening Serum · $49 · Enkratni nakup",
-  "planSubscribe": "PDRN Brightening Serum · $39 na mesec · Subscribe & Save 20%",
-  "email": "E-pošta",
-  "firstName": "Ime",
-  "lastName": "Priimek",
-  "streetAddress": "Ulični naslov",
-  "addressLine2": "Vrstica naslova 2 (izbirno)",
-  "city": "Mesto",
-  "state": "Zvezna država",
-  "zip": "ZIP",
-  "country": "Država",
-  "phoneOptional": "Telefon (izbirno)",
-  "missingIntro": "Skoraj ste tam. Dodajte svoje {fields}.",
-  "missingNames": {
-   "email": "veljaven e-poštni naslov",
-   "firstName": "ime",
-   "lastName": "priimek",
-   "address1": "ulični naslov",
-   "city": "mesto",
-   "state": "zvezna država",
-   "zip": "poštna številka ZIP"
-  },
-  "creating": "Ustvarjanje vaše blagajne …",
-  "taking": "Vodimo vas na varno blagajno …",
-  "continueBtn": "Nadaljujte na plačilo",
-  "startError": "Blagajne ni bilo mogoče začeti. Preverite svoje podatke in poskusite znova. Nič ni bilo bremenjeno.",
-  "stripeNote": "Varna blagajna Stripe. Plačilo boste potrdili na strani Stripe. Za zdaj še nič ni bremenjeno."
- },
- "legal": {
-  "governsNote": "Ta stran je prevod angleškega izvirnika. Če se besedilo kdaj razlikuje, velja angleška različica."
- }
 }

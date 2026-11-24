@@ -1,1943 +1,2052 @@
 {
- "meta": {
+  "meta": {
+    "home": {
+      "title": "PDRN Brightening Serum għall Intraprendituri | Tava Labs",
+      "description": "Serum tal wiċċ ta kuljum għall fundaturi u sidien tan negozji. PDRN Brightening Serum b PDRN, peptidi u aċidu jaluroniku għal ġilda li tidher aktar luminuża u idratata. $49 darba waħda jew $39 fix xahar."
+    },
+    "product": {
+      "title": "PDRN Brightening Serum għall Intraprendituri | Tava Labs",
+      "description": "Il PDRN Brightening Serum ta Tava Labs huwa serum tal wiċċ ta kuljum b PDRN, peptidi u sodium hyaluronate għal ġilda li tidher aktar luminuża u idratata. Magħmul għall fundaturi u sidien tan negozji. $49 darba waħda jew $39 fix xahar."
+    },
+    "moisturizer": {
+      "title": "Peptide Moisturizer għal fundaturi u sidien ta negozji | Tava Labs",
+      "description": "Il Peptide Moisturizer ta Tava Labs huwa moisturizer tal wiċċ bil peptide tar ram u l estratt tal cranberry. Jagħti idratazzjoni lill ġilda u jimmira lejn id dehra ta linji fini u tikmix. 1.7 fl oz (50 ml). $27.99 darba waħda."
+    },
+    "about": {
+      "title": "Dwar Tava Labs | Serum tal Wiċċ għall Fundaturi",
+      "description": "Tava Labs tagħmel prodott wieħed, il PDRN Brightening Serum, serum tal wiċċ ta kuljum għall fundaturi u sidien tan negozji. Aqra min aħna u għaliex għamilnieh."
+    },
+    "ingredients": {
+      "title": "Ingredjenti tal PDRN Brightening Serum | Tava Labs",
+      "description": "Kull ingredjent fil PDRN Brightening Serum spjegat, mill PDRN u l peptidi sas sodium hyaluronate u l panthenol, flimkien mal lista sħiħa INCI u dak li nħallu barra."
+    },
+    "faq": {
+      "title": "Mistoqsijiet Frekwenti u Tweġibiet dwar il PDRN Brightening Serum | Tava Labs",
+      "description": "Tweġibiet dwar il PDRN Brightening Serum: prezzijiet, Abbona u Ffranka, ħinijiet tat tbaħħir, ritorni, il kwizz tal ġilda u kif tgħaqqad ix xiri tiegħek mal app ta Tava."
+    },
+    "contact": {
+      "title": "Ikkuntattja lil Tava Labs | Appoġġ, Bejgħ u Sħubijiet",
+      "description": "Ikkuntattja lil Tava Labs għall appoġġ dwar il prodott, għajnuna bl ordnijiet, bejgħ bl ingrossa, sħubijiet u stampa. Ibgħat email lil support@tavalabs.app għall ordnijiet u għajnuna dwar il-prodotti, jew lil talia@tavalabs.app għall bejgħ bl ingrossa, sħubijiet u stampa. Jew ċempel 909-906-1308."
+    },
+    "partners": {
+      "title": "Ingħaqad ma Tava Labs | Serum B'xejn għall Programm Tiegħek",
+      "description": "Aċċeleraturi, inkubaturi, programmi tan negozju u investituri: agħtu lill fundaturi tagħkom provvista b'xejn ta xahar tal PDRN Brightening Serum. Ingħaqdu ma Tava Labs."
+    },
+    "research": {
+      "title": "Riżultati tar Riċerka ta 16 il Ġimgħa | Tava Labs",
+      "description": "Riżultati mkejla mill programm tal parteċipanti ta 16 il ġimgħa ta Tava Labs. Tibdil mill linja bażi sa ġimgħa 16 fil leżjonijiet tal akne, l idratazzjoni, il ħmura, il pigmentazzjoni u n nisġa, bil protokoll sħiħ tal programm."
+    },
+    "blog": {
+      "title": "The Tava Journal | Ġilda, Irqad u Stress għall Fundaturi",
+      "description": "Xjenza tal irqad, riċerka tal istess u saħħa tal ġilda għall fundaturi u sidien tan negozji, flimkien ma rutini prattiċi biex tidher mistrieħ fuq ix xogħol."
+    },
+    "quiz": {
+      "title": "Kwizz tal Ġilda | Ibni l Pjan Personali tas Serum Tiegħek | Tava Labs",
+      "description": "Wieġeb ftit mistoqsijiet malajr u ibni l pjan personali tiegħek madwar il PDRN Brightening Serum. Serum wieħed, darbtejn kuljum, imfassal għall ġilda tiegħek u l għanijiet tiegħek."
+    },
+    "checkoutSuccess": {
+      "title": "Ordni Kkonfermata | Il PDRN Brightening Serum Tiegħek | Tava Labs",
+      "description": "L ordni tiegħek tal PDRN Brightening Serum ta Tava Labs hija kkonfermata. Il kodiċi ta talba tiegħek jgħaqqad dan ix xiri mal app, fejn tista tara l pjan tiegħek, it tweġibiet tal quiz tiegħek u l ordni tiegħek."
+    },
+    "checkoutCancel": {
+      "title": "Ħlas Imħassar | L Ebda Ħlas Ma Sar | Tava Labs",
+      "description": "Ma sar ebda ħlas. Il pjan u t tweġibiet ta Tava Labs tiegħek huma ssejvjati, sabiex tkun tista tispiċċa l ordni tiegħek aktar tard meta tkun lest."
+    },
+    "login": {
+      "title": "Idħol | Tava Labs",
+      "description": "Idħol fil kont tiegħek ta Tava Labs: il pjan, l ordnijiet, ir rutina u l appoġġ tiegħek, marbuta mal istess email bħall app mobbli."
+    },
+    "account": {
+      "title": "Il Kont Tiegħek | Tava Labs",
+      "description": "Il kont tiegħek ta Tava Labs fuq il web: il pjan, l ordnijiet, ir rutina u l appoġġ tiegħek, marbuta mal istess email bħall app mobbli."
+    },
+    "terms": {
+      "title": "Termini u Kundizzjonijiet | Tava Labs",
+      "description": "It termini li jirregolaw l użu tiegħek ta tavalabs.app u x xiri tiegħek tal PDRN Brightening Serum mingħand Tava Labs, LLC, inkluża l politika tagħna li l bejgħ kollu huwa finali."
+    },
+    "privacy": {
+      "title": "Politika tal Privatezza | Tava Labs",
+      "description": "Kif Tava Labs tiġbor, tuża u tipproteġi l informazzjoni tiegħek meta żżur tavalabs.app, tagħmel il kwizz tal ġilda jew tordna l PDRN Brightening Serum."
+    },
+    "returns": {
+      "title": "Politika tar Ritorni u r Rifondi | Tava Labs",
+      "description": "Il politika tar ritorni u r rifondi ta Tava Labs għall ordnijiet tal PDRN Brightening Serum, inklużi t termini tagħna li l bejgħ kollu huwa finali u kif tilħaq l appoġġ."
+    },
+    "cookies": {
+      "title": "Politika tal Cookies | Tava Labs",
+      "description": "Kif il websajt ta Tava Labs tuża l cookies u għodod simili meta żżur tavalabs.app, x jaħżnu, u kif tista tikkontrollahom."
+    },
+    "shipping": {
+      "title": "Politika tat Tbaħħir | Tava Labs",
+      "description": "Il politika tat tbaħħir ta Tava Labs għall ordnijiet tal PDRN Brightening Serum: ħinijiet tal ipproċessar, stimi tal kunsinna, traċċar u żoni tal kunsinna."
+    }
+  },
+  "chrome": {
+    "homeAria": "Il paġna ewlenija ta Tava Labs",
+    "primaryNavAria": "Prinċipali",
+    "mobileNavAria": "Mobbli",
+    "navSerum": "Is Serum",
+    "navAbout": "Dwarna",
+    "navIngredients": "Ingredjenti",
+    "navFaqs": "Mistoqsijiet Frekwenti",
+    "navBlog": "Blog",
+    "navContact": "Kuntatt",
+    "login": "Idħol",
+    "addToRoutine": "Żid mar rutina",
+    "openMenu": "Iftaħ il menu",
+    "closeMenu": "Agħlaq il menu",
+    "language": "Lingwa",
+    "tagline": "PDRN Brightening Serum għall fundaturi",
+    "shopHeading": "Ħanut",
+    "contactHeading": "Ikkuntattjana",
+    "infoHeading": "Informazzjoni",
+    "legalHeading": "Legali",
+    "footerSerum": "PDRN Brightening Serum",
+    "footerMoisturizer": "Peptide Moisturizer",
+    "footerIngredients": "Ingredjenti",
+    "contactLinks": {
+      "general": "Ġenerali",
+      "wholesale": "Bejgħ bl Ingrossa",
+      "salesSupport": "Appoġġ tal Bejgħ",
+      "productSupport": "Appoġġ tal Prodott",
+      "pr": "PR"
+    },
+    "contactEmails": {
+      "supportLabel": "Ordnijiet u għajnuna dwar il-prodotti",
+      "generalLabel": "Kuntatt ġenerali"
+    },
+    "infoLinks": {
+      "about": "Dwarna",
+      "partners": "Sħab",
+      "ingredients": "Ingredjenti",
+      "faqs": "Mistoqsijiet Frekwenti",
+      "blog": "Blog",
+      "research": "Riċerka"
+    },
+    "newsletterHeading": "Irċievi aġġornamenti ta Tava Labs bl email",
+    "newsletter": {
+      "placeholder": "L email tiegħek",
+      "subscribe": "Abbona",
+      "sending": "Qed jintbagħat...",
+      "done": "Inti abbonat. Grazzi.",
+      "error": "Xi ħaġa marret ħażin, jekk jogħġbok erġa pprova."
+    },
+    "disclaimer1": "Il PDRN Brightening Serum huwa prodott kosmetiku. Mhuwiex maħsub biex jiddijanjostika, jittratta, ifejjaq jew jipprevjeni xi marda. Ir riżultati individwali jistgħu jvarjaw.",
+    "disclaimer2": "Il bejgħ kollu huwa finali. Jekk jogħġbok ara l politika tar Ritorni tagħna qabel tordna.",
+    "copyright": "© 2026 Tava Labs · PDRN Brightening Serum għall fundaturi",
+    "notFoundLabel": "Tava Labs",
+    "notFoundTitle": "Il paġna ma nstabitx",
+    "notFoundBody": "Dik il paġna mhix hawn. Jista jkun li ċċaqalqet, jew li l indirizz mhuwiex komplut.",
+    "notFoundHome": "Lura għall paġna ewlenija",
+    "notFoundShop": "Ixtri l PDRN Brightening Serum",
+    "legalLinks": {
+      "terms": "Termini u Kundizzjonijiet",
+      "privacy": "Politika tal Privatezza",
+      "returns": "Politika tar Ritorni",
+      "cookies": "Politika tal Cookies",
+      "shipping": "Politika tat Tbaħħir"
+    }
+  },
+  "hero": {
+    "ariaLabel": "PDRN Brightening Serum",
+    "pill": "Għall fundaturi u sidien tan negozji",
+    "line1": "Serum tal wiċċ ta kuljum għal",
+    "line2": "ġilda aktar luminuża u lixxa.",
+    "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Applika żewġ sa erba qtar filgħodu u billejl. $49 darba waħda jew $39 fix xahar.",
+    "cardAria": "PDRN Brightening Serum, il paġna tal prodott",
+    "onSetPill": "Fuq il kamera",
+    "onSetCaption": "Għall iffilmjar u sejħiet bil vidjo",
+    "onSetAlt": "Fundatur bilqiegħda fuq set ta studio, iħares lejn il kamera",
+    "morningPill": "Rutina ta filgħodu",
+    "morningCaption": "Applika quddiem il mera kull filgħodu",
+    "morningAlt": "Fundatur japplika s serum quddiem mera tal kamra tal banju fid dawl ta filgħodu",
+    "widePill": "Jum u lejl",
+    "wideHead": "Flixkun wieħed, użat filgħodu u billejl.",
+    "priceLine": "$49 darba waħda jew $39 fix xahar",
+    "talia": {
+      "baseline": "Linja bażi",
+      "week16": "Ġimgħa 16",
+      "statBig": "63% inqas",
+      "statCap": "Leżjonijiet tal akne",
+      "statNote": "Tibdil medju fil programm tal parteċipanti ta 16 il ġimgħa",
+      "alt": "Talia Kade, riċerkatur f Tava Labs, liebsa lab coat abjad",
+      "slopeAria": "Linja tax xejra minn 16.8 fil linja bażi sa 6.2 f ġimgħa 16"
+    }
+  },
   "home": {
-   "title": "PDRN Brightening Serum għall Intraprendituri | Tava Labs",
-   "description": "Serum tal wiċċ ta kuljum għall fundaturi u sidien tan negozji. PDRN Brightening Serum b PDRN, peptidi u aċidu jaluroniku għal ġilda li tidher aktar luminuża u idratata. $49 darba waħda jew $39 fix xahar."
+    "introTitleLead": "Aktar qawwija, idratata,",
+    "introTitleAccent": "ġilda li tidher b saħħitha",
+    "introBody": "Fundaturi u sidien tan negozji jqattgħu jiemhom f laqgħat, fuq sejħiet ta bejgħ, u f vidjows irrekordjati. Wiċċek huwa fuq l iskrin u fil kamra għal dan kollu. Il PDRN Brightening Serum huwa pass ħafif wieħed b PDRN, peptidi u aċidu jaluroniku. Jiġi assorbit malajr u jgħin lill ġilda tidher aktar luminuża, idratata u lixxa. Żewġ minuti, darbtejn kuljum.",
+    "marqueeTagline": "Serum wieħed, filgħodu u billejl",
+    "marqueeSlogan": "Magħmul għall fundaturi u sidien tan negozji",
+    "buildersTitle": "Magħmul għall fundaturi u sidien tan negozji",
+    "buildersTagline": "Ibni n negozju tiegħek. Tinnegliġix lilek innifsek.",
+    "buildersBody": "Fundaturi u sidien tan negozji jippreżentaw il jum kollu. Tippitchja investituri wiċċ imb wiċċ, tbigħ fuq sejħiet bil vidjo, u tirrekordja vidjows għall klijenti. Li tidher nadif u mistrieħ huwa parti mill preżentazzjoni tan negozju tiegħek sew. Rutina qasira ta kuljum tal kura tal ġilda toqgħod ħdejn libsa tajba u laptop affidabbli bħala manutenzjoni bażika. Il PDRN Brightening Serum jieħu żewġ minuti, filgħodu u billejl.",
+    "pitchAlt": "Fundatur jippreżenta l idea tiegħu lil investitur",
+    "pitchTitle": "Fil preżentazzjoni",
+    "pitchBody": "Meta tippitchja investituri wiċċ imb wiċċ, jaraw lilek qabel ma jaraw is slides tiegħek. Rutina ta serum ta kuljum tgħin lill ġilda tiegħek tidher luminuża, idratata u mistrieħa fil jum.",
+    "cameraAlt": "Fundatur jitkellem quddiem kamera",
+    "cameraTitle": "Quddiem il kamera",
+    "cameraBody": "Fuq shoot tal vidjo, podcast, jew sejħa ta bejgħ, il kamera turi ġilda għajjiena mill qrib. Rutina ta żewġ minuti filgħodu u billejl tgħin lill ġilda tiegħek tidher mistrieħa qabel ma tirrekordja.",
+    "maintenanceTitle": "Serum wieħed huwa r rutina kollha.",
+    "maintenanceBody": "Applika żewġ sa erba qtar ta PDRN Brightening Serum fuq ġilda nadifa u niexfa, filgħodu u billejl, imbagħad kompli b moisturizer. Ir rutina kollha tieħu madwar żewġ minuti kuljum.",
+    "motionTitle": "Ara l vidjows tal klijenti",
+    "motionBody": "Fundaturi u kreaturi li jużaw il PDRN Brightening Serum, irrekordjati fuq vidjo.",
+    "playVideo": "Daqq il vidjo",
+    "videoPlayer": "Player tal vidjo",
+    "closeVideo": "Agħlaq il vidjo",
+    "freeFromTitleLead": "X m huwiex",
+    "freeFromTitleAccent": "fil formula.",
+    "freeFromSub": "Dak li nħallu barra jgħodd daqs dak li npoġġu ġewwa.",
+    "freeFromItems": [
+      {
+        "name": "Mingħajr Krudeltà",
+        "blurb": "Qatt ma ġie ttestjat fuq l annimali."
+      },
+      {
+        "name": "Mingħajr Fwieħa",
+        "blurb": "L ebda fwejjaħ miżjuda jew irwejjaħ sintetiċi."
+      },
+      {
+        "name": "Mingħajr Żejt Minerali",
+        "blurb": "L ebda żejt minerali jew fillers tal petroleum."
+      },
+      {
+        "name": "Mingħajr Ftalati",
+        "blurb": "L ebda ftalati fil formula."
+      },
+      {
+        "name": "Mingħajr Silikon",
+        "blurb": "L ebda silikoni jiksu l ġilda tiegħek."
+      },
+      {
+        "name": "Mingħajr Sulfati",
+        "blurb": "L ebda sulfati ħorox. Ġentili fuq il ġilda."
+      },
+      {
+        "name": "Mingħajr Allerġeni",
+        "blurb": "Magħmul mingħajr allerġeni komuni."
+      },
+      {
+        "name": "Mingħajr Alkoħol",
+        "blurb": "L ebda alkoħol li jnixxef."
+      }
+    ],
+    "founderLabel": "Messaġġ mill Fundatur Tagħna",
+    "founderQuote": "“Serum wieħed, żewġ minuti, filgħodu u billejl. Dik hija r rutina kollha.”",
+    "founderBody1": "Dik hija l idea wara Tava Labs. Il PDRN Brightening Serum huwa l pass wieħed li r rutina hija mibnija madwaru: żewġ minuti, darbtejn kuljum, filgħodu u billejl.",
+    "founderBody2": "Ara l vidjo biex tisma għaliex għamilnieh, bil kliem tagħna stess.",
+    "founderPhilosophy": "Il Filosofija ta Tava Labs",
+    "founderVideoAria": "Il vidjo ta Tava Labs, għaliex għamilna l PDRN Brightening Serum",
+    "shopSerum": "Ixtri s Serum",
+    "journalTitle": "The Tava Journal",
+    "journalSub": "Artikli dwar l irqad, l istess u l ġilda għall fundaturi.",
+    "readJournal": "Aqra l Journal",
+    "readStory": "Aqra l istorja"
+  },
+  "appTeaser": {
+    "label": "Dalwaqt",
+    "lead": "Ir rutina tiegħek, ir riżultati tal laboratorju tiegħek u l ordnijiet tiegħek, kollha fl app ta Tava Labs.",
+    "headlineLead": "Is serum tiegħek, ir riżultati tal laboratorju u l ordnijiet tiegħek",
+    "headlineTrail": "f app waħda.",
+    "scroll": "Skrollja",
+    "caption": "L app ta Tava Labs iġġib il pjan tas serum tiegħek, ir rutina ta kuljum tiegħek, il panelli tal laboratorju u r riżultati tiegħek, u l ordnijiet tiegħek f post wieħed, mibnija għall iPhone.",
+    "features": [
+      {
+        "title": "Rutina ta kuljum",
+        "desc": "Sessjonijiet ta filgħodu u billejl, immarkati pass pass."
+      },
+      {
+        "title": "Serje u progress",
+        "desc": "Is sekwenza attwali tiegħek u l jiem li fadal fil pjan tiegħek."
+      },
+      {
+        "title": "Panelli tal laboratorju u riżultati",
+        "desc": "Panelli, riżultati u firxiet fil but tiegħek."
+      },
+      {
+        "title": "Ordnijiet u mili mill ġdid",
+        "desc": "Ara l ordnijiet tiegħek u d dati tar riforniment f post wieħed."
+      }
+    ],
+    "phone": {
+      "today": "Illum",
+      "goodMorning": "Il ġurnata t tajba",
+      "dayLine": "Jum 12 minn 30 · 18 il jum biex tasal għall ewwel xahar sħiħ tiegħek",
+      "stepsToGo": "Illum: 4 minn 6 passi tar rutina fadal",
+      "morningRoutine": "Rutina ta filgħodu",
+      "amDrops": "AM · 3 qtar",
+      "clinicalReview": "Reviżjoni klinika",
+      "resultsIn": "Ir riżultati tiegħek waslu",
+      "optimal": "4 ottimali",
+      "inRange": "2 fil firxa",
+      "toReview": "1 biex tirrevedi",
+      "tabs": {
+        "today": "Illum",
+        "shop": "Ħanut",
+        "lab": "Laboratorju",
+        "orders": "Ordnijiet",
+        "profile": "Profil"
+      },
+      "steps": [
+        {
+          "title": "Naddaf",
+          "detail": "Prodott tat tindif ġentili, nixxef bil pat"
+        },
+        {
+          "title": "Applika 3 qtar ta serum",
+          "detail": "Agħfas ġol wiċċ u l għonq"
+        },
+        {
+          "title": "Idrata + SPF",
+          "detail": "SPF 30 jew ogħla"
+        }
+      ]
+    }
+  },
+  "categoryChrome": {
+    "readMore": "Aqra aktar +",
+    "showLess": "Uri inqas −",
+    "prevProducts": "Prodotti ta qabel",
+    "nextProducts": "Prodotti li jmiss",
+    "goTo": "Mur għal {title}",
+    "explore": "Esplora"
+  },
+  "categories": {
+    "skincare": {
+      "eyebrow": "KURA TAL ĠILDA",
+      "heroTitleLead": "Il laqgħa li jmiss tiegħek",
+      "heroTitleAccent": "tibda minnek.",
+      "heroCopy": "Mibni għall intraprendituri li jippitchjaw, ibigħu u jirrekordjaw fuq il kamera. Serum ta kuljum wieħed, mibni madwar PDRN, għal ġilda li tidher luminuża u mistrieħa fil kamra u fuq il kamera.",
+      "heroFinePrint": "Kura tal ġilda kosmetika. Mhix maħsuba biex tiddijanjostika, tittratta, tfejjaq jew tipprevjeni xi marda.",
+      "stamp": "KURA TAL ĠILDA GĦALL FUNDATURI",
+      "primaryCta": "Żid mar rutina",
+      "secondaryCta": "Ara l ingredjenti",
+      "optionsEyebrow": "IL LINJA",
+      "optionsTitleLead": "Serum wieħed.",
+      "optionsTitleAccent": "L ebda xkaffa ta suppożizzjonijiet.",
+      "optionsCopy": "Ibda bis serum. Il bqija tal linja tinsab fit triq.",
+      "products": [
+        {
+          "title": "PDRN Brightening Serum",
+          "subtitle": "PDRN, peptidi u sodium hyaluronate",
+          "unit": "darba waħda",
+          "imageAlt": "Flixkun tal PDRN Brightening Serum ta Tava Labs",
+          "badges": [
+            "L aktar li jinbigħ"
+          ],
+          "description": "Is serum ta kuljum għal ġilda li tidher aktar luminuża, idratata u b saħħitha. $39 fix xahar fuq Subscribe and Save.",
+          "linkLabel": "Ara s serum"
+        },
+        {
+          "title": "Idratant bil Peptidi",
+          "subtitle": "1.7 fl oz (50ml)",
+          "imageAlt": "Tubu abjad tal Peptide Moisturizer ta Tava Labs bi splash roża",
+          "badges": [
+            "Dalwaqt"
+          ],
+          "description": "Idratant bil peptidi li jimmira t tikmix u jidrata, magħmul għal ġilda li trid tidher komposta l ġurnata kollha."
+        },
+        {
+          "title": "Krema tal Għajnejn bil Peptidi",
+          "subtitle": "1 fl oz (30ml)",
+          "imageAlt": "Tubu abjad tal Peptide Eye Cream ta Tava Labs bi qatra kulur ix champagne",
+          "badges": [
+            "Dalwaqt"
+          ],
+          "description": "Inaqqas id dehra tan nefħa tal għajnejn u jimmira t tikmix fiż żona tal għajnejn, għal dehra mistrieħa quddiem il kamera."
+        },
+        {
+          "title": "Krema li Tissikka l Ġilda",
+          "subtitle": "2 oz (56g)",
+          "imageAlt": "Vaġġett abjad tas Skin Firming Cream ta Tava Labs bi sfond ta mewġa dehbija",
+          "badges": [
+            "Dalwaqt"
+          ],
+          "description": "Aċidu jaluroniku u CoQ10 fi krema rikka li tħalli l ġilda tidher soda u miżmuma tajjeb."
+        }
+      ],
+      "disclaimerLead": "Il prodotti tal kura tal ġilda ta Tava Labs huma kożmetiċi. Mhumiex maħsuba biex jiddijanjostikaw, jittrattaw, ifejqu jew jipprevjenu xi marda.",
+      "disclaimerMore": [
+        "Ir riżultati individwali jvarjaw. Uża biss kif indikat: 2 sa 4 qtar tal PDRN Brightening Serum, darbtejn kuljum, fuq ġilda nadifa.",
+        "Jekk isseħħ irritazzjoni, waqqaf l użu u kkonsulta professjonist. Il prezzijiet f din il paġna kienu preċiżi meta ġew ippubblikati u jistgħu jinbidlu."
+      ],
+      "protocolEyebrow": "IR RUTINA",
+      "protocolTitleLead": "Żewġ minuti, darbtejn kuljum.",
+      "protocolTitleAccent": "Dik hija r rutina kollha.",
+      "protocolCopy": "Rutina mibnija madwar serum wieħed u skeda ta intraprenditur, telefonati kmieni, iljieli twal, u kollox.",
+      "protocolCta": "Żid mar rutina",
+      "steps": [
+        {
+          "title": "Ivvaluta",
+          "lead": "bil kwizz tal ġilda",
+          "body": "Wieġeb ftit mistoqsijiet malajr dwar il ġilda, l irqad u l iskeda tiegħek biex il pjan tiegħek jibda minn fejn int tassew."
+        },
+        {
+          "title": "Applika",
+          "lead": "2 sa 4 qtar, darbtejn kuljum",
+          "body": "Filgħodu u billejl, fuq ġilda nadifa. Serum wieħed, pass wieħed, l ebda rutina ta għaxar passi biex iżżomm."
+        },
+        {
+          "title": "Segwi",
+          "lead": "il pjan tiegħek fl app",
+          "body": "Ix xiri tiegħek jgħaqqad mal app ta Tava b kodiċi tat talba, fejn il pjan, l ordnijiet u r rutina tiegħek jibqgħu f post wieħed."
+        }
+      ],
+      "legalLines": [
+        "Prodotti kożmetiċi biss. Xejn f din il paġna mhuwiex parir mediku."
+      ]
+    },
+    "biomarkers": {
+      "eyebrow": "BIOMARKATURI TAL LABORATORJU",
+      "heroTitleLead": "Kun af id data tiegħek,",
+      "heroTitleAccent": "fuq Tava.",
+      "heroCopy": "Tmexxi l kumpanija tiegħek fuq in numri. Dalwaqt tista tapplika l istess dixxiplina fuqek innifsek: il bijomarkaturi ewlenin tiegħek, segwiti maż żmien, fl app ta Tava.",
+      "heroFinePrint": "Dalwaqt fl app ta Tava. L għarfien huwa għall informazzjoni biss u ma jiddijanjostika l ebda kundizzjoni.",
+      "stamp": "ID DATA TIEGĦEK F POST WIEĦED",
+      "primaryCta": "Ara x inhu segwit",
+      "secondaryCta": "Kif se jaħdem",
+      "optionsEyebrow": "X JIĠI SEGWIT",
+      "optionsTitleLead": "Sitt oqsma.",
+      "optionsTitleAccent": "Stampa waħda ċara.",
+      "optionsCopy": "L oqsma tal bijomarkaturi fil Preview tal app ta Tava, li qed jinbnew issa.",
+      "products": [
+        {
+          "title": "Moħħ",
+          "subtitle": "Fokus u ċarezza",
+          "badges": [
+            "Dalwaqt"
+          ],
+          "description": "Il markaturi wara l fokus, iċ ċarezza u l pass konjittiv, miġbura f veduta waħda."
+        },
+        {
+          "title": "Ormoni",
+          "subtitle": "Bilanċ",
+          "badges": [
+            "Dalwaqt"
+          ],
+          "description": "L istampa tal ormoni tiegħek maż żmien, biex it tibdil jidher minflok jiġi maħsub."
+        },
+        {
+          "title": "Qalb",
+          "subtitle": "Markaturi kardjovaskulari",
+          "badges": [
+            "Dalwaqt"
+          ],
+          "description": "Il markaturi tal qalb li jgħoddu, segwiti bħala xejra minflok qari ta darba."
+        },
+        {
+          "title": "Metaboliżmu",
+          "subtitle": "Enerġija u ħruq",
+          "badges": [
+            "Dalwaqt"
+          ],
+          "description": "Kif ġismek juża l enerġija, f numri li tista tassew issegwi."
+        },
+        {
+          "title": "Imsaren",
+          "subtitle": "Saħħa diġestiva",
+          "badges": [
+            "Dalwaqt"
+          ],
+          "description": "Sinjali tas saħħa tal imsaren li jgħaqqdu mal enerġija, il burdata u l irkupru."
+        },
+        {
+          "title": "Lonġevità",
+          "subtitle": "Età bijoloġika",
+          "badges": [
+            "Dalwaqt"
+          ],
+          "description": "Il veduta twila: kif il markaturi tiegħek jammontaw għal stampa tal età bijoloġika."
+        }
+      ],
+      "disclaimerLead": "L għarfien dwar il bijomarkaturi fl app ta Tava huwa għall informazzjoni biss. Ma jiddijanjostika, jittratta jew jipprevjeni l ebda kundizzjoni.",
+      "disclaimerMore": [
+        "Kellem lill fornitur tiegħek dwar kwalunkwe riżultat li jinkwetak. F emerġenza, ċempel 911."
+      ],
+      "protocolEyebrow": "KIF SE JAĦDEM",
+      "protocolTitleLead": "Ittestja, irrevedi,",
+      "protocolTitleAccent": "segwi x xejra.",
+      "protocolCopy": "Dashboard waħda għall persuna li tmexxi n negozju, ħdejn il pjan tas serum tiegħek fl istess app.",
+      "steps": [
+        {
+          "title": "Ittestja",
+          "lead": "permezz ta sieħeb tal laboratorju",
+          "body": "Il kampjun tiegħek jinġabar u jiġi pproċessat, u r riżultati jaslu fl app ta Tava tiegħek."
+        },
+        {
+          "title": "Irrevedi",
+          "lead": "qasam b qasam",
+          "body": "Moħħ, ormoni, qalb, metaboliżmu, imsaren u lonġevità, kull wieħed bil veduta tiegħu."
+        },
+        {
+          "title": "Segwi",
+          "lead": "ix xejra maż żmien",
+          "body": "Qari wieħed huwa ritratt ta mument. Il valur huwa x xejra, u l app iżżommha għalik."
+        }
+      ],
+      "legalLines": [
+        "It traċċar tal bijomarkaturi tal laboratorju ġej dalwaqt u għadu mhuwiex miftuħ għall ordnijiet."
+      ]
+    },
+    "mentalHealth": {
+      "eyebrow": "SAĦĦA MENTALI",
+      "heroTitleLead": "Iffoka aħjar,",
+      "heroTitleAccent": "fuq Tava.",
+      "heroCopy": "Appoġġ għall fokus u l attenzjoni li jibda b reviżjoni ta kliniku, mhux b buttuna tal ħlas.",
+      "heroFinePrint": "Wara reviżjoni ta kliniku. Dan il programm qiegħed fl iżvilupp u għadu mhuwiex miftuħ għar reġistrazzjoni.",
+      "stamp": "KURA RIVEDUTA MINN KLINIKU",
+      "primaryCta": "Ara kif jaħdem",
+      "optionsEyebrow": "IL PROGRAMM",
+      "optionsTitleLead": "Kura li tibda",
+      "optionsTitleAccent": "b reviżjoni.",
+      "optionsCopy": "",
+      "products": [],
+      "disclaimerLead": "L appoġġ tas saħħa mentali fuq Tava jibda b reviżjoni ta kliniku. Xejn hawn mhuwiex dijanjosi jew rakkomandazzjoni ta trattament.",
+      "disclaimerMore": [
+        "Jekk int fi kriżi jew taħseb li tweġġa lilek innifsek, ċempel jew ibgħat messaġġ lil 988 fl Istati Uniti. F emerġenza, ċempel 911."
+      ],
+      "protocolEyebrow": "KIF JAĦDEM",
+      "protocolTitleLead": "Irrevedi l ewwel.",
+      "protocolTitleAccent": "Imbagħad pjan.",
+      "protocolCopy": "Triq bir reqqa, fil miftuħ, bil pass tiegħek.",
+      "steps": [
+        {
+          "title": "Irrevedi",
+          "lead": "ma kliniku",
+          "body": "Aqsam l istorja tiegħek u dak li qed tiffaċċja, u kliniku jirrevedi jekk l appoġġ hawn huwiex adattat."
+        },
+        {
+          "title": "Pjan",
+          "lead": "mibni madwarek",
+          "body": "Jekk huwa adattat, il pjan tiegħek jinbena madwar l għanijiet u l iskeda tiegħek."
+        },
+        {
+          "title": "Appoġġ",
+          "lead": "hekk kif timxi",
+          "body": "Il kontrolli regolari jżommu l pjan onest hekk kif l affarijiet jinbidlu."
+        }
+      ],
+      "legalLines": [
+        "L offerti tas saħħa mentali fuq Tava qegħdin fl iżvilupp u għadhom mhumiex miftuħa għar reġistrazzjoni."
+      ]
+    },
+    "peptides": {
+      "eyebrow": "PROGRAMMI TAL PEPTIDI",
+      "heroTitleLead": "Peptidi,",
+      "heroTitleAccent": "bi fornitur f il kantuniera tiegħek.",
+      "heroCopy": "Tlettax il programm tal peptidi mingħand Tava Labs, kull wieħed jibda b konsultazzjoni online u reviżjoni tal fornitur.",
+      "heroFinePrint": "Preskrizzjoni meħtieġa. Fornitur liċenzjat jiddeċiedi l eliġibbiltà wara l konsultazzjoni.",
+      "stamp": "PROGRAMMI GGWDATI MILL FORNITUR",
+      "primaryCta": "Ibda konsultazzjoni",
+      "secondaryCta": "Kif jaħdem",
+      "optionsEyebrow": "IL PROGRAMMI",
+      "optionsTitleLead": "Tlettax il programm.",
+      "optionsTitleAccent": "Konsultazzjoni waħda tibda kwalunkwe wieħed minnhom.",
+      "optionsCopy": "Kull programm jinkludi konsultazzjoni ta $20. Il biċċa l kbira jinkludu testijiet tal laboratorju. Il prezzijiet huma l prezzijiet ta kull xahar tal programm.",
+      "unitPerMonth": "/xahar",
+      "products": [
+        {
+          "subtitle": "Irkupru",
+          "imageAlt": "Arti tal kunjett tal programm BPC-157",
+          "badges": [
+            "Irkupru",
+            "Saħħa tal Imsaren",
+            "Testijiet tal laboratorju inklużi"
+          ],
+          "description": "BPC-157 mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
+          "linkLabel": "Ara l programm"
+        },
+        {
+          "subtitle": "Saħħa tal Imsaren",
+          "imageAlt": "Arti tal kunjett tal programm CJC-1295 + Ipamorelin",
+          "badges": [
+            "Saħħa tal Imsaren",
+            "Irqad",
+            "Irkupru",
+            "Lonġevità",
+            "Testijiet tal laboratorju inklużi"
+          ],
+          "description": "CJC-1295 + Ipamorelin mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
+          "linkLabel": "Ara l programm"
+        },
+        {
+          "subtitle": "Lonġevità",
+          "imageAlt": "Arti tal kunjett tal programm GHK-Cu",
+          "badges": [
+            "Lonġevità",
+            "Testijiet tal laboratorju inklużi"
+          ],
+          "description": "GHK-Cu mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
+          "linkLabel": "Ara l programm"
+        },
+        {
+          "subtitle": "Irkupru",
+          "imageAlt": "Arti tal kunjett tal programm GLOW Injection",
+          "badges": [
+            "Irkupru",
+            "Testijiet tal laboratorju inklużi"
+          ],
+          "description": "GLOW Injection mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
+          "linkLabel": "Ara l programm"
+        },
+        {
+          "subtitle": "Telf tal Piż",
+          "imageAlt": "Arti tal kunjett tal programm MOTS-C",
+          "badges": [
+            "Telf tal Piż",
+            "Enerġija",
+            "Prestazzjoni",
+            "Testijiet tal laboratorju inklużi"
+          ],
+          "description": "MOTS-C mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
+          "linkLabel": "Ara l programm"
+        },
+        {
+          "subtitle": "Lonġevità",
+          "imageAlt": "Arti tal kunjett tal programm NAD+ Injectable",
+          "badges": [
+            "Lonġevità",
+            "Enerġija",
+            "Irkupru",
+            "Fokus"
+          ],
+          "description": "NAD+ Injectable mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
+          "linkLabel": "Ara l programm"
+        },
+        {
+          "subtitle": "Saħħa Sesswali",
+          "imageAlt": "Arti tal kunjett tal programm PT-141",
+          "badges": [
+            "Saħħa Sesswali",
+            "Testijiet tal laboratorju inklużi"
+          ],
+          "description": "PT-141 mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
+          "linkLabel": "Ara l programm"
+        },
+        {
+          "subtitle": "Telf tal Piż",
+          "imageAlt": "Arti tal kunjett tal programm Semaglutide + B12 (Cyanocobalamin)",
+          "badges": [
+            "Telf tal Piż",
+            "Testijiet tal laboratorju inklużi"
+          ],
+          "description": "Semaglutide + B12 (Cyanocobalamin) mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
+          "linkLabel": "Ara l programm"
+        },
+        {
+          "subtitle": "Lonġevità",
+          "imageAlt": "Arti tal kunjett tal programm Sermorelin",
+          "badges": [
+            "Lonġevità",
+            "Irkupru",
+            "Prestazzjoni",
+            "Testijiet tal laboratorju inklużi"
+          ],
+          "description": "Sermorelin mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
+          "linkLabel": "Ara l programm"
+        },
+        {
+          "subtitle": "Prestazzjoni",
+          "imageAlt": "Arti tal kunjett tal programm TB-500",
+          "badges": [
+            "Prestazzjoni",
+            "Irkupru",
+            "Testijiet tal laboratorju inklużi"
+          ],
+          "description": "TB-500 mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
+          "linkLabel": "Ara l programm"
+        },
+        {
+          "subtitle": "Lonġevità",
+          "imageAlt": "Arti tal kunjett tal programm Tesamorelin",
+          "badges": [
+            "Lonġevità",
+            "Irkupru",
+            "Prestazzjoni",
+            "Testijiet tal laboratorju inklużi"
+          ],
+          "description": "Tesamorelin mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
+          "linkLabel": "Ara l programm"
+        },
+        {
+          "subtitle": "Telf tal Piż",
+          "imageAlt": "Arti tal kunjett tal programm Tirzepatide + B12 (Cyanocobalamin)",
+          "badges": [
+            "Telf tal Piż",
+            "Testijiet tal laboratorju inklużi"
+          ],
+          "description": "Tirzepatide + B12 (Cyanocobalamin) mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
+          "linkLabel": "Ara l programm"
+        },
+        {
+          "subtitle": "Irkupru",
+          "imageAlt": "Arti tal kunjett tal programm Wolverine Injection",
+          "badges": [
+            "Irkupru",
+            "Testijiet tal laboratorju inklużi"
+          ],
+          "description": "Wolverine Injection mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
+          "linkLabel": "Ara l programm"
+        }
+      ],
+      "disclaimerLead": "Il mediċini komposti jitħejjew minn spiżeriji liċenzjati għal pazjenti individwali. Mhumiex approvati mill FDA, u l FDA ma tirrevedix mediċini komposti għas sigurtà, l effettività jew il kwalità.",
+      "disclaimerMore": [
+        "Il kura medika hija pprovduta minn fornituri indipendenti u liċenzjati. Il fornituri jiddeċiedu b mod indipendenti jekk trattament huwiex tajjeb għalik; ix xiri ma jiggarantixxix preskrizzjoni.",
+        "Fornitur liċenzjat jirrevedi l informazzjoni tiegħek u jiddeċiedi b mod indipendenti jekk trattament huwiex tajjeb għalik. Ix xiri ma jiggarantixxix preskrizzjoni.",
+        "Għall emerġenzi ċempel 911."
+      ],
+      "protocolEyebrow": "KIF JAĦDEM",
+      "protocolTitleLead": "Ikkonsulta, irrevedi,",
+      "protocolTitleAccent": "imbagħad ibda.",
+      "protocolCopy": "Kull programm jgħaddi minn fornituri liċenzjati indipendenti.",
+      "protocolCta": "Ibda konsultazzjoni",
+      "steps": [
+        {
+          "title": "Ikkonsulta",
+          "lead": "online, skont l iskeda tiegħek",
+          "body": "Imla l konsultazzjoni online għall programm li għażilt. Il konsultazzjoni hija $20."
+        },
+        {
+          "title": "Irrevedi",
+          "lead": "minn fornitur liċenzjat",
+          "body": "Fornitur jirrevedi l informazzjoni tiegħek u l laboratorji tiegħek, u jiddeċiedi b mod indipendenti jekk it trattament huwiex tajjeb għalik."
+        },
+        {
+          "title": "Ibda",
+          "lead": "jekk jiġi preskritt",
+          "body": "Il mediċina tiegħek tintbagħat minn spiżerija liċenzjata, u l fornitur tiegħek isegwi hekk kif il programm tiegħek ikompli."
+        }
+      ],
+      "legalLines": [
+        "Il ħanut tal peptidi tagħna bħalissa qiegħed f modalità ta test, għalhekk il programmi jintwerew għar reviżjoni u għadhom mhumiex miftuħa għal ordnijiet reali.",
+        "Għall emerġenzi ċempel 911."
+      ]
+    }
   },
   "product": {
-   "title": "PDRN Brightening Serum għall Intraprendituri | Tava Labs",
-   "description": "Il PDRN Brightening Serum ta Tava Labs huwa serum tal wiċċ ta kuljum b PDRN, peptidi u sodium hyaluronate għal ġilda li tidher aktar luminuża u idratata. Magħmul għall fundaturi u sidien tan negozji. $49 darba waħda jew $39 fix xahar."
+    "breadcrumbHome": "Paġna Ewlenija",
+    "inStock": "Fl Istokk",
+    "cleanVegan": "Nadif u Vegan • PDRN Attiv",
+    "dermTested": "Ittestjat mid dermatologi • Magħmul għat tipi kollha tal ġilda",
+    "titleLead": "PDRN Brightening",
+    "titleAccent": "Serum",
+    "pricePerUnit": "/ 30ml (1 fl oz)",
+    "subPrice": "jew $39 fix xahar b Abbona u Ffranka",
+    "bullets": [
+      "PDRN, Acetyl Hexapeptide-8, u aċidu jaluroniku, biex jappoġġjaw ġilda li tidher aktar lixxa u luminuża.",
+      "Idratazzjoni fil fond mill glycerin, is sodium PCA, u l panthenol.",
+      "100% Mingħajr krudeltà, mingħajr fwieħa, mingħajr parabeni, mingħajr sulfati, mingħajr żejt minerali, mingħajr silikon, u vegan."
+    ],
+    "viewFormulation": "Ara l formulazzjoni sħiħa u t testijiet kliniċi",
+    "details": [
+      {
+        "title": "Iltaqa mal PDRN Brightening Serum",
+        "body": "Formula ħafifa u idratanti għal ġilda li tidher aktar lixxa u radjanti. Tiġi assorbita malajr, ma tħalli l ebda residwu, u żżomm il ġilda komda."
+      },
+      {
+        "title": "Ingredjenti u Formulazzjoni",
+        "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin."
+      },
+      {
+        "title": "Kif Tapplika",
+        "body": "Applika 2 sa 4 qtar fuq ġilda nadifa u niexfa. Immassaġġja bil ġentilezza fuq il wiċċ u l għonq sakemm jiġi assorbit. Uża darbtejn kuljum, filgħodu u filgħaxija. Kompli b idratant jew protezzjoni mix xemx."
+      },
+      {
+        "title": "Garanzija ta Kura tal Ġilda Nadifa",
+        "body": "Formulat skont standards iċċertifikati ta mingħajr krudeltà, u magħmul mingħajr fwieħa, silikoni, parabeni, żejt minerali, sulfati, ftalati jew allerġeni komuni. Ittestjat mid dermatologi fuq it tipi kollha tal ġilda."
+      }
+    ],
+    "innovation": {
+      "label": "Ingredjenti ewlenin",
+      "titleLead": "X inhi l ewlenija",
+      "titleAccent": "ingredjenti jagħmlu",
+      "sub": "It tliet ingredjenti hawn taħt jagħmlu l biċċa l kbira tax xogħol f dan is serum.",
+      "items": [
+        {
+          "label": "Nisġa tal ġilda",
+          "title": "PDRN",
+          "body": "PDRN tal baħar iżid it turnover taċ ċelloli, li jdawwal karnaġġjon matt u jillixxa nisġa viżibbli."
+        },
+        {
+          "label": "Sodizza",
+          "title": "Acetyl Hexapeptide-8",
+          "body": "Din il peptida tappoġġja l elastiċità tal kollaġen, għal ġilda li tidher aktar soda."
+        },
+        {
+          "label": "Idratazzjoni fil Fond",
+          "title": "Aċidu Ijaluroniku u Pantenol",
+          "body": "L aċidu jaluroniku, is sodium PCA u l panthenol jaħdmu flimkien biex iżommu l umdità fil barriera tal ġilda għal aktar minn 24 siegħa."
+        }
+      ],
+      "imgAlts": [
+        "Nisġa tas serum",
+        "Kristall u formula",
+        "Kampjun tal kristall"
+      ],
+      "footnote": "*Attività bio ċellulari vvalutata permezz ta evalwazzjonijiet kliniċi in vitro u ex vivo. Ir riżultati jistgħu jvarjaw skont il kundizzjoni individwali tal ġilda."
+    },
+    "ecosystem": {
+      "label": "Il pjan tiegħek",
+      "title": "Ikseb appoġġ komplut tar rutina",
+      "sub": "Flimkien mas serum tiegħek, kull pjan ta Tava Labs jinkludi:",
+      "items": [
+        "Dijanjostika personalizzata tal ġilda u gwida tar reġimen mill kwizz tal ġilda tiegħek",
+        "Pjan ta trattament li jibda bil mod u jibni maż żmien",
+        "Tfakki riet tal applikazzjoni li tikkontrolla int, filgħodu u filgħaxija",
+        "Appoġġ bil messaġġi eżatt ġol app",
+        "Kunsinna ta Abbona u Ffranka kull xahar, waqqaf jew ikkanċella fi kwalunkwe ħin"
+      ],
+      "note": "Waqqaf, aġġusta jew ikkanċella Abbona u Ffranka fi kwalunkwe ħin. Ix xiri ta darba jibqa disponibbli għal $49."
+    },
+    "clinical": {
+      "label": "Testijiet kliniċi",
+      "titleLead": "Ħu ħsieb",
+      "titleAccent": "is saħħa tal ġilda tiegħek",
+      "imgAlts": [
+        "Dijagramma Tippromwovi r Radjanza",
+        "Dijagramma Tappoġġa l Idratazzjoni fil Fond",
+        "Dijagramma Ttejjeb in Nisġa tal Ġilda"
+      ],
+      "note": "Evalwazzjonijiet topiċi tal bio attivi bbażati fuq il perċezzjoni tal konsumatur ta 8 ġimgħat u testijiet strumentali tal idratazzjoni. Il barrieri individwali tal ġilda, il ġenetika u l ambjent jinfluwenzaw skedi u riżultati speċifiċi."
+    },
+    "formulary": {
+      "label": "Qabbel il formuli",
+      "title": "Liema trattament tal kura tal ġilda huwa tajjeb għalik?",
+      "sub": "Formuli għal miri, tħassib u rutini differenti tal ġilda. Agħżel dik li taqbel mal ġilda tiegħek u l iskeda tiegħek.",
+      "serumAlt": "PDRN Brightening Serum",
+      "serumPriceLine": "Abbona u Ffranka $39/xahar",
+      "serumOneTime": "jew $49 darba waħda",
+      "primaryBenefit": "Benefiċċju Prinċipali",
+      "howToUse": "Kif tuża",
+      "activeIngredient": "Ingredjent attiv",
+      "serumBenefitValue": "Luminużità u sodizza",
+      "serumHowValue": "AM u PM",
+      "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
+      "selectSerum": "Agħżel is Serum",
+      "comingSoon": "Dalwaqt",
+      "status": "Status",
+      "sizeLabel": "Daqs",
+      "others": [
+        {
+          "rows": [
+            [
+              "Benefiċċju Prinċipali",
+              "Idratazzjoni ta Kuljum"
+            ],
+            [
+              "Daqs",
+              "1.7 fl oz (50ml)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Benefiċċju Prinċipali",
+              "Kura taż Żona tal Għajnejn"
+            ],
+            [
+              "Daqs",
+              "1 fl oz (30ml)"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Benefiċċju Prinċipali",
+              "Tisħiħ u Idratazzjoni"
+            ],
+            [
+              "Daqs",
+              "2 oz (56g)"
+            ],
+            [
+              "Ingredjent attiv",
+              "Aċidu Jaluroniku u CoQ10"
+            ]
+          ]
+        },
+        {
+          "rows": [
+            [
+              "Benefiċċju Prinċipali",
+              "Kura tal Qoxra tar Ras u x Xagħar"
+            ],
+            [
+              "Daqs",
+              "1 fl oz (30ml)"
+            ]
+          ]
+        }
+      ]
+    },
+    "protocol": {
+      "label": "Kif tużah",
+      "titleLead": "Rutina sempliċi waħda,",
+      "titleAccent": "darbtejn kuljum",
+      "sub": "Il konsistenza hija importanti. Segwi dawn il passi filgħodu u filgħaxija, u spiċċa b moisturizer biex iżomm l umdità.",
+      "progressionLabel": "Progressjoni Klinika",
+      "progressionTitle": "Skeda tar Riżultati Viżibbli",
+      "progressionBody": "Ġilda aktar luminuża u idratata f 7 sa 14 il jum; elastiċità tal ġilda u sodizza tal barriera mtejba sal ġimgħa 4 sa 6.",
+      "timelineAlt": "Eżempju ta skeda tar riżultati, ġimgħat 1 sa 4 u lil hinn",
+      "steps": [
+        {
+          "title": "Naddaf, b ħasla ġentili",
+          "body": "Naddaf b ħasla ġentili u bbilanċjata fil pH biex tneħħi l fdalijiet u tħejji l ġilda, mingħajr ma tneħħi l lipidi naturali tagħha."
+        },
+        {
+          "title": "Serum PDRN, 2 sa 4 qtar",
+          "body": "Applika 2 sa 4 qtar ta Serum PDRN fuq ġilda niedja. Agħfas u pat bil ġentilezza fuq il wiċċ u l għonq sakemm jiġi assorbit kompletament."
+        },
+        {
+          "title": "Idrata u umdizza",
+          "body": "Applika moisturizer biex iżomm il peptidi u jappoġġja l barriera tal ġilda."
+        },
+        {
+          "title": "Ipproteġi (AM biss), SPF 30+",
+          "body": "Spiċċa r rutina ta filgħodu b SPF 30+ ta spettru wiesa biex tipproteġi l ġilda kontra l ħsara tal UV u r radikali ħielsa."
+        },
+        {
+          "title": "Il pjan personali tiegħek, inkluż",
+          "body": "Il kwizz tal ġilda tiegħek jibni l pjan tiegħek, inkluż kif tibda bil mod u meta żżid."
+        }
+      ]
+    },
+    "faqSection": {
+      "label": "Mistoqsijiet u tweġibiet",
+      "title": "Mistoqsijiet frekwenti",
+      "viewAll": "Ara l mistoqsijiet frekwenti kollha",
+      "items": [
+        {
+          "q": "X inhu l PDRN u kif jibbenefika l ġilda?",
+          "a": "PDRN (Polydeoxyribonucleotide) huwa magħmul minn frammenti tad DNA li huma bijo kompatibbli maċ ċelloli tal ġilda tal bniedem. Jippromwovi r riġenerazzjoni naturali taċ ċelloli, jistimula l mikroċirkolazzjoni, u jgħin biex isewwi l barriera tal ġilda, għal ġilda li tidher aktar luminuża u soda."
+        },
+        {
+          "q": "Kif ninkorpora l PDRN Brightening Serum fir rutina tal kura tal ġilda tiegħi?",
+          "a": "Uża l PDRN Brightening Serum darbtejn kuljum wara t tindif u t toning. Qassam 2 sa 4 qtar direttament fuq it truf tas swaba jew fuq ġilda niedja, u lixxjahom fuq il wiċċ, l għonq u d décolletage. Kompli bl idratant tiegħek u l protezzjoni mix xemx ta filgħodu."
+        },
+        {
+          "q": "Dan is serum huwa adattat għal ġilda sensittiva u suxxettibbli għall akne?",
+          "a": "Iva. Il formulazzjoni tagħna mhix komedoġenika, mingħajr żejt, mingħajr fwieħa, u arrikkita bil Panthenol li jikkalma. Tikkalma s sensittività filwaqt li tidrata fil fond mingħajr ma timblokka l pori jew tqanqal irritazzjoni."
+        },
+        {
+          "q": "Nista nistratifika l PDRN mar retinol, il vitamina C, jew AHA/BHA?",
+          "a": "Iva. Il PDRN jaħdem tajjeb flimkien ma trattamenti attivi bħar retinoids u l vitamina C. Il bażi idratanti tiegħu tgħin biex tikkalma t tqaxxir jew il ħmura li l esfoljanti kimiċi jistgħu jikkawżaw."
+        },
+        {
+          "q": "Kemm idum tipikament flixkun wieħed ta 30ml?",
+          "a": "Meta jiġi applikat b 2 sa 4 qtar darbtejn kuljum, flixkun wieħed ta 30ml (1 fl oz) tipikament idum 4 sa 6 ġimgħat. Abbona u Ffranka jibgħat il flixkun li jmiss qabel tispiċċa."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Serum wieħed għal ġilda li tidher aktar luminuża, idratata u lixxa.",
+      "line": "PDRN Brightening Serum · $49.00 / 30ml · Nadif u Vegan · Idratazzjoni fil Fond · Ikkanċella fi kwalunkwe ħin"
+    },
+    "gallery": {
+      "view": "Ara {n}",
+      "alts": [
+        "Flixkun tal PDRN Brightening Serum",
+        "Veduta 2 tal flixkun tas serum",
+        "Veduta 3 tal flixkun tas serum",
+        "Veduta 4 tal flixkun tas serum",
+        "Veduta 5 tal flixkun tas serum"
+      ]
+    }
+  },
+  "moisturizer": {
+    "breadcrumbHome": "Paġna Ewlenija",
+    "inStock": "Fl Istokk",
+    "subBadge": "Peptide tar ram u estratt tal cranberry",
+    "madeLine": "Magħmul fl Istati Uniti",
+    "titleLead": "Peptide",
+    "titleAccent": "Moisturizer",
+    "pricePerUnit": "1.7 fl oz (50 ml)",
+    "intro": "Moisturizer tal wiċċ bil peptide tar ram u l estratt tal cranberry. Jagħti idratazzjoni lill ġilda u jimmira lejn id dehra ta linji fini u tikmix.",
+    "bullets": [
+      "Jagħti idratazzjoni lill ġilda u jieħu ħsieb il wiċċ u l għonq, filgħodu jew filgħaxija.",
+      "Magħmul bil peptide tar ram u l estratt tal cranberry.",
+      "Jimmira lejn id dehra ta linji fini u tikmix.",
+      "Magħmul għal fundaturi u sidien ta negozji. Pass wieħed sempliċi, filgħodu jew filgħaxija."
+    ],
+    "details": [
+      {
+        "title": "Kif tużah",
+        "body": "Applika ammont daqs munita fuq il wiċċ u l għonq u immassaġġja bil ħlewwa sakemm jiġi assorbit għal kollox. Uża filgħodu jew filgħaxija."
+      },
+      {
+        "title": "Ingredjenti",
+        "body": "Aqua, Sorbitan Olivate, Cetearyl Olivate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Cetyl Alcohol, Stearyl Alcohol, Methylglucoside Phosphate, Copper Lysinate/Prolinate, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Eclipta Prostrata Extract, Moringa Oleifera Seed Extract, Melia Azadirachta (Neem) Leaf Extract, Glycerin, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate, Totarol, Hamamelis Virginiana (Witch Hazel) Water, Xanthan Gum, Alcohol, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Maltodextrin, Syringa Vulgaris (Lilac) Leaf Cell Culture Extract."
+      },
+      {
+        "title": "Tajjeb li tkun taf",
+        "body": "Għal użu estern biss. Tiblax. Evita l kuntatt mal għajnejn. Waqqaf l użu jekk tidher irritazzjoni. Żomm fejn ma jintlaħaqx mit tfal. Aħżen f post frisk u niexef. Daqs 1.7 fl oz (50 ml). Magħmul fl Istati Uniti."
+      }
+    ],
+    "keyIngredients": {
+      "label": "Ingredjenti ewlenin",
+      "titleLead": "X inhuma l ingredjenti",
+      "titleAccent": "ewlenin",
+      "sub": "L ingredjenti hawn taħt huma dawk li madwarhom inbena dan il moisturizer.",
+      "items": [
+        {
+          "title": "Peptide tar ram",
+          "body": "Il peptide tar ram, elenkat fuq it tikketta bħala Copper Lysinate/Prolinate, huwa l peptide f din il formula. Jimmira lejn id dehra ta linji fini u tikmix."
+        },
+        {
+          "title": "Estratt tal cranberry",
+          "body": "L estratt tal cranberry jiġi mill frott tal cranberry. Huwa inkluż bħala estratt tal pjanti fil formula ta kuljum."
+        },
+        {
+          "title": "Aloe vera u witch hazel",
+          "body": "Il meraq tal weraq tal aloe vera u l ilma tal witch hazel huma ingredjenti tal pjanti fil formula. Qegħdin ħdejn il gliċerina, li tgħin lill ġilda żżomm l umdità."
+        },
+        {
+          "title": "Moringa u neem",
+          "body": "L estratt taż żerriegħa tal moringa u l estratt tal weraq tan neem huma estratti tal pjanti fil formula. Il vitamina E, elenkata bħala Tocopheryl Acetate, hija inkluża wkoll."
+        }
+      ]
+    },
+    "howToUse": {
+      "label": "Kif tużah",
+      "title": "Pass wieħed, filgħodu jew filgħaxija",
+      "sub": "Applika l moisturizer fuq il wiċċ u l għonq bħala l pass ta idratazzjoni tar rutina tiegħek.",
+      "steps": [
+        {
+          "title": "Filgħodu",
+          "body": "Applika ammont daqs munita fuq il wiċċ u l għonq filgħodu. Immassaġġja bil ħlewwa sakemm jiġi assorbit għal kollox."
+        },
+        {
+          "title": "Filgħaxija",
+          "body": "Applika ammont daqs munita fuq il wiċċ u l għonq filgħaxija. Immassaġġja bil ħlewwa sakemm jiġi assorbit għal kollox."
+        }
+      ]
+    },
+    "faqSection": {
+      "label": "Mistoqsijiet u tweġibiet",
+      "title": "Mistoqsijiet frekwenti",
+      "items": [
+        {
+          "q": "X inhu l Peptide Moisturizer?",
+          "a": "Huwa moisturizer tal wiċċ bil peptide tar ram u l estratt tal cranberry, flimkien ma aloe vera, witch hazel, moringa, neem, eclipta, gliċerina u vitamina E. Jagħti idratazzjoni lill ġilda u jieħu ħsieb il wiċċ u l għonq."
+        },
+        {
+          "q": "Kemm jiswa u x daqs għandu?",
+          "a": "Jiswa $27.99 darba waħda. Id daqs huwa 1.7 fl oz (50 ml). Dan il prodott m għandux prezz ta abbonament."
+        },
+        {
+          "q": "Kif nużah?",
+          "a": "Applika ammont daqs munita fuq il wiċċ u l għonq u immassaġġja bil ħlewwa sakemm jiġi assorbit għal kollox. Uża filgħodu jew filgħaxija."
+        },
+        {
+          "q": "Għal min huwa magħmul?",
+          "a": "Huwa magħmul għal fundaturi u sidien ta negozji li jridu pass wieħed sempliċi ta idratazzjoni, filgħodu jew filgħaxija. Jimmira lejn id dehra ta linji fini u tikmix."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Peptide Moisturizer għal idratazzjoni ta kuljum.",
+      "line": "Peptide Moisturizer · $27.99 · 1.7 fl oz (50 ml) · Magħmul fl Istati Uniti"
+    },
+    "gallery": {
+      "view": "Ara {n}",
+      "alts": [
+        "Vaġett Peptide Moisturizer bl għatu fuqu",
+        "Vaġett Peptide Moisturizer bl għatu mneħħi",
+        "Tliet vaġetti Peptide Moisturizer",
+        "Żewġ vaġetti Peptide Moisturizer"
+      ]
+    }
   },
   "about": {
-   "title": "Dwar Tava Labs | Serum tal Wiċċ għall Fundaturi",
-   "description": "Tava Labs tagħmel prodott wieħed, il PDRN Brightening Serum, serum tal wiċċ ta kuljum għall fundaturi u sidien tan negozji. Aqra min aħna u għaliex għamilnieh."
-  },
-  "ingredients": {
-   "title": "Ingredjenti tal PDRN Brightening Serum | Tava Labs",
-   "description": "Kull ingredjent fil PDRN Brightening Serum spjegat, mill PDRN u l peptidi sas sodium hyaluronate u l panthenol, flimkien mal lista sħiħa INCI u dak li nħallu barra."
-  },
-  "faq": {
-   "title": "Mistoqsijiet Frekwenti u Tweġibiet dwar il PDRN Brightening Serum | Tava Labs",
-   "description": "Tweġibiet dwar il PDRN Brightening Serum: prezzijiet, Abbona u Ffranka, ħinijiet tat tbaħħir, ritorni, il kwizz tal ġilda u kif tgħaqqad ix xiri tiegħek mal app ta Tava."
+    "label": "Dwarna",
+    "titleLead": "Serum tal wiċċ ta kuljum",
+    "titleAccent": "għall fundaturi.",
+    "tagline": "Ibni n negozju tiegħek. Tinnegliġix lilek innifsek.",
+    "p1": "Tava Labs hija marka tal kura tal ġilda għal nies li jibnu negozji. Id dehra tiegħek hija parti mill preżenza professjonali tiegħek. In nies jarawk fuq il kamera, f laqgħat ta pitch, u fuq ix xogħol kuljum.",
+    "p2": "Nagħmlu ħaġa waħda, u nagħmluha sew. Serum ta kuljum li jżomm il ġilda tiegħek tidher idratata u mistrieħa, mingħajr rutina kkumplikata.",
+    "p3": "Tava Labs ġiet fundata għall fundaturi u sidien tan negozji. Pass wieħed, filgħodu u billejl, qabel il laqgħat, il pitches u x xogħol tal kamera.",
+    "p4": "Kura tal ġilda, ittrattata bħala manutenzjoni bażika. L istess konsistenza li ġġib fin negozju tiegħek, applikata għar rutina tiegħek stess.",
+    "serumLabel": "Is Serum",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumAlt": "PDRN Brightening Serum",
+    "serumBody": "Rutina ta kuljum tal karnaġġjon mibnija madwar il PDRN (Polydeoxyribonucleotide) u l Acetyl Hexapeptide-8, bis Sodium Hyaluronate u l Panthenol għall idratazzjoni u l kumdità. Nadifa u mingħajr fwieħa, u magħmula mingħajr xejn mil lista tagħna ta mingħajr.",
+    "bullets": [
+      "PDRN għal karnaġġjon li jidher aktar qawwi u uniformi.",
+      "Acetyl Hexapeptide-8 biex jappoġġa d dehra tas sodizza.",
+      "Sodium Hyaluronate u Panthenol għall idratazzjoni.",
+      "Uża darbtejn kuljum: 2 sa 4 pompi fuq ġilda nadifa u niexfa, filgħodu u billejl."
+    ],
+    "priceLine": "$49 darba waħda, jew $39 fix xahar b Abbona u Ffranka.",
+    "philosophyLabel": "Il Filosofija Tagħna",
+    "quote": "“Serum wieħed, żewġ minuti, filgħodu u billejl. Dik hija r rutina kollha.”",
+    "philosophyCaption": "Il Filosofija ta Tava Labs",
+    "philosophyP1": "Aħna nemmnu fil kura tiegħek innifsek bl istess mod li tieħu ħsieb ix xogħol tiegħek, b passi żgħar magħmula b konsistenza kuljum.",
+    "philosophyP2": "Aħna ma nwiegħdux trasformazzjoni. Nagħmlu serum ta kuljum ifformulat sew u ngħidulek eżattament x fih.",
+    "onlineTitle": "Online Biss",
+    "onlineSegments": [
+      {
+        "text": "Tava Labs hija marka online biss. Mistoqsijiet? Ibgħat email lil "
+      },
+      {
+        "text": "support@tavalabs.app",
+        "href": "mailto:support@tavalabs.app"
+      },
+      {
+        "text": "."
+      }
+    ],
+    "contactUs": "Ikkuntattjana"
   },
   "contact": {
-   "title": "Ikkuntattja lil Tava Labs | Appoġġ, Bejgħ u Sħubijiet",
-   "description": "Ikkuntattja lil Tava Labs għall appoġġ dwar il prodott, għajnuna bl ordnijiet, bejgħ bl ingrossa, sħubijiet u stampa. Ibgħat email lil support@tavalabs.app għall ordnijiet u għajnuna dwar il-prodotti, jew lil talia@tavalabs.app għall bejgħ bl ingrossa, sħubijiet u stampa. Jew ċempel 909-906-1308."
+    "label": "Ikkuntattjana",
+    "title": "Nixtiequ nisimgħu minnek.",
+    "sub": "Ibgħatilna email u nerġgħu lura lilek. Agħżel is suġġett li jaqbel, jew iktbilna direttament.",
+    "emailLabel": "Email:",
+    "phoneLabel": "Telefon:",
+    "topics": {
+      "general": {
+        "title": "Ġenerali",
+        "body": "Mistoqsijiet ġenerali dwar Tava Labs u s serum."
+      },
+      "wholesale": {
+        "title": "Bejgħ bl Ingrossa",
+        "body": "Mistoqsijiet dwar il bejgħ bl ingrossa u bl imnut għall PDRN Brightening Serum."
+      },
+      "sales-support": {
+        "title": "Appoġġ tal Bejgħ",
+        "body": "Mistoqsijiet dwar l ordnar, Abbona u Ffranka, u l ħlas."
+      },
+      "product-support": {
+        "title": "Appoġġ tal Prodott",
+        "body": "Għajnuna bl użu tas serum, ir rutini u l pjan personali tiegħek."
+      },
+      "partnerships": {
+        "title": "Sħubijiet",
+        "body": "Sħubijiet ma aċċeleraturi, universitajiet, investituri u komunitajiet."
+      },
+      "pr": {
+        "title": "PR",
+        "body": "Mistoqsijiet mill stampa u l midja."
+      }
+    }
+  },
+  "faq": {
+    "label": "Mistoqsijiet Frekwenti",
+    "titleLead": "Mistoqsijiet",
+    "titleAccent": "Frekwenti",
+    "sub": "Tweġibiet dwar is serum, l ordnar, it tbaħħir u l pjan personali tiegħek.",
+    "items": [
+      {
+        "q": "X inhu l PDRN Brightening Serum?",
+        "a": [
+          {
+            "text": "Serum ta kuljum mibni madwar PDRN (Polydeoxyribonucleotide) u Acetyl Hexapeptide-8, b Sodium Hyaluronate u Pantenol. Applikah filgħodu u billejl biex tappoġġja karnaġġjon li jidher aktar luminuż u uniformi."
+          }
+        ]
+      },
+      {
+        "q": "Kif nużah?",
+        "a": [
+          {
+            "text": "Applika 2 sa 4 qtar fuq ġilda nadifa u niexfa, filgħodu u billejl. Kompli b idratant. Jekk int ġdid għall kura tal ġilda attiva, ibda darba kuljum għall ewwel ġimgħa, imbagħad żid għal darbtejn kuljum."
+          }
+        ]
+      },
+      {
+        "q": "Kif nikseb il pjan personali tiegħi?",
+        "a": [
+          {
+            "text": "Agħmel il "
+          },
+          {
+            "text": "Kwizz tal Ġilda",
+            "href": "/quiz"
+          },
+          {
+            "text": ". It tweġibiet tiegħek jibnu pjan personali, inkluż kif tibda bil mod u meta żżid."
+          }
+        ]
+      },
+      {
+        "q": "Kemm jiswa?",
+        "a": [
+          {
+            "text": "$49 darba waħda, jew $39 fix xahar b Abbona u Ffranka (20% skont). Abbona u Ffranka jista jiġi sospiż, maqbuż jew ikkanċellat fi kwalunkwe ħin."
+          }
+        ]
+      },
+      {
+        "q": "Kif jaħdem it tbaħħir?",
+        "a": [
+          {
+            "text": "L ordnijiet jitwettqu mis sieħeb tagħna u jintbagħtu fl indirizz li tagħti fil ħlas. Ara l "
+          },
+          {
+            "text": "Politika tat Tbaħħir",
+            "href": "/shipping"
+          },
+          {
+            "text": " għad dettalji."
+          }
+        ]
+      },
+      {
+        "q": "X inhi l politika tar ritorni tagħkom?",
+        "a": [
+          {
+            "text": "Il bejgħ kollu huwa finali. Jekk jogħġbok aqra l "
+          },
+          {
+            "text": "Politika tar Ritorni",
+            "href": "/returns"
+          },
+          {
+            "text": " qabel tordna."
+          }
+        ]
+      },
+      {
+        "q": "Liema ingredjenti fih?",
+        "a": [
+          {
+            "text": "Il lista sħiħa tal ingredjenti tinsab fil "
+          },
+          {
+            "text": "paġna tal Ingredjenti",
+            "href": "/ingredients"
+          },
+          {
+            "text": ". Is serum huwa mingħajr fwieħa u magħmul mingħajr parabeni, sulfati, silikoni, żejt minerali, ftalati u allerġeni komuni."
+          }
+        ]
+      },
+      {
+        "q": "Huwa adattat għat tip tal ġilda tiegħi?",
+        "a": [
+          {
+            "text": "Is serum huwa fformulat biex jaqbel mat tipi kollha tal ġilda. Jekk għandek kundizzjoni tal ġilda jew tħassib, kellem lid dermatologu tiegħek qabel tibda xi kura tal ġilda ġdida."
+          }
+        ]
+      },
+      {
+        "q": "Kif nikkuntattjakom?",
+        "a": [
+          {
+            "text": "Ibgħat email lil support@tavalabs.app jew uża l "
+          },
+          {
+            "text": "Ikkuntattjana",
+            "href": "/contact"
+          },
+          {
+            "text": " paġna."
+          }
+        ]
+      }
+    ]
+  },
+  "ingredients": {
+    "label": "Ingredjenti",
+    "titleLead": "X hemm ġewwa, u",
+    "titleAccent": "x inħallu barra.",
+    "intro": "Hawn huwa kull ingredjent fil PDRN Brightening Serum, x jagħmel kull wieħed, u l lista sħiħa eżatt kif tidher fuq it tikketta.",
+    "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Magħmul fl USA · Adattat għat tipi kollha tal ġilda.",
+    "keyTitle": "Ingredjenti Ewlenin",
+    "keyItems": [
+      {
+        "name": "PDRN (Polydeoxyribonucleotide)",
+        "body": "L ingredjent attiv ewlieni tagħna. Jappoġġja karnaġġjon li jidher aktar luminuż u uniformi."
+      },
+      {
+        "name": "Acetyl Hexapeptide-8",
+        "body": "Peptide li jappoġġa d dehra tas sodizza u l lixxezza."
+      },
+      {
+        "name": "Sodium Hyaluronate (Hyaluronic Acid)",
+        "body": "Jiġbed l umdità għal ġilda idratata u komda."
+      },
+      {
+        "name": "Panthenol",
+        "body": "Jikkalma u jappoġġa l barriera tal ġilda."
+      },
+      {
+        "name": "Glycerin + Sodium PCA",
+        "body": "Umettanti li jgħinu lill ġilda żżomm l ilma matul il ġurnata."
+      }
+    ],
+    "fullTitle": "Ingredjenti Sħaħ",
+    "howTitle": "Kif Tuża",
+    "howBody": "Applika 2 sa 4 pompi fuq ġilda nadifa u niexfa, filgħodu u billejl. Kompli b idratant. Ibda darba kuljum jekk int ġdid għall kura tal ġilda attiva.",
+    "warningTitle": "Twissija",
+    "warningBody": "Għall użu estern biss. Evita kuntatt dirett mal għajnejn. Jekk isseħħ irritazzjoni, waqqaf l użu. Żomm fejn ma jintlaħaqx mit tfal."
   },
   "partners": {
-   "title": "Ingħaqad ma Tava Labs | Serum B'xejn għall Programm Tiegħek",
-   "description": "Aċċeleraturi, inkubaturi, programmi tan negozju u investituri: agħtu lill fundaturi tagħkom provvista b'xejn ta xahar tal PDRN Brightening Serum. Ingħaqdu ma Tava Labs."
-  },
-  "research": {
-   "title": "Riżultati tar Riċerka ta 16 il Ġimgħa | Tava Labs",
-   "description": "Riżultati mkejla mill programm tal parteċipanti ta 16 il ġimgħa ta Tava Labs. Tibdil mill linja bażi sa ġimgħa 16 fil leżjonijiet tal akne, l idratazzjoni, il ħmura, il pigmentazzjoni u n nisġa, bil protokoll sħiħ tal programm."
+    "label": "Ingħaqad ma Tava Labs",
+    "titleLead": "Agħti lill fundaturi tiegħek xahar b'xejn ta",
+    "titleAccent": "Tava Labs.",
+    "intro": "Tava Labs tissieħeb ma aċċeleraturi, universitajiet, investituri anġli u komunitajiet ta fundaturi. Il membri tiegħek jirċievu l ewwel xahar tagħhom tal PDRN Brightening Serum b xejn.",
+    "tagline": "Xahar b xejn mingħandna, mingħajr spiża u mingħajr obbligu.",
+    "becomePartner": "Sir Sieħeb",
+    "partnershipsContact": "Kuntatt tas Sħubijiet",
+    "audiences": [
+      {
+        "alt": "Fundaturi ta startup f sessjoni ta aċċeleratur",
+        "title": "Għall Aċċeleraturi",
+        "body": "Il fundaturi tiegħek qed jippitchjaw, jagħmlu demo u jiffilmjaw kontenut mill ewwel jum. Agħtihom xahar ta kura tal ġilda ta kuljum li tieħu żewġ minuti kuljum waqt il programm.",
+        "how": "Kif jaħdem: nibagħtu lil kull fundatur fil grupp tiegħek flixkun wieħed b'xejn, bi pjan personali mill kwizz tal ġilda. Int tippreżentana darba; aħna nieħdu ħsieb il bqija kollu."
+      },
+      {
+        "alt": "Studenti universitarji fil kampus",
+        "title": "Għall Universitajiet",
+        "body": "L istudenti tal intraprenditorija qed jibnu fil pubbliku: kompetizzjonijiet ta preżentazzjoni, ġranet ta dimostrazzjoni, taħditiet ta fundaturi u l ewwel laqgħat mal investituri. Xahar b'xejn ta Tava Labs huwa rigal prattiku u memorabbli għall istudenti fil programm tiegħek.",
+        "how": "Kif jaħdem: nipprovdu fliexken għall grupp, il klassi jew l avveniment tiegħek, flimkien ma fuljett sempliċi. L ebda spiża għall università u l ebda spiża għall istudenti."
+      },
+      {
+        "alt": "Laqgħa ta investitur ma fundatur",
+        "title": "Għall Investituri Anġli",
+        "body": "Xahar ta Tava Labs b xejn huwa rigal prattiku għall fundaturi fil portafoll tiegħek. Aħna nieħdu ħsieb il kunsinna u l pjanijiet personali tagħhom.",
+        "how": "Kif jaħdem: għidilna kemm fundaturi tixtieq tagħti rigal, u aħna nirranġaw il kunsinna u l pjanijiet personali tagħhom. L ebda spiża għalik u l ebda spiża għalihom."
+      }
+    ],
+    "whyTitleLead": "Żero spiża. Żero sforz.",
+    "whyTitleAccent": "Valur reali.",
+    "why": [
+      {
+        "title": "Aktar valur mill ewwel jum",
+        "body": "Il membri tiegħek jiksbu prodott reali u pjan personali, mhux kodiċi ta skont li jinsew."
+      },
+      {
+        "title": "Żero spiża għalik",
+        "body": "L ewwel xahar huwa fuqna, għal kull persuna li tagħtiha rigal."
+      },
+      {
+        "title": "Żero sforz għalik",
+        "body": "Aħna nieħdu ħsieb it tbaħħir, l onboarding u l appoġġ. Int tagħmel introduzzjoni waħda."
+      },
+      {
+        "title": "Rigal li tassew se jużaw",
+        "body": "Pass wieħed, filgħodu u billejl. Jaqbel ma skeda ta fundatur għax kien iddisinjat għal waħda."
+      }
+    ],
+    "formulationTitle": "Magħmul mingħajr dawn l ingredjenti.",
+    "formulationSub": "Is serum huwa magħmul mingħajr l ingredjenti li l membri tiegħek jistaqsu dwarhom l aktar:",
+    "stepsTitle": "Kif taħdem sħubija",
+    "steps": [
+      {
+        "title": "Ikkuntattjana",
+        "body": "Għidilna dwar il programm tiegħek u kemm nies tixtieq tagħtihom rigal."
+      },
+      {
+        "title": "Aħna nirranġaw ir rigal",
+        "body": "Nibagħtu s serum u nwaqqfu l pjan personali ta kull persuna mill kwizz tal ġilda."
+      },
+      {
+        "title": "Int tagħti r rigal",
+        "body": "Il membri tiegħek jirċievu xahar tas serum b xejn, b nota ta grazzi mingħandna f kull kaxxa."
+      }
+    ],
+    "closingTitleLead": "Agħti lill fundaturi tiegħek",
+    "closingTitleAccent": "xahar b xejn.",
+    "closingSegments": [
+      {
+        "text": "Ibgħat email lil "
+      },
+      {
+        "text": "talia@tavalabs.app",
+        "href": "mailto:talia@tavalabs.app"
+      },
+      {
+        "text": " jew ċempel "
+      },
+      {
+        "text": "909-906-1308",
+        "href": "tel:+19099061308"
+      },
+      {
+        "text": ", u aħna nirranġawh."
+      }
+    ]
   },
   "blog": {
-   "title": "The Tava Journal | Ġilda, Irqad u Stress għall Fundaturi",
-   "description": "Xjenza tal irqad, riċerka tal istess u saħħa tal ġilda għall fundaturi u sidien tan negozji, flimkien ma rutini prattiċi biex tidher mistrieħ fuq ix xogħol."
+    "label": "The Tava Journal",
+    "titleLead": "Riċerka dwar l Irqad u l Istress",
+    "titleAccent": "għall Fundaturi",
+    "sub": "Artikli dwar ix xjenza tal irqad, ir riċerka tal istess u s saħħa tal ġilda għall fundaturi u sidien tan negozji.",
+    "readStory": "Aqra l istorja"
   },
-  "quiz": {
-   "title": "Kwizz tal Ġilda | Ibni l Pjan Personali tas Serum Tiegħek | Tava Labs",
-   "description": "Wieġeb ftit mistoqsijiet malajr u ibni l pjan personali tiegħek madwar il PDRN Brightening Serum. Serum wieħed, darbtejn kuljum, imfassal għall ġilda tiegħek u l għanijiet tiegħek."
-  },
-  "checkoutSuccess": {
-   "title": "Ordni Kkonfermata | Il PDRN Brightening Serum Tiegħek | Tava Labs",
-   "description": "L ordni tiegħek tal PDRN Brightening Serum ta Tava Labs hija kkonfermata. Il kodiċi ta talba tiegħek jgħaqqad dan ix xiri mal app, fejn tista tara l pjan tiegħek, it tweġibiet tal quiz tiegħek u l ordni tiegħek."
-  },
-  "checkoutCancel": {
-   "title": "Ħlas Imħassar | L Ebda Ħlas Ma Sar | Tava Labs",
-   "description": "Ma sar ebda ħlas. Il pjan u t tweġibiet ta Tava Labs tiegħek huma ssejvjati, sabiex tkun tista tispiċċa l ordni tiegħek aktar tard meta tkun lest."
-  },
-  "login": {
-   "title": "Idħol | Tava Labs",
-   "description": "Idħol fil kont tiegħek ta Tava Labs: il pjan, l ordnijiet, ir rutina u l appoġġ tiegħek, marbuta mal istess email bħall app mobbli."
+  "research": {
+    "pill": "Serje tar Riċerka 001 · Riżultati tal parteċipanti",
+    "h1Lead": "Ħarsa ta 16 il ġimgħa lejn tibdil imkejjel",
+    "h1Accent": "fil ġilda.",
+    "heroSub": "Programm prospettiv u open label tal parteċipanti li jgħaqqad rutina personalizzata tal kura tal ġilda, supplimenti u gwida dwar l stil ta ħajja. Kull numru f din il paġna jiġi mir rapport, imkejjel fil linja bażi u f ġimgħa 16.",
+    "chips": [
+      "Prospettiv u open label",
+      "Fergħa waħda",
+      "Sorveljat medikament",
+      "Sit ta riċerka klinika wiċċ imb wiċċ"
+    ],
+    "headlineLabel": "Riżultat ewlieni",
+    "headlineTitle": "Il leżjonijiet totali tal akne niżlu minn 16.8 għal 6.2",
+    "slopeAria": "Ċart tal inklinazzjoni li turi l leżjonijiet totali tal akne minn 16.8 fil linja bażi sa 6.2 f ġimgħa 16",
+    "slopeBaseline": "Linja bażi 16.8",
+    "slopeWeek": "Ġimgħa 16 · 6.2",
+    "slopeNote": "Linja dritta bejn iż żewġ punti mkejla biss. Ir rapport ma ppubblikax valuri tar riżultati għall ġimgħat 4, 8 jew 12.",
+    "badges": [
+      {
+        "big": "60 fil mija ogħla",
+        "small": "Idratazzjoni tal ġilda, 29.4 AU sa 47.1 AU"
+      },
+      {
+        "big": "52 fil mija inqas",
+        "small": "Punteġġ kliniku tan nisġa, 2.7 minn 4 sa 1.3 minn 4"
+      }
+    ],
+    "statsLabels": [
+      "Ġimgħat fil programm",
+      "Adulti rreġistrati",
+      "Nies lestew il viżti kollha",
+      "Rata ta tlestija"
+    ],
+    "percentWord": "fil mija",
+    "resultsBg": "Riżultati",
+    "resultsLabel": "Tibdil medju · Linja bażi sa ġimgħa 16",
+    "resultsTitle": "X inbidel, f numri sempliċi.",
+    "resultsSub": "Riżultati għat 84 parteċipant li lestew il viżti kollha. Kull karta tqabbel iż żewġ punti taż żmien li l istudju tassew kejjel.",
+    "baseline": "Linja bażi",
+    "week16": "Ġimgħa 16",
+    "slopeFoot": "Linja bażi sa ġimgħa 16",
+    "results": [
+      {
+        "title": "Leżjonijiet totali tal akne",
+        "change": "63 fil mija inqas",
+        "note": "Leżjonijiet magħduda mid dermatologu"
+      },
+      {
+        "title": "Idratazzjoni tal ġilda",
+        "change": "60 fil mija ogħla",
+        "note": "Kejl bil Corneometer f AU"
+      },
+      {
+        "title": "Indiċi tal eritema u l ħmura",
+        "change": "30 fil mija inqas",
+        "note": "Indiċi tal Chromameter"
+      },
+      {
+        "title": "Indiċi tal melanina u l pigmentazzjoni",
+        "change": "25 fil mija inqas",
+        "note": "Indiċi tal Chromameter"
+      },
+      {
+        "title": "Punteġġ kliniku tan nisġa",
+        "change": "52 fil mija inqas",
+        "note": "Igggradat fuq skala ta 0 sa 4"
+      }
+    ],
+    "peopleBg": "Nies",
+    "participantsLabel": "Min ipparteċipa",
+    "participantsTitle": "Min ħa sehem fil programm.",
+    "participantsSub": "Ħames viżti matul il programm, mil linja bażi sa ġimgħa 16.",
+    "ageLabel": "Età medja",
+    "ageSuffix": "Snin · Firxa 20 sa 48",
+    "visitTimeline": "Skeda tal viżti",
+    "visits": [
+      {
+        "name": "Linja bażi",
+        "desc": "Skrining, kejl u fotografija"
+      },
+      {
+        "name": "Ġimgħa 4",
+        "desc": "Valutazzjoni ta segwitu"
+      },
+      {
+        "name": "Ġimgħa 8",
+        "desc": "Valutazzjoni ta segwitu"
+      },
+      {
+        "name": "Ġimgħa 12",
+        "desc": "Valutazzjoni ta segwitu"
+      },
+      {
+        "name": "Ġimgħa 16",
+        "desc": "Kejl finali u fotografija"
+      }
+    ],
+    "genderTitle": "Qsim skont il ġeneru",
+    "genderAria": "Ċart donut tal qsim skont il ġeneru, 74 fil mija nisa, 24 fil mija rġiel, 2 fil mija mhux binarji",
+    "gender": [
+      {
+        "label": "Mara",
+        "pct": "74 fil mija"
+      },
+      {
+        "label": "Raġel",
+        "pct": "24 fil mija"
+      },
+      {
+        "label": "Mhux binarju",
+        "pct": "2 fil mija"
+      }
+    ],
+    "donutNote": "Id donut janima għall qsim irrappurtat meta jiskrollja fil veduta.",
+    "concernsTitle": "Tħassib tal ġilda fil linja bażi",
+    "concerns": [
+      "Iperpigmentazzjoni post infjammatorja",
+      "Nisġa mhux uniformi u ħruxija",
+      "Akne infjammatorja",
+      "Ħmura u sensittività tal wiċċ",
+      "Ċrieki skuri taħt l għajnejn",
+      "Nixfa u barriera kompromessa",
+      "Linji fini u fotoaging bikri"
+    ],
+    "concernsNote": "Il parteċipanti setgħu jirrappurtaw aktar minn tħassib wieħed, għalhekk dawn is sehem ma jammontawx għal 100 fil mija.",
+    "programBg": "Programm",
+    "programLabel": "Programm u protokoll",
+    "programTitle": "Il programm ta 16 il ġimgħa, pass pass.",
+    "programSub": "Il parteċipanti rċevew skrining wiċċ imb wiċċ, tqassim tal prodott, taħriġ fl applikazzjoni u valutazzjonijiet ta segwitu f sit ta riċerka klinika.",
+    "morningTag": "Rutina ta filgħodu",
+    "morningTitle": "Ibda l ġurnata",
+    "amSteps": [
+      "Prodott tat tindif ġentili",
+      "Serum tal vitamina C, 15 fil mija",
+      "Idratant taċ ċeramidi",
+      "Protezzjoni mix xemx minerali, SPF 50"
+    ],
+    "eveningTag": "Rutina ta filgħaxija",
+    "eveningTitle": "Agħlaq il ġurnata",
+    "pmSteps": [
+      "Prodott tat tindif ġentili",
+      "Serum ta Niacinamide 5 fil mija flimkien maż żingu",
+      "Krema tal barriera bil peptidi",
+      "Retinol 0.3 fil mija, introdott f ġimgħa 2 u ttitrat taħt gwida ta kliniku"
+    ],
+    "routineNote": "Ir retinol intuża 3 sa 5 iljieli fil ġimgħa wara l perjodu inizjali ta żieda gradwali ta ġimgħatejn. Kif meħtieġ, intuża aċidu saliċiliku ta 2 fil mija għal leżjonijiet attivi.",
+    "supplementLabel": "Rutina tas supplimenti",
+    "supplementTitle": "Tava Skin Complex",
+    "supplementSub": "Żewġ kapsuli kuljum mal kolazzjon. Ammonti murija għal kull porzjon ta żewġ kapsuli.",
+    "supplements": [
+      "Vitamina C",
+      "Żingu",
+      "Niacinamide",
+      "Astaxanthin",
+      "Curcumin phytosome",
+      "Taħlita probijotika ta Lactobacillus"
+    ],
+    "supplementNote": "Żieda fakultattiva, Omega 3, softgel waħda kuljum.",
+    "nutritionTitle": "Gwida dwar in nutrizzjoni",
+    "nutritionItems": [
+      "Mill inqas 2.5 L ta ilma kuljum",
+      "Ħxejjex, frott tal bosk, u ikel rikk fl omega 3",
+      "Illimita z zokkor miżjud u ikel gliċemiku għoli",
+      "Reset fakultattiv ta ġimgħatejn b ftit ħalib u ftit zokkor",
+      "Konsulenza fil linja bażi ma dietista rreġistrat"
+    ],
+    "lifestyleTitle": "Għanijiet tal stil ta ħajja",
+    "lifestyleItems": [
+      "7 sa 9 sigħat ta rqad",
+      "Mill inqas 150 minuta ta attività moderata fil ġimgħa",
+      "Eżerċizzju tan nifs ta ħames minuti kuljum",
+      "Irqad irreġistrat kull ġimgħa",
+      "Drawwiet tal idratazzjoni u l protezzjoni mix xemx riveduti fil viżti"
+    ],
+    "adherenceLabel": "Traċċar tal programm",
+    "adherenceTitle": "Kemm in nies baqgħu mill qrib fuq il pjan.",
+    "adherenceSub": "Aderenza matul is 16 il ġimgħa sħaħ, kif irreġistrata fir rapport.",
+    "adherence": [
+      "Aderenza ġenerali",
+      "Aderenza tas supplimenti",
+      "Aderenza topika"
+    ],
+    "adherenceAria": "{label}, {val} fil mija",
+    "adherenceFoot": "Matul il programm ta 16 il ġimgħa",
+    "safetyBg": "Sigurtà",
+    "safetyLabel": "Effetti sekondarji rrappurtati",
+    "safetyTitle": "X irrappurtaw il parteċipanti.",
+    "safetySub": "Sehem ta parteċipanti li jirrappurtaw kull effett matul il programm.",
+    "sideEffectsTitle": "Effetti sekondarji",
+    "sideEffects": [
+      "Nixfa ħafifa jew tqaxxir",
+      "Fjamma temporanja tal akne",
+      "Skumdità gastrointestinali ħafifa"
+    ],
+    "withdrawalsTitle": "Irtirar",
+    "withdrawalsSub": "8 parteċipanti rtiraw mid 92 irreġistrati.",
+    "withdrawals": [
+      {
+        "label": "Kunflitti tal iskeda",
+        "value": "5 persuni"
+      },
+      {
+        "label": "Effetti sekondarji ħfief",
+        "value": "2 persuni"
+      },
+      {
+        "label": "Mitlufa għas segwitu",
+        "value": "Persuna waħda"
+      }
+    ],
+    "alertTitle": "L ebda avveniment avvers serju ma ġie rrappurtat.",
+    "alertBody": "Dik il linja hija ddikjarata fir rapport flimkien mal effetti ħfief elenkati f din il paġna. Hija inkluża hawn eżatt kif irrappurtata.",
+    "photoLabel": "Dokumentazzjoni viżwali",
+    "photoTitle": "Tqabbil tar ritratti tal parteċipanti.",
+    "photoSub": "Ritratti ħdejn xulxin mill programm ta erba xhur. L immaġni tax xellug f kull par uriet il linja bażi u l immaġni tal lemin uriet ġimgħa 16. L ebda ritratt tal parteċipanti ma huwa riprodott f din il paġna.",
+    "participant": "Parteċipant {initial}",
+    "docViews": [
+      "Veduta tal profil tal ġenb",
+      "Veduta frontali",
+      "Veduta frontali bin nuċċali",
+      "Veduta mill qrib tal ħaddejn"
+    ],
+    "baselineAndWeek": "Linja bażi u ġimgħa 16",
+    "photoProtocolTitle": "Protokoll tal fotografija",
+    "photoProtocol": "Qbid standardizzat fil linja bażi u fis segwitu bl użu ta setup fiss tal kamera, dawl viżibbli u cross polarized konsistenti, angoli frontali, ta 45 grad u tal profil, u sfond ikkalibrat bil kulur.",
+    "methodsLabel": "Kif ittieħed il kejl",
+    "methodsTitle": "Kejl kliniku",
+    "methods": [
+      "Leżjonijiet tal akne magħduda mid dermatologu",
+      "Idratazzjoni bil Corneometer",
+      "Indiċi tal ħmura u l melanina bil Chromameter",
+      "Gradazzjoni tan nisġa fuq skala ta 0 sa 4",
+      "Fotografija standardizzata"
+    ],
+    "factsLabel": "Disinn tal istudju",
+    "factsTitle": "Id disinn f daqqa t għajn.",
+    "facts": [
+      {
+        "k": "Disinn",
+        "v": "Prospettiv, open label, fergħa waħda"
+      },
+      {
+        "k": "Ambjent",
+        "v": "Wiċċ imb wiċċ, sorveljat medikament"
+      },
+      {
+        "k": "Valutazzjonijiet",
+        "v": "Linja bażi flimkien ma ġimgħat 4, 8, 12, 16"
+      },
+      {
+        "k": "Lest",
+        "v": "84 minn 92 irreġistrati · 91 fil mija"
+      }
+    ],
+    "source": "Sors, Tava Labs Participant Outcomes, Serje tar Riċerka 001, programm tal parteċipanti ta 16 il ġimgħa. Din il paġna tippreżenta n numri tar rapport biss, bil linja bażi u ġimgħa 16 bħala ż żewġ punti tar riżultat imkejla."
   },
   "account": {
-   "title": "Il Kont Tiegħek | Tava Labs",
-   "description": "Il kont tiegħek ta Tava Labs fuq il web: il pjan, l ordnijiet, ir rutina u l appoġġ tiegħek, marbuta mal istess email bħall app mobbli."
-  },
-  "terms": {
-   "title": "Termini u Kundizzjonijiet | Tava Labs",
-   "description": "It termini li jirregolaw l użu tiegħek ta tavalabs.app u x xiri tiegħek tal PDRN Brightening Serum mingħand Tava Labs, LLC, inkluża l politika tagħna li l bejgħ kollu huwa finali."
-  },
-  "privacy": {
-   "title": "Politika tal Privatezza | Tava Labs",
-   "description": "Kif Tava Labs tiġbor, tuża u tipproteġi l informazzjoni tiegħek meta żżur tavalabs.app, tagħmel il kwizz tal ġilda jew tordna l PDRN Brightening Serum."
-  },
-  "returns": {
-   "title": "Politika tar Ritorni u r Rifondi | Tava Labs",
-   "description": "Il politika tar ritorni u r rifondi ta Tava Labs għall ordnijiet tal PDRN Brightening Serum, inklużi t termini tagħna li l bejgħ kollu huwa finali u kif tilħaq l appoġġ."
-  },
-  "cookies": {
-   "title": "Politika tal Cookies | Tava Labs",
-   "description": "Kif il websajt ta Tava Labs tuża l cookies u għodod simili meta żżur tavalabs.app, x jaħżnu, u kif tista tikkontrollahom."
-  },
-  "shipping": {
-   "title": "Politika tat Tbaħħir | Tava Labs",
-   "description": "Il politika tat tbaħħir ta Tava Labs għall ordnijiet tal PDRN Brightening Serum: ħinijiet tal ipproċessar, stimi tal kunsinna, traċċar u żoni tal kunsinna."
-  }
- },
- "chrome": {
-  "homeAria": "Il paġna ewlenija ta Tava Labs",
-  "primaryNavAria": "Prinċipali",
-  "mobileNavAria": "Mobbli",
-  "navSerum": "Is Serum",
-  "navAbout": "Dwarna",
-  "navIngredients": "Ingredjenti",
-  "navFaqs": "Mistoqsijiet Frekwenti",
-  "navBlog": "Blog",
-  "navContact": "Kuntatt",
-  "login": "Idħol",
-  "addToRoutine": "Żid mar rutina",
-  "openMenu": "Iftaħ il menu",
-  "closeMenu": "Agħlaq il menu",
-  "language": "Lingwa",
-  "tagline": "PDRN Brightening Serum għall fundaturi",
-  "shopHeading": "Ħanut",
-  "contactHeading": "Ikkuntattjana",
-  "infoHeading": "Informazzjoni",
-  "legalHeading": "Legali",
-  "footerSerum": "PDRN Brightening Serum",
-  "footerIngredients": "Ingredjenti",
-  "contactLinks": {
-   "general": "Ġenerali",
-   "wholesale": "Bejgħ bl Ingrossa",
-   "salesSupport": "Appoġġ tal Bejgħ",
-   "productSupport": "Appoġġ tal Prodott",
-   "pr": "PR"
-  },
-  "contactEmails": {
-   "supportLabel": "Ordnijiet u għajnuna dwar il-prodotti",
-   "generalLabel": "Kuntatt ġenerali"
-  },
-  "infoLinks": {
-   "about": "Dwarna",
-   "partners": "Sħab",
-   "ingredients": "Ingredjenti",
-   "faqs": "Mistoqsijiet Frekwenti",
-   "blog": "Blog",
-   "research": "Riċerka"
-  },
-  "newsletterHeading": "Irċievi aġġornamenti ta Tava Labs bl email",
-  "newsletter": {
-   "placeholder": "L email tiegħek",
-   "subscribe": "Abbona",
-   "sending": "Qed jintbagħat...",
-   "done": "Inti abbonat. Grazzi.",
-   "error": "Xi ħaġa marret ħażin, jekk jogħġbok erġa pprova."
-  },
-  "disclaimer1": "Il PDRN Brightening Serum huwa prodott kosmetiku. Mhuwiex maħsub biex jiddijanjostika, jittratta, ifejjaq jew jipprevjeni xi marda. Ir riżultati individwali jistgħu jvarjaw.",
-  "disclaimer2": "Il bejgħ kollu huwa finali. Jekk jogħġbok ara l politika tar Ritorni tagħna qabel tordna.",
-  "copyright": "© 2026 Tava Labs · PDRN Brightening Serum għall fundaturi",
-  "notFoundLabel": "Tava Labs",
-  "notFoundTitle": "Il paġna ma nstabitx",
-  "notFoundBody": "Dik il paġna mhix hawn. Jista jkun li ċċaqalqet, jew li l indirizz mhuwiex komplut.",
-  "notFoundHome": "Lura għall paġna ewlenija",
-  "notFoundShop": "Ixtri l PDRN Brightening Serum",
-  "legalLinks": {
-   "terms": "Termini u Kundizzjonijiet",
-   "privacy": "Politika tal Privatezza",
-   "returns": "Politika tar Ritorni",
-   "cookies": "Politika tal Cookies",
-   "shipping": "Politika tat Tbaħħir"
-  }
- },
- "hero": {
-  "ariaLabel": "PDRN Brightening Serum",
-  "pill": "Għall fundaturi u sidien tan negozji",
-  "line1": "Serum tal wiċċ ta kuljum għal",
-  "line2": "ġilda aktar luminuża u lixxa.",
-  "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Applika żewġ sa erba qtar filgħodu u billejl. $49 darba waħda jew $39 fix xahar.",
-  "cardAria": "PDRN Brightening Serum, il paġna tal prodott",
-  "onSetPill": "Fuq il kamera",
-  "onSetCaption": "Għall iffilmjar u sejħiet bil vidjo",
-  "onSetAlt": "Fundatur bilqiegħda fuq set ta studio, iħares lejn il kamera",
-  "morningPill": "Rutina ta filgħodu",
-  "morningCaption": "Applika quddiem il mera kull filgħodu",
-  "morningAlt": "Fundatur japplika s serum quddiem mera tal kamra tal banju fid dawl ta filgħodu",
-  "widePill": "Jum u lejl",
-  "wideHead": "Flixkun wieħed, użat filgħodu u billejl.",
-  "priceLine": "$49 darba waħda jew $39 fix xahar",
-  "talia": {
-   "baseline": "Linja bażi",
-   "week16": "Ġimgħa 16",
-   "statBig": "63% inqas",
-   "statCap": "Leżjonijiet tal akne",
-   "statNote": "Tibdil medju fil programm tal parteċipanti ta 16 il ġimgħa",
-   "alt": "Talia Kade, riċerkatur f Tava Labs, liebsa lab coat abjad",
-   "slopeAria": "Linja tax xejra minn 16.8 fil linja bażi sa 6.2 f ġimgħa 16"
-  }
- },
- "home": {
-  "introTitleLead": "Aktar qawwija, idratata,",
-  "introTitleAccent": "ġilda li tidher b saħħitha",
-  "introBody": "Fundaturi u sidien tan negozji jqattgħu jiemhom f laqgħat, fuq sejħiet ta bejgħ, u f vidjows irrekordjati. Wiċċek huwa fuq l iskrin u fil kamra għal dan kollu. Il PDRN Brightening Serum huwa pass ħafif wieħed b PDRN, peptidi u aċidu jaluroniku. Jiġi assorbit malajr u jgħin lill ġilda tidher aktar luminuża, idratata u lixxa. Żewġ minuti, darbtejn kuljum.",
-  "marqueeTagline": "Serum wieħed, filgħodu u billejl",
-  "marqueeSlogan": "Magħmul għall fundaturi u sidien tan negozji",
-  "buildersTitle": "Magħmul għall fundaturi u sidien tan negozji",
-  "buildersTagline": "Ibni n negozju tiegħek. Tinnegliġix lilek innifsek.",
-  "buildersBody": "Fundaturi u sidien tan negozji jippreżentaw il jum kollu. Tippitchja investituri wiċċ imb wiċċ, tbigħ fuq sejħiet bil vidjo, u tirrekordja vidjows għall klijenti. Li tidher nadif u mistrieħ huwa parti mill preżentazzjoni tan negozju tiegħek sew. Rutina qasira ta kuljum tal kura tal ġilda toqgħod ħdejn libsa tajba u laptop affidabbli bħala manutenzjoni bażika. Il PDRN Brightening Serum jieħu żewġ minuti, filgħodu u billejl.",
-  "pitchAlt": "Fundatur jippreżenta l idea tiegħu lil investitur",
-  "pitchTitle": "Fil preżentazzjoni",
-  "pitchBody": "Meta tippitchja investituri wiċċ imb wiċċ, jaraw lilek qabel ma jaraw is slides tiegħek. Rutina ta serum ta kuljum tgħin lill ġilda tiegħek tidher luminuża, idratata u mistrieħa fil jum.",
-  "cameraAlt": "Fundatur jitkellem quddiem kamera",
-  "cameraTitle": "Quddiem il kamera",
-  "cameraBody": "Fuq shoot tal vidjo, podcast, jew sejħa ta bejgħ, il kamera turi ġilda għajjiena mill qrib. Rutina ta żewġ minuti filgħodu u billejl tgħin lill ġilda tiegħek tidher mistrieħa qabel ma tirrekordja.",
-  "maintenanceTitle": "Serum wieħed huwa r rutina kollha.",
-  "maintenanceBody": "Applika żewġ sa erba qtar ta PDRN Brightening Serum fuq ġilda nadifa u niexfa, filgħodu u billejl, imbagħad kompli b moisturizer. Ir rutina kollha tieħu madwar żewġ minuti kuljum.",
-  "motionTitle": "Ara l vidjows tal klijenti",
-  "motionBody": "Fundaturi u kreaturi li jużaw il PDRN Brightening Serum, irrekordjati fuq vidjo.",
-  "playVideo": "Daqq il vidjo",
-  "videoPlayer": "Player tal vidjo",
-  "closeVideo": "Agħlaq il vidjo",
-  "freeFromTitleLead": "X m huwiex",
-  "freeFromTitleAccent": "fil formula.",
-  "freeFromSub": "Dak li nħallu barra jgħodd daqs dak li npoġġu ġewwa.",
-  "freeFromItems": [
-   {
-    "name": "Mingħajr Krudeltà",
-    "blurb": "Qatt ma ġie ttestjat fuq l annimali."
-   },
-   {
-    "name": "Mingħajr Fwieħa",
-    "blurb": "L ebda fwejjaħ miżjuda jew irwejjaħ sintetiċi."
-   },
-   {
-    "name": "Mingħajr Żejt Minerali",
-    "blurb": "L ebda żejt minerali jew fillers tal petroleum."
-   },
-   {
-    "name": "Mingħajr Ftalati",
-    "blurb": "L ebda ftalati fil formula."
-   },
-   {
-    "name": "Mingħajr Silikon",
-    "blurb": "L ebda silikoni jiksu l ġilda tiegħek."
-   },
-   {
-    "name": "Mingħajr Sulfati",
-    "blurb": "L ebda sulfati ħorox. Ġentili fuq il ġilda."
-   },
-   {
-    "name": "Mingħajr Allerġeni",
-    "blurb": "Magħmul mingħajr allerġeni komuni."
-   },
-   {
-    "name": "Mingħajr Alkoħol",
-    "blurb": "L ebda alkoħol li jnixxef."
-   }
-  ],
-  "founderLabel": "Messaġġ mill Fundatur Tagħna",
-  "founderQuote": "“Serum wieħed, żewġ minuti, filgħodu u billejl. Dik hija r rutina kollha.”",
-  "founderBody1": "Dik hija l idea wara Tava Labs. Il PDRN Brightening Serum huwa l pass wieħed li r rutina hija mibnija madwaru: żewġ minuti, darbtejn kuljum, filgħodu u billejl.",
-  "founderBody2": "Ara l vidjo biex tisma għaliex għamilnieh, bil kliem tagħna stess.",
-  "founderPhilosophy": "Il Filosofija ta Tava Labs",
-  "founderVideoAria": "Il vidjo ta Tava Labs, għaliex għamilna l PDRN Brightening Serum",
-  "shopSerum": "Ixtri s Serum",
-  "journalTitle": "The Tava Journal",
-  "journalSub": "Artikli dwar l irqad, l istess u l ġilda għall fundaturi.",
-  "readJournal": "Aqra l Journal",
-  "readStory": "Aqra l istorja"
- },
- "appTeaser": {
-  "label": "Dalwaqt",
-  "lead": "Ir rutina tiegħek, ir riżultati tal laboratorju tiegħek u l ordnijiet tiegħek, kollha fl app ta Tava Labs.",
-  "headlineLead": "Is serum tiegħek, ir riżultati tal laboratorju u l ordnijiet tiegħek",
-  "headlineTrail": "f app waħda.",
-  "scroll": "Skrollja",
-  "caption": "L app ta Tava Labs iġġib il pjan tas serum tiegħek, ir rutina ta kuljum tiegħek, il panelli tal laboratorju u r riżultati tiegħek, u l ordnijiet tiegħek f post wieħed, mibnija għall iPhone.",
-  "features": [
-   {
-    "title": "Rutina ta kuljum",
-    "desc": "Sessjonijiet ta filgħodu u billejl, immarkati pass pass."
-   },
-   {
-    "title": "Serje u progress",
-    "desc": "Is sekwenza attwali tiegħek u l jiem li fadal fil pjan tiegħek."
-   },
-   {
-    "title": "Panelli tal laboratorju u riżultati",
-    "desc": "Panelli, riżultati u firxiet fil but tiegħek."
-   },
-   {
-    "title": "Ordnijiet u mili mill ġdid",
-    "desc": "Ara l ordnijiet tiegħek u d dati tar riforniment f post wieħed."
-   }
-  ],
-  "phone": {
-   "today": "Illum",
-   "goodMorning": "Il ġurnata t tajba",
-   "dayLine": "Jum 12 minn 30 · 18 il jum biex tasal għall ewwel xahar sħiħ tiegħek",
-   "stepsToGo": "Illum: 4 minn 6 passi tar rutina fadal",
-   "morningRoutine": "Rutina ta filgħodu",
-   "amDrops": "AM · 3 qtar",
-   "clinicalReview": "Reviżjoni klinika",
-   "resultsIn": "Ir riżultati tiegħek waslu",
-   "optimal": "4 ottimali",
-   "inRange": "2 fil firxa",
-   "toReview": "1 biex tirrevedi",
-   "tabs": {
-    "today": "Illum",
-    "shop": "Ħanut",
-    "lab": "Laboratorju",
-    "orders": "Ordnijiet",
-    "profile": "Profil"
-   },
-   "steps": [
-    {
-     "title": "Naddaf",
-     "detail": "Prodott tat tindif ġentili, nixxef bil pat"
+    "signedInAs": "Dħalt bħala",
+    "signOut": "Oħroġ",
+    "loading": "Qed jitgħabba l kont tiegħek…",
+    "failedTitle": "Ma stajniex ngħabbu l kont tiegħek",
+    "failedSegments": [
+      {
+        "text": "Iċċekkja l konnessjoni tiegħek u erġa pprova. Jekk jibqa jiġri, ibgħat email lil "
+      },
+      {
+        "text": "support@tavalabs.app",
+        "href": "mailto:support@tavalabs.app"
+      },
+      {
+        "text": " u aħna nirranġawha."
+      }
+    ],
+    "tryAgain": "Erġa pprova",
+    "tabs": {
+      "today": "Illum",
+      "orders": "Ordnijiet",
+      "shop": "Ħanut",
+      "lab": "Laboratorju",
+      "support": "Appoġġ"
     },
-    {
-     "title": "Applika 3 qtar ta serum",
-     "detail": "Agħfas ġol wiċċ u l għonq"
+    "greetings": {
+      "morning": "Il ġurnata t tajba",
+      "afternoon": "Wara nofsinhar it tajjeb",
+      "evening": "Il lejl it tajjeb"
     },
-    {
-     "title": "Idrata + SPF",
-     "detail": "SPF 30 jew ogħla"
-    }
-   ]
-  }
- },
- "categoryChrome": {
-  "readMore": "Aqra aktar +",
-  "showLess": "Uri inqas −",
-  "prevProducts": "Prodotti ta qabel",
-  "nextProducts": "Prodotti li jmiss",
-  "goTo": "Mur għal {title}",
-  "explore": "Esplora"
- },
- "categories": {
-  "skincare": {
-   "eyebrow": "KURA TAL ĠILDA",
-   "heroTitleLead": "Il laqgħa li jmiss tiegħek",
-   "heroTitleAccent": "tibda minnek.",
-   "heroCopy": "Mibni għall intraprendituri li jippitchjaw, ibigħu u jirrekordjaw fuq il kamera. Serum ta kuljum wieħed, mibni madwar PDRN, għal ġilda li tidher luminuża u mistrieħa fil kamra u fuq il kamera.",
-   "heroFinePrint": "Kura tal ġilda kosmetika. Mhix maħsuba biex tiddijanjostika, tittratta, tfejjaq jew tipprevjeni xi marda.",
-   "stamp": "KURA TAL ĠILDA GĦALL FUNDATURI",
-   "primaryCta": "Żid mar rutina",
-   "secondaryCta": "Ara l ingredjenti",
-   "optionsEyebrow": "IL LINJA",
-   "optionsTitleLead": "Serum wieħed.",
-   "optionsTitleAccent": "L ebda xkaffa ta suppożizzjonijiet.",
-   "optionsCopy": "Ibda bis serum. Il bqija tal linja tinsab fit triq.",
-   "products": [
-    {
-     "title": "PDRN Brightening Serum",
-     "subtitle": "PDRN, peptidi u sodium hyaluronate",
-     "unit": "darba waħda",
-     "imageAlt": "Flixkun tal PDRN Brightening Serum ta Tava Labs",
-     "badges": [
-      "L aktar li jinbigħ"
-     ],
-     "description": "Is serum ta kuljum għal ġilda li tidher aktar luminuża, idratata u b saħħitha. $39 fix xahar fuq Subscribe and Save.",
-     "linkLabel": "Ara s serum"
+    "weekInitials": [
+      "Ħ",
+      "T",
+      "E",
+      "L",
+      "Ħ",
+      "Ġ",
+      "S"
+    ],
+    "streakLine": "Serje ta {streak} jum · Jum {day} minn 30{bottle}",
+    "dayLine": "Jum {day} minn 30{bottle}. Lesti r rutina tal lum fl app biex tibda s serje tiegħek.",
+    "bottleSuffix": " · {days} jum fadal fil flixkun",
+    "progressLine": "Jum {day} minn 30 · {left} jum biex tasal għall ewwel xahar sħiħ tiegħek",
+    "stepsToGo": "Illum: {n} minn {total} passi tar rutina fadal.",
+    "todayComplete": "Illum huwa lest. Il jum li jmiss tiegħek diġà qiegħed lest.",
+    "planEyebrow": "Il pjan tiegħek",
+    "planDefault": "Agħmel il kwizz tal ġilda, u l pjan personali tiegħek, mibni mit tweġibiet tiegħek, se jgħix hawn u fl app.",
+    "retakeQuiz": "Erġa agħmel il kwizz tal ġilda",
+    "takeQuiz": "Agħmel il kwizz tal ġilda",
+    "chipLabels": {
+      "goal": "Għan",
+      "skinType": "Tip tal ġilda",
+      "concern": "Tħassib",
+      "routine": "Rutina",
+      "plan": "Pjan",
+      "routineTimes": "Ħinijiet tar rutina"
     },
-    {
-     "title": "Idratant bil Peptidi",
-     "subtitle": "1.7 fl oz (50ml)",
-     "imageAlt": "Tubu abjad tal Peptide Moisturizer ta Tava Labs bi splash roża",
-     "badges": [
-      "Dalwaqt"
-     ],
-     "description": "Idratant bil peptidi li jimmira t tikmix u jidrata, magħmul għal ġilda li trid tidher komposta l ġurnata kollha."
+    "labelMaps": {
+      "goal": {
+        "radiance": "Radjanza",
+        "fine_lines": "Linji fini",
+        "hydration": "Idratazzjoni",
+        "even_tone": "Ton uniformi"
+      },
+      "skinType": {
+        "dry": "Niexef",
+        "oily": "Żejtni",
+        "combination": "Kombinazzjoni",
+        "sensitive": "Sensittiv",
+        "not_sure": "Mhux ċert"
+      },
+      "concern": {
+        "dullness": "Matt",
+        "fine_lines": "Linji fini",
+        "uneven_tone": "Ton mhux uniformi",
+        "texture": "Nisġa",
+        "dryness": "Nixfa"
+      },
+      "sensitivity": {
+        "often": "Spiss sensittiv",
+        "sometimes": "Xi kultant sensittiv",
+        "never": "Rari sensittiv"
+      },
+      "routine": {
+        "cleanser_only": "Prodott tat tindif biss",
+        "few_products": "Ftit prodotti",
+        "full_routine": "Rutina sħiħa"
+      },
+      "ramp": {
+        "gentle": "Żieda gradwali ġentili",
+        "standard": "Żieda gradwali standard",
+        "full": "Qawwa sħiħa"
+      }
     },
-    {
-     "title": "Krema tal Għajnejn bil Peptidi",
-     "subtitle": "1 fl oz (30ml)",
-     "imageAlt": "Tubu abjad tal Peptide Eye Cream ta Tava Labs bi qatra kulur ix champagne",
-     "badges": [
-      "Dalwaqt"
-     ],
-     "description": "Inaqqas id dehra tan nefħa tal għajnejn u jimmira t tikmix fiż żona tal għajnejn, għal dehra mistrieħa quddiem il kamera."
+    "morningEyebrow": "Rutina ta filgħodu",
+    "nightEyebrow": "Rutina tal lejl",
+    "amTitle": "AM · 3 qtar",
+    "pmTitle": "PM · 3 qtar",
+    "amSteps": [
+      {
+        "title": "Naddaf",
+        "detail": "Prodott tat tindif ġentili, nixxef bil pat"
+      },
+      {
+        "title": "Applika 3 qtar ta serum",
+        "detail": "Agħfas ġol wiċċ u l għonq"
+      },
+      {
+        "title": "Idrata + SPF",
+        "detail": "SPF 30 jew ogħla"
+      }
+    ],
+    "pmSteps": [
+      {
+        "title": "Tindif doppju",
+        "detail": "Neħħi l SPF u l makeup"
+      },
+      {
+        "title": "Applika 3 qtar ta serum",
+        "detail": "Qabel ir retinol jew it trattamenti"
+      },
+      {
+        "title": "Idratant tal lejl",
+        "detail": "Issiġilla l idratazzjoni"
+      }
+    ],
+    "stepsNote": "Int timmarka l passi fl app mobbli. Din il paġna turi r rutina tal lum u dak li l app irreġistrat s issa llum.",
+    "ordersEyebrow": "Ordnijiet",
+    "ordersTitle": "L ordnijiet tiegħek",
+    "ordersEmpty": "Għad m hemm l ebda ordni. Meta tixtri, l ordnijiet u t traċċar tiegħek se jidhru hawn u fl app.",
+    "paid": "Imħallas",
+    "paymentFailed": "Il ħlas falla",
+    "unpaid": "Mhux imħallas",
+    "statusLabels": [
+      "Ordna",
+      "Intbagħat",
+      "Ħiereġ għall kunsinna",
+      "Ikunsinnat"
+    ],
+    "subscription": "Abbonament",
+    "carrierFallback": "Trasportatur",
+    "trackPackage": "Segwi l pakkett",
+    "claimEyebrow": "Kodiċi tat talba",
+    "claimTitle": "Tgħaqqad xiri mal app",
+    "claimForOrder": "Il kodiċi tat talba tiegħek għall ordni {order}",
+    "claimYourCode": "Il kodiċi tat talba tiegħek",
+    "claimValidUntil": " (validu sa {date})",
+    "claimEnter": ". Daħħlu fl app ta Tava taħt Ordnijiet biex tgħaqqad dan ix xiri mal kont tal app tiegħek:",
+    "claimWebNote": "Hawn fuq il web m għandekx bżonn il kodiċi. Id dħul bl email tal ħlas tiegħek diġà juri l ordnijiet u l pjan tiegħek hawn fuq.",
+    "claimEmpty": "Xt rajt permezz tal kwizz jew dan is sit? L email ta konferma tiegħek u l paġna eżatt wara l ħlas urew kodiċi tat talba. Iftaħ l app mobbli ta Tava, idħol, u daħħal il kodiċi fit tab Ordnijiet. Ix xiri, il pjan u t tweġibiet tal kwizz tiegħek jiċċaqalqu fil kont tal app tiegħek. Hawn fuq il web, id dħul bl istess email li ħallast biha diġà juri kollox hawn fuq. Xejn aktar x iddaħħal.",
+    "shop": {
+      "eyebrow": "PDRN Brightening Serum",
+      "title": "Ixtri Tava Labs",
+      "body": "1 fl oz (30 ml). Naqqas il linji fini, idrata fil fond, erġa ġib ir radjanza, u saħħaħ il ġilda. 2 sa 4 pompi, filgħodu u billejl.",
+      "subscribeLine": "Abbona, $39 fix xahar.",
+      "subscribeRest": " Flixkun ġdid kull xahar, awtomatikament.",
+      "oneTimeLine": "Darba waħda, $49.",
+      "oneTimeRest": " Flixkun wieħed.",
+      "subscribeBtn": "Abbona, $39 fix xahar",
+      "buyOnceBtn": "Ixtri darba, $49",
+      "stripeNote": "Ħlas sigur minn Stripe. Se tikkonferma l ħlas fil paġna ta Stripe."
     },
-    {
-     "title": "Krema li Tissikka l Ġilda",
-     "subtitle": "2 oz (56g)",
-     "imageAlt": "Vaġġett abjad tas Skin Firming Cream ta Tava Labs bi sfond ta mewġa dehbija",
-     "badges": [
-      "Dalwaqt"
-     ],
-     "description": "Aċidu jaluroniku u CoQ10 fi krema rikka li tħalli l ġilda tidher soda u miżmuma tajjeb."
-    }
-   ],
-   "disclaimerLead": "Il prodotti tal kura tal ġilda ta Tava Labs huma kożmetiċi. Mhumiex maħsuba biex jiddijanjostikaw, jittrattaw, ifejqu jew jipprevjenu xi marda.",
-   "disclaimerMore": [
-    "Ir riżultati individwali jvarjaw. Uża biss kif indikat: 2 sa 4 qtar tal PDRN Brightening Serum, darbtejn kuljum, fuq ġilda nadifa.",
-    "Jekk isseħħ irritazzjoni, waqqaf l użu u kkonsulta professjonist. Il prezzijiet f din il paġna kienu preċiżi meta ġew ippubblikati u jistgħu jinbidlu."
-   ],
-   "protocolEyebrow": "IR RUTINA",
-   "protocolTitleLead": "Żewġ minuti, darbtejn kuljum.",
-   "protocolTitleAccent": "Dik hija r rutina kollha.",
-   "protocolCopy": "Rutina mibnija madwar serum wieħed u skeda ta intraprenditur, telefonati kmieni, iljieli twal, u kollox.",
-   "protocolCta": "Żid mar rutina",
-   "steps": [
-    {
-     "title": "Ivvaluta",
-     "lead": "bil kwizz tal ġilda",
-     "body": "Wieġeb ftit mistoqsijiet malajr dwar il ġilda, l irqad u l iskeda tiegħek biex il pjan tiegħek jibda minn fejn int tassew."
+    "labTab": {
+      "eyebrow": "Laboratorju",
+      "title": "Kun af in numri tiegħek.",
+      "sub": "Panelli reali tad demm, ordnati taħt il kont ta Tava tiegħek. Fittex fil panelli, ara kull markatur qabel tordna, u ikseb ir riżultati tiegħek ikkunsinnati eżatt hawn."
     },
-    {
-     "title": "Applika",
-     "lead": "2 sa 4 qtar, darbtejn kuljum",
-     "body": "Filgħodu u billejl, fuq ġilda nadifa. Serum wieħed, pass wieħed, l ebda rutina ta għaxar passi biex iżżomm."
-    },
-    {
-     "title": "Segwi",
-     "lead": "il pjan tiegħek fl app",
-     "body": "Ix xiri tiegħek jgħaqqad mal app ta Tava b kodiċi tat talba, fejn il pjan, l ordnijiet u r rutina tiegħek jibqgħu f post wieħed."
-    }
-   ],
-   "legalLines": [
-    "Prodotti kożmetiċi biss. Xejn f din il paġna mhuwiex parir mediku."
-   ]
-  },
-  "biomarkers": {
-   "eyebrow": "BIOMARKATURI TAL LABORATORJU",
-   "heroTitleLead": "Kun af id data tiegħek,",
-   "heroTitleAccent": "fuq Tava.",
-   "heroCopy": "Tmexxi l kumpanija tiegħek fuq in numri. Dalwaqt tista tapplika l istess dixxiplina fuqek innifsek: il bijomarkaturi ewlenin tiegħek, segwiti maż żmien, fl app ta Tava.",
-   "heroFinePrint": "Dalwaqt fl app ta Tava. L għarfien huwa għall informazzjoni biss u ma jiddijanjostika l ebda kundizzjoni.",
-   "stamp": "ID DATA TIEGĦEK F POST WIEĦED",
-   "primaryCta": "Ara x inhu segwit",
-   "secondaryCta": "Kif se jaħdem",
-   "optionsEyebrow": "X JIĠI SEGWIT",
-   "optionsTitleLead": "Sitt oqsma.",
-   "optionsTitleAccent": "Stampa waħda ċara.",
-   "optionsCopy": "L oqsma tal bijomarkaturi fil Preview tal app ta Tava, li qed jinbnew issa.",
-   "products": [
-    {
-     "title": "Moħħ",
-     "subtitle": "Fokus u ċarezza",
-     "badges": [
-      "Dalwaqt"
-     ],
-     "description": "Il markaturi wara l fokus, iċ ċarezza u l pass konjittiv, miġbura f veduta waħda."
-    },
-    {
-     "title": "Ormoni",
-     "subtitle": "Bilanċ",
-     "badges": [
-      "Dalwaqt"
-     ],
-     "description": "L istampa tal ormoni tiegħek maż żmien, biex it tibdil jidher minflok jiġi maħsub."
-    },
-    {
-     "title": "Qalb",
-     "subtitle": "Markaturi kardjovaskulari",
-     "badges": [
-      "Dalwaqt"
-     ],
-     "description": "Il markaturi tal qalb li jgħoddu, segwiti bħala xejra minflok qari ta darba."
-    },
-    {
-     "title": "Metaboliżmu",
-     "subtitle": "Enerġija u ħruq",
-     "badges": [
-      "Dalwaqt"
-     ],
-     "description": "Kif ġismek juża l enerġija, f numri li tista tassew issegwi."
-    },
-    {
-     "title": "Imsaren",
-     "subtitle": "Saħħa diġestiva",
-     "badges": [
-      "Dalwaqt"
-     ],
-     "description": "Sinjali tas saħħa tal imsaren li jgħaqqdu mal enerġija, il burdata u l irkupru."
-    },
-    {
-     "title": "Lonġevità",
-     "subtitle": "Età bijoloġika",
-     "badges": [
-      "Dalwaqt"
-     ],
-     "description": "Il veduta twila: kif il markaturi tiegħek jammontaw għal stampa tal età bijoloġika."
-    }
-   ],
-   "disclaimerLead": "L għarfien dwar il bijomarkaturi fl app ta Tava huwa għall informazzjoni biss. Ma jiddijanjostika, jittratta jew jipprevjeni l ebda kundizzjoni.",
-   "disclaimerMore": [
-    "Kellem lill fornitur tiegħek dwar kwalunkwe riżultat li jinkwetak. F emerġenza, ċempel 911."
-   ],
-   "protocolEyebrow": "KIF SE JAĦDEM",
-   "protocolTitleLead": "Ittestja, irrevedi,",
-   "protocolTitleAccent": "segwi x xejra.",
-   "protocolCopy": "Dashboard waħda għall persuna li tmexxi n negozju, ħdejn il pjan tas serum tiegħek fl istess app.",
-   "steps": [
-    {
-     "title": "Ittestja",
-     "lead": "permezz ta sieħeb tal laboratorju",
-     "body": "Il kampjun tiegħek jinġabar u jiġi pproċessat, u r riżultati jaslu fl app ta Tava tiegħek."
-    },
-    {
-     "title": "Irrevedi",
-     "lead": "qasam b qasam",
-     "body": "Moħħ, ormoni, qalb, metaboliżmu, imsaren u lonġevità, kull wieħed bil veduta tiegħu."
-    },
-    {
-     "title": "Segwi",
-     "lead": "ix xejra maż żmien",
-     "body": "Qari wieħed huwa ritratt ta mument. Il valur huwa x xejra, u l app iżżommha għalik."
-    }
-   ],
-   "legalLines": [
-    "It traċċar tal bijomarkaturi tal laboratorju ġej dalwaqt u għadu mhuwiex miftuħ għall ordnijiet."
-   ]
-  },
-  "mentalHealth": {
-   "eyebrow": "SAĦĦA MENTALI",
-   "heroTitleLead": "Iffoka aħjar,",
-   "heroTitleAccent": "fuq Tava.",
-   "heroCopy": "Appoġġ għall fokus u l attenzjoni li jibda b reviżjoni ta kliniku, mhux b buttuna tal ħlas.",
-   "heroFinePrint": "Wara reviżjoni ta kliniku. Dan il programm qiegħed fl iżvilupp u għadu mhuwiex miftuħ għar reġistrazzjoni.",
-   "stamp": "KURA RIVEDUTA MINN KLINIKU",
-   "primaryCta": "Ara kif jaħdem",
-   "optionsEyebrow": "IL PROGRAMM",
-   "optionsTitleLead": "Kura li tibda",
-   "optionsTitleAccent": "b reviżjoni.",
-   "optionsCopy": "",
-   "products": [],
-   "disclaimerLead": "L appoġġ tas saħħa mentali fuq Tava jibda b reviżjoni ta kliniku. Xejn hawn mhuwiex dijanjosi jew rakkomandazzjoni ta trattament.",
-   "disclaimerMore": [
-    "Jekk int fi kriżi jew taħseb li tweġġa lilek innifsek, ċempel jew ibgħat messaġġ lil 988 fl Istati Uniti. F emerġenza, ċempel 911."
-   ],
-   "protocolEyebrow": "KIF JAĦDEM",
-   "protocolTitleLead": "Irrevedi l ewwel.",
-   "protocolTitleAccent": "Imbagħad pjan.",
-   "protocolCopy": "Triq bir reqqa, fil miftuħ, bil pass tiegħek.",
-   "steps": [
-    {
-     "title": "Irrevedi",
-     "lead": "ma kliniku",
-     "body": "Aqsam l istorja tiegħek u dak li qed tiffaċċja, u kliniku jirrevedi jekk l appoġġ hawn huwiex adattat."
-    },
-    {
-     "title": "Pjan",
-     "lead": "mibni madwarek",
-     "body": "Jekk huwa adattat, il pjan tiegħek jinbena madwar l għanijiet u l iskeda tiegħek."
-    },
-    {
-     "title": "Appoġġ",
-     "lead": "hekk kif timxi",
-     "body": "Il kontrolli regolari jżommu l pjan onest hekk kif l affarijiet jinbidlu."
-    }
-   ],
-   "legalLines": [
-    "L offerti tas saħħa mentali fuq Tava qegħdin fl iżvilupp u għadhom mhumiex miftuħa għar reġistrazzjoni."
-   ]
-  },
-  "peptides": {
-   "eyebrow": "PROGRAMMI TAL PEPTIDI",
-   "heroTitleLead": "Peptidi,",
-   "heroTitleAccent": "bi fornitur f il kantuniera tiegħek.",
-   "heroCopy": "Tlettax il programm tal peptidi mingħand Tava Labs, kull wieħed jibda b konsultazzjoni online u reviżjoni tal fornitur.",
-   "heroFinePrint": "Preskrizzjoni meħtieġa. Fornitur liċenzjat jiddeċiedi l eliġibbiltà wara l konsultazzjoni.",
-   "stamp": "PROGRAMMI GGWDATI MILL FORNITUR",
-   "primaryCta": "Ibda konsultazzjoni",
-   "secondaryCta": "Kif jaħdem",
-   "optionsEyebrow": "IL PROGRAMMI",
-   "optionsTitleLead": "Tlettax il programm.",
-   "optionsTitleAccent": "Konsultazzjoni waħda tibda kwalunkwe wieħed minnhom.",
-   "optionsCopy": "Kull programm jinkludi konsultazzjoni ta $20. Il biċċa l kbira jinkludu testijiet tal laboratorju. Il prezzijiet huma l prezzijiet ta kull xahar tal programm.",
-   "unitPerMonth": "/xahar",
-   "products": [
-    {
-     "subtitle": "Irkupru",
-     "imageAlt": "Arti tal kunjett tal programm BPC-157",
-     "badges": [
-      "Irkupru",
-      "Saħħa tal Imsaren",
-      "Testijiet tal laboratorju inklużi"
-     ],
-     "description": "BPC-157 mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
-     "linkLabel": "Ara l programm"
-    },
-    {
-     "subtitle": "Saħħa tal Imsaren",
-     "imageAlt": "Arti tal kunjett tal programm CJC-1295 + Ipamorelin",
-     "badges": [
-      "Saħħa tal Imsaren",
-      "Irqad",
-      "Irkupru",
-      "Lonġevità",
-      "Testijiet tal laboratorju inklużi"
-     ],
-     "description": "CJC-1295 + Ipamorelin mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
-     "linkLabel": "Ara l programm"
-    },
-    {
-     "subtitle": "Lonġevità",
-     "imageAlt": "Arti tal kunjett tal programm GHK-Cu",
-     "badges": [
-      "Lonġevità",
-      "Testijiet tal laboratorju inklużi"
-     ],
-     "description": "GHK-Cu mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
-     "linkLabel": "Ara l programm"
-    },
-    {
-     "subtitle": "Irkupru",
-     "imageAlt": "Arti tal kunjett tal programm GLOW Injection",
-     "badges": [
-      "Irkupru",
-      "Testijiet tal laboratorju inklużi"
-     ],
-     "description": "GLOW Injection mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
-     "linkLabel": "Ara l programm"
-    },
-    {
-     "subtitle": "Telf tal Piż",
-     "imageAlt": "Arti tal kunjett tal programm MOTS-C",
-     "badges": [
-      "Telf tal Piż",
-      "Enerġija",
-      "Prestazzjoni",
-      "Testijiet tal laboratorju inklużi"
-     ],
-     "description": "MOTS-C mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
-     "linkLabel": "Ara l programm"
-    },
-    {
-     "subtitle": "Lonġevità",
-     "imageAlt": "Arti tal kunjett tal programm NAD+ Injectable",
-     "badges": [
-      "Lonġevità",
-      "Enerġija",
-      "Irkupru",
-      "Fokus"
-     ],
-     "description": "NAD+ Injectable mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
-     "linkLabel": "Ara l programm"
-    },
-    {
-     "subtitle": "Saħħa Sesswali",
-     "imageAlt": "Arti tal kunjett tal programm PT-141",
-     "badges": [
-      "Saħħa Sesswali",
-      "Testijiet tal laboratorju inklużi"
-     ],
-     "description": "PT-141 mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
-     "linkLabel": "Ara l programm"
-    },
-    {
-     "subtitle": "Telf tal Piż",
-     "imageAlt": "Arti tal kunjett tal programm Semaglutide + B12 (Cyanocobalamin)",
-     "badges": [
-      "Telf tal Piż",
-      "Testijiet tal laboratorju inklużi"
-     ],
-     "description": "Semaglutide + B12 (Cyanocobalamin) mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
-     "linkLabel": "Ara l programm"
-    },
-    {
-     "subtitle": "Lonġevità",
-     "imageAlt": "Arti tal kunjett tal programm Sermorelin",
-     "badges": [
-      "Lonġevità",
-      "Irkupru",
-      "Prestazzjoni",
-      "Testijiet tal laboratorju inklużi"
-     ],
-     "description": "Sermorelin mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
-     "linkLabel": "Ara l programm"
-    },
-    {
-     "subtitle": "Prestazzjoni",
-     "imageAlt": "Arti tal kunjett tal programm TB-500",
-     "badges": [
-      "Prestazzjoni",
-      "Irkupru",
-      "Testijiet tal laboratorju inklużi"
-     ],
-     "description": "TB-500 mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
-     "linkLabel": "Ara l programm"
-    },
-    {
-     "subtitle": "Lonġevità",
-     "imageAlt": "Arti tal kunjett tal programm Tesamorelin",
-     "badges": [
-      "Lonġevità",
-      "Irkupru",
-      "Prestazzjoni",
-      "Testijiet tal laboratorju inklużi"
-     ],
-     "description": "Tesamorelin mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
-     "linkLabel": "Ara l programm"
-    },
-    {
-     "subtitle": "Telf tal Piż",
-     "imageAlt": "Arti tal kunjett tal programm Tirzepatide + B12 (Cyanocobalamin)",
-     "badges": [
-      "Telf tal Piż",
-      "Testijiet tal laboratorju inklużi"
-     ],
-     "description": "Tirzepatide + B12 (Cyanocobalamin) mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
-     "linkLabel": "Ara l programm"
-    },
-    {
-     "subtitle": "Irkupru",
-     "imageAlt": "Arti tal kunjett tal programm Wolverine Injection",
-     "badges": [
-      "Irkupru",
-      "Testijiet tal laboratorju inklużi"
-     ],
-     "description": "Wolverine Injection mingħand Tava Labs. Ir reviżjoni tal fornitur u s segwitu huma parti mill programm.",
-     "linkLabel": "Ara l programm"
-    }
-   ],
-   "disclaimerLead": "Il mediċini komposti jitħejjew minn spiżeriji liċenzjati għal pazjenti individwali. Mhumiex approvati mill FDA, u l FDA ma tirrevedix mediċini komposti għas sigurtà, l effettività jew il kwalità.",
-   "disclaimerMore": [
-    "Il kura medika hija pprovduta minn fornituri indipendenti u liċenzjati. Il fornituri jiddeċiedu b mod indipendenti jekk trattament huwiex tajjeb għalik; ix xiri ma jiggarantixxix preskrizzjoni.",
-    "Fornitur liċenzjat jirrevedi l informazzjoni tiegħek u jiddeċiedi b mod indipendenti jekk trattament huwiex tajjeb għalik. Ix xiri ma jiggarantixxix preskrizzjoni.",
-    "Għall emerġenzi ċempel 911."
-   ],
-   "protocolEyebrow": "KIF JAĦDEM",
-   "protocolTitleLead": "Ikkonsulta, irrevedi,",
-   "protocolTitleAccent": "imbagħad ibda.",
-   "protocolCopy": "Kull programm jgħaddi minn fornituri liċenzjati indipendenti.",
-   "protocolCta": "Ibda konsultazzjoni",
-   "steps": [
-    {
-     "title": "Ikkonsulta",
-     "lead": "online, skont l iskeda tiegħek",
-     "body": "Imla l konsultazzjoni online għall programm li għażilt. Il konsultazzjoni hija $20."
-    },
-    {
-     "title": "Irrevedi",
-     "lead": "minn fornitur liċenzjat",
-     "body": "Fornitur jirrevedi l informazzjoni tiegħek u l laboratorji tiegħek, u jiddeċiedi b mod indipendenti jekk it trattament huwiex tajjeb għalik."
-    },
-    {
-     "title": "Ibda",
-     "lead": "jekk jiġi preskritt",
-     "body": "Il mediċina tiegħek tintbagħat minn spiżerija liċenzjata, u l fornitur tiegħek isegwi hekk kif il programm tiegħek ikompli."
-    }
-   ],
-   "legalLines": [
-    "Il ħanut tal peptidi tagħna bħalissa qiegħed f modalità ta test, għalhekk il programmi jintwerew għar reviżjoni u għadhom mhumiex miftuħa għal ordnijiet reali.",
-    "Għall emerġenzi ċempel 911."
-   ]
-  }
- },
- "product": {
-  "breadcrumbHome": "Paġna Ewlenija",
-  "inStock": "Fl Istokk",
-  "cleanVegan": "Nadif u Vegan • PDRN Attiv",
-  "dermTested": "Ittestjat mid dermatologi • Magħmul għat tipi kollha tal ġilda",
-  "titleLead": "PDRN Brightening",
-  "titleAccent": "Serum",
-  "pricePerUnit": "/ 30ml (1 fl oz)",
-  "subPrice": "jew $39 fix xahar b Abbona u Ffranka",
-  "bullets": [
-   "PDRN, Acetyl Hexapeptide-8, u aċidu jaluroniku, biex jappoġġjaw ġilda li tidher aktar lixxa u luminuża.",
-   "Idratazzjoni fil fond mill glycerin, is sodium PCA, u l panthenol.",
-   "100% Mingħajr krudeltà, mingħajr fwieħa, mingħajr parabeni, mingħajr sulfati, mingħajr żejt minerali, mingħajr silikon, u vegan."
-  ],
-  "viewFormulation": "Ara l formulazzjoni sħiħa u t testijiet kliniċi",
-  "details": [
-   {
-    "title": "Iltaqa mal PDRN Brightening Serum",
-    "body": "Formula ħafifa u idratanti għal ġilda li tidher aktar lixxa u radjanti. Tiġi assorbita malajr, ma tħalli l ebda residwu, u żżomm il ġilda komda."
-   },
-   {
-    "title": "Ingredjenti u Formulazzjoni",
-    "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin."
-   },
-   {
-    "title": "Kif Tapplika",
-    "body": "Applika 2 sa 4 qtar fuq ġilda nadifa u niexfa. Immassaġġja bil ġentilezza fuq il wiċċ u l għonq sakemm jiġi assorbit. Uża darbtejn kuljum, filgħodu u filgħaxija. Kompli b idratant jew protezzjoni mix xemx."
-   },
-   {
-    "title": "Garanzija ta Kura tal Ġilda Nadifa",
-    "body": "Formulat skont standards iċċertifikati ta mingħajr krudeltà, u magħmul mingħajr fwieħa, silikoni, parabeni, żejt minerali, sulfati, ftalati jew allerġeni komuni. Ittestjat mid dermatologi fuq it tipi kollha tal ġilda."
-   }
-  ],
-  "innovation": {
-   "label": "Ingredjenti ewlenin",
-   "titleLead": "X inhi l ewlenija",
-   "titleAccent": "ingredjenti jagħmlu",
-   "sub": "It tliet ingredjenti hawn taħt jagħmlu l biċċa l kbira tax xogħol f dan is serum.",
-   "items": [
-    {
-     "label": "Nisġa tal ġilda",
-     "title": "PDRN",
-     "body": "PDRN tal baħar iżid it turnover taċ ċelloli, li jdawwal karnaġġjon matt u jillixxa nisġa viżibbli."
-    },
-    {
-     "label": "Sodizza",
-     "title": "Acetyl Hexapeptide-8",
-     "body": "Din il peptida tappoġġja l elastiċità tal kollaġen, għal ġilda li tidher aktar soda."
-    },
-    {
-     "label": "Idratazzjoni fil Fond",
-     "title": "Aċidu Ijaluroniku u Pantenol",
-     "body": "L aċidu jaluroniku, is sodium PCA u l panthenol jaħdmu flimkien biex iżommu l umdità fil barriera tal ġilda għal aktar minn 24 siegħa."
-    }
-   ],
-   "imgAlts": [
-    "Nisġa tas serum",
-    "Kristall u formula",
-    "Kampjun tal kristall"
-   ],
-   "footnote": "*Attività bio ċellulari vvalutata permezz ta evalwazzjonijiet kliniċi in vitro u ex vivo. Ir riżultati jistgħu jvarjaw skont il kundizzjoni individwali tal ġilda."
-  },
-  "ecosystem": {
-   "label": "Il pjan tiegħek",
-   "title": "Ikseb appoġġ komplut tar rutina",
-   "sub": "Flimkien mas serum tiegħek, kull pjan ta Tava Labs jinkludi:",
-   "items": [
-    "Dijanjostika personalizzata tal ġilda u gwida tar reġimen mill kwizz tal ġilda tiegħek",
-    "Pjan ta trattament li jibda bil mod u jibni maż żmien",
-    "Tfakki riet tal applikazzjoni li tikkontrolla int, filgħodu u filgħaxija",
-    "Appoġġ bil messaġġi eżatt ġol app",
-    "Kunsinna ta Abbona u Ffranka kull xahar, waqqaf jew ikkanċella fi kwalunkwe ħin"
-   ],
-   "note": "Waqqaf, aġġusta jew ikkanċella Abbona u Ffranka fi kwalunkwe ħin. Ix xiri ta darba jibqa disponibbli għal $49."
-  },
-  "clinical": {
-   "label": "Testijiet kliniċi",
-   "titleLead": "Ħu ħsieb",
-   "titleAccent": "is saħħa tal ġilda tiegħek",
-   "imgAlts": [
-    "Dijagramma Tippromwovi r Radjanza",
-    "Dijagramma Tappoġġa l Idratazzjoni fil Fond",
-    "Dijagramma Ttejjeb in Nisġa tal Ġilda"
-   ],
-   "note": "Evalwazzjonijiet topiċi tal bio attivi bbażati fuq il perċezzjoni tal konsumatur ta 8 ġimgħat u testijiet strumentali tal idratazzjoni. Il barrieri individwali tal ġilda, il ġenetika u l ambjent jinfluwenzaw skedi u riżultati speċifiċi."
-  },
-  "formulary": {
-   "label": "Qabbel il formuli",
-   "title": "Liema trattament tal kura tal ġilda huwa tajjeb għalik?",
-   "sub": "Formuli għal miri, tħassib u rutini differenti tal ġilda. Agħżel dik li taqbel mal ġilda tiegħek u l iskeda tiegħek.",
-   "serumAlt": "PDRN Brightening Serum",
-   "serumPriceLine": "Abbona u Ffranka $39/xahar",
-   "serumOneTime": "jew $49 darba waħda",
-   "primaryBenefit": "Benefiċċju Prinċipali",
-   "howToUse": "Kif tuża",
-   "activeIngredient": "Ingredjent attiv",
-   "serumBenefitValue": "Luminużità u sodizza",
-   "serumHowValue": "AM u PM",
-   "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
-   "selectSerum": "Agħżel is Serum",
-   "comingSoon": "Dalwaqt",
-   "status": "Status",
-   "sizeLabel": "Daqs",
-   "others": [
-    {
-     "rows": [
-      [
-       "Benefiċċju Prinċipali",
-       "Idratazzjoni ta Kuljum"
+    "support": {
+      "eyebrow": "Appoġġ",
+      "title": "Qegħdin hawn biex ngħinu",
+      "segments": [
+        {
+          "text": "Ibgħat email lil "
+        },
+        {
+          "text": "support@tavalabs.app",
+          "href": "mailto:support@tavalabs.app"
+        },
+        {
+          "text": " jew ċempel "
+        },
+        {
+          "text": "909-906-1308",
+          "href": "tel:+19099061308"
+        },
+        {
+          "text": "."
+        }
       ],
-      [
-       "Daqs",
-       "1.7 fl oz (50ml)"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Benefiċċju Prinċipali",
-       "Kura taż Żona tal Għajnejn"
-      ],
-      [
-       "Daqs",
-       "1 fl oz (30ml)"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Benefiċċju Prinċipali",
-       "Tisħiħ u Idratazzjoni"
-      ],
-      [
-       "Daqs",
-       "2 oz (56g)"
-      ],
-      [
-       "Ingredjent attiv",
-       "Aċidu Jaluroniku u CoQ10"
-      ]
-     ]
-    },
-    {
-     "rows": [
-      [
-       "Benefiċċju Prinċipali",
-       "Kura tal Qoxra tar Ras u x Xagħar"
-      ],
-      [
-       "Daqs",
-       "1 fl oz (30ml)"
-      ]
-     ]
+      "links": {
+        "general": "Mistoqsijiet ġenerali",
+        "productSupport": "Appoġġ tal prodott",
+        "salesSupport": "Appoġġ tal ordnijiet u l bejgħ",
+        "faqs": "Mistoqsijiet Frekwenti",
+        "shipping": "Politika tat Tbaħħir",
+        "returns": "Politika tar Ritorni"
+      }
     }
-   ]
   },
-  "protocol": {
-   "label": "Kif tużah",
-   "titleLead": "Rutina sempliċi waħda,",
-   "titleAccent": "darbtejn kuljum",
-   "sub": "Il konsistenza hija importanti. Segwi dawn il passi filgħodu u filgħaxija, u spiċċa b moisturizer biex iżomm l umdità.",
-   "progressionLabel": "Progressjoni Klinika",
-   "progressionTitle": "Skeda tar Riżultati Viżibbli",
-   "progressionBody": "Ġilda aktar luminuża u idratata f 7 sa 14 il jum; elastiċità tal ġilda u sodizza tal barriera mtejba sal ġimgħa 4 sa 6.",
-   "timelineAlt": "Eżempju ta skeda tar riżultati, ġimgħat 1 sa 4 u lil hinn",
-   "steps": [
-    {
-     "title": "Naddaf, b ħasla ġentili",
-     "body": "Naddaf b ħasla ġentili u bbilanċjata fil pH biex tneħħi l fdalijiet u tħejji l ġilda, mingħajr ma tneħħi l lipidi naturali tagħha."
+  "lab": {
+    "ordersLabel": "Reviżjoni klinika",
+    "ordersTitle": "L ordnijiet tal laboratorju tiegħek",
+    "loadingOrders": "Qed jitgħabbew l ordnijiet tiegħek…",
+    "ordersEmpty": "Għad m hemm xejn hawn. Meta tlesti panel, kull markatur jasal hawn bil valur tiegħu, il firxa b saħħitha tiegħu, u kif jiċċaqlaq maż żmien. Ordna l ewwel panel tiegħek hawn taħt u dan l ispazju jimtela.",
+    "viewResults": "Ara r riżultati",
+    "howLabel": "Kif jaħdmu l laboratorji",
+    "howTitle": "Erba passi, ġibda waħda",
+    "steps": [
+      {
+        "title": "Agħżel panel",
+        "body": "Agħżel il panel li jaqbel ma dak li trid tkun taf. Kull markatur fih huwa elenkat qabel tordna."
+      },
+      {
+        "title": "Reviżjoni tat tabib",
+        "body": "Tabib liċenzjat jirrevedi u jawtorizza kull ordni, għalhekk l ebda viżta separata għand it tabib mhija meħtieġa."
+      },
+      {
+        "title": "Idħol għall ġibda tiegħek",
+        "body": "Ġibda tad demm waħda malajr f sit tal ġbir qrib tiegħek. Il biċċa l kbira tal viżti jieħdu madwar ħmistax il minuta."
+      },
+      {
+        "title": "Ir riżultati jaslu hawn",
+        "body": "Ir riżultati jiġu kkunsinnati diġitalment f din it tab fi ftit ġranet, b kull markatur u l firxa tiegħu."
+      }
+    ],
+    "panelsLabel": "Il panelli",
+    "panelsTitle": "Erbatax il panel, mibnija madwar dak li ssegwi",
+    "panelsSub": "Kull panel juri l prezz tiegħu. L ordnar jiftaħ ladarba l ħlas jinxtegħel, u tabib liċenzjat jirrevedi kull ordni qabel ma r riżultati tiegħek jiġu kkunsinnati eżatt hawn. Il panelli ma jistgħux jiġu ordnati għal indirizzi fi New York, New Jersey, jew Rhode Island.",
+    "markersSuffix": "{n} markaturi",
+    "resultsInDays": "Riżultati fi ftit ġranet",
+    "hideMarkers": "Aħbi l markaturi",
+    "seeMarkers": "Ara l markaturi",
+    "markersAria": "Markaturi f {name}",
+    "disclaimer": "L għarfien tal laboratorju huwa informazzjoni dwar is saħħa tiegħek stess u mhuwiex dijanjosi. Kellem lit tabib tiegħek dwar kwalunkwe riżultat li jinkwetak, u ċempel 911 f emerġenza.",
+    "panelsById": {
+      "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
+        "name": "Panel tal Prestazzjoni Atletika",
+        "description": "Prontezza għat taħriġ u rkupru: għadd tad demm, panel metaboliku, ħażniet tal ħadid, vitamina D, testosterone, infjammazzjoni u enzimi tal muskoli.",
+        "collection": "Ġibda tad demm b dħul dirett"
+      },
+      "38c76039-05dc-4cd3-8475-7a675989fbf2": {
+        "name": "Panel tal Benessri fil Linja Bażi",
+        "description": "Punt tat tluq tal ġisem kollu: għadd tad demm, saħħa metabolika, kolesterol, zokkor fid demm, vitamina D u tirojde.",
+        "collection": "Ġibda tad demm b dħul dirett"
+      },
+      "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
+        "name": "Panel tal Enerġija u l Għeja",
+        "description": "Is suspettati tas soltu wara enerġija baxxa: ħażniet u trasport tal ħadid, B12, folate, vitamina D, tirojde u għadd tad demm.",
+        "collection": "Ġibda tad demm b dħul dirett"
+      },
+      "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
+        "name": "Panel tal Linja Bażi tan Nisa",
+        "description": "Panel iffukat ta 14 il markatur, elenkati bis sħiħ hawn taħt.",
+        "collection": "Ġibda tad demm b dħul dirett"
+      },
+      "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
+        "name": "Panel GLP1",
+        "description": "Panel iffukat ta 10 markaturi, elenkati bis sħiħ hawn taħt.",
+        "collection": "Ġibda tad demm b dħul dirett"
+      },
+      "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
+        "name": "Panel tas Saħħa tal Qalb",
+        "description": "Riskju kardjovaskulari lil hinn mill kolesterol bażiku: lipidi, ApoB, Lp(a), hs-CRP, u homocysteine.",
+        "collection": "Ġibda tad demm b dħul dirett"
+      },
+      "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
+        "name": "Panel tal Lonġevità",
+        "description": "Analiżi annwali komprensiva fil fond fuq markaturi tas saħħa metabolika, kardjovaskulari, infjammatorja u ormonali.",
+        "collection": "Ġibda tad demm b dħul dirett"
+      },
+      "b909fb21-b264-483c-a915-4ce87713cfa9": {
+        "name": "Test tal Linja Bażi tal Irġiel",
+        "description": "Panel iffukat ta 12 il markatur, elenkati bis sħiħ hawn taħt.",
+        "collection": "Ġibda tad demm b dħul dirett"
+      },
+      "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
+        "name": "Panel TRT tal Irġiel",
+        "description": "Panel iffukat ta 16 il markatur, elenkati bis sħiħ hawn taħt.",
+        "collection": "Ġibda tad demm b dħul dirett"
+      },
+      "abfabb68-c777-4457-87c2-46bf5fe26d81": {
+        "name": "Panel tal Ormoni tal Irġiel",
+        "description": "Status tal ormoni maskili: testosterone totali, SHBG, estradiol, LH, u FSH.",
+        "collection": "Ġibda tad demm b dħul dirett"
+      },
+      "f12fe316-367a-4c53-9735-8c0129c45506": {
+        "name": "Panel tas Saħħa Metabolika",
+        "description": "Kontroll taz zokkor fid demm u riskju metaboliku: A1c, insulina fis sawm, kolesterol, u panel metaboliku sħiħ.",
+        "collection": "Ġibda tad demm b dħul dirett"
+      },
+      "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
+        "name": "Panel tal Istress u l Irkupru",
+        "description": "Tagħbija tal istess u kapaċità ta rkupru: cortisol, DHEA-S, tirojde, u infjammazzjoni.",
+        "collection": "Ġibda tad demm b dħul dirett"
+      },
+      "1760616d-44d3-4654-817d-440a969e5cdf": {
+        "name": "Panel Komplut tat Tirojde",
+        "description": "Analiżi kompluta tat tirojde: TSH, T4 ħieles, T3 ħieles, u antikorpi TPO.",
+        "collection": "Ġibda tad demm b dħul dirett"
+      },
+      "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
+        "name": "Panel tal Ormoni tan Nisa",
+        "description": "Status tal ormoni femminili: estradiol, progesterone, FSH, LH, DHEA-S, u testosterone.",
+        "collection": "Ġibda tad demm b dħul dirett"
+      }
     },
-    {
-     "title": "Serum PDRN, 2 sa 4 qtar",
-     "body": "Applika 2 sa 4 qtar ta Serum PDRN fuq ġilda niedja. Agħfas u pat bil ġentilezza fuq il wiċċ u l għonq sakemm jiġi assorbit kompletament."
-    },
-    {
-     "title": "Idrata u umdizza",
-     "body": "Applika moisturizer biex iżomm il peptidi u jappoġġja l barriera tal ġilda."
-    },
-    {
-     "title": "Ipproteġi (AM biss), SPF 30+",
-     "body": "Spiċċa r rutina ta filgħodu b SPF 30+ ta spettru wiesa biex tipproteġi l ġilda kontra l ħsara tal UV u r radikali ħielsa."
-    },
-    {
-     "title": "Il pjan personali tiegħek, inkluż",
-     "body": "Il kwizz tal ġilda tiegħek jibni l pjan tiegħek, inkluż kif tibda bil mod u meta żżid."
+    "detail": {
+      "backToAccount": "Lura għall kont tiegħek",
+      "notFoundTitle": "Dik l ordni tal laboratorju ma nstabitx",
+      "notFoundBody": "Tista tappartjeni lil email differenti. Idħol bl email li ordnajt biha u erġa pprova.",
+      "clinicalReview": "REVIŻJONI KLINIKA",
+      "loadingResults": "Qed jitgħabbew ir riżultati tiegħek…",
+      "yourPanel": "Il panel tiegħek",
+      "markerFallback": "Markatur",
+      "headlines": {
+        "loading": "Qed inġibu r riżultati tiegħek",
+        "pending": "Ir riżultati tiegħek qegħdin fit triq",
+        "allIn": "Ir riżultati kollha tiegħek waslu.",
+        "in": "Ir riżultati tiegħek waslu."
+      },
+      "sublines": {
+        "loading": "Mument wieħed waqt li r rapport tal laboratorju jitgħabba.",
+        "pending": "Hekk kif il laboratorju jirrapporta, din il paġna timtela b kull markatur, il valur tiegħu u l firxa b saħħitha tiegħu.",
+        "allIn": "Kull markatur qiegħed fil firxa. Hawn hija l istampa sħiħa.",
+        "oneAttention": "Markatur wieħed jeħtieġ ħarsa aktar mill qrib. Ejja nidħlu fil fond.",
+        "manyAttention": "{n} markaturi jeħtieġu ħarsa aktar mill qrib. Ejja nidħlu fil fond."
+      },
+      "orderedPrefix": "Ordna",
+      "statusPrefix": "Status:",
+      "notInYetTitle": "Ir riżultati għadhom ma waslux",
+      "notInYetBody": "Il biċċa l kbira tal panelli jirrappurtaw fi ftit ġranet mill ġibda tiegħek. Meta tiegħek jasal, din il paġna turi l veduta sħiħa tal bilanċ b kull markatur u l firxa tiegħu.",
+      "markerBalance": "Il bilanċ tal markaturi tiegħek",
+      "biomarkers": "BIJOMARKATURI",
+      "analyzedSuffix": "{pct}% Analizzat",
+      "statusNames": {
+        "optimal": "Ottimali",
+        "inRange": "Fil firxa",
+        "attention": "Jeħtieġ attenzjoni"
+      },
+      "statusLabels": {
+        "optimal": "OTTIMALI",
+        "inRange": "FIL FIRXA",
+        "attention": "IMMARKAT"
+      },
+      "basePrefix": "Bażi: {name}",
+      "updatedPrefix": "Aġġornat {date}",
+      "updatedRecently": "Aġġornat reċentement",
+      "triageTitle": "Triage tal Istatus",
+      "tapToFilter": "Tektek biex tiffiltra",
+      "triageSubs": {
+        "optimal": "Eżatt fejn tridhom",
+        "inRange": "Ġewwa l firxa b saħħitha",
+        "attention": "Ta min tkellem lit tabib tiegħek dwaru"
+      },
+      "allFilter": "Kollox ({n})",
+      "rangePrefix": "Firxa {range}",
+      "disclaimer": "Ir riżultati tal laboratorju huma informazzjoni dwar is saħħa tiegħek stess u mhumiex dijanjosi. Kellem lit tabib tiegħek dwar kwalunkwe riżultat li jinkwetak, u ċempel 911 f emerġenza."
     }
-   ]
   },
-  "faqSection": {
-   "label": "Mistoqsijiet u tweġibiet",
-   "title": "Mistoqsijiet frekwenti",
-   "viewAll": "Ara l mistoqsijiet frekwenti kollha",
-   "items": [
-    {
-     "q": "X inhu l PDRN u kif jibbenefika l ġilda?",
-     "a": "PDRN (Polydeoxyribonucleotide) huwa magħmul minn frammenti tad DNA li huma bijo kompatibbli maċ ċelloli tal ġilda tal bniedem. Jippromwovi r riġenerazzjoni naturali taċ ċelloli, jistimula l mikroċirkolazzjoni, u jgħin biex isewwi l barriera tal ġilda, għal ġilda li tidher aktar luminuża u soda."
-    },
-    {
-     "q": "Kif ninkorpora l PDRN Brightening Serum fir rutina tal kura tal ġilda tiegħi?",
-     "a": "Uża l PDRN Brightening Serum darbtejn kuljum wara t tindif u t toning. Qassam 2 sa 4 qtar direttament fuq it truf tas swaba jew fuq ġilda niedja, u lixxjahom fuq il wiċċ, l għonq u d décolletage. Kompli bl idratant tiegħek u l protezzjoni mix xemx ta filgħodu."
-    },
-    {
-     "q": "Dan is serum huwa adattat għal ġilda sensittiva u suxxettibbli għall akne?",
-     "a": "Iva. Il formulazzjoni tagħna mhix komedoġenika, mingħajr żejt, mingħajr fwieħa, u arrikkita bil Panthenol li jikkalma. Tikkalma s sensittività filwaqt li tidrata fil fond mingħajr ma timblokka l pori jew tqanqal irritazzjoni."
-    },
-    {
-     "q": "Nista nistratifika l PDRN mar retinol, il vitamina C, jew AHA/BHA?",
-     "a": "Iva. Il PDRN jaħdem tajjeb flimkien ma trattamenti attivi bħar retinoids u l vitamina C. Il bażi idratanti tiegħu tgħin biex tikkalma t tqaxxir jew il ħmura li l esfoljanti kimiċi jistgħu jikkawżaw."
-    },
-    {
-     "q": "Kemm idum tipikament flixkun wieħed ta 30ml?",
-     "a": "Meta jiġi applikat b 2 sa 4 qtar darbtejn kuljum, flixkun wieħed ta 30ml (1 fl oz) tipikament idum 4 sa 6 ġimgħat. Abbona u Ffranka jibgħat il flixkun li jmiss qabel tispiċċa."
-    }
-   ]
+  "login": {
+    "brandHeadLead": "Merħba",
+    "brandHeadAccent": "lura.",
+    "brandCopy": "Il pjan tiegħek, l ordnijiet tiegħek u r rutina tiegħek. Email waħda tgħaqqad l app u l web flimkien.",
+    "label": "Il kont ta Tava tiegħek",
+    "title": "Idħol",
+    "intro": "Idħol bl email li użajt fil ħlas jew fl app mobbli ta Tava. Il pjan, l ordnijiet u r rutina tiegħek huma marbuta ma dik l email, għalhekk kollox hawn jaqbel mal app. L ebda password meħtieġa. Aħna nibagħtulek link tad dħul bl email, u meta ttektek fuqha tasal fil kont tiegħek.",
+    "emailLabel": "Indirizz tal email",
+    "invalidEmail": "Daħħal indirizz tal email validu.",
+    "sendFailed": "Ma stajniex nibagħtu dik l email. Iċċekkja l indirizz u erġa pprova.",
+    "sending": "Qed jintbagħat…",
+    "sendButton": "Ibgħatli link tad dħul bl email",
+    "sentNotice": "Link tad dħul intbagħtet lil {email}. Tista tieħu minuta biex tasal. Iċċekkja l folder tal ispam tiegħek jekk ma tarahiex.",
+    "sentBody": "Iftaħ dik l email fuq dan l apparat u tektek il link ta ġewwa. Se tasal fil kont tiegħek, diġà dħalt. Il link taħdem darba u tiskadi, għalhekk użaha dalwaqt.",
+    "resend": "Erġa ibgħat l email",
+    "differentEmail": "Uża email differenti",
+    "footNote": "L ewwel darba hawn? L istess link toħloq il kont tiegħek. Uża l email mill ordni tiegħek u kollox diġà qiegħed jistenniek.",
+    "claimLabel": "Xt rajt fuq il web, u tuża l app?",
+    "claimTitle": "Uża l kodiċi tat talba tiegħek fl app",
+    "claimBody1": "Meta xtrajt permezz tal kwizz jew dan is sit, l email ta konferma tax xiri tiegħek (u l paġna eżatt wara l ħlas) uriet kodiċi tat talba. Iftaħ l app mobbli ta Tava, idħol, u daħħal dak il kodiċi fit tab Ordnijiet. Ix xiri, il pjan u t tweġibiet tal kwizz tiegħek jiċċaqalqu fil kont tal app tiegħek, mingħajr it tieni xiri.",
+    "claimBody2": "Fuq il web huwa saħansitra aktar sempliċi. Idħol hawn fuq bl istess email li ħallast biha, u l ordnijiet u l pjan tiegħek diġà qegħdin hawn.",
+    "faqButton": "Mistoqsijiet? Ara l Mistoqsijiet Frekwenti"
   },
-  "finalCta": {
-   "title": "Serum wieħed għal ġilda li tidher aktar luminuża, idratata u lixxa.",
-   "line": "PDRN Brightening Serum · $49.00 / 30ml · Nadif u Vegan · Idratazzjoni fil Fond · Ikkanċella fi kwalunkwe ħin"
+  "checkout": {
+    "title": "Ħlas",
+    "closeAria": "Agħlaq il ħlas",
+    "planOneTime": "PDRN Brightening Serum · $49 · Xiri ta darba",
+    "planSubscribe": "PDRN Brightening Serum · $39 fix xahar · Abbona u Ffranka 20%",
+    "email": "Email",
+    "firstName": "Isem",
+    "lastName": "Kunjom",
+    "streetAddress": "Indirizz tat triq",
+    "addressLine2": "Linja tal indirizz 2 (fakultattiva)",
+    "city": "Belt",
+    "state": "Stat",
+    "zip": "ZIP",
+    "country": "Pajjiż",
+    "phoneOptional": "Telefon (fakultattiv)",
+    "missingIntro": "Kważi hemm. Żid {fields} tiegħek.",
+    "missingNames": {
+      "email": "email valida",
+      "firstName": "isem",
+      "lastName": "kunjom",
+      "address1": "indirizz tat triq",
+      "city": "belt",
+      "state": "stat",
+      "zip": "kodiċi ZIP"
+    },
+    "creating": "Qed noħolqu l ħlas tiegħek…",
+    "taking": "Qed neħduk għall ħlas sigur…",
+    "continueBtn": "Kompli għall Ħlas",
+    "startError": "Il ħlas ma setax jibda. Iċċekkja d dettalji tiegħek u erġa pprova. Xejn ma ġie ċċarġjat.",
+    "stripeNote": "Ħlas sigur minn Stripe. Se tikkonferma l ħlas fil paġna ta Stripe. Għadu ma ġie ċċarġjat xejn."
   },
-  "gallery": {
-   "view": "Ara {n}",
-   "alts": [
-    "Flixkun tal PDRN Brightening Serum",
-    "Veduta 2 tal flixkun tas serum",
-    "Veduta 3 tal flixkun tas serum",
-    "Veduta 4 tal flixkun tas serum",
-    "Veduta 5 tal flixkun tas serum"
-   ]
+  "legal": {
+    "governsNote": "Din il paġna hija traduzzjoni tal oriġinal bl Ingliż. Jekk il kliem qatt ivarja, il verżjoni bl Ingliż tirregola."
   }
- },
- "about": {
-  "label": "Dwarna",
-  "titleLead": "Serum tal wiċċ ta kuljum",
-  "titleAccent": "għall fundaturi.",
-  "tagline": "Ibni n negozju tiegħek. Tinnegliġix lilek innifsek.",
-  "p1": "Tava Labs hija marka tal kura tal ġilda għal nies li jibnu negozji. Id dehra tiegħek hija parti mill preżenza professjonali tiegħek. In nies jarawk fuq il kamera, f laqgħat ta pitch, u fuq ix xogħol kuljum.",
-  "p2": "Nagħmlu ħaġa waħda, u nagħmluha sew. Serum ta kuljum li jżomm il ġilda tiegħek tidher idratata u mistrieħa, mingħajr rutina kkumplikata.",
-  "p3": "Tava Labs ġiet fundata għall fundaturi u sidien tan negozji. Pass wieħed, filgħodu u billejl, qabel il laqgħat, il pitches u x xogħol tal kamera.",
-  "p4": "Kura tal ġilda, ittrattata bħala manutenzjoni bażika. L istess konsistenza li ġġib fin negozju tiegħek, applikata għar rutina tiegħek stess.",
-  "serumLabel": "Is Serum",
-  "serumTitle": "PDRN Brightening Serum",
-  "serumAlt": "PDRN Brightening Serum",
-  "serumBody": "Rutina ta kuljum tal karnaġġjon mibnija madwar il PDRN (Polydeoxyribonucleotide) u l Acetyl Hexapeptide-8, bis Sodium Hyaluronate u l Panthenol għall idratazzjoni u l kumdità. Nadifa u mingħajr fwieħa, u magħmula mingħajr xejn mil lista tagħna ta mingħajr.",
-  "bullets": [
-   "PDRN għal karnaġġjon li jidher aktar qawwi u uniformi.",
-   "Acetyl Hexapeptide-8 biex jappoġġa d dehra tas sodizza.",
-   "Sodium Hyaluronate u Panthenol għall idratazzjoni.",
-   "Uża darbtejn kuljum: 2 sa 4 pompi fuq ġilda nadifa u niexfa, filgħodu u billejl."
-  ],
-  "priceLine": "$49 darba waħda, jew $39 fix xahar b Abbona u Ffranka.",
-  "philosophyLabel": "Il Filosofija Tagħna",
-  "quote": "“Serum wieħed, żewġ minuti, filgħodu u billejl. Dik hija r rutina kollha.”",
-  "philosophyCaption": "Il Filosofija ta Tava Labs",
-  "philosophyP1": "Aħna nemmnu fil kura tiegħek innifsek bl istess mod li tieħu ħsieb ix xogħol tiegħek, b passi żgħar magħmula b konsistenza kuljum.",
-  "philosophyP2": "Aħna ma nwiegħdux trasformazzjoni. Nagħmlu serum ta kuljum ifformulat sew u ngħidulek eżattament x fih.",
-  "onlineTitle": "Online Biss",
-  "onlineSegments": [
-   {
-    "text": "Tava Labs hija marka online biss. Mistoqsijiet? Ibgħat email lil "
-   },
-   {
-    "text": "support@tavalabs.app",
-    "href": "mailto:support@tavalabs.app"
-   },
-   {
-    "text": "."
-   }
-  ],
-  "contactUs": "Ikkuntattjana"
- },
- "contact": {
-  "label": "Ikkuntattjana",
-  "title": "Nixtiequ nisimgħu minnek.",
-  "sub": "Ibgħatilna email u nerġgħu lura lilek. Agħżel is suġġett li jaqbel, jew iktbilna direttament.",
-  "emailLabel": "Email:",
-  "phoneLabel": "Telefon:",
-  "topics": {
-   "general": {
-    "title": "Ġenerali",
-    "body": "Mistoqsijiet ġenerali dwar Tava Labs u s serum."
-   },
-   "wholesale": {
-    "title": "Bejgħ bl Ingrossa",
-    "body": "Mistoqsijiet dwar il bejgħ bl ingrossa u bl imnut għall PDRN Brightening Serum."
-   },
-   "sales-support": {
-    "title": "Appoġġ tal Bejgħ",
-    "body": "Mistoqsijiet dwar l ordnar, Abbona u Ffranka, u l ħlas."
-   },
-   "product-support": {
-    "title": "Appoġġ tal Prodott",
-    "body": "Għajnuna bl użu tas serum, ir rutini u l pjan personali tiegħek."
-   },
-   "partnerships": {
-    "title": "Sħubijiet",
-    "body": "Sħubijiet ma aċċeleraturi, universitajiet, investituri u komunitajiet."
-   },
-   "pr": {
-    "title": "PR",
-    "body": "Mistoqsijiet mill stampa u l midja."
-   }
-  }
- },
- "faq": {
-  "label": "Mistoqsijiet Frekwenti",
-  "titleLead": "Mistoqsijiet",
-  "titleAccent": "Frekwenti",
-  "sub": "Tweġibiet dwar is serum, l ordnar, it tbaħħir u l pjan personali tiegħek.",
-  "items": [
-   {
-    "q": "X inhu l PDRN Brightening Serum?",
-    "a": [
-     {
-      "text": "Serum ta kuljum mibni madwar PDRN (Polydeoxyribonucleotide) u Acetyl Hexapeptide-8, b Sodium Hyaluronate u Pantenol. Applikah filgħodu u billejl biex tappoġġja karnaġġjon li jidher aktar luminuż u uniformi."
-     }
-    ]
-   },
-   {
-    "q": "Kif nużah?",
-    "a": [
-     {
-      "text": "Applika 2 sa 4 qtar fuq ġilda nadifa u niexfa, filgħodu u billejl. Kompli b idratant. Jekk int ġdid għall kura tal ġilda attiva, ibda darba kuljum għall ewwel ġimgħa, imbagħad żid għal darbtejn kuljum."
-     }
-    ]
-   },
-   {
-    "q": "Kif nikseb il pjan personali tiegħi?",
-    "a": [
-     {
-      "text": "Agħmel il "
-     },
-     {
-      "text": "Kwizz tal Ġilda",
-      "href": "/quiz"
-     },
-     {
-      "text": ". It tweġibiet tiegħek jibnu pjan personali, inkluż kif tibda bil mod u meta żżid."
-     }
-    ]
-   },
-   {
-    "q": "Kemm jiswa?",
-    "a": [
-     {
-      "text": "$49 darba waħda, jew $39 fix xahar b Abbona u Ffranka (20% skont). Abbona u Ffranka jista jiġi sospiż, maqbuż jew ikkanċellat fi kwalunkwe ħin."
-     }
-    ]
-   },
-   {
-    "q": "Kif jaħdem it tbaħħir?",
-    "a": [
-     {
-      "text": "L ordnijiet jitwettqu mis sieħeb tagħna u jintbagħtu fl indirizz li tagħti fil ħlas. Ara l "
-     },
-     {
-      "text": "Politika tat Tbaħħir",
-      "href": "/shipping"
-     },
-     {
-      "text": " għad dettalji."
-     }
-    ]
-   },
-   {
-    "q": "X inhi l politika tar ritorni tagħkom?",
-    "a": [
-     {
-      "text": "Il bejgħ kollu huwa finali. Jekk jogħġbok aqra l "
-     },
-     {
-      "text": "Politika tar Ritorni",
-      "href": "/returns"
-     },
-     {
-      "text": " qabel tordna."
-     }
-    ]
-   },
-   {
-    "q": "Liema ingredjenti fih?",
-    "a": [
-     {
-      "text": "Il lista sħiħa tal ingredjenti tinsab fil "
-     },
-     {
-      "text": "paġna tal Ingredjenti",
-      "href": "/ingredients"
-     },
-     {
-      "text": ". Is serum huwa mingħajr fwieħa u magħmul mingħajr parabeni, sulfati, silikoni, żejt minerali, ftalati u allerġeni komuni."
-     }
-    ]
-   },
-   {
-    "q": "Huwa adattat għat tip tal ġilda tiegħi?",
-    "a": [
-     {
-      "text": "Is serum huwa fformulat biex jaqbel mat tipi kollha tal ġilda. Jekk għandek kundizzjoni tal ġilda jew tħassib, kellem lid dermatologu tiegħek qabel tibda xi kura tal ġilda ġdida."
-     }
-    ]
-   },
-   {
-    "q": "Kif nikkuntattjakom?",
-    "a": [
-     {
-      "text": "Ibgħat email lil support@tavalabs.app jew uża l "
-     },
-     {
-      "text": "Ikkuntattjana",
-      "href": "/contact"
-     },
-     {
-      "text": " paġna."
-     }
-    ]
-   }
-  ]
- },
- "ingredients": {
-  "label": "Ingredjenti",
-  "titleLead": "X hemm ġewwa, u",
-  "titleAccent": "x inħallu barra.",
-  "intro": "Hawn huwa kull ingredjent fil PDRN Brightening Serum, x jagħmel kull wieħed, u l lista sħiħa eżatt kif tidher fuq it tikketta.",
-  "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Magħmul fl USA · Adattat għat tipi kollha tal ġilda.",
-  "keyTitle": "Ingredjenti Ewlenin",
-  "keyItems": [
-   {
-    "name": "PDRN (Polydeoxyribonucleotide)",
-    "body": "L ingredjent attiv ewlieni tagħna. Jappoġġja karnaġġjon li jidher aktar luminuż u uniformi."
-   },
-   {
-    "name": "Acetyl Hexapeptide-8",
-    "body": "Peptide li jappoġġa d dehra tas sodizza u l lixxezza."
-   },
-   {
-    "name": "Sodium Hyaluronate (Hyaluronic Acid)",
-    "body": "Jiġbed l umdità għal ġilda idratata u komda."
-   },
-   {
-    "name": "Panthenol",
-    "body": "Jikkalma u jappoġġa l barriera tal ġilda."
-   },
-   {
-    "name": "Glycerin + Sodium PCA",
-    "body": "Umettanti li jgħinu lill ġilda żżomm l ilma matul il ġurnata."
-   }
-  ],
-  "fullTitle": "Ingredjenti Sħaħ",
-  "howTitle": "Kif Tuża",
-  "howBody": "Applika 2 sa 4 pompi fuq ġilda nadifa u niexfa, filgħodu u billejl. Kompli b idratant. Ibda darba kuljum jekk int ġdid għall kura tal ġilda attiva.",
-  "warningTitle": "Twissija",
-  "warningBody": "Għall użu estern biss. Evita kuntatt dirett mal għajnejn. Jekk isseħħ irritazzjoni, waqqaf l użu. Żomm fejn ma jintlaħaqx mit tfal."
- },
- "partners": {
-  "label": "Ingħaqad ma Tava Labs",
-  "titleLead": "Agħti lill fundaturi tiegħek xahar b'xejn ta",
-  "titleAccent": "Tava Labs.",
-  "intro": "Tava Labs tissieħeb ma aċċeleraturi, universitajiet, investituri anġli u komunitajiet ta fundaturi. Il membri tiegħek jirċievu l ewwel xahar tagħhom tal PDRN Brightening Serum b xejn.",
-  "tagline": "Xahar b xejn mingħandna, mingħajr spiża u mingħajr obbligu.",
-  "becomePartner": "Sir Sieħeb",
-  "partnershipsContact": "Kuntatt tas Sħubijiet",
-  "audiences": [
-   {
-    "alt": "Fundaturi ta startup f sessjoni ta aċċeleratur",
-    "title": "Għall Aċċeleraturi",
-    "body": "Il fundaturi tiegħek qed jippitchjaw, jagħmlu demo u jiffilmjaw kontenut mill ewwel jum. Agħtihom xahar ta kura tal ġilda ta kuljum li tieħu żewġ minuti kuljum waqt il programm.",
-    "how": "Kif jaħdem: nibagħtu lil kull fundatur fil grupp tiegħek flixkun wieħed b'xejn, bi pjan personali mill kwizz tal ġilda. Int tippreżentana darba; aħna nieħdu ħsieb il bqija kollu."
-   },
-   {
-    "alt": "Studenti universitarji fil kampus",
-    "title": "Għall Universitajiet",
-    "body": "L istudenti tal intraprenditorija qed jibnu fil pubbliku: kompetizzjonijiet ta preżentazzjoni, ġranet ta dimostrazzjoni, taħditiet ta fundaturi u l ewwel laqgħat mal investituri. Xahar b'xejn ta Tava Labs huwa rigal prattiku u memorabbli għall istudenti fil programm tiegħek.",
-    "how": "Kif jaħdem: nipprovdu fliexken għall grupp, il klassi jew l avveniment tiegħek, flimkien ma fuljett sempliċi. L ebda spiża għall università u l ebda spiża għall istudenti."
-   },
-   {
-    "alt": "Laqgħa ta investitur ma fundatur",
-    "title": "Għall Investituri Anġli",
-    "body": "Xahar ta Tava Labs b xejn huwa rigal prattiku għall fundaturi fil portafoll tiegħek. Aħna nieħdu ħsieb il kunsinna u l pjanijiet personali tagħhom.",
-    "how": "Kif jaħdem: għidilna kemm fundaturi tixtieq tagħti rigal, u aħna nirranġaw il kunsinna u l pjanijiet personali tagħhom. L ebda spiża għalik u l ebda spiża għalihom."
-   }
-  ],
-  "whyTitleLead": "Żero spiża. Żero sforz.",
-  "whyTitleAccent": "Valur reali.",
-  "why": [
-   {
-    "title": "Aktar valur mill ewwel jum",
-    "body": "Il membri tiegħek jiksbu prodott reali u pjan personali, mhux kodiċi ta skont li jinsew."
-   },
-   {
-    "title": "Żero spiża għalik",
-    "body": "L ewwel xahar huwa fuqna, għal kull persuna li tagħtiha rigal."
-   },
-   {
-    "title": "Żero sforz għalik",
-    "body": "Aħna nieħdu ħsieb it tbaħħir, l onboarding u l appoġġ. Int tagħmel introduzzjoni waħda."
-   },
-   {
-    "title": "Rigal li tassew se jużaw",
-    "body": "Pass wieħed, filgħodu u billejl. Jaqbel ma skeda ta fundatur għax kien iddisinjat għal waħda."
-   }
-  ],
-  "formulationTitle": "Magħmul mingħajr dawn l ingredjenti.",
-  "formulationSub": "Is serum huwa magħmul mingħajr l ingredjenti li l membri tiegħek jistaqsu dwarhom l aktar:",
-  "stepsTitle": "Kif taħdem sħubija",
-  "steps": [
-   {
-    "title": "Ikkuntattjana",
-    "body": "Għidilna dwar il programm tiegħek u kemm nies tixtieq tagħtihom rigal."
-   },
-   {
-    "title": "Aħna nirranġaw ir rigal",
-    "body": "Nibagħtu s serum u nwaqqfu l pjan personali ta kull persuna mill kwizz tal ġilda."
-   },
-   {
-    "title": "Int tagħti r rigal",
-    "body": "Il membri tiegħek jirċievu xahar tas serum b xejn, b nota ta grazzi mingħandna f kull kaxxa."
-   }
-  ],
-  "closingTitleLead": "Agħti lill fundaturi tiegħek",
-  "closingTitleAccent": "xahar b xejn.",
-  "closingSegments": [
-   {
-    "text": "Ibgħat email lil "
-   },
-   {
-    "text": "talia@tavalabs.app",
-    "href": "mailto:talia@tavalabs.app"
-   },
-   {
-    "text": " jew ċempel "
-   },
-   {
-    "text": "909-906-1308",
-    "href": "tel:+19099061308"
-   },
-   {
-    "text": ", u aħna nirranġawh."
-   }
-  ]
- },
- "blog": {
-  "label": "The Tava Journal",
-  "titleLead": "Riċerka dwar l Irqad u l Istress",
-  "titleAccent": "għall Fundaturi",
-  "sub": "Artikli dwar ix xjenza tal irqad, ir riċerka tal istess u s saħħa tal ġilda għall fundaturi u sidien tan negozji.",
-  "readStory": "Aqra l istorja"
- },
- "research": {
-  "pill": "Serje tar Riċerka 001 · Riżultati tal parteċipanti",
-  "h1Lead": "Ħarsa ta 16 il ġimgħa lejn tibdil imkejjel",
-  "h1Accent": "fil ġilda.",
-  "heroSub": "Programm prospettiv u open label tal parteċipanti li jgħaqqad rutina personalizzata tal kura tal ġilda, supplimenti u gwida dwar l stil ta ħajja. Kull numru f din il paġna jiġi mir rapport, imkejjel fil linja bażi u f ġimgħa 16.",
-  "chips": [
-   "Prospettiv u open label",
-   "Fergħa waħda",
-   "Sorveljat medikament",
-   "Sit ta riċerka klinika wiċċ imb wiċċ"
-  ],
-  "headlineLabel": "Riżultat ewlieni",
-  "headlineTitle": "Il leżjonijiet totali tal akne niżlu minn 16.8 għal 6.2",
-  "slopeAria": "Ċart tal inklinazzjoni li turi l leżjonijiet totali tal akne minn 16.8 fil linja bażi sa 6.2 f ġimgħa 16",
-  "slopeBaseline": "Linja bażi 16.8",
-  "slopeWeek": "Ġimgħa 16 · 6.2",
-  "slopeNote": "Linja dritta bejn iż żewġ punti mkejla biss. Ir rapport ma ppubblikax valuri tar riżultati għall ġimgħat 4, 8 jew 12.",
-  "badges": [
-   {
-    "big": "60 fil mija ogħla",
-    "small": "Idratazzjoni tal ġilda, 29.4 AU sa 47.1 AU"
-   },
-   {
-    "big": "52 fil mija inqas",
-    "small": "Punteġġ kliniku tan nisġa, 2.7 minn 4 sa 1.3 minn 4"
-   }
-  ],
-  "statsLabels": [
-   "Ġimgħat fil programm",
-   "Adulti rreġistrati",
-   "Nies lestew il viżti kollha",
-   "Rata ta tlestija"
-  ],
-  "percentWord": "fil mija",
-  "resultsBg": "Riżultati",
-  "resultsLabel": "Tibdil medju · Linja bażi sa ġimgħa 16",
-  "resultsTitle": "X inbidel, f numri sempliċi.",
-  "resultsSub": "Riżultati għat 84 parteċipant li lestew il viżti kollha. Kull karta tqabbel iż żewġ punti taż żmien li l istudju tassew kejjel.",
-  "baseline": "Linja bażi",
-  "week16": "Ġimgħa 16",
-  "slopeFoot": "Linja bażi sa ġimgħa 16",
-  "results": [
-   {
-    "title": "Leżjonijiet totali tal akne",
-    "change": "63 fil mija inqas",
-    "note": "Leżjonijiet magħduda mid dermatologu"
-   },
-   {
-    "title": "Idratazzjoni tal ġilda",
-    "change": "60 fil mija ogħla",
-    "note": "Kejl bil Corneometer f AU"
-   },
-   {
-    "title": "Indiċi tal eritema u l ħmura",
-    "change": "30 fil mija inqas",
-    "note": "Indiċi tal Chromameter"
-   },
-   {
-    "title": "Indiċi tal melanina u l pigmentazzjoni",
-    "change": "25 fil mija inqas",
-    "note": "Indiċi tal Chromameter"
-   },
-   {
-    "title": "Punteġġ kliniku tan nisġa",
-    "change": "52 fil mija inqas",
-    "note": "Igggradat fuq skala ta 0 sa 4"
-   }
-  ],
-  "peopleBg": "Nies",
-  "participantsLabel": "Min ipparteċipa",
-  "participantsTitle": "Min ħa sehem fil programm.",
-  "participantsSub": "Ħames viżti matul il programm, mil linja bażi sa ġimgħa 16.",
-  "ageLabel": "Età medja",
-  "ageSuffix": "Snin · Firxa 20 sa 48",
-  "visitTimeline": "Skeda tal viżti",
-  "visits": [
-   {
-    "name": "Linja bażi",
-    "desc": "Skrining, kejl u fotografija"
-   },
-   {
-    "name": "Ġimgħa 4",
-    "desc": "Valutazzjoni ta segwitu"
-   },
-   {
-    "name": "Ġimgħa 8",
-    "desc": "Valutazzjoni ta segwitu"
-   },
-   {
-    "name": "Ġimgħa 12",
-    "desc": "Valutazzjoni ta segwitu"
-   },
-   {
-    "name": "Ġimgħa 16",
-    "desc": "Kejl finali u fotografija"
-   }
-  ],
-  "genderTitle": "Qsim skont il ġeneru",
-  "genderAria": "Ċart donut tal qsim skont il ġeneru, 74 fil mija nisa, 24 fil mija rġiel, 2 fil mija mhux binarji",
-  "gender": [
-   {
-    "label": "Mara",
-    "pct": "74 fil mija"
-   },
-   {
-    "label": "Raġel",
-    "pct": "24 fil mija"
-   },
-   {
-    "label": "Mhux binarju",
-    "pct": "2 fil mija"
-   }
-  ],
-  "donutNote": "Id donut janima għall qsim irrappurtat meta jiskrollja fil veduta.",
-  "concernsTitle": "Tħassib tal ġilda fil linja bażi",
-  "concerns": [
-   "Iperpigmentazzjoni post infjammatorja",
-   "Nisġa mhux uniformi u ħruxija",
-   "Akne infjammatorja",
-   "Ħmura u sensittività tal wiċċ",
-   "Ċrieki skuri taħt l għajnejn",
-   "Nixfa u barriera kompromessa",
-   "Linji fini u fotoaging bikri"
-  ],
-  "concernsNote": "Il parteċipanti setgħu jirrappurtaw aktar minn tħassib wieħed, għalhekk dawn is sehem ma jammontawx għal 100 fil mija.",
-  "programBg": "Programm",
-  "programLabel": "Programm u protokoll",
-  "programTitle": "Il programm ta 16 il ġimgħa, pass pass.",
-  "programSub": "Il parteċipanti rċevew skrining wiċċ imb wiċċ, tqassim tal prodott, taħriġ fl applikazzjoni u valutazzjonijiet ta segwitu f sit ta riċerka klinika.",
-  "morningTag": "Rutina ta filgħodu",
-  "morningTitle": "Ibda l ġurnata",
-  "amSteps": [
-   "Prodott tat tindif ġentili",
-   "Serum tal vitamina C, 15 fil mija",
-   "Idratant taċ ċeramidi",
-   "Protezzjoni mix xemx minerali, SPF 50"
-  ],
-  "eveningTag": "Rutina ta filgħaxija",
-  "eveningTitle": "Agħlaq il ġurnata",
-  "pmSteps": [
-   "Prodott tat tindif ġentili",
-   "Serum ta Niacinamide 5 fil mija flimkien maż żingu",
-   "Krema tal barriera bil peptidi",
-   "Retinol 0.3 fil mija, introdott f ġimgħa 2 u ttitrat taħt gwida ta kliniku"
-  ],
-  "routineNote": "Ir retinol intuża 3 sa 5 iljieli fil ġimgħa wara l perjodu inizjali ta żieda gradwali ta ġimgħatejn. Kif meħtieġ, intuża aċidu saliċiliku ta 2 fil mija għal leżjonijiet attivi.",
-  "supplementLabel": "Rutina tas supplimenti",
-  "supplementTitle": "Tava Skin Complex",
-  "supplementSub": "Żewġ kapsuli kuljum mal kolazzjon. Ammonti murija għal kull porzjon ta żewġ kapsuli.",
-  "supplements": [
-   "Vitamina C",
-   "Żingu",
-   "Niacinamide",
-   "Astaxanthin",
-   "Curcumin phytosome",
-   "Taħlita probijotika ta Lactobacillus"
-  ],
-  "supplementNote": "Żieda fakultattiva, Omega 3, softgel waħda kuljum.",
-  "nutritionTitle": "Gwida dwar in nutrizzjoni",
-  "nutritionItems": [
-   "Mill inqas 2.5 L ta ilma kuljum",
-   "Ħxejjex, frott tal bosk, u ikel rikk fl omega 3",
-   "Illimita z zokkor miżjud u ikel gliċemiku għoli",
-   "Reset fakultattiv ta ġimgħatejn b ftit ħalib u ftit zokkor",
-   "Konsulenza fil linja bażi ma dietista rreġistrat"
-  ],
-  "lifestyleTitle": "Għanijiet tal stil ta ħajja",
-  "lifestyleItems": [
-   "7 sa 9 sigħat ta rqad",
-   "Mill inqas 150 minuta ta attività moderata fil ġimgħa",
-   "Eżerċizzju tan nifs ta ħames minuti kuljum",
-   "Irqad irreġistrat kull ġimgħa",
-   "Drawwiet tal idratazzjoni u l protezzjoni mix xemx riveduti fil viżti"
-  ],
-  "adherenceLabel": "Traċċar tal programm",
-  "adherenceTitle": "Kemm in nies baqgħu mill qrib fuq il pjan.",
-  "adherenceSub": "Aderenza matul is 16 il ġimgħa sħaħ, kif irreġistrata fir rapport.",
-  "adherence": [
-   "Aderenza ġenerali",
-   "Aderenza tas supplimenti",
-   "Aderenza topika"
-  ],
-  "adherenceAria": "{label}, {val} fil mija",
-  "adherenceFoot": "Matul il programm ta 16 il ġimgħa",
-  "safetyBg": "Sigurtà",
-  "safetyLabel": "Effetti sekondarji rrappurtati",
-  "safetyTitle": "X irrappurtaw il parteċipanti.",
-  "safetySub": "Sehem ta parteċipanti li jirrappurtaw kull effett matul il programm.",
-  "sideEffectsTitle": "Effetti sekondarji",
-  "sideEffects": [
-   "Nixfa ħafifa jew tqaxxir",
-   "Fjamma temporanja tal akne",
-   "Skumdità gastrointestinali ħafifa"
-  ],
-  "withdrawalsTitle": "Irtirar",
-  "withdrawalsSub": "8 parteċipanti rtiraw mid 92 irreġistrati.",
-  "withdrawals": [
-   {
-    "label": "Kunflitti tal iskeda",
-    "value": "5 persuni"
-   },
-   {
-    "label": "Effetti sekondarji ħfief",
-    "value": "2 persuni"
-   },
-   {
-    "label": "Mitlufa għas segwitu",
-    "value": "Persuna waħda"
-   }
-  ],
-  "alertTitle": "L ebda avveniment avvers serju ma ġie rrappurtat.",
-  "alertBody": "Dik il linja hija ddikjarata fir rapport flimkien mal effetti ħfief elenkati f din il paġna. Hija inkluża hawn eżatt kif irrappurtata.",
-  "photoLabel": "Dokumentazzjoni viżwali",
-  "photoTitle": "Tqabbil tar ritratti tal parteċipanti.",
-  "photoSub": "Ritratti ħdejn xulxin mill programm ta erba xhur. L immaġni tax xellug f kull par uriet il linja bażi u l immaġni tal lemin uriet ġimgħa 16. L ebda ritratt tal parteċipanti ma huwa riprodott f din il paġna.",
-  "participant": "Parteċipant {initial}",
-  "docViews": [
-   "Veduta tal profil tal ġenb",
-   "Veduta frontali",
-   "Veduta frontali bin nuċċali",
-   "Veduta mill qrib tal ħaddejn"
-  ],
-  "baselineAndWeek": "Linja bażi u ġimgħa 16",
-  "photoProtocolTitle": "Protokoll tal fotografija",
-  "photoProtocol": "Qbid standardizzat fil linja bażi u fis segwitu bl użu ta setup fiss tal kamera, dawl viżibbli u cross polarized konsistenti, angoli frontali, ta 45 grad u tal profil, u sfond ikkalibrat bil kulur.",
-  "methodsLabel": "Kif ittieħed il kejl",
-  "methodsTitle": "Kejl kliniku",
-  "methods": [
-   "Leżjonijiet tal akne magħduda mid dermatologu",
-   "Idratazzjoni bil Corneometer",
-   "Indiċi tal ħmura u l melanina bil Chromameter",
-   "Gradazzjoni tan nisġa fuq skala ta 0 sa 4",
-   "Fotografija standardizzata"
-  ],
-  "factsLabel": "Disinn tal istudju",
-  "factsTitle": "Id disinn f daqqa t għajn.",
-  "facts": [
-   {
-    "k": "Disinn",
-    "v": "Prospettiv, open label, fergħa waħda"
-   },
-   {
-    "k": "Ambjent",
-    "v": "Wiċċ imb wiċċ, sorveljat medikament"
-   },
-   {
-    "k": "Valutazzjonijiet",
-    "v": "Linja bażi flimkien ma ġimgħat 4, 8, 12, 16"
-   },
-   {
-    "k": "Lest",
-    "v": "84 minn 92 irreġistrati · 91 fil mija"
-   }
-  ],
-  "source": "Sors, Tava Labs Participant Outcomes, Serje tar Riċerka 001, programm tal parteċipanti ta 16 il ġimgħa. Din il paġna tippreżenta n numri tar rapport biss, bil linja bażi u ġimgħa 16 bħala ż żewġ punti tar riżultat imkejla."
- },
- "account": {
-  "signedInAs": "Dħalt bħala",
-  "signOut": "Oħroġ",
-  "loading": "Qed jitgħabba l kont tiegħek…",
-  "failedTitle": "Ma stajniex ngħabbu l kont tiegħek",
-  "failedSegments": [
-   {
-    "text": "Iċċekkja l konnessjoni tiegħek u erġa pprova. Jekk jibqa jiġri, ibgħat email lil "
-   },
-   {
-    "text": "support@tavalabs.app",
-    "href": "mailto:support@tavalabs.app"
-   },
-   {
-    "text": " u aħna nirranġawha."
-   }
-  ],
-  "tryAgain": "Erġa pprova",
-  "tabs": {
-   "today": "Illum",
-   "orders": "Ordnijiet",
-   "shop": "Ħanut",
-   "lab": "Laboratorju",
-   "support": "Appoġġ"
-  },
-  "greetings": {
-   "morning": "Il ġurnata t tajba",
-   "afternoon": "Wara nofsinhar it tajjeb",
-   "evening": "Il lejl it tajjeb"
-  },
-  "weekInitials": [
-   "Ħ",
-   "T",
-   "E",
-   "L",
-   "Ħ",
-   "Ġ",
-   "S"
-  ],
-  "streakLine": "Serje ta {streak} jum · Jum {day} minn 30{bottle}",
-  "dayLine": "Jum {day} minn 30{bottle}. Lesti r rutina tal lum fl app biex tibda s serje tiegħek.",
-  "bottleSuffix": " · {days} jum fadal fil flixkun",
-  "progressLine": "Jum {day} minn 30 · {left} jum biex tasal għall ewwel xahar sħiħ tiegħek",
-  "stepsToGo": "Illum: {n} minn {total} passi tar rutina fadal.",
-  "todayComplete": "Illum huwa lest. Il jum li jmiss tiegħek diġà qiegħed lest.",
-  "planEyebrow": "Il pjan tiegħek",
-  "planDefault": "Agħmel il kwizz tal ġilda, u l pjan personali tiegħek, mibni mit tweġibiet tiegħek, se jgħix hawn u fl app.",
-  "retakeQuiz": "Erġa agħmel il kwizz tal ġilda",
-  "takeQuiz": "Agħmel il kwizz tal ġilda",
-  "chipLabels": {
-   "goal": "Għan",
-   "skinType": "Tip tal ġilda",
-   "concern": "Tħassib",
-   "routine": "Rutina",
-   "plan": "Pjan",
-   "routineTimes": "Ħinijiet tar rutina"
-  },
-  "labelMaps": {
-   "goal": {
-    "radiance": "Radjanza",
-    "fine_lines": "Linji fini",
-    "hydration": "Idratazzjoni",
-    "even_tone": "Ton uniformi"
-   },
-   "skinType": {
-    "dry": "Niexef",
-    "oily": "Żejtni",
-    "combination": "Kombinazzjoni",
-    "sensitive": "Sensittiv",
-    "not_sure": "Mhux ċert"
-   },
-   "concern": {
-    "dullness": "Matt",
-    "fine_lines": "Linji fini",
-    "uneven_tone": "Ton mhux uniformi",
-    "texture": "Nisġa",
-    "dryness": "Nixfa"
-   },
-   "sensitivity": {
-    "often": "Spiss sensittiv",
-    "sometimes": "Xi kultant sensittiv",
-    "never": "Rari sensittiv"
-   },
-   "routine": {
-    "cleanser_only": "Prodott tat tindif biss",
-    "few_products": "Ftit prodotti",
-    "full_routine": "Rutina sħiħa"
-   },
-   "ramp": {
-    "gentle": "Żieda gradwali ġentili",
-    "standard": "Żieda gradwali standard",
-    "full": "Qawwa sħiħa"
-   }
-  },
-  "morningEyebrow": "Rutina ta filgħodu",
-  "nightEyebrow": "Rutina tal lejl",
-  "amTitle": "AM · 3 qtar",
-  "pmTitle": "PM · 3 qtar",
-  "amSteps": [
-   {
-    "title": "Naddaf",
-    "detail": "Prodott tat tindif ġentili, nixxef bil pat"
-   },
-   {
-    "title": "Applika 3 qtar ta serum",
-    "detail": "Agħfas ġol wiċċ u l għonq"
-   },
-   {
-    "title": "Idrata + SPF",
-    "detail": "SPF 30 jew ogħla"
-   }
-  ],
-  "pmSteps": [
-   {
-    "title": "Tindif doppju",
-    "detail": "Neħħi l SPF u l makeup"
-   },
-   {
-    "title": "Applika 3 qtar ta serum",
-    "detail": "Qabel ir retinol jew it trattamenti"
-   },
-   {
-    "title": "Idratant tal lejl",
-    "detail": "Issiġilla l idratazzjoni"
-   }
-  ],
-  "stepsNote": "Int timmarka l passi fl app mobbli. Din il paġna turi r rutina tal lum u dak li l app irreġistrat s issa llum.",
-  "ordersEyebrow": "Ordnijiet",
-  "ordersTitle": "L ordnijiet tiegħek",
-  "ordersEmpty": "Għad m hemm l ebda ordni. Meta tixtri, l ordnijiet u t traċċar tiegħek se jidhru hawn u fl app.",
-  "paid": "Imħallas",
-  "paymentFailed": "Il ħlas falla",
-  "unpaid": "Mhux imħallas",
-  "statusLabels": [
-   "Ordna",
-   "Intbagħat",
-   "Ħiereġ għall kunsinna",
-   "Ikunsinnat"
-  ],
-  "subscription": "Abbonament",
-  "carrierFallback": "Trasportatur",
-  "trackPackage": "Segwi l pakkett",
-  "claimEyebrow": "Kodiċi tat talba",
-  "claimTitle": "Tgħaqqad xiri mal app",
-  "claimForOrder": "Il kodiċi tat talba tiegħek għall ordni {order}",
-  "claimYourCode": "Il kodiċi tat talba tiegħek",
-  "claimValidUntil": " (validu sa {date})",
-  "claimEnter": ". Daħħlu fl app ta Tava taħt Ordnijiet biex tgħaqqad dan ix xiri mal kont tal app tiegħek:",
-  "claimWebNote": "Hawn fuq il web m għandekx bżonn il kodiċi. Id dħul bl email tal ħlas tiegħek diġà juri l ordnijiet u l pjan tiegħek hawn fuq.",
-  "claimEmpty": "Xt rajt permezz tal kwizz jew dan is sit? L email ta konferma tiegħek u l paġna eżatt wara l ħlas urew kodiċi tat talba. Iftaħ l app mobbli ta Tava, idħol, u daħħal il kodiċi fit tab Ordnijiet. Ix xiri, il pjan u t tweġibiet tal kwizz tiegħek jiċċaqalqu fil kont tal app tiegħek. Hawn fuq il web, id dħul bl istess email li ħallast biha diġà juri kollox hawn fuq. Xejn aktar x iddaħħal.",
-  "shop": {
-   "eyebrow": "PDRN Brightening Serum",
-   "title": "Ixtri Tava Labs",
-   "body": "1 fl oz (30 ml). Naqqas il linji fini, idrata fil fond, erġa ġib ir radjanza, u saħħaħ il ġilda. 2 sa 4 pompi, filgħodu u billejl.",
-   "subscribeLine": "Abbona, $39 fix xahar.",
-   "subscribeRest": " Flixkun ġdid kull xahar, awtomatikament.",
-   "oneTimeLine": "Darba waħda, $49.",
-   "oneTimeRest": " Flixkun wieħed.",
-   "subscribeBtn": "Abbona, $39 fix xahar",
-   "buyOnceBtn": "Ixtri darba, $49",
-   "stripeNote": "Ħlas sigur minn Stripe. Se tikkonferma l ħlas fil paġna ta Stripe."
-  },
-  "labTab": {
-   "eyebrow": "Laboratorju",
-   "title": "Kun af in numri tiegħek.",
-   "sub": "Panelli reali tad demm, ordnati taħt il kont ta Tava tiegħek. Fittex fil panelli, ara kull markatur qabel tordna, u ikseb ir riżultati tiegħek ikkunsinnati eżatt hawn."
-  },
-  "support": {
-   "eyebrow": "Appoġġ",
-   "title": "Qegħdin hawn biex ngħinu",
-   "segments": [
-    {
-     "text": "Ibgħat email lil "
-    },
-    {
-     "text": "support@tavalabs.app",
-     "href": "mailto:support@tavalabs.app"
-    },
-    {
-     "text": " jew ċempel "
-    },
-    {
-     "text": "909-906-1308",
-     "href": "tel:+19099061308"
-    },
-    {
-     "text": "."
-    }
-   ],
-   "links": {
-    "general": "Mistoqsijiet ġenerali",
-    "productSupport": "Appoġġ tal prodott",
-    "salesSupport": "Appoġġ tal ordnijiet u l bejgħ",
-    "faqs": "Mistoqsijiet Frekwenti",
-    "shipping": "Politika tat Tbaħħir",
-    "returns": "Politika tar Ritorni"
-   }
-  }
- },
- "lab": {
-  "ordersLabel": "Reviżjoni klinika",
-  "ordersTitle": "L ordnijiet tal laboratorju tiegħek",
-  "loadingOrders": "Qed jitgħabbew l ordnijiet tiegħek…",
-  "ordersEmpty": "Għad m hemm xejn hawn. Meta tlesti panel, kull markatur jasal hawn bil valur tiegħu, il firxa b saħħitha tiegħu, u kif jiċċaqlaq maż żmien. Ordna l ewwel panel tiegħek hawn taħt u dan l ispazju jimtela.",
-  "viewResults": "Ara r riżultati",
-  "howLabel": "Kif jaħdmu l laboratorji",
-  "howTitle": "Erba passi, ġibda waħda",
-  "steps": [
-   {
-    "title": "Agħżel panel",
-    "body": "Agħżel il panel li jaqbel ma dak li trid tkun taf. Kull markatur fih huwa elenkat qabel tordna."
-   },
-   {
-    "title": "Reviżjoni tat tabib",
-    "body": "Tabib liċenzjat jirrevedi u jawtorizza kull ordni, għalhekk l ebda viżta separata għand it tabib mhija meħtieġa."
-   },
-   {
-    "title": "Idħol għall ġibda tiegħek",
-    "body": "Ġibda tad demm waħda malajr f sit tal ġbir qrib tiegħek. Il biċċa l kbira tal viżti jieħdu madwar ħmistax il minuta."
-   },
-   {
-    "title": "Ir riżultati jaslu hawn",
-    "body": "Ir riżultati jiġu kkunsinnati diġitalment f din it tab fi ftit ġranet, b kull markatur u l firxa tiegħu."
-   }
-  ],
-  "panelsLabel": "Il panelli",
-  "panelsTitle": "Erbatax il panel, mibnija madwar dak li ssegwi",
-  "panelsSub": "Kull panel juri l prezz tiegħu. L ordnar jiftaħ ladarba l ħlas jinxtegħel, u tabib liċenzjat jirrevedi kull ordni qabel ma r riżultati tiegħek jiġu kkunsinnati eżatt hawn. Il panelli ma jistgħux jiġu ordnati għal indirizzi fi New York, New Jersey, jew Rhode Island.",
-  "markersSuffix": "{n} markaturi",
-  "resultsInDays": "Riżultati fi ftit ġranet",
-  "hideMarkers": "Aħbi l markaturi",
-  "seeMarkers": "Ara l markaturi",
-  "markersAria": "Markaturi f {name}",
-  "disclaimer": "L għarfien tal laboratorju huwa informazzjoni dwar is saħħa tiegħek stess u mhuwiex dijanjosi. Kellem lit tabib tiegħek dwar kwalunkwe riżultat li jinkwetak, u ċempel 911 f emerġenza.",
-  "panelsById": {
-   "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
-    "name": "Panel tal Prestazzjoni Atletika",
-    "description": "Prontezza għat taħriġ u rkupru: għadd tad demm, panel metaboliku, ħażniet tal ħadid, vitamina D, testosterone, infjammazzjoni u enzimi tal muskoli.",
-    "collection": "Ġibda tad demm b dħul dirett"
-   },
-   "38c76039-05dc-4cd3-8475-7a675989fbf2": {
-    "name": "Panel tal Benessri fil Linja Bażi",
-    "description": "Punt tat tluq tal ġisem kollu: għadd tad demm, saħħa metabolika, kolesterol, zokkor fid demm, vitamina D u tirojde.",
-    "collection": "Ġibda tad demm b dħul dirett"
-   },
-   "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
-    "name": "Panel tal Enerġija u l Għeja",
-    "description": "Is suspettati tas soltu wara enerġija baxxa: ħażniet u trasport tal ħadid, B12, folate, vitamina D, tirojde u għadd tad demm.",
-    "collection": "Ġibda tad demm b dħul dirett"
-   },
-   "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
-    "name": "Panel tal Linja Bażi tan Nisa",
-    "description": "Panel iffukat ta 14 il markatur, elenkati bis sħiħ hawn taħt.",
-    "collection": "Ġibda tad demm b dħul dirett"
-   },
-   "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
-    "name": "Panel GLP1",
-    "description": "Panel iffukat ta 10 markaturi, elenkati bis sħiħ hawn taħt.",
-    "collection": "Ġibda tad demm b dħul dirett"
-   },
-   "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
-    "name": "Panel tas Saħħa tal Qalb",
-    "description": "Riskju kardjovaskulari lil hinn mill kolesterol bażiku: lipidi, ApoB, Lp(a), hs-CRP, u homocysteine.",
-    "collection": "Ġibda tad demm b dħul dirett"
-   },
-   "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
-    "name": "Panel tal Lonġevità",
-    "description": "Analiżi annwali komprensiva fil fond fuq markaturi tas saħħa metabolika, kardjovaskulari, infjammatorja u ormonali.",
-    "collection": "Ġibda tad demm b dħul dirett"
-   },
-   "b909fb21-b264-483c-a915-4ce87713cfa9": {
-    "name": "Test tal Linja Bażi tal Irġiel",
-    "description": "Panel iffukat ta 12 il markatur, elenkati bis sħiħ hawn taħt.",
-    "collection": "Ġibda tad demm b dħul dirett"
-   },
-   "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
-    "name": "Panel TRT tal Irġiel",
-    "description": "Panel iffukat ta 16 il markatur, elenkati bis sħiħ hawn taħt.",
-    "collection": "Ġibda tad demm b dħul dirett"
-   },
-   "abfabb68-c777-4457-87c2-46bf5fe26d81": {
-    "name": "Panel tal Ormoni tal Irġiel",
-    "description": "Status tal ormoni maskili: testosterone totali, SHBG, estradiol, LH, u FSH.",
-    "collection": "Ġibda tad demm b dħul dirett"
-   },
-   "f12fe316-367a-4c53-9735-8c0129c45506": {
-    "name": "Panel tas Saħħa Metabolika",
-    "description": "Kontroll taz zokkor fid demm u riskju metaboliku: A1c, insulina fis sawm, kolesterol, u panel metaboliku sħiħ.",
-    "collection": "Ġibda tad demm b dħul dirett"
-   },
-   "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
-    "name": "Panel tal Istress u l Irkupru",
-    "description": "Tagħbija tal istess u kapaċità ta rkupru: cortisol, DHEA-S, tirojde, u infjammazzjoni.",
-    "collection": "Ġibda tad demm b dħul dirett"
-   },
-   "1760616d-44d3-4654-817d-440a969e5cdf": {
-    "name": "Panel Komplut tat Tirojde",
-    "description": "Analiżi kompluta tat tirojde: TSH, T4 ħieles, T3 ħieles, u antikorpi TPO.",
-    "collection": "Ġibda tad demm b dħul dirett"
-   },
-   "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
-    "name": "Panel tal Ormoni tan Nisa",
-    "description": "Status tal ormoni femminili: estradiol, progesterone, FSH, LH, DHEA-S, u testosterone.",
-    "collection": "Ġibda tad demm b dħul dirett"
-   }
-  },
-  "detail": {
-   "backToAccount": "Lura għall kont tiegħek",
-   "notFoundTitle": "Dik l ordni tal laboratorju ma nstabitx",
-   "notFoundBody": "Tista tappartjeni lil email differenti. Idħol bl email li ordnajt biha u erġa pprova.",
-   "clinicalReview": "REVIŻJONI KLINIKA",
-   "loadingResults": "Qed jitgħabbew ir riżultati tiegħek…",
-   "yourPanel": "Il panel tiegħek",
-   "markerFallback": "Markatur",
-   "headlines": {
-    "loading": "Qed inġibu r riżultati tiegħek",
-    "pending": "Ir riżultati tiegħek qegħdin fit triq",
-    "allIn": "Ir riżultati kollha tiegħek waslu.",
-    "in": "Ir riżultati tiegħek waslu."
-   },
-   "sublines": {
-    "loading": "Mument wieħed waqt li r rapport tal laboratorju jitgħabba.",
-    "pending": "Hekk kif il laboratorju jirrapporta, din il paġna timtela b kull markatur, il valur tiegħu u l firxa b saħħitha tiegħu.",
-    "allIn": "Kull markatur qiegħed fil firxa. Hawn hija l istampa sħiħa.",
-    "oneAttention": "Markatur wieħed jeħtieġ ħarsa aktar mill qrib. Ejja nidħlu fil fond.",
-    "manyAttention": "{n} markaturi jeħtieġu ħarsa aktar mill qrib. Ejja nidħlu fil fond."
-   },
-   "orderedPrefix": "Ordna",
-   "statusPrefix": "Status:",
-   "notInYetTitle": "Ir riżultati għadhom ma waslux",
-   "notInYetBody": "Il biċċa l kbira tal panelli jirrappurtaw fi ftit ġranet mill ġibda tiegħek. Meta tiegħek jasal, din il paġna turi l veduta sħiħa tal bilanċ b kull markatur u l firxa tiegħu.",
-   "markerBalance": "Il bilanċ tal markaturi tiegħek",
-   "biomarkers": "BIJOMARKATURI",
-   "analyzedSuffix": "{pct}% Analizzat",
-   "statusNames": {
-    "optimal": "Ottimali",
-    "inRange": "Fil firxa",
-    "attention": "Jeħtieġ attenzjoni"
-   },
-   "statusLabels": {
-    "optimal": "OTTIMALI",
-    "inRange": "FIL FIRXA",
-    "attention": "IMMARKAT"
-   },
-   "basePrefix": "Bażi: {name}",
-   "updatedPrefix": "Aġġornat {date}",
-   "updatedRecently": "Aġġornat reċentement",
-   "triageTitle": "Triage tal Istatus",
-   "tapToFilter": "Tektek biex tiffiltra",
-   "triageSubs": {
-    "optimal": "Eżatt fejn tridhom",
-    "inRange": "Ġewwa l firxa b saħħitha",
-    "attention": "Ta min tkellem lit tabib tiegħek dwaru"
-   },
-   "allFilter": "Kollox ({n})",
-   "rangePrefix": "Firxa {range}",
-   "disclaimer": "Ir riżultati tal laboratorju huma informazzjoni dwar is saħħa tiegħek stess u mhumiex dijanjosi. Kellem lit tabib tiegħek dwar kwalunkwe riżultat li jinkwetak, u ċempel 911 f emerġenza."
-  }
- },
- "login": {
-  "brandHeadLead": "Merħba",
-  "brandHeadAccent": "lura.",
-  "brandCopy": "Il pjan tiegħek, l ordnijiet tiegħek u r rutina tiegħek. Email waħda tgħaqqad l app u l web flimkien.",
-  "label": "Il kont ta Tava tiegħek",
-  "title": "Idħol",
-  "intro": "Idħol bl email li użajt fil ħlas jew fl app mobbli ta Tava. Il pjan, l ordnijiet u r rutina tiegħek huma marbuta ma dik l email, għalhekk kollox hawn jaqbel mal app. L ebda password meħtieġa. Aħna nibagħtulek link tad dħul bl email, u meta ttektek fuqha tasal fil kont tiegħek.",
-  "emailLabel": "Indirizz tal email",
-  "invalidEmail": "Daħħal indirizz tal email validu.",
-  "sendFailed": "Ma stajniex nibagħtu dik l email. Iċċekkja l indirizz u erġa pprova.",
-  "sending": "Qed jintbagħat…",
-  "sendButton": "Ibgħatli link tad dħul bl email",
-  "sentNotice": "Link tad dħul intbagħtet lil {email}. Tista tieħu minuta biex tasal. Iċċekkja l folder tal ispam tiegħek jekk ma tarahiex.",
-  "sentBody": "Iftaħ dik l email fuq dan l apparat u tektek il link ta ġewwa. Se tasal fil kont tiegħek, diġà dħalt. Il link taħdem darba u tiskadi, għalhekk użaha dalwaqt.",
-  "resend": "Erġa ibgħat l email",
-  "differentEmail": "Uża email differenti",
-  "footNote": "L ewwel darba hawn? L istess link toħloq il kont tiegħek. Uża l email mill ordni tiegħek u kollox diġà qiegħed jistenniek.",
-  "claimLabel": "Xt rajt fuq il web, u tuża l app?",
-  "claimTitle": "Uża l kodiċi tat talba tiegħek fl app",
-  "claimBody1": "Meta xtrajt permezz tal kwizz jew dan is sit, l email ta konferma tax xiri tiegħek (u l paġna eżatt wara l ħlas) uriet kodiċi tat talba. Iftaħ l app mobbli ta Tava, idħol, u daħħal dak il kodiċi fit tab Ordnijiet. Ix xiri, il pjan u t tweġibiet tal kwizz tiegħek jiċċaqalqu fil kont tal app tiegħek, mingħajr it tieni xiri.",
-  "claimBody2": "Fuq il web huwa saħansitra aktar sempliċi. Idħol hawn fuq bl istess email li ħallast biha, u l ordnijiet u l pjan tiegħek diġà qegħdin hawn.",
-  "faqButton": "Mistoqsijiet? Ara l Mistoqsijiet Frekwenti"
- },
- "checkout": {
-  "title": "Ħlas",
-  "closeAria": "Agħlaq il ħlas",
-  "planOneTime": "PDRN Brightening Serum · $49 · Xiri ta darba",
-  "planSubscribe": "PDRN Brightening Serum · $39 fix xahar · Abbona u Ffranka 20%",
-  "email": "Email",
-  "firstName": "Isem",
-  "lastName": "Kunjom",
-  "streetAddress": "Indirizz tat triq",
-  "addressLine2": "Linja tal indirizz 2 (fakultattiva)",
-  "city": "Belt",
-  "state": "Stat",
-  "zip": "ZIP",
-  "country": "Pajjiż",
-  "phoneOptional": "Telefon (fakultattiv)",
-  "missingIntro": "Kważi hemm. Żid {fields} tiegħek.",
-  "missingNames": {
-   "email": "email valida",
-   "firstName": "isem",
-   "lastName": "kunjom",
-   "address1": "indirizz tat triq",
-   "city": "belt",
-   "state": "stat",
-   "zip": "kodiċi ZIP"
-  },
-  "creating": "Qed noħolqu l ħlas tiegħek…",
-  "taking": "Qed neħduk għall ħlas sigur…",
-  "continueBtn": "Kompli għall Ħlas",
-  "startError": "Il ħlas ma setax jibda. Iċċekkja d dettalji tiegħek u erġa pprova. Xejn ma ġie ċċarġjat.",
-  "stripeNote": "Ħlas sigur minn Stripe. Se tikkonferma l ħlas fil paġna ta Stripe. Għadu ma ġie ċċarġjat xejn."
- },
- "legal": {
-  "governsNote": "Din il paġna hija traduzzjoni tal oriġinal bl Ingliż. Jekk il kliem qatt ivarja, il verżjoni bl Ingliż tirregola."
- }
 }

@@ -8,6 +8,10 @@
       "title": "PDRN Brightening Serum for Entrepreneurs | Tava Labs",
       "description": "The Tava Labs PDRN Brightening Serum is a daily face serum with PDRN, peptides, and sodium hyaluronate for brighter, hydrated looking skin. Made for founders and business owners. $49 one time or $39 a month."
     },
+    "moisturizer": {
+      "title": "Peptide Moisturizer for Founders and Business Owners | Tava Labs",
+      "description": "The Tava Labs Peptide Moisturizer is a face moisturizer with copper peptide and cranberry fruit extract. It hydrates skin and targets the look of fine lines and wrinkles. 1.7 fl oz (50 ml). $27.99 one time."
+    },
     "about": {
       "title": "About Tava Labs | Face Serum for Founders",
       "description": "Tava Labs makes one product, the PDRN Brightening Serum, a daily face serum for founders and business owners. Read who we are and why we made it."
@@ -98,6 +102,7 @@
     "infoHeading": "Info",
     "legalHeading": "Legal",
     "footerSerum": "PDRN Brightening Serum",
+    "footerMoisturizer": "Peptide Moisturizer",
     "footerIngredients": "Ingredients",
     "contactLinks": {
       "general": "General",
@@ -948,6 +953,110 @@
         "Serum bottle view 3",
         "Serum bottle view 4",
         "Serum bottle view 5"
+      ]
+    }
+  },
+  "moisturizer": {
+    "breadcrumbHome": "Home",
+    "inStock": "In Stock",
+    "subBadge": "Copper peptide and cranberry fruit extract",
+    "madeLine": "Made in the USA",
+    "titleLead": "Peptide",
+    "titleAccent": "Moisturizer",
+    "pricePerUnit": "1.7 fl oz (50 ml)",
+    "intro": "A face moisturizer with copper peptide and cranberry fruit extract. It hydrates skin, moisturizes, and targets the look of fine lines and wrinkles.",
+    "bullets": [
+      "Hydrates skin and moisturizes face and neck, morning or night.",
+      "Made with copper peptide and cranberry fruit extract.",
+      "Targets the look of fine lines and wrinkles.",
+      "Made for founders and business owners. One simple step, morning or night."
+    ],
+    "details": [
+      {
+        "title": "How to use",
+        "body": "Apply a dime sized amount to face and neck and gently massage until fully absorbed. Use morning or night."
+      },
+      {
+        "title": "Ingredients",
+        "body": "Aqua, Sorbitan Olivate, Cetearyl Olivate, Caprylic/Capric Triglyceride, Coco-Caprylate/Caprate, Cetyl Alcohol, Stearyl Alcohol, Methylglucoside Phosphate, Copper Lysinate/Prolinate, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Eclipta Prostrata Extract, Moringa Oleifera Seed Extract, Melia Azadirachta (Neem) Leaf Extract, Glycerin, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate, Totarol, Hamamelis Virginiana (Witch Hazel) Water, Xanthan Gum, Alcohol, Phenoxyethanol, Ethylhexylglycerin, Sodium Benzoate, Potassium Sorbate, Maltodextrin, Syringa Vulgaris (Lilac) Leaf Cell Culture Extract."
+      },
+      {
+        "title": "Good to know",
+        "body": "For external use only. Do not ingest. Avoid contact with eyes. Discontinue use if irritation occurs. Keep out of reach of children. Store in a cool dry place. Size is 1.7 fl oz (50 ml). Made in the USA."
+      }
+    ],
+    "keyIngredients": {
+      "label": "Key ingredients",
+      "titleLead": "What the main",
+      "titleAccent": "ingredients are",
+      "sub": "The ingredients below are the ones this moisturizer is built around.",
+      "items": [
+        {
+          "title": "Copper peptide",
+          "body": "Copper peptide, listed on the label as Copper Lysinate/Prolinate, is the peptide in this formula. It is included to target the look of fine lines and wrinkles."
+        },
+        {
+          "title": "Cranberry fruit extract",
+          "body": "Cranberry fruit extract comes from the cranberry fruit. It is included as a plant extract in the daily moisturizer formula."
+        },
+        {
+          "title": "Aloe vera and witch hazel",
+          "body": "Aloe vera leaf juice and witch hazel water are plant ingredients in the formula. They sit alongside glycerin, which helps skin hold moisture."
+        },
+        {
+          "title": "Moringa and neem",
+          "body": "Moringa seed extract and neem leaf extract are plant extracts in the formula. Vitamin E, listed as Tocopheryl Acetate, is also included."
+        }
+      ]
+    },
+    "howToUse": {
+      "label": "How to use",
+      "title": "One step, morning or night",
+      "sub": "Apply the moisturizer to face and neck as the moisturizing step of your routine.",
+      "steps": [
+        {
+          "title": "Morning",
+          "body": "Apply a dime sized amount to face and neck in the morning. Gently massage until fully absorbed."
+        },
+        {
+          "title": "Night",
+          "body": "Apply a dime sized amount to face and neck at night. Gently massage until fully absorbed."
+        }
+      ]
+    },
+    "faqSection": {
+      "label": "Questions and answers",
+      "title": "Frequently asked questions",
+      "items": [
+        {
+          "q": "What is the Peptide Moisturizer?",
+          "a": "It is a face moisturizer with copper peptide and cranberry fruit extract, plus aloe vera, witch hazel, moringa, neem, eclipta, glycerin, and vitamin E. It hydrates skin and moisturizes face and neck."
+        },
+        {
+          "q": "How much does it cost and what size is it?",
+          "a": "It costs $27.99 one time. The size is 1.7 fl oz (50 ml). There is no subscription price for this product."
+        },
+        {
+          "q": "How do I use it?",
+          "a": "Apply a dime sized amount to face and neck and gently massage until fully absorbed. Use morning or night."
+        },
+        {
+          "q": "Who is it made for?",
+          "a": "It is made for founders and business owners who want one plain moisturizing step, morning or night. It targets the look of fine lines and wrinkles."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Peptide Moisturizer for daily hydration.",
+      "line": "Peptide Moisturizer · $27.99 · 1.7 fl oz (50 ml) · Made in the USA"
+    },
+    "gallery": {
+      "view": "View {n}",
+      "alts": [
+        "Peptide Moisturizer jar with the lid on",
+        "Peptide Moisturizer jar with the lid off",
+        "Three Peptide Moisturizer jars",
+        "Two Peptide Moisturizer jars"
       ]
     }
   },

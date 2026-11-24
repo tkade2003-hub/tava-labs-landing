@@ -20,16 +20,25 @@ const PRICES = { one_time: 49, subscribe: 39 } as const;
 
 export type BuyType = keyof typeof PRICES;
 
+/** Price set for a product: one_time is required, subscribe only where sold. */
+export type PriceSet = { one_time: number; subscribe?: number };
+
 export function CheckoutModal({
   buyType,
   initialEmail,
   onClose,
   dict = EN_DICT,
+  productId = PRODUCT.productId,
+  sku = PRODUCT.sku,
+  prices = PRICES,
 }: {
   buyType: BuyType;
   initialEmail: string;
   onClose: () => void;
   dict?: Dict;
+  productId?: string;
+  sku?: string;
+  prices?: PriceSet;
 }) {
   const t = dict.checkout;
   const PLAN_LINES = { one_time: t.planOneTime, subscribe: t.planSubscribe };
@@ -101,11 +110,11 @@ export function CheckoutModal({
           "Direct checkout from the Tava Labs website (no quiz taken). Default routine plan. The buyer can personalize everything in the app.",
       },
       order: {
-        productId: PRODUCT.productId,
-        sku: PRODUCT.sku,
+        productId,
+        sku,
         quantity: 1,
         purchaseType: buyType,
-        price: PRICES[buyType],
+        price: buyType === "subscribe" ? (prices.subscribe ?? prices.one_time) : prices.one_time,
       },
       shippingAddress,
     };

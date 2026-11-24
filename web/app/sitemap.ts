@@ -10,6 +10,7 @@ const BASE: MetadataRoute.Sitemap = [
     { url: "https://tavalabs.app/research", changeFrequency: "monthly", priority: 0.8 },
     { url: "https://tavalabs.app/partners", changeFrequency: "monthly", priority: 0.7 },
     { url: "https://tavalabs.app/glow-brightening-serum", changeFrequency: "monthly", priority: 0.9 },
+    { url: "https://tavalabs.app/peptide-moisturizer", changeFrequency: "monthly", priority: 0.9 },
     { url: "https://tavalabs.app/quiz", changeFrequency: "monthly", priority: 0.9 },
     { url: "https://tavalabs.app/blog", changeFrequency: "weekly", priority: 0.8 },
     { url: "https://tavalabs.app/blog/camera-ready-skin", changeFrequency: "monthly", priority: 0.7 },
