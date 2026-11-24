@@ -1,0 +1,123 @@
+{
+ "slug": "checkout-success",
+ "title": "Order Confirmed | Your PDRN Brightening Serum | Tava Labs",
+ "description": "Your Tava Labs PDRN Brightening Serum order is confirmed. Your claim code connects this purchase to the app, where you can see your plan, your quiz answers, and your order.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "&#10003;"
+  },
+  {
+   "id": 4,
+   "text": "Order confirmed"
+  },
+  {
+   "id": 5,
+   "text": "Thank you for your order."
+  },
+  {
+   "id": 6,
+   "text": "Welcome to your 30 days."
+  },
+  {
+   "id": 7,
+   "text": "Your PDRN Brightening Serum order is confirmed and being prepared. Here's what happens next:"
+  },
+  {
+   "id": 8,
+   "text": "Email"
+  },
+  {
+   "id": 9,
+   "text": "A confirmation email is on its way to the email you checked out with, keep it: it's your receipt and it carries the same claim code shown below."
+  },
+  {
+   "id": 10,
+   "text": "Shipping"
+  },
+  {
+   "id": 11,
+   "text": "Your bottle ships from our fulfillment partner in the next few business days. Tracking goes to the same email the moment it's on its way."
+  },
+  {
+   "id": 12,
+   "text": "Your plan"
+  },
+  {
+   "id": 13,
+   "text": "Your personalized 30-day plan, your answers, your ramp schedule, your AM/PM times, is saved and waiting in the app."
+  },
+  {
+   "id": 14,
+   "text": "Checkout reference: "
+  },
+  {
+   "id": 15,
+   "text": "Your purchase shows up in the app"
+  },
+  {
+   "id": 16,
+   "text": "Your plan lives in the Tava app, daily AM/PM check-offs, your streak, and your shipment tracking. The app isn't on the App Store just yet, so here's your "
+  },
+  {
+   "id": 17,
+   "text": "claim code"
+  },
+  {
+   "id": 18,
+   "text": ": keep it somewhere safe. When you install the app, sign in and enter this code, your plan, your answers, and this order move into your account with it. Nothing to re-type, and no buying again."
+  },
+  {
+   "id": 19,
+   "text": "Your app claim code"
+  },
+  {
+   "id": 20,
+   "text": "Finding your claim code…"
+  },
+  {
+   "id": 21,
+   "text": "Copy claim code"
+  },
+  {
+   "id": 22,
+   "text": "Copy claim link"
+  },
+  {
+   "id": 23,
+   "text": "Open in the app, if it's installed"
+  },
+  {
+   "id": 24,
+   "text": "Got the code by email too, same code, keep whichever is easier. The code works once, only for your account, and it's how we know the purchase is yours (your email alone is never enough)."
+  },
+  {
+   "id": 25,
+   "text": "Questions about your order? Email "
+  },
+  {
+   "id": 26,
+   "text": "talia@tavalabs.app"
+  },
+  {
+   "id": 27,
+   "text": " and we'll sort it out."
+  },
+  {
+   "id": 28,
+   "text": "Tava Labs · PDRN Brightening Serum for founders · Questions? talia@tavalabs.app"
+  }
+ ]
+}

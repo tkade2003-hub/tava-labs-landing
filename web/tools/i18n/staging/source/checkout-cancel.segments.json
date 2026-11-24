@@ -1,0 +1,67 @@
+{
+ "slug": "checkout-cancel",
+ "title": "Checkout Cancelled | No Charge Made | Tava Labs",
+ "description": "No charge was made. Your Tava Labs plan and answers are saved, so you can finish your order later when you are ready.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "Checkout cancelled"
+  },
+  {
+   "id": 4,
+   "text": "No charge. "
+  },
+  {
+   "id": 5,
+   "text": "Nothing lost."
+  },
+  {
+   "id": 6,
+   "text": "You left checkout before finishing, so "
+  },
+  {
+   "id": 7,
+   "text": "your card was not charged"
+  },
+  {
+   "id": 8,
+   "text": " — not a cent. And your work isn't wasted: the answers you gave and the 30-day plan we built from them are saved to the email you entered."
+  },
+  {
+   "id": 9,
+   "text": "When you are ready, continue from where you stopped. Answer the quick questions again with the same email and your plan will be rebuilt exactly as it was, then finish at secure checkout."
+  },
+  {
+   "id": 10,
+   "text": "Back to my 30-day plan"
+  },
+  {
+   "id": 11,
+   "text": "Changed your mind for good? No hard feelings — nothing was charged and there's nothing to cancel. Questions? Email "
+  },
+  {
+   "id": 12,
+   "text": "talia@tavalabs.app"
+  },
+  {
+   "id": 13,
+   "text": "."
+  },
+  {
+   "id": 14,
+   "text": "Tava Labs · PDRN Brightening Serum for founders · Questions? talia@tavalabs.app"
+  }
+ ]
+}

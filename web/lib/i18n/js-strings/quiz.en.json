@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "en": "glow & radiance"
+   "en": "brighter looking skin"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "en": "Founders and creators who present themselves every day start their morning the same way. Dull, tired-looking skin is one of the most common reasons people start a serum routine. The PDRN Brightening Serum is built around PDRN and peptides, in a lightweight formula designed to enhance the appearance of smooth, radiant skin — leaving it looking plump, soft, and refreshed, morning and night."
+   "en": "Founders and creators who present themselves every day start their morning the same way. Dull, tired looking skin is one of the most common reasons people start a serum routine. The PDRN Brightening Serum is built around PDRN and peptides, in a lightweight formula that helps skin look smooth and bright, morning and night."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "en": "Founders and creators who present themselves every day start their morning the same way. Fine lines are usually the first thing people want a serum for. This formula pairs acetyl hexapeptide-8 with PDRN — ingredients chosen to support skin that looks smoother and more luminous — in a single step, twice a day. No ten-step routine required."
+   "en": "Founders and creators who present themselves every day start their morning the same way. Fine lines are usually the first thing people want a serum for. This formula pairs acetyl hexapeptide-8 with PDRN, two ingredients chosen to support skin that looks smoother and brighter, in a single step, twice a day. No ten step routine required."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "en": "Founders and creators who present themselves every day start their morning the same way. Skin that feels tight and thirsty by midday is exactly what this serum is made for. A blend of glycerin, sodium PCA, and sodium hyaluronate provides deep hydration, while panthenol conditions — so skin feels comfortable and looks plump, not greasy."
+   "en": "Founders and creators who present themselves every day start their morning the same way. Skin that feels tight and dry by midday is exactly what this serum is made for. A blend of glycerin, sodium PCA, and sodium hyaluronate provides deep hydration, while panthenol conditions the skin, so it feels comfortable and hydrated, not greasy."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "en": "Founders and creators who present themselves every day start their morning the same way. An uneven-looking complexion is a common frustration. PDRN and peptides help promote a more luminous, vibrant-looking complexion, and the lightweight formula absorbs quickly and easily — a simple twice-daily step toward a more even look."
+   "en": "Founders and creators who present themselves every day start their morning the same way. An uneven looking complexion is a common frustration. PDRN and peptides help skin look brighter and more even, and the lightweight formula absorbs quickly, in a simple step used twice a day."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "en": "Helps promote a more luminous, vibrant-looking complexion and enhances the appearance of smooth, radiant skin."
+   "en": "Helps skin look brighter, more even, and smooth."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "en": "A hydration blend that draws in moisture for a plump, comfortable feel and a silky-smooth texture."
+   "en": "A hydration blend that draws in moisture, for skin that feels comfortable and smooth."
   },
   {
    "k": "ing.panthenol.name",
@@ -124,7 +124,7 @@
   {
    "k": "ing.panthenol.text",
    "q": "dq",
-   "en": "Conditions the skin, leaving it feeling soft and comfortable — a kind base for skin that reacts easily."
+   "en": "Conditions the skin, leaving it feeling soft and comfortable, a kind base for skin that reacts easily."
   },
   {
    "k": "ramp.often.1",

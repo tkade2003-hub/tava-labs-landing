@@ -12,23 +12,23 @@ const FUNNEL_INTAKE_URL = "https://vuzrpgkqytzvbbxwsvqr.supabase.co/functions/v1
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { subscribe: 39, one_time: 49 };
 
-const GOAL_LABEL = { radiance: "glow & radiance", fine_lines: "fine lines", hydration: "deep hydration", even_tone: "an even tone" };
+const GOAL_LABEL = { radiance: "brighter looking skin", fine_lines: "fine lines", hydration: "deep hydration", even_tone: "an even tone" };
 const SKIN_LABEL = { dry: "Dry", oily: "Oily", combination: "Combination", sensitive: "Sensitive", not_sure: "Still figuring it out" };
 const CONCERN_LABEL = { dullness: "dullness", fine_lines: "fine lines", uneven_tone: "uneven tone", texture: "rough texture", dryness: "dryness" };
 
 const NOT_ALONE = {
-  radiance: "Founders and creators who present themselves every day start their morning the same way. Dull, tired-looking skin is one of the most common reasons people start a serum routine. The PDRN Brightening Serum is built around PDRN and peptides, in a lightweight formula designed to enhance the appearance of smooth, radiant skin — leaving it looking plump, soft, and refreshed, morning and night.",
-  fine_lines: "Founders and creators who present themselves every day start their morning the same way. Fine lines are usually the first thing people want a serum for. This formula pairs acetyl hexapeptide-8 with PDRN — ingredients chosen to support skin that looks smoother and more luminous — in a single step, twice a day. No ten-step routine required.",
-  hydration: "Founders and creators who present themselves every day start their morning the same way. Skin that feels tight and thirsty by midday is exactly what this serum is made for. A blend of glycerin, sodium PCA, and sodium hyaluronate provides deep hydration, while panthenol conditions — so skin feels comfortable and looks plump, not greasy.",
-  even_tone: "Founders and creators who present themselves every day start their morning the same way. An uneven-looking complexion is a common frustration. PDRN and peptides help promote a more luminous, vibrant-looking complexion, and the lightweight formula absorbs quickly and easily — a simple twice-daily step toward a more even look."
+  radiance: "Founders and creators who present themselves every day start their morning the same way. Dull, tired looking skin is one of the most common reasons people start a serum routine. The PDRN Brightening Serum is built around PDRN and peptides, in a lightweight formula that helps skin look smooth and bright, morning and night.",
+  fine_lines: "Founders and creators who present themselves every day start their morning the same way. Fine lines are usually the first thing people want a serum for. This formula pairs acetyl hexapeptide-8 with PDRN, two ingredients chosen to support skin that looks smoother and brighter, in a single step, twice a day. No ten step routine required.",
+  hydration: "Founders and creators who present themselves every day start their morning the same way. Skin that feels tight and dry by midday is exactly what this serum is made for. A blend of glycerin, sodium PCA, and sodium hyaluronate provides deep hydration, while panthenol conditions the skin, so it feels comfortable and hydrated, not greasy.",
+  even_tone: "Founders and creators who present themselves every day start their morning the same way. An uneven looking complexion is a common frustration. PDRN and peptides help skin look brighter and more even, and the lightweight formula absorbs quickly, in a simple step used twice a day."
 };
 
 /* Ingredient groups from the verified Supliful listing. Cosmetic language only. */
 const INGREDIENTS = [
-  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Helps promote a more luminous, vibrant-looking complexion and enhances the appearance of smooth, radiant skin.", match: ["radiance", "dullness", "uneven_tone", "even_tone"] },
+  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Helps skin look brighter, more even, and smooth.", match: ["radiance", "dullness", "uneven_tone", "even_tone"] },
   { key: "peptide", name: "Acetyl hexapeptide-8", text: "A peptide that works alongside PDRN to support skin that looks smoother and more even.", match: ["fine_lines", "texture"] },
-  { key: "ha", name: "Hyaluronic acid, glycerin & sodium PCA", text: "A hydration blend that draws in moisture for a plump, comfortable feel and a silky-smooth texture.", match: ["hydration", "dryness"] },
-  { key: "panthenol", name: "Panthenol", text: "Conditions the skin, leaving it feeling soft and comfortable — a kind base for skin that reacts easily.", match: ["sensitive"] }
+  { key: "ha", name: "Hyaluronic acid, glycerin & sodium PCA", text: "A hydration blend that draws in moisture, for skin that feels comfortable and smooth.", match: ["hydration", "dryness"] },
+  { key: "panthenol", name: "Panthenol", text: "Conditions the skin, leaving it feeling soft and comfortable, a kind base for skin that reacts easily.", match: ["sensitive"] }
 ];
 
 const RAMPS = {
