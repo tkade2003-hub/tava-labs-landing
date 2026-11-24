@@ -1,6 +1,6 @@
 # Tava Labs
 
-> Tava Labs is skincare for the ambitious. The company makes one product, the PDRN Brightening Serum, a daily complexion routine for founders and professionals who pitch, present, and record every day. Your appearance is part of your professional presence.
+> Tava Labs is skincare for entrepreneurs. The company makes one product, the PDRN Brightening Serum, a daily complexion routine for founders and professionals who pitch, present, and record every day. Your appearance is part of your professional presence.
 
 ## Product
 
@@ -10,7 +10,7 @@
 
 ## Company
 
-- [About Tava Labs](https://tavalabs.app/about.html): Skincare for the ambitious, and why Tava Labs exists.
+- [About Tava Labs](https://tavalabs.app/about.html): Skincare for entrepreneurs, and why Tava Labs exists.
 - [Partners](https://tavalabs.app/partners.html): Accelerators, incubators, universities, and angel groups can give founders in their program a free one month supply of the serum.
 - [Contact](https://tavalabs.app/contact.html): Contact Tava Labs at support@tavalabs.app for orders and product help, or at talia@tavalabs.app for general contact. Tava Labs, LLC, 1521 Blake St STE 95593, Denver, CO 80202.
 
