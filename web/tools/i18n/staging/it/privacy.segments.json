@@ -1,0 +1,1319 @@
+{
+ "slug": "privacy",
+ "title": "Informativa sulla privacy | Tava Labs",
+ "description": "Come Tava Labs raccoglie, utilizza e protegge le tue informazioni quando visiti tavalabs.app, fai il quiz sulla pelle o ordini il PDRN Brightening Serum.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "Legale"
+  },
+  {
+   "id": 1,
+   "text": "Informativa sulla privacy"
+  },
+  {
+   "id": 2,
+   "text": "Ultimo aggiornamento 05 novembre 2026"
+  },
+  {
+   "id": 3,
+   "text": "La presente Informativa sulla privacy per Tava Labs, LLC (operante con il nome Tava) (&quot;noi,&quot; &quot;ci&quot; o &quot;nostro&quot;) descrive come e perché possiamo accedere a, raccogliere, conservare, utilizzare e/o condividere (&quot;trattare&quot;) le tue informazioni personali quando utilizzi i nostri servizi (&quot;Servizi&quot;), anche quando:"
+  },
+  {
+   "id": 4,
+   "text": "Visiti il nostro sito web all'indirizzo "
+  },
+  {
+   "id": 5,
+   "text": "http://www.tavalabs.app"
+  },
+  {
+   "id": 6,
+   "text": " o qualsiasi nostro sito web che rimanda alla presente Informativa sulla privacy"
+  },
+  {
+   "id": 7,
+   "text": "Usi Founder Wellness Score. Una piattaforma di benessere per fondatori e dirigenti, per misurare stress, sonno e aspetto e ricevere raccomandazioni di integratori e peptidi su prescrizione."
+  },
+  {
+   "id": 8,
+   "text": "Interagisci con noi in altri modi correlati, inclusi marketing o eventi"
+  },
+  {
+   "id": 9,
+   "text": "Domande o dubbi?"
+  },
+  {
+   "id": 10,
+   "text": " La lettura della presente Informativa sulla privacy ti aiuterà a comprendere i tuoi diritti e le tue scelte in materia di privacy. Siamo responsabili delle decisioni su come vengono trattate le tue informazioni personali. Se non accetti le nostre politiche e pratiche, ti invitiamo a non utilizzare i nostri Servizi. Se hai ancora domande o dubbi, contattaci all'indirizzo "
+  },
+  {
+   "id": 11,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 12,
+   "text": "."
+  },
+  {
+   "id": 13,
+   "text": "SINTESI DEI PUNTI CHIAVE"
+  },
+  {
+   "id": 14,
+   "text": "Questa sintesi fornisce i punti chiave della nostra Informativa sulla privacy, ma puoi trovare maggiori dettagli su ciascuno di questi argomenti cliccando sul link che segue ogni punto chiave o utilizzando il nostro "
+  },
+  {
+   "id": 15,
+   "text": "indice"
+  },
+  {
+   "id": 16,
+   "text": " qui sotto per trovare la sezione che stai cercando."
+  },
+  {
+   "id": 17,
+   "text": "Quali informazioni personali trattiamo?"
+  },
+  {
+   "id": 18,
+   "text": " Quando visiti, utilizzi o navighi nei nostri Servizi, possiamo trattare informazioni personali a seconda di come interagisci con noi e con i Servizi, delle scelte che fai e dei prodotti e delle funzioni che utilizzi. Scopri di più sulle "
+  },
+  {
+   "id": 19,
+   "text": "informazioni personali che ci comunichi"
+  },
+  {
+   "id": 20,
+   "text": "."
+  },
+  {
+   "id": 21,
+   "text": "Trattiamo informazioni personali sensibili?"
+  },
+  {
+   "id": 22,
+   "text": " Alcune informazioni possono essere considerate &quot;particolari&quot; o &quot;sensibili&quot; in determinate giurisdizioni, ad esempio le tue origini razziali o etniche, il tuo orientamento sessuale e le tue convinzioni religiose. Possiamo trattare informazioni personali sensibili quando necessario, con il tuo consenso o come altrimenti consentito dalla legge applicabile. Scopri di più sulle "
+  },
+  {
+   "id": 23,
+   "text": "informazioni sensibili che trattiamo"
+  },
+  {
+   "id": 24,
+   "text": "."
+  },
+  {
+   "id": 25,
+   "text": "Raccogliamo informazioni da terze parti?"
+  },
+  {
+   "id": 26,
+   "text": " Non raccogliamo alcuna informazione da terze parti."
+  },
+  {
+   "id": 27,
+   "text": "Come trattiamo le tue informazioni?"
+  },
+  {
+   "id": 28,
+   "text": " Trattiamo le tue informazioni per fornire, migliorare e amministrare i nostri Servizi, comunicare con te, per la sicurezza e la prevenzione delle frodi e per rispettare la legge. Possiamo inoltre trattare le tue informazioni per altri scopi con il tuo consenso. Trattiamo le tue informazioni solo quando abbiamo una valida ragione giuridica per farlo. Scopri di più su "
+  },
+  {
+   "id": 29,
+   "text": "come trattiamo le tue informazioni"
+  },
+  {
+   "id": 30,
+   "text": "."
+  },
+  {
+   "id": 31,
+   "text": "In quali situazioni e con quali parti condividiamo le informazioni personali?"
+  },
+  {
+   "id": 32,
+   "text": " Possiamo condividere informazioni in situazioni specifiche e con terze parti specifiche. Scopri di più su "
+  },
+  {
+   "id": 33,
+   "text": "quando e con chi condividiamo le tue informazioni personali"
+  },
+  {
+   "id": 34,
+   "text": "."
+  },
+  {
+   "id": 35,
+   "text": "Come manteniamo al sicuro le tue informazioni?"
+  },
+  {
+   "id": 36,
+   "text": " Abbiamo messo in atto processi e procedure organizzativi e tecnici adeguati per proteggere le tue informazioni personali. Tuttavia, nessuna trasmissione elettronica su Internet e nessuna tecnologia di archiviazione delle informazioni può essere garantita come sicura al 100%, pertanto non possiamo promettere o garantire che hacker, criminali informatici o altre terze parti non autorizzate non siano in grado di eludere la nostra sicurezza e raccogliere, accedere, rubare o modificare impropriamente le tue informazioni. Scopri di più su "
+  },
+  {
+   "id": 37,
+   "text": "come manteniamo al sicuro le tue informazioni"
+  },
+  {
+   "id": 38,
+   "text": "."
+  },
+  {
+   "id": 39,
+   "text": "Quali sono i tuoi diritti?"
+  },
+  {
+   "id": 40,
+   "text": " A seconda del luogo in cui ti trovi geograficamente, la legge sulla privacy applicabile può significare che hai determinati diritti riguardo alle tue informazioni personali. Scopri di più sui "
+  },
+  {
+   "id": 41,
+   "text": "tuoi diritti in materia di privacy"
+  },
+  {
+   "id": 42,
+   "text": "."
+  },
+  {
+   "id": 43,
+   "text": "Come puoi esercitare i tuoi diritti?"
+  },
+  {
+   "id": 44,
+   "text": " Il modo più semplice per esercitare i tuoi diritti è visitare "
+  },
+  {
+   "id": 45,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 46,
+   "text": ", o contattandoci. Prenderemo in considerazione qualsiasi richiesta e vi daremo seguito in conformità con le leggi applicabili sulla protezione dei dati."
+  },
+  {
+   "id": 47,
+   "text": "Vuoi saperne di più su cosa facciamo con le informazioni che raccogliamo? "
+  },
+  {
+   "id": 48,
+   "text": "Consulta l'Informativa sulla privacy per intero"
+  },
+  {
+   "id": 49,
+   "text": "."
+  },
+  {
+   "id": 50,
+   "text": "INDICE"
+  },
+  {
+   "id": 51,
+   "text": "1. QUALI INFORMAZIONI RACCOGLIAMO?"
+  },
+  {
+   "id": 52,
+   "text": "2. COME TRATTIAMO LE TUE INFORMAZIONI?"
+  },
+  {
+   "id": 53,
+   "text": "3. QUANDO E CON CHI CONDIVIDIAMO LE TUE INFORMAZIONI PERSONALI?"
+  },
+  {
+   "id": 54,
+   "text": "4. UTILIZZIAMO COOKIE E ALTRE TECNOLOGIE DI TRACCIAMENTO?"
+  },
+  {
+   "id": 55,
+   "text": "5. OFFRIAMO PRODOTTI BASATI SULL'INTELLIGENZA ARTIFICIALE?"
+  },
+  {
+   "id": 56,
+   "text": "6. COME GESTIAMO I TUOI ACCESSI TRAMITE SOCIAL?"
+  },
+  {
+   "id": 57,
+   "text": "7. PER QUANTO TEMPO CONSERVIAMO LE TUE INFORMAZIONI?"
+  },
+  {
+   "id": 58,
+   "text": "8. COME MANTENIAMO AL SICURO LE TUE INFORMAZIONI?"
+  },
+  {
+   "id": 59,
+   "text": "9. RACCOGLIAMO INFORMAZIONI DAI MINORI?"
+  },
+  {
+   "id": 60,
+   "text": "10. QUALI SONO I TUOI DIRITTI IN MATERIA DI PRIVACY?"
+  },
+  {
+   "id": 61,
+   "text": "11. CONTROLLI PER LE FUNZIONI DO NOT TRACK"
+  },
+  {
+   "id": 62,
+   "text": "12. I RESIDENTI NEGLI STATI UNITI HANNO DIRITTI SPECIFICI IN MATERIA DI PRIVACY?"
+  },
+  {
+   "id": 63,
+   "text": "13. AGGIORNIAMO LA PRESENTE INFORMATIVA?"
+  },
+  {
+   "id": 64,
+   "text": "14. COME PUOI CONTATTARCI IN MERITO ALLA PRESENTE INFORMATIVA?"
+  },
+  {
+   "id": 65,
+   "text": "15. COME PUOI CONSULTARE, AGGIORNARE O ELIMINARE I DATI CHE RACCOGLIAMO DA TE?"
+  },
+  {
+   "id": 66,
+   "text": "1. QUALI INFORMAZIONI RACCOGLIAMO?"
+  },
+  {
+   "id": 67,
+   "text": "Informazioni personali che ci comunichi"
+  },
+  {
+   "id": 68,
+   "text": "In breve: raccogliamo le informazioni personali che ci fornisci."
+  },
+  {
+   "id": 69,
+   "text": "Raccogliamo le informazioni personali che ci fornisci volontariamente quando ti registri ai Servizi, esprimi interesse a ottenere informazioni su di noi o sui nostri prodotti e Servizi, quando partecipi ad attività sui Servizi o quando altrimenti ci contatti."
+  },
+  {
+   "id": 70,
+   "text": "Informazioni personali fornite da te."
+  },
+  {
+   "id": 71,
+   "text": " Le informazioni personali che raccogliamo dipendono dal contesto delle tue interazioni con noi e con i Servizi, dalle scelte che fai e dai prodotti e dalle funzioni che utilizzi. Le informazioni personali che raccogliamo possono includere quanto segue:"
+  },
+  {
+   "id": 72,
+   "text": "nomi"
+  },
+  {
+   "id": 73,
+   "text": "indirizzi email"
+  },
+  {
+   "id": 74,
+   "text": "password"
+  },
+  {
+   "id": 75,
+   "text": "indirizzi di fatturazione"
+  },
+  {
+   "id": 76,
+   "text": "numeri di carte di debito e di credito"
+  },
+  {
+   "id": 77,
+   "text": "Informazioni sensibili."
+  },
+  {
+   "id": 78,
+   "text": " Quando necessario, con il tuo consenso o come altrimenti consentito dalla legge applicabile, trattiamo le seguenti categorie di informazioni sensibili:"
+  },
+  {
+   "id": 79,
+   "text": "dati sanitari"
+  },
+  {
+   "id": 80,
+   "text": "Dati di pagamento."
+  },
+  {
+   "id": 81,
+   "text": " Possiamo raccogliere i dati necessari per elaborare il tuo pagamento se scegli di effettuare acquisti, come il numero del tuo strumento di pagamento e il codice di sicurezza associato al tuo strumento di pagamento. Tutti i dati di pagamento sono gestiti e conservati da Stripe, Inc. Puoi trovare il link alla loro informativa sulla privacy qui: "
+  },
+  {
+   "id": 82,
+   "text": "https://stripe.com/privacy-policy"
+  },
+  {
+   "id": 83,
+   "text": "."
+  },
+  {
+   "id": 84,
+   "text": "Dati di accesso tramite social media."
+  },
+  {
+   "id": 85,
+   "text": " Possiamo offrirti la possibilità di registrarti con noi utilizzando i dati del tuo account social media esistente, come il tuo account Facebook, X o un altro account social. Se scegli di registrarti in questo modo, raccoglieremo determinate informazioni del tuo profilo dal fornitore del social media, come descritto nella sezione intitolata &quot;"
+  },
+  {
+   "id": 86,
+   "text": "COME GESTIAMO I TUOI ACCESSI TRAMITE SOCIAL?"
+  },
+  {
+   "id": 87,
+   "text": "&quot; qui sotto."
+  },
+  {
+   "id": 88,
+   "text": "Tutte le informazioni personali che ci fornisci devono essere veritiere, complete e accurate, e devi comunicarci qualsiasi modifica a tali informazioni personali."
+  },
+  {
+   "id": 89,
+   "text": "Informazioni raccolte automaticamente"
+  },
+  {
+   "id": 90,
+   "text": "In breve: alcune informazioni, come il tuo indirizzo di protocollo Internet (IP) e/o le caratteristiche del tuo browser e del tuo dispositivo, vengono raccolte automaticamente quando visiti i nostri Servizi."
+  },
+  {
+   "id": 91,
+   "text": "Raccogliamo automaticamente determinate informazioni quando visiti, utilizzi o navighi nei Servizi. Queste informazioni non rivelano la tua identità specifica (come il tuo nome o le tue informazioni di contatto), ma possono includere informazioni sul dispositivo e sull'utilizzo, come il tuo indirizzo IP, le caratteristiche del browser e del dispositivo, il sistema operativo, le preferenze linguistiche, gli URL di provenienza, il nome del dispositivo, il Paese, la posizione, informazioni su come e quando utilizzi i nostri Servizi e altre informazioni tecniche. Queste informazioni sono necessarie principalmente per mantenere la sicurezza e il funzionamento dei nostri Servizi e per i nostri scopi interni di analisi e rendicontazione."
+  },
+  {
+   "id": 92,
+   "text": "Le informazioni che raccogliamo includono:"
+  },
+  {
+   "id": 93,
+   "text": "Dati di registro e di utilizzo."
+  },
+  {
+   "id": 94,
+   "text": " I dati di registro e di utilizzo sono informazioni relative al servizio, diagnostiche, di utilizzo e di prestazione che i nostri server raccolgono automaticamente quando accedi ai Servizi o li utilizzi e che registriamo nei file di log. A seconda di come interagisci con noi, questi dati di registro possono includere il tuo indirizzo IP, informazioni sul dispositivo, tipo e impostazioni del browser e informazioni sulla tua attività nei Servizi (come i marcatori temporali di data e ora associati al tuo utilizzo, le pagine e i file visualizzati, le ricerche e altre azioni che compi, come le funzioni che utilizzi), informazioni sugli eventi del dispositivo (come l'attività di sistema, le segnalazioni di errore, talvolta chiamate &quot;crash dump&quot;, e le impostazioni hardware)."
+  },
+  {
+   "id": 95,
+   "text": "Dati del dispositivo."
+  },
+  {
+   "id": 96,
+   "text": " Raccogliamo dati del dispositivo, come informazioni sul tuo computer, telefono, tablet o altro dispositivo che utilizzi per accedere ai Servizi. A seconda del dispositivo utilizzato, questi dati possono includere informazioni come il tuo indirizzo IP (o il server proxy), i numeri di identificazione del dispositivo e dell'applicazione, la posizione, il tipo di browser, il modello hardware, il fornitore di servizi Internet e/o l'operatore di telefonia mobile, il sistema operativo e le informazioni di configurazione del sistema."
+  },
+  {
+   "id": 97,
+   "text": "Dati di posizione."
+  },
+  {
+   "id": 98,
+   "text": " Raccogliamo dati di posizione, come informazioni sulla posizione del tuo dispositivo, che possono essere precisi o imprecisi. La quantità di informazioni che raccogliamo dipende dal tipo e dalle impostazioni del dispositivo che utilizzi per accedere ai Servizi. Ad esempio, possiamo utilizzare il GPS e altre tecnologie per raccogliere dati di geolocalizzazione che ci indicano la tua posizione attuale (in base al tuo indirizzo IP). Puoi opporti a consentirci di raccogliere queste informazioni rifiutando l'accesso alle informazioni o disabilitando l'impostazione di Posizione sul tuo dispositivo. Tuttavia, se scegli di opporti, potresti non essere in grado di utilizzare determinati aspetti dei Servizi."
+  },
+  {
+   "id": 99,
+   "text": "2. COME TRATTIAMO LE TUE INFORMAZIONI?"
+  },
+  {
+   "id": 100,
+   "text": "In breve: trattiamo le tue informazioni per fornire, migliorare e amministrare i nostri Servizi, comunicare con te, per la sicurezza e la prevenzione delle frodi e per rispettare la legge. Possiamo inoltre trattare le tue informazioni per altri scopi con il tuo consenso."
+  },
+  {
+   "id": 101,
+   "text": "Trattiamo le tue informazioni personali per una varietà di motivi, a seconda di come interagisci con i nostri Servizi, tra cui:"
+  },
+  {
+   "id": 102,
+   "text": "Per facilitare la creazione dell'account, l'autenticazione e altrimenti gestire gli account degli utenti."
+  },
+  {
+   "id": 103,
+   "text": " Possiamo trattare le tue informazioni in modo che tu possa creare il tuo account, accedervi e mantenerlo funzionante."
+  },
+  {
+   "id": 104,
+   "text": "Per fornire e facilitare la fornitura dei servizi all'utente."
+  },
+  {
+   "id": 105,
+   "text": " Possiamo trattare le tue informazioni per fornirti il servizio richiesto."
+  },
+  {
+   "id": 106,
+   "text": "Per rispondere alle richieste degli utenti e offrire assistenza agli utenti."
+  },
+  {
+   "id": 107,
+   "text": " Possiamo trattare le tue informazioni per rispondere alle tue richieste e risolvere eventuali problemi che potresti avere con il servizio richiesto."
+  },
+  {
+   "id": 108,
+   "text": "Per inviarti informazioni amministrative."
+  },
+  {
+   "id": 109,
+   "text": " Possiamo trattare le tue informazioni per inviarti dettagli sui nostri prodotti e servizi, modifiche ai nostri termini e alle nostre politiche e altre informazioni simili."
+  },
+  {
+   "id": 110,
+   "text": "Per evadere e gestire i tuoi ordini."
+  },
+  {
+   "id": 111,
+   "text": " Possiamo trattare le tue informazioni per evadere e gestire i tuoi ordini, pagamenti, resi e cambi effettuati tramite i Servizi."
+  },
+  {
+   "id": 112,
+   "text": "Per richiedere feedback."
+  },
+  {
+   "id": 113,
+   "text": " Possiamo trattare le tue informazioni quando è necessario per richiedere feedback e contattarti in merito al tuo utilizzo dei nostri Servizi."
+  },
+  {
+   "id": 114,
+   "text": "Per pubblicare testimonianze."
+  },
+  {
+   "id": 115,
+   "text": " Pubblichiamo testimonianze sui nostri Servizi, che possono contenere informazioni personali."
+  },
+  {
+   "id": 116,
+   "text": "Per valutare e migliorare i nostri Servizi, prodotti, marketing e la tua esperienza."
+  },
+  {
+   "id": 117,
+   "text": " Possiamo trattare le tue informazioni quando riteniamo necessario identificare le tendenze di utilizzo, determinare l'efficacia delle nostre campagne promozionali e valutare e migliorare i nostri Servizi, prodotti, marketing e la tua esperienza."
+  },
+  {
+   "id": 118,
+   "text": "Per identificare le tendenze di utilizzo."
+  },
+  {
+   "id": 119,
+   "text": " Possiamo trattare informazioni su come utilizzi i nostri Servizi per comprendere meglio come vengono utilizzati, così da poterli migliorare."
+  },
+  {
+   "id": 120,
+   "text": "3. QUANDO E CON CHI CONDIVIDIAMO LE TUE INFORMAZIONI PERSONALI?"
+  },
+  {
+   "id": 121,
+   "text": "In breve: possiamo condividere informazioni nelle situazioni specifiche descritte in questa sezione e/o con le seguenti terze parti."
+  },
+  {
+   "id": 122,
+   "text": "Potremmo dover condividere le tue informazioni personali nelle seguenti situazioni:"
+  },
+  {
+   "id": 123,
+   "text": "Trasferimenti di azienda."
+  },
+  {
+   "id": 124,
+   "text": " Possiamo condividere o trasferire le tue informazioni in relazione a, o durante le trattative di, qualsiasi fusione, vendita di beni aziendali, finanziamento o acquisizione di tutta o parte della nostra attività a un'altra società."
+  },
+  {
+   "id": 125,
+   "text": "Partner commerciali."
+  },
+  {
+   "id": 126,
+   "text": " Possiamo condividere le tue informazioni con i nostri partner commerciali per offrirti determinati prodotti, servizi o promozioni."
+  },
+  {
+   "id": 127,
+   "text": "4. UTILIZZIAMO COOKIE E ALTRE TECNOLOGIE DI TRACCIAMENTO?"
+  },
+  {
+   "id": 128,
+   "text": "In breve: possiamo utilizzare cookie e altre tecnologie di tracciamento per raccogliere e conservare le tue informazioni."
+  },
+  {
+   "id": 129,
+   "text": "Possiamo utilizzare cookie e tecnologie di tracciamento simili (come web beacon e pixel) per raccogliere informazioni quando interagisci con i nostri Servizi. Alcune tecnologie di tracciamento online ci aiutano a mantenere la sicurezza dei nostri Servizi e del tuo account, prevenire arresti anomali, correggere bug, salvare le tue preferenze e supportare le funzioni di base del sito."
+  },
+  {
+   "id": 130,
+   "text": "Consentiamo inoltre a terze parti e fornitori di servizi di utilizzare tecnologie di tracciamento online sui nostri Servizi per analisi e pubblicità, anche per aiutare a gestire e mostrare annunci pubblicitari o per adattare gli annunci ai tuoi interessi. Le terze parti e i fornitori di servizi utilizzano la loro tecnologia per fornire pubblicità su prodotti e servizi adattati ai tuoi interessi, che possono comparire sui nostri Servizi o su altri siti web."
+  },
+  {
+   "id": 131,
+   "text": "Nella misura in cui queste tecnologie di tracciamento online sono considerate una &quot;vendita&quot; o &quot;condivisione&quot; (che include la pubblicità mirata, come definita dalle leggi applicabili) ai sensi delle leggi statali statunitensi applicabili, puoi opporti a queste tecnologie di tracciamento online presentando una richiesta come descritto qui sotto nella sezione &quot;"
+  },
+  {
+   "id": 132,
+   "text": "I RESIDENTI NEGLI STATI UNITI HANNO DIRITTI SPECIFICI IN MATERIA DI PRIVACY?"
+  },
+  {
+   "id": 133,
+   "text": "&quot;"
+  },
+  {
+   "id": 134,
+   "text": "Informazioni specifiche su come utilizziamo tali tecnologie e su come puoi rifiutare determinati cookie sono riportate nella nostra Informativa sui cookie."
+  },
+  {
+   "id": 135,
+   "text": "Google Analytics"
+  },
+  {
+   "id": 136,
+   "text": "Possiamo condividere le tue informazioni con Google Analytics per tracciare e analizzare l'uso dei Servizi. Le Funzioni Pubblicitarie di Google Analytics che possiamo utilizzare includono: il Rapporto sulle impressioni della Rete Display di Google e il Rapporto sui dati demografici e sugli interessi di Google Analytics. Per opporti al tracciamento da parte di Google Analytics in tutti i Servizi, visita "
+  },
+  {
+   "id": 137,
+   "text": "https://tools.google.com/dlpage/gaoptout"
+  },
+  {
+   "id": 138,
+   "text": ". Puoi opporti alle Funzioni Pubblicitarie di Google Analytics tramite le "
+  },
+  {
+   "id": 139,
+   "text": "Impostazioni annunci"
+  },
+  {
+   "id": 140,
+   "text": " e le Impostazioni annunci per le app mobili. Altri mezzi di opposizione includono "
+  },
+  {
+   "id": 141,
+   "text": "http://optout.networkadvertising.org/"
+  },
+  {
+   "id": 142,
+   "text": " e "
+  },
+  {
+   "id": 143,
+   "text": "http://www.networkadvertising.org/mobile-choice"
+  },
+  {
+   "id": 144,
+   "text": ". Per maggiori informazioni sulle pratiche in materia di privacy di Google, visita la pagina "
+  },
+  {
+   "id": 145,
+   "text": "Pagina Privacy &amp; Termini di Google"
+  },
+  {
+   "id": 146,
+   "text": "."
+  },
+  {
+   "id": 147,
+   "text": "5. OFFRIAMO PRODOTTI BASATI SULL'INTELLIGENZA ARTIFICIALE?"
+  },
+  {
+   "id": 148,
+   "text": "In breve: offriamo prodotti, funzioni o strumenti basati su intelligenza artificiale, apprendimento automatico o tecnologie simili."
+  },
+  {
+   "id": 149,
+   "text": "Nell'ambito dei nostri Servizi, offriamo prodotti, funzioni o strumenti basati su intelligenza artificiale, apprendimento automatico o tecnologie simili (collettivamente, i &quot;Prodotti IA&quot;). Questi strumenti sono progettati per migliorare la tua esperienza e fornirti soluzioni innovative. I termini della presente Informativa sulla privacy disciplinano il tuo utilizzo dei Prodotti IA all'interno dei nostri Servizi."
+  },
+  {
+   "id": 150,
+   "text": "Uso delle tecnologie IA"
+  },
+  {
+   "id": 151,
+   "text": "Forniamo i Prodotti IA tramite fornitori di servizi terzi (&quot;Fornitori di Servizi IA&quot;), incluso OpenAI. Come indicato nella presente Informativa sulla privacy, i tuoi input, i tuoi output e le tue informazioni personali saranno condivisi con tali Fornitori di Servizi IA e da essi trattati, per consentirti di utilizzare i nostri Prodotti IA per gli scopi indicati in &quot;"
+  },
+  {
+   "id": 152,
+   "text": "QUANDO E CON CHI CONDIVIDIAMO LE TUE INFORMAZIONI PERSONALI?"
+  },
+  {
+   "id": 153,
+   "text": "&quot; Non devi utilizzare i Prodotti IA in alcun modo che violi i termini o le politiche di qualsiasi Fornitore di Servizi IA."
+  },
+  {
+   "id": 154,
+   "text": "I nostri Prodotti IA"
+  },
+  {
+   "id": 155,
+   "text": "I nostri Prodotti IA sono progettati per le seguenti funzioni:"
+  },
+  {
+   "id": 156,
+   "text": "Approfondimenti IA"
+  },
+  {
+   "id": 157,
+   "text": "Come trattiamo i tuoi dati utilizzando l'IA"
+  },
+  {
+   "id": 158,
+   "text": "Tutte le informazioni personali trattate utilizzando i nostri Prodotti IA sono gestite in linea con la nostra Informativa sulla privacy e con il nostro accordo con le terze parti. Ciò garantisce un'elevata sicurezza e protegge le tue informazioni personali durante tutto il processo, dandoti tranquillità sulla sicurezza dei tuoi dati."
+  },
+  {
+   "id": 159,
+   "text": "6. COME GESTIAMO I TUOI ACCESSI TRAMITE SOCIAL?"
+  },
+  {
+   "id": 160,
+   "text": "In breve: se scegli di registrarti o accedere ai nostri Servizi utilizzando un account social media, possiamo avere accesso a determinate informazioni su di te."
+  },
+  {
+   "id": 161,
+   "text": "I nostri Servizi ti offrono la possibilità di registrarti e accedere utilizzando i dati del tuo account social media di terze parti (come i tuoi accessi Facebook o X). Se scegli di farlo, riceveremo determinate informazioni del tuo profilo dal tuo fornitore di social media. Le informazioni del profilo che riceviamo possono variare a seconda del fornitore di social media interessato, ma spesso includeranno il tuo nome, il tuo indirizzo email, la tua lista di amici e la tua immagine del profilo, nonché altre informazioni che scegli di rendere pubbliche su tale piattaforma social media."
+  },
+  {
+   "id": 162,
+   "text": "Utilizzeremo le informazioni che riceviamo solo per gli scopi descritti nella presente Informativa sulla privacy o altrimenti resi chiari a te sui Servizi pertinenti. Ti informiamo che non controlliamo, e non siamo responsabili di, altri usi delle tue informazioni personali da parte del tuo fornitore terzo di social media. Ti consigliamo di consultare la loro informativa sulla privacy per comprendere come raccolgono, utilizzano e condividono le tue informazioni personali e come puoi impostare le tue preferenze sulla privacy sui loro siti e sulle loro app."
+  },
+  {
+   "id": 163,
+   "text": "7. PER QUANTO TEMPO CONSERVIAMO LE TUE INFORMAZIONI?"
+  },
+  {
+   "id": 164,
+   "text": "In breve: conserviamo le tue informazioni per tutto il tempo necessario a realizzare gli scopi indicati nella presente Informativa sulla privacy, salvo quanto diversamente richiesto dalla legge."
+  },
+  {
+   "id": 165,
+   "text": "Conserveremo le tue informazioni personali solo per tutto il tempo necessario agli scopi stabiliti nella presente Informativa sulla privacy, salvo che un periodo di conservazione più lungo sia richiesto o consentito dalla legge (come obblighi fiscali, contabili o altri requisiti legali). Nessuno scopo della presente informativa ci richiederà di conservare le tue informazioni personali per un periodo superiore a quello in cui gli utenti hanno un account presso di noi."
+  },
+  {
+   "id": 166,
+   "text": "Quando non avremo più alcuna esigenza aziendale legittima e continuativa di trattare le tue informazioni personali, elimineremo o anonimizzeremo tali informazioni oppure, se ciò non è possibile (ad esempio perché le tue informazioni personali sono state conservate in archivi di backup), conserveremo le tue informazioni personali in modo sicuro e le isoleremo da qualsiasi ulteriore trattamento fino a quando l'eliminazione sarà possibile."
+  },
+  {
+   "id": 167,
+   "text": "8. COME MANTENIAMO AL SICURO LE TUE INFORMAZIONI?"
+  },
+  {
+   "id": 168,
+   "text": "In breve: miriamo a proteggere le tue informazioni personali attraverso un sistema di misure di sicurezza organizzative e tecniche."
+  },
+  {
+   "id": 169,
+   "text": "Abbiamo implementato misure di sicurezza tecniche e organizzative appropriate e ragionevoli, progettate per proteggere la sicurezza di qualsiasi informazione personale che trattiamo. Tuttavia, nonostante le nostre misure di protezione e i nostri sforzi per mettere al sicuro le tue informazioni, nessuna trasmissione elettronica su Internet e nessuna tecnologia di archiviazione delle informazioni può essere garantita come sicura al 100%, pertanto non possiamo promettere o garantire che hacker, criminali informatici o altre terze parti non autorizzate non siano in grado di eludere la nostra sicurezza e raccogliere, accedere, rubare o modificare impropriamente le tue informazioni. Sebbene faremo del nostro meglio per proteggere le tue informazioni personali, la trasmissione di informazioni personali da e verso i nostri Servizi avviene a tuo rischio. Dovresti accedere ai Servizi solo all'interno di un ambiente sicuro."
+  },
+  {
+   "id": 170,
+   "text": "9. RACCOGLIAMO INFORMAZIONI DAI MINORI?"
+  },
+  {
+   "id": 171,
+   "text": "In breve: non raccogliamo consapevolmente dati da bambini di età inferiore ai 18 anni, né rivolgiamo loro il nostro marketing."
+  },
+  {
+   "id": 172,
+   "text": "Non raccogliamo consapevolmente dati da bambini di età inferiore ai 18 anni, non li sollecitiamo né rivolgiamo loro il nostro marketing, e non vendiamo consapevolmente tali informazioni personali. Utilizzando i Servizi, dichiari di avere almeno 18 anni, oppure di essere il genitore o il tutore di tale minore e di acconsentire all'uso dei Servizi da parte di tale minore a tuo carico. Se veniamo a sapere che sono state raccolte informazioni personali da utenti di età inferiore ai 18 anni, disattiveremo l'account e adotteremo misure ragionevoli per eliminare tempestivamente tali dati dai nostri archivi. Se vieni a conoscenza di dati che potremmo aver raccolto da bambini di età inferiore ai 18 anni, contattaci all'indirizzo "
+  },
+  {
+   "id": 173,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 174,
+   "text": "."
+  },
+  {
+   "id": 175,
+   "text": "10. QUALI SONO I TUOI DIRITTI IN MATERIA DI PRIVACY?"
+  },
+  {
+   "id": 176,
+   "text": "Revoca del tuo consenso:"
+  },
+  {
+   "id": 177,
+   "text": " Se ci basiamo sul tuo consenso per trattare le tue informazioni personali, che può essere un consenso espresso e/o implicito a seconda della legge applicabile, hai il diritto di revocare il tuo consenso in qualsiasi momento. Puoi revocare il tuo consenso in qualsiasi momento contattandoci utilizzando i recapiti forniti nella sezione &quot;"
+  },
+  {
+   "id": 178,
+   "text": "COME PUOI CONTATTARCI IN MERITO ALLA PRESENTE INFORMATIVA?"
+  },
+  {
+   "id": 179,
+   "text": "&quot; qui sotto."
+  },
+  {
+   "id": 180,
+   "text": "Tuttavia, ti informiamo che ciò non inciderà sulla liceità del trattamento precedente alla revoca né, quando la legge applicabile lo consente, inciderà sul trattamento delle tue informazioni personali effettuato sulla base di motivi di trattamento leciti diversi dal consenso."
+  },
+  {
+   "id": 181,
+   "text": "Informazioni sull'account"
+  },
+  {
+   "id": 182,
+   "text": "Se in qualsiasi momento desideri consultare o modificare le informazioni del tuo account, o chiudere il tuo account, puoi:"
+  },
+  {
+   "id": 183,
+   "text": "Accedere alle impostazioni del tuo account e aggiornare il tuo account utente."
+  },
+  {
+   "id": 184,
+   "text": "Su tua richiesta di chiusura del tuo account, disattiveremo o elimineremo il tuo account e le tue informazioni dalle nostre banche dati attive. Tuttavia, possiamo conservare alcune informazioni nei nostri archivi per prevenire frodi, risolvere problemi, assistere in eventuali indagini, far rispettare i nostri termini legali e/o rispettare i requisiti legali applicabili."
+  },
+  {
+   "id": 185,
+   "text": "Se hai domande o commenti sui tuoi diritti in materia di privacy, puoi scriverci all'indirizzo "
+  },
+  {
+   "id": 186,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 187,
+   "text": "."
+  },
+  {
+   "id": 188,
+   "text": "11. CONTROLLI PER LE FUNZIONI DO NOT TRACK"
+  },
+  {
+   "id": 189,
+   "text": "La maggior parte dei browser web e alcuni sistemi operativi mobili e applicazioni mobili includono una funzione o impostazione Do Not Track (&quot;DNT&quot;) che puoi attivare per segnalare la tua preferenza di privacy affinché i dati sulle tue attività di navigazione online non siano monitorati e raccolti. In questa fase, non è stato definito alcuno standard tecnologico uniforme per riconoscere e implementare i segnali DNT. Di conseguenza, al momento non rispondiamo ai segnali DNT dei browser né ad alcun altro meccanismo che comunichi automaticamente la tua scelta di non essere tracciato online. Se in futuro verrà adottato uno standard per il tracciamento online che dovremo seguire, ti informeremo di tale pratica in una versione aggiornata della presente Informativa sulla privacy."
+  },
+  {
+   "id": 190,
+   "text": "La legge della California ci richiede di informarti su come rispondiamo ai segnali DNT dei browser web. Poiché al momento non esiste uno standard di settore o legale per riconoscere o onorare i segnali DNT, al momento non vi rispondiamo."
+  },
+  {
+   "id": 191,
+   "text": "Global Privacy Control:"
+  },
+  {
+   "id": 192,
+   "text": " Riconosciamo e onoriamo i segnali Global Privacy Control (GPC). Se utilizzi un browser o un'estensione che supporta il GPC, lo tratteremo come una richiesta valida di opposizione alla vendita o alla condivisione delle tue informazioni personali per scopi di pubblicità mirata ai sensi delle leggi statali sulla privacy applicabili, incluso il California Consumer Privacy Act (CCPA). Quando rileviamo un segnale GPC dal tuo browser, applicheremo automaticamente la tua preferenza di opposizione senza richiederti alcuna azione aggiuntiva. Per maggiori informazioni sul GPC e su come abilitarlo, visita "
+  },
+  {
+   "id": 193,
+   "text": "globalprivacycontrol.org"
+  },
+  {
+   "id": 194,
+   "text": "."
+  },
+  {
+   "id": 195,
+   "text": "12. I RESIDENTI NEGLI STATI UNITI HANNO DIRITTI SPECIFICI IN MATERIA DI PRIVACY?"
+  },
+  {
+   "id": 196,
+   "text": "In breve: se sei residente in California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah o Virginia, puoi avere il diritto di richiedere l'accesso alle informazioni personali che conserviamo su di te e di ricevere dettagli sulle stesse e su come le abbiamo trattate, di correggere inesattezze, di ottenerne una copia o di eliminare le tue informazioni personali. Puoi inoltre avere il diritto di revocare il tuo consenso al nostro trattamento delle tue informazioni personali. Questi diritti possono essere limitati in alcune circostanze dalla legge applicabile. Maggiori informazioni sono fornite qui sotto."
+  },
+  {
+   "id": 197,
+   "text": "Categorie di informazioni personali che raccogliamo"
+  },
+  {
+   "id": 198,
+   "text": "La tabella qui sotto mostra le categorie di informazioni personali che abbiamo raccolto negli ultimi dodici (12) mesi. La tabella include esempi illustrativi di ciascuna categoria e non riflette le informazioni personali che raccogliamo da te. Per un inventario completo di tutte le informazioni personali che trattiamo, consulta la sezione &quot;"
+  },
+  {
+   "id": 199,
+   "text": "QUALI INFORMAZIONI RACCOGLIAMO?"
+  },
+  {
+   "id": 200,
+   "text": "&quot;"
+  },
+  {
+   "id": 201,
+   "text": "Categoria"
+  },
+  {
+   "id": 202,
+   "text": "Esempi"
+  },
+  {
+   "id": 203,
+   "text": "Raccolte"
+  },
+  {
+   "id": 204,
+   "text": "A. Identificativi"
+  },
+  {
+   "id": 205,
+   "text": "Recapiti, come nome reale, alias, indirizzo postale, numero di telefono fisso o mobile, identificativo personale univoco, identificativo online, indirizzo di protocollo Internet, indirizzo email e nome dell'account"
+  },
+  {
+   "id": 206,
+   "text": "SÌ"
+  },
+  {
+   "id": 207,
+   "text": "B. Informazioni personali come definite nello statuto California Customer Records"
+  },
+  {
+   "id": 208,
+   "text": "Nome, informazioni di contatto, istruzione, impiego, storia lavorativa e informazioni finanziarie"
+  },
+  {
+   "id": 209,
+   "text": "SÌ"
+  },
+  {
+   "id": 210,
+   "text": "C. Caratteristiche di classificazione protette ai sensi della legge statale o federale"
+  },
+  {
+   "id": 211,
+   "text": "Genere, età, data di nascita, razza ed etnia, origine nazionale, stato civile e altri dati demografici"
+  },
+  {
+   "id": 212,
+   "text": "NO"
+  },
+  {
+   "id": 213,
+   "text": "D. Informazioni commerciali"
+  },
+  {
+   "id": 214,
+   "text": "Informazioni sulle transazioni, cronologia degli acquisti, dettagli finanziari e informazioni di pagamento"
+  },
+  {
+   "id": 215,
+   "text": "NO"
+  },
+  {
+   "id": 216,
+   "text": "E. Informazioni biometriche"
+  },
+  {
+   "id": 217,
+   "text": "Impronte digitali e impronte vocali"
+  },
+  {
+   "id": 218,
+   "text": "SÌ"
+  },
+  {
+   "id": 219,
+   "text": "F. Attività su Internet o su altre reti simili"
+  },
+  {
+   "id": 220,
+   "text": "Cronologia di navigazione, cronologia delle ricerche, comportamento online, dati sugli interessi e interazioni con i nostri siti web, applicazioni, sistemi e annunci pubblicitari e con quelli di altri"
+  },
+  {
+   "id": 221,
+   "text": "NO"
+  },
+  {
+   "id": 222,
+   "text": "G. Dati di geolocalizzazione"
+  },
+  {
+   "id": 223,
+   "text": "Posizione del dispositivo"
+  },
+  {
+   "id": 224,
+   "text": "NO"
+  },
+  {
+   "id": 225,
+   "text": "H. Informazioni audio, elettroniche, sensoriali o simili"
+  },
+  {
+   "id": 226,
+   "text": "Immagini e registrazioni audio, video o di chiamate create in relazione alle nostre attività aziendali"
+  },
+  {
+   "id": 227,
+   "text": "NO"
+  },
+  {
+   "id": 228,
+   "text": "I. Informazioni professionali o relative all'impiego"
+  },
+  {
+   "id": 229,
+   "text": "Recapiti aziendali per fornirti i nostri Servizi a livello aziendale, oppure qualifica professionale, storia lavorativa e qualifiche professionali se ti candidi per un lavoro presso di noi"
+  },
+  {
+   "id": 230,
+   "text": "NO"
+  },
+  {
+   "id": 231,
+   "text": "J. Informazioni sull'istruzione"
+  },
+  {
+   "id": 232,
+   "text": "Documenti scolastici e informazioni di elenco"
+  },
+  {
+   "id": 233,
+   "text": "NO"
+  },
+  {
+   "id": 234,
+   "text": "K. Inferenze tratte dalle informazioni personali raccolte"
+  },
+  {
+   "id": 235,
+   "text": "Inferenze tratte da qualsiasi informazione personale raccolta sopra elencata per creare un profilo o una sintesi riguardante, ad esempio, le preferenze e le caratteristiche di un individuo"
+  },
+  {
+   "id": 236,
+   "text": "NO"
+  },
+  {
+   "id": 237,
+   "text": "L. Informazioni personali sensibili"
+  },
+  {
+   "id": 238,
+   "text": "Informazioni di accesso all'account, numeri di carte di debito o di credito, dati genetici e dati sanitari"
+  },
+  {
+   "id": 239,
+   "text": "SÌ"
+  },
+  {
+   "id": 240,
+   "text": "Raccogliamo informazioni personali sensibili solo come definite dalle leggi sulla privacy applicabili, o per gli scopi consentiti dalla legge o con il tuo consenso. Le informazioni personali sensibili possono essere utilizzate, o divulgate a un fornitore di servizi o a un appaltatore, per scopi aggiuntivi e specificati. Puoi avere il diritto di limitare l'uso o la divulgazione delle tue informazioni personali sensibili. Non raccogliamo né trattiamo informazioni personali sensibili allo scopo di dedurre caratteristiche su di te."
+  },
+  {
+   "id": 241,
+   "text": "Possiamo inoltre raccogliere altre informazioni personali al di fuori di queste categorie nei casi in cui interagisci con noi di persona, online, o per telefono o posta nel contesto di:"
+  },
+  {
+   "id": 242,
+   "text": "Ricevere aiuto tramite i nostri canali di assistenza clienti;"
+  },
+  {
+   "id": 243,
+   "text": "Partecipazione a sondaggi o concorsi per i clienti; e"
+  },
+  {
+   "id": 244,
+   "text": "Facilitazione della fornitura dei nostri Servizi e risposta alle tue richieste."
+  },
+  {
+   "id": 245,
+   "text": "Utilizzeremo e conserveremo le informazioni personali raccolte per tutto il tempo necessario a fornire i Servizi, o per:"
+  },
+  {
+   "id": 246,
+   "text": "Categoria A: finché l'utente ha un account presso di noi"
+  },
+  {
+   "id": 247,
+   "text": "Categoria B: finché l'utente ha un account presso di noi"
+  },
+  {
+   "id": 248,
+   "text": "Categoria E: finché l'utente ha un account presso di noi"
+  },
+  {
+   "id": 249,
+   "text": "Categoria L: finché l'utente ha un account presso di noi"
+  },
+  {
+   "id": 250,
+   "text": "Fonti delle informazioni personali"
+  },
+  {
+   "id": 251,
+   "text": "Scopri di più sulle fonti delle informazioni personali che raccogliamo in &quot;"
+  },
+  {
+   "id": 252,
+   "text": "QUALI INFORMAZIONI RACCOGLIAMO?"
+  },
+  {
+   "id": 253,
+   "text": "&quot;"
+  },
+  {
+   "id": 254,
+   "text": "Come utilizziamo e condividiamo le informazioni personali"
+  },
+  {
+   "id": 255,
+   "text": "Scopri di più su come utilizziamo le tue informazioni personali nella sezione &quot;"
+  },
+  {
+   "id": 256,
+   "text": "COME TRATTIAMO LE TUE INFORMAZIONI?"
+  },
+  {
+   "id": 257,
+   "text": "&quot;"
+  },
+  {
+   "id": 258,
+   "text": "Le tue informazioni saranno condivise con qualcun altro?"
+  },
+  {
+   "id": 259,
+   "text": "Possiamo divulgare le tue informazioni personali ai nostri fornitori di servizi in base a un contratto scritto tra noi e ciascun fornitore di servizi. Scopri di più su come divulghiamo le informazioni personali nella sezione &quot;"
+  },
+  {
+   "id": 260,
+   "text": "QUANDO E CON CHI CONDIVIDIAMO LE TUE INFORMAZIONI PERSONALI?"
+  },
+  {
+   "id": 261,
+   "text": "&quot;"
+  },
+  {
+   "id": 262,
+   "text": "Possiamo utilizzare le tue informazioni personali per i nostri scopi aziendali, ad esempio per svolgere ricerche interne per lo sviluppo tecnologico e la dimostrazione. Ciò non è considerato una &quot;vendita&quot; delle tue informazioni personali."
+  },
+  {
+   "id": 263,
+   "text": "Non abbiamo divulgato, venduto o condiviso alcuna informazione personale a terze parti per scopi aziendali o commerciali nei precedenti dodici (12) mesi. In futuro non venderemo né condivideremo informazioni personali appartenenti a visitatori del sito web, utenti e altri consumatori."
+  },
+  {
+   "id": 264,
+   "text": "I tuoi diritti"
+  },
+  {
+   "id": 265,
+   "text": "Hai diritti ai sensi di determinate leggi statali statunitensi sulla protezione dei dati. Tuttavia, questi diritti non sono assoluti e, in determinati casi, possiamo rifiutare la tua richiesta come consentito dalla legge. Questi diritti includono:"
+  },
+  {
+   "id": 266,
+   "text": "Diritto di sapere"
+  },
+  {
+   "id": 267,
+   "text": " se stiamo trattando o meno i tuoi dati personali"
+  },
+  {
+   "id": 268,
+   "text": "Diritto di accesso"
+  },
+  {
+   "id": 269,
+   "text": " ai tuoi dati personali"
+  },
+  {
+   "id": 270,
+   "text": "Diritto di correggere"
+  },
+  {
+   "id": 271,
+   "text": " le inesattezze nei tuoi dati personali"
+  },
+  {
+   "id": 272,
+   "text": "Diritto di richiedere"
+  },
+  {
+   "id": 273,
+   "text": " l'eliminazione dei tuoi dati personali"
+  },
+  {
+   "id": 274,
+   "text": "Diritto di ottenere una copia"
+  },
+  {
+   "id": 275,
+   "text": " dei dati personali che hai precedentemente condiviso con noi"
+  },
+  {
+   "id": 276,
+   "text": "Diritto alla non discriminazione"
+  },
+  {
+   "id": 277,
+   "text": " per l'esercizio dei tuoi diritti"
+  },
+  {
+   "id": 278,
+   "text": "Diritto di opposizione"
+  },
+  {
+   "id": 279,
+   "text": " al trattamento dei tuoi dati personali se vengono utilizzati per pubblicità mirata (o condivisione come definita dalla legge sulla privacy della California), per la vendita di dati personali, o per la profilazione a sostegno di decisioni che producono effetti legali o analogamente significativi (&quot;profilazione&quot;)"
+  },
+  {
+   "id": 280,
+   "text": "A seconda dello Stato in cui vivi, puoi inoltre avere i seguenti diritti:"
+  },
+  {
+   "id": 281,
+   "text": "Diritto di accesso alle categorie di dati personali trattate (come consentito dalla legge applicabile, inclusa la legge sulla privacy del Minnesota)"
+  },
+  {
+   "id": 282,
+   "text": "Diritto di ottenere un elenco delle categorie di terze parti a cui abbiamo divulgato dati personali (come consentito dalla legge applicabile, incluse le leggi sulla privacy di California, Delaware e Maryland)"
+  },
+  {
+   "id": 283,
+   "text": "Diritto di ottenere un elenco delle terze parti specifiche a cui abbiamo divulgato dati personali (come consentito dalla legge applicabile, incluse le leggi sulla privacy di Minnesota e Oregon)"
+  },
+  {
+   "id": 284,
+   "text": "Diritto di ottenere un elenco delle terze parti a cui abbiamo venduto dati personali (come consentito dalla legge applicabile, inclusa la legge sulla privacy del Connecticut)"
+  },
+  {
+   "id": 285,
+   "text": "Diritto di consultare, comprendere, contestare e, a seconda del luogo in cui vivi, correggere il modo in cui i dati personali sono stati profilati (come consentito dalla legge applicabile, incluse le leggi sulla privacy di Connecticut e Minnesota)"
+  },
+  {
+   "id": 286,
+   "text": "Diritto di limitare l'uso e la divulgazione dei dati personali sensibili (come consentito dalla legge applicabile, inclusa la legge sulla privacy della California)"
+  },
+  {
+   "id": 287,
+   "text": "Diritto di opposizione alla raccolta di dati sensibili e di dati personali raccolti tramite il funzionamento di una funzione di riconoscimento vocale o facciale (come consentito dalla legge applicabile, inclusa la legge sulla privacy della Florida)"
+  },
+  {
+   "id": 288,
+   "text": "Come esercitare i tuoi diritti"
+  },
+  {
+   "id": 289,
+   "text": "Per esercitare questi diritti, puoi contattarci visitando "
+  },
+  {
+   "id": 290,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 291,
+   "text": ", visitando "
+  },
+  {
+   "id": 292,
+   "text": "http://www.tavalabs.app/contact-us"
+  },
+  {
+   "id": 293,
+   "text": ", o facendo riferimento ai recapiti in fondo al presente documento."
+  },
+  {
+   "id": 294,
+   "text": "Onoreremo le tue preferenze di opposizione se attivi il segnale di opposizione "
+  },
+  {
+   "id": 295,
+   "text": "Global Privacy Control"
+  },
+  {
+   "id": 296,
+   "text": " (GPC) sul tuo browser."
+  },
+  {
+   "id": 297,
+   "text": "Ai sensi di determinate leggi statali statunitensi sulla protezione dei dati, puoi designare un agente autorizzato a presentare una richiesta per tuo conto. Possiamo rifiutare una richiesta proveniente da un agente autorizzato che non presenti la prova di essere stato validamente autorizzato ad agire per tuo conto in conformità con le leggi applicabili."
+  },
+  {
+   "id": 298,
+   "text": "Verifica della richiesta"
+  },
+  {
+   "id": 299,
+   "text": "Al ricevimento della tua richiesta, dovremo verificare la tua identità per determinare che sei la stessa persona a cui si riferiscono le informazioni presenti nel nostro sistema. Utilizzeremo le informazioni personali fornite nella tua richiesta solo per verificare la tua identità o la tua autorità a presentare la richiesta. Tuttavia, se non possiamo verificare la tua identità dalle informazioni già conservate da noi, possiamo chiederti di fornire informazioni aggiuntive allo scopo di verificare la tua identità e per scopi di sicurezza o di prevenzione delle frodi."
+  },
+  {
+   "id": 300,
+   "text": "Se presenti la richiesta tramite un agente autorizzato, potremmo dover raccogliere informazioni aggiuntive per verificare la tua identità prima di elaborare la tua richiesta, e l'agente dovrà fornire un'autorizzazione scritta e firmata da te per presentare tale richiesta per tuo conto."
+  },
+  {
+   "id": 301,
+   "text": "Ricorsi"
+  },
+  {
+   "id": 302,
+   "text": "Ai sensi di determinate leggi statali statunitensi sulla protezione dei dati, se rifiutiamo di dare seguito alla tua richiesta, puoi presentare ricorso contro la nostra decisione scrivendoci all'indirizzo "
+  },
+  {
+   "id": 303,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 304,
+   "text": ". Ti informeremo per iscritto di qualsiasi azione intrapresa o non intrapresa in risposta al ricorso, inclusa una spiegazione scritta dei motivi delle decisioni. Se il tuo ricorso viene respinto, puoi presentare un reclamo al procuratore generale del tuo Stato."
+  },
+  {
+   "id": 305,
+   "text": "Legge &quot;Shine The Light&quot; della California"
+  },
+  {
+   "id": 306,
+   "text": "La Sezione 1798.83 del Codice Civile della California, nota anche come legge &quot;Shine The Light&quot;, consente ai nostri utenti residenti in California di richiedere e ottenere da noi, una volta all'anno e gratuitamente, informazioni sulle categorie di informazioni personali (se del caso) che abbiamo divulgato a terze parti per scopi di marketing diretto, e i nomi e gli indirizzi di tutte le terze parti con cui abbiamo condiviso informazioni personali nell'anno solare immediatamente precedente. Se sei residente in California e desideri presentare tale richiesta, invia la tua richiesta per iscritto utilizzando i recapiti forniti nella sezione &quot;"
+  },
+  {
+   "id": 307,
+   "text": "COME PUOI CONTATTARCI IN MERITO ALLA PRESENTE INFORMATIVA?"
+  },
+  {
+   "id": 308,
+   "text": "&quot;"
+  },
+  {
+   "id": 309,
+   "text": "13. AGGIORNIAMO LA PRESENTE INFORMATIVA?"
+  },
+  {
+   "id": 310,
+   "text": "In breve: sì, aggiorneremo la presente informativa ove necessario per restare conformi alle leggi pertinenti."
+  },
+  {
+   "id": 311,
+   "text": "Possiamo aggiornare la presente Informativa sulla privacy di tanto in tanto. La versione aggiornata sarà indicata da una data di &quot;Revisione&quot; aggiornata nella parte superiore della presente Informativa sulla privacy. Se apportiamo modifiche sostanziali alla presente Informativa sulla privacy, possiamo informarti pubblicando in modo ben visibile un avviso di tali modifiche oppure inviandoti direttamente una notifica. Ti invitiamo a consultare frequentemente la presente Informativa sulla privacy per essere informato su come proteggiamo le tue informazioni."
+  },
+  {
+   "id": 312,
+   "text": "14. COME PUOI CONTATTARCI IN MERITO ALLA PRESENTE INFORMATIVA?"
+  },
+  {
+   "id": 313,
+   "text": "Se hai domande o commenti sulla presente informativa, puoi contattare il nostro Responsabile della Protezione dei Dati (DPO) via email all'indirizzo "
+  },
+  {
+   "id": 314,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 315,
+   "text": ", o contattarci per posta all'indirizzo:"
+  },
+  {
+   "id": 316,
+   "text": "Tava Labs, LLC"
+  },
+  {
+   "id": 317,
+   "text": "Data Protection Officer"
+  },
+  {
+   "id": 318,
+   "text": "1521 Blake St STE 95593"
+  },
+  {
+   "id": 319,
+   "text": "Denver, CO 80202"
+  },
+  {
+   "id": 320,
+   "text": "United States"
+  },
+  {
+   "id": 321,
+   "text": "15. COME PUOI CONSULTARE, AGGIORNARE O ELIMINARE I DATI CHE RACCOGLIAMO DA TE?"
+  },
+  {
+   "id": 322,
+   "text": "In base alle leggi applicabili del tuo Paese o del tuo Stato di residenza negli Stati Uniti, puoi avere il diritto di richiedere l'accesso alle informazioni personali che raccogliamo da te, dettagli su come le abbiamo trattate, correggere inesattezze o eliminare le tue informazioni personali. Puoi inoltre avere il diritto di revocare il tuo consenso al nostro trattamento delle tue informazioni personali. Questi diritti possono essere limitati in alcune circostanze dalla legge applicabile. Per richiedere di consultare, aggiornare o eliminare le tue informazioni personali, visita: "
+  },
+  {
+   "id": 323,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 324,
+   "text": "."
+  },
+  {
+   "id": 325,
+   "text": "La presente Informativa sulla privacy è stata creata utilizzando il "
+  },
+  {
+   "id": 326,
+   "text": "Generatore di Informative sulla Privacy di Termly"
+  },
+  {
+   "id": 327,
+   "text": "."
+  }
+ ]
+}

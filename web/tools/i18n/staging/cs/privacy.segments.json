@@ -1,0 +1,1319 @@
+{
+ "slug": "privacy",
+ "title": "Zásady ochrany osobních údajů | Tava Labs",
+ "description": "Jak společnost Tava Labs shromažďuje, používá a chrání vaše údaje, když navštívíte web tavalabs.app, absolvujete kvíz o pleti nebo si objednáte produkt PDRN Brightening Serum.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "Právní informace"
+  },
+  {
+   "id": 1,
+   "text": "Zásady ochrany osobních údajů"
+  },
+  {
+   "id": 2,
+   "text": "Poslední aktualizace 5. listopadu 2026"
+  },
+  {
+   "id": 3,
+   "text": "Toto oznámení o ochraně osobních údajů pro společnost Tava Labs, LLC (podnikající pod názvem Tava) („my“, „nás“ nebo „naše“) popisuje, jak a proč můžeme přistupovat k vašim osobním údajům, shromažďovat je, ukládat, používat a/nebo sdílet („zpracovávat“), když používáte naše služby („Služby“), včetně případů, kdy:"
+  },
+  {
+   "id": 4,
+   "text": "Navštívíte náš web na adrese "
+  },
+  {
+   "id": 5,
+   "text": "http://www.tavalabs.app"
+  },
+  {
+   "id": 6,
+   "text": " nebo jakýkoli náš web, který odkazuje na toto oznámení o ochraně osobních údajů"
+  },
+  {
+   "id": 7,
+   "text": "Používáte Founder Wellness Score. Wellness platformu pro zakladatele a vedoucí pracovníky k měření jejich stresu, spánku a vzhledu, aby obdrželi doporučení doplňků a peptidů na předpis."
+  },
+  {
+   "id": 8,
+   "text": "Jiným souvisejícím způsobem s námi komunikujete, včetně marketingu nebo akcí"
+  },
+  {
+   "id": 9,
+   "text": "Dotazy nebo obavy?"
+  },
+  {
+   "id": 10,
+   "text": " Přečtení tohoto oznámení o ochraně osobních údajů vám pomůže porozumět vašim právům na ochranu soukromí a vašim volbám. Jsme odpovědní za rozhodování o tom, jak jsou vaše osobní údaje zpracovávány. Pokud nesouhlasíte s našimi zásadami a postupy, prosím nepoužívejte naše Služby. Pokud máte stále jakékoli dotazy nebo obavy, kontaktujte nás prosím na adrese "
+  },
+  {
+   "id": 11,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 12,
+   "text": "."
+  },
+  {
+   "id": 13,
+   "text": "SHRNUTÍ KLÍČOVÝCH BODŮ"
+  },
+  {
+   "id": 14,
+   "text": "Toto shrnutí poskytuje klíčové body z našeho oznámení o ochraně osobních údajů, ale více podrobností o kterémkoli z těchto témat najdete kliknutím na odkaz následující za každým klíčovým bodem nebo pomocí našeho "
+  },
+  {
+   "id": 15,
+   "text": "obsahu"
+  },
+  {
+   "id": 16,
+   "text": " níže, kde najdete oddíl, který hledáte."
+  },
+  {
+   "id": 17,
+   "text": "Jaké osobní údaje zpracováváme?"
+  },
+  {
+   "id": 18,
+   "text": " Když navštívíte, používáte nebo procházíte naše Služby, můžeme zpracovávat osobní údaje v závislosti na tom, jak s námi a Službami komunikujete, jaké volby učiníte a jaké produkty a funkce používáte. Více o "
+  },
+  {
+   "id": 19,
+   "text": "osobních údajích, které nám sdělujete"
+  },
+  {
+   "id": 20,
+   "text": "."
+  },
+  {
+   "id": 21,
+   "text": "Zpracováváme nějaké citlivé osobní údaje?"
+  },
+  {
+   "id": 22,
+   "text": " Některé údaje mohou být v určitých jurisdikcích považovány za „zvláštní“ nebo „citlivé“, například váš rasový nebo etnický původ, sexuální orientace a náboženské přesvědčení. Citlivé osobní údaje můžeme zpracovávat, je-li to nezbytné, s vaším souhlasem nebo jak jinak povolují platné právní předpisy. Více o "
+  },
+  {
+   "id": 23,
+   "text": "citlivých údajích, které zpracováváme"
+  },
+  {
+   "id": 24,
+   "text": "."
+  },
+  {
+   "id": 25,
+   "text": "Shromažďujeme nějaké údaje od třetích stran?"
+  },
+  {
+   "id": 26,
+   "text": " Neshromažďujeme žádné údaje od třetích stran."
+  },
+  {
+   "id": 27,
+   "text": "Jak zpracováváme vaše údaje?"
+  },
+  {
+   "id": 28,
+   "text": " Vaše údaje zpracováváme za účelem poskytování, zlepšování a správy našich Služeb, komunikace s vámi, pro bezpečnost a prevenci podvodů a pro dodržování právních předpisů. Vaše údaje můžeme s vaším souhlasem zpracovávat i pro jiné účely. Vaše údaje zpracováváme pouze tehdy, máme-li k tomu platný právní důvod. Více o "
+  },
+  {
+   "id": 29,
+   "text": "tom, jak zpracováváme vaše údaje"
+  },
+  {
+   "id": 30,
+   "text": "."
+  },
+  {
+   "id": 31,
+   "text": "V jakých situacích a se kterými stranami sdílíme osobní údaje?"
+  },
+  {
+   "id": 32,
+   "text": " Údaje můžeme sdílet v konkrétních situacích a s konkrétními třetími stranami. Více o "
+  },
+  {
+   "id": 33,
+   "text": "tom, kdy a s kým sdílíme vaše osobní údaje"
+  },
+  {
+   "id": 34,
+   "text": "."
+  },
+  {
+   "id": 35,
+   "text": "Jak udržujeme vaše údaje v bezpečí?"
+  },
+  {
+   "id": 36,
+   "text": " Máme zavedeny odpovídající organizační a technické procesy a postupy k ochraně vašich osobních údajů. Žádný elektronický přenos přes internet ani technologie ukládání informací však nelze zaručit jako stoprocentně bezpečné, takže nemůžeme slíbit ani zaručit, že hackeři, kyberzločinci nebo jiné neoprávněné třetí strany nebudou schopni naši bezpečnost prolomit a neoprávněně shromažďovat, přistupovat, krást nebo upravovat vaše údaje. Více o "
+  },
+  {
+   "id": 37,
+   "text": "tom, jak udržujeme vaše údaje v bezpečí"
+  },
+  {
+   "id": 38,
+   "text": "."
+  },
+  {
+   "id": 39,
+   "text": "Jaká jsou vaše práva?"
+  },
+  {
+   "id": 40,
+   "text": " V závislosti na tom, kde se zeměpisně nacházíte, může platný zákon o ochraně soukromí znamenat, že máte určitá práva týkající se vašich osobních údajů. Více o "
+  },
+  {
+   "id": 41,
+   "text": "vašich právech na ochranu soukromí"
+  },
+  {
+   "id": 42,
+   "text": "."
+  },
+  {
+   "id": 43,
+   "text": "Jak uplatníte svá práva?"
+  },
+  {
+   "id": 44,
+   "text": " Nejjednodušší způsob, jak uplatnit svá práva, je navštívit "
+  },
+  {
+   "id": 45,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 46,
+   "text": ", nebo nás kontaktovat. Jakoukoli žádost posoudíme a budeme podle ní jednat v souladu s platnými zákony o ochraně údajů."
+  },
+  {
+   "id": 47,
+   "text": "Chcete se dozvědět více o tom, co děláme s jakýmikoli údaji, které shromažďujeme? "
+  },
+  {
+   "id": 48,
+   "text": "Přečtěte si oznámení o ochraně osobních údajů v plném znění"
+  },
+  {
+   "id": 49,
+   "text": "."
+  },
+  {
+   "id": 50,
+   "text": "OBSAH"
+  },
+  {
+   "id": 51,
+   "text": "1. JAKÉ ÚDAJE SHROMAŽĎUJEME?"
+  },
+  {
+   "id": 52,
+   "text": "2. JAK ZPRACOVÁVÁME VAŠE ÚDAJE?"
+  },
+  {
+   "id": 53,
+   "text": "3. KDY A S KÝM SDÍLÍME VAŠE OSOBNÍ ÚDAJE?"
+  },
+  {
+   "id": 54,
+   "text": "4. POUŽÍVÁME SOUBORY COOKIE A DALŠÍ SLEDOVACÍ TECHNOLOGIE?"
+  },
+  {
+   "id": 55,
+   "text": "5. NABÍZÍME PRODUKTY ZALOŽENÉ NA UMĚLÉ INTELIGENCI?"
+  },
+  {
+   "id": 56,
+   "text": "6. JAK NAKLÁDÁME S VAŠIMI PŘIHLÁŠENÍMI PŘES SOCIÁLNÍ SÍTĚ?"
+  },
+  {
+   "id": 57,
+   "text": "7. JAK DLOUHO VAŠE ÚDAJE UCHOVÁVÁME?"
+  },
+  {
+   "id": 58,
+   "text": "8. JAK UDRŽUJEME VAŠE ÚDAJE V BEZPEČÍ?"
+  },
+  {
+   "id": 59,
+   "text": "9. SHROMAŽĎUJEME ÚDAJE OD NEZLETILÝCH?"
+  },
+  {
+   "id": 60,
+   "text": "10. JAKÁ JSOU VAŠE PRÁVA NA OCHRANU SOUKROMÍ?"
+  },
+  {
+   "id": 61,
+   "text": "11. OVLÁDACÍ PRVKY PRO FUNKCE DO-NOT-TRACK"
+  },
+  {
+   "id": 62,
+   "text": "12. MAJÍ OBYVATELÉ SPOJENÝCH STÁTŮ KONKRÉTNÍ PRÁVA NA OCHRANU SOUKROMÍ?"
+  },
+  {
+   "id": 63,
+   "text": "13. AKTUALIZUJEME TOTO OZNÁMENÍ?"
+  },
+  {
+   "id": 64,
+   "text": "14. JAK NÁS MŮŽETE KONTAKTOVAT OHLEDNĚ TOHOTO OZNÁMENÍ?"
+  },
+  {
+   "id": 65,
+   "text": "15. JAK MŮŽETE ZKONTROLOVAT, AKTUALIZOVAT NEBO SMAZAT ÚDAJE, KTERÉ OD VÁS SHROMAŽĎUJEME?"
+  },
+  {
+   "id": 66,
+   "text": "1. JAKÉ ÚDAJE SHROMAŽĎUJEME?"
+  },
+  {
+   "id": 67,
+   "text": "Osobní údaje, které nám sdělujete"
+  },
+  {
+   "id": 68,
+   "text": "Stručně: Shromažďujeme osobní údaje, které nám poskytnete."
+  },
+  {
+   "id": 69,
+   "text": "Shromažďujeme osobní údaje, které nám dobrovolně poskytnete, když se registrujete ve Službách, vyjádříte zájem o získání informací o nás nebo našich produktech a Službách, když se účastníte aktivit ve Službách, nebo když nás jinak kontaktujete."
+  },
+  {
+   "id": 70,
+   "text": "Osobní údaje poskytnuté vámi."
+  },
+  {
+   "id": 71,
+   "text": " Osobní údaje, které shromažďujeme, závisí na kontextu vašich interakcí s námi a Službami, na volbách, které učiníte, a na produktech a funkcích, které používáte. Osobní údaje, které shromažďujeme, mohou zahrnovat následující:"
+  },
+  {
+   "id": 72,
+   "text": "jména"
+  },
+  {
+   "id": 73,
+   "text": "e-mailové adresy"
+  },
+  {
+   "id": 74,
+   "text": "hesla"
+  },
+  {
+   "id": 75,
+   "text": "fakturační adresy"
+  },
+  {
+   "id": 76,
+   "text": "čísla debetních a kreditních karet"
+  },
+  {
+   "id": 77,
+   "text": "Citlivé údaje."
+  },
+  {
+   "id": 78,
+   "text": " Je-li to nezbytné, s vaším souhlasem nebo jak jinak povolují platné právní předpisy, zpracováváme následující kategorie citlivých údajů:"
+  },
+  {
+   "id": 79,
+   "text": "zdravotní údaje"
+  },
+  {
+   "id": 80,
+   "text": "Platební údaje."
+  },
+  {
+   "id": 81,
+   "text": " Můžeme shromažďovat údaje nezbytné ke zpracování vaší platby, pokud se rozhodnete nakupovat, například číslo vašeho platebního nástroje a bezpečnostní kód spojený s vaším platebním nástrojem. Veškeré platební údaje zpracovává a ukládá společnost Stripe, Inc. Odkaz(y) na její oznámení o ochraně osobních údajů najdete zde: "
+  },
+  {
+   "id": 82,
+   "text": "https://stripe.com/privacy-policy"
+  },
+  {
+   "id": 83,
+   "text": "."
+  },
+  {
+   "id": 84,
+   "text": "Údaje pro přihlášení přes sociální sítě."
+  },
+  {
+   "id": 85,
+   "text": " Můžeme vám poskytnout možnost registrovat se u nás pomocí údajů vašeho stávajícího účtu na sociálních sítích, například vašeho účtu na Facebooku, X nebo jiné sociální síti. Pokud se takto registrujete, shromáždíme od poskytovatele sociální sítě určité údaje o vašem profilu, jak je popsáno v oddíle nazvaném „"
+  },
+  {
+   "id": 86,
+   "text": "JAK NAKLÁDÁME S VAŠIMI PŘIHLÁŠENÍMI PŘES SOCIÁLNÍ SÍTĚ?"
+  },
+  {
+   "id": 87,
+   "text": "&quot; below."
+  },
+  {
+   "id": 88,
+   "text": "Veškeré osobní údaje, které nám poskytnete, musí být pravdivé, úplné a přesné a musíte nás informovat o jakýchkoli změnách takových osobních údajů."
+  },
+  {
+   "id": 89,
+   "text": "Automaticky shromažďované údaje"
+  },
+  {
+   "id": 90,
+   "text": "Stručně: Některé údaje, například vaše adresa internetového protokolu (IP) a/nebo charakteristiky prohlížeče a zařízení, se shromažďují automaticky, když navštívíte naše Služby."
+  },
+  {
+   "id": 91,
+   "text": "Automaticky shromažďujeme určité údaje, když navštívíte, používáte nebo procházíte Služby. Tyto údaje neodhalují vaši konkrétní totožnost (například vaše jméno nebo kontaktní údaje), ale mohou zahrnovat údaje o zařízení a používání, například vaši IP adresu, charakteristiky prohlížeče a zařízení, operační systém, jazykové preference, odkazující adresy URL, název zařízení, zemi, polohu, informace o tom, jak a kdy naše Služby používáte, a další technické informace. Tyto údaje jsou primárně potřebné k udržení bezpečnosti a provozu našich Služeb a pro naše interní analytické a zpravodajské účely."
+  },
+  {
+   "id": 92,
+   "text": "Údaje, které shromažďujeme, zahrnují:"
+  },
+  {
+   "id": 93,
+   "text": "Údaje o protokolech a používání."
+  },
+  {
+   "id": 94,
+   "text": " Údaje o protokolech a používání jsou údaje související se službou, diagnostické údaje, údaje o používání a výkonu, které naše servery automaticky shromažďují, když přistupujete k našim Službám nebo je používáte, a které zaznamenáváme do souborů protokolů. V závislosti na tom, jak s námi komunikujete, mohou tyto údaje protokolu zahrnovat vaši IP adresu, informace o zařízení, typ prohlížeče a nastavení a informace o vaší aktivitě ve Službách (například časová razítka spojená s vaším používáním, zobrazené stránky a soubory, vyhledávání a další akce, které provádíte, například které funkce používáte), informace o událostech zařízení (například aktivita systému, chybová hlášení (někdy nazývaná „crash dumps“) a nastavení hardwaru)."
+  },
+  {
+   "id": 95,
+   "text": "Údaje o zařízení."
+  },
+  {
+   "id": 96,
+   "text": " Shromažďujeme údaje o zařízení, například informace o vašem počítači, telefonu, tabletu nebo jiném zařízení, které používáte k přístupu ke Službám. V závislosti na použitém zařízení mohou tyto údaje o zařízení zahrnovat informace, například vaši IP adresu (nebo proxy server), identifikační čísla zařízení a aplikace, polohu, typ prohlížeče, model hardwaru, poskytovatele internetových služeb a/nebo mobilního operátora, operační systém a informace o konfiguraci systému."
+  },
+  {
+   "id": 97,
+   "text": "Údaje o poloze."
+  },
+  {
+   "id": 98,
+   "text": " Shromažďujeme údaje o poloze, například informace o poloze vašeho zařízení, která může být přesná nebo nepřesná. Množství údajů, které shromažďujeme, závisí na typu a nastavení zařízení, které používáte k přístupu ke Službám. Například můžeme používat GPS a další technologie ke shromažďování geolokačních údajů, které nám sdělují vaši aktuální polohu (na základě vaší IP adresy). Shromažďování těchto údajů můžete odmítnout buď odmítnutím přístupu k údajům, nebo zakázáním nastavení Polohy na vašem zařízení. Pokud se však rozhodnete odmítnout, nemusíte být schopni používat určité aspekty Služeb."
+  },
+  {
+   "id": 99,
+   "text": "2. JAK ZPRACOVÁVÁME VAŠE ÚDAJE?"
+  },
+  {
+   "id": 100,
+   "text": "Stručně: Vaše údaje zpracováváme za účelem poskytování, zlepšování a správy našich Služeb, komunikace s vámi, pro bezpečnost a prevenci podvodů a pro dodržování právních předpisů. Vaše údaje můžeme s vaším souhlasem zpracovávat i pro jiné účely."
+  },
+  {
+   "id": 101,
+   "text": "Vaše osobní údaje zpracováváme z různých důvodů v závislosti na tom, jak s našimi Službami komunikujete, včetně:"
+  },
+  {
+   "id": 102,
+   "text": "Usnadnění vytvoření účtu a ověření a jinak správa uživatelských účtů."
+  },
+  {
+   "id": 103,
+   "text": " Vaše údaje můžeme zpracovávat, abyste si mohli vytvořit účet a přihlásit se k němu, a také aby váš účet zůstal funkční."
+  },
+  {
+   "id": 104,
+   "text": "Doručování a usnadnění doručování služeb uživateli."
+  },
+  {
+   "id": 105,
+   "text": " Vaše údaje můžeme zpracovávat, abychom vám poskytli požadovanou službu."
+  },
+  {
+   "id": 106,
+   "text": "Odpovídání na dotazy uživatelů a nabízení podpory uživatelům."
+  },
+  {
+   "id": 107,
+   "text": " Vaše údaje můžeme zpracovávat, abychom odpověděli na vaše dotazy a vyřešili případné problémy, které můžete mít s požadovanou službou."
+  },
+  {
+   "id": 108,
+   "text": "Zasílání administrativních informací vám."
+  },
+  {
+   "id": 109,
+   "text": " Vaše údaje můžeme zpracovávat, abychom vám zasílali podrobnosti o našich produktech a službách, změnách našich podmínek a zásad a další podobné informace."
+  },
+  {
+   "id": 110,
+   "text": "Plnění a správa vašich objednávek."
+  },
+  {
+   "id": 111,
+   "text": " Vaše údaje můžeme zpracovávat za účelem plnění a správy vašich objednávek, plateb, vrácení a výměn uskutečněných prostřednictvím Služeb."
+  },
+  {
+   "id": 112,
+   "text": "Vyžádání zpětné vazby."
+  },
+  {
+   "id": 113,
+   "text": " Vaše údaje můžeme zpracovávat, je-li to nezbytné k vyžádání zpětné vazby a ke kontaktování vás ohledně vašeho používání našich Služeb."
+  },
+  {
+   "id": 114,
+   "text": "Zveřejňování referencí."
+  },
+  {
+   "id": 115,
+   "text": " Ve svých Službách zveřejňujeme reference, které mohou obsahovat osobní údaje."
+  },
+  {
+   "id": 116,
+   "text": "Hodnocení a zlepšování našich Služeb, produktů, marketingu a vaší zkušenosti."
+  },
+  {
+   "id": 117,
+   "text": " Vaše údaje můžeme zpracovávat, když se domníváme, že je to nezbytné k identifikaci trendů používání, určení účinnosti našich propagačních kampaní a k hodnocení a zlepšování našich Služeb, produktů, marketingu a vaší zkušenosti."
+  },
+  {
+   "id": 118,
+   "text": "Identifikace trendů používání."
+  },
+  {
+   "id": 119,
+   "text": " Můžeme zpracovávat informace o tom, jak používáte naše Služby, abychom lépe pochopili, jak jsou používány, a mohli je zlepšit."
+  },
+  {
+   "id": 120,
+   "text": "3. KDY A S KÝM SDÍLÍME VAŠE OSOBNÍ ÚDAJE?"
+  },
+  {
+   "id": 121,
+   "text": "Stručně: Údaje můžeme sdílet v konkrétních situacích popsaných v tomto oddíle a/nebo s následujícími třetími stranami."
+  },
+  {
+   "id": 122,
+   "text": "Vaše osobní údaje můžeme potřebovat sdílet v následujících situacích:"
+  },
+  {
+   "id": 123,
+   "text": "Převody podnikání."
+  },
+  {
+   "id": 124,
+   "text": " Vaše údaje můžeme sdílet nebo převádět v souvislosti s jakoukoli fúzí, prodejem aktiv společnosti, financováním nebo akvizicí celé naší společnosti nebo její části jinou společností, nebo během jednání o nich."
+  },
+  {
+   "id": 125,
+   "text": "Obchodní partneři."
+  },
+  {
+   "id": 126,
+   "text": " Vaše údaje můžeme sdílet s našimi obchodními partnery, abychom vám nabídli určité produkty, služby nebo akce."
+  },
+  {
+   "id": 127,
+   "text": "4. POUŽÍVÁME SOUBORY COOKIE A DALŠÍ SLEDOVACÍ TECHNOLOGIE?"
+  },
+  {
+   "id": 128,
+   "text": "Stručně: K shromažďování a ukládání vašich údajů můžeme používat soubory cookie a další sledovací technologie."
+  },
+  {
+   "id": 129,
+   "text": "K shromažďování informací při vaší interakci s našimi Službami můžeme používat soubory cookie a podobné sledovací technologie (například webové majáky a pixely). Některé technologie online sledování nám pomáhají udržovat bezpečnost našich Služeb a vašeho účtu, předcházet pádům, opravovat chyby, ukládat vaše preference a pomáhat se základními funkcemi webu."
+  },
+  {
+   "id": 130,
+   "text": "Rovněž umožňujeme třetím stranám a poskytovatelům služeb používat technologie online sledování v našich Službách pro analýzu a reklamu, včetně pomoci při správě a zobrazování reklam nebo přizpůsobení reklam vašim zájmům. Třetí strany a poskytovatelé služeb používají svou technologii k poskytování reklamy na produkty a služby přizpůsobené vašim zájmům, která se může objevit buď v našich Službách, nebo na jiných webových stránkách."
+  },
+  {
+   "id": 131,
+   "text": "V rozsahu, v němž jsou tyto technologie online sledování podle platných zákonů států USA považovány za „prodej“/„sdílení“ (což zahrnuje cílenou reklamu, jak je definována podle platných zákonů), se můžete z těchto technologií online sledování odhlásit podáním žádosti, jak je popsáno níže v oddíle „"
+  },
+  {
+   "id": 132,
+   "text": "MAJÍ OBYVATELÉ SPOJENÝCH STÁTŮ KONKRÉTNÍ PRÁVA NA OCHRANU SOUKROMÍ?"
+  },
+  {
+   "id": 133,
+   "text": "&quot;"
+  },
+  {
+   "id": 134,
+   "text": "Konkrétní informace o tom, jak takové technologie používáme a jak můžete odmítnout určité soubory cookie, jsou uvedeny v našem Oznámení o souborech cookie."
+  },
+  {
+   "id": 135,
+   "text": "Google Analytics"
+  },
+  {
+   "id": 136,
+   "text": "Vaše údaje můžeme sdílet se službou Google Analytics za účelem sledování a analýzy používání Služeb. Reklamní funkce Google Analytics, které můžeme používat, zahrnují: Přehledy zobrazení v obsahové síti Google a Přehledy demografie a zájmů Google Analytics. Chcete-li se odhlásit ze sledování službou Google Analytics ve všech Službách, navštivte "
+  },
+  {
+   "id": 137,
+   "text": "https://tools.google.com/dlpage/gaoptout"
+  },
+  {
+   "id": 138,
+   "text": ". Z reklamních funkcí Google Analytics se můžete odhlásit prostřednictvím "
+  },
+  {
+   "id": 139,
+   "text": "Nastavení reklam"
+  },
+  {
+   "id": 140,
+   "text": " a Nastavení reklam pro mobilní aplikace. Mezi další způsoby odhlášení patří "
+  },
+  {
+   "id": 141,
+   "text": "http://optout.networkadvertising.org/"
+  },
+  {
+   "id": 142,
+   "text": " and "
+  },
+  {
+   "id": 143,
+   "text": "http://www.networkadvertising.org/mobile-choice"
+  },
+  {
+   "id": 144,
+   "text": ". Další informace o postupech společnosti Google v oblasti ochrany soukromí najdete na stránce "
+  },
+  {
+   "id": 145,
+   "text": "Ochrana soukromí a podmínky Google"
+  },
+  {
+   "id": 146,
+   "text": "."
+  },
+  {
+   "id": 147,
+   "text": "5. NABÍZÍME PRODUKTY ZALOŽENÉ NA UMĚLÉ INTELIGENCI?"
+  },
+  {
+   "id": 148,
+   "text": "Stručně: Nabízíme produkty, funkce nebo nástroje založené na umělé inteligenci, strojovém učení nebo podobných technologiích."
+  },
+  {
+   "id": 149,
+   "text": "Jako součást našich Služeb nabízíme produkty, funkce nebo nástroje založené na umělé inteligenci, strojovém učení nebo podobných technologiích (souhrnně „Produkty AI“). Tyto nástroje jsou navrženy tak, aby zlepšily vaši zkušenost a poskytly vám inovativní řešení. Podmínky v tomto oznámení o ochraně osobních údajů upravují vaše používání Produktů AI v rámci našich Služeb."
+  },
+  {
+   "id": 150,
+   "text": "Použití technologií AI"
+  },
+  {
+   "id": 151,
+   "text": "Produkty AI poskytujeme prostřednictvím poskytovatelů služeb třetích stran („Poskytovatelé služeb AI“), včetně společnosti OpenAI. Jak je uvedeno v tomto oznámení o ochraně osobních údajů, vaše vstupy, výstupy a osobní údaje budou sdíleny s těmito Poskytovateli služeb AI a jimi zpracovávány, aby vám bylo umožněno používat naše Produkty AI pro účely uvedené v oddíle „"
+  },
+  {
+   "id": 152,
+   "text": "KDY A S KÝM SDÍLÍME VAŠE OSOBNÍ ÚDAJE?"
+  },
+  {
+   "id": 153,
+   "text": "“ Nesmíte Produkty AI používat žádným způsobem, který porušuje podmínky nebo zásady jakéhokoli Poskytovatele služeb AI."
+  },
+  {
+   "id": 154,
+   "text": "Naše Produkty AI"
+  },
+  {
+   "id": 155,
+   "text": "Naše Produkty AI jsou navrženy pro následující funkce:"
+  },
+  {
+   "id": 156,
+   "text": "Poznatky AI"
+  },
+  {
+   "id": 157,
+   "text": "Jak zpracováváme vaše údaje pomocí AI"
+  },
+  {
+   "id": 158,
+   "text": "Veškeré osobní údaje zpracovávané pomocí našich Produktů AI jsou zpracovávány v souladu s naším oznámením o ochraně osobních údajů a naší dohodou s třetími stranami. To zajišťuje vysokou bezpečnost a chrání vaše osobní údaje po celou dobu procesu, což vám dává klid ohledně bezpečnosti vašich údajů."
+  },
+  {
+   "id": 159,
+   "text": "6. JAK NAKLÁDÁME S VAŠIMI PŘIHLÁŠENÍMI PŘES SOCIÁLNÍ SÍTĚ?"
+  },
+  {
+   "id": 160,
+   "text": "Stručně: Pokud se rozhodnete registrovat se nebo přihlásit se k našim Službám pomocí účtu na sociálních sítích, můžeme mít přístup k určitým údajům o vás."
+  },
+  {
+   "id": 161,
+   "text": "Naše Služby vám nabízejí možnost registrovat se a přihlásit se pomocí údajů vašeho účtu na sociálních sítích třetí strany (například vaše přihlášení na Facebook nebo X). Pokud se tak rozhodnete učinit, obdržíme od vašeho poskytovatele sociálních sítí určité údaje o vašem profilu. Údaje o profilu, které obdržíme, se mohou lišit v závislosti na příslušném poskytovateli sociálních sítí, ale často budou zahrnovat vaše jméno, e-mailovou adresu, seznam přátel a profilový obrázek, jakož i další údaje, které se rozhodnete na takové platformě sociálních sítí zveřejnit."
+  },
+  {
+   "id": 162,
+   "text": "Údaje, které obdržíme, použijeme pouze pro účely popsané v tomto oznámení o ochraně osobních údajů nebo které vám jsou jinak jasně sděleny v příslušných Službách. Upozorňujeme, že nekontrolujeme a neneseme odpovědnost za jiné použití vašich osobních údajů vaším poskytovatelem sociálních sítí třetí strany. Doporučujeme, abyste si přečetli jeho oznámení o ochraně osobních údajů, abyste pochopili, jak shromažďuje, používá a sdílí vaše osobní údaje a jak můžete nastavit své preference ochrany soukromí na jeho webech a v aplikacích."
+  },
+  {
+   "id": 163,
+   "text": "7. JAK DLOUHO VAŠE ÚDAJE UCHOVÁVÁME?"
+  },
+  {
+   "id": 164,
+   "text": "Stručně: Vaše údaje uchováváme tak dlouho, jak je nezbytné k naplnění účelů uvedených v tomto oznámení o ochraně osobních údajů, pokud zákon nevyžaduje jinak."
+  },
+  {
+   "id": 165,
+   "text": "Vaše osobní údaje budeme uchovávat pouze tak dlouho, jak je to nezbytné pro účely uvedené v tomto oznámení o ochraně osobních údajů, pokud zákon nevyžaduje nebo nepovoluje delší dobu uchování (například daňové, účetní nebo jiné právní požadavky). Žádný účel v tomto oznámení nebude vyžadovat, abychom vaše osobní údaje uchovávali déle, než je období, po které u nás mají uživatelé účet."
+  },
+  {
+   "id": 166,
+   "text": "Když nemáme žádnou trvalou oprávněnou obchodní potřebu zpracovávat vaše osobní údaje, takové údaje buď smažeme, nebo anonymizujeme, nebo, pokud to není možné (například proto, že vaše osobní údaje byly uloženy v záložních archivech), vaše osobní údaje bezpečně uložíme a izolujeme je od jakéhokoli dalšího zpracování, dokud nebude smazání možné."
+  },
+  {
+   "id": 167,
+   "text": "8. JAK UDRŽUJEME VAŠE ÚDAJE V BEZPEČÍ?"
+  },
+  {
+   "id": 168,
+   "text": "Stručně: Usilujeme o ochranu vašich osobních údajů prostřednictvím systému organizačních a technických bezpečnostních opatření."
+  },
+  {
+   "id": 169,
+   "text": "Zavedli jsme vhodná a přiměřená technická a organizační bezpečnostní opatření navržená k ochraně bezpečnosti jakýchkoli osobních údajů, které zpracováváme. Navzdory našim ochranným opatřením a úsilí o zabezpečení vašich údajů však nelze zaručit, že žádný elektronický přenos přes internet ani technologie ukládání informací bude stoprocentně bezpečná, takže nemůžeme slíbit ani zaručit, že hackeři, kyberzločinci nebo jiné neoprávněné třetí strany nebudou schopni naši bezpečnost prolomit a neoprávněně shromažďovat, přistupovat, krást nebo upravovat vaše údaje. Přestože uděláme vše pro ochranu vašich osobních údajů, přenos osobních údajů do našich Služeb a z nich je na vaše vlastní riziko. Ke Službám byste měli přistupovat pouze v bezpečném prostředí."
+  },
+  {
+   "id": 170,
+   "text": "9. SHROMAŽĎUJEME ÚDAJE OD NEZLETILÝCH?"
+  },
+  {
+   "id": 171,
+   "text": "Stručně: Vědomě neshromažďujeme údaje od dětí mladších 18 let ani jim neprodáváme."
+  },
+  {
+   "id": 172,
+   "text": "Vědomě neshromažďujeme údaje od dětí mladších 18 let, nevyžadujeme je od nich ani jim neprodáváme, ani vědomě neprodáváme takové osobní údaje. Používáním Služeb prohlašujete, že je vám alespoň 18 let, nebo že jste rodičem nebo opatrovníkem takového nezletilého a souhlasíte s používáním Služeb takovým nezletilým závislým. Pokud se dozvíme, že byly shromážděny osobní údaje od uživatelů mladších 18 let, deaktivujeme účet a přijmeme přiměřená opatření k neprodlenému smazání takových údajů z našich záznamů. Pokud se dozvíte o jakýchkoli údajích, které jsme mohli shromáždit od dětí mladších 18 let, kontaktujte nás prosím na adrese "
+  },
+  {
+   "id": 173,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 174,
+   "text": "."
+  },
+  {
+   "id": 175,
+   "text": "10. JAKÁ JSOU VAŠE PRÁVA NA OCHRANU SOUKROMÍ?"
+  },
+  {
+   "id": 176,
+   "text": "Odvolání vašeho souhlasu:"
+  },
+  {
+   "id": 177,
+   "text": " Pokud se při zpracování vašich osobních údajů spoléháme na váš souhlas, který může být výslovným a/nebo předpokládaným souhlasem v závislosti na platných právních předpisech, máte právo svůj souhlas kdykoli odvolat. Svůj souhlas můžete kdykoli odvolat tak, že nás kontaktujete pomocí kontaktních údajů uvedených v oddíle „"
+  },
+  {
+   "id": 178,
+   "text": "JAK NÁS MŮŽETE KONTAKTOVAT OHLEDNĚ TOHOTO OZNÁMENÍ?"
+  },
+  {
+   "id": 179,
+   "text": "&quot; below."
+  },
+  {
+   "id": 180,
+   "text": "Upozorňujeme však, že to neovlivní zákonnost zpracování před jeho odvoláním, ani, pokud to platné právní předpisy umožňují, to neovlivní zpracování vašich osobních údajů prováděné na základě jiných zákonných důvodů zpracování než souhlasu."
+  },
+  {
+   "id": 181,
+   "text": "Informace o účtu"
+  },
+  {
+   "id": 182,
+   "text": "Pokud byste kdykoli chtěli zkontrolovat nebo změnit informace ve svém účtu nebo svůj účet ukončit, můžete:"
+  },
+  {
+   "id": 183,
+   "text": "Přihlásit se do nastavení svého účtu a aktualizovat svůj uživatelský účet."
+  },
+  {
+   "id": 184,
+   "text": "Na vaši žádost o ukončení vašeho účtu deaktivujeme nebo smažeme váš účet a informace z našich aktivních databází. Můžeme však některé informace uchovávat v našich souborech, abychom předcházeli podvodům, řešili problémy, pomáhali při jakémkoli vyšetřování, vynucovali naše právní podmínky a/nebo dodržovali platné právní požadavky."
+  },
+  {
+   "id": 185,
+   "text": "Máte-li dotazy nebo komentáře ke svým právům na ochranu soukromí, můžete nám napsat na adresu "
+  },
+  {
+   "id": 186,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 187,
+   "text": "."
+  },
+  {
+   "id": 188,
+   "text": "11. OVLÁDACÍ PRVKY PRO FUNKCE DO-NOT-TRACK"
+  },
+  {
+   "id": 189,
+   "text": "Většina webových prohlížečů a některé mobilní operační systémy a mobilní aplikace zahrnují funkci nebo nastavení Do-Not-Track („DNT“), které můžete aktivovat, abyste signalizovali svou preferenci ochrany soukromí, aby údaje o vašich aktivitách při procházení online nebyly sledovány a shromažďovány. V této fázi nebyl dokončen žádný jednotný technologický standard pro rozpoznávání a implementaci signálů DNT. Proto v současné době nereagujeme na signály DNT prohlížeče ani na žádný jiný mechanismus, který automaticky sděluje vaši volbu nebýt sledováni online. Pokud bude v budoucnu přijat standard pro online sledování, který budeme muset dodržovat, budeme vás o tomto postupu informovat v revidované verzi tohoto oznámení o ochraně osobních údajů."
+  },
+  {
+   "id": 190,
+   "text": "Kalifornské právo vyžaduje, abychom vás informovali, jak reagujeme na signály DNT webového prohlížeče. Protože v současné době neexistuje žádný oborový ani právní standard pro rozpoznávání nebo respektování signálů DNT, v současné době na ně nereagujeme."
+  },
+  {
+   "id": 191,
+   "text": "Globální kontrola soukromí:"
+  },
+  {
+   "id": 192,
+   "text": " Uznáváme a respektujeme signály Global Privacy Control (GPC). Pokud používáte prohlížeč nebo rozšíření, které podporuje GPC, budeme to považovat za platnou žádost o odhlášení z prodeje nebo sdílení vašich osobních údajů pro účely cílené reklamy podle platných státních zákonů o ochraně soukromí, včetně kalifornského zákona o ochraně soukromí spotřebitelů (CCPA). Když z vašeho prohlížeče zjistíme signál GPC, automaticky uplatníme vaši preferenci odhlášení, aniž bychom vyžadovali, abyste podnikli jakoukoli další akci. Další informace o GPC a o tom, jak ji povolit, najdete na "
+  },
+  {
+   "id": 193,
+   "text": "globalprivacycontrol.org"
+  },
+  {
+   "id": 194,
+   "text": "."
+  },
+  {
+   "id": 195,
+   "text": "12. MAJÍ OBYVATELÉ SPOJENÝCH STÁTŮ KONKRÉTNÍ PRÁVA NA OCHRANU SOUKROMÍ?"
+  },
+  {
+   "id": 196,
+   "text": "Stručně: Pokud jste obyvatelem Kalifornie, Colorada, Connecticutu, Delaware, Floridy, Indiany, Iowy, Kentucky, Marylandu, Minnesoty, Montany, Nebrasky, New Hampshire, New Jersey, Oregonu, Rhode Islandu, Tennessee, Texasu, Utahu nebo Virginie, můžete mít právo požádat o přístup k osobním údajům, které o vás uchováváme, a o podrobnosti o nich a o tom, jak jsme je zpracovali, opravit nepřesnosti, získat kopii svých osobních údajů nebo je smazat. Můžete mít rovněž právo odvolat svůj souhlas s naším zpracováním vašich osobních údajů. Tato práva mohou být za určitých okolností omezena platnými právními předpisy. Další informace jsou uvedeny níže."
+  },
+  {
+   "id": 197,
+   "text": "Kategorie osobních údajů, které shromažďujeme"
+  },
+  {
+   "id": 198,
+   "text": "Níže uvedená tabulka ukazuje kategorie osobních údajů, které jsme shromáždili za posledních dvanáct (12) měsíců. Tabulka zahrnuje ilustrativní příklady každé kategorie a neodráží osobní údaje, které shromažďujeme od vás. Úplný soupis všech osobních údajů, které zpracováváme, najdete v oddíle „"
+  },
+  {
+   "id": 199,
+   "text": "JAKÉ ÚDAJE SHROMAŽĎUJEME?"
+  },
+  {
+   "id": 200,
+   "text": "&quot;"
+  },
+  {
+   "id": 201,
+   "text": "Kategorie"
+  },
+  {
+   "id": 202,
+   "text": "Příklady"
+  },
+  {
+   "id": 203,
+   "text": "Shromážděno"
+  },
+  {
+   "id": 204,
+   "text": "A. Identifikátory"
+  },
+  {
+   "id": 205,
+   "text": "Kontaktní údaje, například skutečné jméno, alias, poštovní adresa, telefonní nebo mobilní kontaktní číslo, jedinečný osobní identifikátor, online identifikátor, adresa internetového protokolu, e-mailová adresa a název účtu"
+  },
+  {
+   "id": 206,
+   "text": "ANO"
+  },
+  {
+   "id": 207,
+   "text": "B. Osobní údaje, jak jsou definovány v kalifornském zákoně o záznamech zákazníků"
+  },
+  {
+   "id": 208,
+   "text": "Jméno, kontaktní údaje, vzdělání, zaměstnání, historie zaměstnání a finanční informace"
+  },
+  {
+   "id": 209,
+   "text": "ANO"
+  },
+  {
+   "id": 210,
+   "text": "C. Charakteristiky chráněné klasifikace podle státního nebo federálního práva"
+  },
+  {
+   "id": 211,
+   "text": "Pohlaví, věk, datum narození, rasa a etnický původ, národní původ, rodinný stav a další demografické údaje"
+  },
+  {
+   "id": 212,
+   "text": "NE"
+  },
+  {
+   "id": 213,
+   "text": "D. Obchodní informace"
+  },
+  {
+   "id": 214,
+   "text": "Informace o transakcích, historie nákupů, finanční podrobnosti a platební informace"
+  },
+  {
+   "id": 215,
+   "text": "NE"
+  },
+  {
+   "id": 216,
+   "text": "E. Biometrické informace"
+  },
+  {
+   "id": 217,
+   "text": "Otisky prstů a hlasové otisky"
+  },
+  {
+   "id": 218,
+   "text": "ANO"
+  },
+  {
+   "id": 219,
+   "text": "F. Aktivita na internetu nebo jiné podobné síti"
+  },
+  {
+   "id": 220,
+   "text": "Historie procházení, historie vyhledávání, online chování, údaje o zájmech a interakce s našimi a jinými webovými stránkami, aplikacemi, systémy a reklamami"
+  },
+  {
+   "id": 221,
+   "text": "NE"
+  },
+  {
+   "id": 222,
+   "text": "G. Geolokační údaje"
+  },
+  {
+   "id": 223,
+   "text": "Poloha zařízení"
+  },
+  {
+   "id": 224,
+   "text": "NE"
+  },
+  {
+   "id": 225,
+   "text": "H. Zvukové, elektronické, smyslové nebo podobné informace"
+  },
+  {
+   "id": 226,
+   "text": "Obrázky a zvukové, video nebo telefonní záznamy vytvořené v souvislosti s našimi obchodními činnostmi"
+  },
+  {
+   "id": 227,
+   "text": "NE"
+  },
+  {
+   "id": 228,
+   "text": "I. Profesní informace nebo informace související se zaměstnáním"
+  },
+  {
+   "id": 229,
+   "text": "Obchodní kontaktní údaje, abychom vám mohli poskytovat naše Služby na obchodní úrovni, nebo pracovní pozice, historie zaměstnání a profesní kvalifikace, pokud se u nás ucházíte o zaměstnání"
+  },
+  {
+   "id": 230,
+   "text": "NE"
+  },
+  {
+   "id": 231,
+   "text": "J. Informace o vzdělání"
+  },
+  {
+   "id": 232,
+   "text": "Záznamy studentů a informace z adresáře"
+  },
+  {
+   "id": 233,
+   "text": "NE"
+  },
+  {
+   "id": 234,
+   "text": "K. Závěry vyvozené ze shromážděných osobních údajů"
+  },
+  {
+   "id": 235,
+   "text": "Závěry vyvozené z jakýchkoli výše uvedených shromážděných osobních údajů za účelem vytvoření profilu nebo shrnutí například o preferencích a charakteristikách jednotlivce"
+  },
+  {
+   "id": 236,
+   "text": "NE"
+  },
+  {
+   "id": 237,
+   "text": "L. Citlivé osobní údaje"
+  },
+  {
+   "id": 238,
+   "text": "Informace pro přihlášení k účtu, čísla debetních nebo kreditních karet, genetické údaje a zdravotní údaje"
+  },
+  {
+   "id": 239,
+   "text": "ANO"
+  },
+  {
+   "id": 240,
+   "text": "Citlivé osobní údaje shromažďujeme pouze tak, jak jsou definovány platnými zákony o ochraně soukromí nebo pro účely povolené zákonem nebo s vaším souhlasem. Citlivé osobní údaje mohou být použity nebo sděleny poskytovateli služeb nebo dodavateli pro další, specifikované účely. Můžete mít právo omezit použití nebo sdělení svých citlivých osobních údajů. Neshromažďujeme ani nezpracováváme citlivé osobní údaje za účelem vyvozování charakteristik o vás."
+  },
+  {
+   "id": 241,
+   "text": "Osobní údaje mimo tyto kategorie můžeme shromažďovat také prostřednictvím případů, kdy s námi komunikujete osobně, online nebo telefonicky či poštou v kontextu:"
+  },
+  {
+   "id": 242,
+   "text": "Přijímání pomoci prostřednictvím našich kanálů zákaznické podpory;"
+  },
+  {
+   "id": 243,
+   "text": "Účasti v zákaznických průzkumech nebo soutěžích; a"
+  },
+  {
+   "id": 244,
+   "text": "Usnadnění poskytování našich Služeb a odpovídání na vaše dotazy."
+  },
+  {
+   "id": 245,
+   "text": "Shromážděné osobní údaje budeme používat a uchovávat podle potřeby k poskytování Služeb nebo pro:"
+  },
+  {
+   "id": 246,
+   "text": "Kategorie A, po dobu, kdy má uživatel u nás účet"
+  },
+  {
+   "id": 247,
+   "text": "Kategorie B, po dobu, kdy má uživatel u nás účet"
+  },
+  {
+   "id": 248,
+   "text": "Kategorie E, po dobu, kdy má uživatel u nás účet"
+  },
+  {
+   "id": 249,
+   "text": "Kategorie L, po dobu, kdy má uživatel u nás účet"
+  },
+  {
+   "id": 250,
+   "text": "Zdroje osobních údajů"
+  },
+  {
+   "id": 251,
+   "text": "Více o zdrojích osobních údajů, které shromažďujeme, v oddíle „"
+  },
+  {
+   "id": 252,
+   "text": "JAKÉ ÚDAJE SHROMAŽĎUJEME?"
+  },
+  {
+   "id": 253,
+   "text": "&quot;"
+  },
+  {
+   "id": 254,
+   "text": "Jak používáme a sdílíme osobní údaje"
+  },
+  {
+   "id": 255,
+   "text": "Více o tom, jak používáme vaše osobní údaje, v oddíle „"
+  },
+  {
+   "id": 256,
+   "text": "JAK ZPRACOVÁVÁME VAŠE ÚDAJE?"
+  },
+  {
+   "id": 257,
+   "text": "&quot;"
+  },
+  {
+   "id": 258,
+   "text": "Budou vaše údaje sdíleny s někým dalším?"
+  },
+  {
+   "id": 259,
+   "text": "Vaše osobní údaje můžeme sdělit našim poskytovatelům služeb na základě písemné smlouvy mezi námi a každým poskytovatelem služeb. Více o tom, jak sdělujeme osobní údaje, v oddíle „"
+  },
+  {
+   "id": 260,
+   "text": "KDY A S KÝM SDÍLÍME VAŠE OSOBNÍ ÚDAJE?"
+  },
+  {
+   "id": 261,
+   "text": "&quot;"
+  },
+  {
+   "id": 262,
+   "text": "Vaše osobní údaje můžeme používat pro naše vlastní obchodní účely, například pro provádění interního výzkumu pro technologický vývoj a demonstraci. To není považováno za „prodej“ vašich osobních údajů."
+  },
+  {
+   "id": 263,
+   "text": "Za předchozích dvanáct (12) měsíců jsme žádné osobní údaje nesdělili, neprodali ani nesdíleli třetím stranám pro obchodní nebo komerční účel. V budoucnu nebudeme prodávat ani sdílet osobní údaje patřící návštěvníkům webových stránek, uživatelům a dalším spotřebitelům."
+  },
+  {
+   "id": 264,
+   "text": "Vaše práva"
+  },
+  {
+   "id": 265,
+   "text": "Podle určitých zákonů států USA o ochraně údajů máte práva. Tato práva však nejsou absolutní a za určitých okolností můžeme vaši žádost odmítnout, jak povoluje zákon. Tato práva zahrnují:"
+  },
+  {
+   "id": 266,
+   "text": "Právo vědět"
+  },
+  {
+   "id": 267,
+   "text": " zda zpracováváme vaše osobní údaje, či nikoli"
+  },
+  {
+   "id": 268,
+   "text": "Právo na přístup"
+  },
+  {
+   "id": 269,
+   "text": " k vašim osobním údajům"
+  },
+  {
+   "id": 270,
+   "text": "Právo na opravu"
+  },
+  {
+   "id": 271,
+   "text": " nepřesností ve vašich osobních údajích"
+  },
+  {
+   "id": 272,
+   "text": "Právo požádat"
+  },
+  {
+   "id": 273,
+   "text": " o smazání vašich osobních údajů"
+  },
+  {
+   "id": 274,
+   "text": "Právo získat kopii"
+  },
+  {
+   "id": 275,
+   "text": " osobních údajů, které jste s námi dříve sdíleli"
+  },
+  {
+   "id": 276,
+   "text": "Právo na nediskriminaci"
+  },
+  {
+   "id": 277,
+   "text": " za uplatnění vašich práv"
+  },
+  {
+   "id": 278,
+   "text": "Právo odhlásit se"
+  },
+  {
+   "id": 279,
+   "text": " ze zpracování vašich osobních údajů, pokud jsou používány pro cílenou reklamu (nebo sdílení, jak je definováno podle kalifornského zákona o ochraně soukromí), prodej osobních údajů nebo profilování v souvislosti s rozhodnutími, která mají právní nebo podobně významné účinky („profilování“)"
+  },
+  {
+   "id": 280,
+   "text": "V závislosti na státě, ve kterém žijete, můžete mít rovněž následující práva:"
+  },
+  {
+   "id": 281,
+   "text": "Právo na přístup ke kategoriím zpracovávaných osobních údajů (jak povolují platné právní předpisy, včetně zákona o ochraně soukromí v Minnesotě)"
+  },
+  {
+   "id": 282,
+   "text": "Právo získat seznam kategorií třetích stran, kterým jsme sdělili osobní údaje (jak povolují platné právní předpisy, včetně zákona o ochraně soukromí v Kalifornii, Delaware a Marylandu)"
+  },
+  {
+   "id": 283,
+   "text": "Právo získat seznam konkrétních třetích stran, kterým jsme sdělili osobní údaje (jak povolují platné právní předpisy, včetně zákona o ochraně soukromí v Minnesotě a Oregonu)"
+  },
+  {
+   "id": 284,
+   "text": "Právo získat seznam třetích stran, kterým jsme prodali osobní údaje (jak povolují platné právní předpisy, včetně zákona o ochraně soukromí v Connecticutu)"
+  },
+  {
+   "id": 285,
+   "text": "Právo kontrolovat, chápat, zpochybňovat a v závislosti na tom, kde žijete, opravovat, jak byly osobní údaje profilovány (jak povolují platné právní předpisy, včetně zákona o ochraně soukromí v Connecticutu a Minnesotě)"
+  },
+  {
+   "id": 286,
+   "text": "Právo omezit použití a sdělení citlivých osobních údajů (jak povolují platné právní předpisy, včetně zákona o ochraně soukromí v Kalifornii)"
+  },
+  {
+   "id": 287,
+   "text": "Právo odhlásit se ze shromažďování citlivých údajů a osobních údajů shromažďovaných prostřednictvím provozu funkce rozpoznávání hlasu nebo obličeje (jak povolují platné právní předpisy, včetně zákona o ochraně soukromí na Floridě)"
+  },
+  {
+   "id": 288,
+   "text": "Jak uplatnit svá práva"
+  },
+  {
+   "id": 289,
+   "text": "Chcete-li tato práva uplatnit, můžete nás kontaktovat návštěvou "
+  },
+  {
+   "id": 290,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 291,
+   "text": ", návštěvou "
+  },
+  {
+   "id": 292,
+   "text": "http://www.tavalabs.app/contact-us"
+  },
+  {
+   "id": 293,
+   "text": ", nebo odkazem na kontaktní údaje v dolní části tohoto dokumentu."
+  },
+  {
+   "id": 294,
+   "text": "Budeme respektovat vaše preference odhlášení, pokud ve svém prohlížeči aktivujete signál odhlášení "
+  },
+  {
+   "id": 295,
+   "text": "Global Privacy Control"
+  },
+  {
+   "id": 296,
+   "text": " (GPC)."
+  },
+  {
+   "id": 297,
+   "text": "Podle určitých zákonů států USA o ochraně údajů můžete určit oprávněného zástupce, aby podal žádost vaším jménem. Žádost od oprávněného zástupce, který nepředloží důkaz, že byl platně oprávněn jednat vaším jménem v souladu s platnými právními předpisy, můžeme odmítnout."
+  },
+  {
+   "id": 298,
+   "text": "Ověření žádosti"
+  },
+  {
+   "id": 299,
+   "text": "Po obdržení vaší žádosti budeme muset ověřit vaši totožnost, abychom určili, že jste stejnou osobou, o které máme údaje v našem systému. Osobní údaje poskytnuté ve vaší žádosti použijeme pouze k ověření vaší totožnosti nebo oprávnění podat žádost. Pokud však nemůžeme ověřit vaši totožnost z údajů, které již uchováváme, můžeme vás požádat o poskytnutí dalších údajů pro účely ověření vaší totožnosti a pro účely bezpečnosti nebo prevence podvodů."
+  },
+  {
+   "id": 300,
+   "text": "Pokud žádost podáte prostřednictvím oprávněného zástupce, můžeme potřebovat shromáždit další údaje k ověření vaší totožnosti před zpracováním vaší žádosti a zástupce bude muset poskytnout vaše písemné a podepsané povolení k podání takové žádosti vaším jménem."
+  },
+  {
+   "id": 301,
+   "text": "Odvolání"
+  },
+  {
+   "id": 302,
+   "text": "Podle určitých zákonů států USA o ochraně údajů, pokud odmítneme podniknout kroky ohledně vaší žádosti, se můžete proti našemu rozhodnutí odvolat e-mailem na adresu "
+  },
+  {
+   "id": 303,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 304,
+   "text": ". Písemně vás budeme informovat o jakémkoli kroku podniknutém nebo nepodniknutém v reakci na odvolání, včetně písemného vysvětlení důvodů rozhodnutí. Pokud bude vaše odvolání zamítnuto, můžete podat stížnost generálnímu prokurátorovi svého státu."
+  },
+  {
+   "id": 305,
+   "text": "Kalifornský zákon „Shine The Light“"
+  },
+  {
+   "id": 306,
+   "text": "Oddíl 1798.83 kalifornského občanského zákoníku, známý také jako zákon „Shine The Light“, umožňuje našim uživatelům, kteří jsou obyvateli Kalifornie, jednou ročně a bezplatně od nás požádat a získat informace o kategoriích osobních údajů (pokud nějaké jsou), které jsme sdělili třetím stranám pro účely přímého marketingu, a jména a adresy všech třetích stran, se kterými jsme sdíleli osobní údaje v bezprostředně předcházejícím kalendářním roce. Pokud jste obyvatelem Kalifornie a chtěli byste takovou žádost podat, předložte prosím svou žádost písemně pomocí kontaktních údajů uvedených v oddíle „"
+  },
+  {
+   "id": 307,
+   "text": "JAK NÁS MŮŽETE KONTAKTOVAT OHLEDNĚ TOHOTO OZNÁMENÍ?"
+  },
+  {
+   "id": 308,
+   "text": "&quot;"
+  },
+  {
+   "id": 309,
+   "text": "13. AKTUALIZUJEME TOTO OZNÁMENÍ?"
+  },
+  {
+   "id": 310,
+   "text": "Stručně: Ano, toto oznámení budeme aktualizovat podle potřeby, abychom zůstali v souladu s příslušnými zákony."
+  },
+  {
+   "id": 311,
+   "text": "Toto oznámení o ochraně osobních údajů můžeme čas od času aktualizovat. Aktualizovaná verze bude označena aktualizovaným datem „Revidováno“ v horní části tohoto oznámení o ochraně osobních údajů. Pokud provedeme podstatné změny tohoto oznámení o ochraně osobních údajů, můžeme vás informovat buď výrazným zveřejněním oznámení o takových změnách, nebo vám přímo zasláním oznámení. Doporučujeme vám, abyste si toto oznámení o ochraně osobních údajů často pročítali, abyste byli informováni o tom, jak chráníme vaše údaje."
+  },
+  {
+   "id": 312,
+   "text": "14. JAK NÁS MŮŽETE KONTAKTOVAT OHLEDNĚ TOHOTO OZNÁMENÍ?"
+  },
+  {
+   "id": 313,
+   "text": "Máte-li dotazy nebo komentáře k tomuto oznámení, můžete kontaktovat našeho pověřence pro ochranu osobních údajů (DPO) e-mailem na adrese "
+  },
+  {
+   "id": 314,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 315,
+   "text": ", nebo nás kontaktovat poštou na adrese:"
+  },
+  {
+   "id": 316,
+   "text": "Tava Labs, LLC"
+  },
+  {
+   "id": 317,
+   "text": "Data Protection Officer"
+  },
+  {
+   "id": 318,
+   "text": "1521 Blake St STE 95593"
+  },
+  {
+   "id": 319,
+   "text": "Denver, CO 80202"
+  },
+  {
+   "id": 320,
+   "text": "United States"
+  },
+  {
+   "id": 321,
+   "text": "15. JAK MŮŽETE ZKONTROLOVAT, AKTUALIZOVAT NEBO SMAZAT ÚDAJE, KTERÉ OD VÁS SHROMAŽĎUJEME?"
+  },
+  {
+   "id": 322,
+   "text": "Na základě platných zákonů vaší země nebo státu bydliště v USA můžete mít právo požádat o přístup k osobním údajům, které od vás shromažďujeme, o podrobnosti o tom, jak jsme je zpracovali, opravit nepřesnosti nebo své osobní údaje smazat. Můžete mít rovněž právo odvolat svůj souhlas s naším zpracováním vašich osobních údajů. Tato práva mohou být za určitých okolností omezena platnými právními předpisy. Chcete-li požádat o kontrolu, aktualizaci nebo smazání svých osobních údajů, navštivte prosím: "
+  },
+  {
+   "id": 323,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 324,
+   "text": "."
+  },
+  {
+   "id": 325,
+   "text": "Tyto Zásady ochrany osobních údajů byly vytvořeny pomocí nástroje Termly&#x27;s "
+  },
+  {
+   "id": 326,
+   "text": "Generátor zásad ochrany osobních údajů"
+  },
+  {
+   "id": 327,
+   "text": "."
+  }
+ ]
+}

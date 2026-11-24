@@ -1,0 +1,119 @@
+{
+  "slug": "cookies",
+  "title": "Evästekäytäntö | Tava Labs",
+  "description": "Miten Tava Labsin verkkosivusto käyttää evästeitä ja vastaavia työkaluja, kun vierailet tavalabs.app-sivustolla, mitä ne tallentavat ja miten voit hallita niitä.",
+  "segments": [
+    {
+      "id": 0,
+      "text": "Oikeudelliset tiedot"
+    },
+    {
+      "id": 1,
+      "text": "Evästekäytäntö"
+    },
+    {
+      "id": 2,
+      "text": "Viimeksi päivitetty: 17. marraskuuta 2026"
+    },
+    {
+      "id": 3,
+      "text": "Tässä evästekäytännössä selitetään, miten Tava Labs (\"Tava Labs\", \"me\") käyttää evästeitä ja vastaavia tekniikoita tavalabs.app-sivustolla (\"Sivusto\"). Käyttämällä Sivustoa hyväksyt evästeiden käytön tässä käytännössä kuvatulla tavalla."
+    },
+    {
+      "id": 4,
+      "text": "Mitä evästeet ovat?"
+    },
+    {
+      "id": 5,
+      "text": "Evästeet ovat pieniä tekstitiedostoja, jotka tallennetaan laitteellesi, kun vierailet verkkosivustolla. Ne auttavat sivustoa muistamaan toimintasi ja asetuksesi, pitämään kassasi turvallisena ja ymmärtämään, miten kävijät käyttävät Sivustoa, jotta voimme parantaa sitä. Vastaavia tekniikoita ovat pikselit, tunnisteet ja paikallinen tallennus, joihin viittaamme tässä käytännössä yhdessä nimellä \"evästeet\"."
+    },
+    {
+      "id": 6,
+      "text": "Käyttämämme evästetyypit"
+    },
+    {
+      "id": 7,
+      "text": "Välttämättömät evästeet."
+    },
+    {
+      "id": 8,
+      "text": " Nämä ovat välttämättömiä Sivuston toiminnalle, esimerkiksi ostoskorin sisällön säilyttämiseen, kassan turvalliseen käsittelyyn ja petosten estämiseen. Sivusto ei voi toimia kunnolla ilman niitä, eikä niitä voi poistaa käytöstä."
+    },
+    {
+      "id": 9,
+      "text": "Toiminnalliset evästeet."
+    },
+    {
+      "id": 10,
+      "text": " Nämä muistavat tekemäsi valinnat (kuten ihokyselyssä asettamasi asetukset) ja tarjoavat henkilökohtaisemman kokemuksen."
+    },
+    {
+      "id": 11,
+      "text": "Analytiikka- ja suorituskykyevästeet."
+    },
+    {
+      "id": 12,
+      "text": " Nämä auttavat meitä laskemaan käyntejä ja ymmärtämään, miten kävijät liikkuvat Sivustolla, jotta voimme mitata ja parantaa suorituskykyä. Kerätyt tiedot ovat koottuja ja mahdollisuuksien mukaan nimettömiä."
+    },
+    {
+      "id": 13,
+      "text": "Markkinointi- ja mainosevästeet."
+    },
+    {
+      "id": 14,
+      "text": " Me tai mainoskumppanimme voivat asettaa näitä evästeitä rakentaakseen profiilin kiinnostuksen kohteistasi ja näyttääkseen sinulle osuvia mainoksia muilla sivustoilla. Ne eivät tallenna suoraan henkilötietoja, vaan perustuvat selaimesi ja laitteesi yksilölliseen tunnistamiseen."
+    },
+    {
+      "id": 15,
+      "text": "Kolmannen osapuolen evästeet"
+    },
+    {
+      "id": 16,
+      "text": "Joitakin evästeitä asettavat kolmannen osapuolen palvelut, jotka näkyvät sivuillamme tai käsittelevät tapahtumia puolestamme, esimerkiksi maksujen käsittelijämme (Stripe) turvallista kassaa varten, verkkosivustomme ylläpitäjä sekä analytiikka- ja mainoskumppanit. Nämä kolmannet osapuolet voivat käyttää evästeitä omien tietosuojakäytäntöjensä mukaisesti, ja kehotamme sinua tutustumaan niihin."
+    },
+    {
+      "id": 17,
+      "text": "Miten evästeitä voi hallita"
+    },
+    {
+      "id": 18,
+      "text": "Useimmissa verkkoselaimissa voit hallita evästeitä asetusten kautta: voit estää tai poistaa evästeitä tai asettaa selaimen ilmoittamaan, kun evästeitä lähetetään. Selaimesi Ohje-osio selittää, miten. Huomaa, että evästeiden poistaminen käytöstä voi vaikuttaa Sivuston toimintaan: jotkin ominaisuudet, kuten kassa, eivät välttämättä toimi kunnolla."
+    },
+    {
+      "id": 19,
+      "text": "Jotkin selaimet lähettävät \"Do Not Track\" -signaalin. Koska näihin signaaleihin vastaamiselle ei ole yhteistä alan standardia, Sivusto ei tällä hetkellä vastaa niihin."
+    },
+    {
+      "id": 20,
+      "text": "Muutokset tähän käytäntöön"
+    },
+    {
+      "id": 21,
+      "text": "Voimme päivittää tätä evästekäytäntöä ajoittain vastaamaan käyttämiemme evästeiden muutoksia tai muista toiminnallisista, oikeudellisista tai sääntelyyn liittyvistä syistä. Kun teemme olennaisia muutoksia, päivitämme yllä olevan \"Viimeksi päivitetty\" -päivämäärän."
+    },
+    {
+      "id": 22,
+      "text": "Yhteystiedot"
+    },
+    {
+      "id": 23,
+      "text": "Kysyttävää evästeiden käytöstämme? Lähetä meille sähköpostia osoitteeseen "
+    },
+    {
+      "id": 24,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 25,
+      "text": ". Lisätietoja henkilötietojen käsittelystä on "
+    },
+    {
+      "id": 26,
+      "text": "Tietosuojakäytännössämme"
+    },
+    {
+      "id": 27,
+      "text": "."
+    }
+  ]
+}

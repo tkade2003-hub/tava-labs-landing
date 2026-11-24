@@ -1,0 +1,1319 @@
+{
+ "slug": "privacy",
+ "title": "Privātuma politika | Tava Labs",
+ "description": "Kā Tava Labs vāc, izmanto un aizsargā jūsu informāciju, kad apmeklējat tavalabs.app, veicat ādas testu vai pasūtāt PDRN Brightening Serum.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "Juridiskā informācija"
+  },
+  {
+   "id": 1,
+   "text": "Privātuma politika"
+  },
+  {
+   "id": 2,
+   "text": "Pēdējo reizi atjaunināts 2026. gada 5. novembrī"
+  },
+  {
+   "id": 3,
+   "text": "Šis Tava Labs, LLC (kas darbojas ar nosaukumu Tava) privātuma paziņojums (&quot;mēs&quot;, &quot;mūs&quot; vai &quot;mūsu&quot;) apraksta, kā un kāpēc mēs varam piekļūt jūsu personiskajai informācijai, to vākt, glabāt, izmantot un/vai kopīgot (&quot;apstrādāt&quot;), kad izmantojat mūsu pakalpojumus (&quot;Pakalpojumi&quot;), tostarp, kad jūs:"
+  },
+  {
+   "id": 4,
+   "text": "Apmeklējat mūsu tīmekļa vietni "
+  },
+  {
+   "id": 5,
+   "text": "http://www.tavalabs.app"
+  },
+  {
+   "id": 6,
+   "text": " vai jebkuru mūsu tīmekļa vietni, kas norāda uz šo privātuma paziņojumu"
+  },
+  {
+   "id": 7,
+   "text": "Izmantojat Founder Wellness Score. Labsajūtas platformu dibinātājiem un vadītājiem, lai mērītu savu stresu, miegu un izskatu, lai saņemtu uztura bagātinātāju ieteikumus un recepšu peptīdus."
+  },
+  {
+   "id": 8,
+   "text": "Citā saistītā veidā sadarbojaties ar mums, tostarp jebkurā mārketingā vai pasākumos"
+  },
+  {
+   "id": 9,
+   "text": "Jautājumi vai bažas?"
+  },
+  {
+   "id": 10,
+   "text": " Šī privātuma paziņojuma izlasīšana palīdzēs jums saprast savas privātuma tiesības un izvēles. Mēs esam atbildīgi par lēmumu pieņemšanu par to, kā jūsu personiskā informācija tiek apstrādāta. Ja nepiekrītat mūsu politikām un praksei, lūdzu, neizmantojiet mūsu Pakalpojumus. Ja jums joprojām ir kādi jautājumi vai bažas, lūdzu, sazinieties ar mums, rakstot uz "
+  },
+  {
+   "id": 11,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 12,
+   "text": "."
+  },
+  {
+   "id": 13,
+   "text": "GALVENO PUNKTU KOPSAVILKUMS"
+  },
+  {
+   "id": 14,
+   "text": "Šis kopsavilkums sniedz galvenos punktus no mūsu privātuma paziņojuma, bet jūs varat uzzināt vairāk informācijas par jebkuru no šīm tēmām, noklikšķinot uz saites, kas seko katram galvenajam punktam, vai izmantojot mūsu "
+  },
+  {
+   "id": 15,
+   "text": "satura rādītāju"
+  },
+  {
+   "id": 16,
+   "text": " zemāk, lai atrastu meklēto sadaļu."
+  },
+  {
+   "id": 17,
+   "text": "Kādu personisko informāciju mēs apstrādājam?"
+  },
+  {
+   "id": 18,
+   "text": " Kad apmeklējat, izmantojat vai pārvietojaties mūsu Pakalpojumos, mēs varam apstrādāt personisko informāciju atkarībā no tā, kā jūs mijiedarbojaties ar mums un Pakalpojumiem, jūsu izdarītajām izvēlēm un jūsu izmantotajiem produktiem un funkcijām. Uzziniet vairāk par "
+  },
+  {
+   "id": 19,
+   "text": "personisko informāciju, ko jūs mums atklājat"
+  },
+  {
+   "id": 20,
+   "text": "."
+  },
+  {
+   "id": 21,
+   "text": "Vai mēs apstrādājam kādu sensitīvu personisko informāciju?"
+  },
+  {
+   "id": 22,
+   "text": " Daļa informācijas noteiktās jurisdikcijās var tikt uzskatīta par &quot;īpašu&quot; vai &quot;sensitīvu&quot;, piemēram, jūsu rasu vai etniskā izcelsme, seksuālā orientācija un reliģiskie uzskati. Mēs varam apstrādāt sensitīvu personisko informāciju, kad tas ir nepieciešams, ar jūsu piekrišanu vai kā citādi atļauj piemērojamie tiesību akti. Uzziniet vairāk par "
+  },
+  {
+   "id": 23,
+   "text": "sensitīvo informāciju, ko mēs apstrādājam"
+  },
+  {
+   "id": 24,
+   "text": "."
+  },
+  {
+   "id": 25,
+   "text": "Vai mēs vācam kādu informāciju no trešajām pusēm?"
+  },
+  {
+   "id": 26,
+   "text": " Mēs nevācam nekādu informāciju no trešajām pusēm."
+  },
+  {
+   "id": 27,
+   "text": "Kā mēs apstrādājam jūsu informāciju?"
+  },
+  {
+   "id": 28,
+   "text": " Mēs apstrādājam jūsu informāciju, lai sniegtu, uzlabotu un administrētu mūsu Pakalpojumus, sazinātos ar jums, drošības un krāpšanas novēršanas nolūkā un lai ievērotu likumu. Mēs varam arī apstrādāt jūsu informāciju citiem mērķiem ar jūsu piekrišanu. Mēs apstrādājam jūsu informāciju tikai tad, kad mums ir pamatots juridisks iemesls to darīt. Uzziniet vairāk par "
+  },
+  {
+   "id": 29,
+   "text": "to, kā mēs apstrādājam jūsu informāciju"
+  },
+  {
+   "id": 30,
+   "text": "."
+  },
+  {
+   "id": 31,
+   "text": "Kādās situācijās un ar kurām pusēm mēs kopīgojam personisko informāciju?"
+  },
+  {
+   "id": 32,
+   "text": " Mēs varam kopīgot informāciju konkrētās situācijās un ar konkrētām trešajām pusēm. Uzziniet vairāk par "
+  },
+  {
+   "id": 33,
+   "text": "to, kad un ar ko mēs kopīgojam jūsu personisko informāciju"
+  },
+  {
+   "id": 34,
+   "text": "."
+  },
+  {
+   "id": 35,
+   "text": "Kā mēs glabājam jūsu informāciju drošībā?"
+  },
+  {
+   "id": 36,
+   "text": " Mums ir ieviesti atbilstoši organizatoriski un tehniski procesi un procedūras, lai aizsargātu jūsu personisko informāciju. Tomēr nevienu elektronisku pārraidi internetā vai informācijas glabāšanas tehnoloģiju nevar garantēt kā 100% drošu, tāpēc mēs nevaram apsolīt vai garantēt, ka hakeri, kibernoziedznieki vai citas neatļautas trešās puses nevarēs pārvarēt mūsu drošību un nepareizi vākt, piekļūt, nozagt vai mainīt jūsu informāciju. Uzziniet vairāk par "
+  },
+  {
+   "id": 37,
+   "text": "to, kā mēs glabājam jūsu informāciju drošībā"
+  },
+  {
+   "id": 38,
+   "text": "."
+  },
+  {
+   "id": 39,
+   "text": "Kādas ir jūsu tiesības?"
+  },
+  {
+   "id": 40,
+   "text": " Atkarībā no jūsu ģeogrāfiskās atrašanās vietas piemērojamais privātuma likums var nozīmēt, ka jums ir noteiktas tiesības attiecībā uz jūsu personisko informāciju. Uzziniet vairāk par "
+  },
+  {
+   "id": 41,
+   "text": "jūsu privātuma tiesībām"
+  },
+  {
+   "id": 42,
+   "text": "."
+  },
+  {
+   "id": 43,
+   "text": "Kā jūs īstenojat savas tiesības?"
+  },
+  {
+   "id": 44,
+   "text": " Vienkāršākais veids, kā īstenot savas tiesības, ir apmeklējot "
+  },
+  {
+   "id": 45,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 46,
+   "text": ", vai sazinoties ar mums. Mēs izskatīsim un rīkosimies pēc jebkura pieprasījuma saskaņā ar piemērojamiem datu aizsardzības likumiem."
+  },
+  {
+   "id": 47,
+   "text": "Vai vēlaties uzzināt vairāk par to, ko mēs darām ar jebkuru informāciju, ko vācam? "
+  },
+  {
+   "id": 48,
+   "text": "Pārskatiet privātuma paziņojumu pilnībā"
+  },
+  {
+   "id": 49,
+   "text": "."
+  },
+  {
+   "id": 50,
+   "text": "SATURA RĀDĪTĀJS"
+  },
+  {
+   "id": 51,
+   "text": "1. KĀDU INFORMĀCIJU MĒS VĀCAM?"
+  },
+  {
+   "id": 52,
+   "text": "2. KĀ MĒS APSTRĀDĀJAM JŪSU INFORMĀCIJU?"
+  },
+  {
+   "id": 53,
+   "text": "3. KAD UN AR KO MĒS KOPĪGOJAM JŪSU PERSONISKO INFORMĀCIJU?"
+  },
+  {
+   "id": 54,
+   "text": "4. VAI MĒS IZMANTOJAM SĪKDATNES UN CITAS IZSEKOŠANAS TEHNOLOĢIJAS?"
+  },
+  {
+   "id": 55,
+   "text": "5. VAI MĒS PIEDĀVĀJAM UZ MĀKSLĪGĀ INTELEKTA BALSTĪTUS PRODUKTUS?"
+  },
+  {
+   "id": 56,
+   "text": "6. KĀ MĒS APSTRĀDĀJAM JŪSU SOCIĀLO TĪKLU PIERAKSTĪŠANOS?"
+  },
+  {
+   "id": 57,
+   "text": "7. CIK ILGI MĒS GLABĀJAM JŪSU INFORMĀCIJU?"
+  },
+  {
+   "id": 58,
+   "text": "8. KĀ MĒS GLABĀJAM JŪSU INFORMĀCIJU DROŠĪBĀ?"
+  },
+  {
+   "id": 59,
+   "text": "9. VAI MĒS VĀCAM INFORMĀCIJU NO NEPILNGADĪGAJIEM?"
+  },
+  {
+   "id": 60,
+   "text": "10. KĀDAS IR JŪSU PRIVĀTUMA TIESĪBAS?"
+  },
+  {
+   "id": 61,
+   "text": "11. VADĪBAS ELEMENTI FUNKCIJĀM DO-NOT-TRACK"
+  },
+  {
+   "id": 62,
+   "text": "12. VAI AMERIKAS SAVIENOTO VALSTU IEDZĪVOTĀJIEM IR ĪPAŠAS PRIVĀTUMA TIESĪBAS?"
+  },
+  {
+   "id": 63,
+   "text": "13. VAI MĒS VEICAM ATJAUNINĀJUMUS ŠAJĀ PAZIŅOJUMĀ?"
+  },
+  {
+   "id": 64,
+   "text": "14. KĀ JŪS VARAT SAZINĀTIES AR MUMS PAR ŠO PAZIŅOJUMU?"
+  },
+  {
+   "id": 65,
+   "text": "15. KĀ JŪS VARAT PĀRSKATĪT, ATJAUNINĀT VAI DZĒST DATUS, KO MĒS NO JUMS VĀCAM?"
+  },
+  {
+   "id": 66,
+   "text": "1. KĀDU INFORMĀCIJU MĒS VĀCAM?"
+  },
+  {
+   "id": 67,
+   "text": "Personiskā informācija, ko jūs mums atklājat"
+  },
+  {
+   "id": 68,
+   "text": "Īsumā: Mēs vācam personisko informāciju, ko jūs mums sniedzat."
+  },
+  {
+   "id": 69,
+   "text": "Mēs vācam personisko informāciju, ko jūs brīvprātīgi mums sniedzat, kad reģistrējaties Pakalpojumiem, izrādāt interesi saņemt informāciju par mums vai mūsu produktiem un Pakalpojumiem, kad piedalāties aktivitātēs Pakalpojumos vai citādi, kad sazināties ar mums."
+  },
+  {
+   "id": 70,
+   "text": "Jūsu sniegtā personiskā informācija."
+  },
+  {
+   "id": 71,
+   "text": " Personiskā informācija, ko mēs vācam, ir atkarīga no jūsu mijiedarbības ar mums un Pakalpojumiem konteksta, jūsu izdarītajām izvēlēm un jūsu izmantotajiem produktiem un funkcijām. Personiskā informācija, ko mēs varam vākt, var ietvert šādu informāciju:"
+  },
+  {
+   "id": 72,
+   "text": "vārdi"
+  },
+  {
+   "id": 73,
+   "text": "e-pasta adreses"
+  },
+  {
+   "id": 74,
+   "text": "paroles"
+  },
+  {
+   "id": 75,
+   "text": "norēķinu adreses"
+  },
+  {
+   "id": 76,
+   "text": "debetkaršu/kredītkaršu numuri"
+  },
+  {
+   "id": 77,
+   "text": "Sensitīva informācija."
+  },
+  {
+   "id": 78,
+   "text": " Kad nepieciešams, ar jūsu piekrišanu vai kā citādi atļauj piemērojamie tiesību akti, mēs apstrādājam šādas sensitīvas informācijas kategorijas:"
+  },
+  {
+   "id": 79,
+   "text": "veselības dati"
+  },
+  {
+   "id": 80,
+   "text": "Maksājumu dati."
+  },
+  {
+   "id": 81,
+   "text": " Mēs varam vākt datus, kas nepieciešami jūsu maksājuma apstrādei, ja izvēlaties veikt pirkumus, piemēram, jūsu maksājumu instrumenta numuru un ar jūsu maksājumu instrumentu saistīto drošības kodu. Visus maksājumu datus apstrādā un glabā Stripe, Inc. Jūs varat atrast viņu privātuma paziņojuma saiti(-es) šeit: "
+  },
+  {
+   "id": 82,
+   "text": "https://stripe.com/privacy-policy"
+  },
+  {
+   "id": 83,
+   "text": "."
+  },
+  {
+   "id": 84,
+   "text": "Sociālo tīklu pieteikšanās dati."
+  },
+  {
+   "id": 85,
+   "text": " Mēs varam sniegt jums iespēju reģistrēties pie mums, izmantojot jūsu esošā sociālā tīkla konta informāciju, piemēram, jūsu Facebook, X vai citu sociālā tīkla kontu. Ja izvēlaties reģistrēties šādā veidā, mēs vāksim noteiktu profila informāciju par jums no sociālā tīkla pakalpojumu sniedzēja, kā aprakstīts sadaļā ar nosaukumu &quot;"
+  },
+  {
+   "id": 86,
+   "text": "KĀ MĒS APSTRĀDĀJAM JŪSU SOCIĀLO TĪKLU PIERAKSTĪŠANOS?"
+  },
+  {
+   "id": 87,
+   "text": "&quot; zemāk."
+  },
+  {
+   "id": 88,
+   "text": "Visai personiskajai informācijai, ko jūs mums sniedzat, jābūt patiesai, pilnīgai un precīzai, un jums ir jāpaziņo mums par jebkurām šādas personiskās informācijas izmaiņām."
+  },
+  {
+   "id": 89,
+   "text": "Automātiski vākta informācija"
+  },
+  {
+   "id": 90,
+   "text": "Īsumā: Daļa informācijas, piemēram, jūsu interneta protokola (IP) adrese un/vai pārlūkprogrammas un ierīces raksturlielumi, tiek vākta automātiski, kad apmeklējat mūsu Pakalpojumus."
+  },
+  {
+   "id": 91,
+   "text": "Mēs automātiski vācam noteiktu informāciju, kad apmeklējat, izmantojat vai pārvietojaties Pakalpojumos. Šī informācija neatklāj jūsu konkrēto identitāti (piemēram, jūsu vārdu vai kontaktinformāciju), bet var ietvert ierīces un lietošanas informāciju, piemēram, jūsu IP adresi, pārlūkprogrammas un ierīces raksturlielumus, operētājsistēmu, valodas preferences, atsauces URL, ierīces nosaukumu, valsti, atrašanās vietu, informāciju par to, kā un kad izmantojat mūsu Pakalpojumus, un citu tehnisko informāciju. Šī informācija galvenokārt ir nepieciešama, lai uzturētu mūsu Pakalpojumu drošību un darbību, kā arī mūsu iekšējās analītikas un ziņošanas nolūkiem."
+  },
+  {
+   "id": 92,
+   "text": "Informācija, ko mēs vācam, ietver:"
+  },
+  {
+   "id": 93,
+   "text": "Žurnāla un lietošanas dati."
+  },
+  {
+   "id": 94,
+   "text": " Žurnāla un lietošanas dati ir ar pakalpojumu saistīta, diagnostikas, lietošanas un veiktspējas informācija, ko mūsu serveri automātiski vāc, kad piekļūstat mūsu Pakalpojumiem vai tos izmantojat, un ko mēs ierakstām žurnālfailos. Atkarībā no tā, kā jūs mijiedarbojaties ar mums, šie žurnāla dati var ietvert jūsu IP adresi, ierīces informāciju, pārlūkprogrammas veidu un iestatījumus un informāciju par jūsu aktivitāti Pakalpojumos (piemēram, ar jūsu lietošanu saistītos datuma/laika zīmogus, skatītās lapas un failus, meklējumus un citas jūsu veiktās darbības, piemēram, kuras funkcijas izmantojat), ierīces notikumu informāciju (piemēram, sistēmas aktivitāti, kļūdu ziņojumus (dažreiz sauktus par &quot;crash dumps&quot;) un aparatūras iestatījumus)."
+  },
+  {
+   "id": 95,
+   "text": "Ierīces dati."
+  },
+  {
+   "id": 96,
+   "text": " Mēs vācam ierīces datus, piemēram, informāciju par jūsu datoru, tālruni, planšetdatoru vai citu ierīci, ko izmantojat, lai piekļūtu Pakalpojumiem. Atkarībā no izmantotās ierīces šie ierīces dati var ietvert informāciju, piemēram, jūsu IP adresi (vai starpniekserveri), ierīces un lietojumprogrammas identifikācijas numurus, atrašanās vietu, pārlūkprogrammas veidu, aparatūras modeli, interneta pakalpojumu sniedzēju un/vai mobilo sakaru operatoru, operētājsistēmu un sistēmas konfigurācijas informāciju."
+  },
+  {
+   "id": 97,
+   "text": "Atrašanās vietas dati."
+  },
+  {
+   "id": 98,
+   "text": " Mēs vācam atrašanās vietas datus, piemēram, informāciju par jūsu ierīces atrašanās vietu, kas var būt precīza vai neprecīza. Cik daudz informācijas mēs vācam, ir atkarīgs no ierīces, ko izmantojat, lai piekļūtu Pakalpojumiem, veida un iestatījumiem. Piemēram, mēs varam izmantot GPS un citas tehnoloģijas, lai vāktu ģeogrāfiskās atrašanās vietas datus, kas mums norāda jūsu pašreizējo atrašanās vietu (pamatojoties uz jūsu IP adresi). Jūs varat atteikties ļaut mums vākt šo informāciju, vai nu atsakot piekļuvi informācijai, vai atspējojot atrašanās vietas iestatījumu savā ierīcē. Tomēr, ja izvēlaties atteikties, jūs, iespējams, nevarēsiet izmantot noteiktus Pakalpojumu aspektus."
+  },
+  {
+   "id": 99,
+   "text": "2. KĀ MĒS APSTRĀDĀJAM JŪSU INFORMĀCIJU?"
+  },
+  {
+   "id": 100,
+   "text": "Īsumā: Mēs apstrādājam jūsu informāciju, lai sniegtu, uzlabotu un administrētu mūsu Pakalpojumus, sazinātos ar jums, drošības un krāpšanas novēršanas nolūkā un lai ievērotu likumu. Mēs varam arī apstrādāt jūsu informāciju citiem mērķiem ar jūsu piekrišanu."
+  },
+  {
+   "id": 101,
+   "text": "Mēs apstrādājam jūsu personisko informāciju dažādu iemeslu dēļ atkarībā no tā, kā jūs mijiedarbojaties ar mūsu Pakalpojumiem, tostarp:"
+  },
+  {
+   "id": 102,
+   "text": "Lai atvieglotu konta izveidi un autentifikāciju un citādi pārvaldītu lietotāju kontus."
+  },
+  {
+   "id": 103,
+   "text": " Mēs varam apstrādāt jūsu informāciju, lai jūs varētu izveidot un pieteikties savā kontā, kā arī uzturēt jūsu kontu darba kārtībā."
+  },
+  {
+   "id": 104,
+   "text": "Lai piegādātu un atvieglotu pakalpojumu piegādi lietotājam."
+  },
+  {
+   "id": 105,
+   "text": " Mēs varam apstrādāt jūsu informāciju, lai sniegtu jums pieprasīto pakalpojumu."
+  },
+  {
+   "id": 106,
+   "text": "Lai atbildētu uz lietotāju jautājumiem/piedāvātu atbalstu lietotājiem."
+  },
+  {
+   "id": 107,
+   "text": " Mēs varam apstrādāt jūsu informāciju, lai atbildētu uz jūsu jautājumiem un atrisinātu jebkuras iespējamās problēmas, kas jums varētu būt ar pieprasīto pakalpojumu."
+  },
+  {
+   "id": 108,
+   "text": "Lai nosūtītu jums administratīvu informāciju."
+  },
+  {
+   "id": 109,
+   "text": " Mēs varam apstrādāt jūsu informāciju, lai nosūtītu jums informāciju par mūsu produktiem un pakalpojumiem, izmaiņām mūsu noteikumos un politikās un citu līdzīgu informāciju."
+  },
+  {
+   "id": 110,
+   "text": "Lai izpildītu un pārvaldītu jūsu pasūtījumus."
+  },
+  {
+   "id": 111,
+   "text": " Mēs varam apstrādāt jūsu informāciju, lai izpildītu un pārvaldītu jūsu pasūtījumus, maksājumus, atgriešanu un apmaiņu, kas veikta, izmantojot Pakalpojumus."
+  },
+  {
+   "id": 112,
+   "text": "Lai pieprasītu atsauksmes."
+  },
+  {
+   "id": 113,
+   "text": " Mēs varam apstrādāt jūsu informāciju, kad nepieciešams, lai pieprasītu atsauksmes un sazinātos ar jums par jūsu mūsu Pakalpojumu izmantošanu."
+  },
+  {
+   "id": 114,
+   "text": "Lai publicētu atsauksmes."
+  },
+  {
+   "id": 115,
+   "text": " Mēs publicējam atsauksmes mūsu Pakalpojumos, kas var saturēt personisko informāciju."
+  },
+  {
+   "id": 116,
+   "text": "Lai novērtētu un uzlabotu mūsu Pakalpojumus, produktus, mārketingu un jūsu pieredzi."
+  },
+  {
+   "id": 117,
+   "text": " Mēs varam apstrādāt jūsu informāciju, kad uzskatām, ka tas ir nepieciešams, lai identificētu lietošanas tendences, noteiktu mūsu reklāmas kampaņu efektivitāti un novērtētu un uzlabotu mūsu Pakalpojumus, produktus, mārketingu un jūsu pieredzi."
+  },
+  {
+   "id": 118,
+   "text": "Lai identificētu lietošanas tendences."
+  },
+  {
+   "id": 119,
+   "text": " Mēs varam apstrādāt informāciju par to, kā jūs izmantojat mūsu Pakalpojumus, lai labāk saprastu, kā tie tiek izmantoti, lai mēs varētu tos uzlabot."
+  },
+  {
+   "id": 120,
+   "text": "3. KAD UN AR KO MĒS KOPĪGOJAM JŪSU PERSONISKO INFORMĀCIJU?"
+  },
+  {
+   "id": 121,
+   "text": "Īsumā: Mēs varam kopīgot informāciju konkrētās situācijās, kas aprakstītas šajā sadaļā, un/vai ar šādām trešajām pusēm."
+  },
+  {
+   "id": 122,
+   "text": "Mums var būt nepieciešams kopīgot jūsu personisko informāciju šādās situācijās:"
+  },
+  {
+   "id": 123,
+   "text": "Uzņēmuma nodošana."
+  },
+  {
+   "id": 124,
+   "text": " Mēs varam kopīgot vai nodot jūsu informāciju saistībā ar jebkuru apvienošanos, uzņēmuma aktīvu pārdošanu, finansēšanu vai visa mūsu uzņēmuma vai tā daļas iegādi no cita uzņēmuma, vai sarunu laikā par to."
+  },
+  {
+   "id": 125,
+   "text": "Biznesa partneri."
+  },
+  {
+   "id": 126,
+   "text": " Mēs varam kopīgot jūsu informāciju ar mūsu biznesa partneriem, lai piedāvātu jums noteiktus produktus, pakalpojumus vai akcijas."
+  },
+  {
+   "id": 127,
+   "text": "4. VAI MĒS IZMANTOJAM SĪKDATNES UN CITAS IZSEKOŠANAS TEHNOLOĢIJAS?"
+  },
+  {
+   "id": 128,
+   "text": "Īsumā: Mēs varam izmantot sīkdatnes un citas izsekošanas tehnoloģijas, lai vāktu un glabātu jūsu informāciju."
+  },
+  {
+   "id": 129,
+   "text": "Mēs varam izmantot sīkdatnes un līdzīgas izsekošanas tehnoloģijas (piemēram, tīmekļa bākas un pikseļus), lai vāktu informāciju, kad mijiedarbojaties ar mūsu Pakalpojumiem. Dažas tiešsaistes izsekošanas tehnoloģijas palīdz mums uzturēt mūsu Pakalpojumu un jūsu konta drošību, novērst avārijas, labot kļūdas, saglabāt jūsu preferences un palīdzēt ar pamata vietnes funkcijām."
+  },
+  {
+   "id": 130,
+   "text": "Mēs arī ļaujam trešajām pusēm un pakalpojumu sniedzējiem izmantot tiešsaistes izsekošanas tehnoloģijas mūsu Pakalpojumos analītikai un reklāmai, tostarp lai palīdzētu pārvaldīt un rādīt reklāmas vai pielāgot reklāmas jūsu interesēm. Trešās puses un pakalpojumu sniedzēji izmanto savu tehnoloģiju, lai sniegtu reklāmu par produktiem un pakalpojumiem, kas pielāgoti jūsu interesēm un kas var parādīties vai nu mūsu Pakalpojumos, vai citās tīmekļa vietnēs."
+  },
+  {
+   "id": 131,
+   "text": "Ciktāl šīs tiešsaistes izsekošanas tehnoloģijas tiek uzskatītas par &quot;pārdošanu&quot;/&quot;kopīgošanu&quot; (kas ietver mērķētu reklāmu, kā definēts saskaņā ar piemērojamiem likumiem) saskaņā ar piemērojamiem ASV štatu likumiem, jūs varat atteikties no šīm tiešsaistes izsekošanas tehnoloģijām, iesniedzot pieprasījumu, kā aprakstīts zemāk sadaļā &quot;"
+  },
+  {
+   "id": 132,
+   "text": "VAI AMERIKAS SAVIENOTO VALSTU IEDZĪVOTĀJIEM IR ĪPAŠAS PRIVĀTUMA TIESĪBAS?"
+  },
+  {
+   "id": 133,
+   "text": "&quot;"
+  },
+  {
+   "id": 134,
+   "text": "Konkrēta informācija par to, kā mēs izmantojam šādas tehnoloģijas un kā jūs varat atteikties no noteiktām sīkdatnēm, ir izklāstīta mūsu sīkdatņu paziņojumā."
+  },
+  {
+   "id": 135,
+   "text": "Google Analytics"
+  },
+  {
+   "id": 136,
+   "text": "Mēs varam kopīgot jūsu informāciju ar Google Analytics, lai izsekotu un analizētu Pakalpojumu izmantošanu. Google Analytics reklāmas funkcijas, ko mēs varam izmantot, ietver: Google Display Network Impressions Reporting un Google Analytics Demographics and Interests Reporting. Lai atteiktos no Google Analytics izsekošanas visos Pakalpojumos, apmeklējiet "
+  },
+  {
+   "id": 137,
+   "text": "https://tools.google.com/dlpage/gaoptout"
+  },
+  {
+   "id": 138,
+   "text": ". Jūs varat atteikties no Google Analytics reklāmas funkcijām, izmantojot "
+  },
+  {
+   "id": 139,
+   "text": "Reklāmu iestatījumus"
+  },
+  {
+   "id": 140,
+   "text": " un mobilo lietotņu reklāmu iestatījumus. Citi atteikšanās līdzekļi ietver "
+  },
+  {
+   "id": 141,
+   "text": "http://optout.networkadvertising.org/"
+  },
+  {
+   "id": 142,
+   "text": " and "
+  },
+  {
+   "id": 143,
+   "text": " un "
+  },
+  {
+   "id": 144,
+   "text": ". For more information on the privacy practices of Google, please visit the "
+  },
+  {
+   "id": 145,
+   "text": "Google privātuma &amp; noteikumu lapu"
+  },
+  {
+   "id": 146,
+   "text": "."
+  },
+  {
+   "id": 147,
+   "text": "5. VAI MĒS PIEDĀVĀJAM UZ MĀKSLĪGĀ INTELEKTA BALSTĪTUS PRODUKTUS?"
+  },
+  {
+   "id": 148,
+   "text": "Īsumā: Mēs piedāvājam produktus, funkcijas vai rīkus, ko darbina mākslīgais intelekts, mašīnmācīšanās vai līdzīgas tehnoloģijas."
+  },
+  {
+   "id": 149,
+   "text": "Kā daļu no mūsu Pakalpojumiem mēs piedāvājam produktus, funkcijas vai rīkus, ko darbina mākslīgais intelekts, mašīnmācīšanās vai līdzīgas tehnoloģijas (kopā &quot;MI produkti&quot;). Šie rīki ir paredzēti, lai uzlabotu jūsu pieredzi un sniegtu jums inovatīvus risinājumus. Šajā privātuma paziņojumā ietvertie noteikumi reglamentē jūsu MI produktu izmantošanu mūsu Pakalpojumos."
+  },
+  {
+   "id": 150,
+   "text": "MI tehnoloģiju izmantošana"
+  },
+  {
+   "id": 151,
+   "text": "Mēs nodrošinām MI produktus, izmantojot trešo pušu pakalpojumu sniedzējus (&quot;MI pakalpojumu sniedzēji&quot;), tostarp OpenAI. Kā izklāstīts šajā privātuma paziņojumā, jūsu ievade, izvade un personiskā informācija tiks kopīgota ar šiem MI pakalpojumu sniedzējiem un tie to apstrādās, lai ļautu jums izmantot mūsu MI produktus mērķiem, kas izklāstīti sadaļā &quot;"
+  },
+  {
+   "id": 152,
+   "text": "KAD UN AR KO MĒS KOPĪGOJAM JŪSU PERSONISKO INFORMĀCIJU?"
+  },
+  {
+   "id": 153,
+   "text": "&quot; Jūs nedrīkstat izmantot MI produktus nekādā veidā, kas pārkāpj jebkura MI pakalpojumu sniedzēja noteikumus vai politikas."
+  },
+  {
+   "id": 154,
+   "text": "Mūsu MI produkti"
+  },
+  {
+   "id": 155,
+   "text": "Mūsu MI produkti ir paredzēti šādām funkcijām:"
+  },
+  {
+   "id": 156,
+   "text": "MI ieskati"
+  },
+  {
+   "id": 157,
+   "text": "Kā mēs apstrādājam jūsu datus, izmantojot MI"
+  },
+  {
+   "id": 158,
+   "text": "Visa personiskā informācija, kas tiek apstrādāta, izmantojot mūsu MI produktus, tiek apstrādāta saskaņā ar mūsu privātuma paziņojumu un mūsu vienošanos ar trešajām pusēm. Tas nodrošina augstu drošību un aizsargā jūsu personisko informāciju visā procesā, sniedzot jums sirdsmieru par jūsu datu drošību."
+  },
+  {
+   "id": 159,
+   "text": "6. KĀ MĒS APSTRĀDĀJAM JŪSU SOCIĀLO TĪKLU PIERAKSTĪŠANOS?"
+  },
+  {
+   "id": 160,
+   "text": "Īsumā: Ja izvēlaties reģistrēties vai pieteikties mūsu Pakalpojumos, izmantojot sociālā tīkla kontu, mums var būt piekļuve noteiktai informācijai par jums."
+  },
+  {
+   "id": 161,
+   "text": "Mūsu Pakalpojumi piedāvā jums iespēju reģistrēties un pieteikties, izmantojot jūsu trešās puses sociālā tīkla konta informāciju (piemēram, jūsu Facebook vai X pieteikšanās datus). Kur jūs izvēlaties to darīt, mēs saņemsim noteiktu profila informāciju par jums no jūsu sociālā tīkla pakalpojumu sniedzēja. Profila informācija, ko mēs saņemam, var atšķirties atkarībā no attiecīgā sociālā tīkla pakalpojumu sniedzēja, bet bieži ietvers jūsu vārdu, e-pasta adresi, draugu sarakstu un profila attēlu, kā arī citu informāciju, ko izvēlaties padarīt publisku šādā sociālā tīkla platformā."
+  },
+  {
+   "id": 162,
+   "text": "Mēs izmantosim saņemto informāciju tikai mērķiem, kas aprakstīti šajā privātuma paziņojumā vai kas citādi jums ir skaidri norādīti attiecīgajos Pakalpojumos. Lūdzu, ņemiet vērā, ka mēs nekontrolējam un neesam atbildīgi par citiem jūsu personiskās informācijas izmantošanas veidiem no jūsu trešās puses sociālā tīkla pakalpojumu sniedzēja puses. Iesakām pārskatīt viņu privātuma paziņojumu, lai saprastu, kā viņi vāc, izmanto un kopīgo jūsu personisko informāciju un kā jūs varat iestatīt savas privātuma preferences viņu vietnēs un lietotnēs."
+  },
+  {
+   "id": 163,
+   "text": "7. CIK ILGI MĒS GLABĀJAM JŪSU INFORMĀCIJU?"
+  },
+  {
+   "id": 164,
+   "text": "Īsumā: Mēs glabājam jūsu informāciju tik ilgi, cik nepieciešams, lai izpildītu šajā privātuma paziņojumā izklāstītos mērķus, ja vien likums neprasa citādi."
+  },
+  {
+   "id": 165,
+   "text": "Mēs glabāsim jūsu personisko informāciju tikai tik ilgi, cik tas ir nepieciešams šajā privātuma paziņojumā izklāstītajiem mērķiem, ja vien likums neprasa vai neatļauj ilgāku glabāšanas periodu (piemēram, nodokļu, grāmatvedības vai citas juridiskas prasības). Neviens mērķis šajā paziņojumā neprasīs mums glabāt jūsu personisko informāciju ilgāk par periodu, kurā lietotājiem ir konts pie mums."
+  },
+  {
+   "id": 166,
+   "text": "Kad mums vairs nav pastāvīgas likumīgas biznesa nepieciešamības apstrādāt jūsu personisko informāciju, mēs vai nu dzēsīsim, vai anonimizēsim šādu informāciju, vai, ja tas nav iespējams (piemēram, tāpēc, ka jūsu personiskā informācija ir saglabāta dublējuma arhīvos), tad mēs droši glabāsim jūsu personisko informāciju un izolēsim to no jebkādas turpmākas apstrādes, līdz dzēšana būs iespējama."
+  },
+  {
+   "id": 167,
+   "text": "8. KĀ MĒS GLABĀJAM JŪSU INFORMĀCIJU DROŠĪBĀ?"
+  },
+  {
+   "id": 168,
+   "text": "Īsumā: Mēs cenšamies aizsargāt jūsu personisko informāciju, izmantojot organizatorisku un tehnisku drošības pasākumu sistēmu."
+  },
+  {
+   "id": 169,
+   "text": "Mēs esam ieviesuši atbilstošus un saprātīgus tehniskus un organizatoriskus drošības pasākumus, kas paredzēti, lai aizsargātu jebkuras mūsu apstrādātās personiskās informācijas drošību. Tomēr, neskatoties uz mūsu aizsardzības pasākumiem un centieniem nodrošināt jūsu informāciju, nevienu elektronisku pārraidi internetā vai informācijas glabāšanas tehnoloģiju nevar garantēt kā 100% drošu, tāpēc mēs nevaram apsolīt vai garantēt, ka hakeri, kibernoziedznieki vai citas neatļautas trešās puses nevarēs pārvarēt mūsu drošību un nepareizi vākt, piekļūt, nozagt vai mainīt jūsu informāciju. Lai gan mēs darīsim visu iespējamo, lai aizsargātu jūsu personisko informāciju, personiskās informācijas pārraide uz mūsu Pakalpojumiem un no tiem ir uz jūsu paša risku. Jums vajadzētu piekļūt Pakalpojumiem tikai drošā vidē."
+  },
+  {
+   "id": 170,
+   "text": "9. VAI MĒS VĀCAM INFORMĀCIJU NO NEPILNGADĪGAJIEM?"
+  },
+  {
+   "id": 171,
+   "text": "Īsumā: Mēs apzināti nevācam datus no bērniem, kas jaunāki par 18 gadiem, un nepārdodam tiem."
+  },
+  {
+   "id": 172,
+   "text": "Mēs apzināti nevācam, nepieprasām datus no bērniem, kas jaunāki par 18 gadiem, un nepārdodam tiem, kā arī apzināti nepārdodam šādu personisko informāciju. Izmantojot Pakalpojumus, jūs apliecināt, ka esat vismaz 18 gadus vecs vai ka esat šāda nepilngadīgā vecāks vai aizbildnis un piekrītat šāda nepilngadīgā apgādājamā Pakalpojumu izmantošanai. Ja mēs uzzinām, ka ir savākta personiskā informācija no lietotājiem, kas jaunāki par 18 gadiem, mēs deaktivizēsim kontu un veiksim saprātīgus pasākumus, lai nekavējoties dzēstu šādus datus no mūsu ierakstiem. Ja jūs uzzināt par jebkuriem datiem, ko mēs, iespējams, esam savākuši no bērniem, kas jaunāki par 18 gadiem, lūdzu, sazinieties ar mums, rakstot uz "
+  },
+  {
+   "id": 173,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 174,
+   "text": "."
+  },
+  {
+   "id": 175,
+   "text": "10. KĀDAS IR JŪSU PRIVĀTUMA TIESĪBAS?"
+  },
+  {
+   "id": 176,
+   "text": "Jūsu piekrišanas atsaukšana:"
+  },
+  {
+   "id": 177,
+   "text": " Ja mēs paļaujamies uz jūsu piekrišanu, lai apstrādātu jūsu personisko informāciju, kas var būt skaidra un/vai netieša piekrišana atkarībā no piemērojamiem tiesību aktiem, jums ir tiesības jebkurā laikā atsaukt savu piekrišanu. Jūs varat jebkurā laikā atsaukt savu piekrišanu, sazinoties ar mums, izmantojot kontaktinformāciju, kas sniegta sadaļā &quot;"
+  },
+  {
+   "id": 178,
+   "text": "KĀ JŪS VARAT SAZINĀTIES AR MUMS PAR ŠO PAZIŅOJUMU?"
+  },
+  {
+   "id": 179,
+   "text": "&quot; zemāk."
+  },
+  {
+   "id": 180,
+   "text": "Tomēr, lūdzu, ņemiet vērā, ka tas neietekmēs apstrādes likumību pirms tās atsaukšanas, kā arī, kad piemērojamie tiesību akti to atļauj, tas neietekmēs jūsu personiskās informācijas apstrādi, kas veikta, paļaujoties uz likumīgiem apstrādes pamatiem, kas nav piekrišana."
+  },
+  {
+   "id": 181,
+   "text": "Konta informācija"
+  },
+  {
+   "id": 182,
+   "text": "Ja jūs jebkurā laikā vēlētos pārskatīt vai mainīt informāciju savā kontā vai izbeigt savu kontu, jūs varat:"
+  },
+  {
+   "id": 183,
+   "text": "Pieteikties sava konta iestatījumos un atjaunināt savu lietotāja kontu."
+  },
+  {
+   "id": 184,
+   "text": "Pēc jūsu pieprasījuma izbeigt jūsu kontu mēs deaktivizēsim vai dzēsīsim jūsu kontu un informāciju no mūsu aktīvajām datubāzēm. Tomēr mēs varam saglabāt daļu informācijas mūsu failos, lai novērstu krāpšanu, novērstu problēmas, palīdzētu jebkurā izmeklēšanā, īstenotu mūsu juridiskos noteikumus un/vai ievērotu piemērojamās juridiskās prasības."
+  },
+  {
+   "id": 185,
+   "text": "Ja jums ir jautājumi vai komentāri par jūsu privātuma tiesībām, jūs varat mums rakstīt uz "
+  },
+  {
+   "id": 186,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 187,
+   "text": "."
+  },
+  {
+   "id": 188,
+   "text": "11. VADĪBAS ELEMENTI FUNKCIJĀM DO-NOT-TRACK"
+  },
+  {
+   "id": 189,
+   "text": "Lielākā daļa tīmekļa pārlūkprogrammu un dažas mobilās operētājsistēmas un mobilās lietojumprogrammas ietver funkciju vai iestatījumu Do-Not-Track (&quot;DNT&quot;), ko jūs varat aktivizēt, lai signalizētu savu privātuma izvēli, ka dati par jūsu tiešsaistes pārlūkošanas aktivitātēm netiek uzraudzīti un vākti. Šajā posmā nav pabeigts vienots tehnoloģiju standarts DNT signālu atpazīšanai un ieviešanai. Tādējādi mēs pašlaik nereaģējam uz DNT pārlūkprogrammas signāliem vai jebkuru citu mehānismu, kas automātiski paziņo jūsu izvēli netikt izsekotam tiešsaistē. Ja nākotnē tiks pieņemts tiešsaistes izsekošanas standarts, kas mums jāievēro, mēs jūs informēsim par šo praksi pārskatītā šī privātuma paziņojuma versijā."
+  },
+  {
+   "id": 190,
+   "text": "Kalifornijas likums prasa mums paziņot jums, kā mēs reaģējam uz tīmekļa pārlūkprogrammas DNT signāliem. Tā kā pašlaik nav nozares vai juridiska standarta DNT signālu atpazīšanai vai ievērošanai, mēs pašlaik uz tiem nereaģējam."
+  },
+  {
+   "id": 191,
+   "text": "Global Privacy Control:"
+  },
+  {
+   "id": 192,
+   "text": " Mēs atpazīstam un ievērojam Global Privacy Control (GPC) signālus. Ja izmantojat pārlūkprogrammu vai paplašinājumu, kas atbalsta GPC, mēs to uzskatīsim par derīgu pieprasījumu atteikties no jūsu personiskās informācijas pārdošanas vai kopīgošanas mērķētas reklāmas nolūkiem saskaņā ar piemērojamiem štatu privātuma likumiem, tostarp California Consumer Privacy Act (CCPA). Kad mēs konstatēsim GPC signālu no jūsu pārlūkprogrammas, mēs automātiski piemērosim jūsu atteikšanās izvēli, neprasot jums veikt nekādas papildu darbības. Plašāku informāciju par GPC un to, kā to iespējot, skatiet "
+  },
+  {
+   "id": 193,
+   "text": "globalprivacycontrol.org"
+  },
+  {
+   "id": 194,
+   "text": "."
+  },
+  {
+   "id": 195,
+   "text": "12. VAI AMERIKAS SAVIENOTO VALSTU IEDZĪVOTĀJIEM IR ĪPAŠAS PRIVĀTUMA TIESĪBAS?"
+  },
+  {
+   "id": 196,
+   "text": "Īsumā: Ja esat Kalifornijas, Kolorādo, Konektikutas, Delavēras, Floridas, Indiānas, Aiovas, Kentuki, Mērilendas, Minesotas, Montānas, Nebraskas, Ņūhempšīras, Ņūdžersijas, Oregonas, Rodailendas, Tenesī, Teksasas, Jūtas vai Virdžīnijas iedzīvotājs, jums var būt tiesības pieprasīt piekļuvi mūsu rīcībā esošajai personiskajai informācijai par jums un saņemt informāciju par to un par to, kā mēs to esam apstrādājuši, labot neprecizitātes, saņemt tās kopiju vai dzēst jūsu personisko informāciju. Jums var būt arī tiesības atsaukt savu piekrišanu mūsu jūsu personiskās informācijas apstrādei. Šīs tiesības noteiktos apstākļos var ierobežot piemērojamie tiesību akti. Plašāka informācija sniegta zemāk."
+  },
+  {
+   "id": 197,
+   "text": "Personiskās informācijas kategorijas, ko mēs vācam"
+  },
+  {
+   "id": 198,
+   "text": "Zemāk esošajā tabulā parādītas personiskās informācijas kategorijas, ko mēs esam savākuši pēdējo divpadsmit (12) mēnešu laikā. Tabulā ir iekļauti katras kategorijas ilustratīvi piemēri, un tā neatspoguļo personisko informāciju, ko mēs vācam no jums. Visaptverošu visu mūsu apstrādātās personiskās informācijas sarakstu, lūdzu, skatiet sadaļā &quot;"
+  },
+  {
+   "id": 199,
+   "text": "KĀDU INFORMĀCIJU MĒS VĀCAM?"
+  },
+  {
+   "id": 200,
+   "text": "&quot;"
+  },
+  {
+   "id": 201,
+   "text": "Kategorija"
+  },
+  {
+   "id": 202,
+   "text": "Piemēri"
+  },
+  {
+   "id": 203,
+   "text": "Savākts"
+  },
+  {
+   "id": 204,
+   "text": "A. Identifikatori"
+  },
+  {
+   "id": 205,
+   "text": "Kontaktinformācija, piemēram, īstais vārds, pseidonīms, pasta adrese, tālruņa vai mobilā kontakta numurs, unikāls personiskais identifikators, tiešsaistes identifikators, interneta protokola adrese, e-pasta adrese un konta nosaukums"
+  },
+  {
+   "id": 206,
+   "text": "JĀ"
+  },
+  {
+   "id": 207,
+   "text": "B. Personiskā informācija, kā definēts Kalifornijas Klientu ierakstu statūtā"
+  },
+  {
+   "id": 208,
+   "text": "Vārds, kontaktinformācija, izglītība, nodarbinātība, nodarbinātības vēsture un finanšu informācija"
+  },
+  {
+   "id": 209,
+   "text": "JĀ"
+  },
+  {
+   "id": 210,
+   "text": "C. Aizsargātas klasifikācijas īpašības saskaņā ar štata vai federālajiem likumiem"
+  },
+  {
+   "id": 211,
+   "text": "Dzimums, vecums, dzimšanas datums, rase un etniskā piederība, tautība, ģimenes stāvoklis un citi demogrāfiskie dati"
+  },
+  {
+   "id": 212,
+   "text": "NĒ"
+  },
+  {
+   "id": 213,
+   "text": "D. Komerciāla informācija"
+  },
+  {
+   "id": 214,
+   "text": "Darījumu informācija, pirkumu vēsture, finanšu informācija un maksājumu informācija"
+  },
+  {
+   "id": 215,
+   "text": "NĒ"
+  },
+  {
+   "id": 216,
+   "text": "E. Biometriskā informācija"
+  },
+  {
+   "id": 217,
+   "text": "Pirkstu nospiedumi un balss nospiedumi"
+  },
+  {
+   "id": 218,
+   "text": "JĀ"
+  },
+  {
+   "id": 219,
+   "text": "F. Interneta vai citas līdzīgas tīkla aktivitātes"
+  },
+  {
+   "id": 220,
+   "text": "Pārlūkošanas vēsture, meklēšanas vēsture, tiešsaistes uzvedība, interešu dati un mijiedarbība ar mūsu un citām tīmekļa vietnēm, lietojumprogrammām, sistēmām un reklāmām"
+  },
+  {
+   "id": 221,
+   "text": "NĒ"
+  },
+  {
+   "id": 222,
+   "text": "G. Ģeogrāfiskās atrašanās vietas dati"
+  },
+  {
+   "id": 223,
+   "text": "Ierīces atrašanās vieta"
+  },
+  {
+   "id": 224,
+   "text": "NĒ"
+  },
+  {
+   "id": 225,
+   "text": "H. Audio, elektroniska, sensoriska vai līdzīga informācija"
+  },
+  {
+   "id": 226,
+   "text": "Attēli un audio, video vai zvanu ieraksti, kas izveidoti saistībā ar mūsu biznesa aktivitātēm"
+  },
+  {
+   "id": 227,
+   "text": "NĒ"
+  },
+  {
+   "id": 228,
+   "text": "I. Profesionāla vai ar nodarbinātību saistīta informācija"
+  },
+  {
+   "id": 229,
+   "text": "Biznesa kontaktinformācija, lai sniegtu jums mūsu Pakalpojumus biznesa līmenī, vai amata nosaukums, darba vēsture un profesionālā kvalifikācija, ja jūs piesakāties darbam pie mums"
+  },
+  {
+   "id": 230,
+   "text": "NĒ"
+  },
+  {
+   "id": 231,
+   "text": "J. Izglītības informācija"
+  },
+  {
+   "id": 232,
+   "text": "Studentu ieraksti un kataloga informācija"
+  },
+  {
+   "id": 233,
+   "text": "NĒ"
+  },
+  {
+   "id": 234,
+   "text": "K. Secinājumi, kas izdarīti no savāktās personiskās informācijas"
+  },
+  {
+   "id": 235,
+   "text": "Secinājumi, kas izdarīti no jebkuras no iepriekš uzskaitītās savāktās personiskās informācijas, lai izveidotu profilu vai kopsavilkumu par, piemēram, indivīda vēlmēm un īpašībām"
+  },
+  {
+   "id": 236,
+   "text": "NĒ"
+  },
+  {
+   "id": 237,
+   "text": "L. Sensitīva personiskā informācija"
+  },
+  {
+   "id": 238,
+   "text": "Konta pieteikšanās informācija, debetkaršu vai kredītkaršu numuri, ģenētiskie dati un veselības dati"
+  },
+  {
+   "id": 239,
+   "text": "JĀ"
+  },
+  {
+   "id": 240,
+   "text": "Mēs vācam sensitīvu personisko informāciju tikai, kā definēts piemērojamos privātuma likumos vai likumā atļautajiem mērķiem, vai ar jūsu piekrišanu. Sensitīva personiskā informācija var tikt izmantota vai atklāta pakalpojumu sniedzējam vai darbuzņēmējam papildu, norādītiem mērķiem. Jums var būt tiesības ierobežot jūsu sensitīvās personiskās informācijas izmantošanu vai atklāšanu. Mēs nevācam un neapstrādājam sensitīvu personisko informāciju ar mērķi izdarīt secinājumus par jums."
+  },
+  {
+   "id": 241,
+   "text": "Mēs varam arī vākt citu personisko informāciju ārpus šīm kategorijām, izmantojot gadījumus, kad jūs mijiedarbojaties ar mums klātienē, tiešsaistē vai pa tālruni vai pastu kontekstā ar:"
+  },
+  {
+   "id": 242,
+   "text": "Palīdzības saņemšanu, izmantojot mūsu klientu atbalsta kanālus;"
+  },
+  {
+   "id": 243,
+   "text": "Piedalīšanos klientu aptaujās vai konkursos; un"
+  },
+  {
+   "id": 244,
+   "text": "Mūsu Pakalpojumu piegādes atvieglošanu un lai atbildētu uz jūsu jautājumiem."
+  },
+  {
+   "id": 245,
+   "text": "Mēs izmantosim un saglabāsim savākto personisko informāciju pēc nepieciešamības, lai sniegtu Pakalpojumus, vai:"
+  },
+  {
+   "id": 246,
+   "text": "A kategorija — Tik ilgi, kamēr lietotājam ir konts pie mums"
+  },
+  {
+   "id": 247,
+   "text": "B kategorija — Tik ilgi, kamēr lietotājam ir konts pie mums"
+  },
+  {
+   "id": 248,
+   "text": "E kategorija — Tik ilgi, kamēr lietotājam ir konts pie mums"
+  },
+  {
+   "id": 249,
+   "text": "L kategorija — Tik ilgi, kamēr lietotājam ir konts pie mums"
+  },
+  {
+   "id": 250,
+   "text": "Personiskās informācijas avoti"
+  },
+  {
+   "id": 251,
+   "text": "Uzziniet vairāk par personiskās informācijas avotiem, ko mēs vācam, sadaļā &quot;"
+  },
+  {
+   "id": 252,
+   "text": "KĀDU INFORMĀCIJU MĒS VĀCAM?"
+  },
+  {
+   "id": 253,
+   "text": "&quot;"
+  },
+  {
+   "id": 254,
+   "text": "Kā mēs izmantojam un kopīgojam personisko informāciju"
+  },
+  {
+   "id": 255,
+   "text": "Uzziniet vairāk par to, kā mēs izmantojam jūsu personisko informāciju, sadaļā &quot;"
+  },
+  {
+   "id": 256,
+   "text": "KĀ MĒS APSTRĀDĀJAM JŪSU INFORMĀCIJU?"
+  },
+  {
+   "id": 257,
+   "text": "&quot;"
+  },
+  {
+   "id": 258,
+   "text": "Vai jūsu informācija tiks kopīgota ar kādu citu?"
+  },
+  {
+   "id": 259,
+   "text": "Mēs varam atklāt jūsu personisko informāciju mūsu pakalpojumu sniedzējiem saskaņā ar rakstisku līgumu starp mums un katru pakalpojumu sniedzēju. Uzziniet vairāk par to, kā mēs atklājam personisko informāciju, sadaļā &quot;"
+  },
+  {
+   "id": 260,
+   "text": "KAD UN AR KO MĒS KOPĪGOJAM JŪSU PERSONISKO INFORMĀCIJU?"
+  },
+  {
+   "id": 261,
+   "text": "&quot;"
+  },
+  {
+   "id": 262,
+   "text": "Mēs varam izmantot jūsu personisko informāciju mūsu pašu biznesa mērķiem, piemēram, iekšējai pētniecībai tehnoloģiskajai attīstībai un demonstrēšanai. Tas netiek uzskatīts par jūsu personiskās informācijas &quot;pārdošanu&quot;."
+  },
+  {
+   "id": 263,
+   "text": "Mēs iepriekšējos divpadsmit (12) mēnešos neesam atklājuši, pārdevuši vai kopīgojuši nekādu personisko informāciju trešajām pusēm biznesa vai komerciālam mērķim. Mēs nākotnē nepārdosim un nekopīgosim personisko informāciju, kas pieder tīmekļa vietnes apmeklētājiem, lietotājiem un citiem patērētājiem."
+  },
+  {
+   "id": 264,
+   "text": "Jūsu tiesības"
+  },
+  {
+   "id": 265,
+   "text": "Jums ir tiesības saskaņā ar noteiktiem ASV štatu datu aizsardzības likumiem. Tomēr šīs tiesības nav absolūtas, un noteiktos gadījumos mēs varam noraidīt jūsu pieprasījumu, kā atļauj likums. Šīs tiesības ietver:"
+  },
+  {
+   "id": 266,
+   "text": "Tiesības zināt"
+  },
+  {
+   "id": 267,
+   "text": " vai mēs apstrādājam jūsu personas datus, vai nē"
+  },
+  {
+   "id": 268,
+   "text": "Tiesības piekļūt"
+  },
+  {
+   "id": 269,
+   "text": " jūsu personas datiem"
+  },
+  {
+   "id": 270,
+   "text": "Tiesības labot"
+  },
+  {
+   "id": 271,
+   "text": " neprecizitātes jūsu personas datos"
+  },
+  {
+   "id": 272,
+   "text": "Tiesības pieprasīt"
+  },
+  {
+   "id": 273,
+   "text": " jūsu personas datu dzēšanu"
+  },
+  {
+   "id": 274,
+   "text": "Tiesības saņemt kopiju"
+  },
+  {
+   "id": 275,
+   "text": " no personas datiem, ko jūs iepriekš kopīgojāt ar mums"
+  },
+  {
+   "id": 276,
+   "text": "Tiesības uz nediskrimināciju"
+  },
+  {
+   "id": 277,
+   "text": " par savu tiesību īstenošanu"
+  },
+  {
+   "id": 278,
+   "text": "Tiesības atteikties"
+  },
+  {
+   "id": 279,
+   "text": " no jūsu personas datu apstrādes, ja tie tiek izmantoti mērķētai reklāmai (vai kopīgošanai, kā definēts saskaņā ar Kalifornijas privātuma likumu), personas datu pārdošanai vai profilēšanai, veicinot lēmumus, kas rada juridiskas vai līdzīgi būtiskas sekas (&quot;profilēšana&quot;)"
+  },
+  {
+   "id": 280,
+   "text": "Atkarībā no štata, kurā dzīvojat, jums var būt arī šādas tiesības:"
+  },
+  {
+   "id": 281,
+   "text": "Tiesības piekļūt apstrādāto personas datu kategorijām (kā atļauj piemērojamie tiesību akti, tostarp privātuma likums Minesotā)"
+  },
+  {
+   "id": 282,
+   "text": "Tiesības saņemt to trešo pušu kategoriju sarakstu, kurām mēs esam atklājuši personas datus (kā atļauj piemērojamie tiesību akti, tostarp privātuma likums Kalifornijā, Delavērā un Mērilendā)"
+  },
+  {
+   "id": 283,
+   "text": "Tiesības saņemt konkrētu trešo pušu sarakstu, kurām mēs esam atklājuši personas datus (kā atļauj piemērojamie tiesību akti, tostarp privātuma likums Minesotā un Oregonā)"
+  },
+  {
+   "id": 284,
+   "text": "Tiesības saņemt to trešo pušu sarakstu, kurām mēs esam pārdevuši personas datus (kā atļauj piemērojamie tiesību akti, tostarp privātuma likums Konektikutā)"
+  },
+  {
+   "id": 285,
+   "text": "Tiesības pārskatīt, saprast, apšaubīt un, atkarībā no jūsu dzīvesvietas, labot, kā personas dati ir tikuši profilēti (kā atļauj piemērojamie tiesību akti, tostarp privātuma likums Konektikutā un Minesotā)"
+  },
+  {
+   "id": 286,
+   "text": "Tiesības ierobežot sensitīvu personas datu izmantošanu un atklāšanu (kā atļauj piemērojamie tiesību akti, tostarp privātuma likums Kalifornijā)"
+  },
+  {
+   "id": 287,
+   "text": "Tiesības atteikties no sensitīvu datu un personas datu vākšanas, izmantojot balss vai sejas atpazīšanas funkciju (kā atļauj piemērojamie tiesību akti, tostarp privātuma likums Floridā)"
+  },
+  {
+   "id": 288,
+   "text": "Kā īstenot savas tiesības"
+  },
+  {
+   "id": 289,
+   "text": "Lai īstenotu šīs tiesības, jūs varat sazināties ar mums, apmeklējot "
+  },
+  {
+   "id": 290,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 291,
+   "text": ", apmeklējot "
+  },
+  {
+   "id": 292,
+   "text": "http://www.tavalabs.app/contact-us"
+  },
+  {
+   "id": 293,
+   "text": ", vai atsaucoties uz kontaktinformāciju šī dokumenta apakšā."
+  },
+  {
+   "id": 294,
+   "text": "Mēs ievērosim jūsu atteikšanās preferences, ja jūs aktivizēsiet "
+  },
+  {
+   "id": 295,
+   "text": "Global Privacy Control"
+  },
+  {
+   "id": 296,
+   "text": " (GPC) atteikšanās signālu savā pārlūkprogrammā."
+  },
+  {
+   "id": 297,
+   "text": "Saskaņā ar noteiktiem ASV štatu datu aizsardzības likumiem jūs varat nozīmēt pilnvarotu aģentu, lai iesniegtu pieprasījumu jūsu vārdā. Mēs varam noraidīt pieprasījumu no pilnvarota aģenta, kas neiesniedz pierādījumus, ka viņi ir derīgi pilnvaroti rīkoties jūsu vārdā saskaņā ar piemērojamiem likumiem."
+  },
+  {
+   "id": 298,
+   "text": "Pieprasījuma pārbaude"
+  },
+  {
+   "id": 299,
+   "text": "Saņemot jūsu pieprasījumu, mums būs jāpārbauda jūsu identitāte, lai noteiktu, ka jūs esat tā pati persona, par kuru mums ir informācija mūsu sistēmā. Mēs izmantosim jūsu pieprasījumā sniegto personisko informāciju tikai, lai pārbaudītu jūsu identitāti vai pilnvaras iesniegt pieprasījumu. Tomēr, ja mēs nevaram pārbaudīt jūsu identitāti no informācijas, ko mēs jau uzturam, mēs varam pieprasīt, lai jūs sniedzat papildu informāciju jūsu identitātes pārbaudes nolūkiem un drošības vai krāpšanas novēršanas nolūkiem."
+  },
+  {
+   "id": 300,
+   "text": "Ja jūs iesniedzat pieprasījumu, izmantojot pilnvarotu aģentu, mums var būt nepieciešams vākt papildu informāciju, lai pārbaudītu jūsu identitāti pirms jūsu pieprasījuma apstrādes, un aģentam būs jāsniedz jūsu rakstiska un parakstīta atļauja iesniegt šādu pieprasījumu jūsu vārdā."
+  },
+  {
+   "id": 301,
+   "text": "Apelācijas"
+  },
+  {
+   "id": 302,
+   "text": "Saskaņā ar noteiktiem ASV štatu datu aizsardzības likumiem, ja mēs atsakāmies veikt darbības attiecībā uz jūsu pieprasījumu, jūs varat pārsūdzēt mūsu lēmumu, rakstot mums uz "
+  },
+  {
+   "id": 303,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 304,
+   "text": ". Mēs jūs rakstiski informēsim par jebkuru darbību, kas veikta vai neveikta, reaģējot uz apelāciju, tostarp rakstisku lēmumu iemeslu izskaidrojumu. Ja jūsu apelācija tiek noraidīta, jūs varat iesniegt sūdzību sava štata ģenerālprokuroram."
+  },
+  {
+   "id": 305,
+   "text": "Kalifornijas likums &quot;Shine The Light&quot;"
+  },
+  {
+   "id": 306,
+   "text": "Kalifornijas Civilkodeksa 1798.83. sadaļa, kas pazīstama arī kā likums &quot;Shine The Light&quot;, ļauj mūsu lietotājiem, kas ir Kalifornijas iedzīvotāji, pieprasīt un saņemt no mums vienu reizi gadā un bez maksas informāciju par personiskās informācijas kategorijām (ja tādas ir), ko mēs atklājām trešajām pusēm tiešā mārketinga nolūkiem, un visu trešo pušu, ar kurām mēs kopīgojām personisko informāciju tieši iepriekšējā kalendārajā gadā, vārdiem un adresēm. Ja esat Kalifornijas iedzīvotājs un vēlētos iesniegt šādu pieprasījumu, lūdzu, iesniedziet savu pieprasījumu rakstiski mums, izmantojot kontaktinformāciju, kas sniegta sadaļā &quot;"
+  },
+  {
+   "id": 307,
+   "text": "KĀ JŪS VARAT SAZINĀTIES AR MUMS PAR ŠO PAZIŅOJUMU?"
+  },
+  {
+   "id": 308,
+   "text": "&quot;"
+  },
+  {
+   "id": 309,
+   "text": "13. VAI MĒS VEICAM ATJAUNINĀJUMUS ŠAJĀ PAZIŅOJUMĀ?"
+  },
+  {
+   "id": 310,
+   "text": "Īsumā: Jā, mēs atjaunināsim šo paziņojumu pēc nepieciešamības, lai saglabātu atbilstību attiecīgajiem likumiem."
+  },
+  {
+   "id": 311,
+   "text": "Mēs laiku pa laikam varam atjaunināt šo privātuma paziņojumu. Atjauninātā versija tiks norādīta ar atjauninātu datumu &quot;Pārskatīts&quot; šī privātuma paziņojuma augšpusē. Ja mēs veiksim būtiskas izmaiņas šajā privātuma paziņojumā, mēs varam jūs paziņot, vai nu pamanāmi publicējot paziņojumu par šādām izmaiņām, vai tieši nosūtot jums paziņojumu. Mēs aicinām jūs bieži pārskatīt šo privātuma paziņojumu, lai būtu informēts par to, kā mēs aizsargājam jūsu informāciju."
+  },
+  {
+   "id": 312,
+   "text": "14. KĀ JŪS VARAT SAZINĀTIES AR MUMS PAR ŠO PAZIŅOJUMU?"
+  },
+  {
+   "id": 313,
+   "text": "Ja jums ir jautājumi vai komentāri par šo paziņojumu, jūs varat sazināties ar mūsu datu aizsardzības speciālistu (DPO) pa e-pastu "
+  },
+  {
+   "id": 314,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 315,
+   "text": ", vai sazināties ar mums pa pastu:"
+  },
+  {
+   "id": 316,
+   "text": "Tava Labs, LLC"
+  },
+  {
+   "id": 317,
+   "text": "Datu aizsardzības speciālists"
+  },
+  {
+   "id": 318,
+   "text": "1521 Blake St STE 95593"
+  },
+  {
+   "id": 319,
+   "text": "Denver, CO 80202"
+  },
+  {
+   "id": 320,
+   "text": "Amerikas Savienotās Valstis"
+  },
+  {
+   "id": 321,
+   "text": "15. KĀ JŪS VARAT PĀRSKATĪT, ATJAUNINĀT VAI DZĒST DATUS, KO MĒS NO JUMS VĀCAM?"
+  },
+  {
+   "id": 322,
+   "text": "Pamatojoties uz jūsu valsts vai ASV dzīvesvietas štata piemērojamiem likumiem, jums var būt tiesības pieprasīt piekļuvi personiskajai informācijai, ko mēs no jums vācam, informāciju par to, kā mēs to esam apstrādājuši, labot neprecizitātes vai dzēst jūsu personisko informāciju. Jums var būt arī tiesības atsaukt savu piekrišanu mūsu jūsu personiskās informācijas apstrādei. Šīs tiesības noteiktos apstākļos var ierobežot piemērojamie tiesību akti. Lai pieprasītu pārskatīt, atjaunināt vai dzēst savu personisko informāciju, lūdzu, apmeklējiet: "
+  },
+  {
+   "id": 323,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 324,
+   "text": "."
+  },
+  {
+   "id": 325,
+   "text": "Šī privātuma politika tika izveidota, izmantojot Termly&#x27;s "
+  },
+  {
+   "id": 326,
+   "text": "Privātuma politikas ģeneratoru"
+  },
+  {
+   "id": 327,
+   "text": "."
+  }
+ ]
+}

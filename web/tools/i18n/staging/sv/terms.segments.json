@@ -1,0 +1,855 @@
+{
+  "slug": "terms",
+  "title": "Allmänna villkor | Tava Labs",
+  "description": "Villkoren som styr din användning av tavalabs.app och ditt köp av PDRN Brightening Serum från Tava Labs, LLC, inklusive vår policy om att all försäljning är slutgiltig.",
+  "segments": [
+    {
+      "id": 0,
+      "text": "Juridik"
+    },
+    {
+      "id": 1,
+      "text": "Allmänna villkor"
+    },
+    {
+      "id": 2,
+      "text": "Senast uppdaterad 5 november 2026"
+    },
+    {
+      "id": 3,
+      "text": "AVTAL OM VÅRA JURIDISKA VILLKOR"
+    },
+    {
+      "id": 4,
+      "text": "Vi är Tava Labs, LLC, som bedriver verksamhet under namnet Tava (&quot;Företaget&quot;, &quot;vi&quot;, &quot;oss&quot;, &quot;vår&quot;), ett företag registrerat i Colorado, USA på 1521 Blake St STE 95593, Denver, CO 80202."
+    },
+    {
+      "id": 5,
+      "text": "Vi driver webbplatsen "
+    },
+    {
+      "id": 6,
+      "text": "http://www.tavalabs.app"
+    },
+    {
+      "id": 7,
+      "text": " (\"Webbplatsen\"), samt alla andra relaterade produkter och tjänster som hänvisar eller länkar till dessa juridiska villkor (de \"Juridiska villkoren\") (gemensamt \"Tjänsterna\")."
+    },
+    {
+      "id": 8,
+      "text": "Du kan kontakta oss via mejl på "
+    },
+    {
+      "id": 9,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 10,
+      "text": " eller via post till 1521 Blake St STE 95593, Denver, CO 80202, United States."
+    },
+    {
+      "id": 11,
+      "text": "Dessa Juridiska villkor utgör ett juridiskt bindande avtal mellan dig, antingen personligen eller för en enhets räkning (&quot;du&quot;), och Tava Labs, LLC, avseende din åtkomst till och användning av Tjänsterna. Du godkänner att du, genom att få åtkomst till Tjänsterna, har läst, förstått och godkänt att vara bunden av alla dessa Juridiska villkor. OM DU INTE GODKÄNNER ALLA DESSA JURIDISKA VILLKOR ÄR DU UTTRYCKLIGEN FÖRBJUDEN ATT ANVÄNDA TJÄNSTERNA OCH DU MÅSTE OMEDELBART UPPHÖRA MED ANVÄNDNINGEN."
+    },
+    {
+      "id": 12,
+      "text": "Vi kommer att ge dig förhandsbesked om eventuella planerade ändringar av de Tjänster du använder. De ändrade Juridiska villkoren träder i kraft vid publicering eller vid meddelande till dig via "
+    },
+    {
+      "id": 13,
+      "text": "noreply.entrepreneur-wellness@mail.hellostencil.com"
+    },
+    {
+      "id": 14,
+      "text": ", såsom anges i mejlmeddelandet. Genom att fortsätta använda Tjänsterna efter ikraftträdandedatumet för eventuella ändringar godkänner du att vara bunden av de ändrade villkoren."
+    },
+    {
+      "id": 15,
+      "text": "Tjänsterna är avsedda för användare som är minst 18 år gamla. Personer under 18 år får inte använda eller registrera sig för Tjänsterna."
+    },
+    {
+      "id": 16,
+      "text": "Vi rekommenderar att du skriver ut en kopia av dessa Juridiska villkor för dina handlingar."
+    },
+    {
+      "id": 17,
+      "text": "INNEHÅLLSFÖRTECKNING"
+    },
+    {
+      "id": 18,
+      "text": "AVTAL OM VÅRA JURIDISKA VILLKOR"
+    },
+    {
+      "id": 19,
+      "text": "1. VÅRA TJÄNSTER"
+    },
+    {
+      "id": 20,
+      "text": "2. IMMATERIELLA RÄTTIGHETER"
+    },
+    {
+      "id": 21,
+      "text": "3. ANVÄNDARES UTFÄSTELSER"
+    },
+    {
+      "id": 22,
+      "text": "4. ANVÄNDARREGISTRERING"
+    },
+    {
+      "id": 23,
+      "text": "5. PRODUKTER"
+    },
+    {
+      "id": 24,
+      "text": "6. KÖP OCH BETALNING"
+    },
+    {
+      "id": 25,
+      "text": "7. RETURPOLICY"
+    },
+    {
+      "id": 26,
+      "text": "8. FÖRBJUDNA AKTIVITETER"
+    },
+    {
+      "id": 27,
+      "text": "9. ANVÄNDARGENERERADE BIDRAG"
+    },
+    {
+      "id": 28,
+      "text": "10. LICENS FÖR BIDRAG"
+    },
+    {
+      "id": 29,
+      "text": "11. RIKTLINJER FÖR RECENSIONER"
+    },
+    {
+      "id": 30,
+      "text": "12. HANTERING AV TJÄNSTERNA"
+    },
+    {
+      "id": 31,
+      "text": "13. INTEGRITETSPOLICY"
+    },
+    {
+      "id": 32,
+      "text": "14. GILTIGHETSTID OCH UPPSÄGNING"
+    },
+    {
+      "id": 33,
+      "text": "15. ÄNDRINGAR OCH AVBROTT"
+    },
+    {
+      "id": 34,
+      "text": "16. TILLÄMPLIG LAG"
+    },
+    {
+      "id": 35,
+      "text": "17. TVISTLÖSNING"
+    },
+    {
+      "id": 36,
+      "text": "18. KORRIGERINGAR"
+    },
+    {
+      "id": 37,
+      "text": "19. ANSVARSFRISKRIVNING"
+    },
+    {
+      "id": 38,
+      "text": "20. ANSVARSBEGRÄNSNINGAR"
+    },
+    {
+      "id": 39,
+      "text": "21. SKADESLÖSHET"
+    },
+    {
+      "id": 40,
+      "text": "22. ANVÄNDARDATA"
+    },
+    {
+      "id": 41,
+      "text": "23. ELEKTRONISK KOMMUNIKATION, TRANSAKTIONER OCH SIGNATURER"
+    },
+    {
+      "id": 42,
+      "text": "24. ANVÄNDARE OCH INVÅNARE I KALIFORNIEN"
+    },
+    {
+      "id": 43,
+      "text": "25. ÖVRIGT"
+    },
+    {
+      "id": 44,
+      "text": "26. KONTAKTA OSS"
+    },
+    {
+      "id": 45,
+      "text": "1. VÅRA TJÄNSTER"
+    },
+    {
+      "id": 46,
+      "text": "Informationen som tillhandahålls vid användning av Tjänsterna är inte avsedd för distribution till eller användning av någon person eller enhet i någon jurisdiktion eller något land där sådan distribution eller användning skulle strida mot lag eller förordning eller skulle utsätta oss för något registreringskrav inom sådan jurisdiktion eller sådant land. Följaktligen gör de personer som väljer att få åtkomst till Tjänsterna från andra platser det på eget initiativ och är ensamt ansvariga för efterlevnad av lokala lagar, om och i den utsträckning lokala lagar är tillämpliga."
+    },
+    {
+      "id": 47,
+      "text": "Tjänsterna är inte anpassade för att följa branschspecifika förordningar (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA) osv.), så om dina interaktioner skulle omfattas av sådana lagar får du inte använda Tjänsterna. Du får inte använda Tjänsterna på ett sätt som skulle bryta mot Gramm-Leach-Bliley Act (GLBA)."
+    },
+    {
+      "id": 48,
+      "text": "2. IMMATERIELLA RÄTTIGHETER"
+    },
+    {
+      "id": 49,
+      "text": "Vår immateriella egendom"
+    },
+    {
+      "id": 50,
+      "text": "Vi är ägare eller licenstagare till alla immateriella rättigheter i våra Tjänster, inklusive all källkod, alla databaser, all funktionalitet, all programvara, alla webbplatsdesigner, allt ljud, all video, all text, alla fotografier och all grafik i Tjänsterna (gemensamt \"Innehållet\"), samt de varumärken, servicemärken och logotyper som finns däri (\"Märkena\")."
+    },
+    {
+      "id": 51,
+      "text": "Vårt Innehåll och våra Märken skyddas av upphovsrätts och varumärkeslagar (och olika andra immateriella rättigheter och lagar om illojal konkurrens) och fördrag i USA och runt om i världen."
+    },
+    {
+      "id": 52,
+      "text": "Innehållet och Märkena tillhandahålls i eller genom Tjänsterna \"I BEFINTLIGT SKICK\" endast för ditt personliga, icke kommersiella bruk."
+    },
+    {
+      "id": 53,
+      "text": "Din användning av våra Tjänster"
+    },
+    {
+      "id": 54,
+      "text": "Under förutsättning att du följer dessa Juridiska villkor, inklusive avsnittet \""
+    },
+    {
+      "id": 55,
+      "text": "FÖRBJUDNA AKTIVITETER"
+    },
+    {
+      "id": 56,
+      "text": "\" nedan, beviljar vi dig en icke exklusiv, icke överförbar, återkallelig licens att:"
+    },
+    {
+      "id": 57,
+      "text": "få åtkomst till Tjänsterna; och"
+    },
+    {
+      "id": 58,
+      "text": "ladda ner eller skriva ut en kopia av någon del av Innehållet som du har fått korrekt åtkomst till,"
+    },
+    {
+      "id": 59,
+      "text": "endast för ditt personliga, icke kommersiella bruk."
+    },
+    {
+      "id": 60,
+      "text": "Förutom vad som anges i detta avsnitt eller på annat håll i våra Juridiska villkor får ingen del av Tjänsterna och inget Innehåll eller Märken kopieras, reproduceras, sammanställas, återpubliceras, laddas upp, publiceras, visas offentligt, kodas, översättas, överföras, distribueras, säljas, licensieras eller på annat sätt utnyttjas för något kommersiellt ändamål över huvud taget, utan vårt uttryckliga skriftliga förhandstillstånd."
+    },
+    {
+      "id": 61,
+      "text": "Om du vill använda Tjänsterna, Innehållet eller Märkena på annat sätt än vad som anges i detta avsnitt eller på annat håll i våra Juridiska villkor, adressera din begäran till: "
+    },
+    {
+      "id": 62,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 63,
+      "text": ". Om vi någonsin ger dig tillstånd att publicera, reproducera eller offentligt visa någon del av våra Tjänster eller vårt Innehåll, måste du identifiera oss som ägare eller licensgivare till Tjänsterna, Innehållet eller Märkena och säkerställa att eventuella meddelanden om upphovsrätt eller äganderätt visas eller är synliga vid publicering, reproduktion eller visning av vårt Innehåll."
+    },
+    {
+      "id": 64,
+      "text": "Vi förbehåller oss alla rättigheter som inte uttryckligen beviljas dig i och till Tjänsterna, Innehållet och Märkena."
+    },
+    {
+      "id": 65,
+      "text": "Varje överträdelse av dessa Immateriella rättigheter utgör en väsentlig överträdelse av våra Juridiska villkor och din rätt att använda våra Tjänster upphör omedelbart."
+    },
+    {
+      "id": 66,
+      "text": "Dina inskick och bidrag"
+    },
+    {
+      "id": 67,
+      "text": "Granska detta avsnitt och avsnittet \""
+    },
+    {
+      "id": 68,
+      "text": "FÖRBJUDNA AKTIVITETER"
+    },
+    {
+      "id": 69,
+      "text": "\" noggrant innan du använder våra Tjänster för att förstå (a) de rättigheter du ger oss och (b) de skyldigheter du har när du publicerar eller laddar upp något innehåll genom Tjänsterna."
+    },
+    {
+      "id": 70,
+      "text": "Inskick:"
+    },
+    {
+      "id": 71,
+      "text": " Genom att direkt skicka oss någon fråga, kommentar, förslag, idé, feedback eller annan information om Tjänsterna (\"Inskick\") godkänner du att överlåta alla immateriella rättigheter i sådant Inskick till oss. Du godkänner att vi ska äga detta Inskick och ha rätt till dess obegränsade användning och spridning för alla lagliga ändamål, kommersiella eller andra, utan erkännande eller ersättning till dig."
+    },
+    {
+      "id": 72,
+      "text": "Bidrag:"
+    },
+    {
+      "id": 73,
+      "text": " Tjänsterna kan bjuda in dig att chatta, bidra till eller delta i bloggar, anslagstavlor, onlineforum och annan funktionalitet under vilken du kan skapa, skicka in, publicera, visa, överföra, offentliggöra, distribuera eller sända innehåll och material till oss eller genom Tjänsterna, inklusive men inte begränsat till text, skrifter, video, ljud, fotografier, musik, grafik, kommentarer, recensioner, betygsförslag, personuppgifter eller annat material (\"Bidrag\"). Varje Inskick som publiceras offentligt ska också behandlas som ett Bidrag."
+    },
+    {
+      "id": 74,
+      "text": "Du förstår att Bidrag kan vara synliga för andra användare av Tjänsterna."
+    },
+    {
+      "id": 75,
+      "text": "När du publicerar Bidrag beviljar du oss en licens (inklusive användning av ditt namn, dina varumärken och dina logotyper):"
+    },
+    {
+      "id": 76,
+      "text": " Genom att publicera några Bidrag beviljar du oss en obegränsad, oinskränkt, oåterkallelig, evig, icke exklusiv, överförbar, royaltyfri, fullt betald, världsomspännande rätt och licens att: använda, kopiera, reproducera, distribuera, sälja, sälja vidare, publicera, sända, byta titel på, lagra, offentligt framföra, offentligt visa, omformatera, översätta, citera (helt eller delvis) och utnyttja dina Bidrag (inklusive, utan begränsning, din bild, ditt namn och din röst) för alla ändamål, kommersiella, annonseringsmässiga eller andra, att förbereda härledda verk av, eller införliva i andra verk, dina Bidrag, och att underlicensiera de licenser som beviljas i detta avsnitt. Vår användning och distribution kan ske i alla medieformat och genom alla mediekanaler."
+    },
+    {
+      "id": 77,
+      "text": "Denna licens inkluderar vår användning av ditt namn, företagsnamn och franchisenamn, i tillämpliga fall, och alla varumärken, servicemärken, handelsnamn, logotyper samt personliga och kommersiella bilder du tillhandahåller."
+    },
+    {
+      "id": 78,
+      "text": "Du ansvarar för vad du publicerar eller laddar upp:"
+    },
+    {
+      "id": 79,
+      "text": " Genom att skicka oss Inskick och/eller publicera Bidrag genom någon del av Tjänsterna eller göra Bidrag tillgängliga genom Tjänsterna genom att länka ditt konto genom Tjänsterna till något av dina konton på sociala nätverk, du:"
+    },
+    {
+      "id": 80,
+      "text": "bekräftar att du har läst och godkänner vår \""
+    },
+    {
+      "id": 81,
+      "text": "FÖRBJUDNA AKTIVITETER"
+    },
+    {
+      "id": 82,
+      "text": "\" och inte kommer att publicera, skicka, offentliggöra, ladda upp eller överföra genom Tjänsterna något Inskick eller publicera något Bidrag som är olagligt, trakasserande, hatiskt, skadligt, ärekränkande, obscönt, mobbande, kränkande, diskriminerande, hotande mot någon person eller grupp, sexuellt explicit, falskt, felaktigt, bedrägligt eller vilseledande;"
+    },
+    {
+      "id": 83,
+      "text": "i den utsträckning tillämplig lag tillåter, avstår från alla ideella rättigheter till sådant Inskick och/eller Bidrag;"
+    },
+    {
+      "id": 84,
+      "text": "garanterar att sådant Inskick och/eller sådana Bidrag är original från dig eller att du har de nödvändiga rättigheterna och licenserna för att skicka in sådant Inskick och/eller sådana Bidrag och att du har full befogenhet att bevilja oss de ovannämnda rättigheterna i förhållande till ditt Inskick och/eller dina Bidrag; och"
+    },
+    {
+      "id": 85,
+      "text": "garanterar och försäkrar att ditt Inskick och/eller dina Bidrag inte utgör konfidentiell information."
+    },
+    {
+      "id": 86,
+      "text": "Du är ensamt ansvarig för ditt Inskick och/eller dina Bidrag och du godkänner uttryckligen att ersätta oss för alla förluster som vi kan lida på grund av ditt brott mot (a) detta avsnitt, (b) någon tredje parts immateriella rättigheter, eller (c) tillämplig lag."
+    },
+    {
+      "id": 87,
+      "text": "Vi kan ta bort eller redigera ditt Innehåll:"
+    },
+    {
+      "id": 88,
+      "text": " Även om vi inte har någon skyldighet att övervaka några Bidrag, ska vi ha rätt att ta bort eller redigera några Bidrag när som helst utan förvarning om vi enligt vår rimliga uppfattning anser att sådana Bidrag är skadliga eller i strid med dessa Juridiska villkor. Om vi tar bort eller redigerar sådana Bidrag kan vi också stänga av eller inaktivera ditt konto och anmäla dig till myndigheterna."
+    },
+    {
+      "id": 89,
+      "text": "3. ANVÄNDARES UTFÄSTELSER"
+    },
+    {
+      "id": 90,
+      "text": "Genom att använda Tjänsterna försäkrar och garanterar du att: (1) all registreringsinformation du skickar in kommer att vara sann, korrekt, aktuell och fullständig; (2) du kommer att upprätthålla riktigheten i sådan information och omgående uppdatera sådan registreringsinformation vid behov; (3) du har rättslig handlingsförmåga och du godkänner att följa dessa Juridiska villkor; (4) du är inte minderårig i den jurisdiktion där du bor; (5) du kommer inte att få åtkomst till Tjänsterna genom automatiserade eller icke mänskliga medel, vare sig genom en bot, ett skript eller på annat sätt; (6) du kommer inte att använda Tjänsterna för något olagligt eller otillåtet ändamål; och (7) din användning av Tjänsterna kommer inte att bryta mot någon tillämplig lag eller förordning."
+    },
+    {
+      "id": 91,
+      "text": "Om du tillhandahåller någon information som är osann, felaktig, inte aktuell eller ofullständig, har vi rätt att stänga av eller avsluta ditt konto och vägra all nuvarande eller framtida användning av Tjänsterna (eller någon del därav)."
+    },
+    {
+      "id": 92,
+      "text": "4. ANVÄNDARREGISTRERING"
+    },
+    {
+      "id": 93,
+      "text": "Du kan behöva registrera dig för att använda Tjänsterna. Du godkänner att hålla ditt lösenord konfidentiellt och kommer att ansvara för all användning av ditt konto och lösenord. Vi förbehåller oss rätten att ta bort, återkräva eller ändra ett användarnamn du väljer om vi, efter eget gottfinnande, bedömer att sådant användarnamn är olämpligt, obscönt eller på annat sätt stötande."
+    },
+    {
+      "id": 94,
+      "text": "5. PRODUKTER"
+    },
+    {
+      "id": 95,
+      "text": "Vi gör allt vi kan för att så korrekt som möjligt visa färger, funktioner, specifikationer och detaljer för de produkter som finns tillgängliga på Tjänsterna. Vi garanterar dock inte att produkternas färger, funktioner, specifikationer och detaljer kommer att vara korrekta, fullständiga, tillförlitliga, aktuella eller fria från andra fel, och din elektroniska skärm kan sakna förmåga att korrekt återspegla produkternas faktiska färger och detaljer. Alla produkter är beroende av tillgänglighet, och vi kan inte garantera att varor finns i lager. Vi förbehåller oss rätten att när som helst och av vilken anledning som helst sluta erbjuda några produkter. Priser för alla produkter kan ändras."
+    },
+    {
+      "id": 96,
+      "text": "6. KÖP OCH BETALNING"
+    },
+    {
+      "id": 97,
+      "text": "Vi accepterar följande betalningsformer:"
+    },
+    {
+      "id": 98,
+      "text": "Visa"
+    },
+    {
+      "id": 99,
+      "text": "Mastercard"
+    },
+    {
+      "id": 100,
+      "text": "American Express"
+    },
+    {
+      "id": 101,
+      "text": "Discover"
+    },
+    {
+      "id": 102,
+      "text": "Du godkänner att tillhandahålla aktuell, fullständig och korrekt köp och kontoinformation för alla köp som görs via Tjänsterna. Du godkänner vidare att omgående uppdatera konto och betalningsinformation, inklusive mejladress, betalningsmetod och utgångsdatum för betalkort, så att vi kan slutföra dina transaktioner och kontakta dig vid behov. Mervärdesskatt läggs till priset för köp i den mån vi anser det krävas. Vi kan ändra priser när som helst. Alla betalningar ska ske i amerikanska dollar."
+    },
+    {
+      "id": 103,
+      "text": "Du godkänner att betala alla avgifter till de priser som då gäller för dina köp och eventuella tillämpliga fraktavgifter, och du auktoriserar oss att debitera din valda betalningsleverantör för sådana belopp när du lägger din beställning. Vi förbehåller oss rätten att korrigera eventuella fel eller misstag i prissättningen, även om vi redan har begärt eller mottagit betalning."
+    },
+    {
+      "id": 104,
+      "text": "Vi förbehåller oss rätten att vägra någon beställning som läggs genom Tjänsterna. Vi kan, efter eget gottfinnande, begränsa eller annullera kvantiteter som köps per person, per hushåll eller per beställning. Dessa begränsningar kan inkludera beställningar som läggs av eller under samma kundkonto, samma betalningsmetod och/eller beställningar som använder samma fakturerings eller fraktadress. Vi förbehåller oss rätten att begränsa eller förbjuda beställningar som, enligt vår egen bedömning, verkar läggas av återförsäljare, vidareförsäljare eller distributörer."
+    },
+    {
+      "id": 105,
+      "text": "7. RETURPOLICY"
+    },
+    {
+      "id": 106,
+      "text": "All försäljning är slutgiltig och ingen återbetalning kommer att göras."
+    },
+    {
+      "id": 107,
+      "text": "8. FÖRBJUDNA AKTIVITETER"
+    },
+    {
+      "id": 108,
+      "text": "Du får inte få åtkomst till eller använda Tjänsterna för något annat ändamål än det för vilket vi gör Tjänsterna tillgängliga. Tjänsterna får inte användas i samband med några kommersiella strävanden förutom de som specifikt stöds eller godkänns av oss."
+    },
+    {
+      "id": 109,
+      "text": "Som användare av Tjänsterna godkänner du att inte:"
+    },
+    {
+      "id": 110,
+      "text": "Systematiskt hämta data eller annat innehåll från Tjänsterna för att skapa eller sammanställa, direkt eller indirekt, en samling, sammanställning, databas eller katalog utan skriftligt tillstånd från oss."
+    },
+    {
+      "id": 111,
+      "text": "Lura, bedra eller vilseleda oss och andra användare, särskilt i något försök att få reda på känslig kontoinformation såsom användarlösenord."
+    },
+    {
+      "id": 112,
+      "text": "Kringgå, inaktivera eller på annat sätt störa säkerhetsrelaterade funktioner i Tjänsterna, inklusive funktioner som förhindrar eller begränsar användningen eller kopieringen av något Innehåll eller upprätthåller begränsningar för användningen av Tjänsterna och/eller Innehållet däri."
+    },
+    {
+      "id": 113,
+      "text": "Nedvärdera, skada eller på annat sätt skada, enligt vår uppfattning, oss och/eller Tjänsterna."
+    },
+    {
+      "id": 114,
+      "text": "Använda någon information som erhållits från Tjänsterna för att trakassera, kränka eller skada en annan person."
+    },
+    {
+      "id": 115,
+      "text": "Använda våra supporttjänster på ett felaktigt sätt eller lämna in falska rapporter om missbruk eller försummelse."
+    },
+    {
+      "id": 116,
+      "text": "Använda Tjänsterna på ett sätt som är oförenligt med några tillämpliga lagar eller förordningar."
+    },
+    {
+      "id": 117,
+      "text": "Delta i obehörig inramning av eller länkning till Tjänsterna."
+    },
+    {
+      "id": 118,
+      "text": "Ladda upp eller överföra (eller försöka ladda upp eller överföra) virus, trojanska hästar eller annat material, inklusive överdriven användning av versaler och spamming (kontinuerlig publicering av upprepad text), som stör någon parts oavbrutna användning och njutning av Tjänsterna eller modifierar, försämrar, stör, ändrar eller påverkar användningen, egenskaperna, funktionerna, driften eller underhållet av Tjänsterna."
+    },
+    {
+      "id": 119,
+      "text": "Delta i någon automatiserad användning av systemet, såsom att använda skript för att skicka kommentarer eller meddelanden, eller använda någon datautvinning, robotar eller liknande verktyg för datainsamling och extraktion."
+    },
+    {
+      "id": 120,
+      "text": "Ta bort meddelandet om upphovsrätt eller andra äganderättigheter från något Innehåll."
+    },
+    {
+      "id": 121,
+      "text": "Försöka utge dig för att vara en annan användare eller person eller använda en annan användares användarnamn."
+    },
+    {
+      "id": 122,
+      "text": "Ladda upp eller överföra (eller försöka ladda upp eller överföra) något material som fungerar som en passiv eller aktiv mekanism för informationsinsamling eller överföring, inklusive utan begränsning, klara grafikutbytesformat (&quot;gifs&quot;), 1x1 pixlar, webbuggar, cookies eller andra liknande enheter (ibland kallade &quot;spyware&quot; eller &quot;passiva insamlingsmekanismer&quot; eller &quot;pcms&quot;)."
+    },
+    {
+      "id": 123,
+      "text": "Störa, avbryta eller skapa en otillbörlig börda på Tjänsterna eller de nätverk eller tjänster som är anslutna till Tjänsterna."
+    },
+    {
+      "id": 124,
+      "text": "Trakassera, irritera, skrämma eller hota någon av våra anställda eller agenter som deltar i att tillhandahålla någon del av Tjänsterna till dig."
+    },
+    {
+      "id": 125,
+      "text": "Försöka kringgå några åtgärder i Tjänsterna som är utformade för att förhindra eller begränsa åtkomst till Tjänsterna, eller någon del av Tjänsterna."
+    },
+    {
+      "id": 126,
+      "text": "Kopiera eller anpassa Tjänsternas programvara, inklusive men inte begränsat till Flash, PHP, HTML, JavaScript eller annan kod."
+    },
+    {
+      "id": 127,
+      "text": "Förutom vad som tillåts enligt tillämplig lag, dechiffrera, dekompilera, demontera eller bakåtkompilera någon av den programvara som utgör eller på något sätt utgör en del av Tjänsterna."
+    },
+    {
+      "id": 128,
+      "text": "Förutom vad som kan vara resultatet av standardanvändning av sökmotorer eller webbläsare, använda, lansera, utveckla eller distribuera något automatiserat system, inklusive utan begränsning, någon spindel, robot, fuskverktyg, skrapa eller offlineläsare som får åtkomst till Tjänsterna, eller använda eller lansera något obehörigt skript eller annan programvara."
+    },
+    {
+      "id": 129,
+      "text": "Använda en inköpsagent eller inköpsombud för att göra köp på Tjänsterna."
+    },
+    {
+      "id": 130,
+      "text": "Göra någon obehörig användning av Tjänsterna, inklusive att samla in användarnamn och/eller mejladresser till användare med elektroniska eller andra medel i syfte att skicka oönskad mejl, eller skapa användarkonton med automatiserade medel eller under falska förevändningar."
+    },
+    {
+      "id": 131,
+      "text": "Använda Tjänsterna som en del av någon strävan att konkurrera med oss eller på annat sätt använda Tjänsterna och/eller Innehållet för någon intäktsgenererande strävan eller något kommersiellt företag."
+    },
+    {
+      "id": 132,
+      "text": "Använda Tjänsterna för att annonsera eller erbjuda att sälja varor och tjänster."
+    },
+    {
+      "id": 133,
+      "text": "Sälja eller på annat sätt överföra din profil."
+    },
+    {
+      "id": 134,
+      "text": "9. ANVÄNDARGENERERADE BIDRAG"
+    },
+    {
+      "id": 135,
+      "text": "Tjänsterna kan bjuda in dig att chatta, bidra till eller delta i bloggar, anslagstavlor, onlineforum och annan funktionalitet, och kan ge dig möjlighet att skapa, skicka in, publicera, visa, överföra, framföra, offentliggöra, distribuera eller sända innehåll och material till oss eller på Tjänsterna, inklusive men inte begränsat till text, skrifter, video, ljud, fotografier, grafik, kommentarer, förslag eller personuppgifter eller annat material (gemensamt \"Bidrag\"). Bidrag kan vara synliga för andra användare av Tjänsterna och genom tredjepartswebbplatser. Således kan alla Bidrag du överför behandlas som icke konfidentiella och icke äganderättsliga. När du skapar eller tillgängliggör några Bidrag försäkrar och garanterar du därmed att:"
+    },
+    {
+      "id": 136,
+      "text": "Skapandet, distributionen, överföringen, den offentliga visningen eller framförandet, och åtkomsten till, nedladdningen eller kopieringen av dina Bidrag inte gör och inte kommer att göra intrång i äganderättigheterna, inklusive men inte begränsat till upphovsrätten, patentet, varumärket, affärshemligheten eller de ideella rättigheterna hos någon tredje part."
+    },
+    {
+      "id": 137,
+      "text": "Du är skapare och ägare av eller har de nödvändiga licenserna, rättigheterna, samtyckena, frigörandena och tillstånden för att använda och för att auktorisera oss, Tjänsterna och andra användare av Tjänsterna att använda dina Bidrag på något sätt som Tjänsterna och dessa Juridiska villkor avser."
+    },
+    {
+      "id": 138,
+      "text": "Du har skriftligt samtycke, frigörande och/eller tillstånd från varje identifierbar enskild person i dina Bidrag att använda namnet eller avbilden av varje sådan identifierbar enskild person för att möjliggöra inkludering och användning av dina Bidrag på något sätt som Tjänsterna och dessa Juridiska villkor avser."
+    },
+    {
+      "id": 139,
+      "text": "Dina Bidrag är inte falska, felaktiga eller vilseledande."
+    },
+    {
+      "id": 140,
+      "text": "Dina Bidrag är inte oönskad eller obehörig annonsering, reklammaterial, pyramidspel, kedjebrev, spam, massutskick eller andra former av uppmaning."
+    },
+    {
+      "id": 141,
+      "text": "Dina Bidrag är inte obscena, oanständiga, liderliga, smutsiga, våldsamma, trakasserande, ärekränkande, förtalande eller på annat sätt stötande (enligt vår bedömning)."
+    },
+    {
+      "id": 142,
+      "text": "Dina Bidrag förlöjligar, hånar, nedvärderar, skrämmer eller kränker inte någon."
+    },
+    {
+      "id": 143,
+      "text": "Dina Bidrag används inte för att trakassera eller hota (i den juridiska meningen av dessa termer) någon annan person och för att främja våld mot en specifik person eller grupp av människor."
+    },
+    {
+      "id": 144,
+      "text": "Dina Bidrag bryter inte mot någon tillämplig lag, förordning eller regel."
+    },
+    {
+      "id": 145,
+      "text": "Dina Bidrag bryter inte mot någon tredje parts integritets eller publicitetsrättigheter."
+    },
+    {
+      "id": 146,
+      "text": "Dina Bidrag bryter inte mot någon tillämplig lag om barnpornografi, eller som på annat sätt är avsedd att skydda minderårigas hälsa eller välbefinnande."
+    },
+    {
+      "id": 147,
+      "text": "Dina Bidrag inkluderar inga stötande kommentarer som är kopplade till ras, nationellt ursprung, kön, sexuell läggning eller fysiskt funktionshinder."
+    },
+    {
+      "id": 148,
+      "text": "Dina Bidrag bryter inte på annat sätt mot, eller länkar till material som bryter mot, någon bestämmelse i dessa Juridiska villkor, eller någon tillämplig lag eller förordning."
+    },
+    {
+      "id": 149,
+      "text": "Varje användning av Tjänsterna i strid med det föregående bryter mot dessa Juridiska villkor och kan bland annat leda till uppsägning eller avstängning av dina rättigheter att använda Tjänsterna."
+    },
+    {
+      "id": 150,
+      "text": "10. LICENS FÖR BIDRAG"
+    },
+    {
+      "id": 151,
+      "text": "Genom att publicera dina Bidrag på någon del av Tjänsterna beviljar du automatiskt, och du försäkrar och garanterar att du har rätt att bevilja, oss en obegränsad, oinskränkt, oåterkallelig, evig, icke exklusiv, överförbar, royaltyfri, fullt betald, världsomspännande rätt och licens att vara värd för, använda, kopiera, reproducera, avslöja, sälja, sälja vidare, publicera, sända, byta titel på, arkivera, lagra, cachelagra, offentligt framföra, offentligt visa, omformatera, översätta, överföra, citera (helt eller delvis) och distribuera sådana Bidrag (inklusive, utan begränsning, din bild och röst) för alla ändamål, kommersiella, annonseringsmässiga eller andra, och att förbereda härledda verk av, eller införliva i andra verk, sådana Bidrag, och bevilja och auktorisera underlicenser av det föregående. Användningen och distributionen kan ske i alla medieformat och genom alla mediekanaler."
+    },
+    {
+      "id": 152,
+      "text": "Denna licens gäller för alla former, medier eller tekniker som nu är kända eller härefter utvecklas, och inkluderar vår användning av ditt namn, företagsnamn och franchisenamn, i tillämpliga fall, och alla varumärken, servicemärken, handelsnamn, logotyper samt personliga och kommersiella bilder du tillhandahåller. Du avstår från alla ideella rättigheter i dina Bidrag, och du garanterar att ideella rättigheter inte på annat sätt har hävdats i dina Bidrag."
+    },
+    {
+      "id": 153,
+      "text": "Vi hävdar inget ägande över dina Bidrag. Du behåller fullt ägande av alla dina Bidrag och alla immateriella rättigheter eller andra äganderättigheter som är förknippade med dina Bidrag. Vi ansvarar inte för några uttalanden eller framställningar i dina Bidrag som du tillhandahåller inom något område på Tjänsterna. Du är ensamt ansvarig för dina Bidrag till Tjänsterna och du godkänner uttryckligen att befria oss från allt ansvar och att avstå från alla rättsliga åtgärder mot oss avseende dina Bidrag."
+    },
+    {
+      "id": 154,
+      "text": "Vi har rätt, efter eget och absolut gottfinnande, att (1) redigera, censurera eller på annat sätt ändra några Bidrag; (2) omkategorisera några Bidrag för att placera dem på mer lämpliga platser på Tjänsterna; och (3) förhandsgranska eller radera några Bidrag när som helst och av vilken anledning som helst, utan förvarning. Vi har ingen skyldighet att övervaka dina Bidrag."
+    },
+    {
+      "id": 155,
+      "text": "11. RIKTLINJER FÖR RECENSIONER"
+    },
+    {
+      "id": 156,
+      "text": "Vi kan tillhandahålla områden på Tjänsterna där du kan lämna recensioner eller betyg. När du publicerar en recension måste du följa följande kriterier: (1) du bör ha förstahandserfarenhet av personen eller enheten som recenseras; (2) dina recensioner bör inte innehålla stötande svordomar, eller kränkande, rasistiskt, stötande eller hatiskt språk; (3) dina recensioner bör inte innehålla diskriminerande hänvisningar utifrån religion, ras, kön, nationellt ursprung, ålder, civilstånd, sexuell läggning eller funktionshinder; (4) dina recensioner bör inte innehålla hänvisningar till olaglig verksamhet; (5) du bör inte vara anknuten till konkurrenter om du publicerar negativa recensioner; (6) du bör inte dra några slutsatser om lagligheten i ett beteende; (7) du får inte publicera några falska eller vilseledande uttalanden; och (8) du får inte organisera en kampanj som uppmuntrar andra att publicera recensioner, vare sig positiva eller negativa."
+    },
+    {
+      "id": 157,
+      "text": "Vi kan acceptera, avvisa eller ta bort recensioner efter eget gottfinnande. Vi har absolut ingen skyldighet att granska recensioner eller att radera recensioner, även om någon anser att recensioner är stötande eller felaktiga. Recensioner stöds inte av oss, och representerar inte nödvändigtvis våra åsikter eller synpunkterna hos någon av våra närstående bolag eller partners. Vi tar inget ansvar för någon recension eller för några anspråk, skyldigheter eller förluster som följer av någon recension. Genom att publicera en recension beviljar du oss härmed en evig, icke exklusiv, världsomspännande, royaltyfri, fullt betald, överförbar och underlicensierbar rätt och licens att reproducera, modifiera, översätta, överföra på alla sätt, visa, framföra och/eller distribuera allt innehåll som rör recensionen."
+    },
+    {
+      "id": 158,
+      "text": "12. HANTERING AV TJÄNSTERNA"
+    },
+    {
+      "id": 159,
+      "text": "Vi förbehåller oss rätten, men inte skyldigheten, att: (1) övervaka Tjänsterna för överträdelser av dessa Juridiska villkor; (2) vidta lämpliga rättsliga åtgärder mot någon som, efter vårt eget gottfinnande, bryter mot lagen eller dessa Juridiska villkor, inklusive utan begränsning att anmäla sådan användare till brottsbekämpande myndigheter; (3) efter vårt eget gottfinnande och utan begränsning vägra, begränsa åtkomsten till, begränsa tillgängligheten av eller inaktivera (i den utsträckning det är tekniskt möjligt) några av dina Bidrag eller någon del därav; (4) efter vårt eget gottfinnande och utan begränsning, förvarning eller ansvar, ta bort från Tjänsterna eller på annat sätt inaktivera alla filer och allt innehåll som är överdrivet stora eller på något sätt betungande för våra system; och (5) på annat sätt hantera Tjänsterna på ett sätt som är utformat för att skydda våra rättigheter och vår egendom och för att underlätta Tjänsternas korrekta funktion."
+    },
+    {
+      "id": 160,
+      "text": "13. INTEGRITETSPOLICY"
+    },
+    {
+      "id": 161,
+      "text": "Vi bryr oss om dataintegritet och säkerhet. Granska vår "
+    },
+    {
+      "id": 162,
+      "text": "Integritetspolicy"
+    },
+    {
+      "id": 163,
+      "text": ". Genom att använda Tjänsterna godkänner du att vara bunden av vår Integritetspolicy, som är införlivad i dessa Juridiska villkor. Observera att Tjänsterna är värdbaserade i USA. Om du får åtkomst till Tjänsterna från någon annan region i världen med lagar eller andra krav som styr insamling, användning eller avslöjande av personuppgifter och som skiljer sig från tillämpliga lagar i USA, så överför du, genom din fortsatta användning av Tjänsterna, dina data till USA, och du samtycker uttryckligen till att dina data överförs till och behandlas i USA."
+    },
+    {
+      "id": 164,
+      "text": "14. GILTIGHETSTID OCH UPPSÄGNING"
+    },
+    {
+      "id": 165,
+      "text": "Dessa Juridiska villkor ska förbli i full kraft och verkan medan du använder Tjänsterna. UTAN ATT BEGRÄNSA NÅGON ANNAN BESTÄMMELSE I DESSA JURIDISKA VILLKOR FÖRBEHÅLLER VI OSS RÄTTEN ATT, EFTER EGET GOTTFINNANDE OCH UTAN FÖRVARNING ELLER ANSVAR, NEKA ÅTKOMST TILL OCH ANVÄNDNING AV TJÄNSTERNA (INKLUSIVE BLOCKERING AV VISSA IP ADRESSER), FÖR NÅGON PERSON AV NÅGON ANLEDNING ELLER UTAN ANLEDNING, INKLUSIVE UTAN BEGRÄNSNING FÖR BROTT MOT NÅGON UTFÄSTELSE, GARANTI ELLER ÖVERENSKOMMELSE SOM FINNS I DESSA JURIDISKA VILLKOR ELLER MOT NÅGON TILLÄMPLIG LAG ELLER FÖRORDNING. VI KAN AVSLUTA DIN ANVÄNDNING ELLER DITT DELTAGANDE I TJÄNSTERNA ELLER RADERA DITT KONTO OCH ALLT INNEHÅLL ELLER ALL INFORMATION SOM DU PUBLICERADE NÄR SOM HELST, UTAN VARNING, EFTER VÅRT EGET GOTTFINNANDE."
+    },
+    {
+      "id": 166,
+      "text": "Om vi avslutar eller stänger av ditt konto av någon anledning är du förbjuden att registrera och skapa ett nytt konto under ditt namn, ett falskt eller lånat namn, eller namnet på någon tredje part, även om du kan agera för tredje parts räkning. Förutom att avsluta eller stänga av ditt konto förbehåller vi oss rätten att vidta lämpliga rättsliga åtgärder, inklusive utan begränsning att söka civilrättslig, straffrättslig och förbudsföreläggande gottgörelse."
+    },
+    {
+      "id": 167,
+      "text": "15. ÄNDRINGAR OCH AVBROTT"
+    },
+    {
+      "id": 168,
+      "text": "Vi förbehåller oss rätten att ändra, modifiera eller ta bort innehållet i Tjänsterna när som helst eller av vilken anledning som helst efter eget gottfinnande utan förvarning. Vi har dock ingen skyldighet att uppdatera någon information på våra Tjänster. Vi ansvarar inte gentemot dig eller någon tredje part för någon ändring, prisändring, avstängning eller nedläggning av Tjänsterna."
+    },
+    {
+      "id": 169,
+      "text": "Vi kan inte garantera att Tjänsterna kommer att vara tillgängliga hela tiden. Vi kan uppleva problem med hårdvara, programvara eller annat eller behöva utföra underhåll relaterat till Tjänsterna, vilket leder till avbrott, förseningar eller fel. Vi förbehåller oss rätten att ändra, revidera, uppdatera, stänga av, lägga ner eller på annat sätt modifiera Tjänsterna när som helst eller av vilken anledning som helst utan förvarning till dig. Du godkänner att vi inte har något som helst ansvar för någon förlust, skada eller olägenhet som orsakas av din oförmåga att få åtkomst till eller använda Tjänsterna under någon driftstopp eller nedläggning av Tjänsterna. Inget i dessa Juridiska villkor ska tolkas som att det förpliktar oss att upprätthålla och stödja Tjänsterna eller att tillhandahålla några korrigeringar, uppdateringar eller utgåvor i samband därmed."
+    },
+    {
+      "id": 170,
+      "text": "16. TILLÄMPLIG LAG"
+    },
+    {
+      "id": 171,
+      "text": "Dessa Juridiska villkor och din användning av Tjänsterna styrs av och tolkas i enlighet med lagarna i delstaten Delaware som är tillämpliga på avtal som ingåtts och som helt ska utföras inom delstaten Delaware, utan hänsyn till dess principer om lagkonflikter."
+    },
+    {
+      "id": 172,
+      "text": "17. TVISTLÖSNING"
+    },
+    {
+      "id": 173,
+      "text": "Informella förhandlingar"
+    },
+    {
+      "id": 174,
+      "text": "För att påskynda lösningen och kontrollera kostnaden för varje tvist, kontrovers eller anspråk relaterat till dessa Juridiska villkor (var och en en \"Tvist\" och gemensamt \"Tvisterna\") som väcks av antingen dig eller oss (enskilt en \"Part\" och gemensamt \"Parterna\"), godkänner Parterna att först försöka förhandla varje Tvist (förutom de Tvister som uttryckligen anges nedan) informellt i minst trettio (30) dagar innan skiljeförfarande inleds. Sådana informella förhandlingar inleds vid skriftligt meddelande från en Part till den andra Parten."
+    },
+    {
+      "id": 175,
+      "text": "Bindande skiljeförfarande"
+    },
+    {
+      "id": 176,
+      "text": "Om Parterna inte kan lösa en Tvist genom informella förhandlingar kommer Tvisten (förutom de Tvister som uttryckligen utesluts nedan) att slutgiltigt och uteslutande lösas genom bindande skiljeförfarande. DU FÖRSTÅR ATT UTAN DENNA BESTÄMMELSE SKULLE DU HA RÄTT ATT STÄMMA I DOMSTOL OCH FÅ EN JURYPRÖVNING. Skiljeförfarandet ska inledas och genomföras enligt Commercial Arbitration Rules från American Arbitration Association (&quot;AAA&quot;) och, där så är lämpligt, AAA&#x27;s Supplementary Procedures for Consumer Related Disputes (&quot;AAA Consumer Rules&quot;), som båda finns tillgängliga på "
+    },
+    {
+      "id": 177,
+      "text": "webbplatsen för American Arbitration Association (AAA)"
+    },
+    {
+      "id": 178,
+      "text": ". Dina skiljeavgifter och din andel av skiljedomarens ersättning ska styras av AAA Consumer Rules och, där så är lämpligt, begränsas av AAA Consumer Rules. Skiljeförfarandet kan genomföras personligen, genom inlämning av dokument, per telefon eller online. Skiljedomaren kommer att fatta ett beslut skriftligen, men behöver inte lämna en motivering om inte någon av Parterna begär det. Skiljedomaren måste följa tillämplig lag, och varje dom kan överklagas om skiljedomaren underlåter att göra det. Förutom där annat krävs enligt tillämpliga AAA regler eller tillämplig lag, kommer skiljeförfarandet att äga rum i California."
+    },
+    {
+      "id": 179,
+      "text": "Förutom vad som annars anges häri kan Parterna föra talan i domstol för att tvinga fram skiljeförfarande, vilandeförklara förfaranden i avvaktan på skiljeförfarande, eller för att bekräfta, ändra, upphäva eller meddela dom över den dom som skiljedomaren har meddelat."
+    },
+    {
+      "id": 180,
+      "text": "Om en Tvist av någon anledning går vidare i domstol i stället för skiljeförfarande, ska Tvisten inledas eller föras i de delstatliga och federala domstolarna i California, och Parterna samtycker härmed till, och avstår från alla försvar om brist på personlig jurisdiktion, och forum non conveniens avseende plats och jurisdiktion i sådana delstatliga och federala domstolar. Tillämpningen av Förenta nationernas konvention om avtal för internationell försäljning av varor och Uniform Computer Information Transaction Act (UCITA) utesluts från dessa Juridiska villkor."
+    },
+    {
+      "id": 181,
+      "text": "Under inga omständigheter ska någon Tvist som väcks av någon av Parterna och som på något sätt är relaterad till Tjänsterna inledas mer än ett (1) år efter att talans grund uppstod. Om denna bestämmelse befinns vara olaglig eller ogenomförbar, kommer ingen av Parterna att välja att skilja någon Tvist som faller inom den del av denna bestämmelse som befinns vara olaglig eller ogenomförbar och sådan Tvist ska avgöras av en behörig domstol inom de domstolar som anges för jurisdiktion ovan, och Parterna godkänner att underkasta sig den domstolens personliga jurisdiktion."
+    },
+    {
+      "id": 182,
+      "text": "Begränsningar"
+    },
+    {
+      "id": 183,
+      "text": "Parterna godkänner att varje skiljeförfarande ska begränsas till Tvisten mellan Parterna individuellt. I den fulla utsträckning lagen tillåter, (a) ska inget skiljeförfarande förenas med något annat förfarande; (b) det finns ingen rätt eller befogenhet för någon Tvist att skiljas på grupptalanbasis eller att använda grupptalanförfaranden; och (c) det finns ingen rätt eller befogenhet för någon Tvist att väckas i en påstådd representativ egenskap för allmänhetens eller några andra personers räkning."
+    },
+    {
+      "id": 184,
+      "text": "Undantag från informella förhandlingar och skiljeförfarande"
+    },
+    {
+      "id": 185,
+      "text": "Parterna godkänner att följande Tvister inte omfattas av ovanstående bestämmelser om informella förhandlingar och bindande skiljeförfarande: (a) varje Tvist som syftar till att verkställa eller skydda, eller som rör giltigheten av, någon av en Parts immateriella rättigheter; (b) varje Tvist som är relaterad till, eller som uppstår ur, anklagelser om stöld, piratkopiering, intrång i privatlivet eller obehörig användning; och (c) varje anspråk på förbudsföreläggande. Om denna bestämmelse befinns vara olaglig eller ogenomförbar, kommer ingen av Parterna att välja att skilja någon Tvist som faller inom den del av denna bestämmelse som befinns vara olaglig eller ogenomförbar och sådan Tvist ska avgöras av en behörig domstol inom de domstolar som anges för jurisdiktion ovan, och Parterna godkänner att underkasta sig den domstolens personliga jurisdiktion."
+    },
+    {
+      "id": 186,
+      "text": "18. KORRIGERINGAR"
+    },
+    {
+      "id": 187,
+      "text": "Det kan finnas information på Tjänsterna som innehåller typografiska fel, felaktigheter eller utelämnanden, inklusive beskrivningar, prissättning, tillgänglighet och diverse annan information. Vi förbehåller oss rätten att korrigera eventuella fel, felaktigheter eller utelämnanden och att ändra eller uppdatera informationen på Tjänsterna när som helst, utan förhandsbesked."
+    },
+    {
+      "id": 188,
+      "text": "19. ANSVARSFRISKRIVNING"
+    },
+    {
+      "id": 189,
+      "text": "TJÄNSTERNA TILLHANDAHÅLLS I BEFINTLIGT SKICK OCH I MÅN AV TILLGÄNGLIGHET. DU GODKÄNNER ATT DIN ANVÄNDNING AV TJÄNSTERNA SKER PÅ DIN EGEN RISK. I DEN FULLESTA UTSTRÄCKNING LAGEN TILLÅTER FRISKRIVER VI OSS FRÅN ALLA GARANTIER, UTTRYCKLIGA ELLER UNDERFÖRSTÅDDA, I SAMBAND MED TJÄNSTERNA OCH DIN ANVÄNDNING AV DEM, INKLUSIVE, UTAN BEGRÄNSNING, DE UNDERFÖRSTÅDDA GARANTIERNA OM SÄLJBARHET, LÄMPLIGHET FÖR ETT VISST ÄNDAMÅL OCH ICKE INTRÅNG. VI LÄMNAR INGA GARANTIER ELLER UTFÄSTELSER OM RIKTIGHETEN ELLER FULLSTÄNDIGHETEN I TJÄNSTERNAS INNEHÅLL ELLER INNEHÅLLET PÅ NÅGRA WEBBPLATSER ELLER MOBILAPPLIKATIONER SOM ÄR LÄNKADE TILL TJÄNSTERNA OCH VI TAR INGET ANSVAR ELLER NÅGON SKYLDIGHET FÖR (1) FEL, MISSTAG ELLER FELAKTIGHETER I INNEHÅLL OCH MATERIAL, (2) PERSONSKADA ELLER EGENDOMSSKADA, AV VILKEN ART SOM HELST, SOM FÖLJER AV DIN ÅTKOMST TILL OCH ANVÄNDNING AV TJÄNSTERNA, (3) NÅGON OBEHÖRIG ÅTKOMST TILL ELLER ANVÄNDNING AV VÅRA SÄKRA SERVRAR OCH/ELLER ALL PERSONLIG INFORMATION OCH/ELLER FINANSIELL INFORMATION SOM LAGRAS DÄRI, (4) NÅGOT AVBROTT ELLER UPPHÖRANDE AV ÖVERFÖRING TILL ELLER FRÅN TJÄNSTERNA, (5) NÅGRA BUGGAR, VIRUS, TROJANSKA HÄSTAR ELLER LIKNANDE SOM KAN ÖVERFÖRAS TILL ELLER GENOM TJÄNSTERNA AV NÅGON TREDJE PART, OCH/ELLER (6) NÅGRA FEL ELLER UTELÄMNANDEN I NÅGOT INNEHÅLL OCH MATERIAL ELLER FÖR NÅGON FÖRLUST ELLER SKADA AV NÅGOT SLAG SOM UPPSTÅR SOM EN FÖLJD AV ANVÄNDNINGEN AV NÅGOT INNEHÅLL SOM PUBLICERAS, ÖVERFÖRS ELLER PÅ ANNAT SÄTT GÖRS TILLGÄNGLIGT VIA TJÄNSTERNA. VI GARANTERAR INTE, STÖDER INTE, SÄKERSTÄLLER INTE ELLER TAR ANSVAR FÖR NÅGON PRODUKT ELLER TJÄNST SOM ANNONSERAS ELLER ERBJUDS AV EN TREDJE PART GENOM TJÄNSTERNA, NÅGON HYPERLÄNKAD WEBBPLATS, ELLER NÅGON WEBBPLATS ELLER MOBILAPPLIKATION SOM VISAS I NÅGON BANNER ELLER ANNAN ANNONSERING, OCH VI KOMMER INTE ATT VARA EN PART I ELLER PÅ NÅGOT SÄTT ANSVARA FÖR ATT ÖVERVAKA NÅGON TRANSAKTION MELLAN DIG OCH NÅGRA TREDJEPARTSLEVERANTÖRER AV PRODUKTER ELLER TJÄNSTER. LIKT KÖPET AV EN PRODUKT ELLER TJÄNST GENOM NÅGOT MEDIUM ELLER I NÅGON MILJÖ BÖR DU ANVÄNDA DITT BÄSTA OMDÖME OCH IAKTTA FÖRSIKTIGHET DÄR DET ÄR LÄMPLIGT."
+    },
+    {
+      "id": 190,
+      "text": "20. ANSVARSBEGRÄNSNINGAR"
+    },
+    {
+      "id": 191,
+      "text": "UNDER INGA OMSTÄNDIGHETER KOMMER VI ELLER VÅRA STYRELSELEDAMÖTER, ANSTÄLLDA ELLER AGENTER ATT ANSVARA GENTEMOT DIG ELLER NÅGON TREDJE PART FÖR NÅGRA DIREKTA, INDIREKTA, FÖLJDMÄSSIGA, EXEMPLARISKA, TILLFÄLLIGA, SÄRSKILDA ELLER STRAFFMÄSSIGA SKADOR, INKLUSIVE UTEBLIVEN VINST, UTEBLIVEN INTÄKT, FÖRLUST AV DATA ELLER ANDRA SKADOR SOM UPPSTÅR UR DIN ANVÄNDNING AV TJÄNSTERNA, ÄVEN OM VI HAR INFORMERATS OM MÖJLIGHETEN TILL SÅDANA SKADOR. OAKTAT NÅGOT SOM SÄGER MOTSATSEN HÄRI KOMMER VÅRT ANSVAR GENTEMOT DIG FÖR NÅGON ORSAK ÖVER HUVUD TAGET OCH OAVSETT TALANS FORM ALLTID ATT BEGRÄNSAS TILL DET BELOPP SOM BETALATS, OM NÅGOT, AV DIG TILL OSS UNDER DEN TRE (3) MÅNADER LÅNGA PERIODEN FÖRE DEN TIDPUNKT DÅ NÅGON TALANS GRUND UPPSTOD. VISSA DELSTATSLAGAR I USA OCH INTERNATIONELLA LAGAR TILLÅTER INTE BEGRÄNSNINGAR AV UNDERFÖRSTÅDDA GARANTIER ELLER UTESLUTNING ELLER BEGRÄNSNING AV VISSA SKADOR. OM DESSA LAGAR GÄLLER FÖR DIG KAN VISSA ELLER ALLA AV OVANSTÅENDE FRISKRIVNINGAR ELLER BEGRÄNSNINGAR INTE GÄLLA FÖR DIG, OCH DU KAN HA YTTERLIGARE RÄTTIGHETER."
+    },
+    {
+      "id": 192,
+      "text": "21. SKADESLÖSHET"
+    },
+    {
+      "id": 193,
+      "text": "Du godkänner att försvara, hålla skadeslösa och skydda oss, inklusive våra dotterbolag, närstående bolag och alla våra respektive tjänstemän, agenter, partners och anställda, från och mot varje förlust, skada, ansvar, anspråk eller krav, inklusive rimliga advokatarvoden och utgifter, som framställs av någon tredje part på grund av eller som uppstår ur: (1) dina Bidrag; (2) användning av Tjänsterna; (3) brott mot dessa Juridiska villkor; (4) varje brott mot dina utfästelser och garantier som anges i dessa Juridiska villkor; (5) din kränkning av en tredje parts rättigheter, inklusive men inte begränsat till immateriella rättigheter; eller (6) varje öppen skadlig handling mot någon annan användare av Tjänsterna som du anslöt till via Tjänsterna. Oaktat det föregående förbehåller vi oss rätten att, på din bekostnad, ta över det exklusiva försvaret och kontrollen över varje ärende för vilket du är skyldig att hålla oss skadeslösa, och du godkänner att samarbeta, på din bekostnad, med vårt försvar av sådana anspråk. Vi kommer att göra rimliga ansträngningar för att meddela dig om varje sådant anspråk, varje sådan talan eller varje sådant förfarande som omfattas av denna skadeslöshet när vi blir medvetna om det."
+    },
+    {
+      "id": 194,
+      "text": "22. ANVÄNDARDATA"
+    },
+    {
+      "id": 195,
+      "text": "Vi kommer att upprätthålla vissa data som du överför till Tjänsterna i syfte att hantera Tjänsternas prestanda, samt data som rör din användning av Tjänsterna. Även om vi utför regelbundna rutinmässiga säkerhetskopieringar av data är du ensamt ansvarig för alla data som du överför eller som rör någon aktivitet du har genomfört med hjälp av Tjänsterna. Du godkänner att vi inte ska ha något ansvar gentemot dig för någon förlust eller korruption av sådana data, och du avstår härmed från varje rätt till talan mot oss som uppstår ur sådan förlust eller korruption av sådana data."
+    },
+    {
+      "id": 196,
+      "text": "23. ELEKTRONISK KOMMUNIKATION, TRANSAKTIONER OCH SIGNATURER"
+    },
+    {
+      "id": 197,
+      "text": "Att besöka Tjänsterna, skicka mejl till oss och fylla i onlineformulär utgör elektronisk kommunikation. Du samtycker till att ta emot elektronisk kommunikation, och du godkänner att alla avtal, meddelanden, avslöjanden och annan kommunikation som vi tillhandahåller dig elektroniskt, via mejl och på Tjänsterna, uppfyller varje juridiskt krav på att sådan kommunikation ska vara skriftlig. DU GODKÄNNER HÄRMED ANVÄNDNINGEN AV ELEKTRONISKA SIGNATURER, AVTAL, BESTÄLLNINGAR OCH ANDRA HANDLINGAR, OCH ELEKTRONISK LEVERANS AV MEDDELANDEN, POLICYER OCH HANDLINGAR ÖVER TRANSAKTIONER SOM INITIERAS ELLER SLUTFÖRS AV OSS ELLER VIA TJÄNSTERNA. Du avstår härmed från alla rättigheter eller krav enligt några stadgar, förordningar, regler, förordnanden eller andra lagar i någon jurisdiktion som kräver en originalsignatur eller leverans eller bevarande av icke elektroniska handlingar, eller till betalningar eller beviljande av krediter på något annat sätt än elektroniskt."
+    },
+    {
+      "id": 198,
+      "text": "24. ANVÄNDARE OCH INVÅNARE I KALIFORNIEN"
+    },
+    {
+      "id": 199,
+      "text": "Om något klagomål hos oss inte löses på ett tillfredsställande sätt kan du kontakta Complaint Assistance Unit vid Division of Consumer Services vid California Department of Consumer Affairs skriftligen på 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 eller per telefon på (800) 952-5210 eller (916) 445-1254."
+    },
+    {
+      "id": 200,
+      "text": "25. ÖVRIGT"
+    },
+    {
+      "id": 201,
+      "text": "Dessa Juridiska villkor och alla policyer eller driftsregler som publiceras av oss på Tjänsterna eller i förhållande till Tjänsterna utgör hela avtalet och överenskommelsen mellan dig och oss. Vår underlåtenhet att utöva eller verkställa någon rättighet eller bestämmelse i dessa Juridiska villkor ska inte fungera som ett avstående från sådan rättighet eller bestämmelse. Dessa Juridiska villkor gäller i den fullaste utsträckning lagen tillåter. Vi kan överlåta några eller alla av våra rättigheter och skyldigheter till andra när som helst. Vi ska inte ansvara eller vara skyldiga för någon förlust, skada, försening eller underlåtenhet att agera som orsakas av någon orsak utanför vår rimliga kontroll. Om någon bestämmelse eller del av en bestämmelse i dessa Juridiska villkor bedöms vara olaglig, ogiltig eller ogenomförbar, anses den bestämmelsen eller delen av bestämmelsen vara avskiljbar från dessa Juridiska villkor och påverkar inte giltigheten och genomförbarheten av några återstående bestämmelser. Det finns inget joint venture, partnerskap, anställnings eller agentförhållande som skapas mellan dig och oss som en följd av dessa Juridiska villkor eller användningen av Tjänsterna. Du godkänner att dessa Juridiska villkor inte kommer att tolkas mot oss på grund av att vi har utarbetat dem. Du avstår härmed från alla försvar du kan ha utifrån den elektroniska formen av dessa Juridiska villkor och parternas brist på undertecknande för att verkställa dessa Juridiska villkor."
+    },
+    {
+      "id": 202,
+      "text": "26. KONTAKTA OSS"
+    },
+    {
+      "id": 203,
+      "text": "För att lösa ett klagomål avseende Tjänsterna eller för att få ytterligare information om användningen av Tjänsterna, kontakta oss på:"
+    },
+    {
+      "id": 204,
+      "text": "Tava Labs, LLC"
+    },
+    {
+      "id": 205,
+      "text": "1521 Blake St STE 95593"
+    },
+    {
+      "id": 206,
+      "text": "Denver, CO 80202"
+    },
+    {
+      "id": 207,
+      "text": "United States"
+    },
+    {
+      "id": 208,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 209,
+      "text": "Dessa Allmänna villkor skapades med Termly&#x27;s "
+    },
+    {
+      "id": 210,
+      "text": "Terms and Conditions Generator"
+    },
+    {
+      "id": 211,
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,855 @@
+{
+ "slug": "terms",
+ "title": "Felhasználási feltételek | Tava Labs",
+ "description": "Azok a feltételek, amelyek a tavalabs.app használatát és a PDRN Brightening Serum Tava Labs, LLC vállalattól történő vásárlását szabályozzák, beleértve a minden értékesítés végleges szabályzatunkat.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "Jogi"
+  },
+  {
+   "id": 1,
+   "text": "Felhasználási feltételek"
+  },
+  {
+   "id": 2,
+   "text": "Utolsó frissítés: 2026. november 05."
+  },
+  {
+   "id": 3,
+   "text": "MEGÁLLAPODÁS A JOGI FELTÉTELEINKRŐL"
+  },
+  {
+   "id": 4,
+   "text": "Mi vagyunk a Tava Labs, LLC, amely Tava néven folytat tevékenységet (&quot;Vállalat&quot;, &quot;mi&quot;, &quot;minket&quot;, &quot;miénk&quot;), egy Colorado államban, az Egyesült Államokban bejegyzett vállalat, székhelye: 1521 Blake St STE 95593, Denver, CO 80202."
+  },
+  {
+   "id": 5,
+   "text": "Mi üzemeltetjük a "
+  },
+  {
+   "id": 6,
+   "text": "http://www.tavalabs.app"
+  },
+  {
+   "id": 7,
+   "text": " weboldalt (a &quot;Weboldal&quot;), valamint minden más kapcsolódó terméket és szolgáltatást, amely ezekre a jogi feltételekre hivatkozik vagy azokra mutató linket tartalmaz (a &quot;Jogi feltételek&quot;) (együttesen a &quot;Szolgáltatások&quot;)."
+  },
+  {
+   "id": 8,
+   "text": "Kapcsolatba léphet velünk e-mailben a "
+  },
+  {
+   "id": 9,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 10,
+   "text": " címen, vagy postai úton a 1521 Blake St STE 95593, Denver, CO 80202, United States címen."
+  },
+  {
+   "id": 11,
+   "text": "Ezek a Jogi feltételek jogilag kötelező erejű megállapodást képeznek Ön, akár személyesen, akár egy szervezet nevében (&quot;Ön&quot;), és a Tava Labs, LLC között a Szolgáltatásokhoz való hozzáférésére és azok használatára vonatkozóan. Ön elfogadja, hogy a Szolgáltatásokhoz való hozzáféréssel elolvasta, megértette és elfogadja, hogy e Jogi feltételek mindegyike kötelezi Önt. HA NEM ÉRT EGYET E JOGI FELTÉTELEK MINDEGYIKÉVEL, AKKOR KIFEJEZETTEN TILOS A SZOLGÁLTATÁSOKAT HASZNÁLNIA, ÉS A HASZNÁLATOT AZONNAL ABBA KELL HAGYNIA."
+  },
+  {
+   "id": 12,
+   "text": "Előzetesen értesítjük Önt az Ön által használt Szolgáltatások minden ütemezett változtatásáról. A módosított Jogi feltételek a közzétételkor vagy az Önhöz intézett értesítéssel lépnek hatályba a "
+  },
+  {
+   "id": 13,
+   "text": "noreply.entrepreneur-wellness@mail.hellostencil.com"
+  },
+  {
+   "id": 14,
+   "text": " címről, az e-mail üzenetben leírtak szerint. A Szolgáltatások bármely változtatás hatálybalépése utáni további használatával Ön elfogadja, hogy a módosított feltételek kötelezik Önt."
+  },
+  {
+   "id": 15,
+   "text": "A Szolgáltatások legalább 18 éves felhasználóknak szólnak. 18 év alatti személyek nem használhatják a Szolgáltatásokat, és nem regisztrálhatnak azokra."
+  },
+  {
+   "id": 16,
+   "text": "Javasoljuk, hogy nyilvántartása számára nyomtasson ki egy példányt ezekből a Jogi feltételekből."
+  },
+  {
+   "id": 17,
+   "text": "TARTALOMJEGYZÉK"
+  },
+  {
+   "id": 18,
+   "text": "MEGÁLLAPODÁS A JOGI FELTÉTELEINKRŐL"
+  },
+  {
+   "id": 19,
+   "text": "1. SZOLGÁLTATÁSAINK"
+  },
+  {
+   "id": 20,
+   "text": "2. SZELLEMI TULAJDONJOGOK"
+  },
+  {
+   "id": 21,
+   "text": "3. FELHASZNÁLÓI NYILATKOZATOK"
+  },
+  {
+   "id": 22,
+   "text": "4. FELHASZNÁLÓI REGISZTRÁCIÓ"
+  },
+  {
+   "id": 23,
+   "text": "5. TERMÉKEK"
+  },
+  {
+   "id": 24,
+   "text": "6. VÁSÁRLÁSOK ÉS FIZETÉS"
+  },
+  {
+   "id": 25,
+   "text": "7. VISSZAKÜLDÉSI SZABÁLYZAT"
+  },
+  {
+   "id": 26,
+   "text": "8. TILTOTT TEVÉKENYSÉGEK"
+  },
+  {
+   "id": 27,
+   "text": "9. FELHASZNÁLÓK ÁLTAL LÉTREHOZOTT HOZZÁJÁRULÁSOK"
+  },
+  {
+   "id": 28,
+   "text": "10. HOZZÁJÁRULÁSI LICENC"
+  },
+  {
+   "id": 29,
+   "text": "11. IRÁNYELVEK AZ ÉRTÉKELÉSEKHEZ"
+  },
+  {
+   "id": 30,
+   "text": "12. A SZOLGÁLTATÁSOK KEZELÉSE"
+  },
+  {
+   "id": 31,
+   "text": "13. ADATVÉDELMI SZABÁLYZAT"
+  },
+  {
+   "id": 32,
+   "text": "14. IDŐTARTAM ÉS MEGSZÜNTETÉS"
+  },
+  {
+   "id": 33,
+   "text": "15. MÓDOSÍTÁSOK ÉS MEGSZAKÍTÁSOK"
+  },
+  {
+   "id": 34,
+   "text": "16. IRÁNYADÓ JOG"
+  },
+  {
+   "id": 35,
+   "text": "17. JOGVITÁK RENDEZÉSE"
+  },
+  {
+   "id": 36,
+   "text": "18. JAVÍTÁSOK"
+  },
+  {
+   "id": 37,
+   "text": "19. JOGI NYILATKOZAT"
+  },
+  {
+   "id": 38,
+   "text": "20. A FELELŐSSÉG KORLÁTOZÁSA"
+  },
+  {
+   "id": 39,
+   "text": "21. KÁRTALANÍTÁS"
+  },
+  {
+   "id": 40,
+   "text": "22. FELHASZNÁLÓI ADATOK"
+  },
+  {
+   "id": 41,
+   "text": "23. ELEKTRONIKUS KOMMUNIKÁCIÓ, TRANZAKCIÓK ÉS ALÁÍRÁSOK"
+  },
+  {
+   "id": 42,
+   "text": "24. KALIFORNIAI FELHASZNÁLÓK ÉS LAKOSOK"
+  },
+  {
+   "id": 43,
+   "text": "25. VEGYES RENDELKEZÉSEK"
+  },
+  {
+   "id": 44,
+   "text": "26. KAPCSOLATFELVÉTEL"
+  },
+  {
+   "id": 45,
+   "text": "1. SZOLGÁLTATÁSAINK"
+  },
+  {
+   "id": 46,
+   "text": "A Szolgáltatások használata során megadott információk nem szánjuk terjesztésre vagy használatra semmilyen olyan személy vagy szervezet számára olyan joghatóságban vagy országban, ahol az ilyen terjesztés vagy használat jogszabályba vagy rendeletbe ütközne, vagy minket bármilyen regisztrációs kötelezettségnek tenne ki az adott joghatóságban vagy országban. Ennek megfelelően azok a személyek, akik más helyről férnek hozzá a Szolgáltatásokhoz, ezt saját kezdeményezésükre teszik, és kizárólag ők felelősek a helyi jogszabályok betartásáért, ha és amennyiben a helyi jogszabályok alkalmazandók."
+  },
+  {
+   "id": 47,
+   "text": "A Szolgáltatások nem ágazatspecifikus szabályozásoknak (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA) stb.) való megfelelésre készültek, így ha az Ön interakcióira ilyen törvények vonatkoznának, nem használhatja a Szolgáltatásokat. A Szolgáltatásokat nem használhatja olyan módon, amely sértené a Gramm-Leach-Bliley Act (GLBA) törvényt."
+  },
+  {
+   "id": 48,
+   "text": "2. SZELLEMI TULAJDONJOGOK"
+  },
+  {
+   "id": 49,
+   "text": "A mi szellemi tulajdonunk"
+  },
+  {
+   "id": 50,
+   "text": "Mi vagyunk a Szolgáltatásainkban található minden szellemi tulajdonjog tulajdonosa vagy licencbirtokosa, beleértve a Szolgáltatások minden forráskódját, adatbázisát, funkcionalitását, szoftverét, weboldaltervét, hanganyagát, videóját, szövegét, fényképét és grafikáját (együttesen a &quot;Tartalom&quot;), valamint az azokban szereplő védjegyeket, szolgáltatási védjegyeket és logókat (a &quot;Védjegyek&quot;)."
+  },
+  {
+   "id": 51,
+   "text": "Tartalmunkat és Védjegyeinket szerzői jogi és védjegyjogi törvények (valamint különféle egyéb szellemi tulajdonjogok és tisztességtelen versenyre vonatkozó törvények) és egyezmények védik az Egyesült Államokban és világszerte."
+  },
+  {
+   "id": 52,
+   "text": "A Tartalom és a Védjegyek a Szolgáltatásokban vagy azokon keresztül &quot;ADOTT ÁLLAPOTBAN&quot; kerülnek rendelkezésre bocsátásra, kizárólag az Ön személyes, nem kereskedelmi használatára."
+  },
+  {
+   "id": 53,
+   "text": "A Szolgáltatásaink Ön általi használata"
+  },
+  {
+   "id": 54,
+   "text": "Feltéve, hogy betartja ezeket a Jogi feltételeket, beleértve az alábbi &quot;"
+  },
+  {
+   "id": 55,
+   "text": "TILTOTT TEVÉKENYSÉGEK"
+  },
+  {
+   "id": 56,
+   "text": "&quot; szakaszt, nem kizárólagos, át nem ruházható, visszavonható licencet adunk Önnek arra, hogy:"
+  },
+  {
+   "id": 57,
+   "text": "hozzáférjen a Szolgáltatásokhoz; és"
+  },
+  {
+   "id": 58,
+   "text": "letöltsön vagy kinyomtasson egy példányt a Tartalom bármely részéből, amelyhez megfelelően hozzáférést szerzett,"
+  },
+  {
+   "id": 59,
+   "text": "kizárólag az Ön személyes, nem kereskedelmi használatára."
+  },
+  {
+   "id": 60,
+   "text": "Az ebben a szakaszban vagy a Jogi feltételeink más részében meghatározottakon kívül a Szolgáltatások semmilyen része, valamint semmilyen Tartalom vagy Védjegy nem másolható, reprodukálható, összesíthető, újra közzétehető, feltölthető, közzétehető, nyilvánosan megjeleníthető, kódolható, lefordítható, továbbítható, terjeszthető, értékesíthető, licencbe adható vagy más módon hasznosítható semmilyen kereskedelmi célra, kifejezett előzetes írásbeli engedélyünk nélkül."
+  },
+  {
+   "id": 61,
+   "text": "Ha a Szolgáltatásokat, a Tartalmat vagy a Védjegyeket az ebben a szakaszban vagy a Jogi feltételeink más részében meghatározottaktól eltérően kívánja használni, kérjük, kérelmét a következő címre küldje: "
+  },
+  {
+   "id": 62,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 63,
+   "text": ". Ha valaha engedélyt adunk Önnek Szolgáltatásaink vagy Tartalmunk bármely részének közzétételére, reprodukálására vagy nyilvános megjelenítésére, azonosítania kell minket a Szolgáltatások, a Tartalom vagy a Védjegyek tulajdonosaiként vagy licencadóiként, és gondoskodnia kell arról, hogy minden szerzői jogi vagy tulajdonjogi megjegyzés megjelenjen vagy látható legyen Tartalmunk közzétételekor, reprodukálásakor vagy megjelenítésekor."
+  },
+  {
+   "id": 64,
+   "text": "Fenntartunk minden olyan jogot, amelyet nem adunk meg kifejezetten Önnek a Szolgáltatásokra, a Tartalomra és a Védjegyekre vonatkozóan."
+  },
+  {
+   "id": 65,
+   "text": "E szellemi tulajdonjogok bármilyen megsértése Jogi feltételeink lényeges megsértésének minősül, és a Szolgáltatásaink használatához való joga azonnal megszűnik."
+  },
+  {
+   "id": 66,
+   "text": "Az Ön beküldései és hozzájárulásai"
+  },
+  {
+   "id": 67,
+   "text": "Kérjük, a Szolgáltatásaink használata előtt gondosan olvassa el ezt a szakaszt és a &quot;"
+  },
+  {
+   "id": 68,
+   "text": "TILTOTT TEVÉKENYSÉGEK"
+  },
+  {
+   "id": 69,
+   "text": "&quot; szakaszt, hogy megértse (a) azokat a jogokat, amelyeket nekünk ad, és (b) azokat a kötelezettségeket, amelyek Önt terhelik, amikor bármilyen tartalmat közzétesz vagy feltölt a Szolgáltatásokon keresztül."
+  },
+  {
+   "id": 70,
+   "text": "Beküldések:"
+  },
+  {
+   "id": 71,
+   "text": " Azzal, hogy közvetlenül elküld nekünk bármilyen kérdést, megjegyzést, javaslatot, ötletet, visszajelzést vagy egyéb információt a Szolgáltatásokról (&quot;Beküldések&quot;), Ön elfogadja, hogy az ilyen Beküldésben lévő minden szellemi tulajdonjogot ránk ruház. Ön elfogadja, hogy ez a Beküldés a mi tulajdonunk lesz, és jogosultak leszünk annak korlátlan használatára és terjesztésére bármilyen jogszerű célra, kereskedelmi vagy egyéb célra, Önnek szóló elismerés vagy ellentételezés nélkül."
+  },
+  {
+   "id": 72,
+   "text": "Hozzájárulások:"
+  },
+  {
+   "id": 73,
+   "text": " A Szolgáltatások felkérhetik Önt csevegésre, hozzájárulásra vagy blogokban, üzenőfalakon, online fórumokon és egyéb funkciókban való részvételre, amelyek során tartalmat és anyagokat hozhat létre, küldhet be, tehet közzé, jeleníthet meg, továbbíthat, tehet közzé, terjeszthet vagy sugározhat nekünk vagy a Szolgáltatásokon keresztül, beleértve többek között szöveget, írásokat, videót, hangot, fényképeket, zenét, grafikát, megjegyzéseket, értékeléseket, értékelési javaslatokat, személyes információkat vagy egyéb anyagokat (&quot;Hozzájárulások&quot;). Minden nyilvánosan közzétett Beküldés Hozzájárulásként is kezelendő."
+  },
+  {
+   "id": 74,
+   "text": "Ön tudomásul veszi, hogy a Hozzájárulásokat a Szolgáltatások más felhasználói is megtekinthetik."
+  },
+  {
+   "id": 75,
+   "text": "Amikor Hozzájárulásokat tesz közzé, licencet ad nekünk (beleértve az Ön nevének, védjegyeinek és logóinak használatát):"
+  },
+  {
+   "id": 76,
+   "text": " Bármilyen Hozzájárulás közzétételével korlátlan, korlátok nélküli, visszavonhatatlan, örökös, nem kizárólagos, átruházható, jogdíjmentes, teljes mértékben kifizetett, világméretű jogot és licencet ad nekünk arra, hogy: használjuk, másoljuk, reprodukáljuk, terjesszük, értékesítsük, továbbértékesítsük, közzétegyük, sugározzuk, átcímezzük, tároljuk, nyilvánosan előadjuk, nyilvánosan megjelenítsük, újraformázzuk, lefordítsuk, kivonatoljuk (egészben vagy részben) és hasznosítsuk az Ön Hozzájárulásait (beleértve korlátozás nélkül az Ön képmását, nevét és hangját) bármilyen célra, kereskedelmi, hirdetési vagy egyéb célra, származékos műveket készítsünk az Ön Hozzájárulásaiból, vagy azokat más művekbe foglaljuk, és allicencbe adjuk az ebben a szakaszban megadott licenceket. Használatunk és terjesztésünk bármilyen médiaformátumban és bármilyen médiacsatornán keresztül történhet."
+  },
+  {
+   "id": 77,
+   "text": "Ez a licenc magában foglalja az Ön nevének, cégnevének és franchise-nevének használatát, adott esetben, valamint az Ön által megadott védjegyek, szolgáltatási védjegyek, kereskedelmi nevek, logók, valamint személyes és kereskedelmi képek bármelyikét."
+  },
+  {
+   "id": 78,
+   "text": "Ön felelős azért, amit közzétesz vagy feltölt:"
+  },
+  {
+   "id": 79,
+   "text": " Azzal, hogy Beküldéseket küld nekünk és/vagy Hozzájárulásokat tesz közzé a Szolgáltatások bármely részén keresztül, vagy Hozzájárulásokat tesz hozzáférhetővé a Szolgáltatásokon keresztül úgy, hogy fiókját a Szolgáltatásokon keresztül bármely közösségi hálózati fiókjához kapcsolja, Ön:"
+  },
+  {
+   "id": 80,
+   "text": "megerősíti, hogy elolvasta és elfogadja a &quot;"
+  },
+  {
+   "id": 81,
+   "text": "TILTOTT TEVÉKENYSÉGEK"
+  },
+  {
+   "id": 82,
+   "text": "&quot; rendelkezéseit, és nem tesz közzé, küld, tesz közzé, tölt fel vagy továbbít a Szolgáltatásokon keresztül olyan Beküldést, és nem tesz közzé olyan Hozzájárulást, amely jogellenes, zaklató, gyűlöletkeltő, káros, rágalmazó, obszcén, megfélemlítő, visszaélésszerű, diszkriminatív, bármely személyt vagy csoportot fenyegető, szexuálisan explicit, hamis, pontatlan, megtévesztő vagy félrevezető;"
+  },
+  {
+   "id": 83,
+   "text": "az alkalmazandó jog által megengedett mértékben lemond minden erkölcsi jogról minden ilyen Beküldésre és/vagy Hozzájárulásra vonatkozóan;"
+  },
+  {
+   "id": 84,
+   "text": "szavatolja, hogy minden ilyen Beküldés és/vagy Hozzájárulás eredetileg Öntől származik, vagy hogy rendelkezik a szükséges jogokkal és licencekkel az ilyen Beküldések és/vagy Hozzájárulások benyújtásához, és teljes felhatalmazása van arra, hogy a fent említett jogokat megadja nekünk a Beküldéseire és/vagy Hozzájárulásaira vonatkozóan; és"
+  },
+  {
+   "id": 85,
+   "text": "szavatolja és kijelenti, hogy Beküldései és/vagy Hozzájárulásai nem minősülnek bizalmas információnak."
+  },
+  {
+   "id": 86,
+   "text": "Kizárólag Ön felelős Beküldéseiért és/vagy Hozzájárulásaiért, és kifejezetten elfogadja, hogy megtérít nekünk minden olyan veszteséget, amelyet az (a) e szakasz, (b) bármely harmadik fél szellemi tulajdonjogai vagy (c) az alkalmazandó jog Ön általi megsértése miatt szenvedünk el."
+  },
+  {
+   "id": 87,
+   "text": "Eltávolíthatjuk vagy szerkeszthetjük az Ön Tartalmát:"
+  },
+  {
+   "id": 88,
+   "text": " Bár nem vagyunk kötelesek figyelemmel kísérni semmilyen Hozzájárulást, jogunkban áll bármikor, értesítés nélkül eltávolítani vagy szerkeszteni bármilyen Hozzájárulást, ha észszerű véleményünk szerint az ilyen Hozzájárulásokat károsnak tekintjük, vagy azok megsértik ezeket a Jogi feltételeket. Ha eltávolítunk vagy szerkesztünk bármilyen ilyen Hozzájárulást, felfüggeszthetjük vagy letilthatjuk a fiókját is, és jelenthetjük Önt a hatóságoknak."
+  },
+  {
+   "id": 89,
+   "text": "3. FELHASZNÁLÓI NYILATKOZATOK"
+  },
+  {
+   "id": 90,
+   "text": "A Szolgáltatások használatával Ön kijelenti és szavatolja, hogy: (1) minden Ön által benyújtott regisztrációs információ igaz, pontos, aktuális és teljes lesz; (2) fenntartja az ilyen információk pontosságát, és szükség szerint haladéktalanul frissíti az ilyen regisztrációs információkat; (3) rendelkezik jogképességgel, és elfogadja e Jogi feltételek betartását; (4) nem kiskorú abban a joghatóságban, ahol lakik; (5) nem fér hozzá a Szolgáltatásokhoz automatizált vagy nem emberi eszközökkel, akár bot, szkript vagy más módon; (6) nem használja a Szolgáltatásokat semmilyen jogellenes vagy jogosulatlan célra; és (7) a Szolgáltatások Ön általi használata nem sért semmilyen alkalmazandó törvényt vagy rendeletet."
+  },
+  {
+   "id": 91,
+   "text": "Ha bármilyen olyan információt ad meg, amely valótlan, pontatlan, nem aktuális vagy hiányos, jogunkban áll felfüggeszteni vagy megszüntetni a fiókját, és megtagadni a Szolgáltatások (vagy azok bármely részének) minden jelenlegi vagy jövőbeli használatát."
+  },
+  {
+   "id": 92,
+   "text": "4. FELHASZNÁLÓI REGISZTRÁCIÓ"
+  },
+  {
+   "id": 93,
+   "text": "Előfordulhat, hogy regisztrálnia kell a Szolgáltatások használatához. Ön elfogadja, hogy jelszavát bizalmasan kezeli, és felelős lesz fiókja és jelszava minden használatáért. Fenntartjuk a jogot, hogy eltávolítsunk, visszaköveteljünk vagy megváltoztassunk egy Ön által választott felhasználónevet, ha saját belátásunk szerint megállapítjuk, hogy az ilyen felhasználónév nem megfelelő, obszcén vagy más módon kifogásolható."
+  },
+  {
+   "id": 94,
+   "text": "5. TERMÉKEK"
+  },
+  {
+   "id": 95,
+   "text": "Mindent megteszünk annak érdekében, hogy a Szolgáltatásokon elérhető termékek színeit, jellemzőit, specifikációit és részleteit a lehető legpontosabban jelenítsük meg. Nem garantáljuk azonban, hogy a termékek színei, jellemzői, specifikációi és részletei pontosak, teljesek, megbízhatóak, aktuálisak vagy egyéb hibáktól mentesek lesznek, és az Ön elektronikus kijelzője nem feltétlenül tükrözi pontosan a termékek tényleges színeit és részleteit. Minden termék a készlet erejéig elérhető, és nem tudjuk garantálni, hogy a termékek készleten lesznek. Fenntartjuk a jogot, hogy bármikor, bármilyen okból megszüntessünk bármilyen terméket. Minden termék ára változhat."
+  },
+  {
+   "id": 96,
+   "text": "6. VÁSÁRLÁSOK ÉS FIZETÉS"
+  },
+  {
+   "id": 97,
+   "text": "A következő fizetési módokat fogadjuk el:"
+  },
+  {
+   "id": 98,
+   "text": "Visa"
+  },
+  {
+   "id": 99,
+   "text": "Mastercard"
+  },
+  {
+   "id": 100,
+   "text": "American Express"
+  },
+  {
+   "id": 101,
+   "text": "Discover"
+  },
+  {
+   "id": 102,
+   "text": "Ön elfogadja, hogy aktuális, teljes és pontos vásárlási és fiókinformációkat ad meg a Szolgáltatásokon keresztül leadott minden vásárláshoz. Továbbá elfogadja, hogy haladéktalanul frissíti a fiók- és fizetési információkat, beleértve az e-mail címet, a fizetési módot és a fizetési kártya lejárati dátumát, hogy teljesíthessük tranzakcióit, és szükség szerint kapcsolatba léphessünk Önnel. A vásárlások árához forgalmi adót adunk hozzá, ahogy azt szükségesnek ítéljük. Az árakat bármikor megváltoztathatjuk. Minden fizetés amerikai dollárban történik."
+  },
+  {
+   "id": 103,
+   "text": "Ön elfogadja, hogy minden díjat az Ön vásárlásaira akkor érvényes árakon, valamint minden alkalmazandó szállítási díjat megfizet, és felhatalmaz minket, hogy az Ön által választott fizetési szolgáltatót az ilyen összegekkel megterheljük a rendelés leadásakor. Fenntartjuk a jogot az árazásban lévő bármilyen hiba vagy tévedés kijavítására, még akkor is, ha már kértünk vagy kaptunk fizetést."
+  },
+  {
+   "id": 104,
+   "text": "Fenntartjuk a jogot, hogy megtagadjunk bármilyen, a Szolgáltatásokon keresztül leadott rendelést. Saját belátásunk szerint korlátozhatjuk vagy törölhetjük a személyenként, háztartásonként vagy rendelésenként vásárolt mennyiségeket. Ezek a korlátozások vonatkozhatnak az ugyanazon ügyfélfiók által vagy alatt leadott rendelésekre, ugyanarra a fizetési módra, és/vagy ugyanazt a számlázási vagy szállítási címet használó rendelésekre. Fenntartjuk a jogot, hogy korlátozzuk vagy megtiltsuk azokat a rendeléseket, amelyek saját megítélésünk szerint úgy tűnnek, mintha kereskedők, viszonteladók vagy forgalmazók adták volna le őket."
+  },
+  {
+   "id": 105,
+   "text": "7. VISSZAKÜLDÉSI SZABÁLYZAT"
+  },
+  {
+   "id": 106,
+   "text": "Minden értékesítés végleges, és nem kerül sor visszatérítésre."
+  },
+  {
+   "id": 107,
+   "text": "8. TILTOTT TEVÉKENYSÉGEK"
+  },
+  {
+   "id": 108,
+   "text": "A Szolgáltatásokhoz nem férhet hozzá, és azokat nem használhatja más célra, mint amelyre a Szolgáltatásokat elérhetővé tesszük. A Szolgáltatások nem használhatók semmilyen kereskedelmi vállalkozással kapcsolatban, kivéve azokat, amelyeket kifejezetten jóváhagyunk vagy támogatunk."
+  },
+  {
+   "id": 109,
+   "text": "A Szolgáltatások felhasználójaként Ön elfogadja, hogy nem:"
+  },
+  {
+   "id": 110,
+   "text": "Szisztematikusan adatokat vagy egyéb tartalmat kér le a Szolgáltatásokból, hogy írásbeli engedélyünk nélkül, közvetlenül vagy közvetve gyűjteményt, összeállítást, adatbázist vagy jegyzéket hozzon létre vagy állítson össze."
+  },
+  {
+   "id": 111,
+   "text": "Becsap, megcsal vagy félrevezet minket és más felhasználókat, különösen minden olyan kísérlet során, amely érzékeny fiókinformációk, például felhasználói jelszavak megszerzésére irányul."
+  },
+  {
+   "id": 112,
+   "text": "Megkerüli, letiltja vagy más módon megzavarja a Szolgáltatások biztonsággal kapcsolatos funkcióit, beleértve azokat a funkciókat, amelyek megakadályozzák vagy korlátozzák bármely Tartalom használatát vagy másolását, vagy korlátozásokat érvényesítenek a Szolgáltatások és/vagy az azokban található Tartalom használatára vonatkozóan."
+  },
+  {
+   "id": 113,
+   "text": "Véleményünk szerint becsmérl, befeketít vagy más módon károsít minket és/vagy a Szolgáltatásokat."
+  },
+  {
+   "id": 114,
+   "text": "A Szolgáltatásokból szerzett bármilyen információt arra használ, hogy egy másik személyt zaklasson, bántalmazzon vagy neki ártson."
+  },
+  {
+   "id": 115,
+   "text": "Nem megfelelően használja ügyfélszolgálati szolgáltatásainkat, vagy hamis jelentéseket nyújt be visszaélésről vagy helytelen viselkedésről."
+  },
+  {
+   "id": 116,
+   "text": "A Szolgáltatásokat bármely alkalmazandó törvényekkel vagy rendeletekkel összeegyeztethetetlen módon használja."
+  },
+  {
+   "id": 117,
+   "text": "Jogosulatlanul keretezi a Szolgáltatásokat, vagy azokra mutató linket helyez el."
+  },
+  {
+   "id": 118,
+   "text": "Vírusokat, trójai falovakat vagy egyéb anyagokat tölt fel vagy továbbít (vagy kísérel meg feltölteni vagy továbbítani), beleértve a nagybetűk túlzott használatát és a spammolást (ismétlődő szöveg folyamatos közzétételét), amely megzavarja bármely fél zavartalan használatát és élvezetét a Szolgáltatások tekintetében, vagy módosítja, rontja, megzavarja, megváltoztatja vagy zavarja a Szolgáltatások használatát, jellemzőit, funkcióit, működését vagy karbantartását."
+  },
+  {
+   "id": 119,
+   "text": "A rendszer bármilyen automatizált használatát végzi, például szkripteket használ megjegyzések vagy üzenetek küldésére, vagy bármilyen adatbányászatot, robotot vagy hasonló adatgyűjtő és adatkivonó eszközt használ."
+  },
+  {
+   "id": 120,
+   "text": "Törli a szerzői jogi vagy egyéb tulajdonjogi megjegyzést bármely Tartalomból."
+  },
+  {
+   "id": 121,
+   "text": "Megkísérel kiadni magát egy másik felhasználónak vagy személynek, vagy egy másik felhasználó felhasználónevét használja."
+  },
+  {
+   "id": 122,
+   "text": "Olyan anyagot tölt fel vagy továbbít (vagy kísérel meg feltölteni vagy továbbítani), amely passzív vagy aktív információgyűjtő vagy információtovábbító mechanizmusként működik, beleértve korlátozás nélkül az átlátszó grafikus csereformátumokat (&quot;gifeket&quot;), 1x1 képpontokat, webjelzőket, sütiket vagy más hasonló eszközöket (amelyekre néha &quot;kémprogramként&quot; vagy &quot;passzív gyűjtési mechanizmusként&quot; vagy &quot;pcm ként&quot; hivatkoznak)."
+  },
+  {
+   "id": 123,
+   "text": "Megzavarja, megakasztja a Szolgáltatásokat, vagy indokolatlan terhelést ró azokra, illetve a Szolgáltatásokhoz kapcsolódó hálózatokra vagy szolgáltatásokra."
+  },
+  {
+   "id": 124,
+   "text": "Zaklat, bosszant, megfélemlít vagy fenyeget bármely alkalmazottunkat vagy ügynökünket, aki a Szolgáltatások bármely részének Önnek történő nyújtásában részt vesz."
+  },
+  {
+   "id": 125,
+   "text": "Megkísérli megkerülni a Szolgáltatások bármely olyan intézkedését, amelyet a Szolgáltatásokhoz vagy azok bármely részéhez való hozzáférés megakadályozására vagy korlátozására terveztek."
+  },
+  {
+   "id": 126,
+   "text": "Másolja vagy adaptálja a Szolgáltatások szoftverét, beleértve korlátozás nélkül a Flash, PHP, HTML, JavaScript vagy egyéb kódot."
+  },
+  {
+   "id": 127,
+   "text": "Az alkalmazandó jog által megengedett esetek kivételével megfejti, visszafordítja, szétszereli vagy visszafejti a Szolgáltatásokat alkotó vagy bármely módon részét képező bármely szoftvert."
+  },
+  {
+   "id": 128,
+   "text": "A szokásos keresőmotor- vagy internetböngésző-használat eredményeként előforduló esetek kivételével bármilyen automatizált rendszert használ, indít, fejleszt vagy terjeszt, beleértve korlátozás nélkül minden olyan pókot, robotot, csaló segédprogramot, kaparót vagy offline olvasót, amely hozzáfér a Szolgáltatásokhoz, vagy bármilyen jogosulatlan szkriptet vagy egyéb szoftvert használ vagy indít."
+  },
+  {
+   "id": 129,
+   "text": "Vásárlási ügynököt vagy beszerzési ügynököt használ vásárlások lebonyolítására a Szolgáltatásokon."
+  },
+  {
+   "id": 130,
+   "text": "A Szolgáltatások bármilyen jogosulatlan használatát végzi, beleértve a felhasználók felhasználóneveinek és/vagy e-mail címeinek elektronikus vagy egyéb eszközökkel történő gyűjtését kéretlen e-mail küldése céljából, vagy felhasználói fiókok automatizált eszközökkel vagy hamis ürüggyel történő létrehozását."
+  },
+  {
+   "id": 131,
+   "text": "A Szolgáltatásokat arra használja, hogy velünk versenyezzen, vagy más módon a Szolgáltatásokat és/vagy a Tartalmat bármilyen bevételtermelő vállalkozáshoz vagy kereskedelmi vállalkozáshoz használja."
+  },
+  {
+   "id": 132,
+   "text": "A Szolgáltatásokat áruk és szolgáltatások hirdetésére vagy értékesítésre kínálására használja."
+  },
+  {
+   "id": 133,
+   "text": "Értékesíti vagy más módon átruházza a profilját."
+  },
+  {
+   "id": 134,
+   "text": "9. FELHASZNÁLÓK ÁLTAL LÉTREHOZOTT HOZZÁJÁRULÁSOK"
+  },
+  {
+   "id": 135,
+   "text": "A Szolgáltatások felkérhetik Önt csevegésre, hozzájárulásra vagy blogokban, üzenőfalakon, online fórumokon és egyéb funkciókban való részvételre, és lehetőséget adhatnak Önnek tartalom és anyagok létrehozására, beküldésére, közzétételére, megjelenítésére, továbbítására, előadására, közzétételére, terjesztésére vagy sugárzására nekünk vagy a Szolgáltatásokon, beleértve többek között szöveget, írásokat, videót, hangot, fényképeket, grafikát, megjegyzéseket, javaslatokat vagy személyes információkat vagy egyéb anyagokat (együttesen &quot;Hozzájárulások&quot;). A Hozzájárulásokat a Szolgáltatások más felhasználói és harmadik felek weboldalain keresztül is megtekinthetik. Mint ilyenek, minden Ön által továbbított Hozzájárulás nem bizalmasként és nem tulajdonjoggal védettként kezelhető. Amikor bármilyen Hozzájárulást létrehoz vagy elérhetővé tesz, ezzel kijelenti és szavatolja, hogy:"
+  },
+  {
+   "id": 136,
+   "text": "Az Ön Hozzájárulásainak létrehozása, terjesztése, továbbítása, nyilvános megjelenítése vagy előadása, valamint azok elérése, letöltése vagy másolása nem sérti és nem fogja sérteni semmilyen harmadik fél tulajdonjogait, beleértve korlátozás nélkül a szerzői jogot, szabadalmat, védjegyet, üzleti titkot vagy erkölcsi jogokat."
+  },
+  {
+   "id": 137,
+   "text": "Ön a létrehozója és tulajdonosa, vagy rendelkezik a szükséges licencekkel, jogokkal, hozzájárulásokkal, felmentésekkel és engedélyekkel ahhoz, hogy Hozzájárulásait használja, és felhatalmazzon minket, a Szolgáltatásokat és a Szolgáltatások más felhasználóit arra, hogy Hozzájárulásait a Szolgáltatások és ezek a Jogi feltételek által tervezett bármilyen módon használják."
+  },
+  {
+   "id": 138,
+   "text": "Rendelkezik minden, az Ön Hozzájárulásaiban azonosítható egyéni személy írásbeli hozzájárulásával, felmentésével és/vagy engedélyével arra, hogy minden ilyen azonosítható egyéni személy nevét vagy képmását használja annak érdekében, hogy lehetővé tegye Hozzájárulásainak a Szolgáltatások és ezek a Jogi feltételek által tervezett bármilyen módon történő bevonását és használatát."
+  },
+  {
+   "id": 139,
+   "text": "Az Ön Hozzájárulásai nem hamisak, pontatlanok vagy félrevezetőek."
+  },
+  {
+   "id": 140,
+   "text": "Az Ön Hozzájárulásai nem kéretlen vagy jogosulatlan hirdetések, promóciós anyagok, piramisjátékok, lánclevelek, spam, tömeges levelek vagy a megkeresés egyéb formái."
+  },
+  {
+   "id": 141,
+   "text": "Az Ön Hozzájárulásai nem obszcének, szemérmetlenek, buják, mocskosak, erőszakosak, zaklatóak, rágalmazóak, becsületsértőek vagy más módon kifogásolhatóak (ahogy azt mi megállapítjuk)."
+  },
+  {
+   "id": 142,
+   "text": "Az Ön Hozzájárulásai nem gúnyolnak, csúfolnak, becsmérelnek, félemlítenek meg vagy bántalmaznak senkit."
+  },
+  {
+   "id": 143,
+   "text": "Az Ön Hozzájárulásait nem használják más személy zaklatására vagy fenyegetésére (e kifejezések jogi értelmében), és nem használnak erőszak népszerűsítésére egy meghatározott személy vagy embercsoport ellen."
+  },
+  {
+   "id": 144,
+   "text": "Az Ön Hozzájárulásai nem sértenek semmilyen alkalmazandó törvényt, rendeletet vagy szabályt."
+  },
+  {
+   "id": 145,
+   "text": "Az Ön Hozzájárulásai nem sértik semmilyen harmadik fél magánélethez vagy nyilvánossághoz fűződő jogait."
+  },
+  {
+   "id": 146,
+   "text": "Az Ön Hozzájárulásai nem sértenek semmilyen, a gyermekpornográfiára vonatkozó alkalmazandó törvényt, vagy más módon a kiskorúak egészségének vagy jólétének védelmére irányuló törvényt."
+  },
+  {
+   "id": 147,
+   "text": "Az Ön Hozzájárulásai nem tartalmaznak olyan sértő megjegyzéseket, amelyek fajhoz, nemzeti származáshoz, nemhez, szexuális preferenciához vagy testi fogyatékossághoz kapcsolódnak."
+  },
+  {
+   "id": 148,
+   "text": "Az Ön Hozzájárulásai más módon nem sértik, és nem mutatnak olyan anyagra mutató linket, amely sérti e Jogi feltételek bármely rendelkezését, vagy bármely alkalmazandó törvényt vagy rendeletet."
+  },
+  {
+   "id": 149,
+   "text": "A Szolgáltatásoknak a fentiek megsértésével történő bármilyen használata sérti ezeket a Jogi feltételeket, és többek között a Szolgáltatások használatához való jogainak megszüntetését vagy felfüggesztését eredményezheti."
+  },
+  {
+   "id": 150,
+   "text": "10. HOZZÁJÁRULÁSI LICENC"
+  },
+  {
+   "id": 151,
+   "text": "Azzal, hogy Hozzájárulásait a Szolgáltatások bármely részére közzéteszi, automatikusan megadja nekünk, és kijelenti és szavatolja, hogy joga van megadni nekünk egy korlátlan, korlátok nélküli, visszavonhatatlan, örökös, nem kizárólagos, átruházható, jogdíjmentes, teljes mértékben kifizetett, világméretű jogot és licencet az ilyen Hozzájárulások tárolására, használatára, másolására, reprodukálására, nyilvánosságra hozatalára, értékesítésére, továbbértékesítésére, közzétételére, sugárzására, átcímzésére, archiválására, tárolására, gyorsítótárazására, nyilvános előadására, nyilvános megjelenítésére, újraformázására, lefordítására, továbbítására, kivonatolására (egészben vagy részben) és terjesztésére (beleértve korlátozás nélkül az Ön képmását és hangját) bármilyen célra, kereskedelmi, hirdetési vagy egyéb célra, valamint az ilyen Hozzájárulásokból származékos művek készítésére, vagy azok más művekbe foglalására, és a fentiek allicenceinek megadására és engedélyezésére. A használat és terjesztés bármilyen médiaformátumban és bármilyen médiacsatornán keresztül történhet."
+  },
+  {
+   "id": 152,
+   "text": "Ez a licenc minden olyan formára, médiára vagy technológiára vonatkozik, amely most ismert vagy a jövőben kerül kifejlesztésre, és magában foglalja az Ön nevének, cégnevének és franchise-nevének használatát, adott esetben, valamint az Ön által megadott védjegyek, szolgáltatási védjegyek, kereskedelmi nevek, logók, valamint személyes és kereskedelmi képek bármelyikét. Ön lemond a Hozzájárulásaiban lévő minden erkölcsi jogáról, és szavatolja, hogy az erkölcsi jogokat más módon nem érvényesítették a Hozzájárulásaiban."
+  },
+  {
+   "id": 153,
+   "text": "Nem tartunk igényt semmilyen tulajdonjogra az Ön Hozzájárulásai felett. Ön megtartja minden Hozzájárulásának teljes tulajdonjogát, valamint a Hozzájárulásaihoz kapcsolódó minden szellemi tulajdonjogot vagy egyéb tulajdonjogot. Nem vagyunk felelősek az Ön által a Szolgáltatások bármely területén megadott Hozzájárulásaiban szereplő semmilyen kijelentésért vagy nyilatkozatért. Kizárólag Ön felelős a Szolgáltatásokhoz való Hozzájárulásaiért, és kifejezetten elfogadja, hogy felment minket minden felelősség alól, és tartózkodik attól, hogy a Hozzájárulásaival kapcsolatban bármilyen jogi lépést tegyen ellenünk."
+  },
+  {
+   "id": 154,
+   "text": "Jogunkban áll, saját és abszolút belátásunk szerint, (1) bármilyen Hozzájárulást szerkeszteni, kitakarni vagy más módon megváltoztatni; (2) bármilyen Hozzájárulást átsorolni, hogy azokat a Szolgáltatásokon megfelelőbb helyekre helyezzük; és (3) bármilyen Hozzájárulást bármikor és bármilyen okból, értesítés nélkül előszűrni vagy törölni. Nem vagyunk kötelesek figyelemmel kísérni az Ön Hozzájárulásait."
+  },
+  {
+   "id": 155,
+   "text": "11. IRÁNYELVEK AZ ÉRTÉKELÉSEKHEZ"
+  },
+  {
+   "id": 156,
+   "text": "A Szolgáltatásokon területeket biztosíthatunk Önnek értékelések vagy minősítések hagyására. Értékelés közzétételekor be kell tartania a következő kritériumokat: (1) első kézből származó tapasztalattal kell rendelkeznie az értékelt személlyel/szervezettel kapcsolatban; (2) értékelései nem tartalmazhatnak sértő trágárságot, vagy bántalmazó, rasszista, sértő vagy gyűlöletkeltő nyelvezetet; (3) értékelései nem tartalmazhatnak valláson, fajon, nemen, nemzeti származáson, életkoron, családi állapoton, szexuális irányultságon vagy fogyatékosságon alapuló diszkriminatív hivatkozásokat; (4) értékelései nem tartalmazhatnak jogellenes tevékenységre való hivatkozásokat; (5) nem állhat kapcsolatban versenytársakkal, ha negatív értékeléseket tesz közzé; (6) nem vonhat le következtetéseket a magatartás jogszerűségére vonatkozóan; (7) nem tehet közzé hamis vagy félrevezető kijelentéseket; és (8) nem szervezhet olyan kampányt, amely másokat értékelések közzétételére ösztönöz, akár pozitív, akár negatív."
+  },
+  {
+   "id": 157,
+   "text": "Saját belátásunk szerint elfogadhatunk, elutasíthatunk vagy eltávolíthatunk értékeléseket. Egyáltalán nem vagyunk kötelesek átvizsgálni az értékeléseket vagy törölni azokat, még akkor sem, ha bárki kifogásolhatónak vagy pontatlannak tartja az értékeléseket. Az értékeléseket nem támogatjuk, és azok nem feltétlenül képviselik a mi véleményünket vagy bármely kapcsolt vállalkozásunk vagy partnerünk nézeteit. Nem vállalunk felelősséget semmilyen értékelésért, vagy bármilyen értékelésből eredő igényért, kötelezettségért vagy veszteségért. Egy értékelés közzétételével ezennel örökös, nem kizárólagos, világméretű, jogdíjmentes, teljes mértékben kifizetett, engedményezhető és allicencbe adható jogot és licencet ad nekünk az értékeléshez kapcsolódó minden tartalom reprodukálására, módosítására, lefordítására, bármilyen eszközzel történő továbbítására, megjelenítésére, előadására és/vagy terjesztésére."
+  },
+  {
+   "id": 158,
+   "text": "12. A SZOLGÁLTATÁSOK KEZELÉSE"
+  },
+  {
+   "id": 159,
+   "text": "Fenntartjuk a jogot, de nem a kötelezettséget, hogy: (1) figyelemmel kísérjük a Szolgáltatásokat e Jogi feltételek megsértése szempontjából; (2) megfelelő jogi lépéseket tegyünk bárki ellen, aki saját belátásunk szerint sérti a törvényt vagy ezeket a Jogi feltételeket, beleértve korlátozás nélkül az ilyen felhasználó bűnüldöző hatóságoknak történő jelentését; (3) saját belátásunk szerint és korlátozás nélkül megtagadjuk, korlátozzuk a hozzáférést, korlátozzuk a rendelkezésre állását vagy letiltsuk (a technológiailag megvalósítható mértékben) az Ön bármely Hozzájárulását vagy annak bármely részét; (4) saját belátásunk szerint és korlátozás, értesítés vagy felelősség nélkül eltávolítsuk a Szolgáltatásokból vagy más módon letiltsuk minden olyan fájlt és tartalmat, amely túlzott méretű, vagy bármilyen módon megterhelő a rendszereink számára; és (5) más módon olyan módon kezeljük a Szolgáltatásokat, amelyet jogaink és tulajdonunk védelmére és a Szolgáltatások megfelelő működésének elősegítésére terveztünk."
+  },
+  {
+   "id": 160,
+   "text": "13. ADATVÉDELMI SZABÁLYZAT"
+  },
+  {
+   "id": 161,
+   "text": "Törődünk az adatok védelmével és biztonságával. Kérjük, tekintse át "
+  },
+  {
+   "id": 162,
+   "text": "Adatvédelmi szabályzatunkat"
+  },
+  {
+   "id": 163,
+   "text": ". A Szolgáltatások használatával Ön elfogadja, hogy Adatvédelmi szabályzatunk kötelezi Önt, amely beépül ezekbe a Jogi feltételekbe. Felhívjuk figyelmét, hogy a Szolgáltatások az Egyesült Államokban vannak tárolva. Ha a Szolgáltatásokhoz a világ bármely más régiójából fér hozzá, ahol a személyes adatok gyűjtését, használatát vagy nyilvánosságra hozatalát szabályozó törvények vagy egyéb követelmények eltérnek az Egyesült Államokban alkalmazandó törvényektől, akkor a Szolgáltatások további használatával adatait az Egyesült Államokba továbbítja, és kifejezetten hozzájárul ahhoz, hogy adatait az Egyesült Államokba továbbítsák és ott dolgozzák fel."
+  },
+  {
+   "id": 164,
+   "text": "14. IDŐTARTAM ÉS MEGSZÜNTETÉS"
+  },
+  {
+   "id": 165,
+   "text": "Ezek a Jogi feltételek teljes mértékben hatályban maradnak, amíg Ön a Szolgáltatásokat használja. E JOGI FELTÉTELEK SEMMILYEN MÁS RENDELKEZÉSÉNEK KORLÁTOZÁSA NÉLKÜL FENNTARTJUK A JOGOT, HOGY SAJÁT BELÁTÁSUNK SZERINT ÉS ÉRTESÍTÉS VAGY FELELŐSSÉG NÉLKÜL MEGTAGADJUK A SZOLGÁLTATÁSOKHOZ VALÓ HOZZÁFÉRÉST ÉS AZOK HASZNÁLATÁT (BELEÉRTVE EGYES IP-CÍMEK BLOKKOLÁSÁT) BÁRMELY SZEMÉLYTŐL BÁRMILYEN OKBÓL VAGY OK NÉLKÜL, BELEÉRTVE KORLÁTOZÁS NÉLKÜL E JOGI FELTÉTELEKBEN FOGLALT BÁRMELY NYILATKOZAT, SZAVATOSSÁG VAGY KÖTELEZETTSÉGVÁLLALÁS, VAGY BÁRMELY ALKALMAZANDÓ TÖRVÉNY VAGY RENDELET MEGSÉRTÉSÉT. BÁRMIKOR, FIGYELMEZTETÉS NÉLKÜL, SAJÁT BELÁTÁSUNK SZERINT MEGSZÜNTETHETJÜK AZ ÖN SZOLGÁLTATÁSOKBAN VALÓ HASZNÁLATÁT VAGY RÉSZVÉTELÉT, VAGY TÖRÖLHETJÜK A FIÓKJÁT ÉS MINDEN ÖN ÁLTAL KÖZZÉTETT TARTALMAT VAGY INFORMÁCIÓT."
+  },
+  {
+   "id": 166,
+   "text": "Ha bármilyen okból megszüntetjük vagy felfüggesztjük a fiókját, tilos regisztrálnia és új fiókot létrehoznia a saját neve, hamis vagy kölcsönvett név, vagy bármely harmadik fél neve alatt, még akkor is, ha esetleg a harmadik fél nevében jár el. A fiókja megszüntetése vagy felfüggesztése mellett fenntartjuk a jogot megfelelő jogi lépések megtételére, beleértve korlátozás nélkül a polgári, büntetőjogi és eltiltó jogorvoslat igénybevételét."
+  },
+  {
+   "id": 167,
+   "text": "15. MÓDOSÍTÁSOK ÉS MEGSZAKÍTÁSOK"
+  },
+  {
+   "id": 168,
+   "text": "Fenntartjuk a jogot, hogy a Szolgáltatások tartalmát bármikor vagy bármilyen okból, saját belátásunk szerint, értesítés nélkül megváltoztassuk, módosítsuk vagy eltávolítsuk. Nem vagyunk azonban kötelesek frissíteni semmilyen információt a Szolgáltatásainkon. Nem leszünk felelősek Ön vagy bármely harmadik fél felé a Szolgáltatások bármilyen módosításáért, árváltozásáért, felfüggesztéséért vagy megszüntetéséért."
+  },
+  {
+   "id": 169,
+   "text": "Nem tudjuk garantálni, hogy a Szolgáltatások mindenkor elérhetőek lesznek. Hardver-, szoftver- vagy egyéb problémák léphetnek fel, vagy a Szolgáltatásokkal kapcsolatos karbantartást kell végeznünk, ami megszakításokat, késéseket vagy hibákat eredményez. Fenntartjuk a jogot, hogy a Szolgáltatásokat bármikor vagy bármilyen okból, Önnek szóló értesítés nélkül megváltoztassuk, felülvizsgáljuk, frissítsük, felfüggesszük, megszüntessük vagy más módon módosítsuk. Ön elfogadja, hogy egyáltalán nem vállalunk felelősséget semmilyen veszteségért, kárért vagy kellemetlenségért, amelyet az okoz, hogy a Szolgáltatások bármilyen leállása vagy megszüntetése során nem tud hozzáférni a Szolgáltatásokhoz vagy használni azokat. E Jogi feltételek semmilyen rendelkezése nem értelmezhető úgy, hogy kötelezne minket a Szolgáltatások fenntartására és támogatására, vagy az azokhoz kapcsolódó javítások, frissítések vagy kiadások biztosítására."
+  },
+  {
+   "id": 170,
+   "text": "16. IRÁNYADÓ JOG"
+  },
+  {
+   "id": 171,
+   "text": "Ezeket a Jogi feltételeket és a Szolgáltatások Ön általi használatát Delaware állam törvényei szabályozzák, és azok szerint kell értelmezni, amelyek a Delaware államon belül megkötött és teljes mértékben ott teljesítendő megállapodásokra alkalmazandók, tekintet nélkül annak kollíziós jogi elveire."
+  },
+  {
+   "id": 172,
+   "text": "17. JOGVITÁK RENDEZÉSE"
+  },
+  {
+   "id": 173,
+   "text": "Informális tárgyalások"
+  },
+  {
+   "id": 174,
+   "text": "E Jogi feltételekkel kapcsolatos bármely jogvita, vita vagy igény (mindegyik &quot;Jogvita&quot; és együttesen a &quot;Jogviták&quot;) rendezésének felgyorsítása és költségeinek szabályozása érdekében, amelyet akár Ön, akár mi indítunk (egyenként &quot;Fél&quot; és együttesen a &quot;Felek&quot;), a Felek elfogadják, hogy először megkísérlik bármely Jogvitát (kivéve az alábbiakban kifejezetten megjelölt Jogvitákat) informálisan tárgyalni legalább harminc (30) napig, mielőtt választottbírósági eljárást kezdeményeznének. Az ilyen informális tárgyalások az egyik Fél másik Félhez intézett írásbeli értesítésével kezdődnek."
+  },
+  {
+   "id": 175,
+   "text": "Kötelező választottbírósági eljárás"
+  },
+  {
+   "id": 176,
+   "text": "Ha a Felek nem tudnak egy Jogvitát informális tárgyalások útján rendezni, a Jogvitát (kivéve az alábbiakban kifejezetten kizárt Jogvitákat) véglegesen és kizárólagosan kötelező választottbírósági eljárás rendezi. ÖN TUDOMÁSUL VESZI, HOGY E RENDELKEZÉS NÉLKÜL JOGA LENNE BÍRÓSÁGON PERELNI ÉS ESKÜDTSZÉKI TÁRGYALÁST TARTANI. A választottbírósági eljárást az American Arbitration Association (&quot;AAA&quot;) Kereskedelmi Választottbírósági Szabályzata szerint kell megindítani és lefolytatni, és adott esetben az AAA fogyasztói jogvitákra vonatkozó kiegészítő eljárásai (&quot;AAA Fogyasztói Szabályok&quot;) szerint, amelyek mind elérhetőek az "
+  },
+  {
+   "id": 177,
+   "text": "American Arbitration Association (AAA) weboldalán"
+  },
+  {
+   "id": 178,
+   "text": ". Az Ön választottbírósági díjaira és a választottbírói ellentételezésből Önre eső részre az AAA Fogyasztói Szabályok irányadók, és adott esetben azokat az AAA Fogyasztói Szabályok korlátozzák. A választottbírósági eljárás lefolytatható személyesen, dokumentumok benyújtásával, telefonon vagy online. A választottbíró írásban hoz döntést, de nem kell indokolást adnia, kivéve, ha bármelyik Fél kéri. A választottbírónak be kell tartania az alkalmazandó jogot, és minden ítélet megtámadható, ha a választottbíró ezt nem teszi meg. Hacsak az alkalmazandó AAA szabályok vagy az alkalmazandó jog másként nem írja elő, a választottbírósági eljárás Kaliforniában zajlik."
+  },
+  {
+   "id": 179,
+   "text": "A Felek az itt másként meghatározott esetek kivételével bíróságon pereskedhetnek a választottbírósági eljárás kikényszerítése, a választottbírósági eljárás függőben tartása alatti eljárások felfüggesztése, vagy a választottbíró által hozott ítélet megerősítése, módosítása, hatályon kívül helyezése vagy az ítéletre vonatkozó bírósági ítélet meghozatala érdekében."
+  },
+  {
+   "id": 180,
+   "text": "Ha bármilyen okból egy Jogvita választottbírósági eljárás helyett bíróságon folytatódik, a Jogvitát a Kaliforniában található állami és szövetségi bíróságokon kell megindítani vagy ott kell eljárni benne, és a Felek ezennel hozzájárulnak, és lemondanak minden, a személyes joghatóság hiányára, valamint a forum non conveniensre vonatkozó védekezésről az ilyen állami és szövetségi bíróságok helyszínére és joghatóságára vonatkozóan. Az Egyesült Nemzetek Szervezetének az áruk nemzetközi adásvételi szerződéseiről szóló egyezménye és az Uniform Computer Information Transaction Act (UCITA) alkalmazása kizárt ezekből a Jogi feltételekből."
+  },
+  {
+   "id": 181,
+   "text": "Semmilyen esetben nem indítható egyik Fél által sem a Szolgáltatásokhoz bármilyen módon kapcsolódó Jogvita az igény alapjául szolgáló ok felmerülésétől számított egy (1) évnél később. Ha ezt a rendelkezést jogellenesnek vagy végrehajthatatlannak találják, akkor egyik Fél sem választja a választottbírósági eljárást semmilyen olyan Jogvita esetén, amely e rendelkezés jogellenesnek vagy végrehajthatatlannak talált részébe esik, és az ilyen Jogvitáról a fent felsorolt joghatósági bíróságokon belül illetékes bíróság dönt, és a Felek elfogadják, hogy alávetik magukat az adott bíróság személyes joghatóságának."
+  },
+  {
+   "id": 182,
+   "text": "Korlátozások"
+  },
+  {
+   "id": 183,
+   "text": "A Felek elfogadják, hogy minden választottbírósági eljárás a Felek közötti Jogvitára korlátozódik, egyénileg. A törvény által megengedett teljes mértékben (a) semmilyen választottbírósági eljárás nem kapcsolható össze semmilyen más eljárással; (b) nincs jog vagy felhatalmazás arra, hogy bármely Jogvitát csoportos kereset alapján rendezzenek választottbíróságon, vagy csoportos kereseti eljárásokat alkalmazzanak; és (c) nincs jog vagy felhatalmazás arra, hogy bármely Jogvitát állítólagos képviseleti minőségben indítsanak a nagyközönség vagy bármely más személy nevében."
+  },
+  {
+   "id": 184,
+   "text": "Kivételek az informális tárgyalások és a választottbírósági eljárás alól"
+  },
+  {
+   "id": 185,
+   "text": "A Felek elfogadják, hogy a következő Jogviták nem tartoznak a fenti, informális tárgyalásokra és kötelező választottbírósági eljárásra vonatkozó rendelkezések hatálya alá: (a) minden olyan Jogvita, amely valamely Fél szellemi tulajdonjogainak érvényesítésére vagy védelmére irányul, vagy azok érvényességére vonatkozik; (b) minden olyan Jogvita, amely lopás, kalózkodás, a magánélet megsértése vagy jogosulatlan használat állításaival kapcsolatos, vagy azokból ered; és (c) minden eltiltó jogorvoslat iránti igény. Ha ezt a rendelkezést jogellenesnek vagy végrehajthatatlannak találják, akkor egyik Fél sem választja a választottbírósági eljárást semmilyen olyan Jogvita esetén, amely e rendelkezés jogellenesnek vagy végrehajthatatlannak talált részébe esik, és az ilyen Jogvitáról a fent felsorolt joghatósági bíróságokon belül illetékes bíróság dönt, és a Felek elfogadják, hogy alávetik magukat az adott bíróság személyes joghatóságának."
+  },
+  {
+   "id": 186,
+   "text": "18. JAVÍTÁSOK"
+  },
+  {
+   "id": 187,
+   "text": "A Szolgáltatásokon lehetnek olyan információk, amelyek tipográfiai hibákat, pontatlanságokat vagy kihagyásokat tartalmaznak, beleértve a leírásokat, árazást, elérhetőséget és különféle egyéb információkat. Fenntartjuk a jogot bármilyen hiba, pontatlanság vagy kihagyás kijavítására, valamint a Szolgáltatásokon lévő információk bármikori, előzetes értesítés nélküli megváltoztatására vagy frissítésére."
+  },
+  {
+   "id": 188,
+   "text": "19. JOGI NYILATKOZAT"
+  },
+  {
+   "id": 189,
+   "text": "A SZOLGÁLTATÁSOK &quot;ADOTT ÁLLAPOTBAN&quot; ÉS &quot;AHOGY ELÉRHETŐ&quot; ALAPON KERÜLNEK NYÚJTÁSRA. ÖN ELFOGADJA, HOGY A SZOLGÁLTATÁSOK HASZNÁLATA KIZÁRÓLAG AZ ÖN KOCKÁZATÁRA TÖRTÉNIK. A TÖRVÉNY ÁLTAL MEGENGEDETT TELJES MÉRTÉKBEN KIZÁRUNK MINDEN, A SZOLGÁLTATÁSOKKAL ÉS AZOK ÖN ÁLTALI HASZNÁLATÁVAL KAPCSOLATOS KIFEJEZETT VAGY HALLGATÓLAGOS SZAVATOSSÁGOT, BELEÉRTVE KORLÁTOZÁS NÉLKÜL A FORGALOMKÉPESSÉGRE, A MEGHATÁROZOTT CÉLRA VALÓ ALKALMASSÁGRA ÉS A JOGSÉRTÉSMENTESSÉGRE VONATKOZÓ HALLGATÓLAGOS SZAVATOSSÁGOKAT. NEM VÁLLALUNK SZAVATOSSÁGOT VAGY NYILATKOZATOT A SZOLGÁLTATÁSOK TARTALMÁNAK, VAGY A SZOLGÁLTATÁSOKHOZ KAPCSOLT BÁRMELY WEBOLDAL VAGY MOBILALKALMAZÁS TARTALMÁNAK PONTOSSÁGÁRA VAGY TELJESSÉGÉRE VONATKOZÓAN, ÉS NEM VÁLLALUNK FELELŐSSÉGET SEMMILYEN (1) TARTALMI ÉS ANYAGBELI HIBÁÉRT, TÉVEDÉSÉRT VAGY PONTATLANSÁGÉRT, (2) SZEMÉLYI SÉRÜLÉSÉRT VAGY VAGYONI KÁRÉRT, BÁRMILYEN JELLEGŰ LEGYEN IS AZ, AMELY A SZOLGÁLTATÁSOKHOZ VALÓ HOZZÁFÉRÉSÉBŐL ÉS AZOK HASZNÁLATÁBÓL ERED, (3) BIZTONSÁGOS SZERVEREINKHEZ VALÓ BÁRMILYEN JOGOSULATLAN HOZZÁFÉRÉSÉRT VAGY AZOK HASZNÁLATÁÉRT, ÉS/VAGY AZ OTT TÁROLT MINDEN SZEMÉLYES INFORMÁCIÓÉRT ÉS/VAGY PÉNZÜGYI INFORMÁCIÓÉRT, (4) A SZOLGÁLTATÁSOK FELÉ VAGY AZOKBÓL TÖRTÉNŐ TOVÁBBÍTÁS BÁRMILYEN MEGSZAKÍTÁSÁÉRT VAGY LEÁLLÁSÁÉRT, (5) BÁRMILYEN PROGRAMHIBÁÉRT, VÍRUSÉRT, TRÓJAI FALÓÉRT VAGY HASONLÓÉRT, AMELYET BÁRMELY HARMADIK FÉL A SZOLGÁLTATÁSOKON KERESZTÜL VAGY AZOK FELÉ TOVÁBBÍTHAT, ÉS/VAGY (6) BÁRMELY TARTALOMBAN ÉS ANYAGBAN LÉVŐ HIBÁÉRT VAGY KIHAGYÁSÉRT, VAGY A SZOLGÁLTATÁSOKON KERESZTÜL KÖZZÉTETT, TOVÁBBÍTOTT VAGY MÁS MÓDON ELÉRHETŐVÉ TETT TARTALOM HASZNÁLATÁNAK EREDMÉNYEKÉNT KELETKEZETT BÁRMILYEN JELLEGŰ VESZTESÉGÉRT VAGY KÁRÉRT. NEM SZAVATOLUNK, NEM TÁMOGATUNK, NEM GARANTÁLUNK ÉS NEM VÁLLALUNK FELELŐSSÉGET SEMMILYEN OLYAN TERMÉKÉRT VAGY SZOLGÁLTATÁSÉRT, AMELYET HARMADIK FÉL A SZOLGÁLTATÁSOKON KERESZTÜL, BÁRMELY HIPERLINKKEL ELLÁTOTT WEBOLDALON, VAGY BÁRMELY SZALAGHÍRDETÉSBEN VAGY EGYÉB HIRDETÉSBEN SZEREPLŐ WEBOLDALON VAGY MOBILALKALMAZÁSBAN HIRDET VAGY KÍNÁL, ÉS NEM LESZÜNK FELEK, ÉS SEMMILYEN MÓDON NEM LESZÜNK FELELŐSEK AZ ÖN ÉS A TERMÉKEK VAGY SZOLGÁLTATÁSOK HARMADIK FÉL SZOLGÁLTATÓI KÖZÖTTI TRANZAKCIÓK FIGYELEMMEL KÍSÉRÉSÉÉRT. AHOGY EGY TERMÉK VAGY SZOLGÁLTATÁS BÁRMELY KÖZEGBEN VAGY BÁRMELY KÖRNYEZETBEN TÖRTÉNŐ VÁSÁRLÁSÁNÁL IS, A LEGJOBB ÍTÉLŐKÉPESSÉGÉT KELL ALKALMAZNIA, ÉS ADOTT ESETBEN ÓVATOSAN KELL ELJÁRNIA."
+  },
+  {
+   "id": 190,
+   "text": "20. A FELELŐSSÉG KORLÁTOZÁSA"
+  },
+  {
+   "id": 191,
+   "text": "SEMMILYEN ESETBEN NEM LESZÜNK MI, VAGY IGAZGATÓINK, ALKALMAZOTTAINK VAGY ÜGYNÖKEINK FELELŐSEK ÖN VAGY BÁRMELY HARMADIK FÉL FELÉ SEMMILYEN KÖZVETLEN, KÖZVETETT, KÖVETKEZMÉNYES, PÉLDÁUL SZOLGÁLÓ, VÉLETLEN, KÜLÖNLEGES VAGY BÜNTETŐ JELLEGŰ KÁRÉRT, BELEÉRTVE AZ ELMARADT NYERESÉGET, ELMARADT BEVÉTELT, ADATVESZTÉST VAGY A SZOLGÁLTATÁSOK HASZNÁLATÁBÓL EREDŐ EGYÉB KÁROKAT, MÉG AKKOR SEM, HA TÁJÉKOZTATTAK MINKET AZ ILYEN KÁROK LEHETŐSÉGÉRŐL. AZ ITT FOGLALTAKKAL ELLENTÉTES BÁRMILYEN RENDELKEZÉS ELLENÉRE, AZ ÖN FELÉ FENNÁLLÓ FELELŐSSÉGÜNK BÁRMILYEN OKBÓL ÉS A KERESET FORMÁJÁTÓL FÜGGETLENÜL MINDENKOR ARRA AZ ÖSSZEGRE KORLÁTOZÓDIK, AMELYET ÖN NEKÜNK FIZETETT, HA FIZETETT, A KERESETI OK FELMERÜLÉSÉT MEGELŐZŐ HÁROM (3) HÓNAPOS IDŐSZAKBAN. EGYES AMERIKAI ÁLLAMI TÖRVÉNYEK ÉS NEMZETKÖZI TÖRVÉNYEK NEM ENGEDIK MEG A HALLGATÓLAGOS SZAVATOSSÁGOK KORLÁTOZÁSÁT VAGY EGYES KÁROK KIZÁRÁSÁT VAGY KORLÁTOZÁSÁT. HA EZEK A TÖRVÉNYEK VONATKOZNAK ÖNRE, A FENTI JOGI NYILATKOZATOK VAGY KORLÁTOZÁSOK NÉMELYIKE VAGY MINDEGYIKE NEM VONATKOZIK ÖNRE, ÉS TOVÁBBI JOGAI LEHETNEK."
+  },
+  {
+   "id": 192,
+   "text": "21. KÁRTALANÍTÁS"
+  },
+  {
+   "id": 193,
+   "text": "Ön elfogadja, hogy megvéd, kártalanít és mentesít minket, beleértve leányvállalatainkat, kapcsolt vállalkozásainkat és minden tisztségviselőnket, ügynökünket, partnerünket és alkalmazottunkat, minden olyan veszteség, kár, felelősség, igény vagy követelés alól, beleértve az észszerű ügyvédi díjakat és kiadásokat, amelyet bármely harmadik fél az alábbiak miatt vagy azokból eredően támaszt: (1) az Ön Hozzájárulásai; (2) a Szolgáltatások használata; (3) e Jogi feltételek megsértése; (4) az e Jogi feltételekben meghatározott nyilatkozatai és szavatosságai bármelyikének megsértése; (5) egy harmadik fél jogainak Ön általi megsértése, beleértve korlátozás nélkül a szellemi tulajdonjogokat; vagy (6) bármely nyíltan káros cselekmény a Szolgáltatások bármely más felhasználója ellen, akivel a Szolgáltatásokon keresztül kapcsolatba lépett. A fentiek ellenére fenntartjuk a jogot, az Ön költségére, hogy átvegyük minden olyan ügy kizárólagos védelmét és irányítását, amelyben Önnek kártalanítania kell minket, és Ön elfogadja, hogy a saját költségére együttműködik az ilyen igények elleni védekezésünkkel. Minden észszerű erőfeszítést megteszünk annak érdekében, hogy értesítsük Önt minden olyan igényről, keresetről vagy eljárásról, amely e kártalanítás hatálya alá tartozik, amint tudomást szerzünk róla."
+  },
+  {
+   "id": 194,
+   "text": "22. FELHASZNÁLÓI ADATOK"
+  },
+  {
+   "id": 195,
+   "text": "Bizonyos adatokat, amelyeket Ön a Szolgáltatásoknak továbbít, megőrzünk a Szolgáltatások teljesítményének kezelése céljából, valamint a Szolgáltatások Ön általi használatára vonatkozó adatokat. Bár rendszeres rutin biztonsági mentéseket végzünk az adatokról, kizárólag Ön felelős minden olyan adatért, amelyet továbbít, vagy amely a Szolgáltatások használatával végzett bármely tevékenységéhez kapcsolódik. Ön elfogadja, hogy nem vállalunk felelősséget Ön felé az ilyen adatok elvesztéséért vagy sérüléséért, és ezennel lemond minden olyan kereseti jogról ellenünk, amely az ilyen adatok elvesztéséből vagy sérüléséből ered."
+  },
+  {
+   "id": 196,
+   "text": "23. ELEKTRONIKUS KOMMUNIKÁCIÓ, TRANZAKCIÓK ÉS ALÁÍRÁSOK"
+  },
+  {
+   "id": 197,
+   "text": "A Szolgáltatások felkeresése, e-mailek küldése nekünk és online űrlapok kitöltése elektronikus kommunikációnak minősül. Ön hozzájárul az elektronikus kommunikáció fogadásához, és elfogadja, hogy minden megállapodás, értesítés, közlés és egyéb kommunikáció, amelyet elektronikusan, e-mailben és a Szolgáltatásokon nyújtunk Önnek, kielégít minden olyan jogi követelményt, miszerint az ilyen kommunikációnak írásban kell történnie. ÖN EZENNEL ELFOGADJA AZ ELEKTRONIKUS ALÁÍRÁSOK, SZERZŐDÉSEK, RENDELÉSEK ÉS EGYÉB NYILVÁNTARTÁSOK HASZNÁLATÁT, VALAMINT AZ ÉRTESÍTÉSEK, SZABÁLYZATOK ÉS AZ ÁLTALUNK VAGY A SZOLGÁLTATÁSOKON KERESZTÜL KEZDEMÉNYEZETT VAGY BEFEJEZETT TRANZAKCIÓK NYILVÁNTARTÁSAINAK ELEKTRONIKUS KÉZBESÍTÉSÉT. Ön ezennel lemond minden olyan jogról vagy követelményről bármely joghatóság bármely törvénye, rendelete, szabálya, helyi rendelete vagy egyéb törvénye alapján, amely eredeti aláírást vagy nem elektronikus nyilvántartások kézbesítését vagy megőrzését írja elő, vagy a fizetésekhez vagy jóváírások nyújtásához az elektronikus eszközöktől eltérő bármely eszközzel."
+  },
+  {
+   "id": 198,
+   "text": "24. KALIFORNIAI FELHASZNÁLÓK ÉS LAKOSOK"
+  },
+  {
+   "id": 199,
+   "text": "Ha velünk szembeni bármely panasz nem kerül kielégítően rendezésre, írásban kapcsolatba léphet a Kaliforniai Fogyasztói Ügyek Minisztériuma Fogyasztói Szolgáltatások Osztályának Panaszsegítő Egységével a 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 címen, vagy telefonon a (800) 952-5210 vagy a (916) 445-1254 számon."
+  },
+  {
+   "id": 200,
+   "text": "25. VEGYES RENDELKEZÉSEK"
+  },
+  {
+   "id": 201,
+   "text": "Ezek a Jogi feltételek, valamint a Szolgáltatásokon általunk közzétett minden szabályzat vagy működési szabály a Szolgáltatásokra vonatkozóan, a teljes megállapodást és egyetértést képezik Ön és köztünk. Az, hogy nem gyakoroljuk vagy nem érvényesítjük e Jogi feltételek bármely jogát vagy rendelkezését, nem jelenti az ilyen jogról vagy rendelkezésről való lemondást. Ezek a Jogi feltételek a törvény által megengedett teljes mértékben működnek. Bármikor engedményezhetjük bármely vagy minden jogunkat és kötelezettségünket másokra. Nem leszünk felelősek semmilyen veszteségért, kárért, késedelemért vagy mulasztásért, amelyet bármely, észszerű irányításunkon kívül eső ok okoz. Ha e Jogi feltételek bármely rendelkezését vagy egy rendelkezés egy részét jogellenesnek, érvénytelennek vagy végrehajthatatlannak találják, az a rendelkezés vagy a rendelkezés része elválaszthatónak tekintendő e Jogi feltételektől, és nem befolyásolja a fennmaradó rendelkezések érvényességét és végrehajthatóságát. E Jogi feltételek vagy a Szolgáltatások használata eredményeként nem jön létre közös vállalkozás, partnerség, munkaviszony vagy ügynöki kapcsolat Ön és köztünk. Ön elfogadja, hogy ezeket a Jogi feltételeket nem értelmezik ellenünk azon az alapon, hogy mi fogalmaztuk meg őket. Ön ezennel lemond minden olyan védekezésről, amely e Jogi feltételek elektronikus formáján és az azokat végrehajtó felek aláírásának hiányán alapulhat."
+  },
+  {
+   "id": 202,
+   "text": "26. KAPCSOLATFELVÉTEL"
+  },
+  {
+   "id": 203,
+   "text": "A Szolgáltatásokkal kapcsolatos panasz rendezése vagy a Szolgáltatások használatára vonatkozó további információk megszerzése érdekében kérjük, vegye fel velünk a kapcsolatot a következő címen:"
+  },
+  {
+   "id": 204,
+   "text": "Tava Labs, LLC"
+  },
+  {
+   "id": 205,
+   "text": "1521 Blake St STE 95593"
+  },
+  {
+   "id": 206,
+   "text": "Denver, CO 80202"
+  },
+  {
+   "id": 207,
+   "text": "United States"
+  },
+  {
+   "id": 208,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 209,
+   "text": "Ezeket a Felhasználási feltételeket a Termly "
+  },
+  {
+   "id": 210,
+   "text": "Felhasználási feltételek generátora"
+  },
+  {
+   "id": 211,
+   "text": " segítségével hoztuk létre."
+  }
+ ]
+}

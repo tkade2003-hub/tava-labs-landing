@@ -1,0 +1,135 @@
+{
+ "slug": "shipping",
+ "title": "Szállítási szabályzat | Tava Labs",
+ "description": "A Tava Labs szállítási szabályzata a PDRN Brightening Serum rendelésekre: feldolgozási idők, szállítási becslések, nyomon követés és szállítási területek.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "Jogi"
+  },
+  {
+   "id": 1,
+   "text": "Szállítási szabályzat"
+  },
+  {
+   "id": 2,
+   "text": "Utolsó frissítés: 2026. november 17."
+  },
+  {
+   "id": 3,
+   "text": "Ez a szállítási szabályzat elmagyarázza, hogyan és mikor dolgozzuk fel és szállítjuk ki a Tava Labs (tavalabs.app) rendeléseit. A Tava Labs kizárólag online áruház; minden rendelés a weboldalunkon keresztül történik, és a fizetéskor megadott címre szállítjuk."
+  },
+  {
+   "id": 4,
+   "text": "Rendelésfeldolgozási idő"
+  },
+  {
+   "id": 5,
+   "text": "A rendeléseket "
+  },
+  {
+   "id": 6,
+   "text": "1–2 munkanapon"
+  },
+  {
+   "id": 7,
+   "text": " belül dolgozzuk fel (hétfőtől péntekig, az amerikai ünnepnapokat kivéve), miután a fizetés visszaigazolásra került. Amint rendelését feladtuk, szállítási visszaigazoló e-mailt kap nyomon követési információkkal. A hétvégén vagy ünnepnapon leadott rendelések feldolgozása a következő munkanapon kezdődik."
+  },
+  {
+   "id": 8,
+   "text": "Szállítási becslések"
+  },
+  {
+   "id": 9,
+   "text": "Jelenleg csak az "
+  },
+  {
+   "id": 10,
+   "text": "Egyesült Államokon belül"
+  },
+  {
+   "id": 11,
+   "text": " szállítunk. A normál szállítás általában "
+  },
+  {
+   "id": 12,
+   "text": "3–5 munkanapon"
+  },
+  {
+   "id": 13,
+   "text": " belül megérkezik, miután rendelését feladtuk. A szállítási idők a futárszolgálataink által megadott becslések, és nem garantáltak; a tényleges szállítási idő a célállomástól és a futár körülményeitől függően változhat."
+  },
+  {
+   "id": 14,
+   "text": "Szállítási díjak"
+  },
+  {
+   "id": 15,
+   "text": "A szállítási díjakat a fizetéskor számítjuk ki az Ön szállítási címe és a rendelésében szereplő termékek alapján, és még a vásárlás véglegesítése előtt megjelennek. Az esetleges ingyenes szállítási akciók a fizetéskor jelennek meg, ha rendelése jogosult rájuk."
+  },
+  {
+   "id": 16,
+   "text": "Rendelése nyomon követése"
+  },
+  {
+   "id": 17,
+   "text": "Amikor rendelését feladjuk, nyomon követési információt küldünk e-mailben a fizetéskor megadott címre. Kérjük, hagyjon legfeljebb 24 órát arra, hogy a nyomon követés frissüljön a szállítási visszaigazolás kézhezvétele után. Ha a nyomon követés szerint a csomag kézbesítve lett, de Ön nem kapta meg, először érdeklődjön a szomszédoknál és a helyi futárszolgálatnál, majd vegye fel velünk a kapcsolatot."
+  },
+  {
+   "id": 18,
+   "text": "A szállítási cím pontossága"
+  },
+  {
+   "id": 19,
+   "text": "Kérjük, a fizetéskor gondosan ellenőrizze szállítási címét. Nem vállalunk felelősséget azokért a rendelésekért, amelyeket az ügyfél által megadott helytelen vagy hiányos címre kézbesítenek. Ha hibát észlel, írjon nekünk a "
+  },
+  {
+   "id": 20,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 21,
+   "text": " címre a lehető leghamarabb; ha a rendelést még nem adtuk fel, mindent megteszünk a javításáért. A kézbesíthetetlenként visszaküldött csomagokat a cím megerősítése után újra feladhatjuk; további szállítási díjak merülhetnek fel."
+  },
+  {
+   "id": 22,
+   "text": "Késések és sérült küldemények"
+  },
+  {
+   "id": 23,
+   "text": "Alkalmanként a kézbesítések késnek a futárszolgálat fennakadásai, az időjárás vagy más, rajtunk kívül álló események miatt. Ha rendelése jelentősen késik, vegye fel velünk a kapcsolatot, és segítünk. Ha rendelése sérülten érkezik, kérjük, tekintse meg "
+  },
+  {
+   "id": 24,
+   "text": "Visszaküldési &amp; visszatérítési szabályzatunkat"
+  },
+  {
+   "id": 25,
+   "text": "; vegye fel velünk a kapcsolatot a kézbesítéstől számított 14 napon belül, és rendbe hozzuk."
+  },
+  {
+   "id": 26,
+   "text": "Előfizetéses küldemények"
+  },
+  {
+   "id": 27,
+   "text": "Az előfizetéses rendelések automatikusan, az Ön megújítási ütemezése szerint kerülnek feladásra. Minden megújítást a fent leírt határidők szerint dolgozunk fel és adunk fel, és minden küldeményről nyomon követési e-mailt kap. Előfizetését bármikor szüneteltetheti, kihagyhatja vagy lemondhatja, mielőtt egy megújítás feldolgozásra kerülne."
+  },
+  {
+   "id": 28,
+   "text": "Kapcsolatfelvétel"
+  },
+  {
+   "id": 29,
+   "text": "Kérdései vannak a szállítással kapcsolatban? Írjon nekünk a következő címre: "
+  },
+  {
+   "id": 30,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 31,
+   "text": "."
+  }
+ ]
+}

@@ -1,0 +1,135 @@
+{
+  "slug": "shipping",
+  "title": "Fraktpolicy | Tava Labs",
+  "description": "Tava Labs fraktpolicy för beställningar av PDRN Brightening Serum: handläggningstider, leveransuppskattningar, spårning och leveransområden.",
+  "segments": [
+    {
+      "id": 0,
+      "text": "Juridik"
+    },
+    {
+      "id": 1,
+      "text": "Fraktpolicy"
+    },
+    {
+      "id": 2,
+      "text": "Senast uppdaterad: 17 november 2026"
+    },
+    {
+      "id": 3,
+      "text": "Denna fraktpolicy förklarar hur och när beställningar från Tava Labs (tavalabs.app) handläggs och levereras. Tava Labs är en butik som endast finns online; alla beställningar läggs via vår webbplats och skickas till den adress du anger i kassan."
+    },
+    {
+      "id": 4,
+      "text": "Handläggningstid för beställningar"
+    },
+    {
+      "id": 5,
+      "text": "Beställningar handläggs inom "
+    },
+    {
+      "id": 6,
+      "text": "1–2 arbetsdagar"
+    },
+    {
+      "id": 7,
+      "text": " (måndag till fredag, exklusive helgdagar i USA) efter att betalningen har bekräftats. Du får ett mejl med fraktbekräftelse och spårningsinformation när din beställning har skickats. Beställningar som läggs på helger eller helgdagar börjar handläggas nästa arbetsdag."
+    },
+    {
+      "id": 8,
+      "text": "Leveransuppskattningar"
+    },
+    {
+      "id": 9,
+      "text": "Vi skickar för närvarande endast inom "
+    },
+    {
+      "id": 10,
+      "text": "USA"
+    },
+    {
+      "id": 11,
+      "text": ". Standardleverans anländer vanligtvis inom "
+    },
+    {
+      "id": 12,
+      "text": "3–5 arbetsdagar"
+    },
+    {
+      "id": 13,
+      "text": " efter att din beställning har skickats. Leveranstider är uppskattningar från våra transportörer och garanteras inte; faktiska transporttider kan variera beroende på destination och transportörens förhållanden."
+    },
+    {
+      "id": 14,
+      "text": "Fraktpriser"
+    },
+    {
+      "id": 15,
+      "text": "Fraktpriser beräknas i kassan utifrån din leveransadress och varorna i din beställning, och visas innan du slutför ditt köp. Eventuella kampanjer med fri frakt visas i kassan när din beställning kvalificerar sig."
+    },
+    {
+      "id": 16,
+      "text": "Spåra din beställning"
+    },
+    {
+      "id": 17,
+      "text": "När din beställning skickas mejlar vi spårningsinformation till den adress du angav i kassan. Vänta upp till 24 timmar innan spårningen uppdateras efter att du fått fraktbekräftelsen. Om spårningen visar levererat men du inte har fått ditt paket, kontrollera först med grannar och din lokala transportör och kontakta sedan oss."
+    },
+    {
+      "id": 18,
+      "text": "Noggrannhet i fraktadressen"
+    },
+    {
+      "id": 19,
+      "text": "Kontrollera din fraktadress noggrant i kassan. Vi ansvarar inte för beställningar som levereras till en felaktig eller ofullständig adress som kunden har angett. Om du upptäcker ett fel, mejla oss på "
+    },
+    {
+      "id": 20,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 21,
+      "text": " så snart som möjligt. Om beställningen ännu inte har skickats gör vi vårt bästa för att rätta till det. Paket som returneras till oss som olevererbara kan skickas på nytt när adressen har bekräftats; ytterligare fraktavgifter kan tillkomma."
+    },
+    {
+      "id": 22,
+      "text": "Förseningar och skadade försändelser"
+    },
+    {
+      "id": 23,
+      "text": "Ibland försenas leveranser av störningar hos transportören, väder eller andra händelser utanför vår kontroll. Om din beställning är avsevärt försenad, kontakta oss så hjälper vi dig. Om din beställning anländer skadad, se vår "
+    },
+    {
+      "id": 24,
+      "text": "Policy för retur &amp; återbetalning"
+    },
+    {
+      "id": 25,
+      "text": " och kontakta oss inom 14 dagar efter leverans så ordnar vi det."
+    },
+    {
+      "id": 26,
+      "text": "Prenumerationsförsändelser"
+    },
+    {
+      "id": 27,
+      "text": "Prenumerationsbeställningar skickas automatiskt enligt ditt förnyelseschema. Varje förnyelse handläggs och skickas enligt samma tidsramar som beskrivs ovan, och du får ett spårningsmejl för varje försändelse. Du kan pausa, hoppa över eller avbryta din prenumeration när som helst innan en förnyelse handläggs."
+    },
+    {
+      "id": 28,
+      "text": "Kontakta oss"
+    },
+    {
+      "id": 29,
+      "text": "Frågor om frakt? Mejla oss på "
+    },
+    {
+      "id": 30,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 31,
+      "text": "."
+    }
+  ]
+}

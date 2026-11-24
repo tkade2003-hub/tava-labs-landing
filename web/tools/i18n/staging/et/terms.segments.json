@@ -1,0 +1,855 @@
+{
+  "slug": "terms",
+  "title": "Terms and Conditions | Tava Labs",
+  "description": "The terms that govern your use of tavalabs.app and your purchase of the PDRN Brightening Serum from Tava Labs, LLC, including our all sales final policy.",
+  "segments": [
+    {
+      "id": 0,
+      "text": "Õigusaktid"
+    },
+    {
+      "id": 1,
+      "text": "Tingimused"
+    },
+    {
+      "id": 2,
+      "text": "Viimati uuendatud 05. november 2026"
+    },
+    {
+      "id": 3,
+      "text": "NÕUSTUMINE MEIE ÕIGUSLIKE TINGIMUSTEGA"
+    },
+    {
+      "id": 4,
+      "text": "Meie oleme Tava Labs, LLC, tegutsedes nime all Tava (&quot;Ettevõte&quot;, &quot;meie&quot;), ettevõte, mis on registreeritud Colorados, Ameerika Ühendriikides aadressil 1521 Blake St STE 95593, Denver, CO 80202."
+    },
+    {
+      "id": 5,
+      "text": "Me haldame veebisaiti "
+    },
+    {
+      "id": 6,
+      "text": "http://www.tavalabs.app"
+    },
+    {
+      "id": 7,
+      "text": " (&quot;Sait&quot;), samuti kõiki muid seotud tooteid ja teenuseid, mis viitavad neile õiguslikele tingimustele või lingivad neile (&quot;Õiguslikud tingimused&quot;) (ühiselt &quot;Teenused&quot;)."
+    },
+    {
+      "id": 8,
+      "text": "Saad meiega ühendust võtta e-postiga aadressil "
+    },
+    {
+      "id": 9,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 10,
+      "text": " või posti teel aadressil 1521 Blake St STE 95593, Denver, CO 80202, United States."
+    },
+    {
+      "id": 11,
+      "text": "Need Õiguslikud tingimused moodustavad õiguslikult siduva lepingu sinu, kas isiklikult või üksuse nimel (&quot;sina&quot;), ja Tava Labs, LLC vahel seoses sinu juurdepääsuga Teenustele ja nende kasutamisega. Nõustud, et Teenustele juurde pääsedes oled lugenud, mõistnud ja nõustunud olema seotud kõigi nende Õiguslike tingimustega. KUI SA EI NÕUSTU KÕIGI NENDE ÕIGUSLIKE TINGIMUSTEGA, ON SUL TEENUSTE KASUTAMINE SELGESÕNALISELT KEELATUD JA SA PEAD KASUTAMISE VIIVITAMATULT LÕPETAMA."
+    },
+    {
+      "id": 12,
+      "text": "Anname sulle eelnevalt teada kõigist kavandatud muudatustest Teenustes, mida kasutad. Muudetud Õiguslikud tingimused jõustuvad avaldamisel või sulle teatamisel aadressilt "
+    },
+    {
+      "id": 13,
+      "text": "noreply.entrepreneur-wellness@mail.hellostencil.com"
+    },
+    {
+      "id": 14,
+      "text": ", nagu on märgitud e-kirjas. Jätkates Teenuste kasutamist pärast muudatuste jõustumiskuupäeva, nõustud olema seotud muudetud tingimustega."
+    },
+    {
+      "id": 15,
+      "text": "Teenused on mõeldud kasutajatele, kes on vähemalt 18-aastased. Alla 18-aastastel isikutel ei ole lubatud Teenuseid kasutada ega nende jaoks registreeruda."
+    },
+    {
+      "id": 16,
+      "text": "Soovitame sul need Õiguslikud tingimused oma arvestuse jaoks välja printida."
+    },
+    {
+      "id": 17,
+      "text": "SISUKORD"
+    },
+    {
+      "id": 18,
+      "text": "NÕUSTUMINE MEIE ÕIGUSLIKE TINGIMUSTEGA"
+    },
+    {
+      "id": 19,
+      "text": "1. MEIE TEENUSED"
+    },
+    {
+      "id": 20,
+      "text": "2. INTELLEKTUAALOMANDI ÕIGUSED"
+    },
+    {
+      "id": 21,
+      "text": "3. KASUTAJA KINNITUSED"
+    },
+    {
+      "id": 22,
+      "text": "4. KASUTAJA REGISTREERIMINE"
+    },
+    {
+      "id": 23,
+      "text": "5. TOOTED"
+    },
+    {
+      "id": 24,
+      "text": "6. OSTUD JA MAKSED"
+    },
+    {
+      "id": 25,
+      "text": "7. TAGASTAMISEESKIRJAD"
+    },
+    {
+      "id": 26,
+      "text": "8. KEELATUD TEGEVUSED"
+    },
+    {
+      "id": 27,
+      "text": "9. KASUTAJA LOODUD PANUSED"
+    },
+    {
+      "id": 28,
+      "text": "10. PANUSE LITSENTS"
+    },
+    {
+      "id": 29,
+      "text": "11. ARVUSTUSTE JUHENDID"
+    },
+    {
+      "id": 30,
+      "text": "12. TEENUSTE HALDAMINE"
+    },
+    {
+      "id": 31,
+      "text": "13. PRIVAATSUSEESKIRJAD"
+    },
+    {
+      "id": 32,
+      "text": "14. KEHTIVUS JA LÕPETAMINE"
+    },
+    {
+      "id": 33,
+      "text": "15. MUUDATUSED JA KATKESTUSED"
+    },
+    {
+      "id": 34,
+      "text": "16. KOHALDATAV ÕIGUS"
+    },
+    {
+      "id": 35,
+      "text": "17. VAIDLUSTE LAHENDAMINE"
+    },
+    {
+      "id": 36,
+      "text": "18. PARANDUSED"
+    },
+    {
+      "id": 37,
+      "text": "19. VASTUTUSE VÄLISTAMINE"
+    },
+    {
+      "id": 38,
+      "text": "20. VASTUTUSE PIIRANGUD"
+    },
+    {
+      "id": 39,
+      "text": "21. KAHJU HÜVITAMINE"
+    },
+    {
+      "id": 40,
+      "text": "22. KASUTAJA ANDMED"
+    },
+    {
+      "id": 41,
+      "text": "23. ELEKTROONILINE SIDE, TEHINGUD JA ALLKIRJAD"
+    },
+    {
+      "id": 42,
+      "text": "24. CALIFORNIA KASUTAJAD JA ELANIKUD"
+    },
+    {
+      "id": 43,
+      "text": "25. MUUD SÄTTED"
+    },
+    {
+      "id": 44,
+      "text": "26. VÕTA MEIEGA ÜHENDUST"
+    },
+    {
+      "id": 45,
+      "text": "1. MEIE TEENUSED"
+    },
+    {
+      "id": 46,
+      "text": "Teenuste kasutamisel esitatud teave ei ole mõeldud levitamiseks ega kasutamiseks ühelegi isikule ega üksusele üheski jurisdiktsioonis ega riigis, kus selline levitamine või kasutamine oleks vastuolus seaduse või määrusega või allutaks meid mis tahes registreerimisnõudele sellises jurisdiktsioonis või riigis. Sellest tulenevalt teevad isikud, kes otsustavad Teenustele juurde pääseda muudest asukohtadest, seda omal algatusel ja vastutavad ainuisikuliselt kohalike seaduste järgimise eest, kui ja ulatuses, mil kohalikud seadused on kohaldatavad."
+    },
+    {
+      "id": 47,
+      "text": "Teenused ei ole kohandatud valdkonnapõhiste määruste (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA) jne) järgimiseks, nii et kui sinu suhtlus alluks sellistele seadustele, ei tohi sa Teenuseid kasutada. Sa ei tohi Teenuseid kasutada viisil, mis rikuks Gramm-Leach-Bliley Act (GLBA)."
+    },
+    {
+      "id": 48,
+      "text": "2. INTELLEKTUAALOMANDI ÕIGUSED"
+    },
+    {
+      "id": 49,
+      "text": "Meie intellektuaalomand"
+    },
+    {
+      "id": 50,
+      "text": "Oleme kõigi meie Teenuste intellektuaalomandi õiguste omanik või litsentsiaat, sealhulgas kogu lähtekood, andmebaasid, funktsionaalsus, tarkvara, veebisaidi kujundused, audio, video, tekst, fotod ja graafika Teenustes (ühiselt &quot;Sisu&quot;), samuti nendes sisalduvad kaubamärgid, teenusemärgid ja logod (&quot;Märgid&quot;)."
+    },
+    {
+      "id": 51,
+      "text": "Meie Sisu ja Märgid on kaitstud autoriõiguse ja kaubamärgi seadustega (ning mitmesuguste muude intellektuaalomandi õiguste ja kõlvatu konkurentsi seadustega) ja lepingutega Ameerika Ühendriikides ja kogu maailmas."
+    },
+    {
+      "id": 52,
+      "text": "Sisu ja Märgid esitatakse Teenustes või nende kaudu &quot;NAGU ON&quot; ainult sinu isiklikuks, mitteäriliseks kasutamiseks."
+    },
+    {
+      "id": 53,
+      "text": "Sinu meie Teenuste kasutamine"
+    },
+    {
+      "id": 54,
+      "text": "Kui järgid neid Õiguslikke tingimusi, sealhulgas allolevat jaotist &quot;"
+    },
+    {
+      "id": 55,
+      "text": "KEELATUD TEGEVUSED"
+    },
+    {
+      "id": 56,
+      "text": "&quot;, anname sulle mitteainuõigusliku, mitteülekantava, tühistatava litsentsi:"
+    },
+    {
+      "id": 57,
+      "text": "Teenustele juurde pääsemiseks; ja"
+    },
+    {
+      "id": 58,
+      "text": "Sisu mis tahes osa koopia allalaadimiseks või printimiseks, millele oled nõuetekohaselt juurde pääsenud,"
+    },
+    {
+      "id": 59,
+      "text": "üksnes sinu isiklikuks, mitteäriliseks kasutamiseks."
+    },
+    {
+      "id": 60,
+      "text": "Välja arvatud nii, nagu on sätestatud selles jaotises või mujal meie Õiguslikes tingimustes, ei tohi ühtegi Teenuste osa ega Sisu ega Märke kopeerida, taasesitada, koondada, uuesti avaldada, üles laadida, postitada, avalikult kuvada, kodeerida, tõlkida, edastada, levitada, müüa, litsentsida ega muul viisil ära kasutada mis tahes ärilisel eesmärgil ilma meie selgesõnalise eelneva kirjaliku loata."
+    },
+    {
+      "id": 61,
+      "text": "Kui soovid Teenuseid, Sisu või Märke kasutada muul viisil kui selles jaotises või mujal meie Õiguslikes tingimustes sätestatud, adresseeri oma taotlus palun aadressile: "
+    },
+    {
+      "id": 62,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 63,
+      "text": ". Kui me kunagi anname sulle loa postitada, taasesitada või avalikult kuvada meie Teenuste või Sisu mis tahes osa, pead sa tuvastama meid Teenuste, Sisu või Märkide omanike või litsentsiandjatena ja tagama, et iga autoriõiguse või omandiõiguse teade ilmub või on nähtav meie Sisu postitamisel, taasesitamisel või kuvamisel."
+    },
+    {
+      "id": 64,
+      "text": "Jätame endale kõik õigused, mida sulle Teenustes, Sisus ja Märkides selgesõnaliselt ei anta."
+    },
+    {
+      "id": 65,
+      "text": "Nende intellektuaalomandi õiguste mis tahes rikkumine kujutab endast meie Õiguslike tingimuste olulist rikkumist ja sinu õigus Teenuseid kasutada lõpeb viivitamatult."
+    },
+    {
+      "id": 66,
+      "text": "Sinu esitatud materjalid ja panused"
+    },
+    {
+      "id": 67,
+      "text": "Palun vaata see jaotis ja jaotis &quot;"
+    },
+    {
+      "id": 68,
+      "text": "KEELATUD TEGEVUSED"
+    },
+    {
+      "id": 69,
+      "text": "&quot; enne meie Teenuste kasutamist hoolikalt üle, et mõista (a) õigusi, mille sa meile annad, ja (b) kohustusi, mis sul on, kui postitad või laadid üles mis tahes sisu Teenuste kaudu."
+    },
+    {
+      "id": 70,
+      "text": "Esitatud materjalid:"
+    },
+    {
+      "id": 71,
+      "text": " Saates meile otse mis tahes küsimuse, kommentaari, ettepaneku, idee, tagasiside või muu teabe Teenuste kohta (&quot;Esitatud materjalid&quot;), nõustud loovutama meile kõik intellektuaalomandi õigused sellises Esitatud materjalis. Nõustud, et me omame seda Esitatud materjali ja meil on õigus selle piiramatule kasutamisele ja levitamisele mis tahes seaduslikul eesmärgil, äriliselt või muul viisil, ilma sinu tunnustamise või hüvitiseta."
+    },
+    {
+      "id": 72,
+      "text": "Panused:"
+    },
+    {
+      "id": 73,
+      "text": " Teenused võivad kutsuda sind vestlema, panustama või osalema blogides, teadetetahvlitel, veebifoorumites ja muus funktsionaalsuses, mille käigus saad luua, esitada, postitada, kuvada, edastada, avaldada, levitada või edastada sisu ja materjale meile või Teenuste kaudu, sealhulgas, kuid mitte ainult, teksti, kirjutisi, videot, audiot, fotosid, muusikat, graafikat, kommentaare, arvustusi, hinnangusoovitusi, isiklikku teavet või muud materjali (&quot;Panused&quot;). Iga avalikult postitatud Esitatud materjali käsitletakse samuti Panusena."
+    },
+    {
+      "id": 74,
+      "text": "Sa mõistad, et Panused võivad olla teistele Teenuste kasutajatele vaadatavad."
+    },
+    {
+      "id": 75,
+      "text": "Kui sa postitad Panuseid, annad sa meile litsentsi (sealhulgas sinu nime, kaubamärkide ja logode kasutamine):"
+    },
+    {
+      "id": 76,
+      "text": " Postitades mis tahes Panuseid, annad sa meile piiramatu, piiranguteta, tühistamatu, igavese, mitteainuõigusliku, ülekantava, autoritasuta, täielikult tasutud, ülemaailmse õiguse ja litsentsi: kasutada, kopeerida, taasesitada, levitada, müüa, edasi müüa, avaldada, edastada, ümber pealkirjastada, salvestada, avalikult esitada, avalikult kuvada, ümber vormindada, tõlkida, väljavõtteid teha (tervikuna või osaliselt) ja ära kasutada sinu Panuseid (sealhulgas, kuid mitte ainult, sinu pilti, nime ja häält) mis tahes eesmärgil, äriliselt, reklaamiks või muul viisil, valmistada sinu Panustest tuletatud teoseid või lisada need muudesse teostesse ning all-litsentsida selles jaotises antud litsentse. Meie kasutamine ja levitamine võib toimuda mis tahes meediavormingutes ja mis tahes meediakanalite kaudu."
+    },
+    {
+      "id": 77,
+      "text": "See litsents hõlmab meie kasutust sinu nime, ettevõtte nime ja frantsiisinime kohta, nagu kohaldatav, ning kõiki kaubamärke, teenusemärke, ärinimesid, logosid ning isiklikke ja ärilisi pilte, mida sa esitad."
+    },
+    {
+      "id": 78,
+      "text": "Sa vastutad selle eest, mida postitad või üles laadid:"
+    },
+    {
+      "id": 79,
+      "text": " Saates meile Esitatud materjale ja/või postitades Panuseid Teenuste mis tahes osa kaudu või tehes Panused Teenuste kaudu kättesaadavaks, ühendades oma konto Teenuste kaudu mis tahes oma sotsiaalvõrgustiku kontoga, sa:"
+    },
+    {
+      "id": 80,
+      "text": "kinnitad, et oled lugenud meie jaotist &quot;"
+    },
+    {
+      "id": 81,
+      "text": "KEELATUD TEGEVUSED"
+    },
+    {
+      "id": 82,
+      "text": "&quot; ja nõustud sellega ning ei postita, saada, avalda, laadi üles ega edasta Teenuste kaudu ühtegi Esitatud materjali ega postita ühtegi Panust, mis on ebaseaduslik, ahistav, vihkav, kahjulik, laimav, rõve, kiusav, kuritahtlik, diskrimineeriv, ähvardav ühelegi isikule või rühmale, seksuaalselt selgesõnaline, vale, ebatäpne, petlik või eksitav;"
+    },
+    {
+      "id": 83,
+      "text": "ulatuses, mil kohaldatav õigus seda lubab, loobud kõigist moraalsetest õigustest sellisele Esitatud materjalile ja/või Panusele;"
+    },
+    {
+      "id": 84,
+      "text": "garanteerid, et iga selline Esitatud materjal ja/või Panused on sinu originaalid või et sul on vajalikud õigused ja litsentsid selliste Esitatud materjalide ja/või Panuste esitamiseks ja et sul on täielik volitus anda meile eespool nimetatud õigused seoses sinu Esitatud materjalide ja/või Panustega; ja"
+    },
+    {
+      "id": 85,
+      "text": "garanteerid ja kinnitad, et sinu Esitatud materjalid ja/või Panused ei kujuta endast konfidentsiaalset teavet."
+    },
+    {
+      "id": 86,
+      "text": "Sa vastutad ainuisikuliselt oma Esitatud materjalide ja/või Panuste eest ja nõustud selgesõnaliselt hüvitama meile kõik kahjud, mida me võime kanda sinu (a) selle jaotise, (b) kolmanda osapoole intellektuaalomandi õiguste või (c) kohaldatava õiguse rikkumise tõttu."
+    },
+    {
+      "id": 87,
+      "text": "Me võime sinu Sisu eemaldada või muuta:"
+    },
+    {
+      "id": 88,
+      "text": " Kuigi meil pole kohustust Panuseid jälgida, on meil õigus Panused igal ajal ilma ette teatamata eemaldada või muuta, kui meie mõistliku arvamuse kohaselt peame selliseid Panuseid kahjulikuks või neid Õiguslikke tingimusi rikkuvaks. Kui me sellised Panused eemaldame või muudame, võime ka sinu konto peatada või keelata ja sinust ametivõimudele teatada."
+    },
+    {
+      "id": 89,
+      "text": "3. KASUTAJA KINNITUSED"
+    },
+    {
+      "id": 90,
+      "text": "Teenuseid kasutades kinnitad ja garanteerid, et: (1) kogu registreerimisteave, mille esitad, on tõene, täpne, ajakohane ja täielik; (2) säilitad sellise teabe täpsuse ja uuendad sellist registreerimisteavet viivitamatult vastavalt vajadusele; (3) sul on õigusvõime ja nõustud järgima neid Õiguslikke tingimusi; (4) sa ei ole alaealine jurisdiktsioonis, kus sa elad; (5) sa ei pääse Teenustele juurde automatiseeritud või mitteinimlike vahenditega, olgu see roboti, skripti või muul viisil; (6) sa ei kasuta Teenuseid ühelgi ebaseaduslikul või loata eesmärgil; ja (7) sinu Teenuste kasutamine ei riku ühtegi kohaldatavat seadust ega määrust."
+    },
+    {
+      "id": 91,
+      "text": "Kui esitad teavet, mis on vale, ebatäpne, mitte ajakohane või mittetäielik, on meil õigus sinu konto peatada või lõpetada ja keelduda Teenuste (või nende mis tahes osa) praegusest või tulevasest kasutamisest."
+    },
+    {
+      "id": 92,
+      "text": "4. KASUTAJA REGISTREERIMINE"
+    },
+    {
+      "id": 93,
+      "text": "Sul võib olla vaja Teenuste kasutamiseks registreeruda. Nõustud hoidma oma parooli konfidentsiaalsena ja vastutad oma konto ja parooli kogu kasutamise eest. Jätame endale õiguse eemaldada, tagasi nõuda või muuta sinu valitud kasutajanime, kui me oma ainuisikulisel äranägemisel leiame, et selline kasutajanimi on sobimatu, rõve või muul viisil vastuvõetamatu."
+    },
+    {
+      "id": 94,
+      "text": "5. TOOTED"
+    },
+    {
+      "id": 95,
+      "text": "Anname endast parima, et kuvada Teenustes saadaolevate toodete värve, omadusi, spetsifikatsioone ja üksikasju võimalikult täpselt. Siiski ei garanteeri me, et toodete värvid, omadused, spetsifikatsioonid ja üksikasjad on täpsed, täielikud, usaldusväärsed, ajakohased või muude vigadeta, ja sinu elektrooniline kuva ei pruugi täpselt kajastada toodete tegelikke värve ja üksikasju. Kõik tooted sõltuvad saadavusest ja me ei saa garanteerida, et tooted on laos. Jätame endale õiguse lõpetada mis tahes toodete pakkumine igal ajal mis tahes põhjusel. Kõigi toodete hinnad võivad muutuda."
+    },
+    {
+      "id": 96,
+      "text": "6. OSTUD JA MAKSED"
+    },
+    {
+      "id": 97,
+      "text": "Aktsepteerime järgmisi makseviise:"
+    },
+    {
+      "id": 98,
+      "text": "Visa"
+    },
+    {
+      "id": 99,
+      "text": "Mastercard"
+    },
+    {
+      "id": 100,
+      "text": "American Express"
+    },
+    {
+      "id": 101,
+      "text": "Discover"
+    },
+    {
+      "id": 102,
+      "text": "Nõustud esitama ajakohase, täieliku ja täpse ostu- ja kontoteabe kõigi Teenuste kaudu tehtud ostude kohta. Lisaks nõustud konto- ja makseteavet, sealhulgas e-posti aadressi, makseviisi ja maksekaardi aegumiskuupäeva, viivitamatult uuendama, et saaksime sinu tehingud lõpule viia ja sinuga vajaduse korral ühendust võtta. Müügimaks lisatakse ostude hinnale nii, nagu me seda vajalikuks peame. Võime hindu igal ajal muuta. Kõik maksed on USA dollarites."
+    },
+    {
+      "id": 103,
+      "text": "Nõustud maksma kõik tasud oma ostude eest sel ajal kehtivate hindadega ja kõiki kohaldatavaid tarnetasusid ning volitad meid debiteerima sinu valitud makseteenuse pakkujat selliste summade ulatuses tellimuse esitamisel. Jätame endale õiguse parandada kõiki hinnavigu või -vigu, isegi kui oleme makset juba taotlenud või saanud."
+    },
+    {
+      "id": 104,
+      "text": "Jätame endale õiguse keelduda mis tahes Teenuste kaudu esitatud tellimusest. Võime oma ainuisikulisel äranägemisel piirata või tühistada ühe isiku, ühe leibkonna või ühe tellimuse kohta ostetud koguseid. Need piirangud võivad hõlmata tellimusi, mis on esitatud sama kliendikonto alt või selle kaudu, sama makseviisiga ja/või tellimusi, mis kasutavad sama arveldus- või tarneaadressi. Jätame endale õiguse piirata või keelata tellimusi, mis meie ainuisikulise hinnangu kohaselt tunduvad olevat esitatud edasimüüjate, vahendajate või levitajate poolt."
+    },
+    {
+      "id": 105,
+      "text": "7. TAGASTAMISEESKIRJAD"
+    },
+    {
+      "id": 106,
+      "text": "Kõik müügid on lõplikud ja raha ei tagastata."
+    },
+    {
+      "id": 107,
+      "text": "8. KEELATUD TEGEVUSED"
+    },
+    {
+      "id": 108,
+      "text": "Sa ei tohi Teenustele juurde pääseda ega neid kasutada muul eesmärgil kui see, milleks me Teenused kättesaadavaks teeme. Teenuseid ei tohi kasutada seoses ühegi ärilise ettevõtmisega, välja arvatud need, mida me oleme konkreetselt heaks kiitnud või kinnitanud."
+    },
+    {
+      "id": 109,
+      "text": "Teenuste kasutajana nõustud mitte:"
+    },
+    {
+      "id": 110,
+      "text": "Süstemaatiliselt hankima andmeid või muud sisu Teenustest, et luua või koostada otse või kaudselt kogumikku, kompilatsiooni, andmebaasi või kataloogi ilma meie kirjaliku loata."
+    },
+    {
+      "id": 111,
+      "text": "Petma, tüssama või eksitama meid ja teisi kasutajaid, eriti mis tahes katses teada saada tundlikku kontoteavet, näiteks kasutajate paroole."
+    },
+    {
+      "id": 112,
+      "text": "Ümber minema, keelama või muul viisil häirima Teenuste turvalisusega seotud funktsioone, sealhulgas funktsioone, mis takistavad või piiravad mis tahes Sisu kasutamist või kopeerimist või jõustavad Teenuste ja/või nendes sisalduva Sisu kasutamise piiranguid."
+    },
+    {
+      "id": 113,
+      "text": "Halvustama, määrima või muul viisil kahjustama, meie arvates, meid ja/või Teenuseid."
+    },
+    {
+      "id": 114,
+      "text": "Kasutama Teenustest saadud teavet teise isiku ahistamiseks, kuritarvitamiseks või kahjustamiseks."
+    },
+    {
+      "id": 115,
+      "text": "Kasutama meie tugiteenuseid valesti või esitama valeteateid kuritarvitamise või väärkäitumise kohta."
+    },
+    {
+      "id": 116,
+      "text": "Kasutama Teenuseid viisil, mis on vastuolus kohaldatavate seaduste või määrustega."
+    },
+    {
+      "id": 117,
+      "text": "Tegelema Teenuste loata raamimise või linkimisega."
+    },
+    {
+      "id": 118,
+      "text": "Üles laadima või edastama (või üritama üles laadida või edastada) viiruseid, Trooja hobuseid või muud materjali, sealhulgas suurtähtede liigset kasutamist ja rämpsposti (korduva teksti pidev postitamine), mis häirib mis tahes osapoole Teenuste katkematut kasutamist ja nautimist või muudab, kahjustab, häirib, muudab või segab Teenuste kasutamist, omadusi, funktsioone, toimimist või hooldust."
+    },
+    {
+      "id": 119,
+      "text": "Tegelema süsteemi mis tahes automatiseeritud kasutamisega, näiteks skriptide kasutamisega kommentaaride või sõnumite saatmiseks või mis tahes andmekaeve, robotite või sarnaste andmete kogumise ja ekstraktimise tööriistade kasutamisega."
+    },
+    {
+      "id": 120,
+      "text": "Kustutama autoriõiguse või muude omandiõiguste teatise mis tahes Sisust."
+    },
+    {
+      "id": 121,
+      "text": "Üritama esineda teise kasutaja või isikuna või kasutama teise kasutaja kasutajanime."
+    },
+    {
+      "id": 122,
+      "text": "Üles laadima või edastama (või üritama üles laadida või edastada) mis tahes materjali, mis toimib passiivse või aktiivse teabe kogumise või edastamise mehhanismina, sealhulgas ilma piiranguteta selged graafikavahetusvormingud (&quot;gifid&quot;), 1x1 pikslid, veebimajakad, küpsised või muud sarnased seadmed (mõnikord nimetatakse &quot;nuhkvaraks&quot; või &quot;passiivseteks kogumismehhanismideks&quot; või &quot;pcmideks&quot;)."
+    },
+    {
+      "id": 123,
+      "text": "Segama, häirima või tekitama Teenustele või Teenustega ühendatud võrkudele või teenustele liigset koormust."
+    },
+    {
+      "id": 124,
+      "text": "Ahistama, häirima, hirmutama või ähvardama meie töötajaid või esindajaid, kes tegelevad Teenuste mis tahes osa sulle pakkumisega."
+    },
+    {
+      "id": 125,
+      "text": "Üritama mööda minna Teenuste meetmetest, mis on loodud Teenustele või Teenuste mis tahes osale juurdepääsu takistamiseks või piiramiseks."
+    },
+    {
+      "id": 126,
+      "text": "Kopeerima või kohandama Teenuste tarkvara, sealhulgas, kuid mitte ainult, Flash, PHP, HTML, JavaScript või muu kood."
+    },
+    {
+      "id": 127,
+      "text": "Välja arvatud kohaldatava õigusega lubatud ulatuses, dešifreerima, dekompileerima, lahti võtma või pöördprojekteerima mis tahes tarkvara, mis moodustab Teenused või on mingil viisil nende osa."
+    },
+    {
+      "id": 128,
+      "text": "Välja arvatud tavalise otsingumootori või internetibrauseri kasutamise tulemusena, kasutama, käivitama, arendama või levitama mis tahes automatiseeritud süsteemi, sealhulgas ilma piiranguteta iga ämblikku, robotit, petuutiliiti, kaabitsat või võrguühenduseta lugejat, mis pääseb Teenustele juurde, või kasutama või käivitama mis tahes loata skripti või muud tarkvara."
+    },
+    {
+      "id": 129,
+      "text": "Kasutama ostuagenti või hankijat Teenustes ostude tegemiseks."
+    },
+    {
+      "id": 130,
+      "text": "Teenuseid loata kasutama, sealhulgas koguma kasutajate kasutajanimesid ja/või e-posti aadresse elektrooniliste või muude vahenditega soovimatu e-posti saatmise eesmärgil või looma kasutajakontosid automatiseeritud vahenditega või valede ettekäänetega."
+    },
+    {
+      "id": 131,
+      "text": "Kasutama Teenuseid osana mis tahes jõupingutusest meiega konkureerida või muul viisil kasutama Teenuseid ja/või Sisu mis tahes tulu teeniva ettevõtmise või ärilise ettevõtte jaoks."
+    },
+    {
+      "id": 132,
+      "text": "Kasutama Teenuseid kaupade ja teenuste reklaamimiseks või müügiks pakkumiseks."
+    },
+    {
+      "id": 133,
+      "text": "Müüma või muul viisil üle andma oma profiili."
+    },
+    {
+      "id": 134,
+      "text": "9. KASUTAJA LOODUD PANUSED"
+    },
+    {
+      "id": 135,
+      "text": "Teenused võivad kutsuda sind vestlema, panustama või osalema blogides, teadetetahvlitel, veebifoorumites ja muus funktsionaalsuses ning võivad pakkuda sulle võimalust luua, esitada, postitada, kuvada, edastada, esitada, avaldada, levitada või edastada sisu ja materjale meile või Teenustes, sealhulgas, kuid mitte ainult, teksti, kirjutisi, videot, audiot, fotosid, graafikat, kommentaare, ettepanekuid või isiklikku teavet või muud materjali (ühiselt &quot;Panused&quot;). Panused võivad olla teistele Teenuste kasutajatele ja kolmandate osapoolte veebisaitide kaudu vaadatavad. Seega võib iga Panust, mille sa edastad, käsitleda mittekonfidentsiaalse ja mitteomandiõiguslikuna. Kui sa lood või teed kättesaadavaks mis tahes Panuseid, kinnitad ja garanteerid sellega, et:"
+    },
+    {
+      "id": 136,
+      "text": "Sinu Panuste loomine, levitamine, edastamine, avalik kuvamine või esitamine ning neile juurdepääs, nende allalaadimine või kopeerimine ei riku ega hakka rikkuma ühegi kolmanda osapoole omandiõigusi, sealhulgas, kuid mitte ainult, autoriõigust, patenti, kaubamärki, ärisaladust või moraalseid õigusi."
+    },
+    {
+      "id": 137,
+      "text": "Sa oled looja ja omanik või sul on vajalikud litsentsid, õigused, nõusolekud, vabastused ja load, et kasutada ja volitada meid, Teenuseid ja teisi Teenuste kasutajaid kasutama sinu Panuseid mis tahes viisil, mida Teenused ja need Õiguslikud tingimused ette näevad."
+    },
+    {
+      "id": 138,
+      "text": "Sul on iga tuvastatava üksikisiku kirjalik nõusolek, vabastus ja/või luba sinu Panustes, et kasutada iga sellise tuvastatava üksikisiku nime või sarnasust, et võimaldada sinu Panuste lisamist ja kasutamist mis tahes viisil, mida Teenused ja need Õiguslikud tingimused ette näevad."
+    },
+    {
+      "id": 139,
+      "text": "Sinu Panused ei ole valed, ebatäpsed ega eksitavad."
+    },
+    {
+      "id": 140,
+      "text": "Sinu Panused ei ole soovimatu või loata reklaam, reklaammaterjalid, püramiidskeemid, ahelkirjad, rämpspost, masspostitused ega muud pakkumise vormid."
+    },
+    {
+      "id": 141,
+      "text": "Sinu Panused ei ole rõvedad, nilbed, himurad, räpased, vägivaldsed, ahistavad, laimavad, halvustavad ega muul viisil vastuvõetamatud (nii nagu meie määrame)."
+    },
+    {
+      "id": 142,
+      "text": "Sinu Panused ei naeruväärista, pilka, halvusta, hirmuta ega kuritarvita kedagi."
+    },
+    {
+      "id": 143,
+      "text": "Sinu Panuseid ei kasutata teise isiku ahistamiseks või ähvardamiseks (nende terminite õiguslikus tähenduses) ega vägivalla edendamiseks konkreetse isiku või inimrühma vastu."
+    },
+    {
+      "id": 144,
+      "text": "Sinu Panused ei riku ühtegi kohaldatavat seadust, määrust ega reeglit."
+    },
+    {
+      "id": 145,
+      "text": "Sinu Panused ei riku ühegi kolmanda osapoole privaatsus- ega avalikustamisõigusi."
+    },
+    {
+      "id": 146,
+      "text": "Sinu Panused ei riku ühtegi kohaldatavat seadust, mis puudutab lapspornot, ega ole muul viisil mõeldud alaealiste tervise või heaolu kaitsmiseks."
+    },
+    {
+      "id": 147,
+      "text": "Sinu Panused ei sisalda solvavaid kommentaare, mis on seotud rassi, rahvusliku päritolu, soo, seksuaalse eelistuse või füüsilise puudega."
+    },
+    {
+      "id": 148,
+      "text": "Sinu Panused ei riku muul viisil ega lingi materjalile, mis rikub nende Õiguslike tingimuste mis tahes sätet või mis tahes kohaldatavat seadust või määrust."
+    },
+    {
+      "id": 149,
+      "text": "Teenuste mis tahes kasutamine eespool nimetatu rikkumisega rikub neid Õiguslikke tingimusi ja võib muu hulgas kaasa tuua sinu Teenuste kasutamise õiguste lõpetamise või peatamise."
+    },
+    {
+      "id": 150,
+      "text": "10. PANUSE LITSENTS"
+    },
+    {
+      "id": 151,
+      "text": "Postitades oma Panused Teenuste mis tahes ossa, annad sa automaatselt ja kinnitad ja garanteerid, et sul on õigus anda meile piiramatu, piiranguteta, tühistamatu, igavene, mitteainuõiguslik, ülekantav, autoritasuta, täielikult tasutud, ülemaailmne õigus ja litsents majutada, kasutada, kopeerida, taasesitada, avalikustada, müüa, edasi müüa, avaldada, edastada, ümber pealkirjastada, arhiveerida, salvestada, vahemällu salvestada, avalikult esitada, avalikult kuvada, ümber vormindada, tõlkida, edastada, väljavõtteid teha (tervikuna või osaliselt) ja levitada selliseid Panuseid (sealhulgas, ilma piiranguteta, sinu pilti ja häält) mis tahes eesmärgil, äriliselt, reklaamiks või muul viisil, ning valmistada sellistest Panustest tuletatud teoseid või lisada need muudesse teostesse ning anda ja volitada eespool nimetatu all-litsentse. Kasutamine ja levitamine võib toimuda mis tahes meediavormingutes ja mis tahes meediakanalite kaudu."
+    },
+    {
+      "id": 152,
+      "text": "See litsents kehtib igale vormile, meediale või tehnoloogiale, mis on praegu teada või edaspidi välja töötatud, ja hõlmab meie kasutust sinu nime, ettevõtte nime ja frantsiisinime kohta, nagu kohaldatav, ning kõiki kaubamärke, teenusemärke, ärinimesid, logosid ning isiklikke ja ärilisi pilte, mida sa esitad. Sa loobud kõigist moraalsetest õigustest oma Panustes ja garanteerid, et moraalseid õigusi ei ole sinu Panustes muul viisil väidetud."
+    },
+    {
+      "id": 153,
+      "text": "Me ei väida sinu Panuste üle mingit omandiõigust. Sa säilitad täieliku omandiõiguse kõigi oma Panuste ja kõigi intellektuaalomandi õiguste või muude omandiõiguste üle, mis on seotud sinu Panustega. Me ei vastuta ühegi väite või kinnituse eest sinu Panustes, mille sa esitad Teenuste mis tahes alas. Sa vastutad ainuisikuliselt oma Panuste eest Teenustesse ja nõustud selgesõnaliselt vabastama meid kogu vastutusest ja hoiduma meie vastu sinu Panuste osas mis tahes õiguslikest toimingutest."
+    },
+    {
+      "id": 154,
+      "text": "Meil on õigus oma ainuisikulises ja absoluutses äranägemises (1) muuta, redigeerida või muul viisil muuta mis tahes Panuseid; (2) Panuseid ümber kategoriseerida, et paigutada need Teenustes sobivamatesse asukohtadesse; ja (3) Panuseid igal ajal ja mis tahes põhjusel ilma ette teatamata eelnevalt läbi vaadata või kustutada. Meil pole kohustust sinu Panuseid jälgida."
+    },
+    {
+      "id": 155,
+      "text": "11. ARVUSTUSTE JUHENDID"
+    },
+    {
+      "id": 156,
+      "text": "Võime pakkuda sulle Teenustes alasid arvustuste või hinnangute jätmiseks. Arvustust postitades pead järgima järgmisi kriteeriume: (1) sul peaks olema esmane kogemus arvustatava isiku/üksusega; (2) sinu arvustused ei tohi sisaldada solvavat roppust ega kuritahtlikku, rassistlikku, solvavat või vihkavat keelt; (3) sinu arvustused ei tohi sisaldada diskrimineerivaid viiteid religiooni, rassi, soo, rahvusliku päritolu, vanuse, perekonnaseisu, seksuaalse sättumuse või puude põhjal; (4) sinu arvustused ei tohi sisaldada viiteid ebaseaduslikule tegevusele; (5) sa ei tohiks olla seotud konkurentidega, kui postitad negatiivseid arvustusi; (6) sa ei tohiks teha järeldusi käitumise seaduslikkuse kohta; (7) sa ei tohi postitada valesid või eksitavaid väiteid; ja (8) sa ei tohi korraldada kampaaniat, mis julgustab teisi arvustusi postitama, olgu need positiivsed või negatiivsed."
+    },
+    {
+      "id": 157,
+      "text": "Võime arvustusi oma ainuisikulise äranägemise järgi vastu võtta, tagasi lükata või eemaldada. Meil pole absoluutselt mingit kohustust arvustusi läbi vaadata ega kustutada, isegi kui keegi peab arvustusi vastuvõetamatuks või ebatäpseks. Arvustusi ei kiida me heaks ja need ei esinda tingimata meie arvamusi ega ühegi meie sidusettevõtte või partneri seisukohti. Me ei võta vastutust ühegi arvustuse ega arvustusest tulenevate nõuete, kohustuste või kahjude eest. Arvustust postitades annad sa meile sellega igavese, mitteainuõigusliku, ülemaailmse, autoritasuta, täielikult tasutud, loovutatava ja all-litsentsitava õiguse ja litsentsi taasesitada, muuta, tõlkida, edastada mis tahes vahenditega, kuvada, esitada ja/või levitada kogu arvustusega seotud sisu."
+    },
+    {
+      "id": 158,
+      "text": "12. TEENUSTE HALDAMINE"
+    },
+    {
+      "id": 159,
+      "text": "Jätame endale õiguse, kuid mitte kohustuse: (1) jälgida Teenuseid nende Õiguslike tingimuste rikkumiste osas; (2) võtta asjakohaseid õiguslikke meetmeid igaühe vastu, kes meie ainuisikulise äranägemise kohaselt rikub seadust või neid Õiguslikke tingimusi, sealhulgas ilma piiranguteta sellisest kasutajast õiguskaitseorganitele teatamine; (3) oma ainuisikulise äranägemise järgi ja ilma piiranguteta keelduda, piirata juurdepääsu, piirata kättesaadavust või keelata (tehnoloogiliselt võimalikus ulatuses) mis tahes sinu Panuseid või nende osa; (4) oma ainuisikulise äranägemise järgi ja ilma piirangute, teatamise või vastutuseta eemaldada Teenustest või muul viisil keelata kõik failid ja sisu, mis on liigse suurusega või meie süsteemidele mingil viisil koormavad; ja (5) muul viisil hallata Teenuseid viisil, mis on loodud meie õiguste ja vara kaitsmiseks ning Teenuste nõuetekohase toimimise hõlbustamiseks."
+    },
+    {
+      "id": 160,
+      "text": "13. PRIVAATSUSEESKIRJAD"
+    },
+    {
+      "id": 161,
+      "text": "Me hoolime andmete privaatsusest ja turvalisusest. Palun vaata üle meie "
+    },
+    {
+      "id": 162,
+      "text": "Privaatsuseeskirjad"
+    },
+    {
+      "id": 163,
+      "text": ". Teenuseid kasutades nõustud olema seotud meie Privaatsuseeskirjadega, mis on lisatud nendesse Õiguslikesse tingimustesse. Palun pane tähele, et Teenuseid majutatakse Ameerika Ühendriikides. Kui sa pääsed Teenustele juurde mis tahes muust maailma piirkonnast, kus isikuandmete kogumist, kasutamist või avalikustamist reguleerivad seadused või muud nõuded erinevad Ameerika Ühendriikides kohaldatavatest seadustest, siis jätkates Teenuste kasutamist edastad sa oma andmed Ameerika Ühendriikidesse ja nõustud selgesõnaliselt oma andmete edastamisega Ameerika Ühendriikidesse ja seal töötlemisega."
+    },
+    {
+      "id": 164,
+      "text": "14. KEHTIVUS JA LÕPETAMINE"
+    },
+    {
+      "id": 165,
+      "text": "Need Õiguslikud tingimused jäävad täielikult kehtima ja jõusse, kuni sa Teenuseid kasutad. PIIRAMATA NENDE ÕIGUSLIKE TINGIMUSTE MIS TAHES MUUD SÄTET, JÄTAME ENDALE ÕIGUSE OMA AINUISIKULISEL ÄRANÄGEMISEL JA ILMA TEATAMISE VÕI VASTUTUSETA KEELATA JUURDEPÄÄS TEENUSTELE JA NENDE KASUTAMINE (SEALHULGAS TEATUD IP-AADRESSIDE BLOKEERIMINE) MIS TAHES ISIKULE MIS TAHES PÕHJUSEL VÕI ILMA PÕHJUSETA, SEALHULGAS ILMA PIIRANGUTETA NENDES ÕIGUSLISTES TINGIMUSTES VÕI MIS TAHES KOHALDATAVAS SEADUSES VÕI MÄÄRUSES SISALDUVA KINNITUSE, GARANTII VÕI LEPINGU RIKKUMISE EEST. VÕIME LÕPETADA SINU TEENUSTE KASUTAMISE VÕI NEIS OSALEMISE VÕI KUSTUTADA SINU KONTO JA MIS TAHES SISU VÕI TEABE, MILLE SA POSTITASID, IGAL AJAL, ILMA HOIATUSETA, OMA AINUISIKULISEL ÄRANÄGEMISEL."
+    },
+    {
+      "id": 166,
+      "text": "Kui me lõpetame või peatame sinu konto mis tahes põhjusel, on sul keelatud registreeruda ja luua uus konto oma nime, võlts- või laenatud nime või kolmanda osapoole nime all, isegi kui sa võid tegutseda kolmanda osapoole nimel. Lisaks sinu konto lõpetamisele või peatamisele jätame endale õiguse võtta asjakohaseid õiguslikke meetmeid, sealhulgas ilma piiranguteta tsiviil-, kriminaal- ja ettekirjutusliku õiguskaitse taotlemine."
+    },
+    {
+      "id": 167,
+      "text": "15. MUUDATUSED JA KATKESTUSED"
+    },
+    {
+      "id": 168,
+      "text": "Jätame endale õiguse muuta, modifitseerida või eemaldada Teenuste sisu igal ajal või mis tahes põhjusel oma ainuisikulise äranägemise järgi ilma ette teatamata. Siiski pole meil kohustust uuendada Teenustes olevat teavet. Me ei vastuta sinu ega ühegi kolmanda osapoole ees Teenuste mis tahes muutmise, hinnamuutuse, peatamise või lõpetamise eest."
+    },
+    {
+      "id": 169,
+      "text": "Me ei saa garanteerida, et Teenused on kogu aeg kättesaadavad. Võime kogeda riistvara-, tarkvara- või muid probleeme või peame tegema Teenustega seotud hooldust, mille tulemuseks on katkestused, viivitused või vead. Jätame endale õiguse muuta, üle vaadata, uuendada, peatada, lõpetada või muul viisil modifitseerida Teenuseid igal ajal või mis tahes põhjusel ilma sulle teatamata. Nõustud, et meil pole mingit vastutust mis tahes kaotuse, kahju või ebamugavuse eest, mis on põhjustatud sinu võimetusest Teenustele juurde pääseda või neid kasutada Teenuste seisaku või lõpetamise ajal. Midagi nendes Õiguslikes tingimustes ei tõlgendata nii, et see kohustaks meid Teenuseid hooldama ja toetama või esitama sellega seoses parandusi, uuendusi või väljalaskeid."
+    },
+    {
+      "id": 170,
+      "text": "16. KOHALDATAV ÕIGUS"
+    },
+    {
+      "id": 171,
+      "text": "Neid Õiguslikke tingimusi ja sinu Teenuste kasutamist reguleerivad ja tõlgendatakse Delaware'i osariigi seaduste kohaselt, mis on kohaldatavad lepingutele, mis on sõlmitud ja mida täidetakse täielikult Delaware'i osariigis, arvestamata selle kollisiooninorme."
+    },
+    {
+      "id": 172,
+      "text": "17. VAIDLUSTE LAHENDAMINE"
+    },
+    {
+      "id": 173,
+      "text": "Mitteametlikud läbirääkimised"
+    },
+    {
+      "id": 174,
+      "text": "Kiirendamaks lahendamist ja kontrollimaks iga nende Õiguslike tingimustega seotud vaidluse, vastuolu või nõude (igaüks &quot;Vaidlus&quot; ja ühiselt &quot;Vaidlused&quot;) kulusid, mille esitab kas sina või meie (üksikult &quot;Osapool&quot; ja ühiselt &quot;Osapooled&quot;), nõustuvad Osapooled esmalt üritama iga Vaidlust (välja arvatud allpool selgesõnaliselt esitatud Vaidlused) mitteametlikult läbi rääkida vähemalt kolmkümmend (30) päeva enne vahekohtu algatamist. Sellised mitteametlikud läbirääkimised algavad ühe Osapoole kirjalikul teatisel teisele Osapoolele."
+    },
+    {
+      "id": 175,
+      "text": "Siduv vahekohus"
+    },
+    {
+      "id": 176,
+      "text": "Kui Osapooled ei suuda Vaidlust mitteametlike läbirääkimiste kaudu lahendada, lahendatakse Vaidlus (välja arvatud allpool selgesõnaliselt välistatud Vaidlused) lõplikult ja ainuisikuliselt siduva vahekohtu abil. SA MÕISTAD, ET ILMA SELLE SÄTTETA OLEKS SUL ÕIGUS KOHTUS HAGI ESITADA JA VANDENÕUNIKU KOHTUPROTSESSI SAADA. Vahekohus algatatakse ja viiakse läbi American Arbitration Association (&quot;AAA&quot;) äriarbitraaži reeglite kohaselt ja, kus asjakohane, AAA tarbijatega seotud vaidluste lisamenetluste (&quot;AAA tarbijareeglid&quot;) kohaselt, mis mõlemad on kättesaadavad "
+    },
+    {
+      "id": 177,
+      "text": "American Arbitration Association (AAA) veebisaidil"
+    },
+    {
+      "id": 178,
+      "text": ". Sinu vahekohtutasud ja sinu osa vahekohtuniku hüvitisest reguleerivad AAA tarbijareeglid ja, kus asjakohane, piiravad AAA tarbijareeglid. Vahekohus võib toimuda isiklikult, dokumentide esitamise kaudu, telefoni teel või veebis. Vahekohtunik teeb otsuse kirjalikult, kuid ei pea esitama põhjendusi, välja arvatud juhul, kui seda taotleb üks Osapooltest. Vahekohtunik peab järgima kohaldatavat õigust ja iga otsust võib vaidlustada, kui vahekohtunik seda ei tee. Välja arvatud juhul, kui kohaldatavad AAA reeglid või kohaldatav õigus nõuavad teisiti, toimub vahekohus Californias."
+    },
+    {
+      "id": 179,
+      "text": "Välja arvatud nii, nagu on sätestatud siin, võivad Osapooled kohtus hagi esitada, et sundida vahekohtut, peatada menetlus vahekohtu ootel või kinnitada, muuta, tühistada või anda kohtuotsus vahekohtuniku tehtud otsuse kohta."
+    },
+    {
+      "id": 180,
+      "text": "Kui mis tahes põhjusel menetletakse Vaidlust kohtus vahekohtu asemel, algatatakse või menetletakse Vaidlus California osariigi ja föderaalkohustes ning Osapooled nõustuvad sellega ja loobuvad kõigist kaitseväidetest isikliku jurisdiktsiooni puudumise ja forum non conveniens'i osas selliste osariigi- ja föderaalkohtute kohtualluvuse ja jurisdiktsiooni suhtes. Ühinenud Rahvaste Organisatsiooni konventsiooni kaupade rahvusvahelise müügi lepingute kohta ja Uniform Computer Information Transaction Act (UCITA) kohaldamine on nendest Õiguslikest tingimustest välistatud."
+    },
+    {
+      "id": 181,
+      "text": "Mitte ühelgi juhul ei algatata ühegi Osapoole poolt esitatud Vaidlust, mis on mingil viisil seotud Teenustega, rohkem kui üks (1) aasta pärast hagi põhjuse tekkimist. Kui see säte leitakse olevat ebaseaduslik või jõustamatu, siis ei vali kumbki Osapool vahekohtut ühegi Vaidluse osas, mis kuulub selle sätte selle osa alla, mis leitakse olevat ebaseaduslik või jõustamatu, ja sellise Vaidluse otsustab pädev kohus eespool jurisdiktsiooni jaoks loetletud kohtute hulgast ning Osapooled nõustuvad alluma selle kohtu isiklikule jurisdiktsioonile."
+    },
+    {
+      "id": 182,
+      "text": "Piirangud"
+    },
+    {
+      "id": 183,
+      "text": "Osapooled nõustuvad, et iga vahekohus piirdub Osapoolte vahelise Vaidlusega üksikult. Täielikus ulatuses, mida seadus lubab, (a) ühtegi vahekohtut ei liideta ühegi teise menetlusega; (b) ei ole õigust ega volitust ühegi Vaidluse vahekohtuks kollektiivhagi alusel ega kollektiivhagi menetluste kasutamiseks; ja (c) ei ole õigust ega volitust ühegi Vaidluse esitamiseks väidetavas esinduslikus rollis üldsuse või teiste isikute nimel."
+    },
+    {
+      "id": 184,
+      "text": "Erandid mitteametlikest läbirääkimistest ja vahekohtust"
+    },
+    {
+      "id": 185,
+      "text": "Osapooled nõustuvad, et järgmised Vaidlused ei allu eespool nimetatud sätetele mitteametlike läbirääkimiste siduva vahekohtu kohta: (a) iga Vaidlus, mis püüab jõustada või kaitsta Osapoole intellektuaalomandi õigusi või puudutab nende kehtivust; (b) iga Vaidlus, mis on seotud varguse, piraatluse, privaatsuse rikkumise või loata kasutamise väidetega või tuleneb nendest; ja (c) iga nõue ettekirjutusliku õiguskaitse saamiseks. Kui see säte leitakse olevat ebaseaduslik või jõustamatu, siis ei vali kumbki Osapool vahekohtut ühegi Vaidluse osas, mis kuulub selle sätte selle osa alla, mis leitakse olevat ebaseaduslik või jõustamatu, ja sellise Vaidluse otsustab pädev kohus eespool jurisdiktsiooni jaoks loetletud kohtute hulgast ning Osapooled nõustuvad alluma selle kohtu isiklikule jurisdiktsioonile."
+    },
+    {
+      "id": 186,
+      "text": "18. PARANDUSED"
+    },
+    {
+      "id": 187,
+      "text": "Teenustes võib olla teavet, mis sisaldab trükivigu, ebatäpsusi või väljajätmisi, sealhulgas kirjeldusi, hinnakujundust, saadavust ja mitmesugust muud teavet. Jätame endale õiguse parandada kõiki vigu, ebatäpsusi või väljajätmisi ning muuta või uuendada Teenustes olevat teavet igal ajal ilma eelneva teatamiseta."
+    },
+    {
+      "id": 188,
+      "text": "19. VASTUTUSE VÄLISTAMINE"
+    },
+    {
+      "id": 189,
+      "text": "TEENUSEID PAKUTAKSE &quot;NAGU ON&quot; JA &quot;NAGU SAADAVAL&quot; PÕHIMÕTTEL. SA NÕUSTUD, ET SINU TEENUSTE KASUTAMINE TOIMUB SINU AINUISIKULISEL RISKIL. TÄIELIKUS ULATUSES, MIDA SEADUS LUBAB, VÄLISTAME KÕIK GARANTIID, SELGESÕNALISED VÕI KAUDSED, SEOSES TEENUSTE JA SINU NENDE KASUTAMISEGA, SEALHULGAS ILMA PIIRANGUTETA KAUDSED GARANTIID KAUBANDUSLIKU SOBIVUSE, KINDLAKS OTSTARBEKS SOBIVUSE JA MITTERIKKUMISE KOHTA. ME EI ANNA MINGEID GARANTIISID EGA KINNITUSI TEENUSTE SISU VÕI TEENUSTEGA LINGITUD VEEBISAITIDE VÕI MOBIILIRAKENDUSTE SISU TÄPSUSE VÕI TÄIELIKKUSE KOHTA JA ME EI VÕTA MINGIT VASTUTUST EGA KOHUSTUST (1) SISU JA MATERJALIDE VIGADE, EKSIMUSTE VÕI EBATÄPSUSTE, (2) MIS TAHES LAADI ISIKUKAHJU VÕI VARAKAHJU EEST, MIS TULENEB SINU JUURDEPÄÄSUST TEENUSTELE JA NENDE KASUTAMISEST, (3) MIS TAHES LOATA JUURDEPÄÄSU EEST MEIE TURVALISTELE SERVERITELE JA/VÕI KOGU NEIS SALVESTATUD ISIKLIKULE TEABELE JA/VÕI FINANTSTEABELE, (4) TEENUSTESSE VÕI TEENUSTEST EDASTAMISE KATKESTUSE VÕI LÕPETAMISE, (5) VIGADE, VIIRUSTE, TROOJA HOBUSTE VÕI MUU SARNASE EEST, MIDA KOLMAS OSAPOOL VÕIB TEENUSTESSE VÕI NENDE KAUDU EDASTADA, JA/VÕI (6) VIGADE VÕI VÄLJAJÄTMISTE EEST MIS TAHES SISUS JA MATERJALIDES VÕI MIS TAHES KAOTUSE VÕI KAHJU EEST, MIS TEKIB MIS TAHES SISU KASUTAMISE TULEMUSENA, MIS ON POSTITATUD, EDASTATUD VÕI MUUL VIISIL TEENUSTE KAUDU KÄTTESAADAVAKS TEHTUD. ME EI GARANTEERI, KIIDA HEAKS, TAGA EGA VÕTA VASTUTUST ÜHEGI TOOTE VÕI TEENUSE EEST, MIDA KOLMAS OSAPOOL TEENUSTE KAUDU REKLAAMIB VÕI PAKUB, ÜHEGI HÜPERLINGITUD VEEBISAIDI EEST VÕI ÜHEGI VEEBISAIDI VÕI MOBIILIRAKENDUSE EEST, MIS ON ESITATUD MIS TAHES BÄNNERIS VÕI MUUS REKLAAMIS, JA ME EI OLE OSAPOOL EGA VASTUTA MINGIL VIISIL SINU JA KOLMANDAST OSAPOOLEST TOODETE VÕI TEENUSTE PAKKUJATE VAHELISTE TEHINGUTE JÄLGIMISE EEST. NAGU TOOTE VÕI TEENUSE OSTMISEL MIS TAHES VAHENDI KAUDU VÕI MIS TAHES KESKKONNAS, PEAKSID SA KASUTAMA OMA PARIMAT HINNANGUT JA OLEMA ETTEVAATLIK, KUS SEE ON ASJAKOHANE."
+    },
+    {
+      "id": 190,
+      "text": "20. VASTUTUSE PIIRANGUD"
+    },
+    {
+      "id": 191,
+      "text": "MITTE ÜHELGI JUHUL EI VASTUTA MEIE EGA MEIE DIREKTORID, TÖÖTAJAD VÕI ESINDAJAD SINU VÕI ÜHEGI KOLMANDA OSAPOOLE EES MIS TAHES OTSESE, KAUDSE, JÄRELDUSLIKU, HOIATAVA, JUHUSLIKU, ERILISE VÕI KARISTUSLIKU KAHJU EEST, SEALHULGAS SAAMATA JÄÄNUD KASUM, SAAMATA JÄÄNUD TULU, ANDMETE KAOTUS VÕI MUU KAHJU, MIS TULENEB SINU TEENUSTE KASUTAMISEST, ISEGI KUI MEID ON TEAVITATUD SELLISTE KAHJUDE VÕIMALIKKUSEST. HOOLIMATA SIIN SISALDUVAST VASTUPIDISEST, ON MEIE VASTUTUS SINU EES MIS TAHES PÕHJUSEL JA SÕLTUMATA HAGI VORMIST KOGU AEG PIIRATUD SUMMAGA, MIDA SA MEILE MAKSID, KUI ÜLDSE, KOLME (3) KUU JOOKSUL ENNE MIS TAHES HAGI PÕHJUSE TEKKIMIST. TEATUD USA OSARIIGI SEADUSED JA RAHVUSVAHELISED SEADUSED EI LUBA KAUDSETE GARANTIIDE PIIRANGUID EGA TEATUD KAHJUDE VÄLISTAMIST VÕI PIIRAMIST. KUI NEED SEADUSED SINU SUHTES KOHALDUVAD, EI PRUUGI MÕNED VÕI KÕIK EESPOOL NIMETATUD VASTUTUSE VÄLISTAMISED VÕI PIIRANGUD SINU SUHTES KOHALDUDA JA SUL VÕIVAD OLLA TÄIENDAVAD ÕIGUSED."
+    },
+    {
+      "id": 192,
+      "text": "21. KAHJU HÜVITAMINE"
+    },
+    {
+      "id": 193,
+      "text": "Sa nõustud kaitsma, hüvitama ja hoidma meid kahjutuna, sealhulgas meie tütarettevõtteid, sidusettevõtteid ja kõiki meie vastavaid ametnikke, esindajaid, partnereid ja töötajaid, iga kaotuse, kahju, vastutuse, nõude või nõudmise eest, sealhulgas mõistlikud advokaaditasud ja kulud, mille esitab kolmas osapool sinu tõttu või mis tulenevad: (1) sinu Panustest; (2) Teenuste kasutamisest; (3) nende Õiguslike tingimuste rikkumisest; (4) sinu kinnituste ja garantiide rikkumisest, mis on sätestatud nendes Õiguslikes tingimustes; (5) kolmanda osapoole õiguste rikkumisest, sealhulgas, kuid mitte ainult, intellektuaalomandi õigused; või (6) mis tahes avalikust kahjulikust teost Teenuste teise kasutaja vastu, kellega sa Teenuste kaudu ühendust võtsid. Hoolimata eespool nimetatust jätame endale õiguse sinu kulul võtta enda peale iga asja ainuisikuline kaitse ja kontroll, mille eest sa pead meile hüvitama, ja sa nõustud oma kulul tegema koostööd meie selliste nõuete kaitsmisega. Anname endast parima, et teavitada sind igast sellisest nõudest, hagist või menetlusest, mis allub sellele hüvitamisele, kui sellest teada saame."
+    },
+    {
+      "id": 194,
+      "text": "22. KASUTAJA ANDMED"
+    },
+    {
+      "id": 195,
+      "text": "Me säilitame teatud andmeid, mida sa Teenustesse edastad Teenuste toimivuse haldamise eesmärgil, samuti andmeid, mis on seotud sinu Teenuste kasutamisega. Kuigi me teeme andmetest regulaarseid rutiinseid varukoopiaid, vastutad sa ainuisikuliselt kõigi andmete eest, mida sa edastad või mis on seotud mis tahes tegevusega, mille sa oled Teenuseid kasutades ette võtnud. Sa nõustud, et meil pole sinu ees mingit vastutust selliste andmete kaotuse või riknemise eest ja sa loobud sellega igast hagiõigusest meie vastu, mis tuleneb selliste andmete kaotusest või riknemisest."
+    },
+    {
+      "id": 196,
+      "text": "23. ELEKTROONILINE SIDE, TEHINGUD JA ALLKIRJAD"
+    },
+    {
+      "id": 197,
+      "text": "Teenuste külastamine, meile e-kirjade saatmine ja veebivormide täitmine kujutavad endast elektroonilist sidet. Sa nõustud saama elektroonilist sidet ja nõustud, et kõik lepingud, teatised, avalikustamised ja muu side, mille me sulle elektrooniliselt, e-posti teel ja Teenustes esitame, vastavad igale õiguslikule nõudele, et selline side oleks kirjalik. SA NÕUSTUD SELLEGA ELEKTROONILISTE ALLKIRJADE, LEPINGUTE, TELLIMUSTE JA MUUDE DOKUMENTIDE KASUTAMISEGA NING TEATISTE, EESKIRJADE JA TEHINGUTE DOKUMENTIDE ELEKTROONILISE EDASTAMISEGA, MIS ON ALGATATUD VÕI LÕPETATUD MEIE POOLT VÕI TEENUSTE KAUDU. Sa loobud sellega kõigist õigustest või nõuetest mis tahes põhikirjade, määruste, reeglite, korralduste või muude seaduste alusel mis tahes jurisdiktsioonis, mis nõuavad originaalallkirja või mitteelektrooniliste dokumentide edastamist või säilitamist või makseid või krediidi andmist muude kui elektrooniliste vahenditega."
+    },
+    {
+      "id": 198,
+      "text": "24. CALIFORNIA KASUTAJAD JA ELANIKUD"
+    },
+    {
+      "id": 199,
+      "text": "Kui meie vastu esitatud kaebust rahuldavalt ei lahendata, saad võtta ühendust California tarbijaküsimuste osakonna tarbijateenuste divisjoni kaebuste abistamise üksusega kirjalikult aadressil 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 või telefoni teel numbril (800) 952-5210 või (916) 445-1254."
+    },
+    {
+      "id": 200,
+      "text": "25. MUUD SÄTTED"
+    },
+    {
+      "id": 201,
+      "text": "Need Õiguslikud tingimused ja kõik eeskirjad või tegevusreeglid, mille me Teenustes või Teenuste osas postitame, moodustavad kogu lepingu ja arusaama sinu ja meie vahel. Meie suutmatus rakendada või jõustada Õiguslike tingimuste mis tahes õigust või sätet ei toimi sellisest õigusest või sättest loobumisena. Need Õiguslikud tingimused toimivad täielikus ulatuses, mida seadus lubab. Võime oma õigusi ja kohustusi igal ajal teistele loovutada osaliselt või täielikult. Me ei vastuta ega ole kohustatud ühegi kaotuse, kahju, viivituse või tegutsemata jätmise eest, mis on põhjustatud mis tahes põhjusest, mis on väljaspool meie mõistlikku kontrolli. Kui Õiguslike tingimuste mis tahes säte või sätte osa leitakse olevat ebaseaduslik, tühine või jõustamatu, peetakse seda sätet või sätte osa nendest Õiguslikest tingimustest eraldatavaks ja see ei mõjuta ülejäänud sätete kehtivust ega jõustatavust. Sinu ja meie vahel ei looda nende Õiguslike tingimuste või Teenuste kasutamise tulemusena ühist ettevõtet, partnerlust, töösuhet ega esindussuhet. Sa nõustud, et neid Õiguslikke tingimusi ei tõlgendata meie vastu sel põhjusel, et me need koostasime. Sa loobud sellega kõigist kaitseväidetest, mis sul võivad olla nende Õiguslike tingimuste elektroonilise vormi ja poolte allkirja puudumise põhjal nende Õiguslike tingimuste täitmiseks."
+    },
+    {
+      "id": 202,
+      "text": "26. VÕTA MEIEGA ÜHENDUST"
+    },
+    {
+      "id": 203,
+      "text": "Teenuste kohta kaebuse lahendamiseks või Teenuste kasutamise kohta lisateabe saamiseks võta meiega ühendust aadressil:"
+    },
+    {
+      "id": 204,
+      "text": "Tava Labs, LLC"
+    },
+    {
+      "id": 205,
+      "text": "1521 Blake St STE 95593"
+    },
+    {
+      "id": 206,
+      "text": "Denver, CO 80202"
+    },
+    {
+      "id": 207,
+      "text": "United States"
+    },
+    {
+      "id": 208,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 209,
+      "text": "Need Tingimused loodi Termly "
+    },
+    {
+      "id": 210,
+      "text": "Tingimuste generaatori"
+    },
+    {
+      "id": 211,
+      "text": " abil."
+    }
+  ]
+}

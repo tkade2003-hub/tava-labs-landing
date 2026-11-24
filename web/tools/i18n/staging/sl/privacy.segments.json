@@ -1,0 +1,1319 @@
+{
+ "slug": "privacy",
+ "title": "Politika zasebnosti | Tava Labs",
+ "description": "Kako Tava Labs zbira, uporablja in varuje vaše informacije, ko obiščete tavalabs.app, opravite kviz o koži ali naročite PDRN Brightening Serum.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "Pravno"
+  },
+  {
+   "id": 1,
+   "text": "Politika zasebnosti"
+  },
+  {
+   "id": 2,
+   "text": "Zadnja posodobitev 5. november 2026"
+  },
+  {
+   "id": 3,
+   "text": "To obvestilo o zasebnosti za Tava Labs, LLC (posluje kot Tava) (&quot;mi,&quot; &quot;nas&quot; ali &quot;naš&quot;) opisuje, kako in zakaj lahko dostopamo do vaših osebnih podatkov, jih zbiramo, shranjujemo, uporabljamo in/ali delimo (&quot;obdelujemo&quot;), ko uporabljate naše storitve (&quot;Storitve&quot;), vključno, ko:"
+  },
+  {
+   "id": 4,
+   "text": "Obiščete naše spletno mesto na "
+  },
+  {
+   "id": 5,
+   "text": "http://www.tavalabs.app"
+  },
+  {
+   "id": 6,
+   "text": " ali katero koli naše spletno mesto, ki povezuje na to obvestilo o zasebnosti"
+  },
+  {
+   "id": 7,
+   "text": "Uporabite Founder Wellness Score. Platformo dobrega počutja za ustanovitelje in vodstvene delavce za merjenje njihovega stresa, spanja in videza ter prejemanje priporočil za prehranska dopolnila in peptidov na recept."
+  },
+  {
+   "id": 8,
+   "text": "Z nami sodelujete na druge povezane načine, vključno s trženjem ali dogodki"
+  },
+  {
+   "id": 9,
+   "text": "Vprašanja ali pomisleki?"
+  },
+  {
+   "id": 10,
+   "text": " Branje tega obvestila o zasebnosti vam bo pomagalo razumeti vaše pravice do zasebnosti in izbire. Odgovorni smo za sprejemanje odločitev o tem, kako se vaši osebni podatki obdelujejo. Če se ne strinjate z našimi politikami in praksami, ne uporabljajte naših Storitev. Če imate še vedno kakršna koli vprašanja ali pomisleke, nas kontaktirajte na "
+  },
+  {
+   "id": 11,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 12,
+   "text": "."
+  },
+  {
+   "id": 13,
+   "text": "POVZETEK KLJUČNIH TOČK"
+  },
+  {
+   "id": 14,
+   "text": "Ta povzetek vsebuje ključne točke iz našega obvestila o zasebnosti, več podrobnosti o kateri koli od teh tem pa lahko najdete s klikom na povezavo za vsako ključno točko ali z uporabo našega "
+  },
+  {
+   "id": 15,
+   "text": "kazala"
+  },
+  {
+   "id": 16,
+   "text": " spodaj, da najdete oddelek, ki ga iščete."
+  },
+  {
+   "id": 17,
+   "text": "Katere osebne podatke obdelujemo?"
+  },
+  {
+   "id": 18,
+   "text": " Ko obiščete, uporabljate ali se pomikate po naših Storitvah, lahko obdelujemo osebne podatke glede na to, kako komunicirate z nami in Storitvami, izbire, ki jih naredite, ter izdelke in funkcije, ki jih uporabljate. Več o "
+  },
+  {
+   "id": 19,
+   "text": "osebnih podatkih, ki nam jih razkrijete"
+  },
+  {
+   "id": 20,
+   "text": "."
+  },
+  {
+   "id": 21,
+   "text": "Ali obdelujemo kakršne koli občutljive osebne podatke?"
+  },
+  {
+   "id": 22,
+   "text": " Nekatere informacije se lahko v določenih jurisdikcijah štejejo za &quot;posebne&quot; ali &quot;občutljive&quot;, na primer vaše rasno ali etnično poreklo, spolna usmerjenost in verska prepričanja. Občutljive osebne podatke lahko obdelujemo, kadar je to potrebno, z vašim soglasjem ali kot drugače dovoljuje veljavna zakonodaja. Več o "
+  },
+  {
+   "id": 23,
+   "text": "občutljivih informacijah, ki jih obdelujemo"
+  },
+  {
+   "id": 24,
+   "text": "."
+  },
+  {
+   "id": 25,
+   "text": "Ali zbiramo kakršne koli informacije od tretjih oseb?"
+  },
+  {
+   "id": 26,
+   "text": " Od tretjih oseb ne zbiramo nobenih informacij."
+  },
+  {
+   "id": 27,
+   "text": "Kako obdelujemo vaše informacije?"
+  },
+  {
+   "id": 28,
+   "text": " Vaše informacije obdelujemo za zagotavljanje, izboljševanje in upravljanje naših Storitev, komuniciranje z vami, za varnost in preprečevanje goljufij ter za skladnost z zakonom. Vaše informacije lahko obdelujemo tudi za druge namene z vašim soglasjem. Vaše informacije obdelujemo samo, kadar imamo za to veljaven pravni razlog. Več o "
+  },
+  {
+   "id": 29,
+   "text": "tem, kako obdelujemo vaše informacije"
+  },
+  {
+   "id": 30,
+   "text": "."
+  },
+  {
+   "id": 31,
+   "text": "V katerih situacijah in s katerimi strankami delimo osebne podatke?"
+  },
+  {
+   "id": 32,
+   "text": " Informacije lahko delimo v posebnih situacijah in s posebnimi tretjimi osebami. Več o "
+  },
+  {
+   "id": 33,
+   "text": "tem, kdaj in s kom delimo vaše osebne podatke"
+  },
+  {
+   "id": 34,
+   "text": "."
+  },
+  {
+   "id": 35,
+   "text": "Kako varujemo vaše informacije?"
+  },
+  {
+   "id": 36,
+   "text": " Imamo ustrezne organizacijske in tehnične procese in postopke za zaščito vaših osebnih podatkov. Vendar noben elektronski prenos prek interneta ali tehnologija shranjevanja informacij ne more biti zagotovljeno 100-odstotno varen, zato ne moremo obljubiti ali jamčiti, da hekerji, kibernetski kriminalci ali druge nepooblaščene tretje osebe ne bodo mogli premagati naše varnosti in neustrezno zbirati, dostopati, ukrasti ali spreminjati vaših informacij. Več o "
+  },
+  {
+   "id": 37,
+   "text": "tem, kako varujemo vaše informacije"
+  },
+  {
+   "id": 38,
+   "text": "."
+  },
+  {
+   "id": 39,
+   "text": "Kakšne so vaše pravice?"
+  },
+  {
+   "id": 40,
+   "text": " Glede na to, kje geografsko prebivate, lahko veljavna zakonodaja o zasebnosti pomeni, da imate določene pravice glede svojih osebnih podatkov. Več o "
+  },
+  {
+   "id": 41,
+   "text": "vaših pravicah do zasebnosti"
+  },
+  {
+   "id": 42,
+   "text": "."
+  },
+  {
+   "id": 43,
+   "text": "Kako uveljavljate svoje pravice?"
+  },
+  {
+   "id": 44,
+   "text": " Najlažji način za uveljavljanje vaših pravic je obisk "
+  },
+  {
+   "id": 45,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 46,
+   "text": ", ali tako, da nas kontaktirate. Vsako zahtevo bomo obravnavali in nanjo ukrepali v skladu z veljavnimi zakoni o varstvu podatkov."
+  },
+  {
+   "id": 47,
+   "text": "Želite izvedeti več o tem, kaj počnemo s podatki, ki jih zbiramo? "
+  },
+  {
+   "id": 48,
+   "text": "Preglejte obvestilo o zasebnosti v celoti"
+  },
+  {
+   "id": 49,
+   "text": "."
+  },
+  {
+   "id": 50,
+   "text": "KAZALO"
+  },
+  {
+   "id": 51,
+   "text": "1. KATERE INFORMACIJE ZBIRAMO?"
+  },
+  {
+   "id": 52,
+   "text": "2. KAKO OBDELUJEMO VAŠE INFORMACIJE?"
+  },
+  {
+   "id": 53,
+   "text": "3. KDAJ IN S KOM DELIMO VAŠE OSEBNE PODATKE?"
+  },
+  {
+   "id": 54,
+   "text": "4. ALI UPORABLJAMO PIŠKOTKE IN DRUGE TEHNOLOGIJE SLEDENJA?"
+  },
+  {
+   "id": 55,
+   "text": "5. ALI PONUJAMO IZDELKE NA PODLAGI UMETNE INTELIGENCE?"
+  },
+  {
+   "id": 56,
+   "text": "6. KAKO RAVNAMO Z VAŠIMI PRIJAVAMI PREK DRUŽBENIH OMREŽIJ?"
+  },
+  {
+   "id": 57,
+   "text": "7. KAKO DOLGO HRANIMO VAŠE INFORMACIJE?"
+  },
+  {
+   "id": 58,
+   "text": "8. KAKO VARUJEMO VAŠE INFORMACIJE?"
+  },
+  {
+   "id": 59,
+   "text": "9. ALI ZBIRAMO INFORMACIJE OD MLADOLETNIKOV?"
+  },
+  {
+   "id": 60,
+   "text": "10. KAKŠNE SO VAŠE PRAVICE DO ZASEBNOSTI?"
+  },
+  {
+   "id": 61,
+   "text": "11. NADZOR ZA FUNKCIJE NE SLEDI"
+  },
+  {
+   "id": 62,
+   "text": "12. ALI IMAJO PREBIVALCI ZDRUŽENIH DRŽAV AMERIKE POSEBNE PRAVICE DO ZASEBNOSTI?"
+  },
+  {
+   "id": 63,
+   "text": "13. ALI POSODABLJAMO TO OBVESTILO?"
+  },
+  {
+   "id": 64,
+   "text": "14. KAKO NAS LAHKO KONTAKTIRATE GLEDE TEGA OBVESTILA?"
+  },
+  {
+   "id": 65,
+   "text": "15. KAKO LAHKO PREGLEDATE, POSODOBITE ALI IZBRIŠETE PODATKE, KI JIH ZBIRAMO OD VAS?"
+  },
+  {
+   "id": 66,
+   "text": "1. KATERE INFORMACIJE ZBIRAMO?"
+  },
+  {
+   "id": 67,
+   "text": "Osebni podatki, ki nam jih razkrijete"
+  },
+  {
+   "id": 68,
+   "text": "Na kratko: Zbiramo osebne podatke, ki nam jih posredujete."
+  },
+  {
+   "id": 69,
+   "text": "Zbiramo osebne podatke, ki nam jih prostovoljno posredujete, ko se registrirate v Storitvah, izrazite zanimanje za pridobitev informacij o nas ali naših izdelkih in Storitvah, ko sodelujete v dejavnostih v Storitvah ali kako drugače, ko nas kontaktirate."
+  },
+  {
+   "id": 70,
+   "text": "Osebni podatki, ki ste jih posredovali vi."
+  },
+  {
+   "id": 71,
+   "text": " Osebni podatki, ki jih zbiramo, so odvisni od konteksta vaših interakcij z nami in Storitvami, izbir, ki jih naredite, ter izdelkov in funkcij, ki jih uporabljate. Osebni podatki, ki jih zbiramo, lahko vključujejo naslednje:"
+  },
+  {
+   "id": 72,
+   "text": "imena"
+  },
+  {
+   "id": 73,
+   "text": "e-poštne naslove"
+  },
+  {
+   "id": 74,
+   "text": "gesla"
+  },
+  {
+   "id": 75,
+   "text": "naslove za izstavitev računa"
+  },
+  {
+   "id": 76,
+   "text": "številke debetnih/kreditnih kartic"
+  },
+  {
+   "id": 77,
+   "text": "Občutljive informacije."
+  },
+  {
+   "id": 78,
+   "text": " Kadar je potrebno, z vašim soglasjem ali kot drugače dovoljuje veljavna zakonodaja, obdelujemo naslednje kategorije občutljivih informacij:"
+  },
+  {
+   "id": 79,
+   "text": "zdravstvene podatke"
+  },
+  {
+   "id": 80,
+   "text": "Podatki o plačilu."
+  },
+  {
+   "id": 81,
+   "text": " Če se odločite za nakupe, lahko zbiramo podatke, potrebne za obdelavo vašega plačila, kot sta številka vašega plačilnega instrumenta in varnostna koda, povezana z vašim plačilnim instrumentom. Vse podatke o plačilu obdeluje in shranjuje Stripe, Inc. Njihove povezave do obvestila o zasebnosti najdete tukaj: "
+  },
+  {
+   "id": 82,
+   "text": "https://stripe.com/privacy-policy"
+  },
+  {
+   "id": 83,
+   "text": "."
+  },
+  {
+   "id": 84,
+   "text": "Podatki za prijavo prek družbenih omrežij."
+  },
+  {
+   "id": 85,
+   "text": " Lahko vam damo možnost, da se pri nas registrirate z uporabo podatkov svojega obstoječega računa v družbenem omrežju, kot je Facebook, X ali drug račun v družbenem omrežju. Če se odločite za registracijo na ta način, bomo od ponudnika družbenega omrežja zbrali določene informacije o vašem profilu, kot je opisano v oddelku z naslovom &quot;"
+  },
+  {
+   "id": 86,
+   "text": "KAKO RAVNAMO Z VAŠIMI PRIJAVAMI PREK DRUŽBENIH OMREŽIJ?"
+  },
+  {
+   "id": 87,
+   "text": "&quot; spodaj."
+  },
+  {
+   "id": 88,
+   "text": "Vsi osebni podatki, ki nam jih posredujete, morajo biti resnični, popolni in točni, o vseh spremembah takšnih osebnih podatkov pa nas morate obvestiti."
+  },
+  {
+   "id": 89,
+   "text": "Informacije, zbrane samodejno"
+  },
+  {
+   "id": 90,
+   "text": "Na kratko: Nekatere informacije, kot sta vaš naslov internetnega protokola (IP) in/ali značilnosti brskalnika in naprave, se zberejo samodejno, ko obiščete naše Storitve."
+  },
+  {
+   "id": 91,
+   "text": "Ko obiščete, uporabljate ali se pomikate po Storitvah, samodejno zbiramo določene informacije. Te informacije ne razkrivajo vaše posebne identitete (kot sta vaše ime ali kontaktni podatki), lahko pa vključujejo informacije o napravi in uporabi, kot so vaš naslov IP, značilnosti brskalnika in naprave, operacijski sistem, jezikovne nastavitve, napotitveni URL-ji, ime naprave, država, lokacija, informacije o tem, kako in kdaj uporabljate naše Storitve, in druge tehnične informacije. Te informacije so primarno potrebne za ohranjanje varnosti in delovanja naših Storitev ter za naše namene notranje analitike in poročanja."
+  },
+  {
+   "id": 92,
+   "text": "Informacije, ki jih zbiramo, vključujejo:"
+  },
+  {
+   "id": 93,
+   "text": "Podatke o dnevnikih in uporabi."
+  },
+  {
+   "id": 94,
+   "text": " Podatki o dnevnikih in uporabi so informacije, povezane s storitvijo, diagnostične informacije ter informacije o uporabi in učinkovitosti, ki jih naši strežniki samodejno zberejo, ko dostopate do naših Storitev ali jih uporabljate, in ki jih zabeležimo v dnevniške datoteke. Glede na to, kako komunicirate z nami, lahko ti dnevniški podatki vključujejo vaš naslov IP, informacije o napravi, vrsto brskalnika in nastavitve ter informacije o vaši dejavnosti v Storitvah (kot so časovni žigi datuma in časa, povezani z vašo uporabo, ogledane strani in datoteke, iskanja in druga dejanja, ki jih izvedete, kot so funkcije, ki jih uporabljate), informacije o dogodkih naprave (kot so dejavnost sistema, poročila o napakah (včasih imenovana &quot;izpisi ob zrušitvi&quot;) in nastavitve strojne opreme)."
+  },
+  {
+   "id": 95,
+   "text": "Podatke o napravi."
+  },
+  {
+   "id": 96,
+   "text": " Zbiramo podatke o napravi, kot so informacije o vašem računalniku, telefonu, tablici ali drugi napravi, ki jo uporabljate za dostop do Storitev. Glede na uporabljeno napravo lahko ti podatki o napravi vključujejo informacije, kot so vaš naslov IP (ali posredniški strežnik), identifikacijske številke naprave in aplikacije, lokacija, vrsta brskalnika, model strojne opreme, ponudnik internetnih storitev in/ali mobilni operater, operacijski sistem in informacije o konfiguraciji sistema."
+  },
+  {
+   "id": 97,
+   "text": "Podatke o lokaciji."
+  },
+  {
+   "id": 98,
+   "text": " Zbiramo podatke o lokaciji, kot so informacije o lokaciji vaše naprave, ki so lahko natančne ali nenatančne. Koliko informacij zberemo, je odvisno od vrste in nastavitev naprave, ki jo uporabljate za dostop do Storitev. Za zbiranje podatkov o geolokaciji, ki nam povedo vašo trenutno lokacijo (na podlagi vašega naslova IP), lahko na primer uporabimo GPS in druge tehnologije. Zbiranje teh informacij nam lahko onemogočite tako, da zavrnete dostop do informacij ali onemogočite nastavitev Lokacija na svoji napravi. Če se odločite za izključitev, morda ne boste mogli uporabljati določenih vidikov Storitev."
+  },
+  {
+   "id": 99,
+   "text": "2. KAKO OBDELUJEMO VAŠE INFORMACIJE?"
+  },
+  {
+   "id": 100,
+   "text": "Na kratko: Vaše informacije obdelujemo za zagotavljanje, izboljševanje in upravljanje naših Storitev, komuniciranje z vami, za varnost in preprečevanje goljufij ter za skladnost z zakonom. Vaše informacije lahko obdelujemo tudi za druge namene z vašim soglasjem."
+  },
+  {
+   "id": 101,
+   "text": "Vaše osebne podatke obdelujemo iz različnih razlogov, odvisno od tega, kako komunicirate z našimi Storitvami, vključno:"
+  },
+  {
+   "id": 102,
+   "text": "Za olajšanje ustvarjanja računa in avtentikacije ter kako drugače upravljanje uporabniških računov."
+  },
+  {
+   "id": 103,
+   "text": " Vaše informacije lahko obdelujemo, da lahko ustvarite račun in se vanj prijavite ter ohranjate svoj račun v delujočem stanju."
+  },
+  {
+   "id": 104,
+   "text": "Za dostavo in olajšanje dostave storitev uporabniku."
+  },
+  {
+   "id": 105,
+   "text": " Vaše informacije lahko obdelujemo, da vam zagotovimo zahtevano storitev."
+  },
+  {
+   "id": 106,
+   "text": "Za odgovarjanje na poizvedbe uporabnikov in nudenje podpore uporabnikom."
+  },
+  {
+   "id": 107,
+   "text": " Vaše informacije lahko obdelujemo, da odgovorimo na vaše poizvedbe in rešimo morebitne težave, ki bi jih lahko imeli z zahtevano storitvijo."
+  },
+  {
+   "id": 108,
+   "text": "Za pošiljanje upravnih informacij vam."
+  },
+  {
+   "id": 109,
+   "text": " Vaše informacije lahko obdelujemo, da vam pošljemo podrobnosti o naših izdelkih in storitvah, spremembah naših pogojev in politik ter druge podobne informacije."
+  },
+  {
+   "id": 110,
+   "text": "Za izpolnjevanje in upravljanje vaših naročil."
+  },
+  {
+   "id": 111,
+   "text": " Vaše informacije lahko obdelujemo za izpolnjevanje in upravljanje vaših naročil, plačil, vračil in zamenjav, opravljenih prek Storitev."
+  },
+  {
+   "id": 112,
+   "text": "Za zahtevanje povratnih informacij."
+  },
+  {
+   "id": 113,
+   "text": " Vaše informacije lahko obdelujemo, kadar je potrebno zahtevati povratne informacije in vas kontaktirati glede vaše uporabe naših Storitev."
+  },
+  {
+   "id": 114,
+   "text": "Za objavo pričevanj."
+  },
+  {
+   "id": 115,
+   "text": " V naših Storitvah objavljamo pričevanja, ki lahko vsebujejo osebne podatke."
+  },
+  {
+   "id": 116,
+   "text": "Za ocenjevanje in izboljševanje naših Storitev, izdelkov, trženja in vaše izkušnje."
+  },
+  {
+   "id": 117,
+   "text": " Vaše informacije lahko obdelujemo, kadar menimo, da je to potrebno za prepoznavanje trendov uporabe, določanje učinkovitosti naših promocijskih kampanj ter ocenjevanje in izboljševanje naših Storitev, izdelkov, trženja in vaše izkušnje."
+  },
+  {
+   "id": 118,
+   "text": "Za prepoznavanje trendov uporabe."
+  },
+  {
+   "id": 119,
+   "text": " Informacije o tem, kako uporabljate naše Storitve, lahko obdelujemo, da bolje razumemo, kako se uporabljajo, da jih lahko izboljšamo."
+  },
+  {
+   "id": 120,
+   "text": "3. KDAJ IN S KOM DELIMO VAŠE OSEBNE PODATKE?"
+  },
+  {
+   "id": 121,
+   "text": "Na kratko: Informacije lahko delimo v posebnih situacijah, opisanih v tem oddelku, in/ali z naslednjimi tretjimi osebami."
+  },
+  {
+   "id": 122,
+   "text": "Vaše osebne podatke bomo morda morali deliti v naslednjih situacijah:"
+  },
+  {
+   "id": 123,
+   "text": "Poslovni prenosi."
+  },
+  {
+   "id": 124,
+   "text": " Vaše informacije lahko delimo ali prenesemo v povezavi z ali med pogajanji o kakršni koli združitvi, prodaji sredstev družbe, financiranju ali prevzemu celotnega ali dela našega poslovanja s strani druge družbe."
+  },
+  {
+   "id": 125,
+   "text": "Poslovni partnerji."
+  },
+  {
+   "id": 126,
+   "text": " Vaše informacije lahko delimo z našimi poslovnimi partnerji, da vam ponudimo določene izdelke, storitve ali promocije."
+  },
+  {
+   "id": 127,
+   "text": "4. ALI UPORABLJAMO PIŠKOTKE IN DRUGE TEHNOLOGIJE SLEDENJA?"
+  },
+  {
+   "id": 128,
+   "text": "Na kratko: Za zbiranje in shranjevanje vaših informacij lahko uporabljamo piškotke in druge tehnologije sledenja."
+  },
+  {
+   "id": 129,
+   "text": "Za zbiranje informacij, ko komunicirate z našimi Storitvami, lahko uporabljamo piškotke in podobne tehnologije sledenja (kot so spletni svetilniki in slikovne pike). Nekatere tehnologije spletnega sledenja nam pomagajo ohranjati varnost naših Storitev in vašega računa, preprečevati zrušitve, odpravljati hrošče, shranjevati vaše nastavitve in pomagati pri osnovnih funkcijah spletnega mesta."
+  },
+  {
+   "id": 130,
+   "text": "Tretjim osebam in ponudnikom storitev prav tako dovolimo uporabo tehnologij spletnega sledenja v naših Storitvah za analitiko in oglaševanje, vključno s pomočjo pri upravljanju in prikazovanju oglasov ali prilagajanju oglasov vašim interesom. Tretje osebe in ponudniki storitev uporabljajo svojo tehnologijo za zagotavljanje oglaševanja o izdelkih in storitvah, prilagojenih vašim interesom, ki se lahko pojavijo bodisi v naših Storitvah bodisi na drugih spletnih mestih."
+  },
+  {
+   "id": 131,
+   "text": "V obsegu, v katerem se te tehnologije spletnega sledenja štejejo za &quot;prodajo&quot;/&quot;deljenje&quot; (kar vključuje ciljno oglaševanje, kot je opredeljeno v veljavnih zakonih) po veljavnih zakonih zveznih držav ZDA, lahko te tehnologije spletnega sledenja izključite s predložitvijo zahteve, kot je opisano spodaj v oddelku &quot;"
+  },
+  {
+   "id": 132,
+   "text": "ALI IMAJO PREBIVALCI ZDRUŽENIH DRŽAV AMERIKE POSEBNE PRAVICE DO ZASEBNOSTI?"
+  },
+  {
+   "id": 133,
+   "text": "&quot;"
+  },
+  {
+   "id": 134,
+   "text": "Posebne informacije o tem, kako uporabljamo takšne tehnologije in kako lahko zavrnete določene piškotke, so navedene v našem Obvestilu o piškotkih."
+  },
+  {
+   "id": 135,
+   "text": "Google Analytics"
+  },
+  {
+   "id": 136,
+   "text": "Vaše informacije lahko delimo z Google Analytics za sledenje in analizo uporabe Storitev. Funkcije oglaševanja Google Analytics, ki jih lahko uporabljamo, vključujejo: poročanje o prikazih v prikaznem omrežju Google in poročanje o demografiji in interesih Google Analytics. Za izključitev sledenja Google Analytics v Storitvah obiščite "
+  },
+  {
+   "id": 137,
+   "text": "https://tools.google.com/dlpage/gaoptout"
+  },
+  {
+   "id": 138,
+   "text": ". Funkcije oglaševanja Google Analytics lahko izključite prek "
+  },
+  {
+   "id": 139,
+   "text": "Nastavitev oglasov"
+  },
+  {
+   "id": 140,
+   "text": " in Nastavitev oglasov za mobilne aplikacije. Druga sredstva za izključitev vključujejo "
+  },
+  {
+   "id": 141,
+   "text": "http://optout.networkadvertising.org/"
+  },
+  {
+   "id": 142,
+   "text": " in "
+  },
+  {
+   "id": 143,
+   "text": "http://www.networkadvertising.org/mobile-choice"
+  },
+  {
+   "id": 144,
+   "text": ". Za več informacij o praksah zasebnosti družbe Google obiščite "
+  },
+  {
+   "id": 145,
+   "text": "stran Zasebnost in pogoji Google"
+  },
+  {
+   "id": 146,
+   "text": "."
+  },
+  {
+   "id": 147,
+   "text": "5. ALI PONUJAMO IZDELKE NA PODLAGI UMETNE INTELIGENCE?"
+  },
+  {
+   "id": 148,
+   "text": "Na kratko: Ponujamo izdelke, funkcije ali orodja, ki jih poganja umetna inteligenca, strojno učenje ali podobne tehnologije."
+  },
+  {
+   "id": 149,
+   "text": "Kot del naših Storitev ponujamo izdelke, funkcije ali orodja, ki jih poganja umetna inteligenca, strojno učenje ali podobne tehnologije (skupaj \"Izdelki UI\"). Ta orodja so zasnovana za izboljšanje vaše izkušnje in zagotavljanje inovativnih rešitev. Pogoji v tem obvestilu o zasebnosti urejajo vašo uporabo Izdelkov UI znotraj naših Storitev."
+  },
+  {
+   "id": 150,
+   "text": "Uporaba tehnologij UI"
+  },
+  {
+   "id": 151,
+   "text": "Izdelke UI zagotavljamo prek ponudnikov storitev tretjih oseb (\"Ponudniki storitev UI\"), vključno z OpenAI. Kot je opisano v tem obvestilu o zasebnosti, bodo vaši vnosi, izhodi in osebni podatki deljeni s temi Ponudniki storitev UI in jih bodo obdelovali, da omogočijo vašo uporabo naših Izdelkov UI za namene, opisane v &quot;"
+  },
+  {
+   "id": 152,
+   "text": "KDAJ IN S KOM DELIMO VAŠE OSEBNE PODATKE?"
+  },
+  {
+   "id": 153,
+   "text": "&quot; Izdelkov UI ne smete uporabljati na noben način, ki krši pogoje ali politike katerega koli Ponudnika storitev UI."
+  },
+  {
+   "id": 154,
+   "text": "Naši Izdelki UI"
+  },
+  {
+   "id": 155,
+   "text": "Naši Izdelki UI so zasnovani za naslednje funkcije:"
+  },
+  {
+   "id": 156,
+   "text": "Vpogledi UI"
+  },
+  {
+   "id": 157,
+   "text": "Kako obdelujemo vaše podatke z uporabo UI"
+  },
+  {
+   "id": 158,
+   "text": "Vsi osebni podatki, obdelani z uporabo naših Izdelkov UI, se obravnavajo v skladu z našim obvestilom o zasebnosti in našim sporazumom s tretjimi osebami. To zagotavlja visoko varnost in varuje vaše osebne podatke skozi celoten postopek ter vam daje mir glede varnosti vaših podatkov."
+  },
+  {
+   "id": 159,
+   "text": "6. KAKO RAVNAMO Z VAŠIMI PRIJAVAMI PREK DRUŽBENIH OMREŽIJ?"
+  },
+  {
+   "id": 160,
+   "text": "Na kratko: Če se odločite za registracijo ali prijavo v naše Storitve z uporabo računa v družbenem omrežju, lahko imamo dostop do določenih informacij o vas."
+  },
+  {
+   "id": 161,
+   "text": "Naše Storitve vam ponujajo možnost registracije in prijave z uporabo podatkov vašega računa v družbenem omrežju tretje osebe (kot so vaše prijave Facebook ali X). Kjer se odločite za to, bomo od vašega ponudnika družbenega omrežja prejeli določene informacije o vašem profilu. Informacije o profilu, ki jih prejmemo, se lahko razlikujejo glede na zadevnega ponudnika družbenega omrežja, pogosto pa bodo vključevale vaše ime, e-poštni naslov, seznam prijateljev in sliko profila ter druge informacije, ki jih na takšni platformi družbenega omrežja izberete za javne."
+  },
+  {
+   "id": 162,
+   "text": "Informacije, ki jih prejmemo, bomo uporabljali samo za namene, opisane v tem obvestilu o zasebnosti ali ki so vam kako drugače jasno predstavljeni v ustreznih Storitvah. Upoštevajte, da ne nadzorujemo in nismo odgovorni za druge uporabe vaših osebnih podatkov s strani vašega ponudnika družbenega omrežja tretje osebe. Priporočamo, da pregledate njihovo obvestilo o zasebnosti, da razumete, kako zbirajo, uporabljajo in delijo vaše osebne podatke ter kako lahko nastavite svoje nastavitve zasebnosti na njihovih spletnih mestih in v aplikacijah."
+  },
+  {
+   "id": 163,
+   "text": "7. KAKO DOLGO HRANIMO VAŠE INFORMACIJE?"
+  },
+  {
+   "id": 164,
+   "text": "Na kratko: Vaše informacije hranimo tako dolgo, kot je potrebno za izpolnitev namenov, opisanih v tem obvestilu o zasebnosti, razen če zakon zahteva drugače."
+  },
+  {
+   "id": 165,
+   "text": "Vaše osebne podatke bomo hranili samo tako dolgo, kot je potrebno za namene, določene v tem obvestilu o zasebnosti, razen če zakon zahteva ali dovoljuje daljše obdobje hrambe (kot so davčne, računovodske ali druge pravne zahteve). Noben namen v tem obvestilu ne bo zahteval, da vaše osebne podatke hranimo dlje kot obdobje, v katerem imajo uporabniki pri nas račun."
+  },
+  {
+   "id": 166,
+   "text": "Ko nimamo tekoče zakonite poslovne potrebe po obdelavi vaših osebnih podatkov, bomo takšne informacije izbrisali ali anonimizirali, ali, če to ni mogoče (na primer, ker so bili vaši osebni podatki shranjeni v arhivih varnostnih kopij), bomo vaše osebne podatke varno shranili in jih izolirali od nadaljnje obdelave, dokler izbris ne bo mogoč."
+  },
+  {
+   "id": 167,
+   "text": "8. KAKO VARUJEMO VAŠE INFORMACIJE?"
+  },
+  {
+   "id": 168,
+   "text": "Na kratko: Prizadevamo si zaščititi vaše osebne podatke s sistemom organizacijskih in tehničnih varnostnih ukrepov."
+  },
+  {
+   "id": 169,
+   "text": "Izvedli smo ustrezne in razumne tehnične in organizacijske varnostne ukrepe, zasnovane za zaščito varnosti vseh osebnih podatkov, ki jih obdelujemo. Vendar kljub našim zaščitnim ukrepom in prizadevanjem za varovanje vaših informacij noben elektronski prenos prek interneta ali tehnologija shranjevanja informacij ne more biti zagotovljeno 100-odstotno varen, zato ne moremo obljubiti ali jamčiti, da hekerji, kibernetski kriminalci ali druge nepooblaščene tretje osebe ne bodo mogli premagati naše varnosti in neustrezno zbirati, dostopati, ukrasti ali spreminjati vaših informacij. Čeprav bomo storili vse, da zaščitimo vaše osebne podatke, je prenos osebnih podatkov do naših Storitev in iz njih na vaše lastno tveganje. Do Storitev dostopajte samo v varnem okolju."
+  },
+  {
+   "id": 170,
+   "text": "9. ALI ZBIRAMO INFORMACIJE OD MLADOLETNIKOV?"
+  },
+  {
+   "id": 171,
+   "text": "Na kratko: Zavestno ne zbiramo podatkov od otrok, mlajših od 18 let, niti jim ne tržimo."
+  },
+  {
+   "id": 172,
+   "text": "Zavestno ne zbiramo, ne nagovarjamo za podatke in ne tržimo otrokom, mlajšim od 18 let, niti zavestno ne prodajamo takšnih osebnih podatkov. Z uporabo Storitev izjavljate, da ste stari najmanj 18 let ali da ste starš ali skrbnik takšnega mladoletnika in soglašate z uporabo Storitev s strani takšnega mladoletnega vzdrževanca. Če izvemo, da so bili zbrani osebni podatki uporabnikov, mlajših od 18 let, bomo račun deaktivirali in sprejeli razumne ukrepe za takojšen izbris takšnih podatkov iz naših evidenc. Če izveste za kakršne koli podatke, ki smo jih morda zbrali od otrok, mlajših od 18 let, nas kontaktirajte na "
+  },
+  {
+   "id": 173,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 174,
+   "text": "."
+  },
+  {
+   "id": 175,
+   "text": "10. KAKŠNE SO VAŠE PRAVICE DO ZASEBNOSTI?"
+  },
+  {
+   "id": 176,
+   "text": "Umik vašega soglasja:"
+  },
+  {
+   "id": 177,
+   "text": " Če se pri obdelavi vaših osebnih podatkov zanašamo na vaše soglasje, ki je lahko izrecno in/ali implicitno soglasje glede na veljavno zakonodajo, imate pravico kadar koli umakniti svoje soglasje. Svoje soglasje lahko kadar koli umaknete tako, da nas kontaktirate z uporabo kontaktnih podatkov, navedenih v oddelku &quot;"
+  },
+  {
+   "id": 178,
+   "text": "KAKO NAS LAHKO KONTAKTIRATE GLEDE TEGA OBVESTILA?"
+  },
+  {
+   "id": 179,
+   "text": "&quot; spodaj."
+  },
+  {
+   "id": 180,
+   "text": "Vendar upoštevajte, da to ne bo vplivalo na zakonitost obdelave pred njenim umikom niti, kadar veljavna zakonodaja dovoljuje, ne bo vplivalo na obdelavo vaših osebnih podatkov, izvedeno na podlagi zakonitih podlag za obdelavo, ki niso soglasje."
+  },
+  {
+   "id": 181,
+   "text": "Informacije o računu"
+  },
+  {
+   "id": 182,
+   "text": "Če bi kadar koli želeli pregledati ali spremeniti informacije v svojem računu ali ukiniti svoj račun, lahko:"
+  },
+  {
+   "id": 183,
+   "text": "Prijavite se v nastavitve svojega računa in posodobite svoj uporabniški račun."
+  },
+  {
+   "id": 184,
+   "text": "Na vašo zahtevo za ukinitev vašega računa bomo vaš račun in informacije deaktivirali ali izbrisali iz naših aktivnih zbirk podatkov. Vendar lahko nekatere informacije obdržimo v naših datotekah za preprečevanje goljufij, odpravljanje težav, pomoč pri preiskavah, uveljavljanje naših pravnih pogojev in/ali skladnost z veljavnimi pravnimi zahtevami."
+  },
+  {
+   "id": 185,
+   "text": "Če imate vprašanja ali komentarje o svojih pravicah do zasebnosti, nam lahko pišete na "
+  },
+  {
+   "id": 186,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 187,
+   "text": "."
+  },
+  {
+   "id": 188,
+   "text": "11. NADZOR ZA FUNKCIJE NE SLEDI"
+  },
+  {
+   "id": 189,
+   "text": "Večina spletnih brskalnikov ter nekateri mobilni operacijski sistemi in mobilne aplikacije vključujejo funkcijo ali nastavitev Ne sledi (&quot;DNT&quot;), ki jo lahko aktivirate, da sporočite svojo preferenco zasebnosti, da se podatki o vaših dejavnostih spletnega brskanja ne spremljajo in zbirajo. Na tej stopnji ni bil dokončan noben enoten tehnološki standard za prepoznavanje in izvajanje signalov DNT. Kot taki se trenutno ne odzivamo na signale brskalnika DNT ali kateri koli drug mehanizem, ki samodejno sporoča vašo izbiro, da vam ne sledijo prek spleta. Če bo v prihodnosti sprejet standard za spletno sledenje, ki ga moramo upoštevati, vas bomo o tej praksi obvestili v revidirani različici tega obvestila o zasebnosti."
+  },
+  {
+   "id": 190,
+   "text": "Kalifornijska zakonodaja od nas zahteva, da vas obvestimo, kako se odzivamo na signale DNT spletnega brskalnika. Ker trenutno ni industrijskega ali pravnega standarda za prepoznavanje ali spoštovanje signalov DNT, se nanje trenutno ne odzivamo."
+  },
+  {
+   "id": 191,
+   "text": "Globalni nadzor zasebnosti:"
+  },
+  {
+   "id": 192,
+   "text": " Prepoznavamo in spoštujemo signale Globalnega nadzora zasebnosti (GPC). Če uporabljate brskalnik ali razširitev, ki podpira GPC, bomo to obravnavali kot veljavno zahtevo za izključitev prodaje ali deljenja vaših osebnih podatkov za namene ciljnega oglaševanja po veljavnih državnih zakonih o zasebnosti, vključno s Kalifornijskim zakonom o zasebnosti potrošnikov (CCPA). Ko iz vašega brskalnika zaznamo signal GPC, bomo vašo preferenco izključitve samodejno uporabili, ne da bi morali storiti kaj dodatnega. Za več informacij o GPC in kako ga omogočiti obiščite "
+  },
+  {
+   "id": 193,
+   "text": "globalprivacycontrol.org"
+  },
+  {
+   "id": 194,
+   "text": "."
+  },
+  {
+   "id": 195,
+   "text": "12. ALI IMAJO PREBIVALCI ZDRUŽENIH DRŽAV AMERIKE POSEBNE PRAVICE DO ZASEBNOSTI?"
+  },
+  {
+   "id": 196,
+   "text": "Na kratko: Če ste prebivalec Kalifornije, Kolorada, Connecticuta, Delawarea, Floride, Indiane, Iowe, Kentuckyja, Marylanda, Minnesote, Montane, Nebraske, New Hampshirea, New Jerseyja, Oregona, Rhode Islanda, Tennesseeja, Teksasa, Utaha ali Virginije, imate morda pravico zahtevati dostop do osebnih podatkov, ki jih hranimo o vas, in podrobnosti o njih ter o tem, kako smo jih obdelali, popraviti netočnosti, pridobiti izvod ali izbrisati vaše osebne podatke. Prav tako imate morda pravico umakniti svoje soglasje za našo obdelavo vaših osebnih podatkov. Te pravice so lahko v nekaterih okoliščinah omejene z veljavno zakonodajo. Več informacij je navedenih spodaj."
+  },
+  {
+   "id": 197,
+   "text": "Kategorije osebnih podatkov, ki jih zbiramo"
+  },
+  {
+   "id": 198,
+   "text": "Spodnja tabela prikazuje kategorije osebnih podatkov, ki smo jih zbrali v preteklih dvanajstih (12) mesecih. Tabela vključuje ponazoritvene primere vsake kategorije in ne odraža osebnih podatkov, ki jih zbiramo od vas. Za celovit popis vseh osebnih podatkov, ki jih obdelujemo, glejte oddelek &quot;"
+  },
+  {
+   "id": 199,
+   "text": "KATERE INFORMACIJE ZBIRAMO?"
+  },
+  {
+   "id": 200,
+   "text": "&quot;"
+  },
+  {
+   "id": 201,
+   "text": "Kategorija"
+  },
+  {
+   "id": 202,
+   "text": "Primeri"
+  },
+  {
+   "id": 203,
+   "text": "Zbrano"
+  },
+  {
+   "id": 204,
+   "text": "A. Identifikatorji"
+  },
+  {
+   "id": 205,
+   "text": "Kontaktni podatki, kot so pravo ime, vzdevek, poštni naslov, telefonska ali mobilna kontaktna številka, enolični osebni identifikator, spletni identifikator, naslov internetnega protokola, e-poštni naslov in ime računa"
+  },
+  {
+   "id": 206,
+   "text": "DA"
+  },
+  {
+   "id": 207,
+   "text": "B. Osebni podatki, kot so opredeljeni v kalifornijskem zakonu o evidencah strank"
+  },
+  {
+   "id": 208,
+   "text": "Ime, kontaktni podatki, izobrazba, zaposlitev, zgodovina zaposlitve in finančni podatki"
+  },
+  {
+   "id": 209,
+   "text": "DA"
+  },
+  {
+   "id": 210,
+   "text": "C. Značilnosti zaščitene klasifikacije po državnem ali zveznem zakonu"
+  },
+  {
+   "id": 211,
+   "text": "Spol, starost, datum rojstva, rasa in etnična pripadnost, narodnost, zakonski stan in drugi demografski podatki"
+  },
+  {
+   "id": 212,
+   "text": "NE"
+  },
+  {
+   "id": 213,
+   "text": "D. Komercialni podatki"
+  },
+  {
+   "id": 214,
+   "text": "Informacije o transakcijah, zgodovina nakupov, finančne podrobnosti in podatki o plačilu"
+  },
+  {
+   "id": 215,
+   "text": "NE"
+  },
+  {
+   "id": 216,
+   "text": "E. Biometrični podatki"
+  },
+  {
+   "id": 217,
+   "text": "Prstni odtisi in glasovni odtisi"
+  },
+  {
+   "id": 218,
+   "text": "DA"
+  },
+  {
+   "id": 219,
+   "text": "F. Dejavnost na internetu ali drugem podobnem omrežju"
+  },
+  {
+   "id": 220,
+   "text": "Zgodovina brskanja, zgodovina iskanja, spletno vedenje, podatki o interesih in interakcije z našimi in drugimi spletnimi mesti, aplikacijami, sistemi in oglasi"
+  },
+  {
+   "id": 221,
+   "text": "NE"
+  },
+  {
+   "id": 222,
+   "text": "G. Podatki o geolokaciji"
+  },
+  {
+   "id": 223,
+   "text": "Lokacija naprave"
+  },
+  {
+   "id": 224,
+   "text": "NE"
+  },
+  {
+   "id": 225,
+   "text": "H. Zvočni, elektronski, senzorični ali podobni podatki"
+  },
+  {
+   "id": 226,
+   "text": "Slike ter zvočni, video ali klicni posnetki, ustvarjeni v povezavi z našimi poslovnimi dejavnostmi"
+  },
+  {
+   "id": 227,
+   "text": "NE"
+  },
+  {
+   "id": 228,
+   "text": "I. Poklicni podatki ali podatki, povezani z zaposlitvijo"
+  },
+  {
+   "id": 229,
+   "text": "Poslovni kontaktni podatki za zagotavljanje naših Storitev na poslovni ravni ali naziv delovnega mesta, zgodovina dela in poklicne kvalifikacije, če se prijavite na delovno mesto pri nas"
+  },
+  {
+   "id": 230,
+   "text": "NE"
+  },
+  {
+   "id": 231,
+   "text": "J. Podatki o izobrazbi"
+  },
+  {
+   "id": 232,
+   "text": "Evidence študentov in informacije iz imenika"
+  },
+  {
+   "id": 233,
+   "text": "NE"
+  },
+  {
+   "id": 234,
+   "text": "K. Sklepi, izpeljani iz zbranih osebnih podatkov"
+  },
+  {
+   "id": 235,
+   "text": "Sklepi, izpeljani iz katerega koli od zgoraj navedenih zbranih osebnih podatkov za ustvarjanje profila ali povzetka o, na primer, preferencah in značilnostih posameznika"
+  },
+  {
+   "id": 236,
+   "text": "NE"
+  },
+  {
+   "id": 237,
+   "text": "L. Občutljivi osebni podatki"
+  },
+  {
+   "id": 238,
+   "text": "Informacije za prijavo v račun, številke debetnih ali kreditnih kartic, genetski podatki in zdravstveni podatki"
+  },
+  {
+   "id": 239,
+   "text": "DA"
+  },
+  {
+   "id": 240,
+   "text": "Občutljive osebne podatke zbiramo samo, kot so opredeljeni v veljavnih zakonih o zasebnosti ali za namene, ki jih dovoljuje zakon ali z vašim soglasjem. Občutljivi osebni podatki se lahko uporabijo ali razkrijejo ponudniku storitev ali izvajalcu za dodatne, določene namene. Morda imate pravico omejiti uporabo ali razkritje svojih občutljivih osebnih podatkov. Občutljivih osebnih podatkov ne zbiramo ali obdelujemo za namen sklepanja o vaših značilnostih."
+  },
+  {
+   "id": 241,
+   "text": "Osebne podatke lahko zbiramo tudi zunaj teh kategorij prek primerov, ko z nami komunicirate osebno, prek spleta ali po telefonu ali pošti v kontekstu:"
+  },
+  {
+   "id": 242,
+   "text": "Prejemanja pomoči prek naših kanalov podpore strankam;"
+  },
+  {
+   "id": 243,
+   "text": "Sodelovanja v anketah strank ali nagradnih igrah; in"
+  },
+  {
+   "id": 244,
+   "text": "Omogočanja dostave naših Storitev in odgovarjanja na vaše poizvedbe."
+  },
+  {
+   "id": 245,
+   "text": "Zbrane osebne podatke bomo uporabljali in hranili, kot je potrebno za zagotavljanje Storitev ali za:"
+  },
+  {
+   "id": 246,
+   "text": "Kategorija A: Dokler ima uporabnik pri nas račun"
+  },
+  {
+   "id": 247,
+   "text": "Kategorija B: Dokler ima uporabnik pri nas račun"
+  },
+  {
+   "id": 248,
+   "text": "Kategorija E: Dokler ima uporabnik pri nas račun"
+  },
+  {
+   "id": 249,
+   "text": "Kategorija L: Dokler ima uporabnik pri nas račun"
+  },
+  {
+   "id": 250,
+   "text": "Viri osebnih podatkov"
+  },
+  {
+   "id": 251,
+   "text": "Več o virih osebnih podatkov, ki jih zbiramo, v &quot;"
+  },
+  {
+   "id": 252,
+   "text": "KATERE INFORMACIJE ZBIRAMO?"
+  },
+  {
+   "id": 253,
+   "text": "&quot;"
+  },
+  {
+   "id": 254,
+   "text": "Kako uporabljamo in delimo osebne podatke"
+  },
+  {
+   "id": 255,
+   "text": "Več o tem, kako uporabljamo vaše osebne podatke, v oddelku &quot;"
+  },
+  {
+   "id": 256,
+   "text": "KAKO OBDELUJEMO VAŠE INFORMACIJE?"
+  },
+  {
+   "id": 257,
+   "text": "&quot;"
+  },
+  {
+   "id": 258,
+   "text": "Ali bodo vaše informacije deljene še s kom?"
+  },
+  {
+   "id": 259,
+   "text": "Vaše osebne podatke lahko razkrijemo našim ponudnikom storitev na podlagi pisne pogodbe med nami in vsakim ponudnikom storitev. Več o tem, kako razkrivamo osebne podatke, v oddelku &quot;"
+  },
+  {
+   "id": 260,
+   "text": "KDAJ IN S KOM DELIMO VAŠE OSEBNE PODATKE?"
+  },
+  {
+   "id": 261,
+   "text": "&quot;"
+  },
+  {
+   "id": 262,
+   "text": "Vaše osebne podatke lahko uporabljamo za lastne poslovne namene, kot je izvajanje notranjih raziskav za tehnološki razvoj in predstavitve. To se ne šteje za &quot;prodajo&quot; vaših osebnih podatkov."
+  },
+  {
+   "id": 263,
+   "text": "V preteklih dvanajstih (12) mesecih nismo razkrili, prodali ali delili nobenih osebnih podatkov tretjim osebam za poslovni ali komercialni namen. V prihodnosti ne bomo prodajali ali delili osebnih podatkov, ki pripadajo obiskovalcem spletnega mesta, uporabnikom in drugim potrošnikom."
+  },
+  {
+   "id": 264,
+   "text": "Vaše pravice"
+  },
+  {
+   "id": 265,
+   "text": "Imate pravice po določenih zakonih o varstvu podatkov zveznih držav ZDA. Vendar te pravice niso absolutne in v določenih primerih lahko vašo zahtevo zavrnemo, kot dovoljuje zakon. Te pravice vključujejo:"
+  },
+  {
+   "id": 266,
+   "text": "Pravico vedeti"
+  },
+  {
+   "id": 267,
+   "text": " ali obdelujemo vaše osebne podatke ali ne"
+  },
+  {
+   "id": 268,
+   "text": "Pravico do dostopa"
+  },
+  {
+   "id": 269,
+   "text": " do vaših osebnih podatkov"
+  },
+  {
+   "id": 270,
+   "text": "Pravico do popravka"
+  },
+  {
+   "id": 271,
+   "text": " netočnosti v vaših osebnih podatkih"
+  },
+  {
+   "id": 272,
+   "text": "Pravico zahtevati"
+  },
+  {
+   "id": 273,
+   "text": " izbris vaših osebnih podatkov"
+  },
+  {
+   "id": 274,
+   "text": "Pravico pridobiti izvod"
+  },
+  {
+   "id": 275,
+   "text": " osebnih podatkov, ki ste jih predhodno delili z nami"
+  },
+  {
+   "id": 276,
+   "text": "Pravico do nediskriminacije"
+  },
+  {
+   "id": 277,
+   "text": " za uveljavljanje vaših pravic"
+  },
+  {
+   "id": 278,
+   "text": "Pravico do izključitve"
+  },
+  {
+   "id": 279,
+   "text": " obdelave vaših osebnih podatkov, če se uporabljajo za ciljno oglaševanje (ali deljenje, kot je opredeljeno po kalifornijski zakonodaji o zasebnosti), prodajo osebnih podatkov ali profiliranje za nadaljevanje odločitev, ki imajo pravne ali podobno pomembne učinke (&quot;profiliranje&quot;)"
+  },
+  {
+   "id": 280,
+   "text": "Glede na zvezno državo, v kateri živite, imate lahko tudi naslednje pravice:"
+  },
+  {
+   "id": 281,
+   "text": "Pravico do dostopa do kategorij osebnih podatkov, ki se obdelujejo (kot dovoljuje veljavna zakonodaja, vključno z zakonom o zasebnosti v Minnesoti)"
+  },
+  {
+   "id": 282,
+   "text": "Pravico pridobiti seznam kategorij tretjih oseb, ki smo jim razkrili osebne podatke (kot dovoljuje veljavna zakonodaja, vključno z zakonom o zasebnosti v Kaliforniji, Delawareu in Marylandu)"
+  },
+  {
+   "id": 283,
+   "text": "Pravico pridobiti seznam posebnih tretjih oseb, ki smo jim razkrili osebne podatke (kot dovoljuje veljavna zakonodaja, vključno z zakonom o zasebnosti v Minnesoti in Oregonu)"
+  },
+  {
+   "id": 284,
+   "text": "Pravico pridobiti seznam tretjih oseb, ki smo jim prodali osebne podatke (kot dovoljuje veljavna zakonodaja, vključno z zakonom o zasebnosti v Connecticutu)"
+  },
+  {
+   "id": 285,
+   "text": "Pravico pregledati, razumeti, spraševati in, glede na to, kje živite, popraviti, kako so bili osebni podatki profilirani (kot dovoljuje veljavna zakonodaja, vključno z zakonom o zasebnosti v Connecticutu in Minnesoti)"
+  },
+  {
+   "id": 286,
+   "text": "Pravico omejiti uporabo in razkritje občutljivih osebnih podatkov (kot dovoljuje veljavna zakonodaja, vključno z zakonom o zasebnosti v Kaliforniji)"
+  },
+  {
+   "id": 287,
+   "text": "Pravico do izključitve zbiranja občutljivih podatkov in osebnih podatkov, zbranih z delovanjem funkcije prepoznavanja glasu ali obraza (kot dovoljuje veljavna zakonodaja, vključno z zakonom o zasebnosti na Floridi)"
+  },
+  {
+   "id": 288,
+   "text": "Kako uveljavljati svoje pravice"
+  },
+  {
+   "id": 289,
+   "text": "Za uveljavljanje teh pravic nas lahko kontaktirate z obiskom "
+  },
+  {
+   "id": 290,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 291,
+   "text": ", z obiskom "
+  },
+  {
+   "id": 292,
+   "text": "http://www.tavalabs.app/contact-us"
+  },
+  {
+   "id": 293,
+   "text": ", ali s sklicevanjem na kontaktne podatke na dnu tega dokumenta."
+  },
+  {
+   "id": 294,
+   "text": "Spoštovali bomo vaše preference izključitve, če v svojem brskalniku aktivirate signal za izključitev "
+  },
+  {
+   "id": 295,
+   "text": "Global Privacy Control"
+  },
+  {
+   "id": 296,
+   "text": " (GPC)."
+  },
+  {
+   "id": 297,
+   "text": "Po določenih zakonih o varstvu podatkov zveznih držav ZDA lahko pooblastite pooblaščenega zastopnika, da vloži zahtevo v vašem imenu. Zahtevo pooblaščenega zastopnika, ki ne predloži dokazila, da je bil veljavno pooblaščen za delovanje v vašem imenu v skladu z veljavnimi zakoni, lahko zavrnemo."
+  },
+  {
+   "id": 298,
+   "text": "Preverjanje zahteve"
+  },
+  {
+   "id": 299,
+   "text": "Po prejemu vaše zahteve bomo morali preveriti vašo identiteto, da ugotovimo, da ste ista oseba, o kateri imamo informacije v našem sistemu. Osebne podatke, posredovane v vaši zahtevi, bomo uporabljali samo za preverjanje vaše identitete ali pooblastila za vložitev zahteve. Če pa vaše identitete ne moremo preveriti iz informacij, ki jih že hranimo, lahko zahtevamo, da posredujete dodatne informacije za namene preverjanja vaše identitete ter za namene varnosti ali preprečevanja goljufij."
+  },
+  {
+   "id": 300,
+   "text": "Če zahtevo predložite prek pooblaščenega zastopnika, bomo morda morali zbrati dodatne informacije za preverjanje vaše identitete, preden obdelamo vašo zahtevo, zastopnik pa bo moral predložiti vaše pisno in podpisano dovoljenje za predložitev takšne zahteve v vašem imenu."
+  },
+  {
+   "id": 301,
+   "text": "Pritožbe"
+  },
+  {
+   "id": 302,
+   "text": "Po določenih zakonih o varstvu podatkov zveznih držav ZDA se lahko, če zavrnemo ukrepanje v zvezi z vašo zahtevo, na našo odločitev pritožite tako, da nam pišete na "
+  },
+  {
+   "id": 303,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 304,
+   "text": ". Pisno vas bomo obvestili o vseh ukrepih, sprejetih ali nesprejetih kot odgovor na pritožbo, vključno s pisno obrazložitvijo razlogov za odločitve. Če je vaša pritožba zavrnjena, lahko vložite pritožbo pri državnem tožilcu vaše zvezne države."
+  },
+  {
+   "id": 305,
+   "text": "Kalifornijski zakon &quot;Shine The Light&quot;"
+  },
+  {
+   "id": 306,
+   "text": "Oddelek 1798.83 Kalifornijskega civilnega zakonika, znan tudi kot zakon &quot;Shine The Light&quot;, našim uporabnikom, ki so prebivalci Kalifornije, dovoljuje, da od nas enkrat letno in brezplačno zahtevajo in pridobijo informacije o kategorijah osebnih podatkov (če obstajajo), ki smo jih razkrili tretjim osebam za namene neposrednega trženja, ter imena in naslove vseh tretjih oseb, s katerimi smo delili osebne podatke v neposredno predhodnem koledarskem letu. Če ste prebivalec Kalifornije in želite vložiti takšno zahtevo, nam svojo zahtevo predložite pisno z uporabo kontaktnih podatkov, navedenih v oddelku &quot;"
+  },
+  {
+   "id": 307,
+   "text": "KAKO NAS LAHKO KONTAKTIRATE GLEDE TEGA OBVESTILA?"
+  },
+  {
+   "id": 308,
+   "text": "&quot;"
+  },
+  {
+   "id": 309,
+   "text": "13. ALI POSODABLJAMO TO OBVESTILO?"
+  },
+  {
+   "id": 310,
+   "text": "Na kratko: Da, to obvestilo bomo posodobili, kot je potrebno za ohranjanje skladnosti z ustreznimi zakoni."
+  },
+  {
+   "id": 311,
+   "text": "To obvestilo o zasebnosti lahko občasno posodobimo. Posodobljena različica bo označena s posodobljenim datumom &quot;Revidirano&quot; na vrhu tega obvestila o zasebnosti. Če v to obvestilo o zasebnosti naredimo bistvene spremembe, vas lahko obvestimo bodisi z vidno objavo obvestila o takšnih spremembah bodisi z neposrednim pošiljanjem obvestila. Spodbujamo vas, da to obvestilo o zasebnosti pogosto pregledujete, da ste obveščeni o tem, kako varujemo vaše informacije."
+  },
+  {
+   "id": 312,
+   "text": "14. KAKO NAS LAHKO KONTAKTIRATE GLEDE TEGA OBVESTILA?"
+  },
+  {
+   "id": 313,
+   "text": "Če imate vprašanja ali komentarje o tem obvestilu, lahko našega pooblaščenca za varstvo podatkov (DPO) kontaktirate po e-pošti na "
+  },
+  {
+   "id": 314,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 315,
+   "text": ", ali nas kontaktirate po pošti na:"
+  },
+  {
+   "id": 316,
+   "text": "Tava Labs, LLC"
+  },
+  {
+   "id": 317,
+   "text": "Pooblaščenec za varstvo podatkov"
+  },
+  {
+   "id": 318,
+   "text": "1521 Blake St STE 95593"
+  },
+  {
+   "id": 319,
+   "text": "Denver, CO 80202"
+  },
+  {
+   "id": 320,
+   "text": "United States"
+  },
+  {
+   "id": 321,
+   "text": "15. KAKO LAHKO PREGLEDATE, POSODOBITE ALI IZBRIŠETE PODATKE, KI JIH ZBIRAMO OD VAS?"
+  },
+  {
+   "id": 322,
+   "text": "Na podlagi veljavnih zakonov vaše države ali zvezne države prebivališča v ZDA imate morda pravico zahtevati dostop do osebnih podatkov, ki jih zbiramo od vas, podrobnosti o tem, kako smo jih obdelali, popraviti netočnosti ali izbrisati vaše osebne podatke. Prav tako imate morda pravico umakniti svoje soglasje za našo obdelavo vaših osebnih podatkov. Te pravice so lahko v nekaterih okoliščinah omejene z veljavno zakonodajo. Za zahtevo za pregled, posodobitev ali izbris vaših osebnih podatkov obiščite: "
+  },
+  {
+   "id": 323,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 324,
+   "text": "."
+  },
+  {
+   "id": 325,
+   "text": "Ta Politika zasebnosti je bila ustvarjena z orodjem Termly&#x27;s "
+  },
+  {
+   "id": 326,
+   "text": "Generator politike zasebnosti"
+  },
+  {
+   "id": 327,
+   "text": "."
+  }
+ ]
+}

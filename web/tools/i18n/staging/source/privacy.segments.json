@@ -1,0 +1,1319 @@
+{
+ "slug": "privacy",
+ "title": "Privacy Policy | Tava Labs",
+ "description": "How Tava Labs collects, uses and protects your information when you visit tavalabs.app, take the skin quiz or order the PDRN Brightening Serum.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "Legal"
+  },
+  {
+   "id": 1,
+   "text": "Privacy Policy"
+  },
+  {
+   "id": 2,
+   "text": "Last updated November 05, 2026"
+  },
+  {
+   "id": 3,
+   "text": "This Privacy Notice for Tava Labs, LLC (doing business as Tava) (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;), describes how and why we might access, collect, store, use, and/or share (&quot;process&quot;) your personal information when you use our services (&quot;Services&quot;), including when you:"
+  },
+  {
+   "id": 4,
+   "text": "Visit our website at "
+  },
+  {
+   "id": 5,
+   "text": "http://www.tavalabs.app"
+  },
+  {
+   "id": 6,
+   "text": " or any website of ours that links to this Privacy Notice"
+  },
+  {
+   "id": 7,
+   "text": "Use Founder Wellness Score. A wellness platform for founders and executives to measure their stress, sleep, and looks to receive supplement recommendations and prescription peptides."
+  },
+  {
+   "id": 8,
+   "text": "Engage with us in other related ways, including any marketing or events"
+  },
+  {
+   "id": 9,
+   "text": "Questions or concerns?"
+  },
+  {
+   "id": 10,
+   "text": " Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at "
+  },
+  {
+   "id": 11,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 12,
+   "text": "."
+  },
+  {
+   "id": 13,
+   "text": "SUMMARY OF KEY POINTS"
+  },
+  {
+   "id": 14,
+   "text": "This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our "
+  },
+  {
+   "id": 15,
+   "text": "table of contents"
+  },
+  {
+   "id": 16,
+   "text": " below to find the section you are looking for."
+  },
+  {
+   "id": 17,
+   "text": "What personal information do we process?"
+  },
+  {
+   "id": 18,
+   "text": " When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about "
+  },
+  {
+   "id": 19,
+   "text": "personal information you disclose to us"
+  },
+  {
+   "id": 20,
+   "text": "."
+  },
+  {
+   "id": 21,
+   "text": "Do we process any sensitive personal information?"
+  },
+  {
+   "id": 22,
+   "text": " Some of the information may be considered &quot;special&quot; or &quot;sensitive&quot; in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs. We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Learn more about "
+  },
+  {
+   "id": 23,
+   "text": "sensitive information we process"
+  },
+  {
+   "id": 24,
+   "text": "."
+  },
+  {
+   "id": 25,
+   "text": "Do we collect any information from third parties?"
+  },
+  {
+   "id": 26,
+   "text": " We do not collect any information from third parties."
+  },
+  {
+   "id": 27,
+   "text": "How do we process your information?"
+  },
+  {
+   "id": 28,
+   "text": " We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about "
+  },
+  {
+   "id": 29,
+   "text": "how we process your information"
+  },
+  {
+   "id": 30,
+   "text": "."
+  },
+  {
+   "id": 31,
+   "text": "In what situations and with which parties do we share personal information?"
+  },
+  {
+   "id": 32,
+   "text": " We may share information in specific situations and with specific third parties. Learn more about "
+  },
+  {
+   "id": 33,
+   "text": "when and with whom we share your personal information"
+  },
+  {
+   "id": 34,
+   "text": "."
+  },
+  {
+   "id": 35,
+   "text": "How do we keep your information safe?"
+  },
+  {
+   "id": 36,
+   "text": " We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about "
+  },
+  {
+   "id": 37,
+   "text": "how we keep your information safe"
+  },
+  {
+   "id": 38,
+   "text": "."
+  },
+  {
+   "id": 39,
+   "text": "What are your rights?"
+  },
+  {
+   "id": 40,
+   "text": " Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about "
+  },
+  {
+   "id": 41,
+   "text": "your privacy rights"
+  },
+  {
+   "id": 42,
+   "text": "."
+  },
+  {
+   "id": 43,
+   "text": "How do you exercise your rights?"
+  },
+  {
+   "id": 44,
+   "text": " The easiest way to exercise your rights is by visiting "
+  },
+  {
+   "id": 45,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 46,
+   "text": ", or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws."
+  },
+  {
+   "id": 47,
+   "text": "Want to learn more about what we do with any information we collect? "
+  },
+  {
+   "id": 48,
+   "text": "Review the Privacy Notice in full"
+  },
+  {
+   "id": 49,
+   "text": "."
+  },
+  {
+   "id": 50,
+   "text": "TABLE OF CONTENTS"
+  },
+  {
+   "id": 51,
+   "text": "1. WHAT INFORMATION DO WE COLLECT?"
+  },
+  {
+   "id": 52,
+   "text": "2. HOW DO WE PROCESS YOUR INFORMATION?"
+  },
+  {
+   "id": 53,
+   "text": "3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
+  },
+  {
+   "id": 54,
+   "text": "4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?"
+  },
+  {
+   "id": 55,
+   "text": "5. DO WE OFFER ARTIFICIAL INTELLIGENCE-BASED PRODUCTS?"
+  },
+  {
+   "id": 56,
+   "text": "6. HOW DO WE HANDLE YOUR SOCIAL LOGINS?"
+  },
+  {
+   "id": 57,
+   "text": "7. HOW LONG DO WE KEEP YOUR INFORMATION?"
+  },
+  {
+   "id": 58,
+   "text": "8. HOW DO WE KEEP YOUR INFORMATION SAFE?"
+  },
+  {
+   "id": 59,
+   "text": "9. DO WE COLLECT INFORMATION FROM MINORS?"
+  },
+  {
+   "id": 60,
+   "text": "10. WHAT ARE YOUR PRIVACY RIGHTS?"
+  },
+  {
+   "id": 61,
+   "text": "11. CONTROLS FOR DO-NOT-TRACK FEATURES"
+  },
+  {
+   "id": 62,
+   "text": "12. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?"
+  },
+  {
+   "id": 63,
+   "text": "13. DO WE MAKE UPDATES TO THIS NOTICE?"
+  },
+  {
+   "id": 64,
+   "text": "14. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?"
+  },
+  {
+   "id": 65,
+   "text": "15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?"
+  },
+  {
+   "id": 66,
+   "text": "1. WHAT INFORMATION DO WE COLLECT?"
+  },
+  {
+   "id": 67,
+   "text": "Personal information you disclose to us"
+  },
+  {
+   "id": 68,
+   "text": "In Short: We collect personal information that you provide to us."
+  },
+  {
+   "id": 69,
+   "text": "We collect personal information that you voluntarily provide to us when you register on the Services, express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us."
+  },
+  {
+   "id": 70,
+   "text": "Personal Information Provided by You."
+  },
+  {
+   "id": 71,
+   "text": " The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:"
+  },
+  {
+   "id": 72,
+   "text": "names"
+  },
+  {
+   "id": 73,
+   "text": "email addresses"
+  },
+  {
+   "id": 74,
+   "text": "passwords"
+  },
+  {
+   "id": 75,
+   "text": "billing addresses"
+  },
+  {
+   "id": 76,
+   "text": "debit/credit card numbers"
+  },
+  {
+   "id": 77,
+   "text": "Sensitive Information."
+  },
+  {
+   "id": 78,
+   "text": " When necessary, with your consent or as otherwise permitted by applicable law, we process the following categories of sensitive information:"
+  },
+  {
+   "id": 79,
+   "text": "health data"
+  },
+  {
+   "id": 80,
+   "text": "Payment Data."
+  },
+  {
+   "id": 81,
+   "text": " We may collect data necessary to process your payment if you choose to make purchases, such as your payment instrument number, and the security code associated with your payment instrument. All payment data is handled and stored by Stripe, Inc. You may find their privacy notice link(s) here: "
+  },
+  {
+   "id": 82,
+   "text": "https://stripe.com/privacy-policy"
+  },
+  {
+   "id": 83,
+   "text": "."
+  },
+  {
+   "id": 84,
+   "text": "Social Media Login Data."
+  },
+  {
+   "id": 85,
+   "text": " We may provide you with the option to register with us using your existing social media account details, like your Facebook, X, or other social media account. If you choose to register in this way, we will collect certain profile information about you from the social media provider, as described in the section called &quot;"
+  },
+  {
+   "id": 86,
+   "text": "HOW DO WE HANDLE YOUR SOCIAL LOGINS?"
+  },
+  {
+   "id": 87,
+   "text": "&quot; below."
+  },
+  {
+   "id": 88,
+   "text": "All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information."
+  },
+  {
+   "id": 89,
+   "text": "Information automatically collected"
+  },
+  {
+   "id": 90,
+   "text": "In Short: Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Services."
+  },
+  {
+   "id": 91,
+   "text": "We automatically collect certain information when you visit, use, or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services, and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes."
+  },
+  {
+   "id": 92,
+   "text": "The information we collect includes:"
+  },
+  {
+   "id": 93,
+   "text": "Log and Usage Data."
+  },
+  {
+   "id": 94,
+   "text": " Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called &quot;crash dumps&quot;), and hardware settings)."
+  },
+  {
+   "id": 95,
+   "text": "Device Data."
+  },
+  {
+   "id": 96,
+   "text": " We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information."
+  },
+  {
+   "id": 97,
+   "text": "Location Data."
+  },
+  {
+   "id": 98,
+   "text": " We collect location data such as information about your device&#x27;s location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the Services. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. However, if you choose to opt out, you may not be able to use certain aspects of the Services."
+  },
+  {
+   "id": 99,
+   "text": "2. HOW DO WE PROCESS YOUR INFORMATION?"
+  },
+  {
+   "id": 100,
+   "text": "In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent."
+  },
+  {
+   "id": 101,
+   "text": "We process your personal information for a variety of reasons, depending on how you interact with our Services, including:"
+  },
+  {
+   "id": 102,
+   "text": "To facilitate account creation and authentication and otherwise manage user accounts."
+  },
+  {
+   "id": 103,
+   "text": " We may process your information so you can create and log in to your account, as well as keep your account in working order."
+  },
+  {
+   "id": 104,
+   "text": "To deliver and facilitate delivery of services to the user."
+  },
+  {
+   "id": 105,
+   "text": " We may process your information to provide you with the requested service."
+  },
+  {
+   "id": 106,
+   "text": "To respond to user inquiries/offer support to users."
+  },
+  {
+   "id": 107,
+   "text": " We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service."
+  },
+  {
+   "id": 108,
+   "text": "To send administrative information to you."
+  },
+  {
+   "id": 109,
+   "text": " We may process your information to send you details about our products and services, changes to our terms and policies, and other similar information."
+  },
+  {
+   "id": 110,
+   "text": "To fulfill and manage your orders."
+  },
+  {
+   "id": 111,
+   "text": " We may process your information to fulfill and manage your orders, payments, returns, and exchanges made through the Services."
+  },
+  {
+   "id": 112,
+   "text": "To request feedback."
+  },
+  {
+   "id": 113,
+   "text": " We may process your information when necessary to request feedback and to contact you about your use of our Services."
+  },
+  {
+   "id": 114,
+   "text": "To post testimonials."
+  },
+  {
+   "id": 115,
+   "text": " We post testimonials on our Services that may contain personal information."
+  },
+  {
+   "id": 116,
+   "text": "To evaluate and improve our Services, products, marketing, and your experience."
+  },
+  {
+   "id": 117,
+   "text": " We may process your information when we believe it is necessary to identify usage trends, determine the effectiveness of our promotional campaigns, and to evaluate and improve our Services, products, marketing, and your experience."
+  },
+  {
+   "id": 118,
+   "text": "To identify usage trends."
+  },
+  {
+   "id": 119,
+   "text": " We may process information about how you use our Services to better understand how they are being used so we can improve them."
+  },
+  {
+   "id": 120,
+   "text": "3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
+  },
+  {
+   "id": 121,
+   "text": "In Short: We may share information in specific situations described in this section and/or with the following third parties."
+  },
+  {
+   "id": 122,
+   "text": "We may need to share your personal information in the following situations:"
+  },
+  {
+   "id": 123,
+   "text": "Business Transfers."
+  },
+  {
+   "id": 124,
+   "text": " We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company."
+  },
+  {
+   "id": 125,
+   "text": "Business Partners."
+  },
+  {
+   "id": 126,
+   "text": " We may share your information with our business partners to offer you certain products, services, or promotions."
+  },
+  {
+   "id": 127,
+   "text": "4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?"
+  },
+  {
+   "id": 128,
+   "text": "In Short: We may use cookies and other tracking technologies to collect and store your information."
+  },
+  {
+   "id": 129,
+   "text": "We may use cookies and similar tracking technologies (like web beacons and pixels) to gather information when you interact with our Services. Some online tracking technologies help us maintain the security of our Services and your account, prevent crashes, fix bugs, save your preferences, and assist with basic site functions."
+  },
+  {
+   "id": 130,
+   "text": "We also permit third parties and service providers to use online tracking technologies on our Services for analytics and advertising, including to help manage and display advertisements or to tailor advertisements to your interests. The third parties and service providers use their technology to provide advertising about products and services tailored to your interests which may appear either on our Services or on other websites."
+  },
+  {
+   "id": 131,
+   "text": "To the extent these online tracking technologies are deemed to be a &quot;sale&quot;/&quot;sharing&quot; (which includes targeted advertising, as defined under the applicable laws) under applicable US state laws, you can opt out of these online tracking technologies by submitting a request as described below under section &quot;"
+  },
+  {
+   "id": 132,
+   "text": "DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?"
+  },
+  {
+   "id": 133,
+   "text": "&quot;"
+  },
+  {
+   "id": 134,
+   "text": "Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice."
+  },
+  {
+   "id": 135,
+   "text": "Google Analytics"
+  },
+  {
+   "id": 136,
+   "text": "We may share your information with Google Analytics to track and analyze the use of the Services. The Google Analytics Advertising Features that we may use include: Google Display Network Impressions Reporting and Google Analytics Demographics and Interests Reporting. To opt out of being tracked by Google Analytics across the Services, visit "
+  },
+  {
+   "id": 137,
+   "text": "https://tools.google.com/dlpage/gaoptout"
+  },
+  {
+   "id": 138,
+   "text": ". You can opt out of Google Analytics Advertising Features through "
+  },
+  {
+   "id": 139,
+   "text": "Ads Settings"
+  },
+  {
+   "id": 140,
+   "text": " and Ad Settings for mobile apps. Other opt out means include "
+  },
+  {
+   "id": 141,
+   "text": "http://optout.networkadvertising.org/"
+  },
+  {
+   "id": 142,
+   "text": " and "
+  },
+  {
+   "id": 143,
+   "text": "http://www.networkadvertising.org/mobile-choice"
+  },
+  {
+   "id": 144,
+   "text": ". For more information on the privacy practices of Google, please visit the "
+  },
+  {
+   "id": 145,
+   "text": "Google Privacy &amp; Terms page"
+  },
+  {
+   "id": 146,
+   "text": "."
+  },
+  {
+   "id": 147,
+   "text": "5. DO WE OFFER ARTIFICIAL INTELLIGENCE-BASED PRODUCTS?"
+  },
+  {
+   "id": 148,
+   "text": "In Short: We offer products, features, or tools powered by artificial intelligence, machine learning, or similar technologies."
+  },
+  {
+   "id": 149,
+   "text": "As part of our Services, we offer products, features, or tools powered by artificial intelligence, machine learning, or similar technologies (collectively, &quot;AI Products&quot;). These tools are designed to enhance your experience and provide you with innovative solutions. The terms in this Privacy Notice govern your use of the AI Products within our Services."
+  },
+  {
+   "id": 150,
+   "text": "Use of AI Technologies"
+  },
+  {
+   "id": 151,
+   "text": "We provide the AI Products through third-party service providers (&quot;AI Service Providers&quot;), including OpenAI. As outlined in this Privacy Notice, your input, output, and personal information will be shared with and processed by these AI Service Providers to enable your use of our AI Products for purposes outlined in &quot;"
+  },
+  {
+   "id": 152,
+   "text": "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
+  },
+  {
+   "id": 153,
+   "text": "&quot; You must not use the AI Products in any way that violates the terms or policies of any AI Service Provider."
+  },
+  {
+   "id": 154,
+   "text": "Our AI Products"
+  },
+  {
+   "id": 155,
+   "text": "Our AI Products are designed for the following functions:"
+  },
+  {
+   "id": 156,
+   "text": "AI insights"
+  },
+  {
+   "id": 157,
+   "text": "How We Process Your Data Using AI"
+  },
+  {
+   "id": 158,
+   "text": "All personal information processed using our AI Products is handled in line with our Privacy Notice and our agreement with third parties. This ensures high security and safeguards your personal information throughout the process, giving you peace of mind about your data&#x27;s safety."
+  },
+  {
+   "id": 159,
+   "text": "6. HOW DO WE HANDLE YOUR SOCIAL LOGINS?"
+  },
+  {
+   "id": 160,
+   "text": "In Short: If you choose to register or log in to our Services using a social media account, we may have access to certain information about you."
+  },
+  {
+   "id": 161,
+   "text": "Our Services offer you the ability to register and log in using your third-party social media account details (like your Facebook or X logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the social media provider concerned, but will often include your name, email address, friends list, and profile picture, as well as other information you choose to make public on such a social media platform."
+  },
+  {
+   "id": 162,
+   "text": "We will use the information we receive only for the purposes that are described in this Privacy Notice or that are otherwise made clear to you on the relevant Services. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy notice to understand how they collect, use, and share your personal information, and how you can set your privacy preferences on their sites and apps."
+  },
+  {
+   "id": 163,
+   "text": "7. HOW LONG DO WE KEEP YOUR INFORMATION?"
+  },
+  {
+   "id": 164,
+   "text": "In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this Privacy Notice unless otherwise required by law."
+  },
+  {
+   "id": 165,
+   "text": "We will only keep your personal information for as long as it is necessary for the purposes set out in this Privacy Notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than the period of time in which users have an account with us."
+  },
+  {
+   "id": 166,
+   "text": "When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible."
+  },
+  {
+   "id": 167,
+   "text": "8. HOW DO WE KEEP YOUR INFORMATION SAFE?"
+  },
+  {
+   "id": 168,
+   "text": "In Short: We aim to protect your personal information through a system of organizational and technical security measures."
+  },
+  {
+   "id": 169,
+   "text": "We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment."
+  },
+  {
+   "id": 170,
+   "text": "9. DO WE COLLECT INFORMATION FROM MINORS?"
+  },
+  {
+   "id": 171,
+   "text": "In Short: We do not knowingly collect data from or market to children under 18 years of age."
+  },
+  {
+   "id": 172,
+   "text": "We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent&#x27;s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at "
+  },
+  {
+   "id": 173,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 174,
+   "text": "."
+  },
+  {
+   "id": 175,
+   "text": "10. WHAT ARE YOUR PRIVACY RIGHTS?"
+  },
+  {
+   "id": 176,
+   "text": "Withdrawing your consent:"
+  },
+  {
+   "id": 177,
+   "text": " If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section &quot;"
+  },
+  {
+   "id": 178,
+   "text": "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?"
+  },
+  {
+   "id": 179,
+   "text": "&quot; below."
+  },
+  {
+   "id": 180,
+   "text": "However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent."
+  },
+  {
+   "id": 181,
+   "text": "Account Information"
+  },
+  {
+   "id": 182,
+   "text": "If you would at any time like to review or change the information in your account or terminate your account, you can:"
+  },
+  {
+   "id": 183,
+   "text": "Log in to your account settings and update your user account."
+  },
+  {
+   "id": 184,
+   "text": "Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements."
+  },
+  {
+   "id": 185,
+   "text": "If you have questions or comments about your privacy rights, you may email us at "
+  },
+  {
+   "id": 186,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 187,
+   "text": "."
+  },
+  {
+   "id": 188,
+   "text": "11. CONTROLS FOR DO-NOT-TRACK FEATURES"
+  },
+  {
+   "id": 189,
+   "text": "Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (&quot;DNT&quot;) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Notice."
+  },
+  {
+   "id": 190,
+   "text": "California law requires us to let you know how we respond to web browser DNT signals. Because there currently is not an industry or legal standard for recognizing or honoring DNT signals, we do not respond to them at this time."
+  },
+  {
+   "id": 191,
+   "text": "Global Privacy Control:"
+  },
+  {
+   "id": 192,
+   "text": " We recognize and honor Global Privacy Control (GPC) signals. If you use a browser or extension that supports GPC, we will treat this as a valid request to opt out of the sale or sharing of your personal information for targeted advertising purposes under applicable state privacy laws, including the California Consumer Privacy Act (CCPA). When we detect a GPC signal from your browser, we will automatically apply your opt-out preference without requiring you to take any additional action. For more information about GPC and how to enable it, visit "
+  },
+  {
+   "id": 193,
+   "text": "globalprivacycontrol.org"
+  },
+  {
+   "id": 194,
+   "text": "."
+  },
+  {
+   "id": 195,
+   "text": "12. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?"
+  },
+  {
+   "id": 196,
+   "text": "In Short: If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below."
+  },
+  {
+   "id": 197,
+   "text": "Categories of Personal Information We Collect"
+  },
+  {
+   "id": 198,
+   "text": "The table below shows the categories of personal information we have collected in the past twelve (12) months. The table includes illustrative examples of each category and does not reflect the personal information we collect from you. For a comprehensive inventory of all personal information we process, please refer to the section &quot;"
+  },
+  {
+   "id": 199,
+   "text": "WHAT INFORMATION DO WE COLLECT?"
+  },
+  {
+   "id": 200,
+   "text": "&quot;"
+  },
+  {
+   "id": 201,
+   "text": "Category"
+  },
+  {
+   "id": 202,
+   "text": "Examples"
+  },
+  {
+   "id": 203,
+   "text": "Collected"
+  },
+  {
+   "id": 204,
+   "text": "A. Identifiers"
+  },
+  {
+   "id": 205,
+   "text": "Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name"
+  },
+  {
+   "id": 206,
+   "text": "YES"
+  },
+  {
+   "id": 207,
+   "text": "B. Personal information as defined in the California Customer Records statute"
+  },
+  {
+   "id": 208,
+   "text": "Name, contact information, education, employment, employment history, and financial information"
+  },
+  {
+   "id": 209,
+   "text": "YES"
+  },
+  {
+   "id": 210,
+   "text": "C. Protected classification characteristics under state or federal law"
+  },
+  {
+   "id": 211,
+   "text": "Gender, age, date of birth, race and ethnicity, national origin, marital status, and other demographic data"
+  },
+  {
+   "id": 212,
+   "text": "NO"
+  },
+  {
+   "id": 213,
+   "text": "D. Commercial information"
+  },
+  {
+   "id": 214,
+   "text": "Transaction information, purchase history, financial details, and payment information"
+  },
+  {
+   "id": 215,
+   "text": "NO"
+  },
+  {
+   "id": 216,
+   "text": "E. Biometric information"
+  },
+  {
+   "id": 217,
+   "text": "Fingerprints and voiceprints"
+  },
+  {
+   "id": 218,
+   "text": "YES"
+  },
+  {
+   "id": 219,
+   "text": "F. Internet or other similar network activity"
+  },
+  {
+   "id": 220,
+   "text": "Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements"
+  },
+  {
+   "id": 221,
+   "text": "NO"
+  },
+  {
+   "id": 222,
+   "text": "G. Geolocation data"
+  },
+  {
+   "id": 223,
+   "text": "Device location"
+  },
+  {
+   "id": 224,
+   "text": "NO"
+  },
+  {
+   "id": 225,
+   "text": "H. Audio, electronic, sensory, or similar information"
+  },
+  {
+   "id": 226,
+   "text": "Images and audio, video or call recordings created in connection with our business activities"
+  },
+  {
+   "id": 227,
+   "text": "NO"
+  },
+  {
+   "id": 228,
+   "text": "I. Professional or employment-related information"
+  },
+  {
+   "id": 229,
+   "text": "Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us"
+  },
+  {
+   "id": 230,
+   "text": "NO"
+  },
+  {
+   "id": 231,
+   "text": "J. Education Information"
+  },
+  {
+   "id": 232,
+   "text": "Student records and directory information"
+  },
+  {
+   "id": 233,
+   "text": "NO"
+  },
+  {
+   "id": 234,
+   "text": "K. Inferences drawn from collected personal information"
+  },
+  {
+   "id": 235,
+   "text": "Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual&#x27;s preferences and characteristics"
+  },
+  {
+   "id": 236,
+   "text": "NO"
+  },
+  {
+   "id": 237,
+   "text": "L. Sensitive personal Information"
+  },
+  {
+   "id": 238,
+   "text": "Account login information, debit or credit card numbers, genetic data and health data"
+  },
+  {
+   "id": 239,
+   "text": "YES"
+  },
+  {
+   "id": 240,
+   "text": "We only collect sensitive personal information, as defined by applicable privacy laws or the purposes allowed by law or with your consent. Sensitive personal information may be used, or disclosed to a service provider or contractor, for additional, specified purposes. You may have the right to limit the use or disclosure of your sensitive personal information. We do not collect or process sensitive personal information for the purpose of inferring characteristics about you."
+  },
+  {
+   "id": 241,
+   "text": "We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:"
+  },
+  {
+   "id": 242,
+   "text": "Receiving help through our customer support channels;"
+  },
+  {
+   "id": 243,
+   "text": "Participation in customer surveys or contests; and"
+  },
+  {
+   "id": 244,
+   "text": "Facilitation in the delivery of our Services and to respond to your inquiries."
+  },
+  {
+   "id": 245,
+   "text": "We will use and retain the collected personal information as needed to provide the Services or for:"
+  },
+  {
+   "id": 246,
+   "text": "Category A - As long as the user has an account with us"
+  },
+  {
+   "id": 247,
+   "text": "Category B - As long as the user has an account with us"
+  },
+  {
+   "id": 248,
+   "text": "Category E - As long as the user has an account with us"
+  },
+  {
+   "id": 249,
+   "text": "Category L - As long as the user has an account with us"
+  },
+  {
+   "id": 250,
+   "text": "Sources of Personal Information"
+  },
+  {
+   "id": 251,
+   "text": "Learn more about the sources of personal information we collect in &quot;"
+  },
+  {
+   "id": 252,
+   "text": "WHAT INFORMATION DO WE COLLECT?"
+  },
+  {
+   "id": 253,
+   "text": "&quot;"
+  },
+  {
+   "id": 254,
+   "text": "How We Use and Share Personal Information"
+  },
+  {
+   "id": 255,
+   "text": "Learn more about how we use your personal information in the section, &quot;"
+  },
+  {
+   "id": 256,
+   "text": "HOW DO WE PROCESS YOUR INFORMATION?"
+  },
+  {
+   "id": 257,
+   "text": "&quot;"
+  },
+  {
+   "id": 258,
+   "text": "Will your information be shared with anyone else?"
+  },
+  {
+   "id": 259,
+   "text": "We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, &quot;"
+  },
+  {
+   "id": 260,
+   "text": "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
+  },
+  {
+   "id": 261,
+   "text": "&quot;"
+  },
+  {
+   "id": 262,
+   "text": "We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be &quot;selling&quot; of your personal information."
+  },
+  {
+   "id": 263,
+   "text": "We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers."
+  },
+  {
+   "id": 264,
+   "text": "Your Rights"
+  },
+  {
+   "id": 265,
+   "text": "You have rights under certain US state data protection laws. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. These rights include:"
+  },
+  {
+   "id": 266,
+   "text": "Right to know"
+  },
+  {
+   "id": 267,
+   "text": " whether or not we are processing your personal data"
+  },
+  {
+   "id": 268,
+   "text": "Right to access"
+  },
+  {
+   "id": 269,
+   "text": " your personal data"
+  },
+  {
+   "id": 270,
+   "text": "Right to correct"
+  },
+  {
+   "id": 271,
+   "text": " inaccuracies in your personal data"
+  },
+  {
+   "id": 272,
+   "text": "Right to request"
+  },
+  {
+   "id": 273,
+   "text": " the deletion of your personal data"
+  },
+  {
+   "id": 274,
+   "text": "Right to obtain a copy"
+  },
+  {
+   "id": 275,
+   "text": " of the personal data you previously shared with us"
+  },
+  {
+   "id": 276,
+   "text": "Right to non-discrimination"
+  },
+  {
+   "id": 277,
+   "text": " for exercising your rights"
+  },
+  {
+   "id": 278,
+   "text": "Right to opt out"
+  },
+  {
+   "id": 279,
+   "text": " of the processing of your personal data if it is used for targeted advertising (or sharing as defined under California&#x27;s privacy law), the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects (&quot;profiling&quot;)"
+  },
+  {
+   "id": 280,
+   "text": "Depending upon the state where you live, you may also have the following rights:"
+  },
+  {
+   "id": 281,
+   "text": "Right to access the categories of personal data being processed (as permitted by applicable law, including the privacy law in Minnesota)"
+  },
+  {
+   "id": 282,
+   "text": "Right to obtain a list of the categories of third parties to which we have disclosed personal data (as permitted by applicable law, including the privacy law in California, Delaware, and Maryland)"
+  },
+  {
+   "id": 283,
+   "text": "Right to obtain a list of specific third parties to which we have disclosed personal data (as permitted by applicable law, including the privacy law in Minnesota and Oregon)"
+  },
+  {
+   "id": 284,
+   "text": "Right to obtain a list of third parties to which we have sold personal data (as permitted by applicable law, including the privacy law in Connecticut)"
+  },
+  {
+   "id": 285,
+   "text": "Right to review, understand, question, and depending on where you live, correct how personal data has been profiled (as permitted by applicable law, including the privacy law in Connecticut and Minnesota)"
+  },
+  {
+   "id": 286,
+   "text": "Right to limit use and disclosure of sensitive personal data (as permitted by applicable law, including the privacy law in California)"
+  },
+  {
+   "id": 287,
+   "text": "Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition feature (as permitted by applicable law, including the privacy law in Florida)"
+  },
+  {
+   "id": 288,
+   "text": "How to Exercise Your Rights"
+  },
+  {
+   "id": 289,
+   "text": "To exercise these rights, you can contact us by visiting "
+  },
+  {
+   "id": 290,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 291,
+   "text": ", by visiting "
+  },
+  {
+   "id": 292,
+   "text": "http://www.tavalabs.app/contact-us"
+  },
+  {
+   "id": 293,
+   "text": ", or by referring to the contact details at the bottom of this document."
+  },
+  {
+   "id": 294,
+   "text": "We will honor your opt-out preferences if you enact the "
+  },
+  {
+   "id": 295,
+   "text": "Global Privacy Control"
+  },
+  {
+   "id": 296,
+   "text": " (GPC) opt-out signal on your browser."
+  },
+  {
+   "id": 297,
+   "text": "Under certain US state data protection laws, you can designate an authorized agent to make a request on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with applicable laws."
+  },
+  {
+   "id": 298,
+   "text": "Request Verification"
+  },
+  {
+   "id": 299,
+   "text": "Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. We will only use personal information provided in your request to verify your identity or authority to make the request. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes."
+  },
+  {
+   "id": 300,
+   "text": "If you submit the request through an authorized agent, we may need to collect additional information to verify your identity before processing your request and the agent will need to provide a written and signed permission from you to submit such request on your behalf."
+  },
+  {
+   "id": 301,
+   "text": "Appeals"
+  },
+  {
+   "id": 302,
+   "text": "Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at "
+  },
+  {
+   "id": 303,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 304,
+   "text": ". We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general."
+  },
+  {
+   "id": 305,
+   "text": "California &quot;Shine The Light&quot; Law"
+  },
+  {
+   "id": 306,
+   "text": "California Civil Code Section 1798.83, also known as the &quot;Shine The Light&quot; law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us by using the contact details provided in the section &quot;"
+  },
+  {
+   "id": 307,
+   "text": "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?"
+  },
+  {
+   "id": 308,
+   "text": "&quot;"
+  },
+  {
+   "id": 309,
+   "text": "13. DO WE MAKE UPDATES TO THIS NOTICE?"
+  },
+  {
+   "id": 310,
+   "text": "In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws."
+  },
+  {
+   "id": 311,
+   "text": "We may update this Privacy Notice from time to time. The updated version will be indicated by an updated &quot;Revised&quot; date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information."
+  },
+  {
+   "id": 312,
+   "text": "14. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?"
+  },
+  {
+   "id": 313,
+   "text": "If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO) by email at "
+  },
+  {
+   "id": 314,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 315,
+   "text": ", or contact us by post at:"
+  },
+  {
+   "id": 316,
+   "text": "Tava Labs, LLC"
+  },
+  {
+   "id": 317,
+   "text": "Data Protection Officer"
+  },
+  {
+   "id": 318,
+   "text": "1521 Blake St STE 95593"
+  },
+  {
+   "id": 319,
+   "text": "Denver, CO 80202"
+  },
+  {
+   "id": 320,
+   "text": "United States"
+  },
+  {
+   "id": 321,
+   "text": "15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?"
+  },
+  {
+   "id": 322,
+   "text": "Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please visit: "
+  },
+  {
+   "id": 323,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 324,
+   "text": "."
+  },
+  {
+   "id": 325,
+   "text": "This Privacy Policy was created using Termly&#x27;s "
+  },
+  {
+   "id": 326,
+   "text": "Privacy Policy Generator"
+  },
+  {
+   "id": 327,
+   "text": "."
+  }
+ ]
+}

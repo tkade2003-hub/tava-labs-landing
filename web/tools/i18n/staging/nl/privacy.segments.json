@@ -1,0 +1,1319 @@
+{
+ "slug": "privacy",
+ "title": "Privacybeleid | Tava Labs",
+ "description": "Hoe Tava Labs uw informatie verzamelt, gebruikt en beschermt wanneer u tavalabs.app bezoekt, de huidquiz doet of de PDRN Brightening Serum bestelt.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "Juridisch"
+  },
+  {
+   "id": 1,
+   "text": "Privacybeleid"
+  },
+  {
+   "id": 2,
+   "text": "Laatst bijgewerkt op 5 november 2026"
+  },
+  {
+   "id": 3,
+   "text": "Deze privacyverklaring voor Tava Labs, LLC (handelend onder de naam Tava) (&quot;wij&quot;, &quot;ons&quot; of &quot;onze&quot;) beschrijft hoe en waarom wij uw persoonlijke informatie kunnen benaderen, verzamelen, opslaan, gebruiken en/of delen (&quot;verwerken&quot;) wanneer u gebruikmaakt van onze diensten (&quot;Diensten&quot;), waaronder wanneer u:"
+  },
+  {
+   "id": 4,
+   "text": "Onze website bezoekt op "
+  },
+  {
+   "id": 5,
+   "text": "http://www.tavalabs.app"
+  },
+  {
+   "id": 6,
+   "text": " of een andere website van ons die naar deze privacyverklaring linkt"
+  },
+  {
+   "id": 7,
+   "text": "Founder Wellness Score gebruikt. Een welzijnsplatform voor oprichters en leidinggevenden om hun stress, slaap en uiterlijk te meten en aanbevelingen voor supplementen en voorgeschreven peptiden te ontvangen."
+  },
+  {
+   "id": 8,
+   "text": "Op andere gerelateerde manieren met ons in contact treedt, waaronder marketing of evenementen"
+  },
+  {
+   "id": 9,
+   "text": "Vragen of zorgen?"
+  },
+  {
+   "id": 10,
+   "text": " Het lezen van deze privacyverklaring helpt u uw privacyrechten en keuzes te begrijpen. Wij zijn verantwoordelijk voor het nemen van beslissingen over hoe uw persoonlijke informatie wordt verwerkt. Als u niet akkoord gaat met ons beleid en onze praktijken, gebruik onze Diensten dan niet. Als u toch nog vragen of zorgen hebt, neem dan contact met ons op via "
+  },
+  {
+   "id": 11,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 12,
+   "text": "."
+  },
+  {
+   "id": 13,
+   "text": "SAMENVATTING VAN DE BELANGRIJKSTE PUNTEN"
+  },
+  {
+   "id": 14,
+   "text": "Deze samenvatting bevat de belangrijkste punten uit onze privacyverklaring, maar u kunt meer details over elk van deze onderwerpen vinden door op de link na elk kernpunt te klikken of door onze "
+  },
+  {
+   "id": 15,
+   "text": "inhoudsopgave"
+  },
+  {
+   "id": 16,
+   "text": " hieronder te gebruiken om het gedeelte te vinden dat u zoekt."
+  },
+  {
+   "id": 17,
+   "text": "Welke persoonlijke informatie verwerken wij?"
+  },
+  {
+   "id": 18,
+   "text": " Wanneer u onze Diensten bezoekt, gebruikt of erdoor navigeert, kunnen wij persoonlijke informatie verwerken, afhankelijk van hoe u met ons en de Diensten omgaat, de keuzes die u maakt en de producten en functies die u gebruikt. Lees meer over "
+  },
+  {
+   "id": 19,
+   "text": "persoonlijke informatie die u aan ons verstrekt"
+  },
+  {
+   "id": 20,
+   "text": "."
+  },
+  {
+   "id": 21,
+   "text": "Verwerken wij gevoelige persoonlijke informatie?"
+  },
+  {
+   "id": 22,
+   "text": " Sommige informatie kan in bepaalde rechtsgebieden als &quot;bijzonder&quot; of &quot;gevoelig&quot; worden beschouwd, bijvoorbeeld uw raciale of etnische afkomst, seksuele geaardheid en religieuze overtuigingen. Wij kunnen gevoelige persoonlijke informatie verwerken wanneer dit noodzakelijk is, met uw toestemming of zoals anderszins toegestaan door het toepasselijke recht. Lees meer over "
+  },
+  {
+   "id": 23,
+   "text": "gevoelige informatie die wij verwerken"
+  },
+  {
+   "id": 24,
+   "text": "."
+  },
+  {
+   "id": 25,
+   "text": "Verzamelen wij informatie van derden?"
+  },
+  {
+   "id": 26,
+   "text": " Wij verzamelen geen informatie van derden."
+  },
+  {
+   "id": 27,
+   "text": "Hoe verwerken wij uw informatie?"
+  },
+  {
+   "id": 28,
+   "text": " Wij verwerken uw informatie om onze Diensten te leveren, te verbeteren en te beheren, met u te communiceren, voor beveiliging en fraudepreventie, en om de wet na te leven. Wij kunnen uw informatie ook voor andere doeleinden verwerken met uw toestemming. Wij verwerken uw informatie alleen wanneer wij daarvoor een geldige juridische reden hebben. Lees meer over "
+  },
+  {
+   "id": 29,
+   "text": "hoe wij uw informatie verwerken"
+  },
+  {
+   "id": 30,
+   "text": "."
+  },
+  {
+   "id": 31,
+   "text": "In welke situaties en met welke partijen delen wij persoonlijke informatie?"
+  },
+  {
+   "id": 32,
+   "text": " Wij kunnen informatie delen in specifieke situaties en met specifieke derden. Lees meer over "
+  },
+  {
+   "id": 33,
+   "text": "wanneer en met wie wij uw persoonlijke informatie delen"
+  },
+  {
+   "id": 34,
+   "text": "."
+  },
+  {
+   "id": 35,
+   "text": "Hoe houden wij uw informatie veilig?"
+  },
+  {
+   "id": 36,
+   "text": " Wij beschikken over adequate organisatorische en technische processen en procedures om uw persoonlijke informatie te beschermen. Geen enkele elektronische verzending via internet of technologie voor informatieopslag kan echter voor 100% veilig worden gegarandeerd, dus wij kunnen niet beloven of garanderen dat hackers, cybercriminelen of andere onbevoegde derden onze beveiliging niet zullen kunnen omzeilen en uw informatie op onjuiste wijze zullen verzamelen, benaderen, stelen of wijzigen. Lees meer over "
+  },
+  {
+   "id": 37,
+   "text": "hoe wij uw informatie veilig houden"
+  },
+  {
+   "id": 38,
+   "text": "."
+  },
+  {
+   "id": 39,
+   "text": "Wat zijn uw rechten?"
+  },
+  {
+   "id": 40,
+   "text": " Afhankelijk van waar u zich geografisch bevindt, kan het toepasselijke privacyrecht betekenen dat u bepaalde rechten hebt met betrekking tot uw persoonlijke informatie. Lees meer over "
+  },
+  {
+   "id": 41,
+   "text": "uw privacyrechten"
+  },
+  {
+   "id": 42,
+   "text": "."
+  },
+  {
+   "id": 43,
+   "text": "Hoe oefent u uw rechten uit?"
+  },
+  {
+   "id": 44,
+   "text": " De eenvoudigste manier om uw rechten uit te oefenen is door een bezoek te brengen aan "
+  },
+  {
+   "id": 45,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 46,
+   "text": ", of door contact met ons op te nemen. Wij zullen elk verzoek in overweging nemen en ernaar handelen in overeenstemming met de toepasselijke wetgeving inzake gegevensbescherming."
+  },
+  {
+   "id": 47,
+   "text": "Wilt u meer weten over wat wij doen met informatie die wij verzamelen? "
+  },
+  {
+   "id": 48,
+   "text": "Lees de privacyverklaring volledig"
+  },
+  {
+   "id": 49,
+   "text": "."
+  },
+  {
+   "id": 50,
+   "text": "INHOUDSOPGAVE"
+  },
+  {
+   "id": 51,
+   "text": "1. WELKE INFORMATIE VERZAMELEN WIJ?"
+  },
+  {
+   "id": 52,
+   "text": "2. HOE VERWERKEN WIJ UW INFORMATIE?"
+  },
+  {
+   "id": 53,
+   "text": "3. WANNEER EN MET WIE DELEN WIJ UW PERSOONLIJKE INFORMATIE?"
+  },
+  {
+   "id": 54,
+   "text": "4. GEBRUIKEN WIJ COOKIES EN ANDERE TRACKINGTECHNOLOGIEËN?"
+  },
+  {
+   "id": 55,
+   "text": "5. BIEDEN WIJ PRODUCTEN OP BASIS VAN KUNSTMATIGE INTELLIGENTIE AAN?"
+  },
+  {
+   "id": 56,
+   "text": "6. HOE GAAN WIJ OM MET UW AANMELDINGEN VIA SOCIALE MEDIA?"
+  },
+  {
+   "id": 57,
+   "text": "7. HOE LANG BEWAREN WIJ UW INFORMATIE?"
+  },
+  {
+   "id": 58,
+   "text": "8. HOE HOUDEN WIJ UW INFORMATIE VEILIG?"
+  },
+  {
+   "id": 59,
+   "text": "9. VERZAMELEN WIJ INFORMATIE VAN MINDERJARIGEN?"
+  },
+  {
+   "id": 60,
+   "text": "10. WAT ZIJN UW PRIVACYRECHTEN?"
+  },
+  {
+   "id": 61,
+   "text": "11. CONTROLES VOOR DO NOT TRACK FUNCTIES"
+  },
+  {
+   "id": 62,
+   "text": "12. HEBBEN INWONERS VAN DE VERENIGDE STATEN SPECIFIEKE PRIVACYRECHTEN?"
+  },
+  {
+   "id": 63,
+   "text": "13. WERKEN WIJ DEZE VERKLARING BIJ?"
+  },
+  {
+   "id": 64,
+   "text": "14. HOE KUNT U CONTACT MET ONS OPNEMEN OVER DEZE VERKLARING?"
+  },
+  {
+   "id": 65,
+   "text": "15. HOE KUNT U DE GEGEVENS DIE WIJ VAN U VERZAMELEN INZIEN, BIJWERKEN OF VERWIJDEREN?"
+  },
+  {
+   "id": 66,
+   "text": "1. WELKE INFORMATIE VERZAMELEN WIJ?"
+  },
+  {
+   "id": 67,
+   "text": "Persoonlijke informatie die u aan ons verstrekt"
+  },
+  {
+   "id": 68,
+   "text": "In het kort: Wij verzamelen persoonlijke informatie die u aan ons verstrekt."
+  },
+  {
+   "id": 69,
+   "text": "Wij verzamelen persoonlijke informatie die u vrijwillig aan ons verstrekt wanneer u zich registreert voor de Diensten, interesse toont in informatie over ons of onze producten en Diensten, wanneer u deelneemt aan activiteiten via de Diensten, of wanneer u anderszins contact met ons opneemt."
+  },
+  {
+   "id": 70,
+   "text": "Door u verstrekte persoonlijke informatie."
+  },
+  {
+   "id": 71,
+   "text": " De persoonlijke informatie die wij verzamelen, hangt af van de context van uw interacties met ons en de Diensten, de keuzes die u maakt en de producten en functies die u gebruikt. De persoonlijke informatie die wij verzamelen, kan het volgende omvatten:"
+  },
+  {
+   "id": 72,
+   "text": "namen"
+  },
+  {
+   "id": 73,
+   "text": "e-mailadressen"
+  },
+  {
+   "id": 74,
+   "text": "wachtwoorden"
+  },
+  {
+   "id": 75,
+   "text": "factuuradressen"
+  },
+  {
+   "id": 76,
+   "text": "debet of creditcardnummers"
+  },
+  {
+   "id": 77,
+   "text": "Gevoelige informatie."
+  },
+  {
+   "id": 78,
+   "text": " Wanneer dit noodzakelijk is, verwerken wij met uw toestemming of zoals anderszins toegestaan door het toepasselijke recht de volgende categorieën gevoelige informatie:"
+  },
+  {
+   "id": 79,
+   "text": "gezondheidsgegevens"
+  },
+  {
+   "id": 80,
+   "text": "Betalingsgegevens."
+  },
+  {
+   "id": 81,
+   "text": " Wij kunnen gegevens verzamelen die nodig zijn om uw betaling te verwerken als u ervoor kiest aankopen te doen, zoals het nummer van uw betaalinstrument en de beveiligingscode die bij uw betaalinstrument hoort. Alle betalingsgegevens worden verwerkt en opgeslagen door Stripe, Inc. U vindt hun privacyverklaring hier: "
+  },
+  {
+   "id": 82,
+   "text": "https://stripe.com/privacy-policy"
+  },
+  {
+   "id": 83,
+   "text": "."
+  },
+  {
+   "id": 84,
+   "text": "Aanmeldgegevens via sociale media."
+  },
+  {
+   "id": 85,
+   "text": " Wij kunnen u de mogelijkheid bieden om u bij ons te registreren met de gegevens van uw bestaande sociale media account, zoals uw Facebook, X of een ander sociale media account. Als u ervoor kiest u op deze wijze te registreren, verzamelen wij bepaalde profielinformatie over u van de sociale media provider, zoals beschreven in het gedeelte met de titel &quot;"
+  },
+  {
+   "id": 86,
+   "text": "HOE GAAN WIJ OM MET UW AANMELDINGEN VIA SOCIALE MEDIA?"
+  },
+  {
+   "id": 87,
+   "text": "&quot; hieronder."
+  },
+  {
+   "id": 88,
+   "text": "Alle persoonlijke informatie die u aan ons verstrekt, moet waar, volledig en nauwkeurig zijn, en u moet ons op de hoogte stellen van wijzigingen in dergelijke persoonlijke informatie."
+  },
+  {
+   "id": 89,
+   "text": "Automatisch verzamelde informatie"
+  },
+  {
+   "id": 90,
+   "text": "In het kort: Sommige informatie, zoals uw Internet Protocol (IP) adres en/of browser en apparaatkenmerken, wordt automatisch verzameld wanneer u onze Diensten bezoekt."
+  },
+  {
+   "id": 91,
+   "text": "Wij verzamelen automatisch bepaalde informatie wanneer u de Diensten bezoekt, gebruikt of erdoor navigeert. Deze informatie onthult niet uw specifieke identiteit (zoals uw naam of contactgegevens), maar kan apparaat en gebruiksgegevens omvatten, zoals uw IP adres, browser en apparaatkenmerken, besturingssysteem, taalvoorkeuren, verwijzende URL's, apparaatnaam, land, locatie, informatie over hoe en wanneer u onze Diensten gebruikt, en andere technische informatie. Deze informatie is in de eerste plaats nodig om de beveiliging en werking van onze Diensten te handhaven, en voor onze interne analyse en rapportagedoeleinden."
+  },
+  {
+   "id": 92,
+   "text": "De informatie die wij verzamelen, omvat:"
+  },
+  {
+   "id": 93,
+   "text": "Log en gebruiksgegevens."
+  },
+  {
+   "id": 94,
+   "text": " Log en gebruiksgegevens zijn dienstgerelateerde, diagnostische, gebruiks en prestatiegegevens die onze servers automatisch verzamelen wanneer u toegang krijgt tot of gebruikmaakt van onze Diensten, en die wij vastleggen in logbestanden. Afhankelijk van hoe u met ons omgaat, kunnen deze loggegevens uw IP adres, apparaatinformatie, browsertype en instellingen omvatten, alsmede informatie over uw activiteit in de Diensten (zoals de datum en tijdstempels die aan uw gebruik zijn gekoppeld, bekeken pagina's en bestanden, zoekopdrachten en andere handelingen die u verricht, zoals welke functies u gebruikt), apparaatgebeurtenisinformatie (zoals systeemactiviteit, foutrapporten (soms &quot;crash dumps&quot; genoemd) en hardware instellingen)."
+  },
+  {
+   "id": 95,
+   "text": "Apparaatgegevens."
+  },
+  {
+   "id": 96,
+   "text": " Wij verzamelen apparaatgegevens, zoals informatie over uw computer, telefoon, tablet of ander apparaat dat u gebruikt om toegang te krijgen tot de Diensten. Afhankelijk van het gebruikte apparaat kunnen deze apparaatgegevens informatie omvatten zoals uw IP adres (of proxyserver), identificatienummers van apparaat en applicatie, locatie, browsertype, hardwaremodel, internetprovider en/of mobiele provider, besturingssysteem en informatie over de systeemconfiguratie."
+  },
+  {
+   "id": 97,
+   "text": "Locatiegegevens."
+  },
+  {
+   "id": 98,
+   "text": " Wij verzamelen locatiegegevens, zoals informatie over de locatie van uw apparaat, die nauwkeurig of onnauwkeurig kan zijn. Hoeveel informatie wij verzamelen, hangt af van het type en de instellingen van het apparaat dat u gebruikt om toegang te krijgen tot de Diensten. Wij kunnen bijvoorbeeld GPS en andere technologieën gebruiken om geolocatiegegevens te verzamelen die ons vertellen wat uw huidige locatie is (op basis van uw IP adres). U kunt zich afmelden voor het verzamelen van deze informatie door de toegang tot de informatie te weigeren of door de locatie instelling op uw apparaat uit te schakelen. Als u ervoor kiest zich af te melden, kunt u bepaalde aspecten van de Diensten mogelijk niet gebruiken."
+  },
+  {
+   "id": 99,
+   "text": "2. HOE VERWERKEN WIJ UW INFORMATIE?"
+  },
+  {
+   "id": 100,
+   "text": "In het kort: Wij verwerken uw informatie om onze Diensten te leveren, te verbeteren en te beheren, met u te communiceren, voor beveiliging en fraudepreventie, en om de wet na te leven. Wij kunnen uw informatie ook voor andere doeleinden verwerken met uw toestemming."
+  },
+  {
+   "id": 101,
+   "text": "Wij verwerken uw persoonlijke informatie om uiteenlopende redenen, afhankelijk van hoe u met onze Diensten omgaat, waaronder:"
+  },
+  {
+   "id": 102,
+   "text": "Om het aanmaken en verifiëren van accounts te vergemakkelijken en gebruikersaccounts anderszins te beheren."
+  },
+  {
+   "id": 103,
+   "text": " Wij kunnen uw informatie verwerken zodat u uw account kunt aanmaken en erop kunt inloggen, en uw account in goede werking kunt houden."
+  },
+  {
+   "id": 104,
+   "text": "Om diensten aan de gebruiker te leveren en de levering daarvan te vergemakkelijken."
+  },
+  {
+   "id": 105,
+   "text": " Wij kunnen uw informatie verwerken om u de gevraagde dienst te leveren."
+  },
+  {
+   "id": 106,
+   "text": "Om te reageren op vragen van gebruikers en ondersteuning te bieden aan gebruikers."
+  },
+  {
+   "id": 107,
+   "text": " Wij kunnen uw informatie verwerken om te reageren op uw vragen en eventuele problemen op te lossen die u met de gevraagde dienst ondervindt."
+  },
+  {
+   "id": 108,
+   "text": "Om administratieve informatie naar u te sturen."
+  },
+  {
+   "id": 109,
+   "text": " Wij kunnen uw informatie verwerken om u details te sturen over onze producten en diensten, wijzigingen in onze voorwaarden en ons beleid, en andere vergelijkbare informatie."
+  },
+  {
+   "id": 110,
+   "text": "Om uw bestellingen uit te voeren en te beheren."
+  },
+  {
+   "id": 111,
+   "text": " Wij kunnen uw informatie verwerken om uw bestellingen, betalingen, retouren en ruilingen via de Diensten uit te voeren en te beheren."
+  },
+  {
+   "id": 112,
+   "text": "Om feedback te vragen."
+  },
+  {
+   "id": 113,
+   "text": " Wij kunnen uw informatie verwerken wanneer dit nodig is om feedback te vragen en contact met u op te nemen over uw gebruik van onze Diensten."
+  },
+  {
+   "id": 114,
+   "text": "Om getuigenissen te plaatsen."
+  },
+  {
+   "id": 115,
+   "text": " Wij plaatsen getuigenissen op onze Diensten die persoonlijke informatie kunnen bevatten."
+  },
+  {
+   "id": 116,
+   "text": "Om onze Diensten, producten, marketing en uw ervaring te evalueren en te verbeteren."
+  },
+  {
+   "id": 117,
+   "text": " Wij kunnen uw informatie verwerken wanneer wij dit nodig achten om gebruikstrends te identificeren, de effectiviteit van onze promotiecampagnes te bepalen, en onze Diensten, producten, marketing en uw ervaring te evalueren en te verbeteren."
+  },
+  {
+   "id": 118,
+   "text": "Om gebruikstrends te identificeren."
+  },
+  {
+   "id": 119,
+   "text": " Wij kunnen informatie verwerken over hoe u onze Diensten gebruikt, om beter te begrijpen hoe zij worden gebruikt, zodat wij ze kunnen verbeteren."
+  },
+  {
+   "id": 120,
+   "text": "3. WANNEER EN MET WIE DELEN WIJ UW PERSOONLIJKE INFORMATIE?"
+  },
+  {
+   "id": 121,
+   "text": "In het kort: Wij kunnen informatie delen in specifieke situaties die in dit gedeelte worden beschreven en/of met de volgende derden."
+  },
+  {
+   "id": 122,
+   "text": "Wij moeten uw persoonlijke informatie mogelijk delen in de volgende situaties:"
+  },
+  {
+   "id": 123,
+   "text": "Bedrijfsoverdrachten."
+  },
+  {
+   "id": 124,
+   "text": " Wij kunnen uw informatie delen of overdragen in verband met, of tijdens onderhandelingen over, een fusie, verkoop van bedrijfsactiva, financiering of overname van ons gehele bedrijf of een deel daarvan door een ander bedrijf."
+  },
+  {
+   "id": 125,
+   "text": "Zakelijke partners."
+  },
+  {
+   "id": 126,
+   "text": " Wij kunnen uw informatie delen met onze zakelijke partners om u bepaalde producten, diensten of promoties aan te bieden."
+  },
+  {
+   "id": 127,
+   "text": "4. GEBRUIKEN WIJ COOKIES EN ANDERE TRACKINGTECHNOLOGIEËN?"
+  },
+  {
+   "id": 128,
+   "text": "In het kort: Wij kunnen cookies en andere trackingtechnologieën gebruiken om uw informatie te verzamelen en op te slaan."
+  },
+  {
+   "id": 129,
+   "text": "Wij kunnen cookies en vergelijkbare trackingtechnologieën (zoals web beacons en pixels) gebruiken om informatie te verzamelen wanneer u met onze Diensten omgaat. Sommige online trackingtechnologieën helpen ons de beveiliging van onze Diensten en uw account te handhaven, crashes te voorkomen, bugs te verhelpen, uw voorkeuren op te slaan en te helpen bij basisfuncties van de site."
+  },
+  {
+   "id": 130,
+   "text": "Wij staan derden en dienstverleners ook toe online trackingtechnologieën op onze Diensten te gebruiken voor analyse en reclame, waaronder om advertenties te helpen beheren en weergeven of advertenties af te stemmen op uw interesses. De derden en dienstverleners gebruiken hun technologie om reclame te bieden over producten en diensten die zijn afgestemd op uw interesses en die kunnen verschijnen op onze Diensten of op andere websites."
+  },
+  {
+   "id": 131,
+   "text": "Voor zover deze online trackingtechnologieën volgens de toepasselijke wetten van Amerikaanse staten worden beschouwd als een &quot;verkoop&quot; of &quot;deling&quot; (waaronder gerichte reclame, zoals gedefinieerd in de toepasselijke wetten), kunt u zich afmelden voor deze online trackingtechnologieën door een verzoek in te dienen zoals hieronder beschreven in het gedeelte &quot;"
+  },
+  {
+   "id": 132,
+   "text": "HEBBEN INWONERS VAN DE VERENIGDE STATEN SPECIFIEKE PRIVACYRECHTEN?"
+  },
+  {
+   "id": 133,
+   "text": "&quot;"
+  },
+  {
+   "id": 134,
+   "text": "Specifieke informatie over hoe wij dergelijke technologieën gebruiken en hoe u bepaalde cookies kunt weigeren, vindt u in onze Cookiemelding."
+  },
+  {
+   "id": 135,
+   "text": "Google Analytics"
+  },
+  {
+   "id": 136,
+   "text": "Wij kunnen uw informatie delen met Google Analytics om het gebruik van de Diensten te volgen en te analyseren. De advertentiefuncties van Google Analytics die wij kunnen gebruiken, omvatten: Google Display Network Impressions Reporting en Google Analytics Demographics and Interests Reporting. Om u af te melden voor tracking door Google Analytics via de Diensten, gaat u naar "
+  },
+  {
+   "id": 137,
+   "text": "https://tools.google.com/dlpage/gaoptout"
+  },
+  {
+   "id": 138,
+   "text": ". U kunt zich afmelden voor de advertentiefuncties van Google Analytics via "
+  },
+  {
+   "id": 139,
+   "text": "Advertentie instellingen"
+  },
+  {
+   "id": 140,
+   "text": " en Advertentie instellingen voor mobiele apps. Andere manieren om u af te melden zijn onder meer "
+  },
+  {
+   "id": 141,
+   "text": "http://optout.networkadvertising.org/"
+  },
+  {
+   "id": 142,
+   "text": " en "
+  },
+  {
+   "id": 143,
+   "text": "http://www.networkadvertising.org/mobile-choice"
+  },
+  {
+   "id": 144,
+   "text": ". Voor meer informatie over de privacypraktijken van Google raadpleegt u de "
+  },
+  {
+   "id": 145,
+   "text": "pagina Google Privacy &amp; Voorwaarden"
+  },
+  {
+   "id": 146,
+   "text": "."
+  },
+  {
+   "id": 147,
+   "text": "5. BIEDEN WIJ PRODUCTEN OP BASIS VAN KUNSTMATIGE INTELLIGENTIE AAN?"
+  },
+  {
+   "id": 148,
+   "text": "In het kort: Wij bieden producten, functies of hulpmiddelen aan die worden aangedreven door kunstmatige intelligentie, machine learning of vergelijkbare technologieën."
+  },
+  {
+   "id": 149,
+   "text": "Als onderdeel van onze Diensten bieden wij producten, functies of hulpmiddelen aan die worden aangedreven door kunstmatige intelligentie, machine learning of vergelijkbare technologieën (gezamenlijk &quot;AI Producten&quot;). Deze hulpmiddelen zijn ontworpen om uw ervaring te verbeteren en u innovatieve oplossingen te bieden. De voorwaarden in deze privacyverklaring zijn van toepassing op uw gebruik van de AI Producten binnen onze Diensten."
+  },
+  {
+   "id": 150,
+   "text": "Gebruik van AI technologieën"
+  },
+  {
+   "id": 151,
+   "text": "Wij leveren de AI Producten via externe dienstverleners (&quot;AI Dienstverleners&quot;), waaronder OpenAI. Zoals uiteengezet in deze privacyverklaring, worden uw invoer, uitvoer en persoonlijke informatie gedeeld met en verwerkt door deze AI Dienstverleners om uw gebruik van onze AI Producten mogelijk te maken voor de doeleinden die worden beschreven in &quot;"
+  },
+  {
+   "id": 152,
+   "text": "WANNEER EN MET WIE DELEN WIJ UW PERSOONLIJKE INFORMATIE?"
+  },
+  {
+   "id": 153,
+   "text": "&quot; U mag de AI Producten niet gebruiken op een wijze die de voorwaarden of het beleid van een AI Dienstverlener schendt."
+  },
+  {
+   "id": 154,
+   "text": "Onze AI Producten"
+  },
+  {
+   "id": 155,
+   "text": "Onze AI Producten zijn ontworpen voor de volgende functies:"
+  },
+  {
+   "id": 156,
+   "text": "AI inzichten"
+  },
+  {
+   "id": 157,
+   "text": "Hoe wij uw gegevens verwerken met AI"
+  },
+  {
+   "id": 158,
+   "text": "Alle persoonlijke informatie die met behulp van onze AI Producten wordt verwerkt, wordt behandeld in overeenstemming met onze privacyverklaring en onze overeenkomst met derden. Dit zorgt voor een hoge beveiliging en beschermt uw persoonlijke informatie gedurende het hele proces, zodat u gerust kunt zijn over de veiligheid van uw gegevens."
+  },
+  {
+   "id": 159,
+   "text": "6. HOE GAAN WIJ OM MET UW AANMELDINGEN VIA SOCIALE MEDIA?"
+  },
+  {
+   "id": 160,
+   "text": "In het kort: Als u ervoor kiest u te registreren of aan te melden bij onze Diensten met een sociale media account, kunnen wij toegang hebben tot bepaalde informatie over u."
+  },
+  {
+   "id": 161,
+   "text": "Onze Diensten bieden u de mogelijkheid om u te registreren en aan te melden met de gegevens van uw sociale media account van een derde (zoals uw Facebook of X aanmeldingen). Wanneer u ervoor kiest dit te doen, ontvangen wij bepaalde profielinformatie over u van uw sociale media provider. De profielinformatie die wij ontvangen, kan variëren afhankelijk van de betreffende sociale media provider, maar omvat vaak uw naam, e-mailadres, vriendenlijst en profielfoto, alsmede andere informatie die u ervoor kiest openbaar te maken op een dergelijk sociale media platform."
+  },
+  {
+   "id": 162,
+   "text": "Wij gebruiken de informatie die wij ontvangen uitsluitend voor de doeleinden die in deze privacyverklaring worden beschreven of die u anderszins duidelijk worden gemaakt via de betreffende Diensten. Houd er rekening mee dat wij geen controle hebben over, en niet verantwoordelijk zijn voor, ander gebruik van uw persoonlijke informatie door uw externe sociale media provider. Wij raden u aan hun privacyverklaring te raadplegen om te begrijpen hoe zij uw persoonlijke informatie verzamelen, gebruiken en delen, en hoe u uw privacyvoorkeuren kunt instellen op hun sites en apps."
+  },
+  {
+   "id": 163,
+   "text": "7. HOE LANG BEWAREN WIJ UW INFORMATIE?"
+  },
+  {
+   "id": 164,
+   "text": "In het kort: Wij bewaren uw informatie zolang als nodig is om de doeleinden in deze privacyverklaring te vervullen, tenzij de wet anders vereist."
+  },
+  {
+   "id": 165,
+   "text": "Wij bewaren uw persoonlijke informatie alleen zolang dit nodig is voor de doeleinden die in deze privacyverklaring worden uiteengezet, tenzij een langere bewaartermijn wettelijk vereist of toegestaan is (zoals fiscale, boekhoudkundige of andere wettelijke vereisten). Geen enkel doel in deze verklaring vereist dat wij uw persoonlijke informatie langer bewaren dan de periode waarin gebruikers een account bij ons hebben."
+  },
+  {
+   "id": 166,
+   "text": "Wanneer wij geen doorlopende legitieme zakelijke noodzaak meer hebben om uw persoonlijke informatie te verwerken, zullen wij dergelijke informatie verwijderen of anonimiseren, of, als dit niet mogelijk is (bijvoorbeeld omdat uw persoonlijke informatie is opgeslagen in back-uparchieven), zullen wij uw persoonlijke informatie veilig opslaan en isoleren van verdere verwerking totdat verwijdering mogelijk is."
+  },
+  {
+   "id": 167,
+   "text": "8. HOE HOUDEN WIJ UW INFORMATIE VEILIG?"
+  },
+  {
+   "id": 168,
+   "text": "In het kort: Wij streven ernaar uw persoonlijke informatie te beschermen via een systeem van organisatorische en technische beveiligingsmaatregelen."
+  },
+  {
+   "id": 169,
+   "text": "Wij hebben passende en redelijke technische en organisatorische beveiligingsmaatregelen geïmplementeerd die zijn ontworpen om de beveiliging te beschermen van alle persoonlijke informatie die wij verwerken. Ondanks onze beveiligingsmaatregelen en inspanningen om uw informatie te beveiligen, kan echter geen enkele elektronische verzending via internet of technologie voor informatieopslag voor 100% veilig worden gegarandeerd, dus wij kunnen niet beloven of garanderen dat hackers, cybercriminelen of andere onbevoegde derden onze beveiliging niet zullen kunnen omzeilen en uw informatie op onjuiste wijze zullen verzamelen, benaderen, stelen of wijzigen. Hoewel wij ons best zullen doen om uw persoonlijke informatie te beschermen, geschiedt de verzending van persoonlijke informatie naar en van onze Diensten op eigen risico. U dient de Diensten uitsluitend binnen een beveiligde omgeving te benaderen."
+  },
+  {
+   "id": 170,
+   "text": "9. VERZAMELEN WIJ INFORMATIE VAN MINDERJARIGEN?"
+  },
+  {
+   "id": 171,
+   "text": "In het kort: Wij verzamelen niet bewust gegevens van kinderen jonger dan 18 jaar en richten ons niet op hen met marketing."
+  },
+  {
+   "id": 172,
+   "text": "Wij verzamelen niet bewust gegevens van kinderen jonger dan 18 jaar, vragen hen niet om gegevens en richten ons niet op hen met marketing, noch verkopen wij bewust dergelijke persoonlijke informatie. Door de Diensten te gebruiken, verklaart u dat u ten minste 18 jaar oud bent, of dat u de ouder of voogd bent van een dergelijke minderjarige en instemt met het gebruik van de Diensten door die minderjarige afhankelijke persoon. Als wij vernemen dat persoonlijke informatie van gebruikers jonger dan 18 jaar is verzameld, zullen wij het account deactiveren en redelijke maatregelen nemen om dergelijke gegevens onmiddellijk uit onze administratie te verwijderen. Als u op de hoogte raakt van gegevens die wij mogelijk van kinderen jonger dan 18 jaar hebben verzameld, neem dan contact met ons op via "
+  },
+  {
+   "id": 173,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 174,
+   "text": "."
+  },
+  {
+   "id": 175,
+   "text": "10. WAT ZIJN UW PRIVACYRECHTEN?"
+  },
+  {
+   "id": 176,
+   "text": "Uw toestemming intrekken:"
+  },
+  {
+   "id": 177,
+   "text": " Als wij ons baseren op uw toestemming om uw persoonlijke informatie te verwerken, wat afhankelijk van het toepasselijke recht uitdrukkelijke en/of stilzwijgende toestemming kan zijn, hebt u het recht uw toestemming op elk moment in te trekken. U kunt uw toestemming op elk moment intrekken door contact met ons op te nemen via de contactgegevens in het gedeelte &quot;"
+  },
+  {
+   "id": 178,
+   "text": "HOE KUNT U CONTACT MET ONS OPNEMEN OVER DEZE VERKLARING?"
+  },
+  {
+   "id": 179,
+   "text": "&quot; hieronder."
+  },
+  {
+   "id": 180,
+   "text": "Houd er echter rekening mee dat dit geen invloed heeft op de rechtmatigheid van de verwerking vóór de intrekking, en, wanneer het toepasselijke recht dit toestaat, evenmin op de verwerking van uw persoonlijke informatie die plaatsvindt op basis van rechtmatige verwerkingsgronden anders dan toestemming."
+  },
+  {
+   "id": 181,
+   "text": "Accountgegevens"
+  },
+  {
+   "id": 182,
+   "text": "Als u op enig moment de informatie in uw account wilt inzien of wijzigen, of uw account wilt beëindigen, kunt u:"
+  },
+  {
+   "id": 183,
+   "text": "Inloggen op uw accountinstellingen en uw gebruikersaccount bijwerken."
+  },
+  {
+   "id": 184,
+   "text": "Op uw verzoek om uw account te beëindigen, zullen wij uw account en informatie deactiveren of verwijderen uit onze actieve databases. Wij kunnen echter bepaalde informatie in onze bestanden bewaren om fraude te voorkomen, problemen op te lossen, te helpen bij onderzoeken, onze juridische voorwaarden af te dwingen en/of te voldoen aan toepasselijke wettelijke vereisten."
+  },
+  {
+   "id": 185,
+   "text": "Als u vragen of opmerkingen hebt over uw privacyrechten, kunt u ons een e-mail sturen via "
+  },
+  {
+   "id": 186,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 187,
+   "text": "."
+  },
+  {
+   "id": 188,
+   "text": "11. CONTROLES VOOR DO NOT TRACK FUNCTIES"
+  },
+  {
+   "id": 189,
+   "text": "De meeste webbrowsers en sommige mobiele besturingssystemen en mobiele applicaties bevatten een Do Not Track (&quot;DNT&quot;) functie of instelling die u kunt activeren om uw privacyvoorkeur aan te geven dat gegevens over uw online browse activiteiten niet worden gemonitord en verzameld. In dit stadium is er nog geen uniforme technologische standaard voor het herkennen en implementeren van DNT signalen vastgesteld. Als zodanig reageren wij momenteel niet op DNT signalen van browsers of enig ander mechanisme dat automatisch uw keuze communiceert om niet online te worden gevolgd. Als er in de toekomst een standaard voor online tracking wordt aangenomen die wij moeten volgen, zullen wij u over die praktijk informeren in een herziene versie van deze privacyverklaring."
+  },
+  {
+   "id": 190,
+   "text": "De wet van Californië vereist dat wij u laten weten hoe wij reageren op DNT signalen van webbrowsers. Omdat er momenteel geen industriële of wettelijke standaard bestaat voor het herkennen of honoreren van DNT signalen, reageren wij er op dit moment niet op."
+  },
+  {
+   "id": 191,
+   "text": "Global Privacy Control:"
+  },
+  {
+   "id": 192,
+   "text": " Wij erkennen en honoreren signalen van Global Privacy Control (GPC). Als u een browser of extensie gebruikt die GPC ondersteunt, behandelen wij dit als een geldig verzoek om u af te melden voor de verkoop of deling van uw persoonlijke informatie voor gerichte reclamedoeleinden onder de toepasselijke privacywetten van staten, waaronder de California Consumer Privacy Act (CCPA). Wanneer wij een GPC signaal van uw browser detecteren, passen wij uw afmeldvoorkeur automatisch toe zonder dat u verdere actie hoeft te ondernemen. Voor meer informatie over GPC en hoe u dit kunt inschakelen, gaat u naar "
+  },
+  {
+   "id": 193,
+   "text": "globalprivacycontrol.org"
+  },
+  {
+   "id": 194,
+   "text": "."
+  },
+  {
+   "id": 195,
+   "text": "12. HEBBEN INWONERS VAN DE VERENIGDE STATEN SPECIFIEKE PRIVACYRECHTEN?"
+  },
+  {
+   "id": 196,
+   "text": "In het kort: Als u inwoner bent van Californië, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah of Virginia, kunt u het recht hebben om toegang te vragen tot en details te ontvangen over de persoonlijke informatie die wij over u bewaren en hoe wij deze hebben verwerkt, onnauwkeurigheden te corrigeren, een kopie te verkrijgen van, of uw persoonlijke informatie te verwijderen. U kunt ook het recht hebben uw toestemming voor onze verwerking van uw persoonlijke informatie in te trekken. Deze rechten kunnen in bepaalde omstandigheden worden beperkt door het toepasselijke recht. Hieronder vindt u meer informatie."
+  },
+  {
+   "id": 197,
+   "text": "Categorieën persoonlijke informatie die wij verzamelen"
+  },
+  {
+   "id": 198,
+   "text": "De onderstaande tabel toont de categorieën persoonlijke informatie die wij in de afgelopen twaalf (12) maanden hebben verzameld. De tabel bevat illustratieve voorbeelden van elke categorie en weerspiegelt niet de persoonlijke informatie die wij van u verzamelen. Voor een volledige inventaris van alle persoonlijke informatie die wij verwerken, verwijzen wij naar het gedeelte &quot;"
+  },
+  {
+   "id": 199,
+   "text": "WELKE INFORMATIE VERZAMELEN WIJ?"
+  },
+  {
+   "id": 200,
+   "text": "&quot;"
+  },
+  {
+   "id": 201,
+   "text": "Categorie"
+  },
+  {
+   "id": 202,
+   "text": "Voorbeelden"
+  },
+  {
+   "id": 203,
+   "text": "Verzameld"
+  },
+  {
+   "id": 204,
+   "text": "A. Identificatiegegevens"
+  },
+  {
+   "id": 205,
+   "text": "Contactgegevens, zoals echte naam, alias, postadres, telefoon of mobiel contactnummer, unieke persoonlijke identificatie, online identificatie, Internet Protocol adres, e-mailadres en accountnaam"
+  },
+  {
+   "id": 206,
+   "text": "JA"
+  },
+  {
+   "id": 207,
+   "text": "B. Persoonlijke informatie zoals gedefinieerd in de California Customer Records wet"
+  },
+  {
+   "id": 208,
+   "text": "Naam, contactgegevens, opleiding, werkgelegenheid, arbeidsverleden en financiële informatie"
+  },
+  {
+   "id": 209,
+   "text": "JA"
+  },
+  {
+   "id": 210,
+   "text": "C. Beschermde classificatiekenmerken onder staats of federale wetgeving"
+  },
+  {
+   "id": 211,
+   "text": "Geslacht, leeftijd, geboortedatum, ras en etniciteit, nationale afkomst, burgerlijke staat en andere demografische gegevens"
+  },
+  {
+   "id": 212,
+   "text": "NEE"
+  },
+  {
+   "id": 213,
+   "text": "D. Commerciële informatie"
+  },
+  {
+   "id": 214,
+   "text": "Transactiegegevens, aankoopgeschiedenis, financiële details en betalingsinformatie"
+  },
+  {
+   "id": 215,
+   "text": "NEE"
+  },
+  {
+   "id": 216,
+   "text": "E. Biometrische informatie"
+  },
+  {
+   "id": 217,
+   "text": "Vingerafdrukken en stemafdrukken"
+  },
+  {
+   "id": 218,
+   "text": "JA"
+  },
+  {
+   "id": 219,
+   "text": "F. Internet of andere vergelijkbare netwerkactiviteit"
+  },
+  {
+   "id": 220,
+   "text": "Browsegeschiedenis, zoekgeschiedenis, online gedrag, interessegegevens en interacties met onze en andere websites, applicaties, systemen en advertenties"
+  },
+  {
+   "id": 221,
+   "text": "NEE"
+  },
+  {
+   "id": 222,
+   "text": "G. Geolocatiegegevens"
+  },
+  {
+   "id": 223,
+   "text": "Apparaatlocatie"
+  },
+  {
+   "id": 224,
+   "text": "NEE"
+  },
+  {
+   "id": 225,
+   "text": "H. Audio, elektronische, zintuiglijke of vergelijkbare informatie"
+  },
+  {
+   "id": 226,
+   "text": "Afbeeldingen en audio, video of gespreksopnamen die zijn gemaakt in verband met onze bedrijfsactiviteiten"
+  },
+  {
+   "id": 227,
+   "text": "NEE"
+  },
+  {
+   "id": 228,
+   "text": "I. Beroeps of werkgerelateerde informatie"
+  },
+  {
+   "id": 229,
+   "text": "Zakelijke contactgegevens om u onze Diensten op zakelijk niveau te leveren, of functietitel, arbeidsverleden en professionele kwalificaties als u bij ons solliciteert"
+  },
+  {
+   "id": 230,
+   "text": "NEE"
+  },
+  {
+   "id": 231,
+   "text": "J. Onderwijsinformatie"
+  },
+  {
+   "id": 232,
+   "text": "Studentendossiers en gidsinformatie"
+  },
+  {
+   "id": 233,
+   "text": "NEE"
+  },
+  {
+   "id": 234,
+   "text": "K. Gevolgtrekkingen uit verzamelde persoonlijke informatie"
+  },
+  {
+   "id": 235,
+   "text": "Gevolgtrekkingen uit alle hierboven vermelde verzamelde persoonlijke informatie om een profiel of samenvatting te creëren over bijvoorbeeld de voorkeuren en kenmerken van een individu"
+  },
+  {
+   "id": 236,
+   "text": "NEE"
+  },
+  {
+   "id": 237,
+   "text": "L. Gevoelige persoonlijke informatie"
+  },
+  {
+   "id": 238,
+   "text": "Account aanmeldgegevens, debet of creditcardnummers, genetische gegevens en gezondheidsgegevens"
+  },
+  {
+   "id": 239,
+   "text": "JA"
+  },
+  {
+   "id": 240,
+   "text": "Wij verzamelen gevoelige persoonlijke informatie uitsluitend zoals gedefinieerd door de toepasselijke privacywetten, of voor de doeleinden die wettelijk zijn toegestaan of met uw toestemming. Gevoelige persoonlijke informatie kan worden gebruikt, of openbaar worden gemaakt aan een dienstverlener of contractant, voor aanvullende, gespecificeerde doeleinden. U kunt het recht hebben het gebruik of de openbaarmaking van uw gevoelige persoonlijke informatie te beperken. Wij verzamelen of verwerken geen gevoelige persoonlijke informatie met het doel kenmerken over u af te leiden."
+  },
+  {
+   "id": 241,
+   "text": "Wij kunnen ook andere persoonlijke informatie buiten deze categorieën verzamelen in gevallen waarin u persoonlijk, online of telefonisch of per post met ons in contact treedt in het kader van:"
+  },
+  {
+   "id": 242,
+   "text": "Hulp ontvangen via onze klantenservicekanalen;"
+  },
+  {
+   "id": 243,
+   "text": "Deelname aan klantenenquêtes of wedstrijden; en"
+  },
+  {
+   "id": 244,
+   "text": "Het vergemakkelijken van de levering van onze Diensten en het reageren op uw vragen."
+  },
+  {
+   "id": 245,
+   "text": "Wij zullen de verzamelde persoonlijke informatie gebruiken en bewaren voor zover nodig om de Diensten te leveren, of voor:"
+  },
+  {
+   "id": 246,
+   "text": "Categorie A: Zolang de gebruiker een account bij ons heeft"
+  },
+  {
+   "id": 247,
+   "text": "Categorie B: Zolang de gebruiker een account bij ons heeft"
+  },
+  {
+   "id": 248,
+   "text": "Categorie E: Zolang de gebruiker een account bij ons heeft"
+  },
+  {
+   "id": 249,
+   "text": "Categorie L: Zolang de gebruiker een account bij ons heeft"
+  },
+  {
+   "id": 250,
+   "text": "Bronnen van persoonlijke informatie"
+  },
+  {
+   "id": 251,
+   "text": "Lees meer over de bronnen van persoonlijke informatie die wij verzamelen in &quot;"
+  },
+  {
+   "id": 252,
+   "text": "WELKE INFORMATIE VERZAMELEN WIJ?"
+  },
+  {
+   "id": 253,
+   "text": "&quot;"
+  },
+  {
+   "id": 254,
+   "text": "Hoe wij persoonlijke informatie gebruiken en delen"
+  },
+  {
+   "id": 255,
+   "text": "Lees meer over hoe wij uw persoonlijke informatie gebruiken in het gedeelte &quot;"
+  },
+  {
+   "id": 256,
+   "text": "HOE VERWERKEN WIJ UW INFORMATIE?"
+  },
+  {
+   "id": 257,
+   "text": "&quot;"
+  },
+  {
+   "id": 258,
+   "text": "Wordt uw informatie met iemand anders gedeeld?"
+  },
+  {
+   "id": 259,
+   "text": "Wij kunnen uw persoonlijke informatie openbaar maken aan onze dienstverleners op grond van een schriftelijke overeenkomst tussen ons en elke dienstverlener. Lees meer over hoe wij persoonlijke informatie openbaar maken in het gedeelte &quot;"
+  },
+  {
+   "id": 260,
+   "text": "WANNEER EN MET WIE DELEN WIJ UW PERSOONLIJKE INFORMATIE?"
+  },
+  {
+   "id": 261,
+   "text": "&quot;"
+  },
+  {
+   "id": 262,
+   "text": "Wij kunnen uw persoonlijke informatie gebruiken voor onze eigen zakelijke doeleinden, zoals het uitvoeren van intern onderzoek voor technologische ontwikkeling en demonstratie. Dit wordt niet beschouwd als &quot;verkopen&quot; van uw persoonlijke informatie."
+  },
+  {
+   "id": 263,
+   "text": "Wij hebben in de voorafgaande twaalf (12) maanden geen persoonlijke informatie openbaar gemaakt, verkocht of gedeeld met derden voor een zakelijk of commercieel doel. Wij zullen in de toekomst geen persoonlijke informatie verkopen of delen die toebehoort aan websitebezoekers, gebruikers en andere consumenten."
+  },
+  {
+   "id": 264,
+   "text": "Uw rechten"
+  },
+  {
+   "id": 265,
+   "text": "U hebt rechten onder bepaalde wetten inzake gegevensbescherming van Amerikaanse staten. Deze rechten zijn echter niet absoluut, en in bepaalde gevallen kunnen wij uw verzoek weigeren voor zover wettelijk toegestaan. Deze rechten omvatten:"
+  },
+  {
+   "id": 266,
+   "text": "Recht om te weten"
+  },
+  {
+   "id": 267,
+   "text": " of wij uw persoonsgegevens al dan niet verwerken"
+  },
+  {
+   "id": 268,
+   "text": "Recht op toegang"
+  },
+  {
+   "id": 269,
+   "text": " tot uw persoonsgegevens"
+  },
+  {
+   "id": 270,
+   "text": "Recht om"
+  },
+  {
+   "id": 271,
+   "text": " onnauwkeurigheden in uw persoonsgegevens te corrigeren"
+  },
+  {
+   "id": 272,
+   "text": "Recht om te verzoeken"
+  },
+  {
+   "id": 273,
+   "text": " om verwijdering van uw persoonsgegevens"
+  },
+  {
+   "id": 274,
+   "text": "Recht om een kopie te verkrijgen"
+  },
+  {
+   "id": 275,
+   "text": " van de persoonsgegevens die u eerder met ons hebt gedeeld"
+  },
+  {
+   "id": 276,
+   "text": "Recht op non discriminatie"
+  },
+  {
+   "id": 277,
+   "text": " voor het uitoefenen van uw rechten"
+  },
+  {
+   "id": 278,
+   "text": "Recht om u af te melden"
+  },
+  {
+   "id": 279,
+   "text": " voor de verwerking van uw persoonsgegevens als deze worden gebruikt voor gerichte reclame (of deling zoals gedefinieerd in de privacywet van Californië), de verkoop van persoonsgegevens, of profilering ter bevordering van beslissingen die juridische of vergelijkbaar significante gevolgen hebben (&quot;profilering&quot;)"
+  },
+  {
+   "id": 280,
+   "text": "Afhankelijk van de staat waar u woont, kunt u ook de volgende rechten hebben:"
+  },
+  {
+   "id": 281,
+   "text": "Recht op toegang tot de categorieën persoonsgegevens die worden verwerkt (zoals toegestaan door het toepasselijke recht, waaronder de privacywet in Minnesota)"
+  },
+  {
+   "id": 282,
+   "text": "Recht om een lijst te verkrijgen van de categorieën derden aan wie wij persoonsgegevens hebben verstrekt (zoals toegestaan door het toepasselijke recht, waaronder de privacywet in Californië, Delaware en Maryland)"
+  },
+  {
+   "id": 283,
+   "text": "Recht om een lijst te verkrijgen van specifieke derden aan wie wij persoonsgegevens hebben verstrekt (zoals toegestaan door het toepasselijke recht, waaronder de privacywet in Minnesota en Oregon)"
+  },
+  {
+   "id": 284,
+   "text": "Recht om een lijst te verkrijgen van derden aan wie wij persoonsgegevens hebben verkocht (zoals toegestaan door het toepasselijke recht, waaronder de privacywet in Connecticut)"
+  },
+  {
+   "id": 285,
+   "text": "Recht om te beoordelen, begrijpen, bevragen, en afhankelijk van waar u woont, te corrigeren hoe persoonsgegevens zijn geprofileerd (zoals toegestaan door het toepasselijke recht, waaronder de privacywet in Connecticut en Minnesota)"
+  },
+  {
+   "id": 286,
+   "text": "Recht om het gebruik en de openbaarmaking van gevoelige persoonsgegevens te beperken (zoals toegestaan door het toepasselijke recht, waaronder de privacywet in Californië)"
+  },
+  {
+   "id": 287,
+   "text": "Recht om u af te melden voor het verzamelen van gevoelige gegevens en persoonsgegevens die worden verzameld via de werking van een spraak of gezichtsherkenningsfunctie (zoals toegestaan door het toepasselijke recht, waaronder de privacywet in Florida)"
+  },
+  {
+   "id": 288,
+   "text": "Hoe u uw rechten kunt uitoefenen"
+  },
+  {
+   "id": 289,
+   "text": "Om deze rechten uit te oefenen, kunt u contact met ons opnemen door een bezoek te brengen aan "
+  },
+  {
+   "id": 290,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 291,
+   "text": ", door een bezoek te brengen aan "
+  },
+  {
+   "id": 292,
+   "text": "http://www.tavalabs.app/contact-us"
+  },
+  {
+   "id": 293,
+   "text": ", of door de contactgegevens onderaan dit document te raadplegen."
+  },
+  {
+   "id": 294,
+   "text": "Wij zullen uw afmeldvoorkeuren honoreren als u het afmeldsignaal van de "
+  },
+  {
+   "id": 295,
+   "text": "Global Privacy Control"
+  },
+  {
+   "id": 296,
+   "text": " (GPC) in uw browser activeert."
+  },
+  {
+   "id": 297,
+   "text": "Onder bepaalde wetten inzake gegevensbescherming van Amerikaanse staten kunt u een gemachtigde agent aanwijzen om namens u een verzoek in te dienen. Wij kunnen een verzoek van een gemachtigde agent weigeren als deze geen bewijs overlegt dat hij rechtsgeldig is gemachtigd om namens u te handelen in overeenstemming met de toepasselijke wetten."
+  },
+  {
+   "id": 298,
+   "text": "Verificatie van het verzoek"
+  },
+  {
+   "id": 299,
+   "text": "Na ontvangst van uw verzoek moeten wij uw identiteit verifiëren om vast te stellen dat u dezelfde persoon bent over wie wij informatie in ons systeem hebben. Wij zullen persoonlijke informatie die in uw verzoek is verstrekt uitsluitend gebruiken om uw identiteit of bevoegdheid om het verzoek te doen te verifiëren. Als wij uw identiteit echter niet kunnen verifiëren aan de hand van de informatie die wij al bewaren, kunnen wij u vragen aanvullende informatie te verstrekken voor het verifiëren van uw identiteit en voor beveiligings of fraudepreventiedoeleinden."
+  },
+  {
+   "id": 300,
+   "text": "Als u het verzoek indient via een gemachtigde agent, moeten wij mogelijk aanvullende informatie verzamelen om uw identiteit te verifiëren voordat wij uw verzoek verwerken, en moet de agent een schriftelijke en ondertekende toestemming van u overleggen om een dergelijk verzoek namens u in te dienen."
+  },
+  {
+   "id": 301,
+   "text": "Beroep"
+  },
+  {
+   "id": 302,
+   "text": "Onder bepaalde wetten inzake gegevensbescherming van Amerikaanse staten kunt u, als wij weigeren actie te ondernemen met betrekking tot uw verzoek, in beroep gaan tegen onze beslissing door ons een e-mail te sturen via "
+  },
+  {
+   "id": 303,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 304,
+   "text": ". Wij zullen u schriftelijk informeren over elke actie die is ondernomen of niet is ondernomen naar aanleiding van het beroep, inclusief een schriftelijke uitleg van de redenen voor de beslissingen. Als uw beroep wordt afgewezen, kunt u een klacht indienen bij de procureur generaal van uw staat."
+  },
+  {
+   "id": 305,
+   "text": "&quot;Shine The Light&quot; wet van Californië"
+  },
+  {
+   "id": 306,
+   "text": "Artikel 1798.83 van het Burgerlijk Wetboek van Californië, ook bekend als de &quot;Shine The Light&quot; wet, staat onze gebruikers die inwoner zijn van Californië toe om eenmaal per jaar en kosteloos bij ons informatie op te vragen en te verkrijgen over categorieën persoonlijke informatie (indien van toepassing) die wij aan derden hebben verstrekt voor direct marketingdoeleinden, en de namen en adressen van alle derden met wie wij persoonlijke informatie hebben gedeeld in het onmiddellijk voorafgaande kalenderjaar. Als u inwoner bent van Californië en een dergelijk verzoek wilt indienen, dient u uw verzoek schriftelijk bij ons in via de contactgegevens in het gedeelte &quot;"
+  },
+  {
+   "id": 307,
+   "text": "HOE KUNT U CONTACT MET ONS OPNEMEN OVER DEZE VERKLARING?"
+  },
+  {
+   "id": 308,
+   "text": "&quot;"
+  },
+  {
+   "id": 309,
+   "text": "13. WERKEN WIJ DEZE VERKLARING BIJ?"
+  },
+  {
+   "id": 310,
+   "text": "In het kort: Ja, wij zullen deze verklaring bijwerken waar nodig om te blijven voldoen aan de relevante wetten."
+  },
+  {
+   "id": 311,
+   "text": "Wij kunnen deze privacyverklaring van tijd tot tijd bijwerken. De bijgewerkte versie wordt aangegeven door een bijgewerkte datum van &quot;Herzien&quot; bovenaan deze privacyverklaring. Als wij wezenlijke wijzigingen aanbrengen in deze privacyverklaring, kunnen wij u hiervan op de hoogte stellen door een kennisgeving van dergelijke wijzigingen opvallend te plaatsen of door u rechtstreeks een melding te sturen. Wij raden u aan deze privacyverklaring regelmatig te raadplegen om op de hoogte te blijven van hoe wij uw informatie beschermen."
+  },
+  {
+   "id": 312,
+   "text": "14. HOE KUNT U CONTACT MET ONS OPNEMEN OVER DEZE VERKLARING?"
+  },
+  {
+   "id": 313,
+   "text": "Als u vragen of opmerkingen hebt over deze verklaring, kunt u contact opnemen met onze functionaris voor gegevensbescherming (DPO) per e-mail via "
+  },
+  {
+   "id": 314,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 315,
+   "text": ", of per post contact met ons opnemen via:"
+  },
+  {
+   "id": 316,
+   "text": "Tava Labs, LLC"
+  },
+  {
+   "id": 317,
+   "text": "Functionaris voor gegevensbescherming"
+  },
+  {
+   "id": 318,
+   "text": "1521 Blake St STE 95593"
+  },
+  {
+   "id": 319,
+   "text": "Denver, CO 80202"
+  },
+  {
+   "id": 320,
+   "text": "Verenigde Staten"
+  },
+  {
+   "id": 321,
+   "text": "15. HOE KUNT U DE GEGEVENS DIE WIJ VAN U VERZAMELEN INZIEN, BIJWERKEN OF VERWIJDEREN?"
+  },
+  {
+   "id": 322,
+   "text": "Op basis van de toepasselijke wetten van uw land of staat van verblijf in de VS kunt u het recht hebben om toegang te vragen tot de persoonlijke informatie die wij van u verzamelen, details over hoe wij deze hebben verwerkt, onnauwkeurigheden te corrigeren, of uw persoonlijke informatie te verwijderen. U kunt ook het recht hebben uw toestemming voor onze verwerking van uw persoonlijke informatie in te trekken. Deze rechten kunnen in bepaalde omstandigheden worden beperkt door het toepasselijke recht. Om te verzoeken uw persoonlijke informatie in te zien, bij te werken of te verwijderen, gaat u naar: "
+  },
+  {
+   "id": 323,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 324,
+   "text": "."
+  },
+  {
+   "id": 325,
+   "text": "Dit Privacybeleid is opgesteld met behulp van de "
+  },
+  {
+   "id": 326,
+   "text": "Privacybeleid generator van Termly"
+  },
+  {
+   "id": 327,
+   "text": "."
+  }
+ ]
+}

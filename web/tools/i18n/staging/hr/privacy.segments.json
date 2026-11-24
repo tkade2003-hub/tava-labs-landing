@@ -1,0 +1,1319 @@
+{
+ "slug": "privacy",
+ "title": "Politika privatnosti | Tava Labs",
+ "description": "Kako tvrtka Tava Labs prikuplja, koristi i štiti vaše podatke kada posjetite tavalabs.app, riješite kviz o koži ili naručite PDRN Brightening Serum.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "Pravno"
+  },
+  {
+   "id": 1,
+   "text": "Politika privatnosti"
+  },
+  {
+   "id": 2,
+   "text": "Posljednje ažuriranje 5. studenoga 2026."
+  },
+  {
+   "id": 3,
+   "text": "Ova Obavijest o privatnosti za tvrtku Tava Labs, LLC (posluje kao Tava) (&quot;mi,&quot; &quot;nas&quot; ili &quot;naš&quot;) opisuje kako i zašto možemo pristupati, prikupljati, pohranjivati, koristiti i/ili dijeliti (&quot;obrađivati&quot;) vaše osobne podatke kada koristite naše usluge (&quot;Usluge&quot;), uključujući kada:"
+  },
+  {
+   "id": 4,
+   "text": "Posjetite naše web-mjesto na "
+  },
+  {
+   "id": 5,
+   "text": "http://www.tavalabs.app"
+  },
+  {
+   "id": 6,
+   "text": " ili bilo koje naše web-mjesto koje vodi na ovu Obavijest o privatnosti"
+  },
+  {
+   "id": 7,
+   "text": "Koristite Founder Wellness Score. Platformu za dobrobit za osnivače i rukovoditelje za mjerenje njihova stresa, sna i izgleda radi primanja preporuka za dodatke prehrani i peptide na recept."
+  },
+  {
+   "id": 8,
+   "text": "Na drugi povezan način surađujete s nama, uključujući bilo kakav marketing ili događaje"
+  },
+  {
+   "id": 9,
+   "text": "Pitanja ili nedoumice?"
+  },
+  {
+   "id": 10,
+   "text": " Čitanje ove Obavijesti o privatnosti pomoći će vam razumjeti vaša prava na privatnost i izbore. Mi smo odgovorni za donošenje odluka o tome kako se vaši osobni podaci obrađuju. Ako se ne slažete s našim politikama i praksama, nemojte koristiti naše Usluge. Ako i dalje imate bilo kakvih pitanja ili nedoumica, obratite nam se na "
+  },
+  {
+   "id": 11,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 12,
+   "text": "."
+  },
+  {
+   "id": 13,
+   "text": "SAŽETAK KLJUČNIH TOČAKA"
+  },
+  {
+   "id": 14,
+   "text": "Ovaj sažetak donosi ključne točke iz naše Obavijesti o privatnosti, ali više pojedinosti o bilo kojoj od ovih tema možete pronaći klikom na poveznicu nakon svake ključne točke ili korištenjem našeg "
+  },
+  {
+   "id": 15,
+   "text": "sadržaja"
+  },
+  {
+   "id": 16,
+   "text": " u nastavku kako biste pronašli odjeljak koji tražite."
+  },
+  {
+   "id": 17,
+   "text": "Koje osobne podatke obrađujemo?"
+  },
+  {
+   "id": 18,
+   "text": " Kada posjetite, koristite ili se krećete našim Uslugama, možemo obrađivati osobne podatke ovisno o tome kako surađujete s nama i Uslugama, izborima koje napravite te proizvodima i značajkama koje koristite. Saznajte više o "
+  },
+  {
+   "id": 19,
+   "text": "osobnim podacima koje nam otkrivate"
+  },
+  {
+   "id": 20,
+   "text": "."
+  },
+  {
+   "id": 21,
+   "text": "Obrađujemo li bilo kakve osjetljive osobne podatke?"
+  },
+  {
+   "id": 22,
+   "text": " Neki se podaci u određenim jurisdikcijama mogu smatrati &quot;posebnima&quot; ili &quot;osjetljivima&quot;, na primjer vaše rasno ili etničko podrijetlo, seksualna orijentacija i vjerska uvjerenja. Osjetljive osobne podatke možemo obrađivati kada je to potrebno uz vaš pristanak ili kako je inače dopušteno primjenjivim zakonom. Saznajte više o "
+  },
+  {
+   "id": 23,
+   "text": "osjetljivim podacima koje obrađujemo"
+  },
+  {
+   "id": 24,
+   "text": "."
+  },
+  {
+   "id": 25,
+   "text": "Prikupljamo li bilo kakve podatke od trećih strana?"
+  },
+  {
+   "id": 26,
+   "text": " Ne prikupljamo nikakve podatke od trećih strana."
+  },
+  {
+   "id": 27,
+   "text": "Kako obrađujemo vaše podatke?"
+  },
+  {
+   "id": 28,
+   "text": " Vaše podatke obrađujemo radi pružanja, poboljšanja i administriranja naših Usluga, komunikacije s vama, radi sigurnosti i sprječavanja prijevara te radi poštivanja zakona. Vaše podatke možemo obrađivati i u druge svrhe uz vaš pristanak. Vaše podatke obrađujemo samo kada za to imamo valjan pravni razlog. Saznajte više o tome "
+  },
+  {
+   "id": 29,
+   "text": "kako obrađujemo vaše podatke"
+  },
+  {
+   "id": 30,
+   "text": "."
+  },
+  {
+   "id": 31,
+   "text": "U kojim situacijama i s kojim stranama dijelimo osobne podatke?"
+  },
+  {
+   "id": 32,
+   "text": " Podatke možemo dijeliti u određenim situacijama i s određenim trećim stranama. Saznajte više o tome "
+  },
+  {
+   "id": 33,
+   "text": "kada i s kime dijelimo vaše osobne podatke"
+  },
+  {
+   "id": 34,
+   "text": "."
+  },
+  {
+   "id": 35,
+   "text": "Kako čuvamo vaše podatke sigurnima?"
+  },
+  {
+   "id": 36,
+   "text": " Imamo odgovarajuće organizacijske i tehničke procese i postupke za zaštitu vaših osobnih podataka. Međutim, nijedan elektronički prijenos putem interneta ni tehnologija pohrane podataka ne mogu se jamčiti kao 100% sigurni, pa ne možemo obećati ni jamčiti da hakeri, kibernetički kriminalci ili druge neovlaštene treće strane neće moći pobijediti našu sigurnost i nepravilno prikupljati, pristupati, ukrasti ili mijenjati vaše podatke. Saznajte više o tome "
+  },
+  {
+   "id": 37,
+   "text": "kako čuvamo vaše podatke sigurnima"
+  },
+  {
+   "id": 38,
+   "text": "."
+  },
+  {
+   "id": 39,
+   "text": "Koja su vaša prava?"
+  },
+  {
+   "id": 40,
+   "text": " Ovisno o tome gdje se geografski nalazite, primjenjivi zakon o privatnosti može značiti da imate određena prava u vezi s vašim osobnim podacima. Saznajte više o "
+  },
+  {
+   "id": 41,
+   "text": "svojim pravima na privatnost"
+  },
+  {
+   "id": 42,
+   "text": "."
+  },
+  {
+   "id": 43,
+   "text": "Kako ostvarujete svoja prava?"
+  },
+  {
+   "id": 44,
+   "text": " Najlakši način ostvarivanja vaših prava je posjetom stranici "
+  },
+  {
+   "id": 45,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 46,
+   "text": ", ili kontaktiranjem nas. Svaki ćemo zahtjev razmotriti i postupiti po njemu u skladu s primjenjivim zakonima o zaštiti podataka."
+  },
+  {
+   "id": 47,
+   "text": "Želite saznati više o tome što radimo s podacima koje prikupljamo? "
+  },
+  {
+   "id": 48,
+   "text": "Pregledajte Obavijest o privatnosti u cijelosti"
+  },
+  {
+   "id": 49,
+   "text": "."
+  },
+  {
+   "id": 50,
+   "text": "SADRŽAJ"
+  },
+  {
+   "id": 51,
+   "text": "1. KOJE PODATKE PRIKUPLJAMO?"
+  },
+  {
+   "id": 52,
+   "text": "2. KAKO OBRAĐUJEMO VAŠE PODATKE?"
+  },
+  {
+   "id": 53,
+   "text": "3. KADA I S KIME DIJELIMO VAŠE OSOBNE PODATKE?"
+  },
+  {
+   "id": 54,
+   "text": "4. KORISTIMO LI KOLAČIĆE I DRUGE TEHNOLOGIJE PRAĆENJA?"
+  },
+  {
+   "id": 55,
+   "text": "5. NUDIMO LI PROIZVODE TEMELJENE NA UMJETNOJ INTELIGENCIJI?"
+  },
+  {
+   "id": 56,
+   "text": "6. KAKO POSTUPAMO S VAŠIM PRIJAVAMA PUTEM DRUŠTVENIH MREŽA?"
+  },
+  {
+   "id": 57,
+   "text": "7. KOLIKO DUGO ČUVAMO VAŠE PODATKE?"
+  },
+  {
+   "id": 58,
+   "text": "8. KAKO ČUVAMO VAŠE PODATKE SIGURNIMA?"
+  },
+  {
+   "id": 59,
+   "text": "9. PRIKUPLJAMO LI PODATKE OD MALOLJETNIKA?"
+  },
+  {
+   "id": 60,
+   "text": "10. KOJA SU VAŠA PRAVA NA PRIVATNOST?"
+  },
+  {
+   "id": 61,
+   "text": "11. KONTROLE ZA ZNAČAJKE NE PRATI"
+  },
+  {
+   "id": 62,
+   "text": "12. IMAJU LI STANOVNICI SJEDINJENIH AMERIČKIH DRŽAVA POSEBNA PRAVA NA PRIVATNOST?"
+  },
+  {
+   "id": 63,
+   "text": "13. AŽURIRAMO LI OVU OBAVIJEST?"
+  },
+  {
+   "id": 64,
+   "text": "14. KAKO NAM SE MOŽETE OBRATITI U VEZI S OVOM OBAVIJESTI?"
+  },
+  {
+   "id": 65,
+   "text": "15. KAKO MOŽETE PREGLEDATI, AŽURIRATI ILI IZBRISATI PODATKE KOJE PRIKUPLJAMO OD VAS?"
+  },
+  {
+   "id": 66,
+   "text": "1. KOJE PODATKE PRIKUPLJAMO?"
+  },
+  {
+   "id": 67,
+   "text": "Osobni podaci koje nam otkrivate"
+  },
+  {
+   "id": 68,
+   "text": "Ukratko: Prikupljamo osobne podatke koje nam pružite."
+  },
+  {
+   "id": 69,
+   "text": "Prikupljamo osobne podatke koje nam dobrovoljno pružite kada se registrirate za Usluge, izrazite interes za dobivanje informacija o nama ili našim proizvodima i Uslugama, kada sudjelujete u aktivnostima u Uslugama ili nam se na drugi način obratite."
+  },
+  {
+   "id": 70,
+   "text": "Osobni podaci koje ste pružili vi."
+  },
+  {
+   "id": 71,
+   "text": " Osobni podaci koje prikupljamo ovise o kontekstu vaših interakcija s nama i Uslugama, izborima koje napravite te proizvodima i značajkama koje koristite. Osobni podaci koje prikupljamo mogu uključivati sljedeće:"
+  },
+  {
+   "id": 72,
+   "text": "imena"
+  },
+  {
+   "id": 73,
+   "text": "adrese e-pošte"
+  },
+  {
+   "id": 74,
+   "text": "lozinke"
+  },
+  {
+   "id": 75,
+   "text": "adrese za naplatu"
+  },
+  {
+   "id": 76,
+   "text": "brojeve debitnih/kreditnih kartica"
+  },
+  {
+   "id": 77,
+   "text": "Osjetljivi podaci."
+  },
+  {
+   "id": 78,
+   "text": " Kada je to potrebno, uz vaš pristanak ili kako je inače dopušteno primjenjivim zakonom, obrađujemo sljedeće kategorije osjetljivih podataka:"
+  },
+  {
+   "id": 79,
+   "text": "zdravstveni podaci"
+  },
+  {
+   "id": 80,
+   "text": "Podaci o plaćanju."
+  },
+  {
+   "id": 81,
+   "text": " Možemo prikupljati podatke potrebne za obradu vašeg plaćanja ako odlučite obavljati kupnje, kao što su broj vašeg instrumenta plaćanja i sigurnosni kod povezan s vašim instrumentom plaćanja. Sve podatke o plaćanju obrađuje i pohranjuje Stripe, Inc. Njihove poveznice na obavijest o privatnosti možete pronaći ovdje: "
+  },
+  {
+   "id": 82,
+   "text": "https://stripe.com/privacy-policy"
+  },
+  {
+   "id": 83,
+   "text": "."
+  },
+  {
+   "id": 84,
+   "text": "Podaci za prijavu putem društvenih mreža."
+  },
+  {
+   "id": 85,
+   "text": " Možemo vam pružiti mogućnost registracije kod nas koristeći podatke o vašem postojećem računu na društvenim mrežama, kao što su vaš Facebook, X ili drugi račun na društvenim mrežama. Ako se odlučite registrirati na ovaj način, prikupit ćemo određene podatke o profilu o vama od pružatelja društvene mreže, kako je opisano u odjeljku pod nazivom &quot;"
+  },
+  {
+   "id": 86,
+   "text": "KAKO POSTUPAMO S VAŠIM PRIJAVAMA PUTEM DRUŠTVENIH MREŽA?"
+  },
+  {
+   "id": 87,
+   "text": "&quot; u nastavku."
+  },
+  {
+   "id": 88,
+   "text": "Svi osobni podaci koje nam pružite moraju biti istiniti, potpuni i točni, a o svim promjenama takvih osobnih podataka morate nas obavijestiti."
+  },
+  {
+   "id": 89,
+   "text": "Podaci koji se prikupljaju automatski"
+  },
+  {
+   "id": 90,
+   "text": "Ukratko: Neki podaci, kao što su vaša adresa internetskog protokola (IP) i/ili značajke preglednika i uređaja, prikupljaju se automatski kada posjetite naše Usluge."
+  },
+  {
+   "id": 91,
+   "text": "Automatski prikupljamo određene podatke kada posjetite, koristite ili se krećete Uslugama. Ti podaci ne otkrivaju vaš konkretan identitet (kao što su vaše ime ili kontaktni podaci), ali mogu uključivati podatke o uređaju i upotrebi, kao što su vaša IP adresa, značajke preglednika i uređaja, operativni sustav, jezične postavke, URL-ovi s kojih dolazite, naziv uređaja, država, lokacija, podaci o tome kako i kada koristite naše Usluge te drugi tehnički podaci. Ti su podaci prvenstveno potrebni za održavanje sigurnosti i rada naših Usluga te za naše interne analitičke svrhe i svrhe izvješćivanja."
+  },
+  {
+   "id": 92,
+   "text": "Podaci koje prikupljamo uključuju:"
+  },
+  {
+   "id": 93,
+   "text": "Podaci zapisnika i upotrebe."
+  },
+  {
+   "id": 94,
+   "text": " Podaci zapisnika i upotrebe podaci su povezani s uslugom, dijagnostički podaci, podaci o upotrebi i izvedbi koje naši poslužitelji automatski prikupljaju kada pristupite našim Uslugama ili ih koristite i koje bilježimo u datoteke zapisnika. Ovisno o tome kako surađujete s nama, ti podaci zapisnika mogu uključivati vašu IP adresu, podatke o uređaju, vrstu preglednika te postavke i podatke o vašoj aktivnosti u Uslugama (kao što su oznake datuma/vremena povezane s vašom upotrebom, pregledane stranice i datoteke, pretraživanja i druge radnje koje poduzimate, kao što su značajke koje koristite), podatke o događajima uređaja (kao što su aktivnost sustava, izvješća o pogreškama (ponekad nazvana &quot;crash dumps&quot;) i hardverske postavke)."
+  },
+  {
+   "id": 95,
+   "text": "Podaci o uređaju."
+  },
+  {
+   "id": 96,
+   "text": " Prikupljamo podatke o uređaju, kao što su podaci o vašem računalu, telefonu, tabletu ili drugom uređaju koji koristite za pristup Uslugama. Ovisno o korištenom uređaju, ti podaci o uređaju mogu uključivati podatke kao što su vaša IP adresa (ili proxy poslužitelj), identifikacijski brojevi uređaja i aplikacije, lokacija, vrsta preglednika, model hardvera, pružatelj internetskih usluga i/ili mobilni operater, operativni sustav i podaci o konfiguraciji sustava."
+  },
+  {
+   "id": 97,
+   "text": "Podaci o lokaciji."
+  },
+  {
+   "id": 98,
+   "text": " Prikupljamo podatke o lokaciji, kao što su podaci o lokaciji vašeg uređaja, koja može biti precizna ili neprecizna. Koliko podataka prikupljamo ovisi o vrsti i postavkama uređaja koji koristite za pristup Uslugama. Na primjer, možemo koristiti GPS i druge tehnologije za prikupljanje geolokacijskih podataka koji nam govore vašu trenutačnu lokaciju (na temelju vaše IP adrese). Prikupljanju tih podataka možete se usprotiviti tako da odbijete pristup podacima ili onemogućite postavku Lokacije na svom uređaju. Međutim, ako se odlučite usprotiviti, možda nećete moći koristiti određene aspekte Usluga."
+  },
+  {
+   "id": 99,
+   "text": "2. KAKO OBRAĐUJEMO VAŠE PODATKE?"
+  },
+  {
+   "id": 100,
+   "text": "Ukratko: Vaše podatke obrađujemo radi pružanja, poboljšanja i administriranja naših Usluga, komunikacije s vama, radi sigurnosti i sprječavanja prijevara te radi poštivanja zakona. Vaše podatke možemo obrađivati i u druge svrhe uz vaš pristanak."
+  },
+  {
+   "id": 101,
+   "text": "Vaše osobne podatke obrađujemo iz različitih razloga, ovisno o tome kako surađujete s našim Uslugama, uključujući:"
+  },
+  {
+   "id": 102,
+   "text": "Radi olakšavanja stvaranja računa i provjere autentičnosti te inače upravljanja korisničkim računima."
+  },
+  {
+   "id": 103,
+   "text": " Vaše podatke možemo obrađivati kako biste mogli stvoriti račun i prijaviti se u njega te kako bi vaš račun ostao u ispravnom stanju."
+  },
+  {
+   "id": 104,
+   "text": "Radi isporuke i olakšavanja isporuke usluga korisniku."
+  },
+  {
+   "id": 105,
+   "text": " Vaše podatke možemo obrađivati kako bismo vam pružili zatraženu uslugu."
+  },
+  {
+   "id": 106,
+   "text": "Radi odgovaranja na upite korisnika / nuđenja podrške korisnicima."
+  },
+  {
+   "id": 107,
+   "text": " Vaše podatke možemo obrađivati kako bismo odgovorili na vaše upite i riješili sve moguće probleme koje biste mogli imati sa zatraženom uslugom."
+  },
+  {
+   "id": 108,
+   "text": "Radi slanja administrativnih informacija vama."
+  },
+  {
+   "id": 109,
+   "text": " Vaše podatke možemo obrađivati kako bismo vam slali pojedinosti o našim proizvodima i uslugama, promjenama naših uvjeta i politika te druge slične informacije."
+  },
+  {
+   "id": 110,
+   "text": "Radi ispunjenja vaših narudžbi i upravljanja njima."
+  },
+  {
+   "id": 111,
+   "text": " Vaše podatke možemo obrađivati radi ispunjenja vaših narudžbi, plaćanja, povrata i zamjena obavljenih putem Usluga i upravljanja njima."
+  },
+  {
+   "id": 112,
+   "text": "Radi traženja povratnih informacija."
+  },
+  {
+   "id": 113,
+   "text": " Vaše podatke možemo obrađivati kada je to potrebno za traženje povratnih informacija i kontaktiranje vas o vašoj upotrebi naših Usluga."
+  },
+  {
+   "id": 114,
+   "text": "Radi objavljivanja svjedočanstava."
+  },
+  {
+   "id": 115,
+   "text": " U našim Uslugama objavljujemo svjedočanstva koja mogu sadržavati osobne podatke."
+  },
+  {
+   "id": 116,
+   "text": "Radi procjene i poboljšanja naših Usluga, proizvoda, marketinga i vašeg iskustva."
+  },
+  {
+   "id": 117,
+   "text": " Vaše podatke možemo obrađivati kada smatramo da je to potrebno za prepoznavanje trendova upotrebe, utvrđivanje učinkovitosti naših promotivnih kampanja te procjenu i poboljšanje naših Usluga, proizvoda, marketinga i vašeg iskustva."
+  },
+  {
+   "id": 118,
+   "text": "Radi prepoznavanja trendova upotrebe."
+  },
+  {
+   "id": 119,
+   "text": " Podatke o tome kako koristite naše Usluge možemo obrađivati kako bismo bolje razumjeli kako se koriste i kako bismo ih mogli poboljšati."
+  },
+  {
+   "id": 120,
+   "text": "3. KADA I S KIME DIJELIMO VAŠE OSOBNE PODATKE?"
+  },
+  {
+   "id": 121,
+   "text": "Ukratko: Podatke možemo dijeliti u određenim situacijama opisanim u ovom odjeljku i/ili sa sljedećim trećim stranama."
+  },
+  {
+   "id": 122,
+   "text": "Vaše osobne podatke možda ćemo trebati dijeliti u sljedećim situacijama:"
+  },
+  {
+   "id": 123,
+   "text": "Poslovni prijenosi."
+  },
+  {
+   "id": 124,
+   "text": " Vaše podatke možemo dijeliti ili prenositi u vezi s bilo kakvim spajanjem, prodajom imovine društva, financiranjem ili stjecanjem cijelog našeg poslovanja ili njegova dijela od strane drugog društva, ili tijekom pregovora o tome."
+  },
+  {
+   "id": 125,
+   "text": "Poslovni partneri."
+  },
+  {
+   "id": 126,
+   "text": " Vaše podatke možemo dijeliti s našim poslovnim partnerima kako bismo vam ponudili određene proizvode, usluge ili promocije."
+  },
+  {
+   "id": 127,
+   "text": "4. KORISTIMO LI KOLAČIĆE I DRUGE TEHNOLOGIJE PRAĆENJA?"
+  },
+  {
+   "id": 128,
+   "text": "Ukratko: Možemo koristiti kolačiće i druge tehnologije praćenja za prikupljanje i pohranu vaših podataka."
+  },
+  {
+   "id": 129,
+   "text": "Možemo koristiti kolačiće i slične tehnologije praćenja (kao što su web-pratilice i pikseli) za prikupljanje podataka kada surađujete s našim Uslugama. Neke tehnologije mrežnog praćenja pomažu nam održavati sigurnost naših Usluga i vašeg računa, sprječavati rušenja, ispravljati pogreške, spremati vaše postavke i pomagati u osnovnim funkcijama web-mjesta."
+  },
+  {
+   "id": 130,
+   "text": "Trećim stranama i pružateljima usluga također dopuštamo korištenje tehnologija mrežnog praćenja u našim Uslugama za analitiku i oglašavanje, uključujući pomoć u upravljanju i prikazivanju oglasa ili prilagodbu oglasa vašim interesima. Treće strane i pružatelji usluga koriste svoju tehnologiju za pružanje oglašavanja o proizvodima i uslugama prilagođenima vašim interesima, koje se može pojaviti u našim Uslugama ili na drugim web-mjestima."
+  },
+  {
+   "id": 131,
+   "text": "U mjeri u kojoj se te tehnologije mrežnog praćenja smatraju &quot;prodajom&quot;/&quot;dijeljenjem&quot; (što uključuje ciljano oglašavanje, kako je definirano primjenjivim zakonima) prema primjenjivim zakonima saveznih država SAD-a, tim tehnologijama mrežnog praćenja možete se usprotiviti podnošenjem zahtjeva kako je opisano u nastavku u odjeljku &quot;"
+  },
+  {
+   "id": 132,
+   "text": "IMAJU LI STANOVNICI SJEDINJENIH AMERIČKIH DRŽAVA POSEBNA PRAVA NA PRIVATNOST?"
+  },
+  {
+   "id": 133,
+   "text": "&quot;"
+  },
+  {
+   "id": 134,
+   "text": "Konkretne informacije o tome kako koristimo takve tehnologije i kako možete odbiti određene kolačiće navedene su u našoj Obavijesti o kolačićima."
+  },
+  {
+   "id": 135,
+   "text": "Google Analytics"
+  },
+  {
+   "id": 136,
+   "text": "Vaše podatke možemo dijeliti s uslugom Google Analytics radi praćenja i analize upotrebe Usluga. Značajke oglašavanja usluge Google Analytics koje možemo koristiti uključuju: Izvješćivanje o prikazima Google Display Network i Izvješćivanje o demografskim podacima i interesima usluge Google Analytics. Kako biste se isključili iz praćenja usluge Google Analytics u svim Uslugama, posjetite "
+  },
+  {
+   "id": 137,
+   "text": "https://tools.google.com/dlpage/gaoptout"
+  },
+  {
+   "id": 138,
+   "text": ". Praćenju značajki oglašavanja usluge Google Analytics možete se usprotiviti putem "
+  },
+  {
+   "id": 139,
+   "text": "Postavki oglasa"
+  },
+  {
+   "id": 140,
+   "text": " i Postavki oglasa za mobilne aplikacije. Ostala sredstva za isključivanje uključuju "
+  },
+  {
+   "id": 141,
+   "text": "http://optout.networkadvertising.org/"
+  },
+  {
+   "id": 142,
+   "text": " i "
+  },
+  {
+   "id": 143,
+   "text": "http://www.networkadvertising.org/mobile-choice"
+  },
+  {
+   "id": 144,
+   "text": ". Za više informacija o praksama privatnosti tvrtke Google posjetite "
+  },
+  {
+   "id": 145,
+   "text": "stranicu Google Privacy &amp; Terms"
+  },
+  {
+   "id": 146,
+   "text": "."
+  },
+  {
+   "id": 147,
+   "text": "5. NUDIMO LI PROIZVODE TEMELJENE NA UMJETNOJ INTELIGENCIJI?"
+  },
+  {
+   "id": 148,
+   "text": "Ukratko: Nudimo proizvode, značajke ili alate koje pokreću umjetna inteligencija, strojno učenje ili slične tehnologije."
+  },
+  {
+   "id": 149,
+   "text": "Kao dio naših Usluga nudimo proizvode, značajke ili alate koje pokreću umjetna inteligencija, strojno učenje ili slične tehnologije (zajednički, &quot;AI proizvodi&quot;). Ti su alati osmišljeni kako bi poboljšali vaše iskustvo i pružili vam inovativna rješenja. Uvjeti u ovoj Obavijesti o privatnosti uređuju vašu upotrebu AI proizvoda unutar naših Usluga."
+  },
+  {
+   "id": 150,
+   "text": "Upotreba AI tehnologija"
+  },
+  {
+   "id": 151,
+   "text": "AI proizvode pružamo putem pružatelja usluga trećih strana (&quot;Pružatelji AI usluga&quot;), uključujući OpenAI. Kako je navedeno u ovoj Obavijesti o privatnosti, vaš unos, izlaz i osobni podaci dijelit će se s tim Pružateljima AI usluga i oni će ih obrađivati kako bi vam omogućili upotrebu naših AI proizvoda u svrhe navedene u odjeljku &quot;"
+  },
+  {
+   "id": 152,
+   "text": "KADA I S KIME DIJELIMO VAŠE OSOBNE PODATKE?"
+  },
+  {
+   "id": 153,
+   "text": "&quot; Ne smijete koristiti AI proizvode na bilo koji način koji krši uvjete ili politike bilo kojeg Pružatelja AI usluga."
+  },
+  {
+   "id": 154,
+   "text": "Naši AI proizvodi"
+  },
+  {
+   "id": 155,
+   "text": "Naši AI proizvodi osmišljeni su za sljedeće funkcije:"
+  },
+  {
+   "id": 156,
+   "text": "AI uvidi"
+  },
+  {
+   "id": 157,
+   "text": "Kako obrađujemo vaše podatke koristeći AI"
+  },
+  {
+   "id": 158,
+   "text": "Svi osobni podaci obrađeni koristeći naše AI proizvode obrađuju se u skladu s našom Obavijesti o privatnosti i našim sporazumom s trećim stranama. To osigurava visoku sigurnost i štiti vaše osobne podatke tijekom cijelog postupka, dajući vam mir u pogledu sigurnosti vaših podataka."
+  },
+  {
+   "id": 159,
+   "text": "6. KAKO POSTUPAMO S VAŠIM PRIJAVAMA PUTEM DRUŠTVENIH MREŽA?"
+  },
+  {
+   "id": 160,
+   "text": "Ukratko: Ako se odlučite registrirati ili prijaviti u naše Usluge koristeći račun na društvenim mrežama, možda ćemo imati pristup određenim podacima o vama."
+  },
+  {
+   "id": 161,
+   "text": "Naše Usluge nude vam mogućnost registracije i prijave koristeći podatke o vašem računu na društvenim mrežama treće strane (kao što su vaše prijave na Facebook ili X). Gdje se odlučite za to, primit ćemo određene podatke o profilu o vama od vašeg pružatelja društvene mreže. Podaci o profilu koje primimo mogu se razlikovati ovisno o dotičnom pružatelju društvene mreže, ali često će uključivati vaše ime, adresu e-pošte, popis prijatelja i profilnu sliku, kao i druge podatke koje odlučite učiniti javnima na takvoj platformi društvenih mreža."
+  },
+  {
+   "id": 162,
+   "text": "Podatke koje primimo koristit ćemo samo u svrhe opisane u ovoj Obavijesti o privatnosti ili koje su vam inače jasno navedene u relevantnim Uslugama. Imajte na umu da ne kontroliramo i nismo odgovorni za druge upotrebe vaših osobnih podataka od strane vašeg pružatelja društvene mreže treće strane. Preporučujemo da pregledate njihovu obavijest o privatnosti kako biste razumjeli kako prikupljaju, koriste i dijele vaše osobne podatke te kako možete postaviti svoje postavke privatnosti na njihovim web-mjestima i u aplikacijama."
+  },
+  {
+   "id": 163,
+   "text": "7. KOLIKO DUGO ČUVAMO VAŠE PODATKE?"
+  },
+  {
+   "id": 164,
+   "text": "Ukratko: Vaše podatke čuvamo onoliko dugo koliko je potrebno za ispunjenje svrha navedenih u ovoj Obavijesti o privatnosti, osim ako zakon ne zahtijeva drugačije."
+  },
+  {
+   "id": 165,
+   "text": "Vaše osobne podatke čuvat ćemo samo onoliko dugo koliko je potrebno za svrhe navedene u ovoj Obavijesti o privatnosti, osim ako zakon ne zahtijeva ili ne dopušta dulje razdoblje čuvanja (kao što su porezni, računovodstveni ili drugi pravni zahtjevi). Nijedna svrha u ovoj obavijesti neće zahtijevati da vaše osobne podatke čuvamo dulje od razdoblja u kojem korisnici imaju račun kod nas."
+  },
+  {
+   "id": 166,
+   "text": "Kada nemamo trajnu legitimnu poslovnu potrebu za obradom vaših osobnih podataka, takve ćemo podatke izbrisati ili anonimizirati ili, ako to nije moguće (na primjer, jer su vaši osobni podaci pohranjeni u arhivama sigurnosnih kopija), tada ćemo vaše osobne podatke sigurno pohraniti i izolirati ih od svake daljnje obrade dok brisanje ne bude moguće."
+  },
+  {
+   "id": 167,
+   "text": "8. KAKO ČUVAMO VAŠE PODATKE SIGURNIMA?"
+  },
+  {
+   "id": 168,
+   "text": "Ukratko: Cilj nam je zaštititi vaše osobne podatke sustavom organizacijskih i tehničkih sigurnosnih mjera."
+  },
+  {
+   "id": 169,
+   "text": "Proveli smo odgovarajuće i razumne tehničke i organizacijske sigurnosne mjere osmišljene za zaštitu sigurnosti svih osobnih podataka koje obrađujemo. Međutim, unatoč našim zaštitnim mjerama i naporima da osiguramo vaše podatke, nijedan elektronički prijenos putem interneta ni tehnologija pohrane podataka ne mogu se jamčiti kao 100% sigurni, pa ne možemo obećati ni jamčiti da hakeri, kibernetički kriminalci ili druge neovlaštene treće strane neće moći pobijediti našu sigurnost i nepravilno prikupljati, pristupati, ukrasti ili mijenjati vaše podatke. Iako ćemo učiniti sve da zaštitimo vaše osobne podatke, prijenos osobnih podataka u naše Usluge i iz njih na vaš je vlastiti rizik. Uslugama biste trebali pristupati samo unutar sigurnog okruženja."
+  },
+  {
+   "id": 170,
+   "text": "9. PRIKUPLJAMO LI PODATKE OD MALOLJETNIKA?"
+  },
+  {
+   "id": 171,
+   "text": "Ukratko: Svjesno ne prikupljamo podatke od djece mlađe od 18 godina niti im se obraćamo marketingom."
+  },
+  {
+   "id": 172,
+   "text": "Svjesno ne prikupljamo, ne tražimo podatke od djece mlađe od 18 godina niti im se obraćamo marketingom, niti svjesno prodajemo takve osobne podatke. Korištenjem Usluga izjavljujete da imate najmanje 18 godina ili da ste roditelj ili skrbnik takvog maloljetnika i pristajete na upotrebu Usluga od strane takvog maloljetnog uzdržavanika. Ako saznamo da su prikupljeni osobni podaci korisnika mlađih od 18 godina, deaktivirat ćemo račun i poduzeti razumne mjere za brzo brisanje takvih podataka iz naših evidencija. Ako saznate za bilo kakve podatke koje smo možda prikupili od djece mlađe od 18 godina, obratite nam se na "
+  },
+  {
+   "id": 173,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 174,
+   "text": "."
+  },
+  {
+   "id": 175,
+   "text": "10. KOJA SU VAŠA PRAVA NA PRIVATNOST?"
+  },
+  {
+   "id": 176,
+   "text": "Povlačenje vašeg pristanka:"
+  },
+  {
+   "id": 177,
+   "text": " Ako se oslanjamo na vaš pristanak za obradu vaših osobnih podataka, koji može biti izričit i/ili implicitan pristanak ovisno o primjenjivom zakonu, imate pravo povući svoj pristanak u bilo kojem trenutku. Svoj pristanak možete povući u bilo kojem trenutku kontaktiranjem nas koristeći kontaktne podatke navedene u odjeljku &quot;"
+  },
+  {
+   "id": 178,
+   "text": "KAKO NAM SE MOŽETE OBRATITI U VEZI S OVOM OBAVIJESTI?"
+  },
+  {
+   "id": 179,
+   "text": "&quot; u nastavku."
+  },
+  {
+   "id": 180,
+   "text": "Međutim, imajte na umu da to neće utjecati na zakonitost obrade prije njezina povlačenja niti će, kada primjenjivi zakon to dopušta, utjecati na obradu vaših osobnih podataka provedenu na temelju zakonitih osnova obrade koje nisu pristanak."
+  },
+  {
+   "id": 181,
+   "text": "Podaci o računu"
+  },
+  {
+   "id": 182,
+   "text": "Ako biste u bilo kojem trenutku htjeli pregledati ili promijeniti podatke u svom računu ili ukinuti svoj račun, možete:"
+  },
+  {
+   "id": 183,
+   "text": "Prijaviti se u postavke svog računa i ažurirati svoj korisnički račun."
+  },
+  {
+   "id": 184,
+   "text": "Na vaš zahtjev za ukidanje računa deaktivirat ćemo ili izbrisati vaš račun i podatke iz naših aktivnih baza podataka. Međutim, neke podatke možemo zadržati u našim datotekama radi sprječavanja prijevara, rješavanja problema, pomoći u istragama, provedbe naših pravnih uvjeta i/ili poštivanja primjenjivih pravnih zahtjeva."
+  },
+  {
+   "id": 185,
+   "text": "Ako imate pitanja ili komentare o svojim pravima na privatnost, možete nam pisati na "
+  },
+  {
+   "id": 186,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 187,
+   "text": "."
+  },
+  {
+   "id": 188,
+   "text": "11. KONTROLE ZA ZNAČAJKE NE PRATI"
+  },
+  {
+   "id": 189,
+   "text": "Većina web-preglednika i neki mobilni operativni sustavi i mobilne aplikacije uključuju značajku ili postavku Do-Not-Track (&quot;DNT&quot;) koju možete aktivirati kako biste signalizirali svoju postavku privatnosti da se podaci o vašim aktivnostima pregledavanja na mreži ne prate i ne prikupljaju. U ovoj fazi nije dovršen nijedan jedinstveni tehnološki standard za prepoznavanje i provedbu DNT signala. Kao takvi, trenutačno ne odgovaramo na DNT signale preglednika ni na bilo koji drugi mehanizam koji automatski priopćava vaš izbor da se ne pratite na mreži. Ako se usvoji standard za mrežno praćenje koji ćemo ubuduće morati slijediti, obavijestit ćemo vas o toj praksi u revidiranoj verziji ove Obavijesti o privatnosti."
+  },
+  {
+   "id": 190,
+   "text": "Zakon Kalifornije zahtijeva od nas da vam kažemo kako odgovaramo na DNT signale web-preglednika. Budući da trenutačno ne postoji industrijski ili pravni standard za prepoznavanje ili poštivanje DNT signala, trenutačno na njih ne odgovaramo."
+  },
+  {
+   "id": 191,
+   "text": "Global Privacy Control:"
+  },
+  {
+   "id": 192,
+   "text": " Prepoznajemo i poštujemo signale Global Privacy Control (GPC). Ako koristite preglednik ili proširenje koje podržava GPC, to ćemo tretirati kao valjan zahtjev za isključivanje iz prodaje ili dijeljenja vaših osobnih podataka u svrhe ciljanog oglašavanja prema primjenjivim državnim zakonima o privatnosti, uključujući California Consumer Privacy Act (CCPA). Kada otkrijemo GPC signal iz vašeg preglednika, automatski ćemo primijeniti vašu postavku isključivanja bez potrebe da poduzmete bilo kakvu dodatnu radnju. Za više informacija o GPC-u i kako ga omogućiti posjetite "
+  },
+  {
+   "id": 193,
+   "text": "globalprivacycontrol.org"
+  },
+  {
+   "id": 194,
+   "text": "."
+  },
+  {
+   "id": 195,
+   "text": "12. IMAJU LI STANOVNICI SJEDINJENIH AMERIČKIH DRŽAVA POSEBNA PRAVA NA PRIVATNOST?"
+  },
+  {
+   "id": 196,
+   "text": "Ukratko: Ako ste stanovnik Kalifornije, Colorada, Connecticuta, Delawarea, Floride, Indiane, Iowe, Kentuckyja, Marylanda, Minnesote, Montane, Nebraske, New Hampshirea, New Jerseyja, Oregona, Rhode Islanda, Tennesseeja, Texasa, Utaha ili Virginije, možda imate pravo zatražiti pristup osobnim podacima koje čuvamo o vama i primiti pojedinosti o njima te o tome kako smo ih obrađivali, ispraviti netočnosti, dobiti kopiju svojih osobnih podataka ili ih izbrisati. Također možete imati pravo povući svoj pristanak na našu obradu vaših osobnih podataka. Ta prava u nekim okolnostima mogu biti ograničena primjenjivim zakonom. Više informacija nalazi se u nastavku."
+  },
+  {
+   "id": 197,
+   "text": "Kategorije osobnih podataka koje prikupljamo"
+  },
+  {
+   "id": 198,
+   "text": "Tablica u nastavku prikazuje kategorije osobnih podataka koje smo prikupili u proteklih dvanaest (12) mjeseci. Tablica uključuje ilustrativne primjere svake kategorije i ne odražava osobne podatke koje prikupljamo od vas. Za sveobuhvatan popis svih osobnih podataka koje obrađujemo pogledajte odjeljak "
+  },
+  {
+   "id": 199,
+   "text": "KOJE PODATKE PRIKUPLJAMO?"
+  },
+  {
+   "id": 200,
+   "text": "&quot;"
+  },
+  {
+   "id": 201,
+   "text": "Kategorija"
+  },
+  {
+   "id": 202,
+   "text": "Primjeri"
+  },
+  {
+   "id": 203,
+   "text": "Prikupljeno"
+  },
+  {
+   "id": 204,
+   "text": "A. Identifikatori"
+  },
+  {
+   "id": 205,
+   "text": "Kontaktni podaci, kao što su pravo ime, pseudonim, poštanska adresa, telefonski ili mobilni kontaktni broj, jedinstveni osobni identifikator, mrežni identifikator, adresa internetskog protokola, adresa e-pošte i naziv računa"
+  },
+  {
+   "id": 206,
+   "text": "DA"
+  },
+  {
+   "id": 207,
+   "text": "B. Osobni podaci kako su definirani u kalifornijskom statutu o evidencijama kupaca"
+  },
+  {
+   "id": 208,
+   "text": "Ime, kontaktni podaci, obrazovanje, zaposlenje, povijest zaposlenja i financijski podaci"
+  },
+  {
+   "id": 209,
+   "text": "DA"
+  },
+  {
+   "id": 210,
+   "text": "C. Zaštićene klasifikacijske značajke prema državnom ili saveznom zakonu"
+  },
+  {
+   "id": 211,
+   "text": "Spol, dob, datum rođenja, rasa i etnička pripadnost, nacionalno podrijetlo, bračni status i drugi demografski podaci"
+  },
+  {
+   "id": 212,
+   "text": "NE"
+  },
+  {
+   "id": 213,
+   "text": "D. Komercijalni podaci"
+  },
+  {
+   "id": 214,
+   "text": "Podaci o transakcijama, povijest kupnji, financijski detalji i podaci o plaćanju"
+  },
+  {
+   "id": 215,
+   "text": "NE"
+  },
+  {
+   "id": 216,
+   "text": "E. Biometrijski podaci"
+  },
+  {
+   "id": 217,
+   "text": "Otisci prstiju i otisci glasa"
+  },
+  {
+   "id": 218,
+   "text": "DA"
+  },
+  {
+   "id": 219,
+   "text": "F. Internet ili druga slična mrežna aktivnost"
+  },
+  {
+   "id": 220,
+   "text": "Povijest pregledavanja, povijest pretraživanja, ponašanje na mreži, podaci o interesima i interakcije s našim i drugim web-mjestima, aplikacijama, sustavima i oglasima"
+  },
+  {
+   "id": 221,
+   "text": "NE"
+  },
+  {
+   "id": 222,
+   "text": "G. Geolokacijski podaci"
+  },
+  {
+   "id": 223,
+   "text": "Lokacija uređaja"
+  },
+  {
+   "id": 224,
+   "text": "NE"
+  },
+  {
+   "id": 225,
+   "text": "H. Audio, elektronički, osjetilni ili slični podaci"
+  },
+  {
+   "id": 226,
+   "text": "Slike i audio, video ili snimke poziva nastale u vezi s našim poslovnim aktivnostima"
+  },
+  {
+   "id": 227,
+   "text": "NE"
+  },
+  {
+   "id": 228,
+   "text": "I. Profesionalni podaci ili podaci povezani sa zaposlenjem"
+  },
+  {
+   "id": 229,
+   "text": "Poslovni kontaktni podaci radi pružanja naših Usluga na poslovnoj razini ili naziv radnog mjesta, povijest rada i stručne kvalifikacije ako se prijavite za posao kod nas"
+  },
+  {
+   "id": 230,
+   "text": "NE"
+  },
+  {
+   "id": 231,
+   "text": "J. Podaci o obrazovanju"
+  },
+  {
+   "id": 232,
+   "text": "Evidencije učenika i podaci iz imenika"
+  },
+  {
+   "id": 233,
+   "text": "NE"
+  },
+  {
+   "id": 234,
+   "text": "K. Zaključci izvedeni iz prikupljenih osobnih podataka"
+  },
+  {
+   "id": 235,
+   "text": "Zaključci izvedeni iz bilo kojih prikupljenih osobnih podataka navedenih iznad radi stvaranja profila ili sažetka o, na primjer, preferencijama i značajkama pojedinca"
+  },
+  {
+   "id": 236,
+   "text": "NE"
+  },
+  {
+   "id": 237,
+   "text": "L. Osjetljivi osobni podaci"
+  },
+  {
+   "id": 238,
+   "text": "Podaci za prijavu u račun, brojevi debitnih ili kreditnih kartica, genetski podaci i zdravstveni podaci"
+  },
+  {
+   "id": 239,
+   "text": "DA"
+  },
+  {
+   "id": 240,
+   "text": "Osjetljive osobne podatke prikupljamo samo kako je definirano primjenjivim zakonima o privatnosti ili u svrhe dopuštene zakonom ili uz vaš pristanak. Osjetljivi osobni podaci mogu se koristiti, ili otkriti pružatelju usluga ili izvođaču, u dodatne, navedene svrhe. Možda imate pravo ograničiti upotrebu ili otkrivanje svojih osjetljivih osobnih podataka. Osjetljive osobne podatke ne prikupljamo niti obrađujemo u svrhu zaključivanja o vašim značajkama."
+  },
+  {
+   "id": 241,
+   "text": "Osobne podatke izvan ovih kategorija možemo prikupljati i u slučajevima kada s nama surađujete osobno, na mreži ili telefonom ili poštom u kontekstu:"
+  },
+  {
+   "id": 242,
+   "text": "Primanja pomoći putem naših kanala korisničke podrške;"
+  },
+  {
+   "id": 243,
+   "text": "Sudjelovanja u anketama kupaca ili natječajima; i"
+  },
+  {
+   "id": 244,
+   "text": "Olakšavanja isporuke naših Usluga i odgovaranja na vaše upite."
+  },
+  {
+   "id": 245,
+   "text": "Prikupljene osobne podatke koristit ćemo i čuvati prema potrebi za pružanje Usluga ili za:"
+  },
+  {
+   "id": 246,
+   "text": "Kategorija A - Dok korisnik ima račun kod nas"
+  },
+  {
+   "id": 247,
+   "text": "Kategorija B - Dok korisnik ima račun kod nas"
+  },
+  {
+   "id": 248,
+   "text": "Kategorija E - Dok korisnik ima račun kod nas"
+  },
+  {
+   "id": 249,
+   "text": "Kategorija L - Dok korisnik ima račun kod nas"
+  },
+  {
+   "id": 250,
+   "text": "Izvori osobnih podataka"
+  },
+  {
+   "id": 251,
+   "text": "Saznajte više o izvorima osobnih podataka koje prikupljamo u odjeljku &quot;"
+  },
+  {
+   "id": 252,
+   "text": "KOJE PODATKE PRIKUPLJAMO?"
+  },
+  {
+   "id": 253,
+   "text": "&quot;"
+  },
+  {
+   "id": 254,
+   "text": "Kako koristimo i dijelimo osobne podatke"
+  },
+  {
+   "id": 255,
+   "text": "Saznajte više o tome kako koristimo vaše osobne podatke u odjeljku &quot;"
+  },
+  {
+   "id": 256,
+   "text": "KAKO OBRAĐUJEMO VAŠE PODATKE?"
+  },
+  {
+   "id": 257,
+   "text": "&quot;"
+  },
+  {
+   "id": 258,
+   "text": "Hoće li se vaši podaci dijeliti s bilo kime drugim?"
+  },
+  {
+   "id": 259,
+   "text": "Vaše osobne podatke možemo otkriti našim pružateljima usluga na temelju pisanog ugovora između nas i svakog pružatelja usluga. Saznajte više o tome kako otkrivamo osobne podatke u odjeljku &quot;"
+  },
+  {
+   "id": 260,
+   "text": "KADA I S KIME DIJELIMO VAŠE OSOBNE PODATKE?"
+  },
+  {
+   "id": 261,
+   "text": "&quot;"
+  },
+  {
+   "id": 262,
+   "text": "Vaše osobne podatke možemo koristiti za vlastite poslovne svrhe, kao što je provođenje internog istraživanja za tehnološki razvoj i demonstraciju. To se ne smatra &quot;prodajom&quot; vaših osobnih podataka."
+  },
+  {
+   "id": 263,
+   "text": "U prethodnih dvanaest (12) mjeseci nismo otkrili, prodali niti dijelili nikakve osobne podatke trećim stranama u poslovnu ili komercijalnu svrhu. Ubuduće nećemo prodavati niti dijeliti osobne podatke koji pripadaju posjetiteljima web-mjesta, korisnicima i drugim potrošačima."
+  },
+  {
+   "id": 264,
+   "text": "Vaša prava"
+  },
+  {
+   "id": 265,
+   "text": "Imate prava prema određenim zakonima saveznih država SAD-a o zaštiti podataka. Međutim, ta prava nisu apsolutna i u određenim slučajevima možemo odbiti vaš zahtjev kako je dopušteno zakonom. Ta prava uključuju:"
+  },
+  {
+   "id": 266,
+   "text": "Pravo znati"
+  },
+  {
+   "id": 267,
+   "text": " obrađujemo li vaše osobne podatke ili ne"
+  },
+  {
+   "id": 268,
+   "text": "Pravo na pristup"
+  },
+  {
+   "id": 269,
+   "text": " vašim osobnim podacima"
+  },
+  {
+   "id": 270,
+   "text": "Pravo na ispravak"
+  },
+  {
+   "id": 271,
+   "text": " netočnosti u vašim osobnim podacima"
+  },
+  {
+   "id": 272,
+   "text": "Pravo zatražiti"
+  },
+  {
+   "id": 273,
+   "text": " brisanje vaših osobnih podataka"
+  },
+  {
+   "id": 274,
+   "text": "Pravo dobiti kopiju"
+  },
+  {
+   "id": 275,
+   "text": " osobnih podataka koje ste prethodno podijelili s nama"
+  },
+  {
+   "id": 276,
+   "text": "Pravo na nediskriminaciju"
+  },
+  {
+   "id": 277,
+   "text": " radi ostvarivanja vaših prava"
+  },
+  {
+   "id": 278,
+   "text": "Pravo na isključivanje"
+  },
+  {
+   "id": 279,
+   "text": " iz obrade vaših osobnih podataka ako se koriste za ciljano oglašavanje (ili dijeljenje kako je definirano prema kalifornijskom zakonu o privatnosti), prodaju osobnih podataka ili profiliranje u svrhu donošenja odluka koje proizvode pravne ili slično značajne učinke (&quot;profiliranje&quot;)"
+  },
+  {
+   "id": 280,
+   "text": "Ovisno o saveznoj državi u kojoj živite, možda imate i sljedeća prava:"
+  },
+  {
+   "id": 281,
+   "text": "Pravo na pristup kategorijama osobnih podataka koji se obrađuju (kako je dopušteno primjenjivim zakonom, uključujući zakon o privatnosti u Minnesoti)"
+  },
+  {
+   "id": 282,
+   "text": "Pravo dobiti popis kategorija trećih strana kojima smo otkrili osobne podatke (kako je dopušteno primjenjivim zakonom, uključujući zakon o privatnosti u Kaliforniji, Delawareu i Marylandu)"
+  },
+  {
+   "id": 283,
+   "text": "Pravo dobiti popis konkretnih trećih strana kojima smo otkrili osobne podatke (kako je dopušteno primjenjivim zakonom, uključujući zakon o privatnosti u Minnesoti i Oregonu)"
+  },
+  {
+   "id": 284,
+   "text": "Pravo dobiti popis trećih strana kojima smo prodali osobne podatke (kako je dopušteno primjenjivim zakonom, uključujući zakon o privatnosti u Connecticutu)"
+  },
+  {
+   "id": 285,
+   "text": "Pravo pregledati, razumjeti, propitivati i, ovisno o tome gdje živite, ispraviti način na koji su osobni podaci profilirani (kako je dopušteno primjenjivim zakonom, uključujući zakon o privatnosti u Connecticutu i Minnesoti)"
+  },
+  {
+   "id": 286,
+   "text": "Pravo ograničiti upotrebu i otkrivanje osjetljivih osobnih podataka (kako je dopušteno primjenjivim zakonom, uključujući zakon o privatnosti u Kaliforniji)"
+  },
+  {
+   "id": 287,
+   "text": "Pravo isključiti se iz prikupljanja osjetljivih podataka i osobnih podataka prikupljenih radom značajke prepoznavanja glasa ili lica (kako je dopušteno primjenjivim zakonom, uključujući zakon o privatnosti na Floridi)"
+  },
+  {
+   "id": 288,
+   "text": "Kako ostvariti svoja prava"
+  },
+  {
+   "id": 289,
+   "text": "Za ostvarivanje tih prava možete nam se obratiti posjetom stranici "
+  },
+  {
+   "id": 290,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 291,
+   "text": ", posjetom stranici "
+  },
+  {
+   "id": 292,
+   "text": "http://www.tavalabs.app/contact-us"
+  },
+  {
+   "id": 293,
+   "text": ", ili pozivanjem na kontaktne podatke na dnu ovog dokumenta."
+  },
+  {
+   "id": 294,
+   "text": "Poštovat ćemo vaše postavke isključivanja ako aktivirate signal za isključivanje "
+  },
+  {
+   "id": 295,
+   "text": "Global Privacy Control"
+  },
+  {
+   "id": 296,
+   "text": " (GPC) u svom pregledniku."
+  },
+  {
+   "id": 297,
+   "text": "Prema određenim zakonima saveznih država SAD-a o zaštiti podataka možete odrediti ovlaštenog agenta da podnese zahtjev u vaše ime. Zahtjev ovlaštenog agenta koji ne podnese dokaz da je valjano ovlašten djelovati u vaše ime u skladu s primjenjivim zakonima možemo odbiti."
+  },
+  {
+   "id": 298,
+   "text": "Provjera zahtjeva"
+  },
+  {
+   "id": 299,
+   "text": "Po primitku vašeg zahtjeva morat ćemo provjeriti vaš identitet kako bismo utvrdili da ste ista osoba o kojoj imamo podatke u našem sustavu. Osobne podatke navedene u vašem zahtjevu koristit ćemo samo za provjeru vašeg identiteta ili ovlaštenja za podnošenje zahtjeva. Međutim, ako ne možemo provjeriti vaš identitet iz podataka koje već čuvamo, možemo zatražiti da pružite dodatne podatke u svrhu provjere vašeg identiteta te u sigurnosne svrhe ili svrhe sprječavanja prijevara."
+  },
+  {
+   "id": 300,
+   "text": "Ako zahtjev podnosite putem ovlaštenog agenta, možda ćemo morati prikupiti dodatne podatke za provjeru vašeg identiteta prije obrade vašeg zahtjeva, a agent će morati pružiti vaše pisano i potpisano dopuštenje za podnošenje takvog zahtjeva u vaše ime."
+  },
+  {
+   "id": 301,
+   "text": "Žalbe"
+  },
+  {
+   "id": 302,
+   "text": "Prema određenim zakonima saveznih država SAD-a o zaštiti podataka, ako odbijemo poduzeti radnju u vezi s vašim zahtjevom, na našu se odluku možete žaliti slanjem e-pošte na "
+  },
+  {
+   "id": 303,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 304,
+   "text": ". Pismeno ćemo vas obavijestiti o svakoj radnji poduzetoj ili nepoduzetoj kao odgovor na žalbu, uključujući pisano objašnjenje razloga za odluke. Ako vaša žalba bude odbijena, pritužbu možete podnijeti državnom odvjetniku svoje savezne države."
+  },
+  {
+   "id": 305,
+   "text": "Kalifornijski zakon &quot;Shine The Light&quot;"
+  },
+  {
+   "id": 306,
+   "text": "Odjeljak 1798.83 Građanskog zakonika Kalifornije, poznat i kao zakon &quot;Shine The Light&quot;, dopušta našim korisnicima koji su stanovnici Kalifornije da od nas zatraže i dobiju, jednom godišnje i besplatno, informacije o kategorijama osobnih podataka (ako ih ima) koje smo otkrili trećim stranama u svrhe izravnog marketinga te imena i adrese svih trećih strana s kojima smo dijelili osobne podatke u neposredno prethodnoj kalendarskoj godini. Ako ste stanovnik Kalifornije i želite podnijeti takav zahtjev, podnesite svoj zahtjev u pisanom obliku koristeći kontaktne podatke navedene u odjeljku &quot;"
+  },
+  {
+   "id": 307,
+   "text": "KAKO NAM SE MOŽETE OBRATITI U VEZI S OVOM OBAVIJESTI?"
+  },
+  {
+   "id": 308,
+   "text": "&quot;"
+  },
+  {
+   "id": 309,
+   "text": "13. AŽURIRAMO LI OVU OBAVIJEST?"
+  },
+  {
+   "id": 310,
+   "text": "Ukratko: Da, ovu ćemo obavijest ažurirati prema potrebi kako bismo ostali u skladu s relevantnim zakonima."
+  },
+  {
+   "id": 311,
+   "text": "Ovu Obavijest o privatnosti možemo povremeno ažurirati. Ažurirana verzija bit će naznačena ažuriranim datumom &quot;Revidirano&quot; na vrhu ove Obavijesti o privatnosti. Ako napravimo značajne izmjene ove Obavijesti o privatnosti, možemo vas obavijestiti istaknutom objavom obavijesti o takvim izmjenama ili izravnim slanjem obavijesti. Potičemo vas da često pregledavate ovu Obavijest o privatnosti kako biste bili informirani o tome kako štitimo vaše podatke."
+  },
+  {
+   "id": 312,
+   "text": "14. KAKO NAM SE MOŽETE OBRATITI U VEZI S OVOM OBAVIJESTI?"
+  },
+  {
+   "id": 313,
+   "text": "Ako imate pitanja ili komentare o ovoj obavijesti, našem službeniku za zaštitu podataka (DPO) možete se obratiti e-poštom na "
+  },
+  {
+   "id": 314,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 315,
+   "text": ", ili nam se obratite poštom na:"
+  },
+  {
+   "id": 316,
+   "text": "Tava Labs, LLC"
+  },
+  {
+   "id": 317,
+   "text": "Data Protection Officer"
+  },
+  {
+   "id": 318,
+   "text": "1521 Blake St STE 95593"
+  },
+  {
+   "id": 319,
+   "text": "Denver, CO 80202"
+  },
+  {
+   "id": 320,
+   "text": "United States"
+  },
+  {
+   "id": 321,
+   "text": "15. KAKO MOŽETE PREGLEDATI, AŽURIRATI ILI IZBRISATI PODATKE KOJE PRIKUPLJAMO OD VAS?"
+  },
+  {
+   "id": 322,
+   "text": "Na temelju primjenjivih zakona vaše države ili savezne države boravka u SAD-u možda imate pravo zatražiti pristup osobnim podacima koje prikupljamo od vas, pojedinosti o tome kako smo ih obrađivali, ispraviti netočnosti ili izbrisati svoje osobne podatke. Također možete imati pravo povući svoj pristanak na našu obradu vaših osobnih podataka. Ta prava u nekim okolnostima mogu biti ograničena primjenjivim zakonom. Kako biste zatražili pregled, ažuriranje ili brisanje svojih osobnih podataka, posjetite: "
+  },
+  {
+   "id": 323,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 324,
+   "text": "."
+  },
+  {
+   "id": 325,
+   "text": "Ova Politika privatnosti izrađena je pomoću Termly&#x27;jeva "
+  },
+  {
+   "id": 326,
+   "text": "Privacy Policy Generator"
+  },
+  {
+   "id": 327,
+   "text": "."
+  }
+ ]
+}

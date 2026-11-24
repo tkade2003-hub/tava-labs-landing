@@ -1,0 +1,855 @@
+{
+ "slug": "terms",
+ "title": "Warunki i zasady | Tava Labs",
+ "description": "Warunki regulujące korzystanie przez Ciebie z tavalabs.app oraz zakup PDRN Brightening Serum od Tava Labs, LLC, w tym nasza polityka sprzedaży ostatecznej.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "Informacje prawne"
+  },
+  {
+   "id": 1,
+   "text": "Warunki i zasady"
+  },
+  {
+   "id": 2,
+   "text": "Ostatnia aktualizacja 5 listopada 2026 r."
+  },
+  {
+   "id": 3,
+   "text": "AKCEPTACJA NASZYCH WARUNKÓW PRAWNYCH"
+  },
+  {
+   "id": 4,
+   "text": "Jesteśmy Tava Labs, LLC, prowadzącą działalność pod nazwą Tava („Spółka”, „my”, „nas”, „nasz”), spółką zarejestrowaną w stanie Kolorado w Stanach Zjednoczonych pod adresem 1521 Blake St STE 95593, Denver, CO 80202."
+  },
+  {
+   "id": 5,
+   "text": "Prowadzimy stronę internetową "
+  },
+  {
+   "id": 6,
+   "text": "http://www.tavalabs.app"
+  },
+  {
+   "id": 7,
+   "text": " („Witryna”), a także wszelkie inne powiązane produkty i usługi, które odwołują się do niniejszych warunków prawnych lub zawierają do nich link („Warunki prawne”) (łącznie „Usługi”)."
+  },
+  {
+   "id": 8,
+   "text": "Możesz skontaktować się z nami pocztą elektroniczną pod adresem "
+  },
+  {
+   "id": 9,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 10,
+   "text": " lub pocztą tradycyjną pod adresem 1521 Blake St STE 95593, Denver, CO 80202, United States."
+  },
+  {
+   "id": 11,
+   "text": "Niniejsze Warunki prawne stanowią prawnie wiążącą umowę zawartą pomiędzy Tobą, osobiście lub w imieniu podmiotu („Ty”), a Tava Labs, LLC, dotyczącą Twojego dostępu do Usług i korzystania z nich. Zgadzasz się, że uzyskując dostęp do Usług, przeczytałeś, zrozumiałeś i wyraziłeś zgodę na związanie się wszystkimi niniejszymi Warunkami prawnymi. JEŻELI NIE ZGADZASZ SIĘ ZE WSZYSTKIMI NINIEJSZYMI WARUNKAMI PRAWNYMI, KORZYSTANIE Z USŁUG JEST DLA CIEBIE WYRAŹNIE ZABRONIONE I MUSISZ NATYCHMIAST ZAPRZESTAĆ KORZYSTANIA Z NICH."
+  },
+  {
+   "id": 12,
+   "text": "Przekażemy Ci uprzednie powiadomienie o wszelkich zaplanowanych zmianach w Usługach, z których korzystasz. Zmienione Warunki prawne wejdą w życie po ich opublikowaniu lub po powiadomieniu Cię przez "
+  },
+  {
+   "id": 13,
+   "text": "noreply.entrepreneur-wellness@mail.hellostencil.com"
+  },
+  {
+   "id": 14,
+   "text": ", jak wskazano w wiadomości e-mail. Kontynuując korzystanie z Usług po dacie wejścia w życie jakichkolwiek zmian, wyrażasz zgodę na związanie się zmienionymi warunkami."
+  },
+  {
+   "id": 15,
+   "text": "Usługi są przeznaczone dla użytkowników, którzy ukończyli co najmniej 18 lat. Osoby poniżej 18. roku życia nie mogą korzystać z Usług ani rejestrować się w nich."
+  },
+  {
+   "id": 16,
+   "text": "Zalecamy wydrukowanie kopii niniejszych Warunków prawnych dla własnej dokumentacji."
+  },
+  {
+   "id": 17,
+   "text": "SPIS TREŚCI"
+  },
+  {
+   "id": 18,
+   "text": "AKCEPTACJA NASZYCH WARUNKÓW PRAWNYCH"
+  },
+  {
+   "id": 19,
+   "text": "1. NASZE USŁUGI"
+  },
+  {
+   "id": 20,
+   "text": "2. PRAWA WŁASNOŚCI INTELEKTUALNEJ"
+  },
+  {
+   "id": 21,
+   "text": "3. OŚWIADCZENIA UŻYTKOWNIKA"
+  },
+  {
+   "id": 22,
+   "text": "4. REJESTRACJA UŻYTKOWNIKA"
+  },
+  {
+   "id": 23,
+   "text": "5. PRODUKTY"
+  },
+  {
+   "id": 24,
+   "text": "6. ZAKUPY I PŁATNOŚCI"
+  },
+  {
+   "id": 25,
+   "text": "7. POLITYKA ZWROTÓW"
+  },
+  {
+   "id": 26,
+   "text": "8. DZIAŁANIA ZABRONIONE"
+  },
+  {
+   "id": 27,
+   "text": "9. TREŚCI TWORZONE PRZEZ UŻYTKOWNIKÓW"
+  },
+  {
+   "id": 28,
+   "text": "10. LICENCJA NA TREŚCI"
+  },
+  {
+   "id": 29,
+   "text": "11. WYTYCZNE DOTYCZĄCE RECENZJI"
+  },
+  {
+   "id": 30,
+   "text": "12. ZARZĄDZANIE USŁUGAMI"
+  },
+  {
+   "id": 31,
+   "text": "13. POLITYKA PRYWATNOŚCI"
+  },
+  {
+   "id": 32,
+   "text": "14. OKRES OBOWIĄZYWANIA I ROZWIĄZANIE"
+  },
+  {
+   "id": 33,
+   "text": "15. MODYFIKACJE I PRZERWY"
+  },
+  {
+   "id": 34,
+   "text": "16. PRAWO WŁAŚCIWE"
+  },
+  {
+   "id": 35,
+   "text": "17. ROZSTRZYGANIE SPORÓW"
+  },
+  {
+   "id": 36,
+   "text": "18. KOREKTY"
+  },
+  {
+   "id": 37,
+   "text": "19. WYŁĄCZENIE ODPOWIEDZIALNOŚCI"
+  },
+  {
+   "id": 38,
+   "text": "20. OGRANICZENIA ODPOWIEDZIALNOŚCI"
+  },
+  {
+   "id": 39,
+   "text": "21. ODSZKODOWANIE I ZWOLNIENIE Z ODPOWIEDZIALNOŚCI"
+  },
+  {
+   "id": 40,
+   "text": "22. DANE UŻYTKOWNIKA"
+  },
+  {
+   "id": 41,
+   "text": "23. KOMUNIKACJA ELEKTRONICZNA, TRANSAKCJE I PODPISY"
+  },
+  {
+   "id": 42,
+   "text": "24. UŻYTKOWNICY I MIESZKAŃCY KALIFORNII"
+  },
+  {
+   "id": 43,
+   "text": "25. POSTANOWIENIA RÓŻNE"
+  },
+  {
+   "id": 44,
+   "text": "26. KONTAKT Z NAMI"
+  },
+  {
+   "id": 45,
+   "text": "1. NASZE USŁUGI"
+  },
+  {
+   "id": 46,
+   "text": "Informacje przekazywane podczas korzystania z Usług nie są przeznaczone do dystrybucji ani wykorzystania przez jakąkolwiek osobę lub podmiot w jurysdykcji lub kraju, w których taka dystrybucja lub wykorzystanie byłyby sprzeczne z prawem lub przepisami albo narażałyby nas na jakikolwiek wymóg rejestracji w takiej jurysdykcji lub kraju. W związku z tym osoby, które decydują się na dostęp do Usług z innych lokalizacji, czynią to z własnej inicjatywy i ponoszą wyłączną odpowiedzialność za przestrzeganie lokalnych przepisów, jeżeli i w zakresie, w jakim lokalne przepisy mają zastosowanie."
+  },
+  {
+   "id": 47,
+   "text": "Usługi nie zostały dostosowane do wymogów przepisów branżowych (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA) itp.), zatem jeżeli Twoje interakcje podlegałyby takim przepisom, nie możesz korzystać z Usług. Nie możesz korzystać z Usług w sposób naruszający Gramm-Leach-Bliley Act (GLBA)."
+  },
+  {
+   "id": 48,
+   "text": "2. PRAWA WŁASNOŚCI INTELEKTUALNEJ"
+  },
+  {
+   "id": 49,
+   "text": "Nasza własność intelektualna"
+  },
+  {
+   "id": 50,
+   "text": "Jesteśmy właścicielem lub licencjobiorcą wszystkich praw własności intelektualnej do naszych Usług, w tym całego kodu źródłowego, baz danych, funkcjonalności, oprogramowania, projektów stron internetowych, materiałów audio, wideo, tekstów, fotografii i grafik w Usługach (łącznie „Treści”), a także zawartych w nich znaków towarowych, znaków usługowych i logotypów („Znaki”)."
+  },
+  {
+   "id": 51,
+   "text": "Nasze Treści i Znaki są chronione prawami autorskimi i prawami o znakach towarowych (oraz różnymi innymi prawami własności intelektualnej i przepisami o nieuczciwej konkurencji) oraz umowami międzynarodowymi w Stanach Zjednoczonych i na całym świecie."
+  },
+  {
+   "id": 52,
+   "text": "Treści i Znaki są udostępniane w Usługach lub za ich pośrednictwem „W STANIE, W JAKIM SĄ” wyłącznie do Twojego osobistego, niekomercyjnego użytku."
+  },
+  {
+   "id": 53,
+   "text": "Twoje korzystanie z naszych Usług"
+  },
+  {
+   "id": 54,
+   "text": "Pod warunkiem przestrzegania przez Ciebie niniejszych Warunków prawnych, w tym sekcji „"
+  },
+  {
+   "id": 55,
+   "text": "DZIAŁANIA ZABRONIONE"
+  },
+  {
+   "id": 56,
+   "text": "” poniżej, udzielamy Ci niewyłącznej, nieprzenoszalnej, odwołalnej licencji na:"
+  },
+  {
+   "id": 57,
+   "text": "dostęp do Usług; oraz"
+  },
+  {
+   "id": 58,
+   "text": "pobieranie lub drukowanie kopii każdej części Treści, do której prawidłowo uzyskałeś dostęp,"
+  },
+  {
+   "id": 59,
+   "text": "wyłącznie do Twojego osobistego, niekomercyjnego użytku."
+  },
+  {
+   "id": 60,
+   "text": "Z wyjątkiem przypadków określonych w niniejszej sekcji lub w innym miejscu naszych Warunków prawnych, żadna część Usług oraz żadne Treści ani Znaki nie mogą być kopiowane, reprodukowane, agregowane, ponownie publikowane, przesyłane, zamieszczane, publicznie wyświetlane, kodowane, tłumaczone, transmitowane, rozpowszechniane, sprzedawane, licencjonowane ani w inny sposób wykorzystywane w jakimkolwiek celu komercyjnym bez naszej wyraźnej uprzedniej pisemnej zgody."
+  },
+  {
+   "id": 61,
+   "text": "Jeżeli chcesz korzystać z Usług, Treści lub Znaków w sposób inny niż określony w niniejszej sekcji lub w innym miejscu naszych Warunków prawnych, kieruj swoją prośbę na adres: "
+  },
+  {
+   "id": 62,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 63,
+   "text": ". Jeżeli kiedykolwiek udzielimy Ci zezwolenia na zamieszczanie, reprodukowanie lub publiczne wyświetlanie jakiejkolwiek części naszych Usług lub Treści, musisz wskazać nas jako właścicieli lub licencjodawców Usług, Treści lub Znaków oraz zapewnić, aby przy zamieszczaniu, reprodukowaniu lub wyświetlaniu naszych Treści pojawiała się lub była widoczna informacja o prawach autorskich lub prawach własności."
+  },
+  {
+   "id": 64,
+   "text": "Zastrzegamy sobie wszelkie prawa, które nie zostały Ci wyraźnie przyznane w odniesieniu do Usług, Treści i Znaków."
+  },
+  {
+   "id": 65,
+   "text": "Każde naruszenie niniejszych Praw własności intelektualnej będzie stanowić istotne naruszenie naszych Warunków prawnych, a Twoje prawo do korzystania z naszych Usług wygaśnie ze skutkiem natychmiastowym."
+  },
+  {
+   "id": 66,
+   "text": "Twoje zgłoszenia i treści"
+  },
+  {
+   "id": 67,
+   "text": "Przed rozpoczęciem korzystania z naszych Usług prosimy o uważne zapoznanie się z niniejszą sekcją oraz sekcją „"
+  },
+  {
+   "id": 68,
+   "text": "DZIAŁANIA ZABRONIONE"
+  },
+  {
+   "id": 69,
+   "text": "”, aby zrozumieć (a) prawa, które nam przyznajesz, oraz (b) obowiązki, które na Tobie ciążą, gdy zamieszczasz lub przesyłasz jakiekolwiek treści za pośrednictwem Usług."
+  },
+  {
+   "id": 70,
+   "text": "Zgłoszenia:"
+  },
+  {
+   "id": 71,
+   "text": " Przesyłając nam bezpośrednio jakiekolwiek pytanie, komentarz, sugestię, pomysł, opinię lub inne informacje dotyczące Usług („Zgłoszenia”), zgadzasz się przenieść na nas wszelkie prawa własności intelektualnej do takiego Zgłoszenia. Zgadzasz się, że będziemy właścicielami tego Zgłoszenia i będziemy uprawnieni do jego nieograniczonego wykorzystywania i rozpowszechniania w dowolnym zgodnym z prawem celu, komercyjnym lub innym, bez uznania autorstwa ani wynagrodzenia dla Ciebie."
+  },
+  {
+   "id": 72,
+   "text": "Treści użytkowników:"
+  },
+  {
+   "id": 73,
+   "text": " Usługi mogą zapraszać Cię do czatowania, wnoszenia wkładu lub uczestnictwa w blogach, forach dyskusyjnych, forach internetowych oraz innych funkcjach, podczas których możesz tworzyć, przesyłać, zamieszczać, wyświetlać, transmitować, publikować, rozpowszechniać lub nadawać treści i materiały nam lub za pośrednictwem Usług, w tym między innymi teksty, pisma, wideo, audio, fotografie, muzykę, grafiki, komentarze, recenzje, sugestie ocen, dane osobowe lub inne materiały („Treści użytkowników”). Każde Zgłoszenie, które zostanie publicznie zamieszczone, będzie również traktowane jako Treść użytkownika."
+  },
+  {
+   "id": 74,
+   "text": "Rozumiesz, że Treści użytkowników mogą być widoczne dla innych użytkowników Usług."
+  },
+  {
+   "id": 75,
+   "text": "Gdy zamieszczasz Treści użytkowników, udzielasz nam licencji (w tym na korzystanie z Twojego imienia i nazwiska, znaków towarowych i logotypów):"
+  },
+  {
+   "id": 76,
+   "text": " Zamieszczając jakiekolwiek Treści użytkowników, udzielasz nam nieograniczonego, bezterminowego, nieodwołalnego, wieczystego, niewyłącznego, przenoszalnego, wolnego od opłat licencyjnych, w pełni opłaconego, ogólnoświatowego prawa i licencji do: wykorzystywania, kopiowania, reprodukowania, rozpowszechniania, sprzedawania, odsprzedawania, publikowania, nadawania, zmiany tytułu, przechowywania, publicznego odtwarzania, publicznego wyświetlania, przeformatowywania, tłumaczenia, tworzenia fragmentów (w całości lub w części) oraz eksploatowania Twoich Treści użytkowników (w tym, bez ograniczeń, Twojego wizerunku, imienia i nazwiska oraz głosu) w dowolnym celu, komercyjnym, reklamowym lub innym, do przygotowywania utworów pochodnych na ich podstawie lub włączania ich do innych utworów oraz do udzielania sublicencji na licencje przyznane w niniejszej sekcji. Nasze wykorzystywanie i rozpowszechnianie może odbywać się w dowolnych formatach medialnych i za pośrednictwem dowolnych kanałów medialnych."
+  },
+  {
+   "id": 77,
+   "text": "Licencja ta obejmuje korzystanie przez nas z Twojego imienia i nazwiska, nazwy firmy i nazwy franczyzy, w stosownych przypadkach, oraz wszelkich znaków towarowych, znaków usługowych, nazw handlowych, logotypów oraz wizerunków osobistych i komercyjnych, które nam przekazujesz."
+  },
+  {
+   "id": 78,
+   "text": "Ponosisz odpowiedzialność za to, co zamieszczasz lub przesyłasz:"
+  },
+  {
+   "id": 79,
+   "text": " Przesyłając nam Zgłoszenia lub zamieszczając Treści użytkowników za pośrednictwem dowolnej części Usług bądź udostępniając Treści użytkowników za pośrednictwem Usług poprzez połączenie swojego konta w Usługach z dowolnym ze swoich kont w serwisach społecznościowych:"
+  },
+  {
+   "id": 80,
+   "text": "potwierdzasz, że przeczytałeś nasze „"
+  },
+  {
+   "id": 81,
+   "text": "DZIAŁANIA ZABRONIONE"
+  },
+  {
+   "id": 82,
+   "text": "” i wyrażasz na nie zgodę oraz że nie będziesz zamieszczać, wysyłać, publikować, przesyłać ani transmitować za pośrednictwem Usług żadnego Zgłoszenia ani zamieszczać żadnej Treści użytkownika, która jest nielegalna, napastliwa, nienawistna, szkodliwa, zniesławiająca, obsceniczna, zastraszająca, obraźliwa, dyskryminująca, grożąca jakiejkolwiek osobie lub grupie, o charakterze jednoznacznie seksualnym, fałszywa, niedokładna, oszukańcza lub wprowadzająca w błąd;"
+  },
+  {
+   "id": 83,
+   "text": "w zakresie dopuszczalnym przez obowiązujące prawo, zrzekasz się wszelkich autorskich praw osobistych do każdego takiego Zgłoszenia lub Treści użytkownika;"
+  },
+  {
+   "id": 84,
+   "text": "oświadczasz, że każde takie Zgłoszenie lub Treści użytkownika są Twojego autorstwa albo że posiadasz niezbędne prawa i licencje do przedkładania takich Zgłoszeń lub Treści użytkowników oraz że masz pełne uprawnienie do przyznania nam wyżej wymienionych praw w odniesieniu do Twoich Zgłoszeń lub Treści użytkowników; oraz"
+  },
+  {
+   "id": 85,
+   "text": "oświadczasz i zapewniasz, że Twoje Zgłoszenia lub Treści użytkowników nie stanowią informacji poufnych."
+  },
+  {
+   "id": 86,
+   "text": "Ponosisz wyłączną odpowiedzialność za swoje Zgłoszenia lub Treści użytkowników i wyraźnie zgadzasz się zwrócić nam wszelkie straty, które możemy ponieść z powodu naruszenia przez Ciebie (a) niniejszej sekcji, (b) praw własności intelektualnej jakiejkolwiek osoby trzeciej lub (c) obowiązującego prawa."
+  },
+  {
+   "id": 87,
+   "text": "Możemy usuwać lub edytować Twoje Treści:"
+  },
+  {
+   "id": 88,
+   "text": " Chociaż nie mamy obowiązku monitorowania żadnych Treści użytkowników, będziemy mieć prawo do usunięcia lub edytowania dowolnych Treści użytkowników w dowolnym momencie bez powiadomienia, jeżeli w naszej uzasadnionej opinii uznamy takie Treści użytkowników za szkodliwe lub naruszające niniejsze Warunki prawne. Jeżeli usuniemy lub poddamy edycji takie Treści użytkowników, możemy również zawiesić lub wyłączyć Twoje konto oraz zgłosić Cię organom władzy."
+  },
+  {
+   "id": 89,
+   "text": "3. OŚWIADCZENIA UŻYTKOWNIKA"
+  },
+  {
+   "id": 90,
+   "text": "Korzystając z Usług, oświadczasz i zapewniasz, że: (1) wszystkie informacje rejestracyjne, które przekazujesz, będą prawdziwe, dokładne, aktualne i kompletne; (2) będziesz utrzymywać dokładność takich informacji i niezwłocznie aktualizować takie informacje rejestracyjne w razie potrzeby; (3) posiadasz zdolność do czynności prawnych i zgadzasz się przestrzegać niniejszych Warunków prawnych; (4) nie jesteś osobą małoletnią w jurysdykcji, w której mieszkasz; (5) nie będziesz uzyskiwać dostępu do Usług za pomocą środków zautomatyzowanych lub niebędących udziałem człowieka, czy to za pośrednictwem bota, skryptu, czy w inny sposób; (6) nie będziesz korzystać z Usług w żadnym nielegalnym lub nieuprawnionym celu; oraz (7) Twoje korzystanie z Usług nie będzie naruszać żadnego obowiązującego prawa ani przepisu."
+  },
+  {
+   "id": 91,
+   "text": "Jeżeli przekażesz jakiekolwiek informacje nieprawdziwe, niedokładne, nieaktualne lub niekompletne, mamy prawo zawiesić lub zamknąć Twoje konto oraz odmówić Ci wszelkiego obecnego lub przyszłego korzystania z Usług (lub dowolnej ich części)."
+  },
+  {
+   "id": 92,
+   "text": "4. REJESTRACJA UŻYTKOWNIKA"
+  },
+  {
+   "id": 93,
+   "text": "Możesz być zobowiązany do rejestracji, aby korzystać z Usług. Zgadzasz się zachować swoje hasło w poufności i będziesz ponosić odpowiedzialność za wszelkie korzystanie ze swojego konta i hasła. Zastrzegamy sobie prawo do usunięcia, odzyskania lub zmiany wybranej przez Ciebie nazwy użytkownika, jeżeli według naszego wyłącznego uznania stwierdzimy, że taka nazwa użytkownika jest niestosowna, obsceniczna lub w inny sposób budząca zastrzeżenia."
+  },
+  {
+   "id": 94,
+   "text": "5. PRODUKTY"
+  },
+  {
+   "id": 95,
+   "text": "Dokładamy wszelkich starań, aby jak najdokładniej prezentować kolory, cechy, specyfikacje i szczegóły produktów dostępnych w Usługach. Nie gwarantujemy jednak, że kolory, cechy, specyfikacje i szczegóły produktów będą dokładne, kompletne, wiarygodne, aktualne lub wolne od innych błędów, a Twój wyświetlacz elektroniczny może nie odzwierciedlać dokładnie rzeczywistych kolorów i szczegółów produktów. Wszystkie produkty są dostępne do wyczerpania zapasów i nie możemy zagwarantować, że produkty będą dostępne w magazynie. Zastrzegamy sobie prawo do zaprzestania oferowania dowolnych produktów w dowolnym momencie i z dowolnego powodu. Ceny wszystkich produktów mogą ulec zmianie."
+  },
+  {
+   "id": 96,
+   "text": "6. ZAKUPY I PŁATNOŚCI"
+  },
+  {
+   "id": 97,
+   "text": "Akceptujemy następujące formy płatności:"
+  },
+  {
+   "id": 98,
+   "text": "Visa"
+  },
+  {
+   "id": 99,
+   "text": "Mastercard"
+  },
+  {
+   "id": 100,
+   "text": "American Express"
+  },
+  {
+   "id": 101,
+   "text": "Discover"
+  },
+  {
+   "id": 102,
+   "text": "Zgadzasz się przekazywać aktualne, kompletne i dokładne informacje dotyczące zakupu i konta w odniesieniu do wszystkich zakupów dokonywanych za pośrednictwem Usług. Ponadto zgadzasz się niezwłocznie aktualizować informacje o koncie i płatności, w tym adres e-mail, metodę płatności oraz datę ważności karty płatniczej, abyśmy mogli realizować Twoje transakcje i kontaktować się z Tobą w razie potrzeby. Do ceny zakupów zostanie doliczony podatek od sprzedaży w zakresie uznanym przez nas za wymagany. Możemy zmieniać ceny w dowolnym momencie. Wszystkie płatności będą dokonywane w dolarach amerykańskich."
+  },
+  {
+   "id": 103,
+   "text": "Zgadzasz się uiszczać wszystkie opłaty po cenach obowiązujących w danym momencie dla Twoich zakupów oraz wszelkie obowiązujące opłaty za wysyłkę, a także upoważniasz nas do obciążenia wybranego przez Ciebie dostawcy płatności takimi kwotami po złożeniu zamówienia. Zastrzegamy sobie prawo do korygowania wszelkich błędów lub pomyłek w cenach, nawet jeżeli już zażądaliśmy lub otrzymaliśmy płatność."
+  },
+  {
+   "id": 104,
+   "text": "Zastrzegamy sobie prawo do odmowy realizacji każdego zamówienia złożonego za pośrednictwem Usług. Możemy, według naszego wyłącznego uznania, ograniczyć lub anulować ilości nabywane na osobę, na gospodarstwo domowe lub na zamówienie. Ograniczenia te mogą obejmować zamówienia złożone przez to samo konto klienta lub w ramach tego konta, przy użyciu tej samej metody płatności lub zamówienia, w których użyto tego samego adresu rozliczeniowego lub adresu wysyłki. Zastrzegamy sobie prawo do ograniczania lub zakazywania zamówień, które według naszego wyłącznego osądu wydają się być składane przez dealerów, odsprzedawców lub dystrybutorów."
+  },
+  {
+   "id": 105,
+   "text": "7. POLITYKA ZWROTÓW"
+  },
+  {
+   "id": 106,
+   "text": "Wszystkie sprzedaże są ostateczne i nie zostanie przyznany żaden zwrot środków."
+  },
+  {
+   "id": 107,
+   "text": "8. DZIAŁANIA ZABRONIONE"
+  },
+  {
+   "id": 108,
+   "text": "Nie możesz uzyskiwać dostępu do Usług ani korzystać z nich w żadnym celu innym niż ten, w którym udostępniamy Usługi. Usługi nie mogą być wykorzystywane w związku z żadnymi przedsięwzięciami komercyjnymi, z wyjątkiem tych, które zostały przez nas wyraźnie poparte lub zatwierdzone."
+  },
+  {
+   "id": 109,
+   "text": "Jako użytkownik Usług zgadzasz się nie podejmować następujących działań:"
+  },
+  {
+   "id": 110,
+   "text": "Systematyczne pobieranie danych lub innych treści z Usług w celu tworzenia lub kompilowania, bezpośrednio lub pośrednio, kolekcji, kompilacji, bazy danych lub katalogu bez naszej pisemnej zgody."
+  },
+  {
+   "id": 111,
+   "text": "Oszukiwanie, wyłudzanie lub wprowadzanie w błąd nas oraz innych użytkowników, w szczególności w każdej próbie poznania wrażliwych informacji o koncie, takich jak hasła użytkowników."
+  },
+  {
+   "id": 112,
+   "text": "Omijanie, wyłączanie lub inne zakłócanie funkcji Usług związanych z bezpieczeństwem, w tym funkcji, które zapobiegają wykorzystywaniu lub kopiowaniu jakichkolwiek Treści, ograniczają je lub egzekwują ograniczenia w korzystaniu z Usług lub zawartych w nich Treści."
+  },
+  {
+   "id": 113,
+   "text": "Oczernianie, szkalowanie lub inne szkodzenie, w naszej opinii, nam lub Usługom."
+  },
+  {
+   "id": 114,
+   "text": "Wykorzystywanie jakichkolwiek informacji uzyskanych z Usług w celu nękania, nadużywania lub szkodzenia innej osobie."
+  },
+  {
+   "id": 115,
+   "text": "Niewłaściwe korzystanie z naszych usług wsparcia lub składanie fałszywych zgłoszeń nadużyć lub niewłaściwego postępowania."
+  },
+  {
+   "id": 116,
+   "text": "Korzystanie z Usług w sposób niezgodny z jakimikolwiek obowiązującymi przepisami prawa lub regulacjami."
+  },
+  {
+   "id": 117,
+   "text": "Nieuprawnione umieszczanie Usług w ramkach lub linkowanie do nich."
+  },
+  {
+   "id": 118,
+   "text": "Przesyłanie lub transmitowanie (lub podejmowanie prób przesyłania lub transmitowania) wirusów, koni trojańskich lub innych materiałów, w tym nadmiernego używania wielkich liter oraz spamowania (ciągłego zamieszczania powtarzającego się tekstu), które zakłócają nieprzerwane korzystanie z Usług i czerpanie z nich przyjemności przez jakąkolwiek stronę albo modyfikują, osłabiają, zakłócają, zmieniają lub ingerują w korzystanie, cechy, funkcje, działanie lub utrzymanie Usług."
+  },
+  {
+   "id": 119,
+   "text": "Podejmowanie jakiegokolwiek zautomatyzowanego korzystania z systemu, na przykład przy użyciu skryptów do wysyłania komentarzy lub wiadomości, lub przy użyciu eksploracji danych, robotów lub podobnych narzędzi do gromadzenia i ekstrakcji danych."
+  },
+  {
+   "id": 120,
+   "text": "Usuwanie informacji o prawach autorskich lub innych prawach własności z jakichkolwiek Treści."
+  },
+  {
+   "id": 121,
+   "text": "Podejmowanie prób podszywania się pod innego użytkownika lub osobę albo używanie nazwy użytkownika innego użytkownika."
+  },
+  {
+   "id": 122,
+   "text": "Przesyłanie lub transmitowanie (lub podejmowanie prób przesyłania lub transmitowania) jakichkolwiek materiałów działających jako pasywny lub aktywny mechanizm gromadzenia lub transmisji informacji, w tym bez ograniczeń formatów wymiany grafiki clear („gify”), pikseli 1x1, sygnałów web beacon, plików cookie lub innych podobnych urządzeń (czasami określanych jako „oprogramowanie szpiegujące” lub „pasywne mechanizmy gromadzenia” lub „pcm”)."
+  },
+  {
+   "id": 123,
+   "text": "Zakłócanie, przerywanie lub tworzenie nadmiernego obciążenia Usług albo sieci lub usług połączonych z Usługami."
+  },
+  {
+   "id": 124,
+   "text": "Nękanie, dokuczanie, zastraszanie lub grożenie któremukolwiek z naszych pracowników lub przedstawicieli zaangażowanych w świadczenie na Twoją rzecz dowolnej części Usług."
+  },
+  {
+   "id": 125,
+   "text": "Podejmowanie prób obejścia jakichkolwiek środków Usług mających na celu zapobieganie dostępowi do Usług lub dowolnej ich części bądź ograniczanie takiego dostępu."
+  },
+  {
+   "id": 126,
+   "text": "Kopiowanie lub adaptowanie oprogramowania Usług, w tym między innymi Flash, PHP, HTML, JavaScript lub innego kodu."
+  },
+  {
+   "id": 127,
+   "text": "Z wyjątkiem przypadków dozwolonych przez obowiązujące prawo, odszyfrowywanie, dekompilowanie, dezasemblowanie lub odtwarzanie kodu źródłowego jakiegokolwiek oprogramowania stanowiącego w jakikolwiek sposób część Usług."
+  },
+  {
+   "id": 128,
+   "text": "Z wyjątkiem sytuacji będących wynikiem standardowego korzystania z wyszukiwarki lub przeglądarki internetowej, używanie, uruchamianie, rozwijanie lub rozpowszechnianie jakiegokolwiek systemu zautomatyzowanego, w tym bez ograniczeń pająków, robotów, narzędzi oszukujących, skraperów lub czytników offline uzyskujących dostęp do Usług, albo używanie lub uruchamianie jakiegokolwiek nieuprawnionego skryptu lub innego oprogramowania."
+  },
+  {
+   "id": 129,
+   "text": "Korzystanie z agenta zakupowego lub pośrednika zakupowego do dokonywania zakupów w Usługach."
+  },
+  {
+   "id": 130,
+   "text": "Dokonywanie jakiegokolwiek nieuprawnionego korzystania z Usług, w tym zbieranie nazw użytkowników lub adresów e-mail użytkowników drogą elektroniczną lub innymi środkami w celu wysyłania niezamówionej poczty elektronicznej, albo tworzenie kont użytkowników środkami zautomatyzowanymi lub pod fałszywymi pozorami."
+  },
+  {
+   "id": 131,
+   "text": "Korzystanie z Usług w ramach jakichkolwiek działań mających na celu konkurowanie z nami lub inne wykorzystywanie Usług lub Treści w jakimkolwiek przedsięwzięciu generującym przychody lub przedsięwzięciu komercyjnym."
+  },
+  {
+   "id": 132,
+   "text": "Korzystanie z Usług do reklamowania lub oferowania sprzedaży towarów i usług."
+  },
+  {
+   "id": 133,
+   "text": "Sprzedawanie lub inne przenoszenie swojego profilu."
+  },
+  {
+   "id": 134,
+   "text": "9. TREŚCI TWORZONE PRZEZ UŻYTKOWNIKÓW"
+  },
+  {
+   "id": 135,
+   "text": "Usługi mogą zapraszać Cię do czatowania, wnoszenia wkładu lub uczestnictwa w blogach, forach dyskusyjnych, forach internetowych i innych funkcjach oraz mogą dawać Ci możliwość tworzenia, przesyłania, zamieszczania, wyświetlania, transmitowania, wykonywania, publikowania, rozpowszechniania lub nadawania treści i materiałów nam lub w Usługach, w tym między innymi tekstów, pism, wideo, audio, fotografii, grafik, komentarzy, sugestii, danych osobowych lub innych materiałów (łącznie „Treści użytkowników”). Treści użytkowników mogą być widoczne dla innych użytkowników Usług oraz za pośrednictwem stron internetowych podmiotów trzecich. W związku z tym wszelkie Treści użytkowników, które transmitujesz, mogą być traktowane jako niepoufne i niezastrzeżone. Tworząc lub udostępniając jakiekolwiek Treści użytkowników, oświadczasz i zapewniasz, że:"
+  },
+  {
+   "id": 136,
+   "text": "Tworzenie, rozpowszechnianie, transmitowanie, publiczne wyświetlanie lub wykonywanie oraz uzyskiwanie dostępu, pobieranie lub kopiowanie Twoich Treści użytkowników nie narusza i nie będzie naruszać praw własności, w tym między innymi praw autorskich, patentowych, znaków towarowych, tajemnicy handlowej lub autorskich praw osobistych jakiejkolwiek osoby trzeciej."
+  },
+  {
+   "id": 137,
+   "text": "Jesteś twórcą i właścicielem swoich Treści użytkowników lub posiadasz niezbędne licencje, prawa, zgody, zwolnienia i zezwolenia do korzystania z nich oraz do upoważnienia nas, Usług oraz innych użytkowników Usług do korzystania z Twoich Treści użytkowników w dowolny sposób przewidziany przez Usługi i niniejsze Warunki prawne."
+  },
+  {
+   "id": 138,
+   "text": "Posiadasz pisemną zgodę, zwolnienie lub zezwolenie każdej możliwej do zidentyfikowania osoby fizycznej występującej w Twoich Treściach użytkowników na wykorzystanie imienia, nazwiska lub wizerunku każdej takiej osoby w celu umożliwienia włączenia i wykorzystania Twoich Treści użytkowników w dowolny sposób przewidziany przez Usługi i niniejsze Warunki prawne."
+  },
+  {
+   "id": 139,
+   "text": "Twoje Treści użytkowników nie są fałszywe, niedokładne ani wprowadzające w błąd."
+  },
+  {
+   "id": 140,
+   "text": "Twoje Treści użytkowników nie stanowią niezamówionej ani nieuprawnionej reklamy, materiałów promocyjnych, piramid finansowych, listów łańcuszkowych, spamu, masowych wysyłek pocztowych ani innych form nagabywania."
+  },
+  {
+   "id": 141,
+   "text": "Twoje Treści użytkowników nie są obsceniczne, sprośne, lubieżne, obrzydliwe, przemocowe, napastliwe, zniesławiające, oszczercze ani w inny sposób budzące zastrzeżenia (zgodnie z naszą oceną)."
+  },
+  {
+   "id": 142,
+   "text": "Twoje Treści użytkowników nie ośmieszają, nie wyśmiewają, nie oczerniają, nie zastraszają ani nie nadużywają nikogo."
+  },
+  {
+   "id": 143,
+   "text": "Twoje Treści użytkowników nie są wykorzystywane do nękania lub grożenia (w prawnym znaczeniu tych terminów) jakiejkolwiek innej osobie ani do promowania przemocy wobec określonej osoby lub grupy osób."
+  },
+  {
+   "id": 144,
+   "text": "Twoje Treści użytkowników nie naruszają żadnego obowiązującego prawa, przepisu ani zasady."
+  },
+  {
+   "id": 145,
+   "text": "Twoje Treści użytkowników nie naruszają praw do prywatności ani praw do wizerunku jakiejkolwiek osoby trzeciej."
+  },
+  {
+   "id": 146,
+   "text": "Twoje Treści użytkowników nie naruszają żadnego obowiązującego prawa dotyczącego pornografii dziecięcej ani prawa mającego na celu ochronę zdrowia lub dobrostanu małoletnich."
+  },
+  {
+   "id": 147,
+   "text": "Twoje Treści użytkowników nie zawierają żadnych obraźliwych komentarzy związanych z rasą, pochodzeniem narodowym, płcią, preferencjami seksualnymi lub niepełnosprawnością fizyczną."
+  },
+  {
+   "id": 148,
+   "text": "Twoje Treści użytkowników w inny sposób nie naruszają ani nie zawierają linków do materiałów naruszających jakiekolwiek postanowienie niniejszych Warunków prawnych lub jakiekolwiek obowiązujące prawo lub przepis."
+  },
+  {
+   "id": 149,
+   "text": "Każde korzystanie z Usług z naruszeniem powyższych postanowień narusza niniejsze Warunki prawne i może skutkować między innymi rozwiązaniem lub zawieszeniem Twoich praw do korzystania z Usług."
+  },
+  {
+   "id": 150,
+   "text": "10. LICENCJA NA TREŚCI"
+  },
+  {
+   "id": 151,
+   "text": "Zamieszczając swoje Treści użytkowników w dowolnej części Usług, automatycznie udzielasz nam, a także oświadczasz i zapewniasz, że masz prawo nam udzielić, nieograniczonego, bezterminowego, nieodwołalnego, wieczystego, niewyłącznego, przenoszalnego, wolnego od opłat licencyjnych, w pełni opłaconego, ogólnoświatowego prawa i licencji do hostowania, wykorzystywania, kopiowania, reprodukowania, ujawniania, sprzedawania, odsprzedawania, publikowania, nadawania, zmiany tytułu, archiwizowania, przechowywania, buforowania, publicznego odtwarzania, publicznego wyświetlania, przeformatowywania, tłumaczenia, transmitowania, tworzenia fragmentów (w całości lub w części) oraz rozpowszechniania takich Treści użytkowników (w tym, bez ograniczeń, Twojego wizerunku i głosu) w dowolnym celu, komercyjnym, reklamowym lub innym, oraz do przygotowywania utworów pochodnych na ich podstawie lub włączania ich do innych utworów, a także do udzielania i upoważniania do udzielania sublicencji w powyższym zakresie. Wykorzystywanie i rozpowszechnianie może odbywać się w dowolnych formatach medialnych i za pośrednictwem dowolnych kanałów medialnych."
+  },
+  {
+   "id": 152,
+   "text": "Licencja ta będzie miała zastosowanie do każdej formy, medium lub technologii znanej obecnie lub opracowanej w przyszłości i obejmuje korzystanie przez nas z Twojego imienia i nazwiska, nazwy firmy i nazwy franczyzy, w stosownych przypadkach, oraz wszelkich znaków towarowych, znaków usługowych, nazw handlowych, logotypów oraz wizerunków osobistych i komercyjnych, które nam przekazujesz. Zrzekasz się wszelkich autorskich praw osobistych do swoich Treści użytkowników i zapewniasz, że autorskie prawa osobiste nie zostały w inny sposób dochodzone w odniesieniu do Twoich Treści użytkowników."
+  },
+  {
+   "id": 153,
+   "text": "Nie rościmy sobie żadnych praw własności do Twoich Treści użytkowników. Zachowujesz pełną własność wszystkich swoich Treści użytkowników oraz wszelkich praw własności intelektualnej lub innych praw własności związanych z Twoimi Treściami użytkowników. Nie ponosimy odpowiedzialności za żadne oświadczenia ani zapewnienia zawarte w Twoich Treściach użytkowników przekazanych przez Ciebie w dowolnym obszarze Usług. Ponosisz wyłączną odpowiedzialność za swoje Treści użytkowników w Usługach i wyraźnie zgadzasz się zwolnić nas z wszelkiej odpowiedzialności oraz powstrzymać się od wszelkich działań prawnych przeciwko nam w odniesieniu do Twoich Treści użytkowników."
+  },
+  {
+   "id": 154,
+   "text": "Mamy prawo, według naszego wyłącznego i absolutnego uznania, (1) edytować, redagować lub w inny sposób zmieniać dowolne Treści użytkowników; (2) ponownie kategoryzować dowolne Treści użytkowników w celu umieszczenia ich w bardziej odpowiednich miejscach w Usługach; oraz (3) wstępnie przeglądać lub usuwać dowolne Treści użytkowników w dowolnym momencie i z dowolnego powodu, bez powiadomienia. Nie mamy obowiązku monitorowania Twoich Treści użytkowników."
+  },
+  {
+   "id": 155,
+   "text": "11. WYTYCZNE DOTYCZĄCE RECENZJI"
+  },
+  {
+   "id": 156,
+   "text": "Możemy udostępniać Ci w Usługach obszary do zamieszczania recenzji lub ocen. Zamieszczając recenzję, musisz spełniać następujące kryteria: (1) powinieneś mieć bezpośrednie doświadczenie z recenzowaną osobą lub podmiotem; (2) Twoje recenzje nie powinny zawierać obraźliwych wulgaryzmów ani języka obraźliwego, rasistowskiego, budzącego sprzeciw lub nienawistnego; (3) Twoje recenzje nie powinny zawierać dyskryminujących odniesień opartych na religii, rasie, płci, pochodzeniu narodowym, wieku, stanie cywilnym, orientacji seksualnej lub niepełnosprawności; (4) Twoje recenzje nie powinny zawierać odniesień do działalności nielegalnej; (5) nie powinieneś być powiązany z konkurentami, jeżeli zamieszczasz negatywne recenzje; (6) nie powinieneś wyciągać żadnych wniosków co do legalności postępowania; (7) nie możesz zamieszczać żadnych fałszywych ani wprowadzających w błąd oświadczeń; oraz (8) nie możesz organizować kampanii zachęcającej innych do zamieszczania recenzji, pozytywnych ani negatywnych."
+  },
+  {
+   "id": 157,
+   "text": "Możemy akceptować, odrzucać lub usuwać recenzje według naszego wyłącznego uznania. Nie mamy absolutnie żadnego obowiązku przeglądania recenzji ani usuwania recenzji, nawet jeżeli ktokolwiek uważa recenzje za budzące zastrzeżenia lub niedokładne. Recenzje nie są przez nas popierane i niekoniecznie odzwierciedlają nasze opinie ani poglądy naszych podmiotów powiązanych lub partnerów. Nie ponosimy odpowiedzialności za żadną recenzję ani za żadne roszczenia, zobowiązania lub straty wynikające z jakiejkolwiek recenzji. Zamieszczając recenzję, niniejszym udzielasz nam wieczystego, niewyłącznego, ogólnoświatowego, wolnego od opłat licencyjnych, w pełni opłaconego, zbywalnego i sublicencjonowalnego prawa i licencji do reprodukowania, modyfikowania, tłumaczenia, transmitowania dowolnymi środkami, wyświetlania, wykonywania lub rozpowszechniania wszystkich treści związanych z recenzją."
+  },
+  {
+   "id": 158,
+   "text": "12. ZARZĄDZANIE USŁUGAMI"
+  },
+  {
+   "id": 159,
+   "text": "Zastrzegamy sobie prawo, lecz nie obowiązek, do: (1) monitorowania Usług pod kątem naruszeń niniejszych Warunków prawnych; (2) podejmowania odpowiednich działań prawnych przeciwko każdemu, kto według naszego wyłącznego uznania narusza prawo lub niniejsze Warunki prawne, w tym bez ograniczeń zgłaszania takiego użytkownika organom ścigania; (3) według naszego wyłącznego uznania i bez ograniczeń, odmawiania, ograniczania dostępu do, ograniczania dostępności lub wyłączania (w zakresie technologicznie możliwym) dowolnych Twoich Treści użytkowników lub dowolnej ich części; (4) według naszego wyłącznego uznania i bez ograniczeń, powiadomienia lub odpowiedzialności, usuwania z Usług lub innego wyłączania wszystkich plików i treści, które mają nadmierny rozmiar lub w jakikolwiek sposób obciążają nasze systemy; oraz (5) innego zarządzania Usługami w sposób mający na celu ochronę naszych praw i mienia oraz ułatwienie prawidłowego funkcjonowania Usług."
+  },
+  {
+   "id": 160,
+   "text": "13. POLITYKA PRYWATNOŚCI"
+  },
+  {
+   "id": 161,
+   "text": "Dbamy o prywatność i bezpieczeństwo danych. Prosimy o zapoznanie się z naszą "
+  },
+  {
+   "id": 162,
+   "text": "Polityką prywatności"
+  },
+  {
+   "id": 163,
+   "text": ". Korzystając z Usług, zgadzasz się na związanie naszą Polityką prywatności, która została włączona do niniejszych Warunków prawnych. Informujemy, że Usługi są hostowane w Stanach Zjednoczonych. Jeżeli uzyskujesz dostęp do Usług z jakiegokolwiek innego regionu świata, w którym obowiązują przepisy prawa lub inne wymogi dotyczące gromadzenia, wykorzystywania lub ujawniania danych osobowych różniące się od przepisów obowiązujących w Stanach Zjednoczonych, wówczas poprzez dalsze korzystanie z Usług przekazujesz swoje dane do Stanów Zjednoczonych i wyraźnie wyrażasz zgodę na przekazanie swoich danych do Stanów Zjednoczonych i ich przetwarzanie w Stanach Zjednoczonych."
+  },
+  {
+   "id": 164,
+   "text": "14. OKRES OBOWIĄZYWANIA I ROZWIĄZANIE"
+  },
+  {
+   "id": 165,
+   "text": "Niniejsze Warunki prawne pozostają w pełnej mocy i skuteczności tak długo, jak korzystasz z Usług. BEZ OGRANICZANIA JAKIEGOKOLWIEK INNEGO POSTANOWIENIA NINIEJSZYCH WARUNKÓW PRAWNYCH, ZASTRZEGAMY SOBIE PRAWO, WEDŁUG NASZEGO WYŁĄCZNEGO UZNANIA I BEZ POWIADOMIENIA LUB ODPOWIEDZIALNOŚCI, DO ODMOWY DOSTĘPU DO USŁUG I KORZYSTANIA Z NICH (W TYM BLOKOWANIA OKREŚLONYCH ADRESÓW IP) KAŻDEJ OSOBIE Z DOWOLNEGO POWODU LUB BEZ POWODU, W TYM BEZ OGRANICZEŃ Z POWODU NARUSZENIA JAKIEGOKOLWIEK OŚWIADCZENIA, GWARANCJI LUB ZOBOWIĄZANIA ZAWARTEGO W NINIEJSZYCH WARUNKACH PRAWNYCH LUB JAKIEGOKOLWIEK OBOWIĄZUJĄCEGO PRAWA LUB PRZEPISU. MOŻEMY ZAKOŃCZYĆ TWOJE KORZYSTANIE LUB UCZESTNICTWO W USŁUGACH ALBO USUNĄĆ TWOJE KONTO ORAZ WSZELKIE TREŚCI LUB INFORMACJE, KTÓRE ZAMIEŚCIŁEŚ, W DOWOLNYM MOMENCIE, BEZ OSTRZEŻENIA, WEDŁUG NASZEGO WYŁĄCZNEGO UZNANIA."
+  },
+  {
+   "id": 166,
+   "text": "Jeżeli zakończymy lub zawiesimy Twoje konto z dowolnego powodu, nie możesz rejestrować się ani tworzyć nowego konta pod swoim imieniem i nazwiskiem, fałszywym lub pożyczonym imieniem i nazwiskiem ani pod imieniem i nazwiskiem jakiejkolwiek osoby trzeciej, nawet jeżeli działasz w imieniu tej osoby trzeciej. Oprócz zakończenia lub zawieszenia Twojego konta zastrzegamy sobie prawo do podjęcia odpowiednich działań prawnych, w tym bez ograniczeń dochodzenia zadośćuczynienia cywilnego, karnego i w drodze nakazu sądowego."
+  },
+  {
+   "id": 167,
+   "text": "15. MODYFIKACJE I PRZERWY"
+  },
+  {
+   "id": 168,
+   "text": "Zastrzegamy sobie prawo do zmiany, modyfikacji lub usunięcia treści Usług w dowolnym momencie lub z dowolnego powodu według naszego wyłącznego uznania bez powiadomienia. Nie mamy jednak obowiązku aktualizowania jakichkolwiek informacji w naszych Usługach. Nie będziemy ponosić odpowiedzialności wobec Ciebie ani żadnej osoby trzeciej za jakąkolwiek modyfikację, zmianę ceny, zawieszenie lub zaprzestanie świadczenia Usług."
+  },
+  {
+   "id": 169,
+   "text": "Nie możemy zagwarantować, że Usługi będą dostępne przez cały czas. Możemy doświadczać problemów ze sprzętem, oprogramowaniem lub innych problemów albo konieczności przeprowadzenia konserwacji związanej z Usługami, co może skutkować przerwami, opóźnieniami lub błędami. Zastrzegamy sobie prawo do zmiany, rewizji, aktualizacji, zawieszenia, zaprzestania lub innego zmodyfikowania Usług w dowolnym momencie lub z dowolnego powodu bez powiadomienia Ciebie. Zgadzasz się, że nie ponosimy żadnej odpowiedzialności za jakiekolwiek straty, szkody lub niedogodności spowodowane Twoją niemożnością dostępu do Usług lub korzystania z nich podczas przestoju lub zaprzestania świadczenia Usług. Żadne postanowienie niniejszych Warunków prawnych nie będzie interpretowane jako zobowiązujące nas do utrzymywania i wspierania Usług lub dostarczania w związku z nimi jakichkolwiek poprawek, aktualizacji lub wydań."
+  },
+  {
+   "id": 170,
+   "text": "16. PRAWO WŁAŚCIWE"
+  },
+  {
+   "id": 171,
+   "text": "Niniejsze Warunki prawne oraz Twoje korzystanie z Usług podlegają prawu stanu Delaware i będą interpretowane zgodnie z nim, mającemu zastosowanie do umów zawartych i w całości wykonywanych na terenie stanu Delaware, bez względu na jego zasady kolizyjne."
+  },
+  {
+   "id": 172,
+   "text": "17. ROZSTRZYGANIE SPORÓW"
+  },
+  {
+   "id": 173,
+   "text": "Negocjacje nieformalne"
+  },
+  {
+   "id": 174,
+   "text": "Aby przyspieszyć rozstrzygnięcie i kontrolować koszty każdego sporu, kontrowersji lub roszczenia związanego z niniejszymi Warunkami prawnymi (każdy z nich „Spór”, a łącznie „Spory”) wniesionego przez Ciebie lub przez nas (indywidualnie „Strona”, a łącznie „Strony”), Strony zgadzają się najpierw podjąć próbę nieformalnego negocjowania każdego Sporu (z wyjątkiem Sporów wyraźnie przewidzianych poniżej) przez co najmniej trzydzieści (30) dni przed wszczęciem arbitrażu. Takie nieformalne negocjacje rozpoczynają się po pisemnym powiadomieniu jednej Strony przez drugą Stronę."
+  },
+  {
+   "id": 175,
+   "text": "Arbitraż wiążący"
+  },
+  {
+   "id": 176,
+   "text": "Jeżeli Strony nie będą w stanie rozstrzygnąć Sporu w drodze nieformalnych negocjacji, Spór (z wyjątkiem Sporów wyraźnie wyłączonych poniżej) zostanie ostatecznie i wyłącznie rozstrzygnięty w drodze wiążącego arbitrażu. ROZUMIESZ, ŻE BEZ TEGO POSTANOWIENIA MIAŁBYŚ PRAWO POZWAĆ DO SĄDU I DO PROCESU Z UDZIAŁEM ŁAWY PRZYSIĘGŁYCH. Arbitraż zostanie wszczęty i przeprowadzony zgodnie z Commercial Arbitration Rules stowarzyszenia American Arbitration Association („AAA”), a w stosownych przypadkach zgodnie z AAA&#x27;s Supplementary Procedures for Consumer Related Disputes („AAA Consumer Rules”), które są dostępne na "
+  },
+  {
+   "id": 177,
+   "text": "stronie internetowej American Arbitration Association (AAA)"
+  },
+  {
+   "id": 178,
+   "text": ". Twoje opłaty arbitrażowe oraz Twój udział w wynagrodzeniu arbitra będą podlegać AAA Consumer Rules i, w stosownych przypadkach, będą przez nie ograniczone. Arbitraż może być prowadzony osobiście, poprzez złożenie dokumentów, telefonicznie lub online. Arbiter podejmie decyzję na piśmie, lecz nie musi przedstawiać uzasadnienia, chyba że zażąda tego którakolwiek ze Stron. Arbiter musi stosować obowiązujące prawo, a każde orzeczenie może zostać zakwestionowane, jeżeli arbiter tego nie uczyni. Z wyjątkiem przypadków, w których obowiązujące zasady AAA lub obowiązujące prawo wymagają inaczej, arbitraż odbędzie się w Kalifornii."
+  },
+  {
+   "id": 179,
+   "text": "Z wyjątkiem przypadków przewidzianych w niniejszym dokumencie, Strony mogą występować do sądu o nakazanie arbitrażu, zawieszenie postępowania do czasu arbitrażu albo o potwierdzenie, modyfikację, uchylenie lub wydanie wyroku na podstawie orzeczenia wydanego przez arbitra."
+  },
+  {
+   "id": 180,
+   "text": "Jeżeli z jakiegokolwiek powodu Spór będzie rozpatrywany przez sąd, a nie w drodze arbitrażu, Spór zostanie wszczęty lub będzie prowadzony przed sądami stanowymi i federalnymi znajdującymi się w Kalifornii, a Strony niniejszym wyrażają zgodę na właściwość osobistą i właściwość miejscową takich sądów stanowych i federalnych oraz zrzekają się wszelkich zarzutów braku właściwości osobistej i forum non conveniens w odniesieniu do właściwości miejscowej i jurysdykcji w takich sądach. Zastosowanie Konwencji Narodów Zjednoczonych o umowach międzynarodowej sprzedaży towarów oraz Uniform Computer Information Transaction Act (UCITA) jest wyłączone z niniejszych Warunków prawnych."
+  },
+  {
+   "id": 181,
+   "text": "W żadnym wypadku żaden Spór wniesiony przez którąkolwiek ze Stron, związany w jakikolwiek sposób z Usługami, nie może zostać wszczęty później niż jeden (1) rok po powstaniu podstawy roszczenia. Jeżeli postanowienie to zostanie uznane za niezgodne z prawem lub niewykonalne, wówczas żadna ze Stron nie zdecyduje się na arbitraż żadnego Sporu mieszczącego się w części tego postanowienia uznanej za niezgodną z prawem lub niewykonalną, a taki Spór zostanie rozstrzygnięty przez sąd właściwej jurysdykcji spośród sądów wymienionych powyżej w zakresie jurysdykcji, a Strony zgadzają się poddać właściwości osobistej tego sądu."
+  },
+  {
+   "id": 182,
+   "text": "Ograniczenia"
+  },
+  {
+   "id": 183,
+   "text": "Strony zgadzają się, że każdy arbitraż będzie ograniczony do Sporu pomiędzy Stronami indywidualnie. W pełnym zakresie dozwolonym przez prawo: (a) żaden arbitraż nie będzie łączony z żadnym innym postępowaniem; (b) nie istnieje prawo ani uprawnienie do arbitrażu jakiegokolwiek Sporu na zasadzie pozwu zbiorowego ani do stosowania procedur pozwu zbiorowego; oraz (c) nie istnieje prawo ani uprawnienie do wnoszenia jakiegokolwiek Sporu w rzekomej roli przedstawicielskiej w imieniu ogółu społeczeństwa lub jakichkolwiek innych osób."
+  },
+  {
+   "id": 184,
+   "text": "Wyjątki od negocjacji nieformalnych i arbitrażu"
+  },
+  {
+   "id": 185,
+   "text": "Strony zgadzają się, że następujące Spory nie podlegają powyższym postanowieniom dotyczącym nieformalnych negocjacji i wiążącego arbitrażu: (a) wszelkie Spory mające na celu egzekwowanie lub ochronę praw własności intelektualnej Strony lub dotyczące ich ważności; (b) każdy Spór związany z zarzutami kradzieży, piractwa, naruszenia prywatności lub nieuprawnionego użycia lub z nich wynikający; oraz (c) każde roszczenie o zabezpieczenie w drodze nakazu sądowego. Jeżeli postanowienie to zostanie uznane za niezgodne z prawem lub niewykonalne, wówczas żadna ze Stron nie zdecyduje się na arbitraż żadnego Sporu mieszczącego się w części tego postanowienia uznanej za niezgodną z prawem lub niewykonalną, a taki Spór zostanie rozstrzygnięty przez sąd właściwej jurysdykcji spośród sądów wymienionych powyżej w zakresie jurysdykcji, a Strony zgadzają się poddać właściwości osobistej tego sądu."
+  },
+  {
+   "id": 186,
+   "text": "18. KOREKTY"
+  },
+  {
+   "id": 187,
+   "text": "W Usługach mogą znajdować się informacje zawierające błędy typograficzne, niedokładności lub pominięcia, w tym opisy, ceny, dostępność oraz różne inne informacje. Zastrzegamy sobie prawo do korygowania wszelkich błędów, niedokładności lub pominięć oraz do zmiany lub aktualizacji informacji w Usługach w dowolnym momencie, bez uprzedniego powiadomienia."
+  },
+  {
+   "id": 188,
+   "text": "19. WYŁĄCZENIE ODPOWIEDZIALNOŚCI"
+  },
+  {
+   "id": 189,
+   "text": "USŁUGI SĄ ŚWIADCZONE W STANIE, W JAKIM SĄ, ORAZ W MIARĘ DOSTĘPNOŚCI. ZGADZASZ SIĘ, ŻE KORZYSTANIE PRZEZ CIEBIE Z USŁUG BĘDZIE ODBYWAĆ SIĘ NA TWOJE WYŁĄCZNE RYZYKO. W NAJPEŁNIEJSZYM ZAKRESIE DOZWOLONYM PRZEZ PRAWO WYŁĄCZAMY WSZELKIE GWARANCJE, WYRAŹNE LUB DOROZUMIANE, W ZWIĄZKU Z USŁUGAMI I TWOIM KORZYSTANIEM Z NICH, W TYM, BEZ OGRANICZEŃ, DOROZUMIANE GWARANCJE PRZYDATNOŚCI HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU ORAZ NIENARUSZANIA PRAW. NIE SKŁADAMY ŻADNYCH GWARANCJI ANI OŚWIADCZEŃ CO DO DOKŁADNOŚCI LUB KOMPLETNOŚCI TREŚCI USŁUG ANI TREŚCI JAKICHKOLWIEK STRON INTERNETOWYCH LUB APLIKACJI MOBILNYCH POWIĄZANYCH Z USŁUGAMI I NIE PONOSIMY ŻADNEJ ODPOWIEDZIALNOŚCI ZA JAKIEKOLWIEK (1) BŁĘDY, POMYŁKI LUB NIEDOKŁADNOŚCI TREŚCI I MATERIAŁÓW, (2) OBRAŻENIA CIAŁA LUB SZKODY MAJĄTKOWE, JAKIEGOKOLWIEK RODZAJU, WYNIKAJĄCE Z TWOJEGO DOSTĘPU DO USŁUG I KORZYSTANIA Z NICH, (3) JAKIKOLWIEK NIEUPRAWNIONY DOSTĘP DO NASZYCH BEZPIECZNYCH SERWERÓW LUB ICH WYKORZYSTANIE, LUB DO WSZELKICH DANYCH OSOBOWYCH LUB INFORMACJI FINANSOWYCH W NICH PRZECHOWYWANYCH, (4) JAKIEKOLWIEK PRZERWANIE LUB ZAPRZESTANIE TRANSMISJI DO USŁUG LUB Z USŁUG, (5) JAKIEKOLWIEK BŁĘDY PROGRAMOWE, WIRUSY, KONIE TROJAŃSKIE LUB PODOBNE, KTÓRE MOGĄ ZOSTAĆ PRZESŁANE DO USŁUG LUB ZA ICH POŚREDNICTWEM PRZEZ JAKĄKOLWIEK OSOBĘ TRZECIĄ, LUB (6) JAKIEKOLWIEK BŁĘDY LUB POMINIĘCIA W JAKICHKOLWIEK TREŚCIACH I MATERIAŁACH ALBO ZA JAKIEKOLWIEK STRATY LUB SZKODY JAKIEGOKOLWIEK RODZAJU PONIESIONE W WYNIKU KORZYSTANIA Z JAKICHKOLWIEK TREŚCI ZAMIESZCZONYCH, PRZESŁANYCH LUB W INNY SPOSÓB UDOSTĘPNIONYCH ZA POŚREDNICTWEM USŁUG. NIE GWARANTUJEMY, NIE POPIERAMY, NIE ZAPEWNIAMY ANI NIE PONOSIMY ODPOWIEDZIALNOŚCI ZA ŻADEN PRODUKT LUB USŁUGĘ REKLAMOWANĄ LUB OFEROWANĄ PRZEZ OSOBĘ TRZECIĄ ZA POŚREDNICTWEM USŁUG, ŻADNĄ STRONĘ INTERNETOWĄ DOSTĘPNĄ PRZEZ HIPERŁĄCZE, ANI ŻADNĄ STRONĘ INTERNETOWĄ LUB APLIKACJĘ MOBILNĄ PREZENTOWANĄ W JAKIMKOLWIEK BANERZE LUB INNEJ REKLAMIE, ORAZ NIE BĘDZIEMY STRONĄ ANI W ŻADEN SPOSÓB NIE BĘDZIEMY ODPOWIEDZIALNI ZA MONITOROWANIE JAKIEJKOLWIEK TRANSAKCJI POMIĘDZY TOBĄ A JAKIMIKOLWIEK ZEWNĘTRZNYMI DOSTAWCAMI PRODUKTÓW LUB USŁUG. PODOBNIE JAK PRZY ZAKUPIE PRODUKTU LUB USŁUGI ZA POŚREDNICTWEM DOWOLNEGO MEDIUM LUB W DOWOLNYM ŚRODOWISKU, POWINIENEŚ KIEROWAĆ SIĘ NAJLEPSZYM OSĄDEM I ZACHOWYWAĆ OSTROŻNOŚĆ TAM, GDZIE JEST TO STOSOWNE."
+  },
+  {
+   "id": 190,
+   "text": "20. OGRANICZENIA ODPOWIEDZIALNOŚCI"
+  },
+  {
+   "id": 191,
+   "text": "W ŻADNYM WYPADKU MY ANI NASI DYREKTORZY, PRACOWNICY LUB PRZEDSTAWICIELE NIE BĘDZIEMY PONOSIĆ ODPOWIEDZIALNOŚCI WOBEC CIEBIE ANI ŻADNEJ OSOBY TRZECIEJ ZA JAKIEKOLWIEK SZKODY BEZPOŚREDNIE, POŚREDNIE, WYNIKOWE, PRZYKŁADOWE, PRZYPADKOWE, SZCZEGÓLNE LUB KARNE, W TYM UTRACONE ZYSKI, UTRACONE PRZYCHODY, UTRATĘ DANYCH LUB INNE SZKODY WYNIKAJĄCE Z TWOJEGO KORZYSTANIA Z USŁUG, NAWET JEŻELI ZOSTALIŚMY POINFORMOWANI O MOŻLIWOŚCI WYSTĄPIENIA TAKICH SZKÓD. NIEZALEŻNIE OD JAKICHKOLWIEK PRZECIWNYCH POSTANOWIEŃ ZAWARTYCH W NINIEJSZYM DOKUMENCIE, NASZA ODPOWIEDZIALNOŚĆ WOBEC CIEBIE Z JAKIEJKOLWIEK PRZYCZYNY I NIEZALEŻNIE OD FORMY DZIAŁANIA BĘDZIE PRZEZ CAŁY CZAS OGRANICZONA DO KWOTY ZAPŁACONEJ, O ILE W OGÓLE, PRZEZ CIEBIE NAM W OKRESIE TRZECH (3) MIESIĘCY POPRZEDZAJĄCYM POWSTANIE JAKIEJKOLWIEK PODSTAWY ROSZCZENIA. NIEKTÓRE PRZEPISY STANOWE W STANACH ZJEDNOCZONYCH ORAZ PRZEPISY MIĘDZYNARODOWE NIE ZEZWALAJĄ NA OGRANICZENIA DOROZUMIANYCH GWARANCJI ANI NA WYŁĄCZENIE LUB OGRANICZENIE NIEKTÓRYCH SZKÓD. JEŻELI PRZEPISY TE MAJĄ DO CIEBIE ZASTOSOWANIE, NIEKTÓRE LUB WSZYSTKIE POWYŻSZE WYŁĄCZENIA LUB OGRANICZENIA MOGĄ NIE MIEĆ DO CIEBIE ZASTOSOWANIA, A TY MOŻESZ MIEĆ DODATKOWE PRAWA."
+  },
+  {
+   "id": 192,
+   "text": "21. ODSZKODOWANIE I ZWOLNIENIE Z ODPOWIEDZIALNOŚCI"
+  },
+  {
+   "id": 193,
+   "text": "Zgadzasz się bronić, zwolnić z odpowiedzialności odszkodowawczej i chronić nas, w tym nasze spółki zależne, podmioty powiązane oraz wszystkich naszych odpowiednich członków organów, przedstawicieli, partnerów i pracowników, przed wszelkimi stratami, szkodami, odpowiedzialnością, roszczeniami lub żądaniami, w tym uzasadnionymi honorariami i wydatkami prawników, wniesionymi przez jakąkolwiek osobę trzecią z powodu lub w wyniku: (1) Twoich Treści użytkowników; (2) korzystania z Usług; (3) naruszenia niniejszych Warunków prawnych; (4) każdego naruszenia Twoich oświadczeń i zapewnień określonych w niniejszych Warunkach prawnych; (5) naruszenia przez Ciebie praw osoby trzeciej, w tym między innymi praw własności intelektualnej; lub (6) każdego jawnego szkodliwego działania wobec jakiegokolwiek innego użytkownika Usług, z którym połączyłeś się za pośrednictwem Usług. Niezależnie od powyższego zastrzegamy sobie prawo, na Twój koszt, do przejęcia wyłącznej obrony i kontroli nad każdą sprawą, w odniesieniu do której jesteś zobowiązany do zwolnienia nas z odpowiedzialności odszkodowawczej, a Ty zgadzasz się współpracować, na swój koszt, przy naszej obronie przed takimi roszczeniami. Dołożymy uzasadnionych starań, aby powiadomić Cię o każdym takim roszczeniu, działaniu lub postępowaniu objętym niniejszym zwolnieniem z odpowiedzialności odszkodowawczej, gdy tylko się o nim dowiemy."
+  },
+  {
+   "id": 194,
+   "text": "22. DANE UŻYTKOWNIKA"
+  },
+  {
+   "id": 195,
+   "text": "Będziemy utrzymywać określone dane, które przekazujesz Usługom, w celu zarządzania wydajnością Usług, a także dane dotyczące Twojego korzystania z Usług. Chociaż regularnie wykonujemy rutynowe kopie zapasowe danych, ponosisz wyłączną odpowiedzialność za wszystkie dane, które przekazujesz lub które dotyczą jakiejkolwiek aktywności podjętej przez Ciebie przy użyciu Usług. Zgadzasz się, że nie ponosimy żadnej odpowiedzialności wobec Ciebie za jakąkolwiek utratę lub uszkodzenie takich danych, i niniejszym zrzekasz się wszelkich praw do działania przeciwko nam wynikających z takiej utraty lub uszkodzenia takich danych."
+  },
+  {
+   "id": 196,
+   "text": "23. KOMUNIKACJA ELEKTRONICZNA, TRANSAKCJE I PODPISY"
+  },
+  {
+   "id": 197,
+   "text": "Odwiedzanie Usług, wysyłanie do nas wiadomości e-mail oraz wypełnianie formularzy online stanowią komunikację elektroniczną. Wyrażasz zgodę na otrzymywanie komunikacji elektronicznej i zgadzasz się, że wszystkie umowy, powiadomienia, ujawnienia i inna komunikacja, którą przekazujemy Ci drogą elektroniczną, za pośrednictwem poczty elektronicznej i w Usługach, spełniają każdy wymóg prawny, aby taka komunikacja miała formę pisemną. NINIEJSZYM WYRAŻASZ ZGODĘ NA STOSOWANIE PODPISÓW ELEKTRONICZNYCH, UMÓW, ZAMÓWIEŃ I INNYCH ZAPISÓW ORAZ NA ELEKTRONICZNE DOSTARCZANIE POWIADOMIEŃ, POLITYK I ZAPISÓW TRANSAKCJI ZAINICJOWANYCH LUB ZREALIZOWANYCH PRZEZ NAS LUB ZA POŚREDNICTWEM USŁUG. Niniejszym zrzekasz się wszelkich praw lub wymogów wynikających z jakichkolwiek ustaw, przepisów, zasad, rozporządzeń lub innych przepisów prawa w dowolnej jurysdykcji, które wymagają oryginalnego podpisu lub dostarczenia bądź przechowywania zapisów nieelektronicznych, albo płatności lub przyznawania kredytów środkami innymi niż elektroniczne."
+  },
+  {
+   "id": 198,
+   "text": "24. UŻYTKOWNICY I MIESZKAŃCY KALIFORNII"
+  },
+  {
+   "id": 199,
+   "text": "Jeżeli jakakolwiek skarga skierowana do nas nie zostanie rozstrzygnięta w zadowalający sposób, możesz skontaktować się z Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs pisemnie pod adresem 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 lub telefonicznie pod numerem (800) 952-5210 lub (916) 445-1254."
+  },
+  {
+   "id": 200,
+   "text": "25. POSTANOWIENIA RÓŻNE"
+  },
+  {
+   "id": 201,
+   "text": "Niniejsze Warunki prawne oraz wszelkie polityki lub zasady operacyjne zamieszczone przez nas w Usługach lub w odniesieniu do Usług stanowią całość porozumienia i umowy pomiędzy Tobą a nami. Nasze niewykonanie lub niewyegzekwowanie jakiegokolwiek prawa lub postanowienia niniejszych Warunków prawnych nie będzie działać jako zrzeczenie się takiego prawa lub postanowienia. Niniejsze Warunki prawne obowiązują w najpełniejszym zakresie dopuszczalnym przez prawo. Możemy przenieść dowolne lub wszystkie nasze prawa i obowiązki na inne podmioty w dowolnym momencie. Nie będziemy ponosić odpowiedzialności za żadną stratę, szkodę, opóźnienie lub zaniechanie działania spowodowane przyczyną pozostającą poza naszą uzasadnioną kontrolą. Jeżeli jakiekolwiek postanowienie lub część postanowienia niniejszych Warunków prawnych zostanie uznane za niezgodne z prawem, nieważne lub niewykonalne, to postanowienie lub część postanowienia uznaje się za oddzielalne od niniejszych Warunków prawnych i nie wpływa ono na ważność i wykonalność pozostałych postanowień. Pomiędzy Tobą a nami nie powstaje żaden stosunek spółki joint venture, partnerstwa, zatrudnienia ani agencyjny w wyniku niniejszych Warunków prawnych lub korzystania z Usług. Zgadzasz się, że niniejsze Warunki prawne nie będą interpretowane przeciwko nam z tego powodu, że je sporządziliśmy. Niniejszym zrzekasz się wszelkich środków obrony, które możesz mieć, opartych na elektronicznej formie niniejszych Warunków prawnych oraz braku podpisów stron niniejszego dokumentu w celu wykonania niniejszych Warunków prawnych."
+  },
+  {
+   "id": 202,
+   "text": "26. KONTAKT Z NAMI"
+  },
+  {
+   "id": 203,
+   "text": "W celu rozstrzygnięcia skargi dotyczącej Usług lub uzyskania dalszych informacji dotyczących korzystania z Usług prosimy o kontakt pod adresem:"
+  },
+  {
+   "id": 204,
+   "text": "Tava Labs, LLC"
+  },
+  {
+   "id": 205,
+   "text": "1521 Blake St STE 95593"
+  },
+  {
+   "id": 206,
+   "text": "Denver, CO 80202"
+  },
+  {
+   "id": 207,
+   "text": "United States"
+  },
+  {
+   "id": 208,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 209,
+   "text": "Niniejsze Warunki i zasady zostały utworzone przy użyciu "
+  },
+  {
+   "id": 210,
+   "text": "generatora Warunków i zasad firmy Termly"
+  },
+  {
+   "id": 211,
+   "text": "."
+  }
+ ]
+}

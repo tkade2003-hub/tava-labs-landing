@@ -1,0 +1,135 @@
+{
+  "slug": "shipping",
+  "title": "Toimituskäytäntö | Tava Labs",
+  "description": "Tava Labsin toimituskäytäntö PDRN Brightening Serum -tilauksille: käsittelyajat, toimitusarviot, seuranta ja toimitusalueet.",
+  "segments": [
+    {
+      "id": 0,
+      "text": "Oikeudelliset tiedot"
+    },
+    {
+      "id": 1,
+      "text": "Toimituskäytäntö"
+    },
+    {
+      "id": 2,
+      "text": "Viimeksi päivitetty: 17. marraskuuta 2026"
+    },
+    {
+      "id": 3,
+      "text": "Tässä toimituskäytännössä selitetään, miten ja milloin Tava Labsin (tavalabs.app) tilaukset käsitellään ja toimitetaan. Tava Labs on vain verkossa toimiva kauppa; kaikki tilaukset tehdään verkkosivustomme kautta ja lähetetään kassalla antamaasi osoitteeseen."
+    },
+    {
+      "id": 4,
+      "text": "Tilauksen käsittelyaika"
+    },
+    {
+      "id": 5,
+      "text": "Tilaukset käsitellään "
+    },
+    {
+      "id": 6,
+      "text": "1–2 arkipäivässä"
+    },
+    {
+      "id": 7,
+      "text": " (maanantaista perjantaihin, Yhdysvaltain pyhäpäiviä lukuun ottamatta) sen jälkeen, kun maksu on vahvistettu. Saat lähetysvahvistuksen sähköpostitse seurantatietoineen, kun tilauksesi on lähetetty. Viikonloppuisin tai pyhäpäivinä tehdyt tilaukset alkavat käsittelyssä seuraavana arkipäivänä."
+    },
+    {
+      "id": 8,
+      "text": "Toimitusarviot"
+    },
+    {
+      "id": 9,
+      "text": "Toimitamme tällä hetkellä vain "
+    },
+    {
+      "id": 10,
+      "text": "Yhdysvaltoihin"
+    },
+    {
+      "id": 11,
+      "text": ". Vakiotoimitus saapuu yleensä "
+    },
+    {
+      "id": 12,
+      "text": "3–5 arkipäivässä"
+    },
+    {
+      "id": 13,
+      "text": " tilauksen lähettämisen jälkeen. Toimitusajat ovat kuljetusyritystemme antamia arvioita, eikä niitä taata; todelliset kuljetusajat voivat vaihdella määränpään ja kuljetusolosuhteiden mukaan."
+    },
+    {
+      "id": 14,
+      "text": "Toimituskulut"
+    },
+    {
+      "id": 15,
+      "text": "Toimituskulut lasketaan kassalla toimitusosoitteesi ja tilauksesi tuotteiden perusteella, ja ne näytetään ennen ostoksen viimeistelyä. Mahdolliset ilmaisen toimituksen tarjoukset näytetään kassalla, kun tilauksesi täyttää niiden ehdot."
+    },
+    {
+      "id": 16,
+      "text": "Tilauksen seuranta"
+    },
+    {
+      "id": 17,
+      "text": "Kun tilauksesi lähetetään, lähetämme seurantatiedot sähköpostitse kassalla antamaasi osoitteeseen. Odota enintään 24 tuntia, ennen kuin seuranta päivittyy lähetysvahvistuksen saamisen jälkeen. Jos seuranta näyttää toimitetuksi, mutta et ole saanut pakettiasi, tarkista asia ensin naapureilta ja paikalliselta kuljetusyritykseltäsi ja ota sitten meihin yhteyttä."
+    },
+    {
+      "id": 18,
+      "text": "Toimitusosoitteen tarkkuus"
+    },
+    {
+      "id": 19,
+      "text": "Tarkista toimitusosoitteesi kassalla. Emme vastaa tilauksista, jotka toimitetaan asiakkaan antamaan virheelliseen tai puutteelliseen osoitteeseen. Jos huomaat virheen, lähetä meille sähköpostia osoitteeseen "
+    },
+    {
+      "id": 20,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 21,
+      "text": " mahdollisimman pian. Jos tilausta ei ole vielä lähetetty, teemme parhaamme korjataksemme sen. Meille toimittamattomina palautetut paketit voidaan lähettää uudelleen, kun osoite on vahvistettu; lisătoimituskuluja voi aiheutua."
+    },
+    {
+      "id": 22,
+      "text": "Viivästykset ja vaurioituneet lähetykset"
+    },
+    {
+      "id": 23,
+      "text": "Toisinaan toimitukset viivästyvät kuljetushäiriöiden, sään tai muiden hallintamme ulkopuolella olevien tapahtumien vuoksi. Jos tilauksesi viivästyy merkittävästi, ota meihin yhteyttä, niin autamme. Jos tilauksesi saapuu vaurioituneena, katso "
+    },
+    {
+      "id": 24,
+      "text": "Palautus- ja hyvityskäytäntömme"
+    },
+    {
+      "id": 25,
+      "text": " ja ota meihin yhteyttä 14 päivän kuluessa toimituksesta, niin korjaamme asian."
+    },
+    {
+      "id": 26,
+      "text": "Tilaustoimitukset"
+    },
+    {
+      "id": 27,
+      "text": "Tilaustilaukset lähetetään automaattisesti uusimisaikataulusi mukaisesti. Jokainen uusiminen käsitellään ja lähetetään edellä kuvattujen aikataulujen mukaisesti, ja saat seurantasähköpostin jokaisesta lähetyksestä. Voit keskeyttää, ohittaa tai peruuttaa tilauksesi milloin tahansa ennen uusimisen käsittelyä."
+    },
+    {
+      "id": 28,
+      "text": "Yhteystiedot"
+    },
+    {
+      "id": 29,
+      "text": "Kysyttävää toimituksesta? Lähetä meille sähköpostia osoitteeseen "
+    },
+    {
+      "id": 30,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 31,
+      "text": "."
+    }
+  ]
+}

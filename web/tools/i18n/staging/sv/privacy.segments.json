@@ -1,0 +1,1319 @@
+{
+  "slug": "privacy",
+  "title": "Integritetspolicy | Tava Labs",
+  "description": "Hur Tava Labs samlar in, använder och skyddar din information när du besöker tavalabs.app, gör hudquizet eller beställer PDRN Brightening Serum.",
+  "segments": [
+    {
+      "id": 0,
+      "text": "Juridik"
+    },
+    {
+      "id": 1,
+      "text": "Integritetspolicy"
+    },
+    {
+      "id": 2,
+      "text": "Senast uppdaterad 5 november 2026"
+    },
+    {
+      "id": 3,
+      "text": "Detta integritetsmeddelande för Tava Labs, LLC (som bedriver verksamhet under namnet Tava) (&quot;vi&quot;, &quot;oss&quot; eller &quot;vår&quot;), beskriver hur och varför vi kan få åtkomst till, samla in, lagra, använda och/eller dela (&quot;behandla&quot;) dina personuppgifter när du använder våra tjänster (\"Tjänsterna\"), inklusive när du:"
+    },
+    {
+      "id": 4,
+      "text": "Besöker vår webbplats på "
+    },
+    {
+      "id": 5,
+      "text": "http://www.tavalabs.app"
+    },
+    {
+      "id": 6,
+      "text": " eller någon av våra webbplatser som länkar till detta integritetsmeddelande"
+    },
+    {
+      "id": 7,
+      "text": "Använder Founder Wellness Score. En wellnessplattform för grundare och chefer för att mäta deras stress, sömn och utseende för att få rekommendationer om kosttillskott och receptbelagda peptider."
+    },
+    {
+      "id": 8,
+      "text": "Interagerar med oss på andra relaterade sätt, inklusive marknadsföring eller evenemang"
+    },
+    {
+      "id": 9,
+      "text": "Frågor eller funderingar?"
+    },
+    {
+      "id": 10,
+      "text": " Att läsa detta integritetsmeddelande hjälper dig att förstå dina integritetsrättigheter och val. Vi ansvarar för att fatta beslut om hur dina personuppgifter behandlas. Om du inte godkänner våra policyer och praxis, använd inte våra Tjänster. Om du ändå har frågor eller funderingar, kontakta oss på "
+    },
+    {
+      "id": 11,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 12,
+      "text": "."
+    },
+    {
+      "id": 13,
+      "text": "SAMMANFATTNING AV NYCKELPUNKTER"
+    },
+    {
+      "id": 14,
+      "text": "Denna sammanfattning ger nyckelpunkter från vårt integritetsmeddelande, men du kan få mer information om något av dessa ämnen genom att klicka på länken efter varje nyckelpunkt eller genom att använda vår "
+    },
+    {
+      "id": 15,
+      "text": "innehållsförteckning"
+    },
+    {
+      "id": 16,
+      "text": " nedan för att hitta det avsnitt du söker."
+    },
+    {
+      "id": 17,
+      "text": "Vilka personuppgifter behandlar vi?"
+    },
+    {
+      "id": 18,
+      "text": " När du besöker, använder eller navigerar i våra Tjänster kan vi behandla personuppgifter beroende på hur du interagerar med oss och Tjänsterna, de val du gör och de produkter och funktioner du använder. Läs mer om "
+    },
+    {
+      "id": 19,
+      "text": "personuppgifter du avslöjar för oss"
+    },
+    {
+      "id": 20,
+      "text": "."
+    },
+    {
+      "id": 21,
+      "text": "Behandlar vi några känsliga personuppgifter?"
+    },
+    {
+      "id": 22,
+      "text": " En del av informationen kan anses vara \"särskild\" eller \"känslig\" i vissa jurisdiktioner, till exempel ditt ras eller etniska ursprung, din sexuella läggning och dina religiösa övertygelser. Vi kan behandla känsliga personuppgifter när det är nödvändigt med ditt samtycke eller på annat sätt som tillåts enligt tillämplig lag. Läs mer om "
+    },
+    {
+      "id": 23,
+      "text": "känslig information vi behandlar"
+    },
+    {
+      "id": 24,
+      "text": "."
+    },
+    {
+      "id": 25,
+      "text": "Samlar vi in någon information från tredje parter?"
+    },
+    {
+      "id": 26,
+      "text": " Vi samlar inte in någon information från tredje parter."
+    },
+    {
+      "id": 27,
+      "text": "Hur behandlar vi din information?"
+    },
+    {
+      "id": 28,
+      "text": " Vi behandlar din information för att tillhandahålla, förbättra och administrera våra Tjänster, kommunicera med dig, för säkerhet och bedrägeriförebyggande, och för att följa lagen. Vi kan också behandla din information för andra ändamål med ditt samtycke. Vi behandlar din information endast när vi har en giltig juridisk grund för att göra det. Läs mer om "
+    },
+    {
+      "id": 29,
+      "text": "hur vi behandlar din information"
+    },
+    {
+      "id": 30,
+      "text": "."
+    },
+    {
+      "id": 31,
+      "text": "I vilka situationer och med vilka parter delar vi personuppgifter?"
+    },
+    {
+      "id": 32,
+      "text": " Vi kan dela information i specifika situationer och med specifika tredje parter. Läs mer om "
+    },
+    {
+      "id": 33,
+      "text": "när och med vem vi delar dina personuppgifter"
+    },
+    {
+      "id": 34,
+      "text": "."
+    },
+    {
+      "id": 35,
+      "text": "Hur håller vi din information säker?"
+    },
+    {
+      "id": 36,
+      "text": " Vi har adekvata organisatoriska och tekniska processer och förfaranden på plats för att skydda dina personuppgifter. Ingen elektronisk överföring via internet eller informationslagringsteknik kan dock garanteras vara 100 % säker, så vi kan inte lova eller garantera att hackare, cyberkriminella eller andra obehöriga tredje parter inte kommer att kunna besegra vår säkerhet och felaktigt samla in, få åtkomst till, stjäla eller ändra din information. Läs mer om "
+    },
+    {
+      "id": 37,
+      "text": "hur vi håller din information säker"
+    },
+    {
+      "id": 38,
+      "text": "."
+    },
+    {
+      "id": 39,
+      "text": "Vilka är dina rättigheter?"
+    },
+    {
+      "id": 40,
+      "text": " Beroende på var du befinner dig geografiskt kan tillämplig integritetslagstiftning innebära att du har vissa rättigheter avseende dina personuppgifter. Läs mer om "
+    },
+    {
+      "id": 41,
+      "text": "dina integritetsrättigheter"
+    },
+    {
+      "id": 42,
+      "text": "."
+    },
+    {
+      "id": 43,
+      "text": "Hur utövar du dina rättigheter?"
+    },
+    {
+      "id": 44,
+      "text": " Det enklaste sättet att utöva dina rättigheter är att besöka "
+    },
+    {
+      "id": 45,
+      "text": "http://www.tavalabs.app/request-personal-information"
+    },
+    {
+      "id": 46,
+      "text": ", eller genom att kontakta oss. Vi kommer att överväga och agera på varje begäran i enlighet med tillämpliga dataskyddslagar."
+    },
+    {
+      "id": 47,
+      "text": "Vill du veta mer om vad vi gör med information vi samlar in? "
+    },
+    {
+      "id": 48,
+      "text": "Granska integritetsmeddelandet i sin helhet"
+    },
+    {
+      "id": 49,
+      "text": "."
+    },
+    {
+      "id": 50,
+      "text": "INNEHÅLLSFÖRTECKNING"
+    },
+    {
+      "id": 51,
+      "text": "1. VILKEN INFORMATION SAMLAR VI IN?"
+    },
+    {
+      "id": 52,
+      "text": "2. HUR BEHANDLAR VI DIN INFORMATION?"
+    },
+    {
+      "id": 53,
+      "text": "3. NÄR OCH MED VEM DELAR VI DINA PERSONUPPGIFTER?"
+    },
+    {
+      "id": 54,
+      "text": "4. ANVÄNDER VI COOKIES OCH ANDRA SPÅRNINGSTEKNIKER?"
+    },
+    {
+      "id": 55,
+      "text": "5. ERBJUDER VI PRODUKTER BASERADE PÅ ARTIFICIELL INTELLIGENS?"
+    },
+    {
+      "id": 56,
+      "text": "6. HUR HANTERAR VI DINA SOCIALA INLOGGNINGAR?"
+    },
+    {
+      "id": 57,
+      "text": "7. HUR LÄNGE BEHÅLLER VI DIN INFORMATION?"
+    },
+    {
+      "id": 58,
+      "text": "8. HUR HÅLLER VI DIN INFORMATION SÄKER?"
+    },
+    {
+      "id": 59,
+      "text": "9. SAMLAR VI IN INFORMATION FRÅN MINDERÅRIGA?"
+    },
+    {
+      "id": 60,
+      "text": "10. VILKA ÄR DINA INTEGRITETSRÄTTIGHETER?"
+    },
+    {
+      "id": 61,
+      "text": "11. KONTROLLER FÖR DO NOT TRACK FUNKTIONER"
+    },
+    {
+      "id": 62,
+      "text": "12. HAR INVÅNARE I USA SPECIFIKA INTEGRITETSRÄTTIGHETER?"
+    },
+    {
+      "id": 63,
+      "text": "13. UPPDATERAR VI DETTA MEDDELANDE?"
+    },
+    {
+      "id": 64,
+      "text": "14. HUR KAN DU KONTAKTA OSS OM DETTA MEDDELANDE?"
+    },
+    {
+      "id": 65,
+      "text": "15. HUR KAN DU GRANSKA, UPPDATERA ELLER RADERA DE DATA VI SAMLAR IN FRÅN DIG?"
+    },
+    {
+      "id": 66,
+      "text": "1. VILKEN INFORMATION SAMLAR VI IN?"
+    },
+    {
+      "id": 67,
+      "text": "Personuppgifter du avslöjar för oss"
+    },
+    {
+      "id": 68,
+      "text": "I korthet: Vi samlar in personuppgifter som du tillhandahåller oss."
+    },
+    {
+      "id": 69,
+      "text": "Vi samlar in personuppgifter som du frivilligt tillhandahåller oss när du registrerar dig på Tjänsterna, uttrycker intresse för att få information om oss eller våra produkter och Tjänster, när du deltar i aktiviteter på Tjänsterna, eller på annat sätt när du kontaktar oss."
+    },
+    {
+      "id": 70,
+      "text": "Personuppgifter som du tillhandahåller."
+    },
+    {
+      "id": 71,
+      "text": " De personuppgifter vi samlar in beror på sammanhanget för dina interaktioner med oss och Tjänsterna, de val du gör och de produkter och funktioner du använder. De personuppgifter vi samlar in kan inkludera följande:"
+    },
+    {
+      "id": 72,
+      "text": "namn"
+    },
+    {
+      "id": 73,
+      "text": "mejladresser"
+    },
+    {
+      "id": 74,
+      "text": "lösenord"
+    },
+    {
+      "id": 75,
+      "text": "faktureringsadresser"
+    },
+    {
+      "id": 76,
+      "text": "betalkortsnummer"
+    },
+    {
+      "id": 77,
+      "text": "Känslig information."
+    },
+    {
+      "id": 78,
+      "text": " När det är nödvändigt, med ditt samtycke eller på annat sätt som tillåts enligt tillämplig lag, behandlar vi följande kategorier av känslig information:"
+    },
+    {
+      "id": 79,
+      "text": "hälsodata"
+    },
+    {
+      "id": 80,
+      "text": "Betalningsdata."
+    },
+    {
+      "id": 81,
+      "text": " Vi kan samla in data som är nödvändiga för att behandla din betalning om du väljer att göra köp, såsom numret på ditt betalningsinstrument och säkerhetskoden som är kopplad till ditt betalningsinstrument. All betalningsdata hanteras och lagras av Stripe, Inc. Du hittar deras länkar till integritetsmeddelande här: "
+    },
+    {
+      "id": 82,
+      "text": "https://stripe.com/privacy-policy"
+    },
+    {
+      "id": 83,
+      "text": "."
+    },
+    {
+      "id": 84,
+      "text": "Inloggningsdata för sociala medier."
+    },
+    {
+      "id": 85,
+      "text": " Vi kan ge dig möjlighet att registrera dig hos oss med hjälp av uppgifter från ditt befintliga konto på sociala medier, såsom ditt Facebook, X eller annat konto på sociala medier. Om du väljer att registrera dig på detta sätt kommer vi att samla in viss profilinformation om dig från leverantören av sociala medier, såsom beskrivs i avsnittet \""
+    },
+    {
+      "id": 86,
+      "text": "HUR HANTERAR VI DINA SOCIALA INLOGGNINGAR?"
+    },
+    {
+      "id": 87,
+      "text": "\" nedan."
+    },
+    {
+      "id": 88,
+      "text": "Alla personuppgifter du tillhandahåller oss måste vara sanna, fullständiga och korrekta, och du måste meddela oss om eventuella ändringar av sådana personuppgifter."
+    },
+    {
+      "id": 89,
+      "text": "Information som samlas in automatiskt"
+    },
+    {
+      "id": 90,
+      "text": "I korthet: Viss information, såsom din IP adress och/eller webbläsar och enhetsegenskaper, samlas in automatiskt när du besöker våra Tjänster."
+    },
+    {
+      "id": 91,
+      "text": "Vi samlar automatiskt in viss information när du besöker, använder eller navigerar i Tjänsterna. Denna information avslöjar inte din specifika identitet (såsom ditt namn eller din kontaktinformation) men kan inkludera enhets och användningsinformation, såsom din IP adress, webbläsar och enhetsegenskaper, operativsystem, språkpreferenser, hänvisande URL adresser, enhetsnamn, land, plats, information om hur och när du använder våra Tjänster, och annan teknisk information. Denna information behövs främst för att upprätthålla säkerheten och driften av våra Tjänster, och för våra interna analys och rapporteringsändamål."
+    },
+    {
+      "id": 92,
+      "text": "Den information vi samlar in inkluderar:"
+    },
+    {
+      "id": 93,
+      "text": "Logg och användningsdata."
+    },
+    {
+      "id": 94,
+      "text": " Logg och användningsdata är tjänsterelaterad, diagnostisk, användnings och prestandainformation som våra servrar automatiskt samlar in när du får åtkomst till eller använder våra Tjänster och som vi registrerar i loggfiler. Beroende på hur du interagerar med oss kan denna loggdata inkludera din IP adress, enhetsinformation, webbläsartyp och inställningar och information om din aktivitet i Tjänsterna (såsom datum och tidsstämplar kopplade till din användning, sidor och filer du tittat på, sökningar och andra åtgärder du vidtar såsom vilka funktioner du använder), enhets och händelseinformation (såsom systemaktivitet, felrapporter (ibland kallade &quot;crash dumps&quot;) och hårdvaruinställningar)."
+    },
+    {
+      "id": 95,
+      "text": "Enhetsdata."
+    },
+    {
+      "id": 96,
+      "text": " Vi samlar in enhetsdata såsom information om din dator, telefon, surfplatta eller annan enhet du använder för att få åtkomst till Tjänsterna. Beroende på vilken enhet som används kan denna enhetsdata inkludera information såsom din IP adress (eller proxyserver), enhets och applikationsidentifieringsnummer, plats, webbläsartyp, hårdvarumodell, internetleverantör och/eller mobiloperatör, operativsystem och systemkonfigurationsinformation."
+    },
+    {
+      "id": 97,
+      "text": "Platsdata."
+    },
+    {
+      "id": 98,
+      "text": " Vi samlar in platsdata såsom information om din enhets plats, som kan vara antingen exakt eller ungefärlig. Hur mycket information vi samlar in beror på typen och inställningarna för den enhet du använder för att få åtkomst till Tjänsterna. Till exempel kan vi använda GPS och andra tekniker för att samla in geolokaliseringsdata som berättar för oss din nuvarande plats (baserat på din IP adress). Du kan välja bort att låta oss samla in denna information antingen genom att vägra åtkomst till informationen eller genom att inaktivera din platsinställning på din enhet. Om du väljer att välja bort kan du dock kanske inte använda vissa aspekter av Tjänsterna."
+    },
+    {
+      "id": 99,
+      "text": "2. HUR BEHANDLAR VI DIN INFORMATION?"
+    },
+    {
+      "id": 100,
+      "text": "I korthet: Vi behandlar din information för att tillhandahålla, förbättra och administrera våra Tjänster, kommunicera med dig, för säkerhet och bedrägeriförebyggande, och för att följa lagen. Vi kan också behandla din information för andra ändamål med ditt samtycke."
+    },
+    {
+      "id": 101,
+      "text": "Vi behandlar dina personuppgifter av en mängd olika skäl, beroende på hur du interagerar med våra Tjänster, inklusive:"
+    },
+    {
+      "id": 102,
+      "text": "För att underlätta kontoskapande och autentisering och på annat sätt hantera användarkonton."
+    },
+    {
+      "id": 103,
+      "text": " Vi kan behandla din information så att du kan skapa och logga in på ditt konto, samt hålla ditt konto i fungerande skick."
+    },
+    {
+      "id": 104,
+      "text": "För att leverera och underlätta leverans av tjänster till användaren."
+    },
+    {
+      "id": 105,
+      "text": " Vi kan behandla din information för att tillhandahålla dig den begärda tjänsten."
+    },
+    {
+      "id": 106,
+      "text": "För att svara på användarförfrågningar och erbjuda support till användare."
+    },
+    {
+      "id": 107,
+      "text": " Vi kan behandla din information för att svara på dina förfrågningar och lösa eventuella problem du kan ha med den begärda tjänsten."
+    },
+    {
+      "id": 108,
+      "text": "För att skicka administrativ information till dig."
+    },
+    {
+      "id": 109,
+      "text": " Vi kan behandla din information för att skicka dig uppgifter om våra produkter och tjänster, ändringar av våra villkor och policyer, och annan liknande information."
+    },
+    {
+      "id": 110,
+      "text": "För att uppfylla och hantera dina beställningar."
+    },
+    {
+      "id": 111,
+      "text": " Vi kan behandla din information för att uppfylla och hantera dina beställningar, betalningar, returer och byten som görs genom Tjänsterna."
+    },
+    {
+      "id": 112,
+      "text": "För att begära feedback."
+    },
+    {
+      "id": 113,
+      "text": " Vi kan behandla din information när det är nödvändigt för att begära feedback och för att kontakta dig om din användning av våra Tjänster."
+    },
+    {
+      "id": 114,
+      "text": "För att publicera vittnesmål."
+    },
+    {
+      "id": 115,
+      "text": " Vi publicerar vittnesmål på våra Tjänster som kan innehålla personuppgifter."
+    },
+    {
+      "id": 116,
+      "text": "För att utvärdera och förbättra våra Tjänster, produkter, marknadsföring och din upplevelse."
+    },
+    {
+      "id": 117,
+      "text": " Vi kan behandla din information när vi anser att det är nödvändigt för att identifiera användningstrender, fastställa effektiviteten i våra marknadsföringskampanjer, och för att utvärdera och förbättra våra Tjänster, produkter, marknadsföring och din upplevelse."
+    },
+    {
+      "id": 118,
+      "text": "För att identifiera användningstrender."
+    },
+    {
+      "id": 119,
+      "text": " Vi kan behandla information om hur du använder våra Tjänster för att bättre förstå hur de används så att vi kan förbättra dem."
+    },
+    {
+      "id": 120,
+      "text": "3. NÄR OCH MED VEM DELAR VI DINA PERSONUPPGIFTER?"
+    },
+    {
+      "id": 121,
+      "text": "I korthet: Vi kan dela information i specifika situationer som beskrivs i detta avsnitt och/eller med följande tredje parter."
+    },
+    {
+      "id": 122,
+      "text": "Vi kan behöva dela dina personuppgifter i följande situationer:"
+    },
+    {
+      "id": 123,
+      "text": "Verksamhetsöverlåtelser."
+    },
+    {
+      "id": 124,
+      "text": " Vi kan dela eller överföra din information i samband med, eller under förhandlingar om, varje fusion, försäljning av företagstillgångar, finansiering eller förvärv av hela eller en del av vår verksamhet till ett annat företag."
+    },
+    {
+      "id": 125,
+      "text": "Affärspartners."
+    },
+    {
+      "id": 126,
+      "text": " Vi kan dela din information med våra affärspartners för att erbjuda dig vissa produkter, tjänster eller kampanjer."
+    },
+    {
+      "id": 127,
+      "text": "4. ANVÄNDER VI COOKIES OCH ANDRA SPÅRNINGSTEKNIKER?"
+    },
+    {
+      "id": 128,
+      "text": "I korthet: Vi kan använda cookies och andra spårningstekniker för att samla in och lagra din information."
+    },
+    {
+      "id": 129,
+      "text": "Vi kan använda cookies och liknande spårningstekniker (såsom webbfyrar och pixlar) för att samla in information när du interagerar med våra Tjänster. Vissa spårningstekniker online hjälper oss att upprätthålla säkerheten för våra Tjänster och ditt konto, förhindra krascher, åtgärda buggar, spara dina preferenser och bistå med grundläggande webbplatsfunktioner."
+    },
+    {
+      "id": 130,
+      "text": "Vi tillåter också tredje parter och tjänsteleverantörer att använda spårningstekniker online på våra Tjänster för analys och annonsering, inklusive för att hjälpa till att hantera och visa annonser eller för att anpassa annonser efter dina intressen. Tredje parterna och tjänsteleverantörerna använder sin teknik för att tillhandahålla annonsering om produkter och tjänster anpassade efter dina intressen, vilka kan visas antingen på våra Tjänster eller på andra webbplatser."
+    },
+    {
+      "id": 131,
+      "text": "I den utsträckning dessa spårningstekniker online anses vara en &quot;säljning&quot;/&quot;delning&quot; (vilket inkluderar riktad annonsering, såsom definieras enligt tillämpliga lagar) enligt tillämpliga delstatslagar i USA, kan du välja bort dessa spårningstekniker online genom att lämna in en begäran såsom beskrivs nedan under avsnittet &quot;"
+    },
+    {
+      "id": 132,
+      "text": "HAR INVÅNARE I USA SPECIFIKA INTEGRITETSRÄTTIGHETER?"
+    },
+    {
+      "id": 133,
+      "text": "&quot;"
+    },
+    {
+      "id": 134,
+      "text": "Specifik information om hur vi använder sådana tekniker och hur du kan vägra vissa cookies anges i vårt Cookiemeddelande."
+    },
+    {
+      "id": 135,
+      "text": "Google Analytics"
+    },
+    {
+      "id": 136,
+      "text": "Vi kan dela din information med Google Analytics för att spåra och analysera användningen av Tjänsterna. De Google Analytics annonseringsfunktioner vi kan använda inkluderar: Google Display Network Impressions Reporting och Google Analytics Demographics and Interests Reporting. För att välja bort att spåras av Google Analytics i Tjänsterna, besök "
+    },
+    {
+      "id": 137,
+      "text": "https://tools.google.com/dlpage/gaoptout"
+    },
+    {
+      "id": 138,
+      "text": ". Du kan välja bort Google Analytics annonseringsfunktioner genom "
+    },
+    {
+      "id": 139,
+      "text": "Annonsinställningar"
+    },
+    {
+      "id": 140,
+      "text": " och Annonsinställningar för mobilappar. Andra sätt att välja bort inkluderar "
+    },
+    {
+      "id": 141,
+      "text": "http://optout.networkadvertising.org/"
+    },
+    {
+      "id": 142,
+      "text": " och "
+    },
+    {
+      "id": 143,
+      "text": "http://www.networkadvertising.org/mobile-choice"
+    },
+    {
+      "id": 144,
+      "text": ". För mer information om Googles integritetspraxis, besök "
+    },
+    {
+      "id": 145,
+      "text": "sidan Google Privacy &amp; Terms"
+    },
+    {
+      "id": 146,
+      "text": "."
+    },
+    {
+      "id": 147,
+      "text": "5. ERBJUDER VI PRODUKTER BASERADE PÅ ARTIFICIELL INTELLIGENS?"
+    },
+    {
+      "id": 148,
+      "text": "I korthet: Vi erbjuder produkter, funktioner eller verktyg som drivs av artificiell intelligens, maskininlärning eller liknande tekniker."
+    },
+    {
+      "id": 149,
+      "text": "Som en del av våra Tjänster erbjuder vi produkter, funktioner eller verktyg som drivs av artificiell intelligens, maskininlärning eller liknande tekniker (gemensamt \"AI produkter\"). Dessa verktyg är utformade för att förbättra din upplevelse och ge dig innovativa lösningar. Villkoren i detta integritetsmeddelande styr din användning av AI produkterna inom våra Tjänster."
+    },
+    {
+      "id": 150,
+      "text": "Användning av AI tekniker"
+    },
+    {
+      "id": 151,
+      "text": "Vi tillhandahåller AI produkterna genom tredjeparts tjänsteleverantörer (\"AI tjänsteleverantörer\"), inklusive OpenAI. Såsom anges i detta integritetsmeddelande kommer din inmatning, utmatning och dina personuppgifter att delas med och behandlas av dessa AI tjänsteleverantörer för att möjliggöra din användning av våra AI produkter för ändamål som anges i \""
+    },
+    {
+      "id": 152,
+      "text": "NÄR OCH MED VEM DELAR VI DINA PERSONUPPGIFTER?"
+    },
+    {
+      "id": 153,
+      "text": "\" Du får inte använda AI produkterna på något sätt som bryter mot villkoren eller policyerna för någon AI tjänsteleverantör."
+    },
+    {
+      "id": 154,
+      "text": "Våra AI produkter"
+    },
+    {
+      "id": 155,
+      "text": "Våra AI produkter är utformade för följande funktioner:"
+    },
+    {
+      "id": 156,
+      "text": "AI insikter"
+    },
+    {
+      "id": 157,
+      "text": "Hur vi behandlar dina data med hjälp av AI"
+    },
+    {
+      "id": 158,
+      "text": "Alla personuppgifter som behandlas med hjälp av våra AI produkter hanteras i linje med vårt integritetsmeddelande och vårt avtal med tredje parter. Detta säkerställer hög säkerhet och skyddar dina personuppgifter under hela processen, vilket ger dig trygghet om dina datas säkerhet."
+    },
+    {
+      "id": 159,
+      "text": "6. HUR HANTERAR VI DINA SOCIALA INLOGGNINGAR?"
+    },
+    {
+      "id": 160,
+      "text": "I korthet: Om du väljer att registrera dig eller logga in på våra Tjänster med ett konto på sociala medier kan vi ha åtkomst till viss information om dig."
+    },
+    {
+      "id": 161,
+      "text": "Våra Tjänster erbjuder dig möjligheten att registrera dig och logga in med uppgifter från ditt tredjeparts konto på sociala medier (såsom dina inloggningar till Facebook eller X). Där du väljer att göra detta kommer vi att ta emot viss profilinformation om dig från din leverantör av sociala medier. Den profilinformation vi tar emot kan variera beroende på vilken leverantör av sociala medier det gäller, men kommer ofta att inkludera ditt namn, din mejladress, din vänlista och din profilbild, samt annan information du väljer att göra offentlig på en sådan plattform för sociala medier."
+    },
+    {
+      "id": 162,
+      "text": "Vi kommer att använda den information vi tar emot endast för de ändamål som beskrivs i detta integritetsmeddelande eller som på annat sätt tydliggörs för dig på de relevanta Tjänsterna. Observera att vi inte kontrollerar, och inte ansvarar för, andra användningar av dina personuppgifter av din tredjeparts leverantör av sociala medier. Vi rekommenderar att du granskar deras integritetsmeddelande för att förstå hur de samlar in, använder och delar dina personuppgifter, och hur du kan ställa in dina integritetsinställningar på deras webbplatser och appar."
+    },
+    {
+      "id": 163,
+      "text": "7. HUR LÄNGE BEHÅLLER VI DIN INFORMATION?"
+    },
+    {
+      "id": 164,
+      "text": "I korthet: Vi behåller din information så länge som det är nödvändigt för att uppfylla de ändamål som anges i detta integritetsmeddelande om inte annat krävs enligt lag."
+    },
+    {
+      "id": 165,
+      "text": "Vi kommer endast att behålla dina personuppgifter så länge som det är nödvändigt för de ändamål som anges i detta integritetsmeddelande, om inte en längre bevarandeperiod krävs eller tillåts enligt lag (såsom skatte, bokförings eller andra juridiska krav). Inget ändamål i detta meddelande kommer att kräva att vi behåller dina personuppgifter längre än den tidsperiod under vilken användare har ett konto hos oss."
+    },
+    {
+      "id": 166,
+      "text": "När vi inte har något pågående legitimt affärsbehov av att behandla dina personuppgifter kommer vi antingen att radera eller anonymisera sådan information, eller, om detta inte är möjligt (till exempel eftersom dina personuppgifter har lagrats i säkerhetskopiearkiv), så kommer vi att lagra dina personuppgifter säkert och isolera dem från all vidare behandling tills radering är möjlig."
+    },
+    {
+      "id": 167,
+      "text": "8. HUR HÅLLER VI DIN INFORMATION SÄKER?"
+    },
+    {
+      "id": 168,
+      "text": "I korthet: Vi strävar efter att skydda dina personuppgifter genom ett system av organisatoriska och tekniska säkerhetsåtgärder."
+    },
+    {
+      "id": 169,
+      "text": "Vi har genomfört lämpliga och rimliga tekniska och organisatoriska säkerhetsåtgärder som är utformade för att skydda säkerheten för alla personuppgifter vi behandlar. Trots våra skyddsåtgärder och ansträngningar för att säkra din information kan dock ingen elektronisk överföring via internet eller informationslagringsteknik garanteras vara 100 % säker, så vi kan inte lova eller garantera att hackare, cyberkriminella eller andra obehöriga tredje parter inte kommer att kunna besegra vår säkerhet och felaktigt samla in, få åtkomst till, stjäla eller ändra din information. Även om vi kommer att göra vårt bästa för att skydda dina personuppgifter sker överföring av personuppgifter till och från våra Tjänster på din egen risk. Du bör endast få åtkomst till Tjänsterna inom en säker miljö."
+    },
+    {
+      "id": 170,
+      "text": "9. SAMLAR VI IN INFORMATION FRÅN MINDERÅRIGA?"
+    },
+    {
+      "id": 171,
+      "text": "I korthet: Vi samlar inte medvetet in data från eller marknadsför till barn under 18 år."
+    },
+    {
+      "id": 172,
+      "text": "Vi samlar inte medvetet in, begär data från eller marknadsför till barn under 18 år, och vi säljer inte heller medvetet sådana personuppgifter. Genom att använda Tjänsterna försäkrar du att du är minst 18 år eller att du är förälder eller vårdnadshavare till en sådan minderårig och samtycker till en sådan minderårig beroendes användning av Tjänsterna. Om vi får reda på att personuppgifter från användare under 18 år har samlats in kommer vi att inaktivera kontot och vidta rimliga åtgärder för att omgående radera sådana data från våra register. Om du blir medveten om några data vi kan ha samlat in från barn under 18 år, kontakta oss på "
+    },
+    {
+      "id": 173,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 174,
+      "text": "."
+    },
+    {
+      "id": 175,
+      "text": "10. VILKA ÄR DINA INTEGRITETSRÄTTIGHETER?"
+    },
+    {
+      "id": 176,
+      "text": "Återkalla ditt samtycke:"
+    },
+    {
+      "id": 177,
+      "text": " Om vi förlitar oss på ditt samtycke för att behandla dina personuppgifter, vilket kan vara uttryckligt och/eller underförstått samtycke beroende på tillämplig lag, har du rätt att återkalla ditt samtycke när som helst. Du kan återkalla ditt samtycke när som helst genom att kontakta oss med hjälp av kontaktuppgifterna i avsnittet \""
+    },
+    {
+      "id": 178,
+      "text": "HUR KAN DU KONTAKTA OSS OM DETTA MEDDELANDE?"
+    },
+    {
+      "id": 179,
+      "text": "\" nedan."
+    },
+    {
+      "id": 180,
+      "text": "Detta kommer dock inte att påverka lagligheten i behandlingen före dess återkallande och, när tillämplig lag tillåter det, inte heller påverka behandlingen av dina personuppgifter som genomförs med stöd av lagliga behandlingsgrunder andra än samtycke."
+    },
+    {
+      "id": 181,
+      "text": "Kontoinformation"
+    },
+    {
+      "id": 182,
+      "text": "Om du vid någon tidpunkt vill granska eller ändra informationen i ditt konto eller avsluta ditt konto kan du:"
+    },
+    {
+      "id": 183,
+      "text": "Logga in på dina kontoinställningar och uppdatera ditt användarkonto."
+    },
+    {
+      "id": 184,
+      "text": "Vid din begäran om att avsluta ditt konto kommer vi att inaktivera eller radera ditt konto och din information från våra aktiva databaser. Vi kan dock behålla viss information i våra filer för att förhindra bedrägerier, felsöka problem, bistå vid eventuella utredningar, verkställa våra juridiska villkor och/eller följa tillämpliga juridiska krav."
+    },
+    {
+      "id": 185,
+      "text": "Om du har frågor eller kommentarer om dina integritetsrättigheter kan du mejla oss på "
+    },
+    {
+      "id": 186,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 187,
+      "text": "."
+    },
+    {
+      "id": 188,
+      "text": "11. KONTROLLER FÖR DO NOT TRACK FUNKTIONER"
+    },
+    {
+      "id": 189,
+      "text": "De flesta webbläsare och vissa mobila operativsystem och mobilapplikationer inkluderar en Do Not Track (\"DNT\") funktion eller inställning som du kan aktivera för att signalera din integritetsinställning att inte få data om dina surfaktiviteter online övervakade och insamlade. I detta skede har ingen enhetlig teknikstandard för att känna igen och genomföra DNT signaler slutförts. Således svarar vi för närvarande inte på DNT signaler från webbläsare eller någon annan mekanism som automatiskt kommunicerar ditt val att inte spåras online. Om en standard för spårning online antas som vi måste följa i framtiden kommer vi att informera dig om den praxisen i en reviderad version av detta integritetsmeddelande."
+    },
+    {
+      "id": 190,
+      "text": "Kaliforniens lag kräver att vi låter dig veta hur vi svarar på DNT signaler från webbläsare. Eftersom det för närvarande inte finns någon bransch eller juridisk standard för att känna igen eller respektera DNT signaler svarar vi inte på dem i nuläget."
+    },
+    {
+      "id": 191,
+      "text": "Global Privacy Control:"
+    },
+    {
+      "id": 192,
+      "text": " Vi erkänner och respekterar Global Privacy Control (GPC) signaler. Om du använder en webbläsare eller ett tillägg som stöder GPC kommer vi att behandla detta som en giltig begäran om att välja bort försäljning eller delning av dina personuppgifter för riktade annonseringsändamål enligt tillämpliga delstatliga integritetslagar, inklusive California Consumer Privacy Act (CCPA). När vi upptäcker en GPC signal från din webbläsare kommer vi automatiskt att tillämpa din inställning för att välja bort utan att kräva att du vidtar någon ytterligare åtgärd. För mer information om GPC och hur du aktiverar den, besök "
+    },
+    {
+      "id": 193,
+      "text": "globalprivacycontrol.org"
+    },
+    {
+      "id": 194,
+      "text": "."
+    },
+    {
+      "id": 195,
+      "text": "12. HAR INVÅNARE I USA SPECIFIKA INTEGRITETSRÄTTIGHETER?"
+    },
+    {
+      "id": 196,
+      "text": "I korthet: Om du är bosatt i California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah eller Virginia kan du ha rätt att begära åtkomst till och få uppgifter om de personuppgifter vi upprätthåller om dig och hur vi har behandlat dem, korrigera felaktigheter, få en kopia av, eller radera dina personuppgifter. Du kan också ha rätt att återkalla ditt samtycke till vår behandling av dina personuppgifter. Dessa rättigheter kan vara begränsade under vissa omständigheter enligt tillämplig lag. Mer information ges nedan."
+    },
+    {
+      "id": 197,
+      "text": "Kategorier av personuppgifter vi samlar in"
+    },
+    {
+      "id": 198,
+      "text": "Tabellen nedan visar de kategorier av personuppgifter vi har samlat in under de senaste tolv (12) månaderna. Tabellen inkluderar illustrativa exempel på varje kategori och återspeglar inte de personuppgifter vi samlar in från dig. För en fullständig förteckning över alla personuppgifter vi behandlar, se avsnittet \""
+    },
+    {
+      "id": 199,
+      "text": "VILKEN INFORMATION SAMLAR VI IN?"
+    },
+    {
+      "id": 200,
+      "text": "\""
+    },
+    {
+      "id": 201,
+      "text": "Kategori"
+    },
+    {
+      "id": 202,
+      "text": "Exempel"
+    },
+    {
+      "id": 203,
+      "text": "Insamlat"
+    },
+    {
+      "id": 204,
+      "text": "A. Identifierare"
+    },
+    {
+      "id": 205,
+      "text": "Kontaktuppgifter, såsom verkligt namn, alias, postadress, telefon eller mobilnummer, unik personlig identifierare, onlineidentifierare, IP adress, mejladress och kontonamn"
+    },
+    {
+      "id": 206,
+      "text": "JA"
+    },
+    {
+      "id": 207,
+      "text": "B. Personuppgifter såsom definieras i California Customer Records stadgan"
+    },
+    {
+      "id": 208,
+      "text": "Namn, kontaktinformation, utbildning, anställning, anställningshistorik och finansiell information"
+    },
+    {
+      "id": 209,
+      "text": "JA"
+    },
+    {
+      "id": 210,
+      "text": "C. Skyddade klassificeringsegenskaper enligt delstatlig eller federal lag"
+    },
+    {
+      "id": 211,
+      "text": "Kön, ålder, födelsedatum, ras och etnicitet, nationellt ursprung, civilstånd och annan demografisk data"
+    },
+    {
+      "id": 212,
+      "text": "NEJ"
+    },
+    {
+      "id": 213,
+      "text": "D. Kommersiell information"
+    },
+    {
+      "id": 214,
+      "text": "Transaktionsinformation, köphistorik, finansiella uppgifter och betalningsinformation"
+    },
+    {
+      "id": 215,
+      "text": "NEJ"
+    },
+    {
+      "id": 216,
+      "text": "E. Biometrisk information"
+    },
+    {
+      "id": 217,
+      "text": "Fingeravtryck och röst avtryck"
+    },
+    {
+      "id": 218,
+      "text": "JA"
+    },
+    {
+      "id": 219,
+      "text": "F. Internet eller annan liknande nätverksaktivitet"
+    },
+    {
+      "id": 220,
+      "text": "Surf historik, sökhistorik, beteende online, intressedata och interaktioner med våra och andra webbplatser, applikationer, system och annonser"
+    },
+    {
+      "id": 221,
+      "text": "NEJ"
+    },
+    {
+      "id": 222,
+      "text": "G. Geolokaliseringsdata"
+    },
+    {
+      "id": 223,
+      "text": "Enhetens plats"
+    },
+    {
+      "id": 224,
+      "text": "NEJ"
+    },
+    {
+      "id": 225,
+      "text": "H. Ljud, elektronisk, sensorisk eller liknande information"
+    },
+    {
+      "id": 226,
+      "text": "Bilder och ljud, video eller samtalsinspelningar som skapas i samband med vår affärsverksamhet"
+    },
+    {
+      "id": 227,
+      "text": "NEJ"
+    },
+    {
+      "id": 228,
+      "text": "I. Yrkes eller anställningsrelaterad information"
+    },
+    {
+      "id": 229,
+      "text": "Affärskontaktuppgifter för att tillhandahålla dig våra Tjänster på affärsnivå eller jobbtitel, arbetshistorik och yrkesmässiga kvalifikationer om du söker ett jobb hos oss"
+    },
+    {
+      "id": 230,
+      "text": "NEJ"
+    },
+    {
+      "id": 231,
+      "text": "J. Utbildningsinformation"
+    },
+    {
+      "id": 232,
+      "text": "Studentregister och kataloginformation"
+    },
+    {
+      "id": 233,
+      "text": "NEJ"
+    },
+    {
+      "id": 234,
+      "text": "K. Slutsatser dragna från insamlade personuppgifter"
+    },
+    {
+      "id": 235,
+      "text": "Slutsatser dragna från någon av de insamlade personuppgifter som anges ovan för att skapa en profil eller sammanfattning om, till exempel, en individs preferenser och egenskaper"
+    },
+    {
+      "id": 236,
+      "text": "NEJ"
+    },
+    {
+      "id": 237,
+      "text": "L. Känsliga personuppgifter"
+    },
+    {
+      "id": 238,
+      "text": "Kontoinloggningsinformation, betalkortsnummer, genetisk data och hälsodata"
+    },
+    {
+      "id": 239,
+      "text": "JA"
+    },
+    {
+      "id": 240,
+      "text": "Vi samlar endast in känsliga personuppgifter, såsom definieras av tillämpliga integritetslagar eller de ändamål som tillåts enligt lag eller med ditt samtycke. Känsliga personuppgifter kan användas, eller avslöjas för en tjänsteleverantör eller entreprenör, för ytterligare, angivna ändamål. Du kan ha rätt att begränsa användningen eller avslöjandet av dina känsliga personuppgifter. Vi samlar inte in eller behandlar känsliga personuppgifter i syfte att dra slutsatser om egenskaper hos dig."
+    },
+    {
+      "id": 241,
+      "text": "Vi kan också samla in andra personuppgifter utanför dessa kategorier genom tillfällen där du interagerar med oss personligen, online, eller per telefon eller post i sammanhanget av:"
+    },
+    {
+      "id": 242,
+      "text": "Att få hjälp genom våra kundsupportkanaler;"
+    },
+    {
+      "id": 243,
+      "text": "Deltagande i kundundersökningar eller tävlingar; och"
+    },
+    {
+      "id": 244,
+      "text": "Underlättande av leveransen av våra Tjänster och för att svara på dina förfrågningar."
+    },
+    {
+      "id": 245,
+      "text": "Vi kommer att använda och behålla de insamlade personuppgifterna vid behov för att tillhandahålla Tjänsterna eller för:"
+    },
+    {
+      "id": 246,
+      "text": "Kategori A, så länge användaren har ett konto hos oss"
+    },
+    {
+      "id": 247,
+      "text": "Kategori B, så länge användaren har ett konto hos oss"
+    },
+    {
+      "id": 248,
+      "text": "Kategori E, så länge användaren har ett konto hos oss"
+    },
+    {
+      "id": 249,
+      "text": "Kategori L, så länge användaren har ett konto hos oss"
+    },
+    {
+      "id": 250,
+      "text": "Källor till personuppgifter"
+    },
+    {
+      "id": 251,
+      "text": "Läs mer om källorna till personuppgifter vi samlar in i \""
+    },
+    {
+      "id": 252,
+      "text": "VILKEN INFORMATION SAMLAR VI IN?"
+    },
+    {
+      "id": 253,
+      "text": "\""
+    },
+    {
+      "id": 254,
+      "text": "Hur vi använder och delar personuppgifter"
+    },
+    {
+      "id": 255,
+      "text": "Läs mer om hur vi använder dina personuppgifter i avsnittet \""
+    },
+    {
+      "id": 256,
+      "text": "HUR BEHANDLAR VI DIN INFORMATION?"
+    },
+    {
+      "id": 257,
+      "text": "\""
+    },
+    {
+      "id": 258,
+      "text": "Kommer din information att delas med någon annan?"
+    },
+    {
+      "id": 259,
+      "text": "Vi kan avslöja dina personuppgifter för våra tjänsteleverantörer enligt ett skriftligt avtal mellan oss och varje tjänsteleverantör. Läs mer om hur vi avslöjar personuppgifter i avsnittet \""
+    },
+    {
+      "id": 260,
+      "text": "NÄR OCH MED VEM DELAR VI DINA PERSONUPPGIFTER?"
+    },
+    {
+      "id": 261,
+      "text": "\""
+    },
+    {
+      "id": 262,
+      "text": "Vi kan använda dina personuppgifter för våra egna affärsändamål, såsom för att genomföra intern forskning för teknisk utveckling och demonstration. Detta anses inte vara \"försäljning\" av dina personuppgifter."
+    },
+    {
+      "id": 263,
+      "text": "Vi har inte avslöjat, sålt eller delat några personuppgifter till tredje parter för ett affärs eller kommersiellt ändamål under de föregående tolv (12) månaderna. Vi kommer inte att sälja eller dela personuppgifter i framtiden som tillhör webbplatsbesökare, användare och andra konsumenter."
+    },
+    {
+      "id": 264,
+      "text": "Dina rättigheter"
+    },
+    {
+      "id": 265,
+      "text": "Du har rättigheter enligt vissa delstatliga dataskyddslagar i USA. Dessa rättigheter är dock inte absoluta, och i vissa fall kan vi avslå din begäran såsom tillåts enligt lag. Dessa rättigheter inkluderar:"
+    },
+    {
+      "id": 266,
+      "text": "Rätt att veta"
+    },
+    {
+      "id": 267,
+      "text": " huruvida vi behandlar dina personuppgifter eller inte"
+    },
+    {
+      "id": 268,
+      "text": "Rätt att få åtkomst till"
+    },
+    {
+      "id": 269,
+      "text": " dina personuppgifter"
+    },
+    {
+      "id": 270,
+      "text": "Rätt att korrigera"
+    },
+    {
+      "id": 271,
+      "text": " felaktigheter i dina personuppgifter"
+    },
+    {
+      "id": 272,
+      "text": "Rätt att begära"
+    },
+    {
+      "id": 273,
+      "text": " radering av dina personuppgifter"
+    },
+    {
+      "id": 274,
+      "text": "Rätt att få en kopia"
+    },
+    {
+      "id": 275,
+      "text": " av de personuppgifter du tidigare delade med oss"
+    },
+    {
+      "id": 276,
+      "text": "Rätt till icke diskriminering"
+    },
+    {
+      "id": 277,
+      "text": " för att utöva dina rättigheter"
+    },
+    {
+      "id": 278,
+      "text": "Rätt att välja bort"
+    },
+    {
+      "id": 279,
+      "text": " behandlingen av dina personuppgifter om de används för riktad annonsering (eller delning såsom definieras enligt Kaliforniens integritetslag), försäljning av personuppgifter, eller profilering för att främja beslut som ger juridiska eller liknande betydande effekter (\"profilering\")"
+    },
+    {
+      "id": 280,
+      "text": "Beroende på vilken delstat du bor i kan du också ha följande rättigheter:"
+    },
+    {
+      "id": 281,
+      "text": "Rätt att få åtkomst till de kategorier av personuppgifter som behandlas (såsom tillåts enligt tillämplig lag, inklusive integritetslagen i Minnesota)"
+    },
+    {
+      "id": 282,
+      "text": "Rätt att få en lista över de kategorier av tredje parter till vilka vi har avslöjat personuppgifter (såsom tillåts enligt tillämplig lag, inklusive integritetslagen i California, Delaware och Maryland)"
+    },
+    {
+      "id": 283,
+      "text": "Rätt att få en lista över specifika tredje parter till vilka vi har avslöjat personuppgifter (såsom tillåts enligt tillämplig lag, inklusive integritetslagen i Minnesota och Oregon)"
+    },
+    {
+      "id": 284,
+      "text": "Rätt att få en lista över tredje parter till vilka vi har sålt personuppgifter (såsom tillåts enligt tillämplig lag, inklusive integritetslagen i Connecticut)"
+    },
+    {
+      "id": 285,
+      "text": "Rätt att granska, förstå, ifrågasätta och, beroende på var du bor, korrigera hur personuppgifter har profilerats (såsom tillåts enligt tillämplig lag, inklusive integritetslagen i Connecticut och Minnesota)"
+    },
+    {
+      "id": 286,
+      "text": "Rätt att begränsa användning och avslöjande av känsliga personuppgifter (såsom tillåts enligt tillämplig lag, inklusive integritetslagen i California)"
+    },
+    {
+      "id": 287,
+      "text": "Rätt att välja bort insamling av känslig data och personuppgifter som samlas in genom användning av en röst eller ansiktsigenkänningsfunktion (såsom tillåts enligt tillämplig lag, inklusive integritetslagen i Florida)"
+    },
+    {
+      "id": 288,
+      "text": "Så utövar du dina rättigheter"
+    },
+    {
+      "id": 289,
+      "text": "För att utöva dessa rättigheter kan du kontakta oss genom att besöka "
+    },
+    {
+      "id": 290,
+      "text": "http://www.tavalabs.app/request-personal-information"
+    },
+    {
+      "id": 291,
+      "text": ", genom att besöka "
+    },
+    {
+      "id": 292,
+      "text": "http://www.tavalabs.app/contact-us"
+    },
+    {
+      "id": 293,
+      "text": ", eller genom att hänvisa till kontaktuppgifterna längst ner i detta dokument."
+    },
+    {
+      "id": 294,
+      "text": "Vi kommer att respektera dina inställningar för att välja bort om du aktiverar "
+    },
+    {
+      "id": 295,
+      "text": "Global Privacy Control"
+    },
+    {
+      "id": 296,
+      "text": " (GPC) signalen för att välja bort i din webbläsare."
+    },
+    {
+      "id": 297,
+      "text": "Enligt vissa delstatliga dataskyddslagar i USA kan du utse ett auktoriserat ombud att göra en begäran för din räkning. Vi kan avslå en begäran från ett auktoriserat ombud som inte lämnar in bevis på att de har giltigt auktoriserats att agera för din räkning i enlighet med tillämpliga lagar."
+    },
+    {
+      "id": 298,
+      "text": "Verifiering av begäran"
+    },
+    {
+      "id": 299,
+      "text": "När vi tar emot din begäran kommer vi att behöva verifiera din identitet för att fastställa att du är samma person som vi har information om i vårt system. Vi kommer endast att använda personuppgifter som tillhandahålls i din begäran för att verifiera din identitet eller befogenhet att göra begäran. Om vi dock inte kan verifiera din identitet från den information som vi redan upprätthåller, kan vi begära att du tillhandahåller ytterligare information i syfte att verifiera din identitet och för säkerhets eller bedrägeriförebyggande ändamål."
+    },
+    {
+      "id": 300,
+      "text": "Om du lämnar in begäran genom ett auktoriserat ombud kan vi behöva samla in ytterligare information för att verifiera din identitet innan vi behandlar din begäran och ombudet kommer att behöva tillhandahålla ett skriftligt och undertecknat tillstånd från dig för att lämna in sådan begäran för din räkning."
+    },
+    {
+      "id": 301,
+      "text": "Överklaganden"
+    },
+    {
+      "id": 302,
+      "text": "Enligt vissa delstatliga dataskyddslagar i USA, om vi avslår att vidta åtgärder avseende din begäran, kan du överklaga vårt beslut genom att mejla oss på "
+    },
+    {
+      "id": 303,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 304,
+      "text": ". Vi kommer att informera dig skriftligen om varje åtgärd som vidtas eller inte vidtas som svar på överklagandet, inklusive en skriftlig förklaring av skälen för besluten. Om ditt överklagande avslås kan du lämna in ett klagomål till din delstats justitieminister."
+    },
+    {
+      "id": 305,
+      "text": "Kaliforniens \"Shine The Light\" lag"
+    },
+    {
+      "id": 306,
+      "text": "California Civil Code Section 1798.83, även känd som \"Shine The Light\" lagen, tillåter våra användare som är bosatta i California att begära och få från oss, en gång om året och kostnadsfritt, information om kategorier av personuppgifter (om några) vi avslöjade för tredje parter för direktmarknadsföringsändamål och namn och adresser till alla tredje parter med vilka vi delade personuppgifter under det omedelbart föregående kalenderåret. Om du är bosatt i California och vill göra en sådan begäran, lämna in din begäran skriftligen till oss med hjälp av kontaktuppgifterna i avsnittet \""
+    },
+    {
+      "id": 307,
+      "text": "HUR KAN DU KONTAKTA OSS OM DETTA MEDDELANDE?"
+    },
+    {
+      "id": 308,
+      "text": "\""
+    },
+    {
+      "id": 309,
+      "text": "13. UPPDATERAR VI DETTA MEDDELANDE?"
+    },
+    {
+      "id": 310,
+      "text": "I korthet: Ja, vi kommer att uppdatera detta meddelande vid behov för att förbli i efterlevnad av relevanta lagar."
+    },
+    {
+      "id": 311,
+      "text": "Vi kan uppdatera detta integritetsmeddelande från tid till annan. Den uppdaterade versionen kommer att anges med ett uppdaterat \"Reviderad\" datum högst upp i detta integritetsmeddelande. Om vi gör väsentliga ändringar av detta integritetsmeddelande kan vi meddela dig antingen genom att framträdande publicera ett meddelande om sådana ändringar eller genom att direkt skicka dig ett meddelande. Vi uppmuntrar dig att granska detta integritetsmeddelande ofta för att vara informerad om hur vi skyddar din information."
+    },
+    {
+      "id": 312,
+      "text": "14. HUR KAN DU KONTAKTA OSS OM DETTA MEDDELANDE?"
+    },
+    {
+      "id": 313,
+      "text": "Om du har frågor eller kommentarer om detta meddelande kan du kontakta vårt dataskyddsombud (DPO) via mejl på "
+    },
+    {
+      "id": 314,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 315,
+      "text": ", eller kontakta oss via post på:"
+    },
+    {
+      "id": 316,
+      "text": "Tava Labs, LLC"
+    },
+    {
+      "id": 317,
+      "text": "Data Protection Officer"
+    },
+    {
+      "id": 318,
+      "text": "1521 Blake St STE 95593"
+    },
+    {
+      "id": 319,
+      "text": "Denver, CO 80202"
+    },
+    {
+      "id": 320,
+      "text": "United States"
+    },
+    {
+      "id": 321,
+      "text": "15. HUR KAN DU GRANSKA, UPPDATERA ELLER RADERA DE DATA VI SAMLAR IN FRÅN DIG?"
+    },
+    {
+      "id": 322,
+      "text": "Utifrån tillämpliga lagar i ditt land eller din bostadsdelstat i USA kan du ha rätt att begära åtkomst till de personuppgifter vi samlar in från dig, uppgifter om hur vi har behandlat dem, korrigera felaktigheter, eller radera dina personuppgifter. Du kan också ha rätt att återkalla ditt samtycke till vår behandling av dina personuppgifter. Dessa rättigheter kan vara begränsade under vissa omständigheter enligt tillämplig lag. För att begära att granska, uppdatera eller radera dina personuppgifter, besök: "
+    },
+    {
+      "id": 323,
+      "text": "http://www.tavalabs.app/request-personal-information"
+    },
+    {
+      "id": 324,
+      "text": "."
+    },
+    {
+      "id": 325,
+      "text": "Denna integritetspolicy skapades med Termly&#x27;s "
+    },
+    {
+      "id": 326,
+      "text": "Privacy Policy Generator"
+    },
+    {
+      "id": 327,
+      "text": "."
+    }
+  ]
+}

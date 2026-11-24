@@ -1,0 +1,119 @@
+{
+  "slug": "cookies",
+  "title": "Küpsiste eeskirjad | Tava Labs",
+  "description": "Kuidas Tava Labsi veebisait kasutab küpsiseid ja sarnaseid tööriistu, kui külastad tavalabs.app, mida need salvestavad ja kuidas saad neid hallata.",
+  "segments": [
+    {
+      "id": 0,
+      "text": "Õigusaktid"
+    },
+    {
+      "id": 1,
+      "text": "Küpsiste eeskirjad"
+    },
+    {
+      "id": 2,
+      "text": "Viimati uuendatud: 17. november 2026"
+    },
+    {
+      "id": 3,
+      "text": "Need küpsiste eeskirjad selgitavad, kuidas Tava Labs (&quot;Tava Labs&quot;, &quot;meie&quot;) kasutab küpsiseid ja sarnaseid tehnoloogiaid veebisaidil tavalabs.app (&quot;Sait&quot;). Saidi kasutamisega nõustud küpsiste kasutamisega nii, nagu nendes eeskirjades kirjeldatud."
+    },
+    {
+      "id": 4,
+      "text": "Mis on küpsised?"
+    },
+    {
+      "id": 5,
+      "text": "Küpsised on väikesed tekstifailid, mis salvestatakse sinu seadmesse, kui külastad veebisaiti. Need aitavad saidil sinu tegevusi ja eelistusi meeles pidada, sinu ostu turvalisena hoida ja meil mõista, kuidas külastajad Saidi kasutavad, et saaksime seda parandada. Sarnaste tehnoloogiate hulka kuuluvad pikslid, sildid ja kohalik salvestusruum, millele kõigile viitame nendes eeskirjades ühiselt kui &quot;küpsistele&quot;."
+    },
+    {
+      "id": 6,
+      "text": "Kasutatavate küpsiste liigid"
+    },
+    {
+      "id": 7,
+      "text": "Hädavajalikud küpsised."
+    },
+    {
+      "id": 8,
+      "text": " Need on Saidi toimimiseks hädavajalikud — näiteks ostukorvis olevate toodete hoidmine, ostu turvaline töötlemine ja pettuste ennetamine. Sait ei saa ilma nendeta korralikult toimida ja neid ei saa välja lülitada."
+    },
+    {
+      "id": 9,
+      "text": "Funktsionaalsed küpsised."
+    },
+    {
+      "id": 10,
+      "text": " Need peavad meeles sinu tehtud valikuid (näiteks eelistusi, mille määrasid meie nahaküsimustiku ajal), et pakkuda isikupärasemat kogemust."
+    },
+    {
+      "id": 11,
+      "text": "Analüüsi- ja toimivusküpsised."
+    },
+    {
+      "id": 12,
+      "text": " Need aitavad meil külastusi loendada ja mõista, kuidas külastajad Saidil liiguvad, et saaksime toimivust mõõta ja parandada. Kogutud teave on koondatud ja võimaluse korral anonüümne."
+    },
+    {
+      "id": 13,
+      "text": "Turundus- ja reklaamiküpsised."
+    },
+    {
+      "id": 14,
+      "text": " Neid võivad määrata meie või meie reklaamipartnerid, et koostada sinu huvide profiil ja näidata sulle asjakohaseid reklaame teistel saitidel. Need ei salvesta otseselt isiklikku teavet, vaid põhinevad sinu brauseri ja seadme kordumatul tuvastamisel."
+    },
+    {
+      "id": 15,
+      "text": "Kolmandate osapoolte küpsised"
+    },
+    {
+      "id": 16,
+      "text": "Mõned küpsised paigutavad kolmandate osapoolte teenused, mis ilmuvad meie lehtedel või töötlevad meie eest tehinguid — näiteks meie maksetöötleja (Stripe) turvalise ostu jaoks, meie majutusteenuse pakkuja ning analüüsi- või reklaamipartnerid. Need kolmandad osapooled võivad küpsiseid kasutada oma privaatsuseeskirjade kohaselt, mida soovitame sul üle vaadata."
+    },
+    {
+      "id": 17,
+      "text": "Kuidas küpsiseid hallata"
+    },
+    {
+      "id": 18,
+      "text": "Enamik veebibrausereid võimaldab sul küpsiseid nende seadete kaudu hallata — saad küpsised blokeerida või kustutada või määrata brauseri sind hoiatama, kui küpsiseid saadetakse. Brauseri jaotis &quot;Abi&quot; selgitab, kuidas seda teha. Palun pane tähele, et küpsiste keelamine võib mõjutada Saidi toimimist: mõned funktsioonid, sealhulgas ostu vormistamine, ei pruugi korralikult toimida."
+    },
+    {
+      "id": 19,
+      "text": "Mõned brauserid edastavad signaali &quot;Do Not Track&quot; (ära jälgi). Kuna nendele signaalidele reageerimiseks pole ühtset valdkonnastandardit, ei reageeri Sait neile praegu."
+    },
+    {
+      "id": 20,
+      "text": "Nende eeskirjade muudatused"
+    },
+    {
+      "id": 21,
+      "text": "Võime neid küpsiste eeskirju aeg-ajalt uuendada, et kajastada muudatusi kasutatavates küpsistes või muudel tegevuslikel, õiguslikel või regulatiivsetel põhjustel. Kui teeme olulisi muudatusi, uuendame eespool olevat kuupäeva &quot;Viimati uuendatud&quot;."
+    },
+    {
+      "id": 22,
+      "text": "Võta meiega ühendust"
+    },
+    {
+      "id": 23,
+      "text": "Küsimused meie küpsiste kasutamise kohta? Kirjuta meile aadressil "
+    },
+    {
+      "id": 24,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 25,
+      "text": ". Lisateavet selle kohta, kuidas me isiklikku teavet käsitleme, vaata meie "
+    },
+    {
+      "id": 26,
+      "text": "Privaatsuseeskirjadest"
+    },
+    {
+      "id": 27,
+      "text": "."
+    }
+  ]
+}

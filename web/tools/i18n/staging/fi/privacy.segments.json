@@ -1,0 +1,1319 @@
+{
+  "slug": "privacy",
+  "title": "Tietosuojakäytäntö | Tava Labs",
+  "description": "Miten Tava Labs kerää, käyttää ja suojaa tietojasi, kun vierailet tavalabs.app-sivustolla, teet ihokyselyn tai tilaat PDRN Brightening Serum -seerumin.",
+  "segments": [
+    {
+      "id": 0,
+      "text": "Oikeudelliset tiedot"
+    },
+    {
+      "id": 1,
+      "text": "Tietosuojakäytäntö"
+    },
+    {
+      "id": 2,
+      "text": "Viimeksi päivitetty 5. marraskuuta 2026"
+    },
+    {
+      "id": 3,
+      "text": "Tämä Tava Labs, LLC:n (toimii nimellä Tava) tietosuojailmoitus (&quot;me&quot;) kuvaa, miten ja miksi voimme käyttää, kerätä, tallentaa, käyttää ja/tai jakaa (&quot;käsitellä&quot;) henkilötietojasi, kun käytät palveluitamme (&quot;Palvelut&quot;), mukaan lukien kun:"
+    },
+    {
+      "id": 4,
+      "text": "Vierailet verkkosivustollamme osoitteessa "
+    },
+    {
+      "id": 5,
+      "text": "http://www.tavalabs.app"
+    },
+    {
+      "id": 6,
+      "text": " tai millä tahansa verkkosivustollamme, joka linkittää tähän tietosuojailmoitukseen"
+    },
+    {
+      "id": 7,
+      "text": "Käytät Founder Wellness Scorea. Hyvinvointialusta perustajille ja johtajille heidän stressinsä, unensa ja ulkonäkönsä mittaamiseen lisäravinnesuositusten ja reseptipeptidien saamiseksi."
+    },
+    {
+      "id": 8,
+      "text": "Olet vuorovaikutuksessa kanssamme muilla asiaan liittyvillä tavoilla, mukaan lukien markkinointi tai tapahtumat"
+    },
+    {
+      "id": 9,
+      "text": "Kysymyksiä tai huolenaiheita?"
+    },
+    {
+      "id": 10,
+      "text": " Tämän tietosuojailmoituksen lukeminen auttaa sinua ymmärtämään tietosuojaoikeutesi ja valintasi. Olemme vastuussa päätöksistä siitä, miten henkilötietojasi käsitellään. Jos et hyväksy käytäntöjämme, älä käytä Palveluitamme. Jos sinulla on vielä kysymyksiä tai huolenaiheita, ota meihin yhteyttä osoitteessa "
+    },
+    {
+      "id": 11,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 12,
+      "text": "."
+    },
+    {
+      "id": 13,
+      "text": "KESKEISTEN KOHTIEN YHTEENVETO"
+    },
+    {
+      "id": 14,
+      "text": "Tämä yhteenveto sisältää tietosuojailmoituksemme keskeiset kohdat, mutta voit lukea lisätietoja mistä tahansa näistä aiheista napsauttamalla kunkin keskeisen kohdan jälkeen olevaa linkkiä tai käyttämällä "
+    },
+    {
+      "id": 15,
+      "text": "sisällysluetteloamme"
+    },
+    {
+      "id": 16,
+      "text": " alla löytääksesi etsimäsi kohdan."
+    },
+    {
+      "id": 17,
+      "text": "Mitä henkilötietoja käsittelemme?"
+    },
+    {
+      "id": 18,
+      "text": " Kun vierailet Palveluissamme, käytät niitä tai liikut niissä, voimme käsitellä henkilötietoja riippuen siitä, miten olet vuorovaikutuksessa kanssamme ja Palveluiden kanssa, tekemistäsi valinnoista sekä käyttämistäsi tuotteista ja ominaisuuksista. Lue lisää "
+    },
+    {
+      "id": 19,
+      "text": "meille paljastamistasi henkilötiedoista"
+    },
+    {
+      "id": 20,
+      "text": "."
+    },
+    {
+      "id": 21,
+      "text": "Käsittelemmekö arkaluonteisia henkilötietoja?"
+    },
+    {
+      "id": 22,
+      "text": " Jotkin tiedot voidaan katsoa &quot;erityisiksi&quot; tai &quot;arkaluonteisiksi&quot; tietyillä lainkäyttöalueilla, esimerkiksi rotusi tai etninen alkuperäsi, seksuaalinen suuntautumisesi ja uskonnolliset vakaumuksesi. Voimme käsitellä arkaluonteisia henkilötietoja tarvittaessa suostumuksellasi tai muuten sovellettavan lain sallimalla tavalla. Lue lisää "
+    },
+    {
+      "id": 23,
+      "text": "käsittelemistämme arkaluonteisista tiedoista"
+    },
+    {
+      "id": 24,
+      "text": "."
+    },
+    {
+      "id": 25,
+      "text": "Keräämmekö tietoja kolmansilta osapuolilta?"
+    },
+    {
+      "id": 26,
+      "text": " Emme kerää tietoja kolmansilta osapuolilta."
+    },
+    {
+      "id": 27,
+      "text": "Miten käsittelemme tietojasi?"
+    },
+    {
+      "id": 28,
+      "text": " Käsittelemme tietojasi Palveluidemme tarjoamiseksi, parantamiseksi ja hallinnoimiseksi, kanssasi viestimiseksi, turvallisuutta ja petosten estämistä varten sekä lain noudattamiseksi. Voimme käsitellä tietojasi myös muihin tarkoituksiin suostumuksellasi. Käsittelemme tietojasi vain, kun meillä on pätevä oikeudellinen syy siihen. Lue lisää "
+    },
+    {
+      "id": 29,
+      "text": "siitä, miten käsittelemme tietojasi"
+    },
+    {
+      "id": 30,
+      "text": "."
+    },
+    {
+      "id": 31,
+      "text": "Missä tilanteissa ja minkä osapuolten kanssa jaamme henkilötietoja?"
+    },
+    {
+      "id": 32,
+      "text": " Voimme jakaa tietoja tietyissä tilanteissa ja tiettyjen kolmansien osapuolten kanssa. Lue lisää "
+    },
+    {
+      "id": 33,
+      "text": "siitä, milloin ja kenen kanssa jaamme henkilötietojasi"
+    },
+    {
+      "id": 34,
+      "text": "."
+    },
+    {
+      "id": 35,
+      "text": "Miten pidämme tietosi turvassa?"
+    },
+    {
+      "id": 36,
+      "text": " Meillä on käytössä riittävät organisatoriset ja tekniset prosessit ja menettelyt henkilötietojesi suojaamiseksi. Mikään internetin kautta tapahtuva sähköinen lähetys tai tiedontallennustekniikka ei kuitenkaan voi olla 100-prosenttisen turvallinen, joten emme voi luvata tai taata, että hakkerit, kyberrikolliset tai muut luvattomat kolmannet osapuolet eivät pystyisi murtamaan turvallisuuttamme ja keräämään, käyttämään, varastamaan tai muokkaamaan tietojasi väärin. Lue lisää "
+    },
+    {
+      "id": 37,
+      "text": "siitä, miten pidämme tietosi turvassa"
+    },
+    {
+      "id": 38,
+      "text": "."
+    },
+    {
+      "id": 39,
+      "text": "Mitkä ovat oikeutesi?"
+    },
+    {
+      "id": 40,
+      "text": " Maantieteellisestä sijainnistasi riippuen sovellettava tietosuojalaki voi tarkoittaa, että sinulla on tiettyjä oikeuksia henkilötietoihisi liittyen. Lue lisää "
+    },
+    {
+      "id": 41,
+      "text": "tietosuojaoikeuksistasi"
+    },
+    {
+      "id": 42,
+      "text": "."
+    },
+    {
+      "id": 43,
+      "text": "Miten käytät oikeuksiasi?"
+    },
+    {
+      "id": 44,
+      "text": " Helpoin tapa käyttää oikeuksiasi on vierailla osoitteessa "
+    },
+    {
+      "id": 45,
+      "text": "http://www.tavalabs.app/request-personal-information"
+    },
+    {
+      "id": 46,
+      "text": ", tai ottaa meihin yhteyttä. Harkitsemme kaikkia pyyntöjä ja toimimme niiden mukaisesti sovellettavien tietosuojalakien mukaisesti."
+    },
+    {
+      "id": 47,
+      "text": "Haluatko tietää lisää siitä, mitä teemme keräämillämme tiedoilla? "
+    },
+    {
+      "id": 48,
+      "text": "Lue tietosuojailmoitus kokonaisuudessaan"
+    },
+    {
+      "id": 49,
+      "text": "."
+    },
+    {
+      "id": 50,
+      "text": "SISÄLLYSLUETTELO"
+    },
+    {
+      "id": 51,
+      "text": "1. MITÄ TIETOJA KERÄÄMME?"
+    },
+    {
+      "id": 52,
+      "text": "2. MITEN KÄSITTELEMME TIETOJASI?"
+    },
+    {
+      "id": 53,
+      "text": "3. MILLOIN JA KENEN KANSSA JAAMME HENKILÖTIETOJASI?"
+    },
+    {
+      "id": 54,
+      "text": "4. KÄYTÄMMEKÖ EVÄSTEITÄ JA MUITA SEURANTATEKNIIKOITA?"
+    },
+    {
+      "id": 55,
+      "text": "5. TARJOAMMEKO TEKOÄLYPOHJAISIA TUOTTEITA?"
+    },
+    {
+      "id": 56,
+      "text": "6. MITEN KÄSITTELEMME SOSIAALISEN MEDIAN KIRJAUTUMISIASI?"
+    },
+    {
+      "id": 57,
+      "text": "7. KUINKA KAUAN SÄILYTÄMME TIETOJASI?"
+    },
+    {
+      "id": 58,
+      "text": "8. MITEN PIDÄMME TIETOSI TURVASSA?"
+    },
+    {
+      "id": 59,
+      "text": "9. KERÄÄMMEKÖ TIETOJA ALAIKÄISILTÄ?"
+    },
+    {
+      "id": 60,
+      "text": "10. MITKÄ OVAT TIETOSUOJAOIKEUTESI?"
+    },
+    {
+      "id": 61,
+      "text": "11. DO-NOT-TRACK-OMINAISUUKSIEN HALLINTA"
+    },
+    {
+      "id": 62,
+      "text": "12. ONKO YHDYSVALTAIN ASUKKAILLA ERITYISIÄ TIETOSUOJAOIKEUKSIA?"
+    },
+    {
+      "id": 63,
+      "text": "13. PÄIVITÄMMEKÖ TÄTÄ ILMOITUSTA?"
+    },
+    {
+      "id": 64,
+      "text": "14. MITEN VOIT OTTAA MEIHIIN YHTEYTTÄ TÄSTÄ ILMOITUKSESTA?"
+    },
+    {
+      "id": 65,
+      "text": "15. MITEN VOIT TARKASTAA, PÄIVITTÄÄ TAI POISTAA KERÄÄMÄMME TIEDOT?"
+    },
+    {
+      "id": 66,
+      "text": "1. MITÄ TIETOJA KERÄÄMME?"
+    },
+    {
+      "id": 67,
+      "text": "Meille paljastamasi henkilötiedot"
+    },
+    {
+      "id": 68,
+      "text": "Lyhyesti: Keräämme henkilötietoja, jotka annat meille."
+    },
+    {
+      "id": 69,
+      "text": "Keräämme henkilötietoja, jotka annat meille vapaaehtoisesti, kun rekisteröidyt Palveluihin, ilmaiset kiinnostuksesi saada tietoa meistä tai tuotteistamme ja Palveluistamme, kun osallistut Palveluiden toimintaan tai muuten kun otat meihin yhteyttä."
+    },
+    {
+      "id": 70,
+      "text": "Antamasi henkilötiedot."
+    },
+    {
+      "id": 71,
+      "text": " Keräämämme henkilötiedot riippuvat vuorovaikutuksestasi kanssamme ja Palveluiden kanssa, tekemistäsi valinnoista sekä käyttämistäsi tuotteista ja ominaisuuksista. Keräämiimme henkilötietoihin voivat sisältyä seuraavat:"
+    },
+    {
+      "id": 72,
+      "text": "nimet"
+    },
+    {
+      "id": 73,
+      "text": "sähköpostiosoitteet"
+    },
+    {
+      "id": 74,
+      "text": "salasanat"
+    },
+    {
+      "id": 75,
+      "text": "laskutusosoitteet"
+    },
+    {
+      "id": 76,
+      "text": "pankki- ja luottokorttien numerot"
+    },
+    {
+      "id": 77,
+      "text": "Arkaluonteiset tiedot."
+    },
+    {
+      "id": 78,
+      "text": " Tarvittaessa suostumuksellasi tai muuten sovellettavan lain sallimalla tavalla käsittelemme seuraavia arkaluonteisten tietojen luokkia:"
+    },
+    {
+      "id": 79,
+      "text": "terveystiedot"
+    },
+    {
+      "id": 80,
+      "text": "Maksutiedot."
+    },
+    {
+      "id": 81,
+      "text": " Voimme kerätä maksusi käsittelyyn tarvittavia tietoja, jos päätät tehdä ostoksia, kuten maksuvälineesi numeron ja maksuvälineeseesi liittyvän turvakoodin. Kaikkia maksutietoja käsittelee ja tallentaa Stripe, Inc. Löydät heidän tietosuojailmoituksensa täältä: "
+    },
+    {
+      "id": 82,
+      "text": "https://stripe.com/privacy-policy"
+    },
+    {
+      "id": 83,
+      "text": "."
+    },
+    {
+      "id": 84,
+      "text": "Sosiaalisen median kirjautumistiedot."
+    },
+    {
+      "id": 85,
+      "text": " Voimme tarjota sinulle mahdollisuuden rekisteröityä meille käyttämällä olemassa olevia sosiaalisen median tilisi tietoja, kuten Facebook-, X- tai muuta sosiaalisen median tiliäsi. Jos päätät rekisteröityä tällä tavalla, keräämme sinusta tiettyjä profiilitietoja sosiaalisen median tarjoajalta, kuten kohdassa &quot;"
+    },
+    {
+      "id": 86,
+      "text": "MITEN KÄSITTELEMME SOSIAALISEN MEDIAN KIRJAUTUMISIASI?"
+    },
+    {
+      "id": 87,
+      "text": "&quot; alla kuvataan."
+    },
+    {
+      "id": 88,
+      "text": "Kaikkien meille antamiesi henkilötietojen on oltava tosia, täydellisiä ja tarkkoja, ja sinun on ilmoitettava meille tällaisten henkilötietojen muutoksista."
+    },
+    {
+      "id": 89,
+      "text": "Automaattisesti kerätyt tiedot"
+    },
+    {
+      "id": 90,
+      "text": "Lyhyesti: Joitakin tietoja, kuten Internet Protocol (IP) -osoitteesi ja/tai selaimesi ja laitteesi ominaisuudet, kerätään automaattisesti, kun vierailet Palveluissamme."
+    },
+    {
+      "id": 91,
+      "text": "Keräämme automaattisesti tiettyjä tietoja, kun vierailet Palveluissa, käytät niitä tai liikut niissä. Nämä tiedot eivät paljasta henkilöllisyyttäsi (kuten nimeäsi tai yhteystietojasi), mutta ne voivat sisältää laite- ja käyttötietoja, kuten IP-osoitteesi, selaimen ja laitteen ominaisuudet, käyttöjärjestelmän, kieliasetukset, viittaavat URL-osoitteet, laitteen nimen, maan, sijainnin, tietoja siitä, miten ja milloin käytät Palveluitamme, sekä muita teknisiä tietoja. Näitä tietoja tarvitaan ensisijaisesti Palveluidemme turvallisuuden ja toiminnan ylläpitämiseen sekä sisäisiin analytiikka- ja raportointitarkoituksiimme."
+    },
+    {
+      "id": 92,
+      "text": "Keräämiimme tietoihin sisältyvät:"
+    },
+    {
+      "id": 93,
+      "text": "Loki- ja käyttötiedot."
+    },
+    {
+      "id": 94,
+      "text": " Loki- ja käyttötiedot ovat palveluun liittyviä, diagnostisia, käyttö- ja suorituskykytietoja, joita palvelimemme keräävät automaattisesti, kun käytät Palveluitamme, ja jotka tallennamme lokitiedostoihin. Riippuen siitä, miten olet vuorovaikutuksessa kanssamme, nämä lokitiedot voivat sisältää IP-osoitteesi, laitetiedot, selaimen tyypin ja asetukset sekä tietoja toiminnastasi Palveluissa (kuten käyttöösi liittyvät päivämäärä- ja aikaleimat, katsotut sivut ja tiedostot, haut ja muut tekemäsi toimet, kuten käyttämäsi ominaisuudet), laitteen tapahtumatiedot (kuten järjestelmän toiminta, virheraportit (joita kutsutaan joskus &quot;kaatumisvedoksiksi&quot;) ja laitteistoasetukset)."
+    },
+    {
+      "id": 95,
+      "text": "Laitetiedot."
+    },
+    {
+      "id": 96,
+      "text": " Keräämme laitetietoja, kuten tietoja tietokoneestasi, puhelimestasi, tabletistasi tai muusta laitteesta, jota käytät Palveluiden käyttämiseen. Käytetystä laitteesta riippuen nämä laitetiedot voivat sisältää tietoja, kuten IP-osoitteesi (tai välityspalvelimesi), laitteen ja sovelluksen tunnistenumerot, sijainnin, selaimen tyypin, laitteistomallin, internetpalveluntarjoajan ja/tai matkapuhelinoperaattorin, käyttöjärjestelmän ja järjestelmän kokoonpanotiedot."
+    },
+    {
+      "id": 97,
+      "text": "Sijaintitiedot."
+    },
+    {
+      "id": 98,
+      "text": " Keräämme sijaintitietoja, kuten tietoja laitteesi sijainnista, joka voi olla tarkka tai epätarkka. Keräämämme tiedon määrä riippuu Palveluiden käyttämiseen käyttämäsi laitteen tyypistä ja asetuksista. Voimme esimerkiksi käyttää GPS:ää ja muita tekniikoita kerätäksemme maantieteellisiä sijaintitietoja, jotka kertovat meille nykyisen sijaintisi (IP-osoitteesi perusteella). Voit kieltäytyä sallimasta meidän kerätä näitä tietoja joko kieltämällä pääsyn tietoihin tai poistamalla laitteesi Sijainti-asetuksen käytöstä. Jos kuitenkin päätät kieltäytyä, et välttämättä voi käyttää tiettyjä Palveluiden osia."
+    },
+    {
+      "id": 99,
+      "text": "2. MITEN KÄSITTELEMME TIETOJASI?"
+    },
+    {
+      "id": 100,
+      "text": "Lyhyesti: Käsittelemme tietojasi Palveluidemme tarjoamiseksi, parantamiseksi ja hallinnoimiseksi, kanssasi viestimiseksi, turvallisuutta ja petosten estämistä varten sekä lain noudattamiseksi. Voimme käsitellä tietojasi myös muihin tarkoituksiin suostumuksellasi."
+    },
+    {
+      "id": 101,
+      "text": "Käsittelemme henkilötietojasi useista syistä riippuen siitä, miten olet vuorovaikutuksessa Palveluidemme kanssa, mukaan lukien:"
+    },
+    {
+      "id": 102,
+      "text": "Tilin luomisen ja todentamisen helpottamiseksi ja muuten käyttäjätilien hallinnoimiseksi."
+    },
+    {
+      "id": 103,
+      "text": " Voimme käsitellä tietojasi, jotta voit luoda tilin ja kirjautua sille sekä pitää tilisi toimintakunnossa."
+    },
+    {
+      "id": 104,
+      "text": "Palveluiden toimittamiseksi ja niiden toimittamisen helpottamiseksi käyttäjälle."
+    },
+    {
+      "id": 105,
+      "text": " Voimme käsitellä tietojasi tarjotaksemme sinulle pyytämäsi palvelun."
+    },
+    {
+      "id": 106,
+      "text": "Käyttäjien tiedusteluihin vastaamiseksi ja tuen tarjoamiseksi käyttäjille."
+    },
+    {
+      "id": 107,
+      "text": " Voimme käsitellä tietojasi vastataksemme tiedusteluihisi ja ratkaistaksemme mahdolliset ongelmat pyytämäsi palvelun kanssa."
+    },
+    {
+      "id": 108,
+      "text": "Hallinnollisten tietojen lähettämiseksi sinulle."
+    },
+    {
+      "id": 109,
+      "text": " Voimme käsitellä tietojasi lähettääksemme sinulle tietoja tuotteistamme ja palveluistamme, ehtojemme ja käytäntöjemme muutoksista sekä muista vastaavista tiedoista."
+    },
+    {
+      "id": 110,
+      "text": "Tilaustesi täyttämiseksi ja hallinnoimiseksi."
+    },
+    {
+      "id": 111,
+      "text": " Voimme käsitellä tietojasi Palveluiden kautta tehtyjen tilaustesi, maksujesi, palautustesi ja vaihtojesi täyttämiseksi ja hallinnoimiseksi."
+    },
+    {
+      "id": 112,
+      "text": "Palautteen pyytämiseksi."
+    },
+    {
+      "id": 113,
+      "text": " Voimme käsitellä tietojasi tarvittaessa pyytääksemme palautetta ja ottaaksemme sinuun yhteyttä Palveluidemme käytöstäsi."
+    },
+    {
+      "id": 114,
+      "text": "Suositusten julkaisemiseksi."
+    },
+    {
+      "id": 115,
+      "text": " Julkaisemme Palveluissamme suosituksia, jotka voivat sisältää henkilötietoja."
+    },
+    {
+      "id": 116,
+      "text": "Palveluidemme, tuotteidemme, markkinointimme ja kokemuksesi arvioimiseksi ja parantamiseksi."
+    },
+    {
+      "id": 117,
+      "text": " Voimme käsitellä tietojasi, kun uskomme sen olevan tarpeen käyttötrendien tunnistamiseksi, myynninedistämiskampanjoidemme tehokkuuden määrittämiseksi sekä Palveluidemme, tuotteidemme, markkinointimme ja kokemuksesi arvioimiseksi ja parantamiseksi."
+    },
+    {
+      "id": 118,
+      "text": "Käyttötrendien tunnistamiseksi."
+    },
+    {
+      "id": 119,
+      "text": " Voimme käsitellä tietoja siitä, miten käytät Palveluitamme ymmärtääksemme paremmin, miten niitä käytetään, jotta voimme parantaa niitä."
+    },
+    {
+      "id": 120,
+      "text": "3. MILLOIN JA KENEN KANSSA JAAMME HENKILÖTIETOJASI?"
+    },
+    {
+      "id": 121,
+      "text": "Lyhyesti: Voimme jakaa tietoja tässä kohdassa kuvatuissa tietyissä tilanteissa ja/tai seuraavien kolmansien osapuolten kanssa."
+    },
+    {
+      "id": 122,
+      "text": "Voimme joutua jakamaan henkilötietojasi seuraavissa tilanteissa:"
+    },
+    {
+      "id": 123,
+      "text": "Yrityssiirrot."
+    },
+    {
+      "id": 124,
+      "text": " Voimme jakaa tai siirtää tietojasi minkä tahansa sulautumisen, yrityksen omaisuuden myynnin, rahoituksen tai koko liiketoimintamme tai sen osan hankinnan yhteydessä tai neuvottelujen aikana toiselle yritykselle."
+    },
+    {
+      "id": 125,
+      "text": "Liikekumppanit."
+    },
+    {
+      "id": 126,
+      "text": " Voimme jakaa tietojasi liikekumppaneidemme kanssa tarjotaksemme sinulle tiettyjä tuotteita, palveluita tai tarjouksia."
+    },
+    {
+      "id": 127,
+      "text": "4. KÄYTÄMMEKÖ EVÄSTEITÄ JA MUITA SEURANTATEKNIIKOITA?"
+    },
+    {
+      "id": 128,
+      "text": "Lyhyesti: Voimme käyttää evästeitä ja muita seurantatekniikoita tietojesi keräämiseen ja tallentamiseen."
+    },
+    {
+      "id": 129,
+      "text": "Voimme käyttää evästeitä ja vastaavia seurantatekniikoita (kuten verkkojälkiä ja pikseleitä) tietojen keräämiseen, kun olet vuorovaikutuksessa Palveluidemme kanssa. Jotkin verkkoseurantatekniikat auttavat meitä ylläpitämään Palveluidemme ja tilisi turvallisuutta, estämään kaatumisia, korjaamaan virheitä, tallentamaan asetuksiasi ja avustamaan sivuston perustoiminnoissa."
+    },
+    {
+      "id": 130,
+      "text": "Sallimme myös kolmansien osapuolten ja palveluntarjoajien käyttää verkkoseurantatekniikoita Palveluissamme analytiikkaan ja mainontaan, mukaan lukien mainosten hallintaan ja näyttämiseen tai mainosten räätälöimiseen kiinnostuksen kohteidesi mukaan. Kolmannet osapuolet ja palveluntarjoajat käyttävät tekniikkaansa tarjotakseen mainontaa tuotteista ja palveluista, jotka on räätälöity kiinnostuksen kohteidesi mukaan ja jotka voivat näkyä joko Palveluissamme tai muilla verkkosivustoilla."
+    },
+    {
+      "id": 131,
+      "text": "Siltä osin kuin näiden verkkoseurantatekniikoiden katsotaan olevan &quot;myyntiä&quot;/&quot;jakamista&quot; (joka sisältää kohdennetun mainonnan, kuten sovellettavissa laeissa määritellään) sovellettavien Yhdysvaltain osavaltioiden lakien nojalla, voit kieltäytyä näistä verkkoseurantatekniikoista lähettämällä pyynnön, kuten kohdassa &quot;"
+    },
+    {
+      "id": 132,
+      "text": "ONKO YHDYSVALTAIN ASUKKAILLA ERITYISIÄ TIETOSUOJAOIKEUKSIA?"
+    },
+    {
+      "id": 133,
+      "text": "&quot;"
+    },
+    {
+      "id": 134,
+      "text": "Tarkat tiedot siitä, miten käytämme tällaisia tekniikoita ja miten voit kieltäytyä tietyistä evästeistä, on esitetty evästeilmoituksessamme."
+    },
+    {
+      "id": 135,
+      "text": "Google Analytics"
+    },
+    {
+      "id": 136,
+      "text": "Voimme jakaa tietojasi Google Analyticsin kanssa Palveluiden käytön seuraamiseksi ja analysoimiseksi. Google Analyticsin mainontaominaisuudet, joita voimme käyttää, ovat: Google Display Networkin näyttökertaraportointi ja Google Analyticsin väestötiede- ja kiinnostusraportointi. Kieltäytyäksesi Google Analyticsin seurannasta kaikissa Palveluissa vieraile osoitteessa "
+    },
+    {
+      "id": 137,
+      "text": "https://tools.google.com/dlpage/gaoptout"
+    },
+    {
+      "id": 138,
+      "text": ". Voit kieltäytyä Google Analyticsin mainontaominaisuuksista "
+    },
+    {
+      "id": 139,
+      "text": "Mainosasetusten"
+    },
+    {
+      "id": 140,
+      "text": " ja mobiilisovellusten mainosasetusten kautta. Muita kieltäytymiskeinoja ovat "
+    },
+    {
+      "id": 141,
+      "text": "http://optout.networkadvertising.org/"
+    },
+    {
+      "id": 142,
+      "text": " ja "
+    },
+    {
+      "id": 143,
+      "text": "http://www.networkadvertising.org/mobile-choice"
+    },
+    {
+      "id": 144,
+      "text": ". Lisätietoja Googlen tietosuojakäytännöistä on "
+    },
+    {
+      "id": 145,
+      "text": "Googlen tietosuoja- ja käyttöehtosivulla"
+    },
+    {
+      "id": 146,
+      "text": "."
+    },
+    {
+      "id": 147,
+      "text": "5. TARJOAMMEKO TEKOÄLYPOHJAISIA TUOTTEITA?"
+    },
+    {
+      "id": 148,
+      "text": "Lyhyesti: Tarjoamme tuotteita, ominaisuuksia tai työkaluja, jotka toimivat tekoälyn, koneoppimisen tai vastaavien tekniikoiden avulla."
+    },
+    {
+      "id": 149,
+      "text": "Osana Palveluitamme tarjoamme tuotteita, ominaisuuksia tai työkaluja, jotka toimivat tekoälyn, koneoppimisen tai vastaavien tekniikoiden avulla (yhdessä &quot;Tekoälytuotteet&quot;). Nämä työkalut on suunniteltu parantamaan kokemustasi ja tarjoamaan sinulle innovatiivisia ratkaisuja. Tämän tietosuojailmoituksen ehdot koskevat Tekoälytuotteiden käyttöäsi Palveluissamme."
+    },
+    {
+      "id": 150,
+      "text": "Tekoälytekniikoiden käyttö"
+    },
+    {
+      "id": 151,
+      "text": "Tarjoamme Tekoälytuotteet kolmannen osapuolen palveluntarjoajien (&quot;Tekoälypalveluntarjoajat&quot;) kautta, mukaan lukien OpenAI. Kuten tässä tietosuojailmoituksessa esitetään, syötteesi, tulosteesi ja henkilötietosi jaetaan Tekoälypalveluntarjoajien kanssa ja he käsittelevät niitä, jotta voit käyttää Tekoälytuotteitamme kohdassa &quot;"
+    },
+    {
+      "id": 152,
+      "text": "MILLOIN JA KENEN KANSSA JAAMME HENKILÖTIETOJASI?"
+    },
+    {
+      "id": 153,
+      "text": "&quot; esitettyihin tarkoituksiin. Et saa käyttää Tekoälytuotteita millään tavalla, joka rikkoo minkään Tekoälypalveluntarjoajan ehtoja tai käytäntöjä."
+    },
+    {
+      "id": 154,
+      "text": "Tekoälytuotteemme"
+    },
+    {
+      "id": 155,
+      "text": "Tekoälytuotteemme on suunniteltu seuraaviin toimintoihin:"
+    },
+    {
+      "id": 156,
+      "text": "Tekoälynäkemykset"
+    },
+    {
+      "id": 157,
+      "text": "Miten käsittelemme tietojasi tekoälyn avulla"
+    },
+    {
+      "id": 158,
+      "text": "Kaikki Tekoälytuotteidemme avulla käsitellyt henkilötiedot käsitellään tietosuojailmoituksemme ja kolmansien osapuolten kanssa tekemämme sopimuksen mukaisesti. Tämä varmistaa korkean turvallisuuden ja suojaa henkilötietojasi koko prosessin ajan, mikä antaa sinulle mielenrauhan tietojesi turvallisuudesta."
+    },
+    {
+      "id": 159,
+      "text": "6. MITEN KÄSITTELEMME SOSIAALISEN MEDIAN KIRJAUTUMISIASI?"
+    },
+    {
+      "id": 160,
+      "text": "Lyhyesti: Jos päätät rekisteröityä tai kirjautua Palveluihimme sosiaalisen median tilillä, meillä voi olla pääsy tiettyihin tietoihin sinusta."
+    },
+    {
+      "id": 161,
+      "text": "Palvelumme tarjoavat sinulle mahdollisuuden rekisteröityä ja kirjautua sisään käyttämällä kolmannen osapuolen sosiaalisen median tilisi tietoja (kuten Facebook- tai X-kirjautumisiasi). Kun päätät tehdä näin, saamme sosiaalisen median tarjoajaltasi tiettyjä profiilitietoja sinusta. Saamamme profiilitiedot voivat vaihdella kyseisen sosiaalisen median tarjoajan mukaan, mutta ne sisältävät usein nimesi, sähköpostiosoitteesi, ystäväluettelosi ja profiilikuvasi sekä muut tiedot, jotka päätät julkistaa tällaisella sosiaalisen median alustalla."
+    },
+    {
+      "id": 162,
+      "text": "Käytämme saamiamme tietoja vain tarkoituksiin, jotka kuvataan tässä tietosuojailmoituksessa tai jotka muuten tehdään sinulle selväksi kyseisissä Palveluissa. Huomaa, että emme hallitse emmekä ole vastuussa kolmannen osapuolen sosiaalisen median tarjoajasi muusta henkilötietojesi käytöstä. Suosittelemme, että tutustut heidän tietosuojailmoitukseensa ymmärtääksesi, miten he keräävät, käyttävät ja jakavat henkilötietojasi ja miten voit asettaa tietosuoja-asetuksesi heidän sivustoillaan ja sovelluksissaan."
+    },
+    {
+      "id": 163,
+      "text": "7. KUINKA KAUAN SÄILYTÄMME TIETOJASI?"
+    },
+    {
+      "id": 164,
+      "text": "Lyhyesti: Säilytämme tietojasi niin kauan kuin on tarpeen tässä tietosuojailmoituksessa esitettyjen tarkoitusten täyttämiseksi, ellei laki muuta vaadi."
+    },
+    {
+      "id": 165,
+      "text": "Säilytämme henkilötietojasi vain niin kauan kuin se on tarpeen tässä tietosuojailmoituksessa esitettyihin tarkoituksiin, ellei pidempi säilytysaika ole lain vaatima tai sallima (kuten vero-, kirjanpito- tai muut oikeudelliset vaatimukset). Mikään tämän ilmoituksen tarkoitus ei vaadi meitä säilyttämään henkilötietojasi pidempään kuin ajan, jonka käyttäjillä on tili meillä."
+    },
+    {
+      "id": 166,
+      "text": "Kun meillä ei ole jatkuvaa oikeutettua liiketoimintatarvetta käsitellä henkilötietojasi, joko poistamme tai anonymisoimme tällaiset tiedot, tai jos tämä ei ole mahdollista (esimerkiksi koska henkilötietosi on tallennettu varmuuskopioarkistoihin), tallennamme henkilötietosi turvallisesti ja eristämme ne jatkokäsittelystä, kunnes poistaminen on mahdollista."
+    },
+    {
+      "id": 167,
+      "text": "8. MITEN PIDÄMME TIETOSI TURVASSA?"
+    },
+    {
+      "id": 168,
+      "text": "Lyhyesti: Pyrimme suojaamaan henkilötietojasi organisatoristen ja teknisten turvatoimien järjestelmällä."
+    },
+    {
+      "id": 169,
+      "text": "Olemme toteuttaneet asianmukaiset ja kohtuulliset tekniset ja organisatoriset turvatoimet, jotka on suunniteltu suojaamaan käsittelemiemme henkilötietojen turvallisuutta. Turvatoimistamme ja pyrkimyksistämme suojata tietojasi huolimatta mikään internetin kautta tapahtuva sähköinen lähetys tai tiedontallennustekniikka ei voi olla 100-prosenttisen turvallinen, joten emme voi luvata tai taata, että hakkerit, kyberrikolliset tai muut luvattomat kolmannet osapuolet eivät pystyisi murtamaan turvallisuuttamme ja keräämään, käyttämään, varastamaan tai muokkaamaan tietojasi väärin. Vaikka teemme parhaamme suojataksemme henkilötietojasi, henkilötietojen välittäminen Palveluihimme ja niistä on omalla riskilläsi. Sinun tulee käyttää Palveluita vain turvallisessa ympäristössä."
+    },
+    {
+      "id": 170,
+      "text": "9. KERÄÄMMEKÖ TIETOJA ALAIKÄISILTÄ?"
+    },
+    {
+      "id": 171,
+      "text": "Lyhyesti: Emme tietoisesti kerää tietoja alle 18-vuotiailta lapsilta emmekä markkinoi heille."
+    },
+    {
+      "id": 172,
+      "text": "Emme tietoisesti kerää tai pyydä tietoja alle 18-vuotiailta lapsilta emmekä markkinoi heille, emmekä tietoisesti myy tällaisia henkilötietoja. Käyttämällä Palveluita vakuutat, että olet vähintään 18-vuotias tai että olet tällaisen alaikäisen vanhempi tai huoltaja ja suostut tällaisen alaikäisen huollettavan Palveluiden käyttöön. Jos saamme tietää, että alle 18-vuotiaiden käyttäjien henkilötietoja on kerätty, poistamme tilin käytöstä ja ryhdymme kohtuullisiin toimenpiteisiin tällaisten tietojen poistamiseksi viipymättä arkistoistamme. Jos saat tietää tiedoista, joita olemme mahdollisesti keränneet alle 18-vuotiailta lapsilta, ota meihin yhteyttä osoitteessa "
+    },
+    {
+      "id": 173,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 174,
+      "text": "."
+    },
+    {
+      "id": 175,
+      "text": "10. MITKÄ OVAT TIETOSUOJAOIKEUTESI?"
+    },
+    {
+      "id": 176,
+      "text": "Suostumuksesi peruuttaminen:"
+    },
+    {
+      "id": 177,
+      "text": " Jos luotamme suostumukseesi henkilötietojesi käsittelyssä, joka voi olla nimenomainen ja/tai epäsuora suostumus sovellettavasta laista riippuen, sinulla on oikeus peruuttaa suostumuksesi milloin tahansa. Voit peruuttaa suostumuksesi milloin tahansa ottamalla meihin yhteyttä käyttämällä kohdassa &quot;"
+    },
+    {
+      "id": 178,
+      "text": "MITEN VOIT OTTAA MEIHIIN YHTEYTTÄ TÄSTÄ ILMOITUKSESTA?"
+    },
+    {
+      "id": 179,
+      "text": "&quot; alla annettuja yhteystietoja."
+    },
+    {
+      "id": 180,
+      "text": "Tämä ei kuitenkaan vaikuta käsittelyn laillisuuteen ennen sen peruuttamista eikä, kun sovellettava laki sen sallii, vaikuta henkilötietojesi käsittelyyn, joka suoritetaan muilla laillisilla käsittelyperusteilla kuin suostumuksella."
+    },
+    {
+      "id": 181,
+      "text": "Tilitiedot"
+    },
+    {
+      "id": 182,
+      "text": "Jos haluat milloin tahansa tarkastella tai muuttaa tilisi tietoja tai lopettaa tilisi, voit:"
+    },
+    {
+      "id": 183,
+      "text": "Kirjaudu tilisi asetuksiin ja päivitä käyttäjätilisi."
+    },
+    {
+      "id": 184,
+      "text": "Pyynnöstäsi lopettaa tilisi poistamme tilisi ja tietosi käytöstä tai poistamme ne aktiivisista tietokannoistamme. Voimme kuitenkin säilyttää joitakin tietoja tiedostoissamme petosten estämiseksi, ongelmien ratkaisemiseksi, tutkimusten avustamiseksi, oikeudellisten ehtojemme täytäntöönpanemiseksi ja/tai sovellettavien oikeudellisten vaatimusten noudattamiseksi."
+    },
+    {
+      "id": 185,
+      "text": "Jos sinulla on kysymyksiä tai kommentteja tietosuojaoikeuksistasi, voit lähettää meille sähköpostia osoitteeseen "
+    },
+    {
+      "id": 186,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 187,
+      "text": "."
+    },
+    {
+      "id": 188,
+      "text": "11. DO-NOT-TRACK-OMINAISUUKSIEN HALLINTA"
+    },
+    {
+      "id": 189,
+      "text": "Useimmat verkkoselaimet ja jotkin mobiilikäyttöjärjestelmät ja mobiilisovellukset sisältävät Do-Not-Track (&quot;DNT&quot;) -ominaisuuden tai asetuksen, jonka voit aktivoida ilmoittaaksesi tietosuojatoiveestasi, että verkkoselaustoimintaasi koskevia tietoja ei seurata ja kerätä. Tässä vaiheessa DNT-signaalien tunnistamiselle ja toteuttamiselle ei ole viimeistelty yhtenäistä teknologiastandardia. Näin ollen emme tällä hetkellä vastaa DNT-selainsignaaleihin tai muuhun mekanismiin, joka automaattisesti ilmoittaa valintasi olla tulematta seuratuksi verkossa. Jos tulevaisuudessa hyväksytään verkkoseurantaa koskeva standardi, jota meidän on noudatettava, ilmoitamme sinulle kyseisestä käytännöstä tämän tietosuojailmoituksen tarkistetussa versiossa."
+    },
+    {
+      "id": 190,
+      "text": "Kalifornian laki vaatii meitä kertomaan sinulle, miten vastaamme verkkoselaimen DNT-signaaleihin. Koska DNT-signaalien tunnistamiselle tai kunnioittamiselle ei tällä hetkellä ole toimialan tai oikeudellista standardia, emme vastaa niihin tällä hetkellä."
+    },
+    {
+      "id": 191,
+      "text": "Global Privacy Control:"
+    },
+    {
+      "id": 192,
+      "text": " Tunnistamme ja kunnioitamme Global Privacy Control (GPC) -signaaleja. Jos käytät GPC:tä tukevaa selainta tai laajennusta, katsomme tämän päteväksi pyynnöksi kieltäytyä henkilötietojesi myynnistä tai jakamisesta kohdennettua mainontaa varten sovellettavien osavaltioiden tietosuojalakien, mukaan lukien California Consumer Privacy Act (CCPA) -lain, nojalla. Kun havaitsemme GPC-signaalin selaimestasi, sovellamme kieltäytymistoivettasi automaattisesti ilman, että sinun tarvitsee tehdä lisätoimia. Lisätietoja GPC:stä ja sen käyttöönotosta on osoitteessa "
+    },
+    {
+      "id": 193,
+      "text": "globalprivacycontrol.org"
+    },
+    {
+      "id": 194,
+      "text": "."
+    },
+    {
+      "id": 195,
+      "text": "12. ONKO YHDYSVALTAIN ASUKKAILLA ERITYISIÄ TIETOSUOJAOIKEUKSIA?"
+    },
+    {
+      "id": 196,
+      "text": "Lyhyesti: Jos olet Kalifornian, Coloradon, Connecticutin, Delawaren, Floridan, Indianan, Iowan, Kentuckyn, Marylandin, Minnesotan, Montanan, Nebraskan, New Hampshiren, New Jerseyn, Oregonin, Rhode Islandin, Tennesseen, Texasin, Utahin tai Virginian asukas, sinulla voi olla oikeus pyytää pääsyä sinusta ylläpitämiimme henkilötietoihin ja saada niistä tietoja sekä tietoja siitä, miten olemme käsitelleet niitä, korjata epätarkkuuksia, saada kopio henkilötiedoistasi tai poistaa ne. Sinulla voi myös olla oikeus peruuttaa suostumuksesi henkilötietojesi käsittelyyn. Sovellettava laki voi rajoittaa näitä oikeuksia joissakin olosuhteissa. Lisätietoja on alla."
+    },
+    {
+      "id": 197,
+      "text": "Keräämiemme henkilötietojen luokat"
+    },
+    {
+      "id": 198,
+      "text": "Alla oleva taulukko näyttää henkilötietojen luokat, joita olemme keränneet viimeisten kahdentoista (12) kuukauden aikana. Taulukko sisältää havainnollistavia esimerkkejä kustakin luokasta eikä se vastaa sinulta keräämiämme henkilötietoja. Kattava luettelo kaikista käsittelemistämme henkilötiedoista on kohdassa &quot;"
+    },
+    {
+      "id": 199,
+      "text": "MITÄ TIETOJA KERÄÄMME?"
+    },
+    {
+      "id": 200,
+      "text": "&quot;"
+    },
+    {
+      "id": 201,
+      "text": "Luokka"
+    },
+    {
+      "id": 202,
+      "text": "Esimerkit"
+    },
+    {
+      "id": 203,
+      "text": "Kerätty"
+    },
+    {
+      "id": 204,
+      "text": "A. Tunnisteet"
+    },
+    {
+      "id": 205,
+      "text": "Yhteystiedot, kuten oikea nimi, alias, postiosoite, puhelin- tai matkapuhelinyhteysnumero, yksilöllinen henkilötunniste, verkkotunniste, Internet Protocol -osoite, sähköpostiosoite ja tilin nimi"
+    },
+    {
+      "id": 206,
+      "text": "KYLLÄ"
+    },
+    {
+      "id": 207,
+      "text": "B. Henkilötiedot, kuten California Customer Records -säädöksessä määritellään"
+    },
+    {
+      "id": 208,
+      "text": "Nimi, yhteystiedot, koulutus, työsuhde, työhistoria ja taloudelliset tiedot"
+    },
+    {
+      "id": 209,
+      "text": "KYLLÄ"
+    },
+    {
+      "id": 210,
+      "text": "C. Suojatut luokitteluominaisuudet osavaltion tai liittovaltion lain nojalla"
+    },
+    {
+      "id": 211,
+      "text": "Sukupuoli, ikä, syntymäaika, rotu ja etnisyys, kansallinen alkuperä, siviilisääty ja muut väestötiedot"
+    },
+    {
+      "id": 212,
+      "text": "EI"
+    },
+    {
+      "id": 213,
+      "text": "D. Kaupalliset tiedot"
+    },
+    {
+      "id": 214,
+      "text": "Tapahtumatiedot, ostohistoria, taloudelliset tiedot ja maksutiedot"
+    },
+    {
+      "id": 215,
+      "text": "EI"
+    },
+    {
+      "id": 216,
+      "text": "E. Biometriset tiedot"
+    },
+    {
+      "id": 217,
+      "text": "Sormenjäljet ja ääninäytteet"
+    },
+    {
+      "id": 218,
+      "text": "KYLLÄ"
+    },
+    {
+      "id": 219,
+      "text": "F. Internet- tai muu vastaava verkkotoiminta"
+    },
+    {
+      "id": 220,
+      "text": "Selaushistoria, hakuhistoria, verkkokäyttäytyminen, kiinnostustiedot ja vuorovaikutus meidän ja muiden verkkosivustojen, sovellusten, järjestelmien ja mainosten kanssa"
+    },
+    {
+      "id": 221,
+      "text": "EI"
+    },
+    {
+      "id": 222,
+      "text": "G. Maantieteelliset sijaintitiedot"
+    },
+    {
+      "id": 223,
+      "text": "Laitteen sijainti"
+    },
+    {
+      "id": 224,
+      "text": "EI"
+    },
+    {
+      "id": 225,
+      "text": "H. Ääni-, sähköiset, aisti- tai vastaavat tiedot"
+    },
+    {
+      "id": 226,
+      "text": "Kuvat sekä ääni-, video- tai puhelutallenteet, jotka on luotu liiketoimintamme yhteydessä"
+    },
+    {
+      "id": 227,
+      "text": "EI"
+    },
+    {
+      "id": 228,
+      "text": "I. Ammatilliset tai työsuhteeseen liittyvät tiedot"
+    },
+    {
+      "id": 229,
+      "text": "Liiketoiminnan yhteystiedot Palveluidemme tarjoamiseksi sinulle liiketoimintatasolla tai työnimike, työhistoria ja ammatillinen pätevyys, jos haet meiltä työpaikkaa"
+    },
+    {
+      "id": 230,
+      "text": "EI"
+    },
+    {
+      "id": 231,
+      "text": "J. Koulutustiedot"
+    },
+    {
+      "id": 232,
+      "text": "Opiskelija-asiakirjat ja hakemistotiedot"
+    },
+    {
+      "id": 233,
+      "text": "EI"
+    },
+    {
+      "id": 234,
+      "text": "K. Kerätyistä henkilötiedoista tehdyt päätelmät"
+    },
+    {
+      "id": 235,
+      "text": "Mistä tahansa edellä luetelluista kerätyistä henkilötiedoista tehdyt päätelmät profiilin tai yhteenvedon luomiseksi esimerkiksi henkilön mieltymyksistä ja ominaisuuksista"
+    },
+    {
+      "id": 236,
+      "text": "EI"
+    },
+    {
+      "id": 237,
+      "text": "L. Arkaluonteiset henkilötiedot"
+    },
+    {
+      "id": 238,
+      "text": "Tilin kirjautumistiedot, pankki- tai luottokorttien numerot, geneettiset tiedot ja terveystiedot"
+    },
+    {
+      "id": 239,
+      "text": "KYLLÄ"
+    },
+    {
+      "id": 240,
+      "text": "Keräämme arkaluonteisia henkilötietoja vain, kuten sovellettavissa tietosuojalaeissa määritellään tai lain sallimiin tarkoituksiin tai suostumuksellasi. Arkaluonteisia henkilötietoja voidaan käyttää tai paljastaa palveluntarjoajalle tai urakoitsijalle lisätarkoituksiin. Sinulla voi olla oikeus rajoittaa arkaluonteisten henkilötietojesi käyttöä tai paljastamista. Emme kerää tai käsittele arkaluonteisia henkilötietoja päätelläksemme ominaisuuksia sinusta."
+    },
+    {
+      "id": 241,
+      "text": "Voimme kerätä myös muita henkilötietoja näiden luokkien ulkopuolella tilanteissa, joissa olet vuorovaikutuksessa kanssamme henkilökohtaisesti, verkossa tai puhelimitse tai postitse seuraavissa yhteyksissä:"
+    },
+    {
+      "id": 242,
+      "text": "Avun saaminen asiakastukikanaviemme kautta;"
+    },
+    {
+      "id": 243,
+      "text": "Osallistuminen asiakaskyselyihin tai kilpailuihin; ja"
+    },
+    {
+      "id": 244,
+      "text": "Palveluidemme toimittamisen helpottaminen ja tiedusteluihisi vastaaminen."
+    },
+    {
+      "id": 245,
+      "text": "Käytämme ja säilytämme kerättyjä henkilötietoja tarpeen mukaan Palveluiden tarjoamiseksi tai seuraavasti:"
+    },
+    {
+      "id": 246,
+      "text": "Luokka A - Niin kauan kuin käyttäjällä on tili meillä"
+    },
+    {
+      "id": 247,
+      "text": "Luokka B - Niin kauan kuin käyttäjällä on tili meillä"
+    },
+    {
+      "id": 248,
+      "text": "Luokka E - Niin kauan kuin käyttäjällä on tili meillä"
+    },
+    {
+      "id": 249,
+      "text": "Luokka L - Niin kauan kuin käyttäjällä on tili meillä"
+    },
+    {
+      "id": 250,
+      "text": "Henkilötietojen lähteet"
+    },
+    {
+      "id": 251,
+      "text": "Lue lisää keräämiemme henkilötietojen lähteistä kohdasta &quot;"
+    },
+    {
+      "id": 252,
+      "text": "MITÄ TIETOJA KERÄÄMME?"
+    },
+    {
+      "id": 253,
+      "text": "&quot;"
+    },
+    {
+      "id": 254,
+      "text": "Miten käytämme ja jaamme henkilötietoja"
+    },
+    {
+      "id": 255,
+      "text": "Lue lisää siitä, miten käytämme henkilötietojasi kohdasta &quot;"
+    },
+    {
+      "id": 256,
+      "text": "MITEN KÄSITTELEMME TIETOJASI?"
+    },
+    {
+      "id": 257,
+      "text": "&quot;"
+    },
+    {
+      "id": 258,
+      "text": "Jaetaanko tietojasi kenenkään muun kanssa?"
+    },
+    {
+      "id": 259,
+      "text": "Voimme paljastaa henkilötietojasi palveluntarjoajillemme meidän ja kunkin palveluntarjoajan välisen kirjallisen sopimuksen mukaisesti. Lue lisää siitä, miten paljastamme henkilötietoja kohdasta &quot;"
+    },
+    {
+      "id": 260,
+      "text": "MILLOIN JA KENEN KANSSA JAAMME HENKILÖTIETOJASI?"
+    },
+    {
+      "id": 261,
+      "text": "&quot;"
+    },
+    {
+      "id": 262,
+      "text": "Voimme käyttää henkilötietojasi omiin liiketoimintatarkoituksiimme, kuten sisäisen tutkimuksen tekemiseen teknologista kehitystä ja esittelyä varten. Tätä ei katsota henkilötietojesi &quot;myynniksi&quot;."
+    },
+    {
+      "id": 263,
+      "text": "Emme ole paljastaneet, myyneet tai jakaneet henkilötietoja kolmansille osapuolille liiketoiminta- tai kaupalliseen tarkoitukseen edeltävien kahdentoista (12) kuukauden aikana. Emme myy tai jaa tulevaisuudessa verkkosivuston kävijöille, käyttäjille ja muille kuluttajille kuuluvia henkilötietoja."
+    },
+    {
+      "id": 264,
+      "text": "Oikeutesi"
+    },
+    {
+      "id": 265,
+      "text": "Sinulla on oikeuksia tiettyjen Yhdysvaltain osavaltioiden tietosuojalakien nojalla. Nämä oikeudet eivät kuitenkaan ole ehdottomia, ja tietyissä tapauksissa voimme kieltäytyä pyynnöstäsi lain sallimalla tavalla. Näihin oikeuksiin sisältyvät:"
+    },
+    {
+      "id": 266,
+      "text": "Oikeus tietää"
+    },
+    {
+      "id": 267,
+      "text": " käsittelemmekö henkilötietojasi vai emme"
+    },
+    {
+      "id": 268,
+      "text": "Oikeus päästä"
+    },
+    {
+      "id": 269,
+      "text": " henkilötietoihisi"
+    },
+    {
+      "id": 270,
+      "text": "Oikeus korjata"
+    },
+    {
+      "id": 271,
+      "text": " henkilötietojesi epätarkkuudet"
+    },
+    {
+      "id": 272,
+      "text": "Oikeus pyytää"
+    },
+    {
+      "id": 273,
+      "text": " henkilötietojesi poistamista"
+    },
+    {
+      "id": 274,
+      "text": "Oikeus saada kopio"
+    },
+    {
+      "id": 275,
+      "text": " henkilötiedoista, jotka olet aiemmin jakanut kanssamme"
+    },
+    {
+      "id": 276,
+      "text": "Oikeus syrjimättömyyteen"
+    },
+    {
+      "id": 277,
+      "text": " oikeuksiesi käyttämisestä"
+    },
+    {
+      "id": 278,
+      "text": "Oikeus kieltäytyä"
+    },
+    {
+      "id": 279,
+      "text": " henkilötietojesi käsittelystä, jos niitä käytetään kohdennettuun mainontaan (tai jakamiseen, kuten Kalifornian tietosuojalaissa määritellään), henkilötietojen myyntiin tai profilointiin sellaisten päätösten edistämiseksi, joilla on oikeudellisia tai vastaavasti merkittäviä vaikutuksia (&quot;profilointi&quot;)"
+    },
+    {
+      "id": 280,
+      "text": "Asuinpaikkasi osavaltiosta riippuen sinulla voi olla myös seuraavat oikeudet:"
+    },
+    {
+      "id": 281,
+      "text": "Oikeus päästä käsiteltävien henkilötietojen luokkiin (sovellettavan lain sallimalla tavalla, mukaan lukien Minnesotan tietosuojalaki)"
+    },
+    {
+      "id": 282,
+      "text": "Oikeus saada luettelo kolmansien osapuolten luokista, joille olemme paljastaneet henkilötietoja (sovellettavan lain sallimalla tavalla, mukaan lukien Kalifornian, Delawaren ja Marylandin tietosuojalaki)"
+    },
+    {
+      "id": 283,
+      "text": "Oikeus saada luettelo tietyistä kolmansista osapuolista, joille olemme paljastaneet henkilötietoja (sovellettavan lain sallimalla tavalla, mukaan lukien Minnesotan ja Oregonin tietosuojalaki)"
+    },
+    {
+      "id": 284,
+      "text": "Oikeus saada luettelo kolmansista osapuolista, joille olemme myyneet henkilötietoja (sovellettavan lain sallimalla tavalla, mukaan lukien Connecticutin tietosuojalaki)"
+    },
+    {
+      "id": 285,
+      "text": "Oikeus tarkastella, ymmärtää ja kyseenalaistaa, miten henkilötietoja on profiloitu, ja asuinpaikastasi riippuen korjata sitä (sovellettavan lain sallimalla tavalla, mukaan lukien Connecticutin ja Minnesotan tietosuojalaki)"
+    },
+    {
+      "id": 286,
+      "text": "Oikeus rajoittaa arkaluonteisten henkilötietojen käyttöä ja paljastamista (sovellettavan lain sallimalla tavalla, mukaan lukien Kalifornian tietosuojalaki)"
+    },
+    {
+      "id": 287,
+      "text": "Oikeus kieltäytyä arkaluonteisten tietojen ja ääni- tai kasvojentunnistusominaisuuden avulla kerättyjen henkilötietojen keräämisestä (sovellettavan lain sallimalla tavalla, mukaan lukien Floridan tietosuojalaki)"
+    },
+    {
+      "id": 288,
+      "text": "Miten käytät oikeuksiasi"
+    },
+    {
+      "id": 289,
+      "text": "Käyttääksesi näitä oikeuksia voit ottaa meihin yhteyttä vierailemalla osoitteessa "
+    },
+    {
+      "id": 290,
+      "text": "http://www.tavalabs.app/request-personal-information"
+    },
+    {
+      "id": 291,
+      "text": ", vierailemalla osoitteessa "
+    },
+    {
+      "id": 292,
+      "text": "http://www.tavalabs.app/contact-us"
+    },
+    {
+      "id": 293,
+      "text": ", tai tutustumalla tämän asiakirjan lopussa oleviin yhteystietoihin."
+    },
+    {
+      "id": 294,
+      "text": "Kunnioitamme kieltäytymistoiveitasi, jos otat käyttöön "
+    },
+    {
+      "id": 295,
+      "text": "Global Privacy Control"
+    },
+    {
+      "id": 296,
+      "text": " (GPC) -kieltäytymissignaalin selaimessasi."
+    },
+    {
+      "id": 297,
+      "text": "Tiettyjen Yhdysvaltain osavaltioiden tietosuojalakien nojalla voit nimetä valtuutetun edustajan tekemään pyynnön puolestasi. Voimme kieltäytyä valtuutetun edustajan pyynnöstä, joka ei esitä todistetta siitä, että hänet on pätevästi valtuutettu toimimaan puolestasi sovellettavien lakien mukaisesti."
+    },
+    {
+      "id": 298,
+      "text": "Pyynnön vahvistaminen"
+    },
+    {
+      "id": 299,
+      "text": "Saatuamme pyyntösi meidän on vahvistettava henkilöllisyytesi määrittääksemme, että olet sama henkilö, josta meillä on tietoja järjestelmässämme. Käytämme pyynnössäsi annettuja henkilötietoja vain henkilöllisyytesi tai pyynnön tekemiseen liittyvän valtuutesi vahvistamiseen. Jos emme kuitenkaan pysty vahvistamaan henkilöllisyyttäsi jo ylläpitämistämme tiedoista, voimme pyytää sinua antamaan lisätietoja henkilöllisyytesi vahvistamista varten sekä turvallisuus- tai petostentorjuntatarkoituksiin."
+    },
+    {
+      "id": 300,
+      "text": "Jos lähetät pyynnön valtuutetun edustajan kautta, voimme joutua keräämään lisätietoja henkilöllisyytesi vahvistamiseksi ennen pyyntösi käsittelyä, ja edustajan on annettava sinulta kirjallinen ja allekirjoitettu lupa tällaisen pyynnön lähettämiseen puolestasi."
+    },
+    {
+      "id": 301,
+      "text": "Muutoksenhaut"
+    },
+    {
+      "id": 302,
+      "text": "Tiettyjen Yhdysvaltain osavaltioiden tietosuojalakien nojalla, jos kieltäydymme ryhtymästä toimiin pyyntösi osalta, voit hakea muutosta päätökseemme lähettämällä meille sähköpostia osoitteeseen "
+    },
+    {
+      "id": 303,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 304,
+      "text": ". Ilmoitamme sinulle kirjallisesti kaikista muutoksenhaun johdosta tehdyistä tai tekemättä jätetyistä toimista, mukaan lukien kirjallinen selitys päätösten syistä. Jos muutoksenhakusi hylätään, voit tehdä valituksen osavaltiosi oikeuskanslerille."
+    },
+    {
+      "id": 305,
+      "text": "Kalifornian &quot;Shine The Light&quot; -laki"
+    },
+    {
+      "id": 306,
+      "text": "Kalifornian siviililain pykälä 1798.83, joka tunnetaan myös nimellä &quot;Shine The Light&quot; -laki, sallii käyttäjiemme, jotka ovat Kalifornian asukkaita, pyytää ja saada meiltä kerran vuodessa ja maksutta tietoja henkilötietojen luokista (jos sellaisia on), jotka paljastimme kolmansille osapuolille suoramarkkinointitarkoituksiin, sekä kaikkien kolmansien osapuolten nimet ja osoitteet, joiden kanssa jaoimme henkilötietoja välittömästi edeltävänä kalenterivuonna. Jos olet Kalifornian asukas ja haluat tehdä tällaisen pyynnön, lähetä pyyntösi kirjallisesti meille käyttämällä kohdassa &quot;"
+    },
+    {
+      "id": 307,
+      "text": "MITEN VOIT OTTAA MEIHIIN YHTEYTTÄ TÄSTÄ ILMOITUKSESTA?"
+    },
+    {
+      "id": 308,
+      "text": "&quot; annettuja yhteystietoja."
+    },
+    {
+      "id": 309,
+      "text": "13. PÄIVITÄMMEKÖ TÄTÄ ILMOITUSTA?"
+    },
+    {
+      "id": 310,
+      "text": "Lyhyesti: Kyllä, päivitämme tätä ilmoitusta tarvittaessa pysyäksemme asiaankuuluvien lakien mukaisina."
+    },
+    {
+      "id": 311,
+      "text": "Voimme päivittää tätä tietosuojailmoitusta ajoittain. Päivitetty versio ilmoitetaan päivitetyllä &quot;Tarkistettu&quot; -päivämäärällä tämän tietosuojailmoituksen yläosassa. Jos teemme olennaisia muutoksia tähän tietosuojailmoitukseen, voimme ilmoittaa sinulle joko julkaisemalla tällaisista muutoksista näkyvän ilmoituksen tai lähettämällä sinulle suoraan ilmoituksen. Kehotamme sinua tutustumaan tähän tietosuojailmoitukseen usein pysyäksesi ajan tasalla siitä, miten suojaamme tietojasi."
+    },
+    {
+      "id": 312,
+      "text": "14. MITEN VOIT OTTAA MEIHIIN YHTEYTTÄ TÄSTÄ ILMOITUKSESTA?"
+    },
+    {
+      "id": 313,
+      "text": "Jos sinulla on kysymyksiä tai kommentteja tästä ilmoituksesta, voit ottaa yhteyttä tietosuojavastaavaamme (DPO) sähköpostitse osoitteessa "
+    },
+    {
+      "id": 314,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 315,
+      "text": ", tai ottaa meihin yhteyttä postitse osoitteeseen:"
+    },
+    {
+      "id": 316,
+      "text": "Tava Labs, LLC"
+    },
+    {
+      "id": 317,
+      "text": "Tietosuojavastaava"
+    },
+    {
+      "id": 318,
+      "text": "1521 Blake St STE 95593"
+    },
+    {
+      "id": 319,
+      "text": "Denver, CO 80202"
+    },
+    {
+      "id": 320,
+      "text": "United States"
+    },
+    {
+      "id": 321,
+      "text": "15. MITEN VOIT TARKASTAA, PÄIVITTÄÄ TAI POISTAA KERÄÄMÄMME TIEDOT?"
+    },
+    {
+      "id": 322,
+      "text": "Maasi tai Yhdysvalloissa sijaitsevan asuinpaikkasi osavaltion sovellettavien lakien perusteella sinulla voi olla oikeus pyytää pääsyä sinulta keräämiimme henkilötietoihin, tietoja siitä, miten olemme käsitelleet niitä, korjata epätarkkuuksia tai poistaa henkilötietosi. Sinulla voi myös olla oikeus peruuttaa suostumuksesi henkilötietojesi käsittelyyn. Sovellettava laki voi rajoittaa näitä oikeuksia joissakin olosuhteissa. Pyytääksesi henkilötietojesi tarkastamista, päivittämistä tai poistamista vieraile osoitteessa: "
+    },
+    {
+      "id": 323,
+      "text": "http://www.tavalabs.app/request-personal-information"
+    },
+    {
+      "id": 324,
+      "text": "."
+    },
+    {
+      "id": 325,
+      "text": "Tämä tietosuojakäytäntö on luotu Termlyn "
+    },
+    {
+      "id": 326,
+      "text": "Tietosuojakäytännön luontityökalulla"
+    },
+    {
+      "id": 327,
+      "text": "."
+    }
+  ]
+}

@@ -1,0 +1,1319 @@
+{
+ "slug": "privacy",
+ "title": "Adatvédelmi szabályzat | Tava Labs",
+ "description": "Hogyan gyűjti, használja és védi a Tava Labs az Ön információit, amikor felkeresi a tavalabs.app oldalt, elvégzi a bőrkvízt vagy megrendeli a PDRN Brightening Serum terméket.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "Jogi"
+  },
+  {
+   "id": 1,
+   "text": "Adatvédelmi szabályzat"
+  },
+  {
+   "id": 2,
+   "text": "Utolsó frissítés: 2026. november 05."
+  },
+  {
+   "id": 3,
+   "text": "A Tava Labs, LLC (amely Tava néven folytat tevékenységet) (&quot;mi&quot;, &quot;minket&quot; vagy &quot;miénk&quot;) jelen Adatvédelmi tájékoztatója leírja, hogyan és miért férhetünk hozzá, gyűjthetünk, tárolhatunk, használhatunk és/vagy oszthatunk meg (&quot;kezelhetünk&quot;) személyes információkat, amikor Ön szolgáltatásainkat (&quot;Szolgáltatások&quot;) használja, beleértve, amikor Ön:"
+  },
+  {
+   "id": 4,
+   "text": "Felkeresi weboldalunkat a "
+  },
+  {
+   "id": 5,
+   "text": "http://www.tavalabs.app"
+  },
+  {
+   "id": 6,
+   "text": " címen, vagy bármely olyan weboldalunkat, amely erre az Adatvédelmi tájékoztatóra mutat"
+  },
+  {
+   "id": 7,
+   "text": "Használja a Founder Wellness Score szolgáltatást. Egy wellness platform alapítók és vezetők számára stresszük, alvásuk és megjelenésük mérésére, hogy kiegészítőkre vonatkozó ajánlásokat és vényköteles peptideket kapjanak."
+  },
+  {
+   "id": 8,
+   "text": "Más kapcsolódó módon lép kapcsolatba velünk, beleértve minden marketinget vagy eseményt"
+  },
+  {
+   "id": 9,
+   "text": "Kérdések vagy aggályok?"
+  },
+  {
+   "id": 10,
+   "text": " Ennek az Adatvédelmi tájékoztatónak az elolvasása segít megérteni adatvédelmi jogait és választásait. Mi vagyunk felelősek azért, hogy döntéseket hozzunk arról, hogyan kezeljük személyes információit. Ha nem ért egyet szabályzatainkkal és gyakorlatainkkal, kérjük, ne használja Szolgáltatásainkat. Ha még mindig vannak kérdései vagy aggályai, kérjük, vegye fel velünk a kapcsolatot a "
+  },
+  {
+   "id": 11,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 12,
+   "text": " címen."
+  },
+  {
+   "id": 13,
+   "text": "A LEGFONTOSABB PONTOK ÖSSZEFOGLALÁSA"
+  },
+  {
+   "id": 14,
+   "text": "Ez az összefoglaló a legfontosabb pontokat tartalmazza Adatvédelmi tájékoztatónkból, de bármelyik témáról több részletet is megtudhat, ha az egyes kulcspontokat követő linkre kattint, vagy használja az alábbi "
+  },
+  {
+   "id": 15,
+   "text": "tartalomjegyzéket"
+  },
+  {
+   "id": 16,
+   "text": ", hogy megtalálja a keresett szakaszt."
+  },
+  {
+   "id": 17,
+   "text": "Milyen személyes információkat kezelünk?"
+  },
+  {
+   "id": 18,
+   "text": " Amikor felkeresi, használja vagy navigál Szolgáltatásainkon, személyes információkat kezelhetünk attól függően, hogyan lép kapcsolatba velünk és a Szolgáltatásokkal, milyen választásokat hoz, és milyen termékeket és funkciókat használ. Tudjon meg többet arról, milyen "
+  },
+  {
+   "id": 19,
+   "text": "személyes információkat ad meg nekünk"
+  },
+  {
+   "id": 20,
+   "text": "."
+  },
+  {
+   "id": 21,
+   "text": "Kezelünk érzékeny személyes információkat?"
+  },
+  {
+   "id": 22,
+   "text": " Egyes információk bizonyos joghatóságokban &quot;különlegesnek&quot; vagy &quot;érzékenynek&quot; minősülhetnek, például az Ön faji vagy etnikai származása, szexuális irányultsága és vallási meggyőződése. Érzékeny személyes információkat akkor kezelhetünk, amikor szükséges, az Ön hozzájárulásával, vagy ahogy azt az alkalmazandó jog másként megengedi. Tudjon meg többet arról, milyen "
+  },
+  {
+   "id": 23,
+   "text": "érzékeny információkat kezelünk"
+  },
+  {
+   "id": 24,
+   "text": "."
+  },
+  {
+   "id": 25,
+   "text": "Gyűjtünk információkat harmadik felektől?"
+  },
+  {
+   "id": 26,
+   "text": " Nem gyűjtünk semmilyen információt harmadik felektől."
+  },
+  {
+   "id": 27,
+   "text": "Hogyan kezeljük az Ön információit?"
+  },
+  {
+   "id": 28,
+   "text": " Információit azért kezeljük, hogy Szolgáltatásainkat nyújtsuk, javítsuk és adminisztráljuk, kommunikáljunk Önnel, a biztonság és a csalás megelőzése érdekében, valamint a jogszabályoknak való megfelelés érdekében. Információit más célokra is kezelhetjük az Ön hozzájárulásával. Információit csak akkor kezeljük, ha erre érvényes jogi okunk van. Tudjon meg többet arról, "
+  },
+  {
+   "id": 29,
+   "text": "hogyan kezeljük az Ön információit"
+  },
+  {
+   "id": 30,
+   "text": "."
+  },
+  {
+   "id": 31,
+   "text": "Milyen helyzetekben és mely felekkel osztunk meg személyes információkat?"
+  },
+  {
+   "id": 32,
+   "text": " Információkat meghatározott helyzetekben és meghatározott harmadik felekkel oszthatunk meg. Tudjon meg többet arról, "
+  },
+  {
+   "id": 33,
+   "text": "mikor és kivel osztjuk meg személyes információit"
+  },
+  {
+   "id": 34,
+   "text": "."
+  },
+  {
+   "id": 35,
+   "text": "Hogyan tartjuk biztonságban az Ön információit?"
+  },
+  {
+   "id": 36,
+   "text": " Megfelelő szervezeti és technikai folyamatok és eljárások vannak érvényben személyes információi védelmére. Azonban az interneten keresztüli elektronikus továbbítás vagy információtárolási technológia sem garantálható 100%-os biztonságúnak, így nem ígérhetjük vagy garantálhatjuk, hogy hackerek, kiberbűnözők vagy más jogosulatlan harmadik felek ne tudnák legyőzni biztonságunkat, és ne tudnák helytelenül gyűjteni, elérni, ellopni vagy módosítani az Ön információit. Tudjon meg többet arról, "
+  },
+  {
+   "id": 37,
+   "text": "hogyan tartjuk biztonságban az Ön információit"
+  },
+  {
+   "id": 38,
+   "text": "."
+  },
+  {
+   "id": 39,
+   "text": "Mik az Ön jogai?"
+  },
+  {
+   "id": 40,
+   "text": " Attól függően, hogy földrajzilag hol található, az alkalmazandó adatvédelmi törvény azt jelentheti, hogy bizonyos jogai vannak személyes információira vonatkozóan. Tudjon meg többet az "
+  },
+  {
+   "id": 41,
+   "text": "Ön adatvédelmi jogairól"
+  },
+  {
+   "id": 42,
+   "text": "."
+  },
+  {
+   "id": 43,
+   "text": "Hogyan gyakorolhatja jogait?"
+  },
+  {
+   "id": 44,
+   "text": " Jogai gyakorlásának legegyszerűbb módja, ha felkeresi a "
+  },
+  {
+   "id": 45,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 46,
+   "text": " oldalt, vagy kapcsolatba lép velünk. Minden kérelmet az alkalmazandó adatvédelmi törvényeknek megfelelően megfontolunk és az alapján járunk el."
+  },
+  {
+   "id": 47,
+   "text": "Szeretne többet megtudni arról, mit teszünk minden általunk gyűjtött információval? "
+  },
+  {
+   "id": 48,
+   "text": "Tekintse át az Adatvédelmi tájékoztatót teljes egészében"
+  },
+  {
+   "id": 49,
+   "text": "."
+  },
+  {
+   "id": 50,
+   "text": "TARTALOMJEGYZÉK"
+  },
+  {
+   "id": 51,
+   "text": "1. MILYEN INFORMÁCIÓKAT GYŰJTÜNK?"
+  },
+  {
+   "id": 52,
+   "text": "2. HOGYAN KEZELJÜK AZ ÖN INFORMÁCIÓIT?"
+  },
+  {
+   "id": 53,
+   "text": "3. MIKOR ÉS KIVEL OSZTJUK MEG SZEMÉLYES INFORMÁCIÓIT?"
+  },
+  {
+   "id": 54,
+   "text": "4. HASZNÁLUNK SÜTIKET ÉS EGYÉB NYOMON KÖVETÉSI TECHNOLÓGIÁKAT?"
+  },
+  {
+   "id": 55,
+   "text": "5. KÍNÁLUNK MESTERSÉGES INTELLIGENCIÁN ALAPULÓ TERMÉKEKET?"
+  },
+  {
+   "id": 56,
+   "text": "6. HOGYAN KEZELJÜK AZ ÖN KÖZÖSSÉGI BEJELENTKEZÉSEIT?"
+  },
+  {
+   "id": 57,
+   "text": "7. MENNYI IDEIG ŐRIZZÜK MEG AZ ÖN INFORMÁCIÓIT?"
+  },
+  {
+   "id": 58,
+   "text": "8. HOGYAN TARTJUK BIZTONSÁGBAN AZ ÖN INFORMÁCIÓIT?"
+  },
+  {
+   "id": 59,
+   "text": "9. GYŰJTÜNK INFORMÁCIÓKAT KISKORÚAKTÓL?"
+  },
+  {
+   "id": 60,
+   "text": "10. MIK AZ ÖN ADATVÉDELMI JOGAI?"
+  },
+  {
+   "id": 61,
+   "text": "11. A DO-NOT-TRACK FUNKCIÓK VEZÉRLÉSE"
+  },
+  {
+   "id": 62,
+   "text": "12. RENDELKEZNEK AZ EGYESÜLT ÁLLAMOK LAKOSAI MEGHATÁROZOTT ADATVÉDELMI JOGOKKAL?"
+  },
+  {
+   "id": 63,
+   "text": "13. FRISSÍTJÜK EZT A TÁJÉKOZTATÓT?"
+  },
+  {
+   "id": 64,
+   "text": "14. HOGYAN LÉPHET KAPCSOLATBA VELÜNK ERRŐL A TÁJÉKOZTATÓRÓL?"
+  },
+  {
+   "id": 65,
+   "text": "15. HOGYAN TEKINTHETI ÁT, FRISSÍTHETI VAGY TÖRÖLHETI AZ ÖNTŐL GYŰJTÖTT ADATOKAT?"
+  },
+  {
+   "id": 66,
+   "text": "1. MILYEN INFORMÁCIÓKAT GYŰJTÜNK?"
+  },
+  {
+   "id": 67,
+   "text": "Személyes információk, amelyeket megad nekünk"
+  },
+  {
+   "id": 68,
+   "text": "Röviden: Olyan személyes információkat gyűjtünk, amelyeket Ön ad meg nekünk."
+  },
+  {
+   "id": 69,
+   "text": "Olyan személyes információkat gyűjtünk, amelyeket Ön önként ad meg nekünk, amikor regisztrál a Szolgáltatásokra, érdeklődést fejez ki rólunk vagy termékeinkről és Szolgáltatásainkról szóló információk megszerzése iránt, amikor tevékenységekben vesz részt a Szolgáltatásokon, vagy más módon, amikor kapcsolatba lép velünk."
+  },
+  {
+   "id": 70,
+   "text": "Ön által megadott személyes információk."
+  },
+  {
+   "id": 71,
+   "text": " Az általunk gyűjtött személyes információk az Ön velünk és a Szolgáltatásokkal való interakcióinak kontextusától, az Ön választásaitól, valamint az Ön által használt termékektől és funkcióktól függenek. Az általunk gyűjtött személyes információk a következőket tartalmazhatják:"
+  },
+  {
+   "id": 72,
+   "text": "nevek"
+  },
+  {
+   "id": 73,
+   "text": "e-mail címek"
+  },
+  {
+   "id": 74,
+   "text": "jelszavak"
+  },
+  {
+   "id": 75,
+   "text": "számlázási címek"
+  },
+  {
+   "id": 76,
+   "text": "bankkártya/hitelkártya számok"
+  },
+  {
+   "id": 77,
+   "text": "Érzékeny információk."
+  },
+  {
+   "id": 78,
+   "text": " Szükség esetén, az Ön hozzájárulásával, vagy ahogy azt az alkalmazandó jog másként megengedi, az érzékeny információk következő kategóriáit kezeljük:"
+  },
+  {
+   "id": 79,
+   "text": "egészségügyi adatok"
+  },
+  {
+   "id": 80,
+   "text": "Fizetési adatok."
+  },
+  {
+   "id": 81,
+   "text": " Gyűjthetünk a fizetése feldolgozásához szükséges adatokat, ha vásárlás mellett dönt, például a fizetési eszközének számát, és a fizetési eszközéhez kapcsolódó biztonsági kódot. Minden fizetési adatot a Stripe, Inc. kezel és tárol. Adatvédelmi tájékoztatójuk linkje(i) itt található(k): "
+  },
+  {
+   "id": 82,
+   "text": "https://stripe.com/privacy-policy"
+  },
+  {
+   "id": 83,
+   "text": "."
+  },
+  {
+   "id": 84,
+   "text": "Közösségi média bejelentkezési adatok."
+  },
+  {
+   "id": 85,
+   "text": " Lehetőséget adhatunk Önnek arra, hogy meglévő közösségi média fiókadataival, például Facebook, X vagy más közösségi média fiókjával regisztráljon nálunk. Ha úgy dönt, hogy ilyen módon regisztrál, bizonyos profilinformációkat gyűjtünk Önről a közösségi média szolgáltatótól, ahogy azt a &quot;"
+  },
+  {
+   "id": 86,
+   "text": "HOGYAN KEZELJÜK AZ ÖN KÖZÖSSÉGI BEJELENTKEZÉSEIT?"
+  },
+  {
+   "id": 87,
+   "text": "&quot; című szakasz leírja alább."
+  },
+  {
+   "id": 88,
+   "text": "Minden személyes információnak, amelyet nekünk megad, igaznak, teljesnek és pontosnak kell lennie, és értesítenie kell minket az ilyen személyes információk minden változásáról."
+  },
+  {
+   "id": 89,
+   "text": "Automatikusan gyűjtött információk"
+  },
+  {
+   "id": 90,
+   "text": "Röviden: Egyes információk, például az Ön Internet Protocol (IP) címe és/vagy böngésző- és eszközjellemzői, automatikusan gyűjtésre kerülnek, amikor felkeresi Szolgáltatásainkat."
+  },
+  {
+   "id": 91,
+   "text": "Automatikusan gyűjtünk bizonyos információkat, amikor felkeresi, használja vagy navigál a Szolgáltatásokon. Ezek az információk nem fedik fel az Ön konkrét személyazonosságát (például nevét vagy elérhetőségeit), de tartalmazhatnak eszköz- és használati információkat, például az Ön IP-címét, böngésző- és eszközjellemzőit, operációs rendszerét, nyelvi beállításait, hivatkozó URL-jeit, eszköznevét, országát, helyét, információkat arról, hogyan és mikor használja Szolgáltatásainkat, valamint egyéb technikai információkat. Ezekre az információkra elsősorban Szolgáltatásaink biztonságának és működésének fenntartásához, valamint belső elemzési és jelentési céljainkhoz van szükség."
+  },
+  {
+   "id": 92,
+   "text": "Az általunk gyűjtött információk a következőket tartalmazzák:"
+  },
+  {
+   "id": 93,
+   "text": "Napló- és használati adatok."
+  },
+  {
+   "id": 94,
+   "text": " A napló- és használati adatok szolgáltatással kapcsolatos, diagnosztikai, használati és teljesítményinformációk, amelyeket szervereink automatikusan gyűjtenek, amikor hozzáfér Szolgáltatásainkhoz vagy használja azokat, és amelyeket naplófájlokban rögzítünk. Attól függően, hogyan lép kapcsolatba velünk, ezek a naplóadatok tartalmazhatják az Ön IP-címét, eszközinformációit, böngészőtípusát, valamint a Szolgáltatásokban végzett tevékenységére vonatkozó beállításokat és információkat (például a használatához kapcsolódó dátum/idő bélyegzőket, a megtekintett oldalakat és fájlokat, kereséseket és egyéb Ön által végzett műveleteket, például hogy mely funkciókat használja), eszközesemény-információkat (például rendszertevékenységet, hibajelentéseket (amelyeket néha &quot;crash dump&quot;-nak neveznek) és hardverbeállításokat)."
+  },
+  {
+   "id": 95,
+   "text": "Eszközadatok."
+  },
+  {
+   "id": 96,
+   "text": " Olyan eszközadatokat gyűjtünk, mint például az Ön számítógépére, telefonjára, táblagépére vagy más, a Szolgáltatások eléréséhez használt eszközére vonatkozó információk. A használt eszköztől függően ezek az eszközadatok tartalmazhatnak olyan információkat, mint az Ön IP-címe (vagy proxy szervere), eszköz- és alkalmazásazonosító számok, hely, böngészőtípus, hardvermodell, internetszolgáltató és/vagy mobilszolgáltató, operációs rendszer és rendszerkonfigurációs információk."
+  },
+  {
+   "id": 97,
+   "text": "Helymeghatározási adatok."
+  },
+  {
+   "id": 98,
+   "text": " Olyan helymeghatározási adatokat gyűjtünk, mint például az Ön eszközének helyére vonatkozó információk, amelyek lehetnek pontosak vagy pontatlanok. Az, hogy mennyi információt gyűjtünk, attól függ, milyen típusú és beállítású eszközt használ a Szolgáltatások eléréséhez. Például használhatunk GPS-t és más technológiákat földrajzi helymeghatározási adatok gyűjtésére, amelyek megmondják nekünk az Ön aktuális helyét (az Ön IP-címe alapján). Ön letilthatja, hogy gyűjtsük ezeket az információkat, akár az információkhoz való hozzáférés megtagadásával, akár eszköze Hely beállításának letiltásával. Ha azonban úgy dönt, hogy letiltja, előfordulhat, hogy nem tudja használni a Szolgáltatások bizonyos aspektusait."
+  },
+  {
+   "id": 99,
+   "text": "2. HOGYAN KEZELJÜK AZ ÖN INFORMÁCIÓIT?"
+  },
+  {
+   "id": 100,
+   "text": "Röviden: Információit azért kezeljük, hogy Szolgáltatásainkat nyújtsuk, javítsuk és adminisztráljuk, kommunikáljunk Önnel, a biztonság és a csalás megelőzése érdekében, valamint a jogszabályoknak való megfelelés érdekében. Információit más célokra is kezelhetjük az Ön hozzájárulásával."
+  },
+  {
+   "id": 101,
+   "text": "Személyes információit többféle okból kezeljük, attól függően, hogyan lép kapcsolatba Szolgáltatásainkkal, beleértve:"
+  },
+  {
+   "id": 102,
+   "text": "A fióklétrehozás és hitelesítés megkönnyítése, valamint a felhasználói fiókok egyéb kezelése."
+  },
+  {
+   "id": 103,
+   "text": " Kezelhetjük információit, hogy létrehozhassa és bejelentkezhessen fiókjába, valamint hogy fiókját működőképes állapotban tartsa."
+  },
+  {
+   "id": 104,
+   "text": "Szolgáltatások felhasználónak történő nyújtásának és annak megkönnyítése."
+  },
+  {
+   "id": 105,
+   "text": " Kezelhetjük információit, hogy nyújtsuk Önnek a kért szolgáltatást."
+  },
+  {
+   "id": 106,
+   "text": "Felhasználói megkeresések megválaszolása/támogatás nyújtása a felhasználóknak."
+  },
+  {
+   "id": 107,
+   "text": " Kezelhetjük információit, hogy válaszoljunk megkereséseire, és megoldjunk minden esetleges problémát, amely a kért szolgáltatással kapcsolatban felmerülhet."
+  },
+  {
+   "id": 108,
+   "text": "Adminisztratív információk küldése Önnek."
+  },
+  {
+   "id": 109,
+   "text": " Kezelhetjük információit, hogy részleteket küldjünk Önnek termékeinkről és szolgáltatásainkról, feltételeink és szabályzataink változásairól, valamint egyéb hasonló információkat."
+  },
+  {
+   "id": 110,
+   "text": "Rendelései teljesítése és kezelése."
+  },
+  {
+   "id": 111,
+   "text": " Kezelhetjük információit a Szolgáltatásokon keresztül leadott rendelései, fizetései, visszaküldései és cseréi teljesítésére és kezelésére."
+  },
+  {
+   "id": 112,
+   "text": "Visszajelzés kérése."
+  },
+  {
+   "id": 113,
+   "text": " Kezelhetjük információit, amikor szükséges visszajelzést kérni, és kapcsolatba lépni Önnel Szolgáltatásaink használatáról."
+  },
+  {
+   "id": 114,
+   "text": "Vélemények közzététele."
+  },
+  {
+   "id": 115,
+   "text": " Véleményeket teszünk közzé Szolgáltatásainkon, amelyek személyes információkat tartalmazhatnak."
+  },
+  {
+   "id": 116,
+   "text": "Szolgáltatásaink, termékeink, marketingünk és az Ön élményének értékelése és javítása."
+  },
+  {
+   "id": 117,
+   "text": " Kezelhetjük információit, amikor úgy véljük, hogy szükséges a használati trendek azonosításához, promóciós kampányaink hatékonyságának meghatározásához, valamint Szolgáltatásaink, termékeink, marketingünk és az Ön élményének értékeléséhez és javításához."
+  },
+  {
+   "id": 118,
+   "text": "Használati trendek azonosítása."
+  },
+  {
+   "id": 119,
+   "text": " Kezelhetünk információkat arról, hogyan használja Szolgáltatásainkat, hogy jobban megértsük, hogyan használják azokat, és javíthassuk őket."
+  },
+  {
+   "id": 120,
+   "text": "3. MIKOR ÉS KIVEL OSZTJUK MEG SZEMÉLYES INFORMÁCIÓIT?"
+  },
+  {
+   "id": 121,
+   "text": "Röviden: Információkat az ebben a szakaszban leírt meghatározott helyzetekben és/vagy a következő harmadik felekkel oszthatunk meg."
+  },
+  {
+   "id": 122,
+   "text": "Előfordulhat, hogy személyes információit a következő helyzetekben kell megosztanunk:"
+  },
+  {
+   "id": 123,
+   "text": "Üzleti átruházások."
+  },
+  {
+   "id": 124,
+   "text": " Megoszthatjuk vagy átruházhatjuk információit bármely egyesüléssel, vállalati eszközök értékesítésével, finanszírozással, vagy vállalkozásunk egészének vagy egy részének egy másik vállalat általi felvásárlásával kapcsolatban, vagy az azokról folytatott tárgyalások során."
+  },
+  {
+   "id": 125,
+   "text": "Üzleti partnerek."
+  },
+  {
+   "id": 126,
+   "text": " Megoszthatjuk információit üzleti partnereinkkel, hogy bizonyos termékeket, szolgáltatásokat vagy promóciókat kínáljunk Önnek."
+  },
+  {
+   "id": 127,
+   "text": "4. HASZNÁLUNK SÜTIKET ÉS EGYÉB NYOMON KÖVETÉSI TECHNOLÓGIÁKAT?"
+  },
+  {
+   "id": 128,
+   "text": "Röviden: Használhatunk sütiket és egyéb nyomon követési technológiákat az Ön információinak gyűjtésére és tárolására."
+  },
+  {
+   "id": 129,
+   "text": "Használhatunk sütiket és hasonló nyomon követési technológiákat (például webjelzőket és képpontokat) információk gyűjtésére, amikor Ön interakcióba lép Szolgáltatásainkkal. Egyes online nyomon követési technológiák segítenek fenntartani Szolgáltatásaink és fiókja biztonságát, megelőzni az összeomlásokat, javítani a hibákat, elmenteni beállításait, és segíteni az alapvető weboldalfunkciókban."
+  },
+  {
+   "id": 130,
+   "text": "Harmadik feleknek és szolgáltatóknak is engedélyezzük, hogy online nyomon követési technológiákat használjanak Szolgáltatásainkon elemzés és hirdetés céljából, beleértve a hirdetések kezelésének és megjelenítésének segítését, vagy a hirdetések az Ön érdeklődéséhez igazítását. A harmadik felek és szolgáltatók technológiájukat arra használják, hogy az Ön érdeklődéséhez szabott termékekről és szolgáltatásokról nyújtsanak hirdetést, amelyek akár a mi Szolgáltatásainkon, akár más weboldalakon megjelenhetnek."
+  },
+  {
+   "id": 131,
+   "text": "Amennyiben ezeket az online nyomon követési technológiákat az alkalmazandó amerikai állami törvények szerint &quot;értékesítésnek&quot;/&quot;megosztásnak&quot; tekintik (amely magában foglalja a célzott hirdetést, az alkalmazandó törvények meghatározása szerint), Ön letilthatja ezeket az online nyomon követési technológiákat, ha kérelmet nyújt be az alábbi, &quot;"
+  },
+  {
+   "id": 132,
+   "text": "RENDELKEZNEK AZ EGYESÜLT ÁLLAMOK LAKOSAI MEGHATÁROZOTT ADATVÉDELMI JOGOKKAL?"
+  },
+  {
+   "id": 133,
+   "text": "&quot; című szakaszban leírtak szerint."
+  },
+  {
+   "id": 134,
+   "text": "Az ilyen technológiák használatáról és arról, hogyan utasíthat el bizonyos sütiket, konkrét információkat a Sütitájékoztatónk tartalmaz."
+  },
+  {
+   "id": 135,
+   "text": "Google Analytics"
+  },
+  {
+   "id": 136,
+   "text": "Megoszthatjuk információit a Google Analytics szolgáltatással a Szolgáltatások használatának nyomon követése és elemzése érdekében. Az általunk használható Google Analytics hirdetési funkciók a következők: Google Display Network megjelenési jelentés és Google Analytics demográfiai és érdeklődési jelentés. Ha le szeretné tiltani, hogy a Google Analytics a Szolgáltatásokon keresztül nyomon kövesse, keresse fel a "
+  },
+  {
+   "id": 137,
+   "text": "https://tools.google.com/dlpage/gaoptout"
+  },
+  {
+   "id": 138,
+   "text": " oldalt. A Google Analytics hirdetési funkciókat letilthatja a "
+  },
+  {
+   "id": 139,
+   "text": "Hirdetésbeállításokon"
+  },
+  {
+   "id": 140,
+   "text": " és a mobilalkalmazások Hirdetésbeállításain keresztül. Egyéb letiltási lehetőségek közé tartozik a "
+  },
+  {
+   "id": 141,
+   "text": "http://optout.networkadvertising.org/"
+  },
+  {
+   "id": 142,
+   "text": " és a "
+  },
+  {
+   "id": 143,
+   "text": "http://www.networkadvertising.org/mobile-choice"
+  },
+  {
+   "id": 144,
+   "text": ". A Google adatvédelmi gyakorlatairól további információt a "
+  },
+  {
+   "id": 145,
+   "text": "Google Adatvédelem &amp; feltételek oldalon"
+  },
+  {
+   "id": 146,
+   "text": " talál."
+  },
+  {
+   "id": 147,
+   "text": "5. KÍNÁLUNK MESTERSÉGES INTELLIGENCIÁN ALAPULÓ TERMÉKEKET?"
+  },
+  {
+   "id": 148,
+   "text": "Röviden: Mesterséges intelligencia, gépi tanulás vagy hasonló technológiák által működtetett termékeket, funkciókat vagy eszközöket kínálunk."
+  },
+  {
+   "id": 149,
+   "text": "Szolgáltatásaink részeként mesterséges intelligencia, gépi tanulás vagy hasonló technológiák által működtetett termékeket, funkciókat vagy eszközöket kínálunk (együttesen &quot;AI termékek&quot;). Ezeket az eszközöket arra terveztük, hogy javítsák az Ön élményét, és innovatív megoldásokat nyújtsanak Önnek. A jelen Adatvédelmi tájékoztató feltételei szabályozzák az AI termékek Szolgáltatásainkon belüli használatát."
+  },
+  {
+   "id": 150,
+   "text": "AI technológiák használata"
+  },
+  {
+   "id": 151,
+   "text": "Az AI termékeket harmadik fél szolgáltatókon (&quot;AI szolgáltatók&quot;) keresztül nyújtjuk, beleértve az OpenAI-t. Ahogy azt ez az Adatvédelmi tájékoztató körvonalazza, az Ön bevitele, kimenete és személyes információi megosztásra és kezelésre kerülnek ezekkel az AI szolgáltatókkal, hogy lehetővé tegyék az AI termékeink használatát a &quot;"
+  },
+  {
+   "id": 152,
+   "text": "MIKOR ÉS KIVEL OSZTJUK MEG SZEMÉLYES INFORMÁCIÓIT?"
+  },
+  {
+   "id": 153,
+   "text": "&quot; szakaszban körvonalazott célokra. Az AI termékeket nem használhatja olyan módon, amely sérti bármely AI szolgáltató feltételeit vagy szabályzatait."
+  },
+  {
+   "id": 154,
+   "text": "AI termékeink"
+  },
+  {
+   "id": 155,
+   "text": "AI termékeinket a következő funkciókra terveztük:"
+  },
+  {
+   "id": 156,
+   "text": "AI betekintések"
+  },
+  {
+   "id": 157,
+   "text": "Hogyan kezeljük adatait AI segítségével"
+  },
+  {
+   "id": 158,
+   "text": "Az AI termékeink segítségével kezelt minden személyes információt Adatvédelmi tájékoztatónkkal és harmadik felekkel kötött megállapodásunkkal összhangban kezelünk. Ez magas szintű biztonságot biztosít, és a folyamat során végig védi személyes információit, nyugalmat adva Önnek adatai biztonságát illetően."
+  },
+  {
+   "id": 159,
+   "text": "6. HOGYAN KEZELJÜK AZ ÖN KÖZÖSSÉGI BEJELENTKEZÉSEIT?"
+  },
+  {
+   "id": 160,
+   "text": "Röviden: Ha úgy dönt, hogy közösségi média fiókkal regisztrál vagy jelentkezik be Szolgáltatásainkba, hozzáférhetünk bizonyos információkhoz Önről."
+  },
+  {
+   "id": 161,
+   "text": "Szolgáltatásaink lehetőséget kínálnak arra, hogy harmadik fél közösségi média fiókadataival regisztráljon és jelentkezzen be (például Facebook vagy X bejelentkezéseivel). Ahol úgy dönt, hogy ezt teszi, bizonyos profilinformációkat kapunk Önről közösségi média szolgáltatójától. A kapott profilinformációk az érintett közösségi média szolgáltatótól függően változhatnak, de gyakran tartalmazzák az Ön nevét, e-mail címét, barátlistáját és profilképét, valamint egyéb információkat, amelyeket úgy dönt, hogy nyilvánossá tesz egy ilyen közösségi média platformon."
+  },
+  {
+   "id": 162,
+   "text": "A kapott információkat csak azokra a célokra használjuk, amelyeket ez az Adatvédelmi tájékoztató leír, vagy amelyeket más módon egyértelművé teszünk Önnek az érintett Szolgáltatásokon. Felhívjuk figyelmét, hogy nem irányítjuk, és nem vagyunk felelősek azért, ahogyan harmadik fél közösségi média szolgáltatója más módon használja az Ön személyes információit. Javasoljuk, hogy tekintse át adatvédelmi tájékoztatójukat, hogy megértse, hogyan gyűjtik, használják és osztják meg személyes információit, és hogyan állíthatja be adatvédelmi beállításait weboldalaikon és alkalmazásaikban."
+  },
+  {
+   "id": 163,
+   "text": "7. MENNYI IDEIG ŐRIZZÜK MEG AZ ÖN INFORMÁCIÓIT?"
+  },
+  {
+   "id": 164,
+   "text": "Röviden: Információit addig őrizzük meg, ameddig az ebben az Adatvédelmi tájékoztatóban körvonalazott célok teljesítéséhez szükséges, kivéve, ha a törvény másként írja elő."
+  },
+  {
+   "id": 165,
+   "text": "Személyes információit csak addig őrizzük meg, ameddig az ebben az Adatvédelmi tájékoztatóban meghatározott célokhoz szükséges, kivéve, ha hosszabb megőrzési időszakot ír elő vagy enged meg a törvény (például adózási, számviteli vagy egyéb jogi követelmények). Ebben a tájékoztatóban semmilyen cél nem követeli meg tőlünk, hogy személyes információit hosszabb ideig őrizzük meg, mint ameddig a felhasználóknak fiókjuk van nálunk."
+  },
+  {
+   "id": 166,
+   "text": "Amikor nincs folyamatos jogos üzleti szükségünk személyes információi kezelésére, vagy töröljük, vagy anonimizáljuk az ilyen információkat, vagy, ha ez nem lehetséges (például mert személyes információit biztonsági mentési archívumokban tárolták), akkor biztonságosan tároljuk személyes információit, és elkülönítjük azokat minden további kezeléstől, amíg a törlés lehetővé nem válik."
+  },
+  {
+   "id": 167,
+   "text": "8. HOGYAN TARTJUK BIZTONSÁGBAN AZ ÖN INFORMÁCIÓIT?"
+  },
+  {
+   "id": 168,
+   "text": "Röviden: Célunk, hogy személyes információit szervezeti és technikai biztonsági intézkedések rendszerén keresztül védjük."
+  },
+  {
+   "id": 169,
+   "text": "Megfelelő és észszerű technikai és szervezeti biztonsági intézkedéseket vezettünk be, amelyeket arra terveztünk, hogy megvédjék minden általunk kezelt személyes információ biztonságát. Azonban az információi védelmére tett óvintézkedéseink és erőfeszítéseink ellenére az interneten keresztüli elektronikus továbbítás vagy információtárolási technológia sem garantálható 100%-os biztonságúnak, így nem ígérhetjük vagy garantálhatjuk, hogy hackerek, kiberbűnözők vagy más jogosulatlan harmadik felek ne tudnák legyőzni biztonságunkat, és ne tudnák helytelenül gyűjteni, elérni, ellopni vagy módosítani az Ön információit. Bár mindent megteszünk személyes információi védelméért, a személyes információk Szolgáltatásaink felé és azokból történő továbbítása az Ön saját kockázatára történik. A Szolgáltatásokat csak biztonságos környezetben érje el."
+  },
+  {
+   "id": 170,
+   "text": "9. GYŰJTÜNK INFORMÁCIÓKAT KISKORÚAKTÓL?"
+  },
+  {
+   "id": 171,
+   "text": "Röviden: Tudatosan nem gyűjtünk adatokat 18 év alatti gyermekektől, és nem folytatunk feléjük marketinget."
+  },
+  {
+   "id": 172,
+   "text": "Tudatosan nem gyűjtünk, nem kérünk adatokat 18 év alatti gyermekektől, és nem folytatunk feléjük marketinget, és tudatosan nem értékesítünk ilyen személyes információkat. A Szolgáltatások használatával Ön kijelenti, hogy legalább 18 éves, vagy hogy egy ilyen kiskorú szülője vagy gyámja, és hozzájárul az ilyen kiskorú eltartott Szolgáltatások használatához. Ha megtudjuk, hogy 18 év alatti felhasználóktól gyűjtöttek személyes információkat, deaktiváljuk a fiókot, és észszerű intézkedéseket teszünk az ilyen adatok nyilvántartásunkból történő gyors törlésére. Ha tudomására jut bármilyen adat, amelyet 18 év alatti gyermekektől gyűjthettünk, kérjük, vegye fel velünk a kapcsolatot a "
+  },
+  {
+   "id": 173,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 174,
+   "text": " címen."
+  },
+  {
+   "id": 175,
+   "text": "10. MIK AZ ÖN ADATVÉDELMI JOGAI?"
+  },
+  {
+   "id": 176,
+   "text": "Hozzájárulása visszavonása:"
+  },
+  {
+   "id": 177,
+   "text": " Ha hozzájárulására támaszkodunk személyes információi kezeléséhez, amely az alkalmazandó jogtól függően lehet kifejezett és/vagy hallgatólagos hozzájárulás, joga van hozzájárulását bármikor visszavonni. Hozzájárulását bármikor visszavonhatja, ha kapcsolatba lép velünk a &quot;"
+  },
+  {
+   "id": 178,
+   "text": "HOGYAN LÉPHET KAPCSOLATBA VELÜNK ERRŐL A TÁJÉKOZTATÓRÓL?"
+  },
+  {
+   "id": 179,
+   "text": "&quot; című szakaszban megadott elérhetőségeken keresztül, alább."
+  },
+  {
+   "id": 180,
+   "text": "Felhívjuk azonban figyelmét, hogy ez nem befolyásolja a visszavonás előtti kezelés jogszerűségét, és, amikor az alkalmazandó jog megengedi, nem befolyásolja személyes információinak olyan kezelését sem, amelyet a hozzájárulástól eltérő jogszerű kezelési alapokra támaszkodva végeznek."
+  },
+  {
+   "id": 181,
+   "text": "Fiókinformációk"
+  },
+  {
+   "id": 182,
+   "text": "Ha bármikor át szeretné tekinteni vagy meg szeretné változtatni fiókjában lévő információkat, vagy meg szeretné szüntetni fiókját, a következőket teheti:"
+  },
+  {
+   "id": 183,
+   "text": "Jelentkezzen be fiókbeállításaiba, és frissítse felhasználói fiókját."
+  },
+  {
+   "id": 184,
+   "text": "A fiókja megszüntetésére irányuló kérelme alapján deaktiváljuk vagy töröljük fiókját és információit aktív adatbázisainkból. Előfordulhat azonban, hogy bizonyos információkat megőrzünk fájljainkban a csalás megelőzése, problémák elhárítása, vizsgálatok segítése, jogi feltételeink érvényesítése és/vagy az alkalmazandó jogi követelményeknek való megfelelés érdekében."
+  },
+  {
+   "id": 185,
+   "text": "Ha kérdései vagy megjegyzései vannak adatvédelmi jogaival kapcsolatban, e-mailt írhat nekünk a "
+  },
+  {
+   "id": 186,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 187,
+   "text": " címre."
+  },
+  {
+   "id": 188,
+   "text": "11. A DO-NOT-TRACK FUNKCIÓK VEZÉRLÉSE"
+  },
+  {
+   "id": 189,
+   "text": "A legtöbb webböngésző és egyes mobil operációs rendszerek és mobilalkalmazások tartalmaznak egy Do-Not-Track (&quot;DNT&quot;) funkciót vagy beállítást, amelyet aktiválhat, hogy jelezze adatvédelmi preferenciáját, miszerint ne kövessék figyelemmel és ne gyűjtsék az online böngészési tevékenységeire vonatkozó adatokat. Ebben a szakaszban még nem véglegesítettek egységes technológiai szabványt a DNT jelek felismerésére és megvalósítására. Mint ilyenek, jelenleg nem reagálunk a DNT böngészőjelekre vagy bármely más olyan mechanizmusra, amely automatikusan közli az Ön választását, hogy ne kövessék online. Ha a jövőben olyan online nyomon követésre vonatkozó szabványt fogadnak el, amelyet követnünk kell, tájékoztatjuk Önt erről a gyakorlatról ennek az Adatvédelmi tájékoztatónak egy felülvizsgált változatában."
+  },
+  {
+   "id": 190,
+   "text": "A kaliforniai törvények megkövetelik tőlünk, hogy tudassuk Önnel, hogyan reagálunk a webböngésző DNT jeleire. Mivel jelenleg nincs iparági vagy jogi szabvány a DNT jelek felismerésére vagy tiszteletben tartására, jelenleg nem reagálunk rájuk."
+  },
+  {
+   "id": 191,
+   "text": "Global Privacy Control:"
+  },
+  {
+   "id": 192,
+   "text": " Felismerjük és tiszteletben tartjuk a Global Privacy Control (GPC) jeleket. Ha olyan böngészőt vagy bővítményt használ, amely támogatja a GPC-t, ezt érvényes kérelemként kezeljük arra, hogy az alkalmazandó állami adatvédelmi törvények, beleértve a California Consumer Privacy Act (CCPA) törvényt, alapján letiltsa személyes információinak célzott hirdetés céljából történő értékesítését vagy megosztását. Amikor GPC jelet észlelünk böngészőjéből, automatikusan alkalmazzuk letiltási preferenciáját anélkül, hogy Önnek bármilyen további lépést kellene tennie. A GPC-ről és annak engedélyezéséről további információt a "
+  },
+  {
+   "id": 193,
+   "text": "globalprivacycontrol.org"
+  },
+  {
+   "id": 194,
+   "text": " oldalon talál."
+  },
+  {
+   "id": 195,
+   "text": "12. RENDELKEZNEK AZ EGYESÜLT ÁLLAMOK LAKOSAI MEGHATÁROZOTT ADATVÉDELMI JOGOKKAL?"
+  },
+  {
+   "id": 196,
+   "text": "Röviden: Ha Ön Kalifornia, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah vagy Virginia lakosa, joga lehet kérni a hozzáférést az Önről általunk fenntartott személyes információkhoz és az azok kezeléséről szóló részletekhez, pontatlanságok javítását, másolat megszerzését, vagy személyes információi törlését. Joga lehet visszavonni hozzájárulását személyes információi kezeléséhez is. Ezek a jogok bizonyos körülmények között az alkalmazandó jog által korlátozottak lehetnek. További információ alább található."
+  },
+  {
+   "id": 197,
+   "text": "Az általunk gyűjtött személyes információk kategóriái"
+  },
+  {
+   "id": 198,
+   "text": "Az alábbi táblázat az elmúlt tizenkét (12) hónapban általunk gyűjtött személyes információk kategóriáit mutatja. A táblázat minden kategóriára szemléltető példákat tartalmaz, és nem tükrözi az Öntől gyűjtött személyes információkat. Az általunk kezelt minden személyes információ átfogó jegyzékéért kérjük, tekintse meg a &quot;"
+  },
+  {
+   "id": 199,
+   "text": "MILYEN INFORMÁCIÓKAT GYŰJTÜNK?"
+  },
+  {
+   "id": 200,
+   "text": "&quot; című szakaszt"
+  },
+  {
+   "id": 201,
+   "text": "Kategória"
+  },
+  {
+   "id": 202,
+   "text": "Példák"
+  },
+  {
+   "id": 203,
+   "text": "Gyűjtve"
+  },
+  {
+   "id": 204,
+   "text": "A. Azonosítók"
+  },
+  {
+   "id": 205,
+   "text": "Elérhetőségek, például valódi név, álnév, postai cím, telefonos vagy mobil elérhetőségi szám, egyedi személyes azonosító, online azonosító, Internet Protocol cím, e-mail cím és fióknév"
+  },
+  {
+   "id": 206,
+   "text": "IGEN"
+  },
+  {
+   "id": 207,
+   "text": "B. Személyes információk a kaliforniai ügyfélnyilvántartási törvény meghatározása szerint"
+  },
+  {
+   "id": 208,
+   "text": "Név, elérhetőségek, oktatás, foglalkoztatás, foglalkoztatási előzmények és pénzügyi információk"
+  },
+  {
+   "id": 209,
+   "text": "IGEN"
+  },
+  {
+   "id": 210,
+   "text": "C. Védett besorolási jellemzők állami vagy szövetségi törvény alapján"
+  },
+  {
+   "id": 211,
+   "text": "Nem, életkor, születési dátum, faj és etnikai hovatartozás, nemzeti származás, családi állapot és egyéb demográfiai adatok"
+  },
+  {
+   "id": 212,
+   "text": "NEM"
+  },
+  {
+   "id": 213,
+   "text": "D. Kereskedelmi információk"
+  },
+  {
+   "id": 214,
+   "text": "Tranzakciós információk, vásárlási előzmények, pénzügyi részletek és fizetési információk"
+  },
+  {
+   "id": 215,
+   "text": "NEM"
+  },
+  {
+   "id": 216,
+   "text": "E. Biometrikus információk"
+  },
+  {
+   "id": 217,
+   "text": "Ujjlenyomatok és hanglenyomatok"
+  },
+  {
+   "id": 218,
+   "text": "IGEN"
+  },
+  {
+   "id": 219,
+   "text": "F. Internet vagy egyéb hasonló hálózati tevékenység"
+  },
+  {
+   "id": 220,
+   "text": "Böngészési előzmények, keresési előzmények, online viselkedés, érdeklődési adatok, valamint a mi és más weboldalakkal, alkalmazásokkal, rendszerekkel és hirdetésekkel való interakciók"
+  },
+  {
+   "id": 221,
+   "text": "NEM"
+  },
+  {
+   "id": 222,
+   "text": "G. Földrajzi helymeghatározási adatok"
+  },
+  {
+   "id": 223,
+   "text": "Eszköz helye"
+  },
+  {
+   "id": 224,
+   "text": "NEM"
+  },
+  {
+   "id": 225,
+   "text": "H. Hang, elektronikus, érzékszervi vagy hasonló információk"
+  },
+  {
+   "id": 226,
+   "text": "Üzleti tevékenységeinkkel kapcsolatban létrehozott képek és hang-, videó- vagy hívásfelvételek"
+  },
+  {
+   "id": 227,
+   "text": "NEM"
+  },
+  {
+   "id": 228,
+   "text": "I. Szakmai vagy foglalkoztatással kapcsolatos információk"
+  },
+  {
+   "id": 229,
+   "text": "Üzleti elérhetőségek annak érdekében, hogy Szolgáltatásainkat üzleti szinten nyújtsuk Önnek, vagy munkakör, munkatörténet és szakmai képesítések, ha állásra jelentkezik nálunk"
+  },
+  {
+   "id": 230,
+   "text": "NEM"
+  },
+  {
+   "id": 231,
+   "text": "J. Oktatási információk"
+  },
+  {
+   "id": 232,
+   "text": "Hallgatói nyilvántartások és jegyzékinformációk"
+  },
+  {
+   "id": 233,
+   "text": "NEM"
+  },
+  {
+   "id": 234,
+   "text": "K. Gyűjtött személyes információkból levont következtetések"
+  },
+  {
+   "id": 235,
+   "text": "A fent felsorolt gyűjtött személyes információk bármelyikéből levont következtetések profil vagy összefoglaló létrehozásához például egy egyén preferenciáiról és jellemzőiről"
+  },
+  {
+   "id": 236,
+   "text": "NEM"
+  },
+  {
+   "id": 237,
+   "text": "L. Érzékeny személyes információk"
+  },
+  {
+   "id": 238,
+   "text": "Fiók bejelentkezési információk, bank- vagy hitelkártyaszámok, genetikai adatok és egészségügyi adatok"
+  },
+  {
+   "id": 239,
+   "text": "IGEN"
+  },
+  {
+   "id": 240,
+   "text": "Érzékeny személyes információkat csak az alkalmazandó adatvédelmi törvények meghatározása szerint, vagy a törvény által megengedett célokra, vagy az Ön hozzájárulásával gyűjtünk. Az érzékeny személyes információk felhasználhatók, vagy szolgáltatónak vagy vállalkozónak nyilvánosságra hozhatók, további, meghatározott célokra. Joga lehet korlátozni érzékeny személyes információi használatát vagy nyilvánosságra hozatalát. Nem gyűjtünk vagy kezelünk érzékeny személyes információkat azzal a céllal, hogy következtetéseket vonjunk le Önről."
+  },
+  {
+   "id": 241,
+   "text": "Személyes információkat e kategóriákon kívül is gyűjthetünk olyan esetekben, amikor személyesen, online, vagy telefonon vagy postai úton lép kapcsolatba velünk a következők kontextusában:"
+  },
+  {
+   "id": 242,
+   "text": "Segítségnyújtás ügyfélszolgálati csatornáinkon keresztül;"
+  },
+  {
+   "id": 243,
+   "text": "Ügyfél-felmérésekben vagy versenyekben való részvétel; és"
+  },
+  {
+   "id": 244,
+   "text": "Szolgáltatásaink nyújtásának megkönnyítése és megkeresései megválaszolása."
+  },
+  {
+   "id": 245,
+   "text": "A gyűjtött személyes információkat szükség szerint használjuk és őrizzük meg a Szolgáltatások nyújtásához, vagy a következőkhöz:"
+  },
+  {
+   "id": 246,
+   "text": "A kategória - Amíg a felhasználónak fiókja van nálunk"
+  },
+  {
+   "id": 247,
+   "text": "B kategória - Amíg a felhasználónak fiókja van nálunk"
+  },
+  {
+   "id": 248,
+   "text": "E kategória - Amíg a felhasználónak fiókja van nálunk"
+  },
+  {
+   "id": 249,
+   "text": "L kategória - Amíg a felhasználónak fiókja van nálunk"
+  },
+  {
+   "id": 250,
+   "text": "A személyes információk forrásai"
+  },
+  {
+   "id": 251,
+   "text": "Tudjon meg többet a személyes információk általunk gyűjtött forrásairól a &quot;"
+  },
+  {
+   "id": 252,
+   "text": "MILYEN INFORMÁCIÓKAT GYŰJTÜNK?"
+  },
+  {
+   "id": 253,
+   "text": "&quot; szakaszban"
+  },
+  {
+   "id": 254,
+   "text": "Hogyan használjuk és osztjuk meg a személyes információkat"
+  },
+  {
+   "id": 255,
+   "text": "Tudjon meg többet arról, hogyan használjuk személyes információit a &quot;"
+  },
+  {
+   "id": 256,
+   "text": "HOGYAN KEZELJÜK AZ ÖN INFORMÁCIÓIT?"
+  },
+  {
+   "id": 257,
+   "text": "&quot; című szakaszban"
+  },
+  {
+   "id": 258,
+   "text": "Megosztják az információit bárki mással?"
+  },
+  {
+   "id": 259,
+   "text": "Személyes információit nyilvánosságra hozhatjuk szolgáltatóinknak, köztünk és minden szolgáltató között létrejött írásbeli szerződés alapján. Tudjon meg többet arról, hogyan hozunk nyilvánosságra személyes információkat a &quot;"
+  },
+  {
+   "id": 260,
+   "text": "MIKOR ÉS KIVEL OSZTJUK MEG SZEMÉLYES INFORMÁCIÓIT?"
+  },
+  {
+   "id": 261,
+   "text": "&quot; című szakaszban"
+  },
+  {
+   "id": 262,
+   "text": "Személyes információit felhasználhatjuk saját üzleti céljainkra, például technológiai fejlesztés és bemutatás céljából belső kutatás végzésére. Ez nem minősül személyes információi &quot;értékesítésének&quot;."
+  },
+  {
+   "id": 263,
+   "text": "Az elmúlt tizenkét (12) hónapban nem hoztunk nyilvánosságra, nem értékesítettünk és nem osztottunk meg semmilyen személyes információt harmadik feleknek üzleti vagy kereskedelmi célra. A jövőben sem fogunk értékesíteni vagy megosztani a weboldal látogatóihoz, felhasználóihoz és más fogyasztóihoz tartozó személyes információkat."
+  },
+  {
+   "id": 264,
+   "text": "Az Ön jogai"
+  },
+  {
+   "id": 265,
+   "text": "Bizonyos amerikai állami adatvédelmi törvények alapján jogai vannak. Ezek a jogok azonban nem abszolútak, és bizonyos esetekben a törvény által megengedett módon elutasíthatjuk kérelmét. Ezek a jogok a következőket tartalmazzák:"
+  },
+  {
+   "id": 266,
+   "text": "A tudáshoz való jog"
+  },
+  {
+   "id": 267,
+   "text": " arra vonatkozóan, hogy kezeljük-e személyes adatait vagy sem"
+  },
+  {
+   "id": 268,
+   "text": "A hozzáféréshez való jog"
+  },
+  {
+   "id": 269,
+   "text": " az Ön személyes adataihoz"
+  },
+  {
+   "id": 270,
+   "text": "A helyesbítéshez való jog"
+  },
+  {
+   "id": 271,
+   "text": " személyes adataiban lévő pontatlanságok tekintetében"
+  },
+  {
+   "id": 272,
+   "text": "A kéréshez való jog"
+  },
+  {
+   "id": 273,
+   "text": " személyes adatai törlésére"
+  },
+  {
+   "id": 274,
+   "text": "A másolat megszerzéséhez való jog"
+  },
+  {
+   "id": 275,
+   "text": " azokról a személyes adatokról, amelyeket korábban megosztott velünk"
+  },
+  {
+   "id": 276,
+   "text": "A megkülönböztetésmentességhez való jog"
+  },
+  {
+   "id": 277,
+   "text": " jogai gyakorlásáért"
+  },
+  {
+   "id": 278,
+   "text": "A letiltáshoz való jog"
+  },
+  {
+   "id": 279,
+   "text": " személyes adatai kezelése tekintetében, ha azokat célzott hirdetésre (vagy a kaliforniai adatvédelmi törvény meghatározása szerinti megosztásra), személyes adatok értékesítésére, vagy olyan döntések előmozdítását szolgáló profilalkotásra (&quot;profilalkotás&quot;) használják, amelyek jogi vagy hasonlóan jelentős hatásokat eredményeznek"
+  },
+  {
+   "id": 280,
+   "text": "Attól függően, melyik államban él, a következő jogai is lehetnek:"
+  },
+  {
+   "id": 281,
+   "text": "Jog a kezelt személyes adatok kategóriáihoz való hozzáféréshez (az alkalmazandó jog által megengedett módon, beleértve a minnesotai adatvédelmi törvényt)"
+  },
+  {
+   "id": 282,
+   "text": "Jog azon harmadik felek kategóriáinak listájának megszerzéséhez, amelyeknek személyes adatokat hoztunk nyilvánosságra (az alkalmazandó jog által megengedett módon, beleértve a kaliforniai, delaware-i és marylandi adatvédelmi törvényt)"
+  },
+  {
+   "id": 283,
+   "text": "Jog azon meghatározott harmadik felek listájának megszerzéséhez, amelyeknek személyes adatokat hoztunk nyilvánosságra (az alkalmazandó jog által megengedett módon, beleértve a minnesotai és oregoni adatvédelmi törvényt)"
+  },
+  {
+   "id": 284,
+   "text": "Jog azon harmadik felek listájának megszerzéséhez, amelyeknek személyes adatokat értékesítettünk (az alkalmazandó jog által megengedett módon, beleértve a connecticuti adatvédelmi törvényt)"
+  },
+  {
+   "id": 285,
+   "text": "Jog annak áttekintéséhez, megértéséhez, megkérdőjelezéséhez, és, attól függően, hol él, annak helyesbítéséhez, hogyan történt személyes adatainak profilalkotása (az alkalmazandó jog által megengedett módon, beleértve a connecticuti és minnesotai adatvédelmi törvényt)"
+  },
+  {
+   "id": 286,
+   "text": "Jog az érzékeny személyes adatok használatának és nyilvánosságra hozatalának korlátozásához (az alkalmazandó jog által megengedett módon, beleértve a kaliforniai adatvédelmi törvényt)"
+  },
+  {
+   "id": 287,
+   "text": "Jog a hang- vagy arcfelismerő funkció működése során gyűjtött érzékeny adatok és személyes adatok gyűjtésének letiltásához (az alkalmazandó jog által megengedett módon, beleértve a floridai adatvédelmi törvényt)"
+  },
+  {
+   "id": 288,
+   "text": "Hogyan gyakorolhatja jogait"
+  },
+  {
+   "id": 289,
+   "text": "E jogok gyakorlásához kapcsolatba léphet velünk, ha felkeresi a "
+  },
+  {
+   "id": 290,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 291,
+   "text": " oldalt, ha felkeresi a "
+  },
+  {
+   "id": 292,
+   "text": "http://www.tavalabs.app/contact-us"
+  },
+  {
+   "id": 293,
+   "text": " oldalt, vagy ha megnézi a dokumentum alján található elérhetőségeket."
+  },
+  {
+   "id": 294,
+   "text": "Tiszteletben tartjuk letiltási preferenciáit, ha böngészőjén aktiválja a "
+  },
+  {
+   "id": 295,
+   "text": "Global Privacy Control"
+  },
+  {
+   "id": 296,
+   "text": " (GPC) letiltási jelet."
+  },
+  {
+   "id": 297,
+   "text": "Bizonyos amerikai állami adatvédelmi törvények alapján kijelölhet egy meghatalmazott ügynököt, hogy kérelmet nyújtson be az Ön nevében. Elutasíthatjuk egy olyan meghatalmazott ügynök kérelmét, aki nem nyújt be bizonyítékot arra, hogy az alkalmazandó törvényeknek megfelelően érvényesen felhatalmazták arra, hogy az Ön nevében járjon el."
+  },
+  {
+   "id": 298,
+   "text": "Kérelem ellenőrzése"
+  },
+  {
+   "id": 299,
+   "text": "Kérelme kézhezvétele után ellenőriznünk kell személyazonosságát annak megállapításához, hogy Ön ugyanaz a személy, akiről rendszerünkben információink vannak. A kérelmében megadott személyes információkat csak személyazonossága vagy a kérelem benyújtására való jogosultsága ellenőrzésére használjuk. Ha azonban nem tudjuk ellenőrizni személyazonosságát az általunk már fenntartott információkból, kérhetjük, hogy adjon meg további információkat személyazonossága ellenőrzése céljából, valamint biztonsági vagy csalásmegelőzési célokból."
+  },
+  {
+   "id": 300,
+   "text": "Ha a kérelmet meghatalmazott ügynökön keresztül nyújtja be, előfordulhat, hogy további információkat kell gyűjtenünk személyazonossága ellenőrzéséhez, mielőtt feldolgoznánk kérelmét, és az ügynöknek írásbeli és aláírt engedélyt kell benyújtania Öntől arra, hogy az ilyen kérelmet az Ön nevében benyújtsa."
+  },
+  {
+   "id": 301,
+   "text": "Fellebbezések"
+  },
+  {
+   "id": 302,
+   "text": "Bizonyos amerikai állami adatvédelmi törvények alapján, ha elutasítjuk, hogy kérelme alapján lépéseket tegyünk, fellebbezhet döntésünk ellen, ha e-mailt ír nekünk a "
+  },
+  {
+   "id": 303,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 304,
+   "text": " címre. Írásban tájékoztatjuk Önt a fellebbezésre válaszul tett vagy nem tett minden lépésről, beleértve a döntések okainak írásbeli magyarázatát. Ha fellebbezését elutasítják, panaszt nyújthat be állama legfőbb ügyészéhez."
+  },
+  {
+   "id": 305,
+   "text": "Kaliforniai &quot;Shine The Light&quot; törvény"
+  },
+  {
+   "id": 306,
+   "text": "A Kaliforniai Polgári Törvénykönyv 1798.83 szakasza, más néven a &quot;Shine The Light&quot; törvény, lehetővé teszi kaliforniai lakos felhasználóink számára, hogy évente egyszer, ingyenesen kérjenek és kapjanak tőlünk információkat azokról a személyes információ kategóriákról (ha vannak), amelyeket közvetlen marketing célokra harmadik feleknek hoztunk nyilvánosságra, valamint minden olyan harmadik fél nevéről és címéről, amellyel az közvetlenül megelőző naptári évben személyes információkat osztottunk meg. Ha Ön kaliforniai lakos, és ilyen kérelmet szeretne benyújtani, kérjük, kérelmét írásban nyújtsa be nekünk a &quot;"
+  },
+  {
+   "id": 307,
+   "text": "HOGYAN LÉPHET KAPCSOLATBA VELÜNK ERRŐL A TÁJÉKOZTATÓRÓL?"
+  },
+  {
+   "id": 308,
+   "text": "&quot; című szakaszban megadott elérhetőségeken keresztül."
+  },
+  {
+   "id": 309,
+   "text": "13. FRISSÍTJÜK EZT A TÁJÉKOZTATÓT?"
+  },
+  {
+   "id": 310,
+   "text": "Röviden: Igen, szükség szerint frissítjük ezt a tájékoztatót, hogy megfeleljünk a vonatkozó törvényeknek."
+  },
+  {
+   "id": 311,
+   "text": "Időről időre frissíthetjük ezt az Adatvédelmi tájékoztatót. A frissített változatot az Adatvédelmi tájékoztató tetején egy frissített &quot;Felülvizsgálva&quot; dátum jelzi. Ha lényeges változtatásokat hajtunk végre ebben az Adatvédelmi tájékoztatóban, értesíthetjük Önt akár az ilyen változtatásokról szóló tájékoztató szembetűnő közzétételével, akár közvetlenül értesítés küldésével. Arra biztatjuk, hogy gyakran tekintse át ezt az Adatvédelmi tájékoztatót, hogy tájékozott legyen arról, hogyan védjük információit."
+  },
+  {
+   "id": 312,
+   "text": "14. HOGYAN LÉPHET KAPCSOLATBA VELÜNK ERRŐL A TÁJÉKOZTATÓRÓL?"
+  },
+  {
+   "id": 313,
+   "text": "Ha kérdései vagy megjegyzései vannak erről a tájékoztatóról, kapcsolatba léphet adatvédelmi tisztviselőnkkel (DPO) e-mailben a "
+  },
+  {
+   "id": 314,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 315,
+   "text": " címen, vagy postai úton a következő címen:"
+  },
+  {
+   "id": 316,
+   "text": "Tava Labs, LLC"
+  },
+  {
+   "id": 317,
+   "text": "Data Protection Officer"
+  },
+  {
+   "id": 318,
+   "text": "1521 Blake St STE 95593"
+  },
+  {
+   "id": 319,
+   "text": "Denver, CO 80202"
+  },
+  {
+   "id": 320,
+   "text": "United States"
+  },
+  {
+   "id": 321,
+   "text": "15. HOGYAN TEKINTHETI ÁT, FRISSÍTHETI VAGY TÖRÖLHETI AZ ÖNTŐL GYŰJTÖTT ADATOKAT?"
+  },
+  {
+   "id": 322,
+   "text": "Országa vagy az Egyesült Államokban lévő lakóhelye szerinti állam alkalmazandó törvényei alapján joga lehet kérni a hozzáférést az Öntől gyűjtött személyes információkhoz, részleteket arról, hogyan kezeltük azokat, pontatlanságok javítását, vagy személyes információi törlését. Joga lehet visszavonni hozzájárulását személyes információi kezeléséhez is. Ezek a jogok bizonyos körülmények között az alkalmazandó jog által korlátozottak lehetnek. Személyes információi áttekintésének, frissítésének vagy törlésének kéréséhez kérjük, keresse fel a következő oldalt: "
+  },
+  {
+   "id": 323,
+   "text": "http://www.tavalabs.app/request-personal-information"
+  },
+  {
+   "id": 324,
+   "text": "."
+  },
+  {
+   "id": 325,
+   "text": "Ezt az Adatvédelmi szabályzatot a Termly "
+  },
+  {
+   "id": 326,
+   "text": "Adatvédelmi szabályzat generátora"
+  },
+  {
+   "id": 327,
+   "text": " segítségével hoztuk létre."
+  }
+ ]
+}

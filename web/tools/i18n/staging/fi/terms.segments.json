@@ -1,0 +1,855 @@
+{
+  "slug": "terms",
+  "title": "Käyttöehdot | Tava Labs",
+  "description": "Ehdot, jotka koskevat tavalabs.app-sivuston käyttöäsi ja PDRN Brightening Serum -seerumin ostamistasi Tava Labs, LLC:ltä, mukaan lukien käytäntömme, jonka mukaan kaikki myynti on lopullista.",
+  "segments": [
+    {
+      "id": 0,
+      "text": "Oikeudelliset tiedot"
+    },
+    {
+      "id": 1,
+      "text": "Käyttöehdot"
+    },
+    {
+      "id": 2,
+      "text": "Viimeksi päivitetty 5. marraskuuta 2026"
+    },
+    {
+      "id": 3,
+      "text": "SOPIMUS OIKEUDELLISISTA EHDOISTAMME"
+    },
+    {
+      "id": 4,
+      "text": "Olemme Tava Labs, LLC, joka toimii nimellä Tava (&quot;Yritys&quot;, &quot;me&quot;), yritys, joka on rekisteröity Coloradossa, Yhdysvalloissa, osoitteessa 1521 Blake St STE 95593, Denver, CO 80202."
+    },
+    {
+      "id": 5,
+      "text": "Ylläpidämme verkkosivustoa "
+    },
+    {
+      "id": 6,
+      "text": "http://www.tavalabs.app"
+    },
+    {
+      "id": 7,
+      "text": " (&quot;Sivusto&quot;) sekä muita niihin liittyviä tuotteita ja palveluita, jotka viittaavat näihin oikeudellisiin ehtoihin tai linkittävät niihin (&quot;Oikeudelliset ehdot&quot;) (yhdessä &quot;Palvelut&quot;)."
+    },
+    {
+      "id": 8,
+      "text": "Voit ottaa meihin yhteyttä sähköpostitse osoitteessa "
+    },
+    {
+      "id": 9,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 10,
+      "text": " tai postitse osoitteeseen 1521 Blake St STE 95593, Denver, CO 80202, United States."
+    },
+    {
+      "id": 11,
+      "text": "Nämä Oikeudelliset ehdot muodostavat oikeudellisesti sitovan sopimuksen sinun, joko henkilökohtaisesti tai yhteisön puolesta (&quot;sinä&quot;), ja Tava Labs, LLC:n välillä koskien Palveluiden käyttöäsi. Hyväksyt, että käyttämällä Palveluita olet lukenut, ymmärtänyt ja sitoutunut noudattamaan kaikkia näitä Oikeudellisia ehtoja. JOS ET HYVÄKSY KAIKKIA NÄITÄ OIKEUDELLISIA EHTOJA, PALVELUIDEN KÄYTTÖ ON SINULTA NIMENOMAISESTI KIELLETTY JA SINUN ON LOPETETTAVA KÄYTTÖ VÄLITTÖMÄSTI."
+    },
+    {
+      "id": 12,
+      "text": "Ilmoitamme sinulle etukäteen kaikista käyttämiesi Palveluiden aikataulutetuista muutoksista. Muutetut Oikeudelliset ehdot tulevat voimaan, kun ne julkaistaan tai kun sinulle ilmoitetaan niistä osoitteesta "
+    },
+    {
+      "id": 13,
+      "text": "noreply.entrepreneur-wellness@mail.hellostencil.com"
+    },
+    {
+      "id": 14,
+      "text": ", kuten sähköpostiviestissä todetaan. Jatkamalla Palveluiden käyttöä muutosten voimaantulopäivän jälkeen hyväksyt muutetut ehdot."
+    },
+    {
+      "id": 15,
+      "text": "Palvelut on tarkoitettu käyttäjille, jotka ovat vähintään 18-vuotiaita. Alle 18-vuotiaat eivät saa käyttää Palveluita tai rekisteröityä niihin."
+    },
+    {
+      "id": 16,
+      "text": "Suosittelemme, että tulostat kopion näistä Oikeudellisista ehdoista arkistointia varten."
+    },
+    {
+      "id": 17,
+      "text": "SISÄLLYSLUETTELO"
+    },
+    {
+      "id": 18,
+      "text": "SOPIMUS OIKEUDELLISISTA EHDOISTAMME"
+    },
+    {
+      "id": 19,
+      "text": "1. PALVELUMME"
+    },
+    {
+      "id": 20,
+      "text": "2. IMMATERIAALIOIKEUDET"
+    },
+    {
+      "id": 21,
+      "text": "3. KÄYTTÄJÄN VAKUUTUKSET"
+    },
+    {
+      "id": 22,
+      "text": "4. KÄYTTÄJÄN REKISTERÖITYMINEN"
+    },
+    {
+      "id": 23,
+      "text": "5. TUOTTEET"
+    },
+    {
+      "id": 24,
+      "text": "6. OSTOKSET JA MAKSAMINEN"
+    },
+    {
+      "id": 25,
+      "text": "7. PALAUTUSKÄYTÄNTÖ"
+    },
+    {
+      "id": 26,
+      "text": "8. KIELLETYT TOIMINNOT"
+    },
+    {
+      "id": 27,
+      "text": "9. KÄYTTÄJIEN TUOTTAMA SISÄLTÖ"
+    },
+    {
+      "id": 28,
+      "text": "10. SISÄLTÖLISENSSI"
+    },
+    {
+      "id": 29,
+      "text": "11. ARVOSTELUJEN OHJEET"
+    },
+    {
+      "id": 30,
+      "text": "12. PALVELUIDEN HALLINTA"
+    },
+    {
+      "id": 31,
+      "text": "13. TIETOSUOJAKÄYTÄNTÖ"
+    },
+    {
+      "id": 32,
+      "text": "14. VOIMASSAOLO JA PÄÄTTÄMINEN"
+    },
+    {
+      "id": 33,
+      "text": "15. MUUTOKSET JA KESKEYTYKSET"
+    },
+    {
+      "id": 34,
+      "text": "16. SOVELLETTAVA LAKI"
+    },
+    {
+      "id": 35,
+      "text": "17. RIITOJEN RATKAISU"
+    },
+    {
+      "id": 36,
+      "text": "18. KORJAUKSET"
+    },
+    {
+      "id": 37,
+      "text": "19. VASTUUVAPAUSLAUSEKE"
+    },
+    {
+      "id": 38,
+      "text": "20. VASTUUN RAJOITUKSET"
+    },
+    {
+      "id": 39,
+      "text": "21. VAHINGONKORVAUSVASTUU"
+    },
+    {
+      "id": 40,
+      "text": "22. KÄYTTÄJÄTIEDOT"
+    },
+    {
+      "id": 41,
+      "text": "23. SÄHKÖINEN VIESTINTÄ, TAPAHTUMAT JA ALLEKIRJOITUKSET"
+    },
+    {
+      "id": 42,
+      "text": "24. KALIFORNIAN KÄYTTÄJÄT JA ASUKKAAT"
+    },
+    {
+      "id": 43,
+      "text": "25. SEKALAISTA"
+    },
+    {
+      "id": 44,
+      "text": "26. YHTEYSTIEDOT"
+    },
+    {
+      "id": 45,
+      "text": "1. PALVELUMME"
+    },
+    {
+      "id": 46,
+      "text": "Palveluita käytettäessä annettavia tietoja ei ole tarkoitettu jaettaviksi henkilölle tai yhteisölle tai heidän käytettäväkseen millään lainkäyttöalueella tai maassa, jossa tällainen jakelu tai käyttö olisi lain tai sääntelyn vastaista tai asettaisi meille rekisteröintivaatimuksen kyseisellä lainkäyttöalueella tai maassa. Näin ollen henkilöt, jotka käyttävät Palveluita muista sijainneista, tekevät sen omasta aloitteestaan ja ovat yksin vastuussa paikallisten lakien noudattamisesta, jos ja siltä osin kuin paikalliset lait ovat sovellettavissa."
+    },
+    {
+      "id": 47,
+      "text": "Palveluita ei ole räätälöity noudattamaan toimialakohtaista sääntelyä (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA) jne.), joten jos vuorovaikutukseesi sovellettaisiin tällaisia lakeja, et saa käyttää Palveluita. Et saa käyttää Palveluita tavalla, joka rikkoisi Gramm-Leach-Bliley Act (GLBA) -lakia."
+    },
+    {
+      "id": 48,
+      "text": "2. IMMATERIAALIOIKEUDET"
+    },
+    {
+      "id": 49,
+      "text": "Immateriaalioikeutemme"
+    },
+    {
+      "id": 50,
+      "text": "Omistamme tai olemme lisenssinhaltija kaikille Palveluidemme immateriaalioikeuksille, mukaan lukien kaikki lähdekoodit, tietokannat, toiminnallisuudet, ohjelmistot, verkkosivustojen suunnittelut, ääni, video, teksti, valokuvat ja grafiikka Palveluissa (yhdessä &quot;Sisältö&quot;) sekä niissä olevat tavaramerkit, palvelumerkit ja logot (&quot;Merkit&quot;)."
+    },
+    {
+      "id": 51,
+      "text": "Sisältömme ja Merkkimme on suojattu tekijänoikeus- ja tavaramerkkilaeilla (sekä useilla muilla immateriaalioikeus- ja vilpillisen kilpailun laeilla) ja sopimuksilla Yhdysvalloissa ja ympäri maailmaa."
+    },
+    {
+      "id": 52,
+      "text": "Sisältö ja Merkit tarjotaan Palveluissa tai niiden kautta &quot;SELLAISINAAN&quot; vain henkilökohtaiseen, ei-kaupalliseen käyttöösi."
+    },
+    {
+      "id": 53,
+      "text": "Palveluidemme käyttösi"
+    },
+    {
+      "id": 54,
+      "text": "Edellyttäen, että noudatat näitä Oikeudellisia ehtoja, mukaan lukien jäljempänä olevaa kohtaa &quot;"
+    },
+    {
+      "id": 55,
+      "text": "KIELLETYT TOIMINNOT"
+    },
+    {
+      "id": 56,
+      "text": "&quot;, myönnämme sinulle ei-yksinomaisen, ei-siirrettävän ja peruutettavissa olevan lisenssin:"
+    },
+    {
+      "id": 57,
+      "text": "käyttää Palveluita; ja"
+    },
+    {
+      "id": 58,
+      "text": "ladata tai tulostaa kopio mistä tahansa Sisällön osasta, johon olet asianmukaisesti saanut pääsyn,"
+    },
+    {
+      "id": 59,
+      "text": "yksinomaan henkilökohtaiseen, ei-kaupalliseen käyttöösi."
+    },
+    {
+      "id": 60,
+      "text": "Lukuun ottamatta tässä kohdassa tai muualla Oikeudellisissa ehdoissamme esitettyä, mitään Palveluiden osaa eikä Sisältöä tai Merkkiä saa kopioida, jäljentää, koota, julkaista uudelleen, ladata, julkaista, esittää julkisesti, koodata, kääntää, välittää, jakaa, myydä, lisensoida tai muuten hyödyntää mihinkään kaupalliseen tarkoitukseen ilman nimenomaista etukäteistä kirjallista lupaamme."
+    },
+    {
+      "id": 61,
+      "text": "Jos haluat käyttää Palveluita, Sisältöä tai Merkkiä muulla tavoin kuin tässä kohdassa tai muualla Oikeudellisissa ehdoissamme esitetään, osoita pyyntösi osoitteeseen: "
+    },
+    {
+      "id": 62,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 63,
+      "text": ". Jos joskus myönnämme sinulle luvan julkaista, jäljentää tai esittää julkisesti mitä tahansa Palveluidemme tai Sisältömme osaa, sinun on ilmoitettava meidät Palveluiden, Sisällön tai Merkkien omistajiksi tai lisenssinantajiksi ja varmistettava, että tekijänoikeus- tai omistusoikeusilmoitus näkyy Sisältöämme julkaistessasi, jäljentäessäsi tai esittäessäsi."
+    },
+    {
+      "id": 64,
+      "text": "Pidätämme kaikki oikeudet, joita ei nimenomaisesti myönnetä sinulle Palveluihin, Sisältöön ja Merkkiin."
+    },
+    {
+      "id": 65,
+      "text": "Näiden immateriaalioikeuksien rikkominen on Oikeudellisten ehtojemme olennainen rikkomus, ja oikeutesi käyttää Palveluitamme päättyy välittömästi."
+    },
+    {
+      "id": 66,
+      "text": "Lähetyksesi ja sisältösi"
+    },
+    {
+      "id": 67,
+      "text": "Lue tämä kohta ja kohta &quot;"
+    },
+    {
+      "id": 68,
+      "text": "KIELLETYT TOIMINNOT"
+    },
+    {
+      "id": 69,
+      "text": "&quot; huolellisesti ennen Palveluidemme käyttöä ymmärtääksesi (a) meille antamasi oikeudet ja (b) velvollisuutesi, kun julkaiset tai lataat sisältöä Palveluiden kautta."
+    },
+    {
+      "id": 70,
+      "text": "Lähetykset:"
+    },
+    {
+      "id": 71,
+      "text": " Lähettämällä meille suoraan minkä tahansa kysymyksen, kommentin, ehdotuksen, idean, palautteen tai muun tiedon Palveluista (&quot;Lähetykset&quot;) hyväksyt luovuttavasi meille kaikki tällaisen Lähetyksen immateriaalioikeudet. Hyväksyt, että omistamme tämän Lähetyksen ja meillä on oikeus sen rajoittamattomaan käyttöön ja jakeluun mihin tahansa lailliseen tarkoitukseen, kaupalliseen tai muuhun, ilman tunnustusta tai korvausta sinulle."
+    },
+    {
+      "id": 72,
+      "text": "Sisältö:"
+    },
+    {
+      "id": 73,
+      "text": " Palvelut voivat kutsua sinut keskustelemaan, osallistumaan tai liittymään blogeihin, viestitauluihin, verkkofoorumeihin ja muihin toimintoihin, joiden aikana voit luoda, lähettää, julkaista, esittää, välittää, julkaista, jakaa tai lähettää sisältöä ja materiaaleja meille tai Palveluiden kautta, mukaan lukien rajoituksetta teksti, kirjoitukset, video, ääni, valokuvat, musiikki, grafiikka, kommentit, arvostelut, arvioehdotukset, henkilötiedot tai muu materiaali (&quot;Sisältö&quot;). Kaikki julkisesti julkaistut Lähetykset katsotaan myös Sisällöksi."
+    },
+    {
+      "id": 74,
+      "text": "Ymmärrät, että muut Palveluiden käyttäjät voivat nähdä Sisällön."
+    },
+    {
+      "id": 75,
+      "text": "Kun julkaiset Sisältöä, myönnät meille lisenssin (mukaan lukien nimesi, tavaramerkkiesi ja logojesi käyttö):"
+    },
+    {
+      "id": 76,
+      "text": " Julkaisemalla mitä tahansa Sisältöä myönnät meille rajoittamattoman, rajattoman, peruuttamattoman, pysyvän, ei-yksinomaisen, siirrettävän, rojaltivapaan, täysin maksetun, maailmanlaajuisen oikeuden ja lisenssin: käyttää, kopioida, jäljentää, jakaa, myydä, jälleenmyydä, julkaista, lähettää, nimetä uudelleen, tallentaa, esittää julkisesti, esittää julkisesti näytöllä, muotoilla uudelleen, kääntää, lainata (kokonaan tai osittain) ja hyödyntää Sisältöäsi (mukaan lukien rajoituksetta kuvasi, nimesi ja äänesi) mihin tahansa tarkoitukseen, kaupalliseen, mainontaan tai muuhun, valmistaa siitä johdannaisteoksia tai sisällyttää sitä muihin teoksiin sekä alilisensoida tässä kohdassa myönnetyt lisenssit. Käyttömme ja jakelumme voi tapahtua missä tahansa mediamuodossa ja minkä tahansa mediakanavan kautta."
+    },
+    {
+      "id": 77,
+      "text": "Tämä lisenssi sisältää nimesi, yrityksesi nimen ja franchising-nimesi käytön soveltuvin osin sekä kaikki antamasi tavaramerkit, palvelumerkit, toiminimet, logot sekä henkilö- ja kaupalliset kuvat."
+    },
+    {
+      "id": 78,
+      "text": "Olet vastuussa siitä, mitä julkaiset tai lataat:"
+    },
+    {
+      "id": 79,
+      "text": " Lähettämällä meille Lähetyksiä ja/tai julkaisemalla Sisältöä minkä tahansa Palveluiden osan kautta tai tekemällä Sisältöä saataville Palveluiden kautta linkittämällä tilisi Palveluiden kautta mihin tahansa sosiaalisen verkostoitumisen tiliisi:"
+    },
+    {
+      "id": 80,
+      "text": "vahvistat, että olet lukenut ja hyväksyt kohtamme &quot;"
+    },
+    {
+      "id": 81,
+      "text": "KIELLETYT TOIMINNOT"
+    },
+    {
+      "id": 82,
+      "text": "&quot; etkä julkaise, lähetä, julkaise, lataa tai välitä Palveluiden kautta mitään Lähetystä etkä julkaise Sisältöä, joka on laitonta, häiritsevää, vihamielistä, haitallista, herjaavaa, säädytöntä, kiusaavaa, loukkaavaa, syrjivää, ketään henkilöä tai ryhmää uhkaavaa, seksuaalisesti eksplisiittistä, virheellistä, epätarkkaa, petollista tai harhaanjohtavaa;"
+    },
+    {
+      "id": 83,
+      "text": "sovellettavan lain sallimassa laajuudessa luovut kaikista moraalisista oikeuksista tällaiseen Lähetykseen ja/tai Sisältöön;"
+    },
+    {
+      "id": 84,
+      "text": "vakuutat, että tällaiset Lähetykset ja/tai Sisältö ovat alkuperäisiä sinun luomiasi tai että sinulla on tarvittavat oikeudet ja lisenssit tällaisten Lähetysten ja/tai Sisällön lähettämiseen ja että sinulla on täysi valta myöntää meille edellä mainitut oikeudet Lähetyksiisi ja/tai Sisältöösi liittyen; ja"
+    },
+    {
+      "id": 85,
+      "text": "vakuutat, että Lähetyksesi ja/tai Sisältösi eivät ole luottamuksellisia tietoja."
+    },
+    {
+      "id": 86,
+      "text": "Olet yksin vastuussa Lähetyksistäsi ja/tai Sisällöstäsi ja hyväksyt nimenomaisesti korvaavasi meille kaikki tappiot, joita meille voi aiheutua rikkomuksestasi (a) tätä kohtaa, (b) kolmannen osapuolen immateriaalioikeuksia tai (c) sovellettavaa lakia vastaan."
+    },
+    {
+      "id": 87,
+      "text": "Voimme poistaa tai muokata Sisältöäsi:"
+    },
+    {
+      "id": 88,
+      "text": " Vaikka meillä ei ole velvollisuutta valvoa Sisältöä, meillä on oikeus poistaa tai muokata Sisältöä milloin tahansa ilman ilmoitusta, jos kohtuullisen näkemyksemme mukaan pidämme tällaista Sisältöä haitallisena tai näiden Oikeudellisten ehtojen vastaisena. Jos poistamme tai muokkaamme tällaista Sisältöä, voimme myös keskeyttää tai poistaa tilisi käytöstä ja ilmoittaa sinusta viranomaisille."
+    },
+    {
+      "id": 89,
+      "text": "3. KÄYTTÄJÄN VAKUUTUKSET"
+    },
+    {
+      "id": 90,
+      "text": "Käyttämällä Palveluita vakuutat, että: (1) kaikki antamasi rekisteröintitiedot ovat tosia, tarkkoja, ajantasaisia ja täydellisiä; (2) ylläpidät tällaisten tietojen tarkkuutta ja päivität tällaiset rekisteröintitiedot viipymättä tarvittaessa; (3) sinulla on oikeustoimikelpoisuus ja hyväksyt noudattavasi näitä Oikeudellisia ehtoja; (4) et ole alaikäinen asuinpaikkasi lainkäyttöalueella; (5) et käytä Palveluita automatisoiduin tai ei-inhimillisin keinoin, olipa kyse botista, komentosarjasta tai muusta; (6) et käytä Palveluita mihinkään laittomaan tai luvattomaan tarkoitukseen; ja (7) Palveluiden käyttösi ei riko sovellettavaa lakia tai sääntelyä."
+    },
+    {
+      "id": 91,
+      "text": "Jos annat tietoja, jotka ovat epätosia, epätarkkoja, eivät ajantasaisia tai puutteellisia, meillä on oikeus keskeyttää tai lopettaa tilisi ja kieltäytyä Palveluiden (tai niiden osan) nykyisestä tai tulevasta käytöstä."
+    },
+    {
+      "id": 92,
+      "text": "4. KÄYTTÄJÄN REKISTERÖITYMINEN"
+    },
+    {
+      "id": 93,
+      "text": "Sinua voidaan vaatia rekisteröitymään Palveluiden käyttämiseksi. Hyväksyt pitäväsi salasanasi luottamuksellisena ja olet vastuussa kaikesta tilisi ja salasanasi käytöstä. Pidätämme oikeuden poistaa, vaatia takaisin tai muuttaa valitsemasi käyttäjätunnuksen, jos katsomme yksinomaisen harkintamme mukaan, että tällainen käyttäjätunnus on sopimaton, säädytön tai muuten moitittava."
+    },
+    {
+      "id": 94,
+      "text": "5. TUOTTEET"
+    },
+    {
+      "id": 95,
+      "text": "Pyrimme esittämään Palveluissa saatavilla olevien tuotteiden värit, ominaisuudet, tekniset tiedot ja yksityiskohdat mahdollisimman tarkasti. Emme kuitenkaan takaa, että tuotteiden värit, ominaisuudet, tekniset tiedot ja yksityiskohdat ovat tarkkoja, täydellisiä, luotettavia, ajantasaisia tai virheettömiä, eikä sähköinen näyttösi välttämättä vastaa tarkasti tuotteiden todellisia värejä ja yksityiskohtia. Kaikki tuotteet ovat saatavuuden alaisia, emmekä voi taata, että tuotteita on varastossa. Pidätämme oikeuden lopettaa minkä tahansa tuotteen milloin tahansa mistä tahansa syystä. Kaikkien tuotteiden hinnat voivat muuttua."
+    },
+    {
+      "id": 96,
+      "text": "6. OSTOKSET JA MAKSAMINEN"
+    },
+    {
+      "id": 97,
+      "text": "Hyväksymme seuraavat maksutavat:"
+    },
+    {
+      "id": 98,
+      "text": "Visa"
+    },
+    {
+      "id": 99,
+      "text": "Mastercard"
+    },
+    {
+      "id": 100,
+      "text": "American Express"
+    },
+    {
+      "id": 101,
+      "text": "Discover"
+    },
+    {
+      "id": 102,
+      "text": "Hyväksyt antavasi ajantasaiset, täydelliset ja tarkat osto- ja tilitiedot kaikista Palveluiden kautta tehdyistä ostoksista. Hyväksyt lisäksi päivittäväsi viipymättä tili- ja maksutiedot, mukaan lukien sähköpostiosoite, maksutapa ja maksukortin voimassaoloaika, jotta voimme suorittaa tapahtumasi ja ottaa sinuun yhteyttä tarvittaessa. Myyntivero lisätään ostosten hintaan, kun katsomme sen tarpeelliseksi. Voimme muuttaa hintoja milloin tahansa. Kaikki maksut ovat Yhdysvaltain dollareissa."
+    },
+    {
+      "id": 103,
+      "text": "Hyväksyt maksavasi kaikki maksut ostoksistasi silloin voimassa olevilla hinnoilla sekä mahdolliset toimituskulut, ja valtuutat meidät veloittamaan valitsemaasi maksuntarjoajaa tällaisista summista tilausta tehdessäsi. Pidätämme oikeuden korjata hinnoitteluvirheet tai -erehdykset, vaikka olisimme jo pyytäneet tai saaneet maksun."
+    },
+    {
+      "id": 104,
+      "text": "Pidätämme oikeuden kieltäytyä mistä tahansa Palveluiden kautta tehdystä tilauksesta. Voimme yksinomaisen harkintamme mukaan rajoittaa tai peruuttaa henkilöä, kotitaloutta tai tilausta kohden ostettuja määriä. Nämä rajoitukset voivat koskea tilauksia, jotka on tehty samalla asiakastilillä, samalla maksutavalla ja/tai jotka käyttävät samaa laskutus- tai toimitusosoitetta. Pidätämme oikeuden rajoittaa tai kieltää tilauksia, jotka yksinomaisen arviomme mukaan näyttävät kauppiaiden, jälleenmyyjien tai jakelijoiden tekemiltä."
+    },
+    {
+      "id": 105,
+      "text": "7. PALAUTUSKÄYTÄNTÖ"
+    },
+    {
+      "id": 106,
+      "text": "Kaikki myynti on lopullista, eikä hyvitystä myönnetä."
+    },
+    {
+      "id": 107,
+      "text": "8. KIELLETYT TOIMINNOT"
+    },
+    {
+      "id": 108,
+      "text": "Et saa käyttää Palveluita muuhun tarkoitukseen kuin siihen, johon asetamme Palvelut saataville. Palveluita ei saa käyttää minkään kaupallisen toiminnan yhteydessä, lukuun ottamatta niitä, jotka olemme nimenomaisesti hyväksyneet."
+    },
+    {
+      "id": 109,
+      "text": "Palveluiden käyttäjänä hyväksyt, ettet:"
+    },
+    {
+      "id": 110,
+      "text": "Järjestelmällisesti hae tietoja tai muuta sisältöä Palveluista luodaksesi tai kootaksesi suoraan tai epäsuorasti kokoelman, tietokannan tai hakemiston ilman kirjallista lupaamme."
+    },
+    {
+      "id": 111,
+      "text": "Huijaa, petä tai johda harhaan meitä ja muita käyttäjiä, erityisesti yrityksessä saada arkaluonteisia tilitietoja, kuten käyttäjien salasanoja."
+    },
+    {
+      "id": 112,
+      "text": "Kierrä, poista käytöstä tai muuten häiritse Palveluiden turvallisuuteen liittyviä ominaisuuksia, mukaan lukien ominaisuudet, jotka estävät tai rajoittavat Sisällön käyttöä tai kopiointia tai valvovat Palveluiden ja/tai niissä olevan Sisällön käytön rajoituksia."
+    },
+    {
+      "id": 113,
+      "text": "Halvenna, tahraa tai muuten vahingoita mielestämme meitä ja/tai Palveluita."
+    },
+    {
+      "id": 114,
+      "text": "Käytä Palveluista saatuja tietoja toisen henkilön häiritsemiseen, hyväksikäyttöön tai vahingoittamiseen."
+    },
+    {
+      "id": 115,
+      "text": "Käytä tukipalveluitamme väärin tai lähetä vääriä ilmoituksia väärinkäytöksistä tai rikkomuksista."
+    },
+    {
+      "id": 116,
+      "text": "Käytä Palveluita tavalla, joka on ristiriidassa sovellettavien lakien tai sääntelyn kanssa."
+    },
+    {
+      "id": 117,
+      "text": "Osallistu Palveluiden luvattomaan kehystämiseen tai linkittämiseen."
+    },
+    {
+      "id": 118,
+      "text": "Lataa tai välitä (tai yritä ladata tai välittää) viruksia, troijalaisia tai muuta materiaalia, mukaan lukien isojen kirjainten liiallinen käyttö ja roskapostitus (toistuvan tekstin jatkuva julkaiseminen), joka häiritsee kenenkään keskeytymätöntä Palveluiden käyttöä ja niistä nauttimista tai muuttaa, heikentää, häiritsee tai vaikuttaa Palveluiden käyttöön, ominaisuuksiin, toimintoihin, toimintaan tai ylläpitoon."
+    },
+    {
+      "id": 119,
+      "text": "Osallistu järjestelmän automatisoituun käyttöön, kuten komentosarjojen käyttämiseen kommenttien tai viestien lähettämiseen tai tiedonlouhinnan, robottien tai vastaavien tiedonkeruu- ja poimintatyökalujen käyttämiseen."
+    },
+    {
+      "id": 120,
+      "text": "Poista tekijänoikeus- tai muuta omistusoikeusilmoitusta mistään Sisällöstä."
+    },
+    {
+      "id": 121,
+      "text": "Yritä esiintyä toisena käyttäjänä tai henkilönä tai käyttää toisen käyttäjän käyttäjätunnusta."
+    },
+    {
+      "id": 122,
+      "text": "Lataa tai välitä (tai yritä ladata tai välittää) materiaalia, joka toimii passiivisena tai aktiivisena tiedonkeruu- tai välitysmekanismina, mukaan lukien rajoituksetta selkeät grafiikanvaihtomuodot (&quot;gif&quot;), 1x1 pikselit, verkkojäljet, evästeet tai muut vastaavat laitteet (joihin viitataan joskus nimillä &quot;vakoiluohjelmat&quot;, &quot;passiiviset keruumekanismit&quot; tai &quot;pcm&quot;)."
+    },
+    {
+      "id": 123,
+      "text": "Häiritse tai aiheuta kohtuutonta kuormitusta Palveluille tai Palveluihin yhdistetyille verkoille tai palveluille."
+    },
+    {
+      "id": 124,
+      "text": "Häiritse, ärsytä, pelottele tai uhkaa työntekijöitämme tai edustajiamme, jotka osallistuvat Palveluiden osan tarjoamiseen sinulle."
+    },
+    {
+      "id": 125,
+      "text": "Yritä ohittaa Palveluiden toimenpiteitä, jotka on suunniteltu estämään tai rajoittamaan pääsyä Palveluihin tai niiden osaan."
+    },
+    {
+      "id": 126,
+      "text": "Kopioi tai mukauta Palveluiden ohjelmistoa, mukaan lukien rajoituksetta Flash, PHP, HTML, JavaScript tai muu koodi."
+    },
+    {
+      "id": 127,
+      "text": "Lukuun ottamatta sovellettavan lain sallimia tapauksia, pura, käännä takaisin, pura osiin tai tee käänteistä suunnittelua ohjelmistolle, joka muodostaa Palveluiden osan tai on osa niitä."
+    },
+    {
+      "id": 128,
+      "text": "Lukuun ottamatta tavallisen hakukoneen tai internetselaimen käytön tulosta, käytä, käynnistä, kehitä tai jaa automatisoitua järjestelmää, mukaan lukien rajoituksetta hämähäkit, robotit, huijausapuohjelmat, kaapimet tai offline-lukijat, jotka käyttävät Palveluita, tai käytä tai käynnistä luvatonta komentosarjaa tai muuta ohjelmistoa."
+    },
+    {
+      "id": 129,
+      "text": "Käytä ostoasiamiestä tai ostoagenttia ostosten tekemiseen Palveluissa."
+    },
+    {
+      "id": 130,
+      "text": "Tee Palveluiden luvatonta käyttöä, mukaan lukien käyttäjien käyttäjätunnusten ja/tai sähköpostiosoitteiden kerääminen sähköisesti tai muilla keinoin ei-toivotun sähköpostin lähettämistä varten tai käyttäjätilien luominen automatisoiduin keinoin tai väärin perustein."
+    },
+    {
+      "id": 131,
+      "text": "Käytä Palveluita osana pyrkimystä kilpailla kanssamme tai muuten käytä Palveluita ja/tai Sisältöä tulonmuodostukseen tai kaupalliseen yritykseen."
+    },
+    {
+      "id": 132,
+      "text": "Käytä Palveluita tavaroiden ja palveluiden mainostamiseen tai myyntiin tarjoamiseen."
+    },
+    {
+      "id": 133,
+      "text": "Myy tai muuten siirrä profiilisi."
+    },
+    {
+      "id": 134,
+      "text": "9. KÄYTTÄJIEN TUOTTAMA SISÄLTÖ"
+    },
+    {
+      "id": 135,
+      "text": "Palvelut voivat kutsua sinut keskustelemaan, osallistumaan tai liittymään blogeihin, viestitauluihin, verkkofoorumeihin ja muihin toimintoihin ja voivat tarjota sinulle mahdollisuuden luoda, lähettää, julkaista, esittää, välittää, suorittaa, julkaista, jakaa tai lähettää sisältöä ja materiaaleja meille tai Palveluihin, mukaan lukien rajoituksetta teksti, kirjoitukset, video, ääni, valokuvat, grafiikka, kommentit, ehdotukset tai henkilötiedot tai muu materiaali (yhdessä &quot;Sisältö&quot;). Muut Palveluiden käyttäjät ja kolmannen osapuolen verkkosivustot voivat nähdä Sisällön. Näin ollen kaikki lähettämäsi Sisältö voidaan katsoa ei-luottamukselliseksi ja ei-omistusoikeudelliseksi. Kun luot tai asetat saataville Sisältöä, vakuutat, että:"
+    },
+    {
+      "id": 136,
+      "text": "Sisältösi luominen, jakelu, välittäminen, julkinen esittäminen tai suorittaminen sekä Sisältösi käyttäminen, lataaminen tai kopioiminen eivät loukkaa eivätkä tule loukkaamaan kolmannen osapuolen omistusoikeuksia, mukaan lukien rajoituksetta tekijänoikeus, patentti, tavaramerkki, liikesalaisuus tai moraaliset oikeudet."
+    },
+    {
+      "id": 137,
+      "text": "Olet luoja ja omistaja tai sinulla on tarvittavat lisenssit, oikeudet, suostumukset, vapautukset ja luvat käyttää ja valtuuttaa meidät, Palvelut ja muut Palveluiden käyttäjät käyttämään Sisältöäsi millä tahansa Palveluiden ja näiden Oikeudellisten ehtojen tarkoittamalla tavalla."
+    },
+    {
+      "id": 138,
+      "text": "Sinulla on jokaisen Sisällössäsi olevan tunnistettavan henkilön kirjallinen suostumus, vapautus ja/tai lupa käyttää jokaisen tällaisen tunnistettavan henkilön nimeä tai kuvaa, jotta Sisältösi voidaan sisällyttää ja käyttää millä tahansa Palveluiden ja näiden Oikeudellisten ehtojen tarkoittamalla tavalla."
+    },
+    {
+      "id": 139,
+      "text": "Sisältösi ei ole virheellistä, epätarkkaa tai harhaanjohtavaa."
+    },
+    {
+      "id": 140,
+      "text": "Sisältösi ei ole ei-toivottua tai luvatonta mainontaa, myynninedistämismateriaalia, pyramidihuijauksia, ketjukirjeitä, roskapostia, massapostituksia tai muita houkuttelumuotoja."
+    },
+    {
+      "id": 141,
+      "text": "Sisältösi ei ole säädytöntä, rivoutta, himokasta, likaista, väkivaltaista, häiritsevää, herjaavaa, panettelevaa tai muuten moitittavaa (meidän määrittämällämme tavalla)."
+    },
+    {
+      "id": 142,
+      "text": "Sisältösi ei pilkkaa, halveksi, pelottele tai hyväksikäytä ketään."
+    },
+    {
+      "id": 143,
+      "text": "Sisältöäsi ei käytetä toisen henkilön häiritsemiseen tai uhkaamiseen (näiden termien oikeudellisessa merkityksessä) eikä väkivallan edistämiseen tiettyä henkilöä tai ihmisryhmää vastaan."
+    },
+    {
+      "id": 144,
+      "text": "Sisältösi ei riko sovellettavaa lakia, sääntelyä tai sääntöä."
+    },
+    {
+      "id": 145,
+      "text": "Sisältösi ei loukkaa kolmannen osapuolen yksityisyys- tai julkisuusoikeuksia."
+    },
+    {
+      "id": 146,
+      "text": "Sisältösi ei riko sovellettavaa lakia, joka koskee lapsipornografiaa, tai ole muuten tarkoitettu suojelemaan alaikäisten terveyttä tai hyvinvointia."
+    },
+    {
+      "id": 147,
+      "text": "Sisältösi ei sisällä loukkaavia kommentteja, jotka liittyvät rotuun, kansalliseen alkuperään, sukupuoleen, seksuaaliseen mieltymykseen tai fyysiseen vammaan."
+    },
+    {
+      "id": 148,
+      "text": "Sisältösi ei muuten riko näiden Oikeudellisten ehtojen määräystä tai linkitä materiaaliin, joka rikkoo sitä, eikä sovellettavaa lakia tai sääntelyä."
+    },
+    {
+      "id": 149,
+      "text": "Palveluiden käyttö edellä olevan vastaisesti rikkoo näitä Oikeudellisia ehtoja ja voi johtaa muun muassa oikeutesi Palveluiden käyttöön päättämiseen tai keskeyttämiseen."
+    },
+    {
+      "id": 150,
+      "text": "10. SISÄLTÖLISENSSI"
+    },
+    {
+      "id": 151,
+      "text": "Julkaisemalla Sisältöäsi mihin tahansa Palveluiden osaan myönnät automaattisesti, ja vakuutat, että sinulla on oikeus myöntää, meille rajoittamattoman, rajattoman, peruuttamattoman, pysyvän, ei-yksinomaisen, siirrettävän, rojaltivapaan, täysin maksetun, maailmanlaajuisen oikeuden ja lisenssin isännöidä, käyttää, kopioida, jäljentää, paljastaa, myydä, jälleenmyydä, julkaista, lähettää, nimetä uudelleen, arkistoida, tallentaa, tallentaa välimuistiin, esittää julkisesti, esittää julkisesti näytöllä, muotoilla uudelleen, kääntää, välittää, lainata (kokonaan tai osittain) ja jakaa tällaista Sisältöä (mukaan lukien rajoituksetta kuvasi ja äänesi) mihin tahansa tarkoitukseen, kaupalliseen, mainontaan tai muuhun, ja valmistaa tällaisesta Sisällöstä johdannaisteoksia tai sisällyttää sitä muihin teoksiin sekä myöntää ja valtuuttaa edellä olevan alilisenssejä. Käyttö ja jakelu voivat tapahtua missä tahansa mediamuodossa ja minkä tahansa mediakanavan kautta."
+    },
+    {
+      "id": 152,
+      "text": "Tämä lisenssi koskee kaikkia muotoja, medioita tai tekniikoita, jotka tunnetaan nyt tai kehitetään myöhemmin, ja sisältää nimesi, yrityksesi nimen ja franchising-nimesi käytön soveltuvin osin sekä kaikki antamasi tavaramerkit, palvelumerkit, toiminimet, logot sekä henkilö- ja kaupalliset kuvat. Luovut kaikista moraalisista oikeuksista Sisältöösi ja vakuutat, että moraalisia oikeuksia ei ole muuten vedottu Sisältöösi."
+    },
+    {
+      "id": 153,
+      "text": "Emme väitä omistavamme Sisältöäsi. Säilytät Sisältösi ja siihen liittyvien immateriaalioikeuksien tai muiden omistusoikeuksien täyden omistajuuden. Emme ole vastuussa lausunnoista tai esityksistä Sisällössäsi, jonka olet antanut Palveluiden millä tahansa alueella. Olet yksin vastuussa Palveluihin antamastasi Sisällöstä ja hyväksyt nimenomaisesti vapauttavasi meidät kaikesta vastuusta ja pidättäytyväsi oikeustoimista meitä vastaan Sisältöäsi koskien."
+    },
+    {
+      "id": 154,
+      "text": "Meillä on oikeus yksinomaisen ja ehdottoman harkintamme mukaan (1) muokata, poistaa tai muuten muuttaa Sisältöä; (2) luokitella Sisältö uudelleen sijoittaaksemme sen sopivampiin paikkoihin Palveluissa; ja (3) esiseuloa tai poistaa Sisältöä milloin tahansa ja mistä tahansa syystä ilman ilmoitusta. Meillä ei ole velvollisuutta valvoa Sisältöäsi."
+    },
+    {
+      "id": 155,
+      "text": "11. ARVOSTELUJEN OHJEET"
+    },
+    {
+      "id": 156,
+      "text": "Voimme tarjota sinulle Palveluissa alueita arvostelujen tai arvioiden jättämiseen. Arvostelua julkaistessasi sinun on noudatettava seuraavia kriteerejä: (1) sinulla tulee olla omakohtaista kokemusta arvosteltavasta henkilöstä/yhteisöstä; (2) arvostelusi eivät saa sisältää loukkaavaa kirosanoja tai loukkaavaa, rasistista, moitittavaa tai vihamielistä kieltä; (3) arvostelusi eivät saa sisältää syrjiviä viittauksia uskonnon, rodun, sukupuolen, kansallisen alkuperän, iän, siviilisäädyn, seksuaalisen suuntautumisen tai vamman perusteella; (4) arvostelusi eivät saa sisältää viittauksia laittomaan toimintaan; (5) et saa olla yhteydessä kilpailijoihin, jos julkaiset negatiivisia arvosteluja; (6) et saa tehdä johtopäätöksiä toiminnan laillisuudesta; (7) et saa julkaista virheellisiä tai harhaanjohtavia lausuntoja; ja (8) et saa järjestää kampanjaa, joka kannustaa muita julkaisemaan arvosteluja, olivatpa ne positiivisia tai negatiivisia."
+    },
+    {
+      "id": 157,
+      "text": "Voimme hyväksyä, hylätä tai poistaa arvosteluja yksinomaisen harkintamme mukaan. Meillä ei ole minkäänlaista velvollisuutta seuloa tai poistaa arvosteluja, vaikka joku pitäisi arvosteluja moitittavina tai epätarkkoina. Emme tue arvosteluja, eivätkä ne välttämättä edusta mielipiteitämme tai kumppaneidemme näkemyksiä. Emme ota vastuuta arvostelusta tai arvostelusta johtuvista vaatimuksista, vastuista tai tappioista. Julkaisemalla arvostelun myönnät meille pysyvän, ei-yksinomaisen, maailmanlaajuisen, rojaltivapaan, täysin maksetun, luovutettavissa olevan ja alilisensoitavissa olevan oikeuden ja lisenssin jäljentää, muokata, kääntää, välittää millä tahansa keinolla, esittää, suorittaa ja/tai jakaa kaikkea arvosteluun liittyvää sisältöä."
+    },
+    {
+      "id": 158,
+      "text": "12. PALVELUIDEN HALLINTA"
+    },
+    {
+      "id": 159,
+      "text": "Pidätämme oikeuden, mutta emme velvollisuutta: (1) valvoa Palveluita näiden Oikeudellisten ehtojen rikkomusten varalta; (2) ryhtyä asianmukaisiin oikeustoimiin ketä tahansa vastaan, joka yksinomaisen harkintamme mukaan rikkoo lakia tai näitä Oikeudellisia ehtoja, mukaan lukien rajoituksetta tällaisen käyttäjän ilmoittaminen lainvalvontaviranomaisille; (3) yksinomaisen harkintamme mukaan ja rajoituksetta kieltäytyä, rajoittaa pääsyä, rajoittaa saatavuutta tai poistaa käytöstä (teknisesti mahdollisessa laajuudessa) mikä tahansa Sisältösi tai sen osa; (4) yksinomaisen harkintamme mukaan ja ilman rajoitusta, ilmoitusta tai vastuuta poistaa Palveluista tai muuten poistaa käytöstä kaikki tiedostot ja sisältö, jotka ovat kooltaan liiallisia tai muuten kuormittavat järjestelmiämme; ja (5) muuten hallita Palveluita tavalla, joka on suunniteltu suojelemaan oikeuksiamme ja omaisuuttamme ja helpottamaan Palveluiden asianmukaista toimintaa."
+    },
+    {
+      "id": 160,
+      "text": "13. TIETOSUOJAKÄYTÄNTÖ"
+    },
+    {
+      "id": 161,
+      "text": "Välitämme tietosuojasta ja turvallisuudesta. Tutustu "
+    },
+    {
+      "id": 162,
+      "text": "Tietosuojakäytäntöömme"
+    },
+    {
+      "id": 163,
+      "text": ". Käyttämällä Palveluita hyväksyt sitoutuvasi Tietosuojakäytäntöömme, joka on sisällytetty näihin Oikeudellisiin ehtoihin. Huomaa, että Palveluita isännöidään Yhdysvalloissa. Jos käytät Palveluita miltä tahansa muulta maailman alueelta, jossa henkilötietojen keräämistä, käyttöä tai paljastamista koskevat lait tai muut vaatimukset eroavat Yhdysvalloissa sovellettavista laeista, jatkuva Palveluiden käyttösi siirtää tietosi Yhdysvaltoihin ja hyväksyt nimenomaisesti, että tietosi siirretään Yhdysvaltoihin ja käsitellään siellä."
+    },
+    {
+      "id": 164,
+      "text": "14. VOIMASSAOLO JA PÄÄTTÄMINEN"
+    },
+    {
+      "id": 165,
+      "text": "Nämä Oikeudelliset ehdot pysyvät täysin voimassa, kun käytät Palveluita. RAJOITTAMATTA MITÄÄN MUUTA NÄIDEN OIKEUDELLISTEN EHTOJEN MÄÄRÄYSTÄ PIDÄTÄMME OIKEUDEN YKSINOMAISEN HARKINTAMME MUKAAN JA ILMAN ILMOITUSTA TAI VASTUUTA KIELTÄÄ PÄÄSYN PALVELUIHIN JA NIIDEN KÄYTÖN (MUKAAN LUKIEN TIETTYJEN IP-OSOITTEIDEN ESTÄMINEN) KENELTÄ TAHANSA MISTÄ TAHANSA SYYSTÄ TAI ILMAN SYYTÄ, MUKAAN LUKIEN RAJOITUKSETTA NÄISSÄ OIKEUDELLISISSA EHDOISSA OLEVAN VAKUUTUKSEN, TAKUUN TAI SITOUMUKSEN TAI SOVELLETTAVAN LAIN TAI SÄÄNTELYN RIKKOMINEN. VOIMME LOPETTAA KÄYTTÖSI TAI OSALLISTUMISESI PALVELUIHIN TAI POISTAA TILISI JA JULKAISEMASI SISÄLLÖN TAI TIEDOT MILLOIN TAHANSA ILMAN VAROITUSTA YKSINOMAISEN HARKINTAMME MUKAAN."
+    },
+    {
+      "id": 166,
+      "text": "Jos lopetamme tai keskeytämme tilisi mistä tahansa syystä, sinulta on kielletty rekisteröityminen ja uuden tilin luominen omalla nimelläsi, vale- tai lainatulla nimellä tai kolmannen osapuolen nimellä, vaikka toimisit kolmannen osapuolen puolesta. Tilisi lopettamisen tai keskeyttämisen lisäksi pidätämme oikeuden ryhtyä asianmukaisiin oikeustoimiin, mukaan lukien rajoituksetta siviili-, rikos- ja kielto-oikeudelliset toimet."
+    },
+    {
+      "id": 167,
+      "text": "15. MUUTOKSET JA KESKEYTYKSET"
+    },
+    {
+      "id": 168,
+      "text": "Pidätämme oikeuden muuttaa, muokata tai poistaa Palveluiden sisältöä milloin tahansa tai mistä tahansa syystä yksinomaisen harkintamme mukaan ilman ilmoitusta. Meillä ei kuitenkaan ole velvollisuutta päivittää Palveluidemme tietoja. Emme ole vastuussa sinulle tai kolmannelle osapuolelle Palveluiden muutoksesta, hinnanmuutoksesta, keskeyttämisestä tai lopettamisesta."
+    },
+    {
+      "id": 169,
+      "text": "Emme voi taata, että Palvelut ovat saatavilla koko ajan. Voimme kohdata laitteisto-, ohjelmisto- tai muita ongelmia tai joutua suorittamaan Palveluihin liittyvää ylläpitoa, mikä johtaa keskeytyksiin, viivästyksiin tai virheisiin. Pidätämme oikeuden muuttaa, tarkistaa, päivittää, keskeyttää, lopettaa tai muuten muokata Palveluita milloin tahansa tai mistä tahansa syystä ilman ilmoitusta sinulle. Hyväksyt, että meillä ei ole minkäänlaista vastuuta tappiosta, vahingosta tai haitasta, joka aiheutuu kyvyttömyydestäsi käyttää Palveluita niiden käyttökatkon tai lopettamisen aikana. Mitään näissä Oikeudellisissa ehdoissa ei tulkita velvoittavan meitä ylläpitämään ja tukemaan Palveluita tai toimittamaan niihin liittyviä korjauksia, päivityksiä tai julkaisuja."
+    },
+    {
+      "id": 170,
+      "text": "16. SOVELLETTAVA LAKI"
+    },
+    {
+      "id": 171,
+      "text": "Näihin Oikeudellisiin ehtoihin ja Palveluiden käyttöösi sovelletaan Delawaren osavaltion lakeja, jotka koskevat sopimuksia, jotka on tehty ja jotka on kokonaan suoritettava Delawaren osavaltiossa, ottamatta huomioon sen lainvalintaperiaatteita, ja niitä tulkitaan niiden mukaisesti."
+    },
+    {
+      "id": 172,
+      "text": "17. RIITOJEN RATKAISU"
+    },
+    {
+      "id": 173,
+      "text": "Epäviralliset neuvottelut"
+    },
+    {
+      "id": 174,
+      "text": "Riidan ratkaisun nopeuttamiseksi ja kustannusten hallitsemiseksi kaikki näihin Oikeudellisiin ehtoihin liittyvät riidat, erimielisyydet tai vaatimukset (kukin &quot;Riita&quot; ja yhdessä &quot;Riidat&quot;), jotka joko sinä tai me esitämme (yksittäin &quot;Osapuoli&quot; ja yhdessä &quot;Osapuolet&quot;), Osapuolet sopivat yrittävänsä ensin neuvotella Riidasta (lukuun ottamatta jäljempänä nimenomaisesti esitettyjä Riitoja) epävirallisesti vähintään kolmekymmentä (30) päivää ennen välimiesmenettelyn aloittamista. Tällaiset epäviralliset neuvottelut alkavat yhden Osapuolen toiselle Osapuolelle antamasta kirjallisesta ilmoituksesta."
+    },
+    {
+      "id": 175,
+      "text": "Sitova välimiesmenettely"
+    },
+    {
+      "id": 176,
+      "text": "Jos Osapuolet eivät pysty ratkaisemaan Riitaa epävirallisin neuvotteluin, Riita (lukuun ottamatta jäljempänä nimenomaisesti poissuljettuja Riitoja) ratkaistaan lopullisesti ja yksinomaan sitovalla välimiesmenettelyllä. YMMÄRRÄT, ETTÄ ILMAN TÄTÄ MÄÄRÄYSTÄ SINULLA OLISI OIKEUS HAKEA OIKEUTTA TUOMIOISTUIMESSA JA SAADA VALAMIEHISTÖN OIKEUDENKÄYNTI. Välimiesmenettely aloitetaan ja suoritetaan American Arbitration Associationin (&quot;AAA&quot;) kaupallisten välimiesmenettelysääntöjen mukaisesti ja tarvittaessa AAA:n kuluttajariitoja koskevien lisämenettelyjen (&quot;AAA:n kuluttajasäännöt&quot;) mukaisesti, jotka molemmat ovat saatavilla "
+    },
+    {
+      "id": 177,
+      "text": "American Arbitration Associationin (AAA) verkkosivustolla"
+    },
+    {
+      "id": 178,
+      "text": ". Välimiesmenettelymaksujasi ja osuuttasi välimiehen korvauksesta säännellään AAA:n kuluttajasäännöillä ja tarvittaessa rajoitetaan niillä. Välimiesmenettely voidaan suorittaa henkilökohtaisesti, asiakirjojen lähettämisen kautta, puhelimitse tai verkossa. Välimies tekee päätöksen kirjallisesti, mutta hänen ei tarvitse antaa perusteluja, ellei jompikumpi Osapuoli sitä pyydä. Välimiehen on noudatettava sovellettavaa lakia, ja palkinto voidaan riitauttaa, jos välimies ei tee niin. Lukuun ottamatta tapauksia, joissa sovellettavat AAA:n säännöt tai sovellettava laki muuta vaativat, välimiesmenettely tapahtuu Kaliforniassa."
+    },
+    {
+      "id": 179,
+      "text": "Lukuun ottamatta tässä muuta esitettyä, Osapuolet voivat viedä asian tuomioistuimeen välimiesmenettelyn pakottamiseksi, menettelyn keskeyttämiseksi välimiesmenettelyn ajaksi tai välimiehen antaman palkinnon vahvistamiseksi, muuttamiseksi, kumoamiseksi tai tuomion antamiseksi sen perusteella."
+    },
+    {
+      "id": 180,
+      "text": "Jos Riita jostain syystä etenee tuomioistuimeen välimiesmenettelyn sijaan, Riita aloitetaan tai viedään eteenpäin Kaliforniassa sijaitsevissa osavaltion ja liittovaltion tuomioistuimissa, ja Osapuolet suostuvat täten ja luopuvat kaikista puolustuksista, jotka koskevat henkilökohtaisen tuomiovallan puutetta ja forum non conveniens -periaatetta tällaisten osavaltion ja liittovaltion tuomioistuinten paikan ja tuomiovallan osalta. Yhdistyneiden kansakuntien yleissopimusta kansainvälistä tavaran kauppaa koskevista sopimuksista ja Uniform Computer Information Transaction Act (UCITA) -lakia ei sovelleta näihin Oikeudellisiin ehtoihin."
+    },
+    {
+      "id": 181,
+      "text": "Missään tapauksessa kummankaan Osapuolen Palveluihin millään tavalla liittyvää Riitaa ei saa aloittaa yli yhtä (1) vuotta sen jälkeen, kun kanneperuste syntyi. Jos tämä määräys todetaan laittomaksi tai täytäntöönpanokelvottomaksi, kumpikaan Osapuoli ei valitse välimiesmenettelyä Riidalle, joka kuuluu tämän määräyksen laittomaksi tai täytäntöönpanokelvottomaksi todettuun osaan, ja tällaisen Riidan ratkaisee toimivaltainen tuomioistuin edellä tuomiovallan osalta luetelluissa tuomioistuimissa, ja Osapuolet suostuvat alistumaan kyseisen tuomioistuimen henkilökohtaiseen tuomiovaltaan."
+    },
+    {
+      "id": 182,
+      "text": "Rajoitukset"
+    },
+    {
+      "id": 183,
+      "text": "Osapuolet sopivat, että välimiesmenettely rajoittuu Osapuolten väliseen Riitaan yksilöllisesti. Lain sallimassa täydessä laajuudessa (a) välimiesmenettelyä ei yhdistetä muuhun menettelyyn; (b) Riitaa ei ole oikeutta tai valtaa käsitellä välimiesmenettelyssä ryhmäkanteen perusteella tai käyttää ryhmäkannemenettelyjä; ja (c) Riitaa ei ole oikeutta tai valtaa tuoda väitettyyn edustukselliseen asemaan suuren yleisön tai muiden henkilöiden puolesta."
+    },
+    {
+      "id": 184,
+      "text": "Poikkeukset epävirallisiin neuvotteluihin ja välimiesmenettelyyn"
+    },
+    {
+      "id": 185,
+      "text": "Osapuolet sopivat, että seuraavat Riidat eivät kuulu edellä olevien epävirallisia neuvotteluja ja sitovaa välimiesmenettelyä koskevien määräysten piiriin: (a) Riidat, joilla pyritään täytäntöönpanemaan tai suojelemaan Osapuolen immateriaalioikeuksia tai jotka koskevat niiden pätevyyttä; (b) Riidat, jotka liittyvät varkautta, piratismia, yksityisyyden loukkaamista tai luvatonta käyttöä koskeviin väitteisiin tai johtuvat niistä; ja (c) vaatimukset kielto-oikeudellisesta helpotuksesta. Jos tämä määräys todetaan laittomaksi tai täytäntöönpanokelvottomaksi, kumpikaan Osapuoli ei valitse välimiesmenettelyä Riidalle, joka kuuluu tämän määräyksen laittomaksi tai täytäntöönpanokelvottomaksi todettuun osaan, ja tällaisen Riidan ratkaisee toimivaltainen tuomioistuin edellä tuomiovallan osalta luetelluissa tuomioistuimissa, ja Osapuolet suostuvat alistumaan kyseisen tuomioistuimen henkilökohtaiseen tuomiovaltaan."
+    },
+    {
+      "id": 186,
+      "text": "18. KORJAUKSET"
+    },
+    {
+      "id": 187,
+      "text": "Palveluissa voi olla tietoja, jotka sisältävät kirjoitusvirheitä, epätarkkuuksia tai puutteita, mukaan lukien kuvaukset, hinnoittelu, saatavuus ja useat muut tiedot. Pidätämme oikeuden korjata virheet, epätarkkuudet tai puutteet ja muuttaa tai päivittää Palveluiden tietoja milloin tahansa ilman ennakkoilmoitusta."
+    },
+    {
+      "id": 188,
+      "text": "19. VASTUUVAPAUSLAUSEKE"
+    },
+    {
+      "id": 189,
+      "text": "PALVELUT TARJOTAAN &quot;SELLAISINAAN&quot; JA &quot;SAATAVILLA OLEVINA&quot;. HYVÄKSYT, ETTÄ PALVELUIDEN KÄYTTÖSI ON YKSIN SINUN RISKILLÄSI. LAIN SALLIMASSA TÄYDEESSÄ LAAJUUDESSA KIELLÄMME KAIKKI TAKUUT, NIMENOMAISET TAI EPÄSUORAT, PALVELUIHIN JA NIIDEN KÄYTTÖÖSI LIITTYEN, MUKAAN LUKIEN RAJOITUKSETTA EPÄSUORAT TAKUUT MYYNTIKELPOISUUDESTA, SOPIVUUDESTA TIETTYYN TARKOITUKSEEN JA LOUKKAAMATTOMUUDESTA. EMME ANNA TAKUITA TAI ESITYKSIÄ PALVELUIDEN SISÄLLÖN TAI PALVELUIHIN LINKITETTYJEN VERKKOSIVUSTOJEN TAI MOBIILISOVELLUSTEN SISÄLLÖN TARKKUUDESTA TAI TÄYDELLISYYDESTÄ EMMEKÄ OTA VASTUUTA (1) SISÄLLÖN JA MATERIAALIEN VIRHEISTÄ, EREHDYKSISTÄ TAI EPÄTARKKUUKSISTA, (2) HENKILÖVAHINGOISTA TAI OMAISUUSVAHINGOISTA, LUONTEELTAAN MILLAISISTA TAHANSA, JOTKA JOHTUVAT PALVELUIDEN KÄYTÖSTÄSI, (3) LUVATTOMASTA PÄÄSYSTÄ SUOJATTUIHIN PALVELIMIIMME JA/TAI NIIHIN TALLENNETTUIHIN HENKILÖTIETOIHIN JA/TAI TALOUDELLISIIN TIETOIHIN TAI NIIDEN KÄYTÖSTÄ, (4) PALVELUIHIN TAI PALVELUISTA TAPAHTUVAN LÄHETYKSEN KESKEYTYMISESTÄ TAI LOPETTAMISESTA, (5) VIRHEISTÄ, VIRUKSISTA, TROIJALAISISTA TAI VASTAAVISTA, JOITA KOLMAS OSAPUOLI VOI VÄLITTÄÄ PALVELUIHIN TAI NIIDEN KAUTTA, JA/TAI (6) SISÄLLÖN JA MATERIAALIEN VIRHEISTÄ TAI PUUTTEISTA TAI TAPPIOISTA TAI VAHINGOISTA, JOITA AIHEUTUU PALVELUIDEN KAUTTA JULKAISTUN, VÄLITETYN TAI MUUTEN SAATAVILLE ASETETUN SISÄLLÖN KÄYTÖSTÄ. EMME TAKAA, TUE, VARMISTA TAI OTA VASTUUTA TUOTTEESTA TAI PALVELUSTA, JOTA KOLMAS OSAPUOLI MAINOSTAA TAI TARJOAA PALVELUIDEN KAUTTA, HYPERLINKITETYSTÄ VERKKOSIVUSTOSTA TAI VERKKOSIVUSTOSTA TAI MOBIILISOVELLUKSESTA, JOKA ON ESILLÄ BANNERISSA TAI MUUSSA MAINONNASSA, EMMEKÄ OLE OSAPUOLENA TAI MILLÄÄN TAVALLA VASTUUSSA SINUN JA KOLMANNEN OSAPUOLEN TUOTTEIDEN TAI PALVELUIDEN TARJOAJIEN VÄLISTEN TAPAHTUMIEN VALVONNASTA. KUTEN TUOTTEEN TAI PALVELUN OSTAMISESSA MINKÄ TAHANSA VÄLINEEN KAUTTA TAI MISSÄ TAHANSA YMPÄRISTÖSSÄ, SINUN TULEE KÄYTTÄÄ PARASTA HARKINTAASI JA NOUDATTAA VAROVAISUUTTA TARVITTAESSA."
+    },
+    {
+      "id": 190,
+      "text": "20. VASTUUN RAJOITUKSET"
+    },
+    {
+      "id": 191,
+      "text": "MISSÄÄN TAPAUKSESSA ME TAI JOHTAJAMME, TYÖNTEKIJÄMME TAI EDUSTAJAMME EMME OLE VASTUUSSA SINULLE TAI KOLMANNELLE OSAPUOLELLE SUORISTA, EPÄSUORISTA, SEURAAMUKSELLISISTA, ESIMERKILLISISTÄ, SATUNNAISISTA, ERITYISISTÄ TAI RANGAISTUSLUONTEISISTA VAHINGOISTA, MUKAAN LUKIEN MENETETTY VOITTO, MENETETTY TULO, TIETOJEN MENETYS TAI MUUT PALVELUIDEN KÄYTÖSTÄSI JOHTUVAT VAHINGOT, VAIKKA MEILLE OLISI ILMOITETTU TÄLLAISTEN VAHINKOJEN MAHDOLLISUUDESTA. HUOLIMATTA MISTÄÄN TÄSSÄ ESITETYSTÄ PÄINVASTAISESTA, VASTUUMME SINULLE MISTÄ TAHANSA SYYSTÄ JA TOIMEN MUODOSTA RIIPPUMATTA ON AINA RAJOITETTU SUMMAAN, JONKA OLET mahdollisesti MAKSANUT MEILLE KOLMEN (3) KUUKAUDEN AIKANA ENNEN kanneperusteen SYNTYMISTÄ. TIETYT YHDYSVALTAIN OSAVALTIOIDEN LAIT JA KANSAINVÄLISET LAIT EIVÄT SALLI EPÄSUORIEN TAKUIDEN RAJOITUKSIA TAI TIETTYJEN VAHINKOJEN POISSULKEMISTA TAI RAJOITTAMISTA. JOS NÄMÄ LAIT KOSKEVAT SINUA, JOTKIN TAI KAIKKI EDELLÄ OLEVAT VASTUUVAPAUSLAUSEKKEET TAI RAJOITUKSET EIVÄT VÄLTTÄMÄTTÄ KOSKE SINUA, JA SINULLA VOI OLLA LISÄOIKEUKSIA."
+    },
+    {
+      "id": 192,
+      "text": "21. VAHINGONKORVAUSVASTUU"
+    },
+    {
+      "id": 193,
+      "text": "Hyväksyt puolustavasi, korvaavasi ja pitäväsi meidät vahingoittumattomina, mukaan lukien tytäryhtiömme, kumppanimme ja kaikki vastaavat johtajamme, edustajamme, kumppanimme ja työntekijämme, kaikista tappioista, vahingoista, vastuista, vaatimuksista tai pyynnöistä, mukaan lukien kohtuulliset asianajajien palkkiot ja kulut, jotka kolmas osapuoli esittää johtuen tai johtuen: (1) Sisällöstäsi; (2) Palveluiden käytöstä; (3) näiden Oikeudellisten ehtojen rikkomisesta; (4) näissä Oikeudellisissa ehdoissa esitettyjen vakuutustesi ja takuidesi rikkomisesta; (5) kolmannen osapuolen oikeuksien rikkomisestasi, mukaan lukien rajoituksetta immateriaalioikeudet; tai (6) avoimesti haitallisesta teosta toista Palveluiden käyttäjää kohtaan, johon olit yhteydessä Palveluiden kautta. Edellä olevasta huolimatta pidätämme oikeuden kustannuksellasi ottaa yksinomaisen puolustuksen ja hallinnan asiassa, jossa sinun on korvattava meille, ja hyväksyt tekeväsi yhteistyötä kustannuksellasi puolustuksemme kanssa tällaisia vaatimuksia vastaan. Käytämme kohtuullisia ponnisteluja ilmoittaaksemme sinulle tällaisesta vaatimuksesta, toimesta tai menettelystä, joka kuuluu tämän korvauksen piiriin, kun saamme sen tietoomme."
+    },
+    {
+      "id": 194,
+      "text": "22. KÄYTTÄJÄTIEDOT"
+    },
+    {
+      "id": 195,
+      "text": "Säilytämme tiettyjä tietoja, jotka välität Palveluihin Palveluiden suorituskyvyn hallintaa varten, sekä tietoja, jotka liittyvät Palveluiden käyttöösi. Vaikka suoritamme säännöllisiä rutiinivarmuuskopioita tiedoista, olet yksin vastuussa kaikista tiedoista, jotka välität tai jotka liittyvät toimintaan, jonka olet suorittanut Palveluita käyttäen. Hyväksyt, että meillä ei ole vastuuta sinulle tällaisten tietojen menetyksestä tai turmeltumisesta, ja luovut täten kaikista oikeustoimista meitä vastaan, jotka johtuvat tällaisten tietojen menetyksestä tai turmeltumisesta."
+    },
+    {
+      "id": 196,
+      "text": "23. SÄHKÖINEN VIESTINTÄ, TAPAHTUMAT JA ALLEKIRJOITUKSET"
+    },
+    {
+      "id": 197,
+      "text": "Palveluissa vieraileminen, sähköpostien lähettäminen meille ja verkkolomakkeiden täyttäminen ovat sähköistä viestintää. Suostut vastaanottamaan sähköistä viestintää ja hyväksyt, että kaikki sopimukset, ilmoitukset, paljastukset ja muu viestintä, jonka tarjoamme sinulle sähköisesti, sähköpostitse ja Palveluissa, täyttävät oikeudellisen vaatimuksen, jonka mukaan tällaisen viestinnän on oltava kirjallista. HYVÄKSYT TÄTEN SÄHKÖISTEN ALLEKIRJOITUSTEN, SOPIMUSTEN, TILAUSTEN JA MUIDEN ASIAKIRJOJEN KÄYTÖN SEKÄ ILMOITUSTEN, KÄYTÄNTÖJEN JA MEIDÄN TAI PALVELUIDEN KAUTTA ALOITETTUJEN TAI SUORITETTUJEN TAPAHTUMIEN ASIAKIRJOJEN SÄHKÖISEN TOIMITTAMISEN. Luovut täten kaikista oikeuksista tai vaatimuksista minkä tahansa lainkäyttöalueen lakien, asetusten, sääntöjen, määräysten tai muiden lakien nojalla, jotka vaativat alkuperäistä allekirjoitusta tai ei-sähköisten asiakirjojen toimittamista tai säilyttämistä, tai maksuista tai luottojen myöntämisestä muilla kuin sähköisillä keinoilla."
+    },
+    {
+      "id": 198,
+      "text": "24. KALIFORNIAN KÄYTTÄJÄT JA ASUKKAAT"
+    },
+    {
+      "id": 199,
+      "text": "Jos valitustamme ei ratkaista tyydyttävästi, voit ottaa yhteyttä Kalifornian kuluttaja-asioiden osaston kuluttajapalvelujen yksikön valitusapuyksikköön kirjallisesti osoitteessa 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 tai puhelimitse numeroissa (800) 952-5210 tai (916) 445-1254."
+    },
+    {
+      "id": 200,
+      "text": "25. SEKALAISTA"
+    },
+    {
+      "id": 201,
+      "text": "Nämä Oikeudelliset ehdot ja kaikki käytännöt tai toimintasäännöt, jotka julkaisemme Palveluissa tai Palveluihin liittyen, muodostavat koko sopimuksen ja yhteisymmärryksen sinun ja meidän välillämme. Jos emme käytä tai pane täytäntöön Oikeudellisten ehtojen oikeutta tai määräystä, se ei tarkoita luopumista tällaisesta oikeudesta tai määräyksestä. Nämä Oikeudelliset ehdot toimivat lain sallimassa täydessä laajuudessa. Voimme luovuttaa kaikki tai osan oikeuksistamme ja velvollisuuksistamme muille milloin tahansa. Emme ole vastuussa tappiosta, vahingosta, viivästyksestä tai toimimattomuudesta, joka johtuu syystä, joka on kohtuullisen hallintamme ulkopuolella. Jos Oikeudellisten ehtojen määräys tai määräyksen osa todetaan laittomaksi, mitättömäksi tai täytäntöönpanokelvottomaksi, kyseinen määräys tai määräyksen osa katsotaan erotettavaksi näistä Oikeudellisista ehdoista eikä se vaikuta jäljellä olevien määräysten pätevyyteen ja täytäntöönpanokelpoisuuteen. Sinun ja meidän välillemme ei synny yhteisyritys-, kumppanuus-, työsuhde- tai edustussuhdetta näiden Oikeudellisten ehtojen tai Palveluiden käytön seurauksena. Hyväksyt, että näitä Oikeudellisia ehtoja ei tulkita meitä vastaan sillä perusteella, että olemme laatineet ne. Luovut täten kaikista puolustuksista, joita sinulla voi olla näiden Oikeudellisten ehtojen sähköisen muodon ja osapuolten allekirjoituksen puuttumisen perusteella näiden Oikeudellisten ehtojen täytäntöönpanemiseksi."
+    },
+    {
+      "id": 202,
+      "text": "26. YHTEYSTIEDOT"
+    },
+    {
+      "id": 203,
+      "text": "Ratkaistaksesi Palveluita koskevan valituksen tai saadaksesi lisätietoja Palveluiden käytöstä, ota meihin yhteyttä osoitteessa:"
+    },
+    {
+      "id": 204,
+      "text": "Tava Labs, LLC"
+    },
+    {
+      "id": 205,
+      "text": "1521 Blake St STE 95593"
+    },
+    {
+      "id": 206,
+      "text": "Denver, CO 80202"
+    },
+    {
+      "id": 207,
+      "text": "United States"
+    },
+    {
+      "id": 208,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 209,
+      "text": "Nämä Käyttöehdot on luotu Termlyn "
+    },
+    {
+      "id": 210,
+      "text": "Käyttöehtojen luontityökalulla"
+    },
+    {
+      "id": 211,
+      "text": "."
+    }
+  ]
+}

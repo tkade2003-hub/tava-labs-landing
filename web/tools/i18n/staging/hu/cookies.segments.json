@@ -1,0 +1,119 @@
+{
+ "slug": "cookies",
+ "title": "Sütiszabályzat | Tava Labs",
+ "description": "Hogyan használ a Tava Labs weboldala sütiket és hasonló eszközöket, amikor Ön felkeresi a tavalabs.app oldalt, mit tárolnak ezek, és hogyan szabályozhatja őket.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "Jogi"
+  },
+  {
+   "id": 1,
+   "text": "Sütiszabályzat"
+  },
+  {
+   "id": 2,
+   "text": "Utolsó frissítés: 2026. november 17."
+  },
+  {
+   "id": 3,
+   "text": "Ez a sütiszabályzat elmagyarázza, hogyan használ a Tava Labs (&quot;Tava Labs&quot;, &quot;mi&quot;) sütiket és hasonló technológiákat a tavalabs.app oldalon (a &quot;Weboldal&quot;). A Weboldal használatával Ön hozzájárul a sütik használatához az ebben a szabályzatban leírtak szerint."
+  },
+  {
+   "id": 4,
+   "text": "Mik azok a sütik?"
+  },
+  {
+   "id": 5,
+   "text": "A sütik kis szöveges fájlok, amelyek az Ön eszközén tárolódnak, amikor felkeres egy weboldalt. Segítenek a weboldalnak megjegyezni az Ön műveleteit és beállításait, biztonságban tartani a fizetést, és segítenek megérteni, hogyan használják a látogatók a Weboldalt, hogy javíthassuk azt. A hasonló technológiák közé tartoznak a képpontok, a címkék és a helyi tárolás, amelyekre ebben a szabályzatban együttesen &quot;sütiként&quot; hivatkozunk."
+  },
+  {
+   "id": 6,
+   "text": "Az általunk használt sütik típusai"
+  },
+  {
+   "id": 7,
+   "text": "Feltétlenül szükséges sütik."
+  },
+  {
+   "id": 8,
+   "text": " Ezek elengedhetetlenek a Weboldal működéséhez, például ahhoz, hogy a termékek a kosarában maradjanak, a fizetés biztonságosan történjen, és a csalás megelőzhető legyen. A Weboldal nélkülük nem tud megfelelően működni, és nem kapcsolhatók ki."
+  },
+  {
+   "id": 9,
+   "text": "Funkcionális sütik."
+  },
+  {
+   "id": 10,
+   "text": " Ezek megjegyzik az Ön választásait (például a bőrkvízünk során megadott beállításait), hogy személyesebb élményt nyújtsanak."
+  },
+  {
+   "id": 11,
+   "text": "Elemző és teljesítmény sütik."
+  },
+  {
+   "id": 12,
+   "text": " Ezek segítenek megszámolni a látogatásokat és megérteni, hogyan mozognak a látogatók a Weboldalon, hogy mérhessük és javíthassuk a teljesítményt. Az összegyűjtött információk összesítettek és lehetőség szerint anonimek."
+  },
+  {
+   "id": 13,
+   "text": "Marketing és hirdetési sütik."
+  },
+  {
+   "id": 14,
+   "text": " Ezeket mi vagy hirdetési partnereink helyezhetik el, hogy profilt alkossanak az Ön érdeklődési köreiről, és releváns hirdetéseket jelenítsenek meg Önnek más weboldalakon. Nem tárolnak közvetlenül személyes információkat, hanem a böngészője és eszköze egyedi azonosításán alapulnak."
+  },
+  {
+   "id": 15,
+   "text": "Harmadik féltől származó sütik"
+  },
+  {
+   "id": 16,
+   "text": "Egyes sütiket harmadik fél szolgáltatásai helyeznek el, amelyek megjelennek az oldalainkon vagy tranzakciókat dolgoznak fel számunkra, például a fizetési szolgáltatónk (Stripe) a biztonságos fizetéshez, a tárhelyszolgáltatónk, valamint elemző vagy hirdetési partnereink. Ezek a harmadik felek a saját adatvédelmi szabályzataiknak megfelelően használhatnak sütiket, amelyeket javaslunk átnézni."
+  },
+  {
+   "id": 17,
+   "text": "Hogyan szabályozhatja a sütiket"
+  },
+  {
+   "id": 18,
+   "text": "A legtöbb webböngésző lehetővé teszi a sütik szabályozását a beállításain keresztül: letilthatja vagy törölheti a sütiket, vagy beállíthatja, hogy a böngésző figyelmeztesse, amikor sütiket küldenek. Böngészője &quot;Súgó&quot; része elmagyarázza, hogyan. Felhívjuk figyelmét, hogy a sütik letiltása befolyásolhatja a Weboldal működését: egyes funkciók, köztük a fizetés, előfordulhat, hogy nem működnek megfelelően."
+  },
+  {
+   "id": 19,
+   "text": "Egyes böngészők &quot;Do Not Track&quot; (követés letiltása) jelet küldenek. Mivel nincs egységes iparági szabvány arra, hogyan kell ezekre a jelekre reagálni, a Weboldal jelenleg nem reagál rájuk."
+  },
+  {
+   "id": 20,
+   "text": "A szabályzat módosításai"
+  },
+  {
+   "id": 21,
+   "text": "Időről időre frissíthetjük ezt a sütiszabályzatot, hogy tükrözze az általunk használt sütik változásait, vagy egyéb működési, jogi vagy szabályozási okokból. Lényeges változtatások esetén frissítjük a fenti &quot;Utolsó frissítés&quot; dátumot."
+  },
+  {
+   "id": 22,
+   "text": "Kapcsolatfelvétel"
+  },
+  {
+   "id": 23,
+   "text": "Kérdései vannak a sütik használatáról? Írjon nekünk a következő címre: "
+  },
+  {
+   "id": 24,
+   "text": "support@tavalabs.app"
+  },
+  {
+   "id": 25,
+   "text": ". A személyes információk kezeléséről további információt az "
+  },
+  {
+   "id": 26,
+   "text": "Adatvédelmi szabályzatunkban"
+  },
+  {
+   "id": 27,
+   "text": " talál."
+  }
+ ]
+}

@@ -1,0 +1,1319 @@
+{
+  "slug": "privacy",
+  "title": "Política de Privacidade | Tava Labs",
+  "description": "Como a Tava Labs recolhe, utiliza e protege a sua informação quando visita tavalabs.app, responde ao questionário de pele ou encomenda o PDRN Brightening Serum.",
+  "segments": [
+    {
+      "id": 0,
+      "text": "Jurídico"
+    },
+    {
+      "id": 1,
+      "text": "Política de Privacidade"
+    },
+    {
+      "id": 2,
+      "text": "Última atualização: 5 de novembro de 2026"
+    },
+    {
+      "id": 3,
+      "text": "Este Aviso de Privacidade da Tava Labs, LLC (que opera sob a designação Tava) (&quot;nós,&quot; &quot;nos&quot; ou &quot;nosso&quot;) descreve como e por que motivo podemos aceder, recolher, armazenar, utilizar e/ou partilhar (&quot;tratar&quot;) a sua informação pessoal quando utiliza os nossos serviços (&quot;Serviços&quot;), incluindo quando:"
+    },
+    {
+      "id": 4,
+      "text": "Visita o nosso website em "
+    },
+    {
+      "id": 5,
+      "text": "http://www.tavalabs.app"
+    },
+    {
+      "id": 6,
+      "text": " ou qualquer website nosso que ligue a este Aviso de Privacidade"
+    },
+    {
+      "id": 7,
+      "text": "Utiliza o Founder Wellness Score. Uma plataforma de bem-estar para fundadores e executivos medirem o seu stress, sono e aparência, para receberem recomendações de suplementos e péptidos sujeitos a receita."
+    },
+    {
+      "id": 8,
+      "text": "Interage connosco de outras formas relacionadas, incluindo marketing ou eventos"
+    },
+    {
+      "id": 9,
+      "text": "Perguntas ou preocupações?"
+    },
+    {
+      "id": 10,
+      "text": " A leitura deste Aviso de Privacidade ajudá-lo-á a compreender os seus direitos e escolhas em matéria de privacidade. Somos responsáveis pelas decisões sobre a forma como a sua informação pessoal é tratada. Se não concordar com as nossas políticas e práticas, não utilize os nossos Serviços. Se ainda tiver perguntas ou preocupações, contacte-nos através de "
+    },
+    {
+      "id": 11,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 12,
+      "text": "."
+    },
+    {
+      "id": 13,
+      "text": "RESUMO DOS PONTOS PRINCIPAIS"
+    },
+    {
+      "id": 14,
+      "text": "Este resumo apresenta os pontos principais do nosso Aviso de Privacidade, mas pode obter mais detalhes sobre qualquer um destes temas clicando na ligação a seguir a cada ponto principal ou utilizando o nosso "
+    },
+    {
+      "id": 15,
+      "text": "índice"
+    },
+    {
+      "id": 16,
+      "text": " abaixo para encontrar a secção que procura."
+    },
+    {
+      "id": 17,
+      "text": "Que informação pessoal tratamos?"
+    },
+    {
+      "id": 18,
+      "text": " Quando visita, utiliza ou navega nos nossos Serviços, podemos tratar informação pessoal consoante a forma como interage connosco e com os Serviços, as escolhas que faz e os produtos e funcionalidades que utiliza. Saiba mais sobre "
+    },
+    {
+      "id": 19,
+      "text": "a informação pessoal que nos divulga"
+    },
+    {
+      "id": 20,
+      "text": "."
+    },
+    {
+      "id": 21,
+      "text": "Tratamos alguma informação pessoal sensível?"
+    },
+    {
+      "id": 22,
+      "text": " Alguma informação pode ser considerada &quot;especial&quot; ou &quot;sensível&quot; em determinadas jurisdições, por exemplo, as suas origens raciais ou étnicas, orientação sexual e crenças religiosas. Podemos tratar informação pessoal sensível quando necessário, com o seu consentimento ou conforme permitido pela lei aplicável. Saiba mais sobre "
+    },
+    {
+      "id": 23,
+      "text": "a informação sensível que tratamos"
+    },
+    {
+      "id": 24,
+      "text": "."
+    },
+    {
+      "id": 25,
+      "text": "Recolhemos alguma informação de terceiros?"
+    },
+    {
+      "id": 26,
+      "text": " Não recolhemos qualquer informação de terceiros."
+    },
+    {
+      "id": 27,
+      "text": "Como tratamos a sua informação?"
+    },
+    {
+      "id": 28,
+      "text": " Tratamos a sua informação para fornecer, melhorar e administrar os nossos Serviços, comunicar consigo, para segurança e prevenção de fraudes e para cumprir a lei. Podemos também tratar a sua informação para outros fins com o seu consentimento. Tratamos a sua informação apenas quando temos um fundamento jurídico válido para o fazer. Saiba mais sobre "
+    },
+    {
+      "id": 29,
+      "text": "como tratamos a sua informação"
+    },
+    {
+      "id": 30,
+      "text": "."
+    },
+    {
+      "id": 31,
+      "text": "Em que situações e com que partes partilhamos informação pessoal?"
+    },
+    {
+      "id": 32,
+      "text": " Podemos partilhar informação em situações específicas e com terceiros específicos. Saiba mais sobre "
+    },
+    {
+      "id": 33,
+      "text": "quando e com quem partilhamos a sua informação pessoal"
+    },
+    {
+      "id": 34,
+      "text": "."
+    },
+    {
+      "id": 35,
+      "text": "Como mantemos a sua informação segura?"
+    },
+    {
+      "id": 36,
+      "text": " Temos processos e procedimentos organizativos e técnicos adequados para proteger a sua informação pessoal. Contudo, nenhuma transmissão eletrónica através da Internet ou tecnologia de armazenamento de informação pode ser garantida como 100% segura, pelo que não podemos prometer nem garantir que hackers, cibercriminosos ou outros terceiros não autorizados não consigam contornar a nossa segurança e recolher, aceder, roubar ou modificar indevidamente a sua informação. Saiba mais sobre "
+    },
+    {
+      "id": 37,
+      "text": "como mantemos a sua informação segura"
+    },
+    {
+      "id": 38,
+      "text": "."
+    },
+    {
+      "id": 39,
+      "text": "Quais são os seus direitos?"
+    },
+    {
+      "id": 40,
+      "text": " Consoante a sua localização geográfica, a lei de privacidade aplicável pode significar que tem determinados direitos relativamente à sua informação pessoal. Saiba mais sobre "
+    },
+    {
+      "id": 41,
+      "text": "os seus direitos de privacidade"
+    },
+    {
+      "id": 42,
+      "text": "."
+    },
+    {
+      "id": 43,
+      "text": "Como exerce os seus direitos?"
+    },
+    {
+      "id": 44,
+      "text": " A forma mais fácil de exercer os seus direitos é visitar "
+    },
+    {
+      "id": 45,
+      "text": "http://www.tavalabs.app/request-personal-information"
+    },
+    {
+      "id": 46,
+      "text": ", ou contactar-nos. Consideraremos e atuaremos sobre qualquer pedido em conformidade com as leis de proteção de dados aplicáveis."
+    },
+    {
+      "id": 47,
+      "text": "Quer saber mais sobre o que fazemos com qualquer informação que recolhemos? "
+    },
+    {
+      "id": 48,
+      "text": "Consulte o Aviso de Privacidade na íntegra"
+    },
+    {
+      "id": 49,
+      "text": "."
+    },
+    {
+      "id": 50,
+      "text": "ÍNDICE"
+    },
+    {
+      "id": 51,
+      "text": "1. QUE INFORMAÇÃO RECOLHEMOS?"
+    },
+    {
+      "id": 52,
+      "text": "2. COMO TRATAMOS A SUA INFORMAÇÃO?"
+    },
+    {
+      "id": 53,
+      "text": "3. QUANDO E COM QUEM PARTILHAMOS A SUA INFORMAÇÃO PESSOAL?"
+    },
+    {
+      "id": 54,
+      "text": "4. UTILIZAMOS COOKIES E OUTRAS TECNOLOGIAS DE SEGUIMENTO?"
+    },
+    {
+      "id": 55,
+      "text": "5. OFERECEMOS PRODUTOS BASEADOS EM INTELIGÊNCIA ARTIFICIAL?"
+    },
+    {
+      "id": 56,
+      "text": "6. COMO TRATAMOS OS SEUS INÍCIOS DE SESSÃO SOCIAIS?"
+    },
+    {
+      "id": 57,
+      "text": "7. DURANTE QUANTO TEMPO CONSERVAMOS A SUA INFORMAÇÃO?"
+    },
+    {
+      "id": 58,
+      "text": "8. COMO MANTEMOS A SUA INFORMAÇÃO SEGURA?"
+    },
+    {
+      "id": 59,
+      "text": "9. RECOLHEMOS INFORMAÇÃO DE MENORES?"
+    },
+    {
+      "id": 60,
+      "text": "10. QUAIS SÃO OS SEUS DIREITOS DE PRIVACIDADE?"
+    },
+    {
+      "id": 61,
+      "text": "11. CONTROLOS PARA FUNCIONALIDADES DO NOT TRACK"
+    },
+    {
+      "id": 62,
+      "text": "12. OS RESIDENTES NOS ESTADOS UNIDOS TÊM DIREITOS DE PRIVACIDADE ESPECÍFICOS?"
+    },
+    {
+      "id": 63,
+      "text": "13. FAZEMOS ATUALIZAÇÕES A ESTE AVISO?"
+    },
+    {
+      "id": 64,
+      "text": "14. COMO PODE CONTACTAR-NOS SOBRE ESTE AVISO?"
+    },
+    {
+      "id": 65,
+      "text": "15. COMO PODE CONSULTAR, ATUALIZAR OU ELIMINAR OS DADOS QUE RECOLHEMOS DE SI?"
+    },
+    {
+      "id": 66,
+      "text": "1. QUE INFORMAÇÃO RECOLHEMOS?"
+    },
+    {
+      "id": 67,
+      "text": "Informação pessoal que nos divulga"
+    },
+    {
+      "id": 68,
+      "text": "Em resumo: Recolhemos informação pessoal que nos fornece."
+    },
+    {
+      "id": 69,
+      "text": "Recolhemos informação pessoal que nos fornece voluntariamente quando se regista nos Serviços, manifesta interesse em obter informação sobre nós ou sobre os nossos produtos e Serviços, quando participa em atividades nos Serviços, ou quando nos contacta de outra forma."
+    },
+    {
+      "id": 70,
+      "text": "Informação Pessoal Fornecida por Si."
+    },
+    {
+      "id": 71,
+      "text": " A informação pessoal que recolhemos depende do contexto das suas interações connosco e com os Serviços, das escolhas que faz e dos produtos e funcionalidades que utiliza. A informação pessoal que recolhemos pode incluir o seguinte:"
+    },
+    {
+      "id": 72,
+      "text": "nomes"
+    },
+    {
+      "id": 73,
+      "text": "endereços de email"
+    },
+    {
+      "id": 74,
+      "text": "palavras-passe"
+    },
+    {
+      "id": 75,
+      "text": "endereços de faturação"
+    },
+    {
+      "id": 76,
+      "text": "números de cartões de débito/crédito"
+    },
+    {
+      "id": 77,
+      "text": "Informação Sensível."
+    },
+    {
+      "id": 78,
+      "text": " Quando necessário, com o seu consentimento ou conforme permitido pela lei aplicável, tratamos as seguintes categorias de informação sensível:"
+    },
+    {
+      "id": 79,
+      "text": "dados de saúde"
+    },
+    {
+      "id": 80,
+      "text": "Dados de Pagamento."
+    },
+    {
+      "id": 81,
+      "text": " Podemos recolher os dados necessários para processar o seu pagamento se optar por efetuar compras, como o número do seu instrumento de pagamento e o código de segurança associado ao mesmo. Todos os dados de pagamento são tratados e armazenados pela Stripe, Inc. Pode encontrar a(s) ligação(ões) para o aviso de privacidade da Stripe aqui: "
+    },
+    {
+      "id": 82,
+      "text": "https://stripe.com/privacy-policy"
+    },
+    {
+      "id": 83,
+      "text": "."
+    },
+    {
+      "id": 84,
+      "text": "Dados de Início de Sessão em Redes Sociais."
+    },
+    {
+      "id": 85,
+      "text": " Podemos dar-lhe a opção de se registar connosco utilizando os dados da sua conta de rede social existente, como a sua conta do Facebook, X ou outra rede social. Se optar por se registar desta forma, recolheremos determinada informação de perfil sobre si junto do fornecedor da rede social, conforme descrito na secção intitulada &quot;"
+    },
+    {
+      "id": 86,
+      "text": "COMO TRATAMOS OS SEUS INÍCIOS DE SESSÃO SOCIAIS?"
+    },
+    {
+      "id": 87,
+      "text": "&quot; abaixo."
+    },
+    {
+      "id": 88,
+      "text": "Toda a informação pessoal que nos fornece deve ser verdadeira, completa e exata, e deve notificar-nos de quaisquer alterações a essa informação pessoal."
+    },
+    {
+      "id": 89,
+      "text": "Informação recolhida automaticamente"
+    },
+    {
+      "id": 90,
+      "text": "Em resumo: Alguma informação, como o seu endereço de Protocolo de Internet (IP) e/ou características do navegador e do dispositivo, é recolhida automaticamente quando visita os nossos Serviços."
+    },
+    {
+      "id": 91,
+      "text": "Recolhemos automaticamente determinada informação quando visita, utiliza ou navega nos Serviços. Esta informação não revela a sua identidade específica (como o seu nome ou contactos), mas pode incluir informação sobre o dispositivo e a utilização, como o seu endereço IP, características do navegador e do dispositivo, sistema operativo, preferências de idioma, URL de referência, nome do dispositivo, país, localização, informação sobre como e quando utiliza os nossos Serviços e outra informação técnica. Esta informação é necessária principalmente para manter a segurança e o funcionamento dos nossos Serviços e para os nossos fins internos de análise e elaboração de relatórios."
+    },
+    {
+      "id": 92,
+      "text": "A informação que recolhemos inclui:"
+    },
+    {
+      "id": 93,
+      "text": "Dados de Registo e Utilização."
+    },
+    {
+      "id": 94,
+      "text": " Os dados de registo e utilização são informação relacionada com o serviço, de diagnóstico, utilização e desempenho que os nossos servidores recolhem automaticamente quando acede ou utiliza os nossos Serviços e que registamos em ficheiros de registo. Consoante a forma como interage connosco, estes dados de registo podem incluir o seu endereço IP, informação do dispositivo, tipo de navegador e definições e informação sobre a sua atividade nos Serviços (como registos de data/hora associados à sua utilização, páginas e ficheiros visualizados, pesquisas e outras ações que realiza, como as funcionalidades que utiliza), informação sobre eventos do dispositivo (como atividade do sistema, relatórios de erros (por vezes designados &quot;crash dumps&quot;) e definições de hardware)."
+    },
+    {
+      "id": 95,
+      "text": "Dados do Dispositivo."
+    },
+    {
+      "id": 96,
+      "text": " Recolhemos dados do dispositivo, como informação sobre o seu computador, telefone, tablet ou outro dispositivo que utiliza para aceder aos Serviços. Consoante o dispositivo utilizado, estes dados podem incluir informação como o seu endereço IP (ou servidor proxy), números de identificação do dispositivo e da aplicação, localização, tipo de navegador, modelo de hardware, fornecedor de serviços de Internet e/ou operadora móvel, sistema operativo e informação de configuração do sistema."
+    },
+    {
+      "id": 97,
+      "text": "Dados de Localização."
+    },
+    {
+      "id": 98,
+      "text": " Recolhemos dados de localização, como informação sobre a localização do seu dispositivo, que pode ser precisa ou imprecisa. A quantidade de informação que recolhemos depende do tipo e das definições do dispositivo que utiliza para aceder aos Serviços. Por exemplo, podemos utilizar GPS e outras tecnologias para recolher dados de geolocalização que nos indicam a sua localização atual (com base no seu endereço IP). Pode recusar permitir-nos recolher esta informação, seja recusando o acesso à informação, seja desativando a definição de Localização no seu dispositivo. Contudo, se optar por recusar, poderá não conseguir utilizar determinados aspetos dos Serviços."
+    },
+    {
+      "id": 99,
+      "text": "2. COMO TRATAMOS A SUA INFORMAÇÃO?"
+    },
+    {
+      "id": 100,
+      "text": "Em resumo: Tratamos a sua informação para fornecer, melhorar e administrar os nossos Serviços, comunicar consigo, para segurança e prevenção de fraudes e para cumprir a lei. Podemos também tratar a sua informação para outros fins com o seu consentimento."
+    },
+    {
+      "id": 101,
+      "text": "Tratamos a sua informação pessoal por vários motivos, consoante a forma como interage com os nossos Serviços, incluindo:"
+    },
+    {
+      "id": 102,
+      "text": "Para facilitar a criação de contas e a autenticação e gerir de outra forma as contas dos utilizadores."
+    },
+    {
+      "id": 103,
+      "text": " Podemos tratar a sua informação para que possa criar e iniciar sessão na sua conta, bem como manter a sua conta em funcionamento."
+    },
+    {
+      "id": 104,
+      "text": "Para entregar e facilitar a entrega de serviços ao utilizador."
+    },
+    {
+      "id": 105,
+      "text": " Podemos tratar a sua informação para lhe fornecer o serviço solicitado."
+    },
+    {
+      "id": 106,
+      "text": "Para responder a pedidos dos utilizadores e oferecer apoio aos utilizadores."
+    },
+    {
+      "id": 107,
+      "text": " Podemos tratar a sua informação para responder aos seus pedidos e resolver quaisquer problemas que possa ter com o serviço solicitado."
+    },
+    {
+      "id": 108,
+      "text": "Para lhe enviar informação administrativa."
+    },
+    {
+      "id": 109,
+      "text": " Podemos tratar a sua informação para lhe enviar detalhes sobre os nossos produtos e serviços, alterações aos nossos termos e políticas e outra informação semelhante."
+    },
+    {
+      "id": 110,
+      "text": "Para cumprir e gerir as suas encomendas."
+    },
+    {
+      "id": 111,
+      "text": " Podemos tratar a sua informação para cumprir e gerir as suas encomendas, pagamentos, devoluções e trocas efetuadas através dos Serviços."
+    },
+    {
+      "id": 112,
+      "text": "Para solicitar feedback."
+    },
+    {
+      "id": 113,
+      "text": " Podemos tratar a sua informação quando necessário para solicitar feedback e contactá-lo sobre a sua utilização dos nossos Serviços."
+    },
+    {
+      "id": 114,
+      "text": "Para publicar testemunhos."
+    },
+    {
+      "id": 115,
+      "text": " Publicamos testemunhos nos nossos Serviços que podem conter informação pessoal."
+    },
+    {
+      "id": 116,
+      "text": "Para avaliar e melhorar os nossos Serviços, produtos, marketing e a sua experiência."
+    },
+    {
+      "id": 117,
+      "text": " Podemos tratar a sua informação quando considerarmos necessário para identificar tendências de utilização, determinar a eficácia das nossas campanhas promocionais e avaliar e melhorar os nossos Serviços, produtos, marketing e a sua experiência."
+    },
+    {
+      "id": 118,
+      "text": "Para identificar tendências de utilização."
+    },
+    {
+      "id": 119,
+      "text": " Podemos tratar informação sobre a forma como utiliza os nossos Serviços para compreender melhor como estão a ser utilizados, de modo a podermos melhorá-los."
+    },
+    {
+      "id": 120,
+      "text": "3. QUANDO E COM QUEM PARTILHAMOS A SUA INFORMAÇÃO PESSOAL?"
+    },
+    {
+      "id": 121,
+      "text": "Em resumo: Podemos partilhar informação nas situações específicas descritas nesta secção e/ou com os terceiros seguintes."
+    },
+    {
+      "id": 122,
+      "text": "Podemos precisar de partilhar a sua informação pessoal nas seguintes situações:"
+    },
+    {
+      "id": 123,
+      "text": "Transferências Empresariais."
+    },
+    {
+      "id": 124,
+      "text": " Podemos partilhar ou transferir a sua informação em ligação com, ou durante negociações de, qualquer fusão, venda de ativos da empresa, financiamento ou aquisição da totalidade ou de parte do nosso negócio por outra empresa."
+    },
+    {
+      "id": 125,
+      "text": "Parceiros Comerciais."
+    },
+    {
+      "id": 126,
+      "text": " Podemos partilhar a sua informação com os nossos parceiros comerciais para lhe oferecer determinados produtos, serviços ou promoções."
+    },
+    {
+      "id": 127,
+      "text": "4. UTILIZAMOS COOKIES E OUTRAS TECNOLOGIAS DE SEGUIMENTO?"
+    },
+    {
+      "id": 128,
+      "text": "Em resumo: Podemos utilizar cookies e outras tecnologias de seguimento para recolher e armazenar a sua informação."
+    },
+    {
+      "id": 129,
+      "text": "Podemos utilizar cookies e tecnologias de seguimento semelhantes (como web beacons e píxeis) para recolher informação quando interage com os nossos Serviços. Algumas tecnologias de seguimento online ajudam-nos a manter a segurança dos nossos Serviços e da sua conta, prevenir falhas, corrigir erros, guardar as suas preferências e apoiar funções básicas do site."
+    },
+    {
+      "id": 130,
+      "text": "Permitimos também que terceiros e prestadores de serviços utilizem tecnologias de seguimento online nos nossos Serviços para análise e publicidade, incluindo para ajudar a gerir e exibir anúncios ou adaptar anúncios aos seus interesses. Os terceiros e prestadores de serviços utilizam a sua tecnologia para fornecer publicidade sobre produtos e serviços adaptados aos seus interesses, que pode surgir nos nossos Serviços ou noutros websites."
+    },
+    {
+      "id": 131,
+      "text": "Na medida em que estas tecnologias de seguimento online sejam consideradas uma &quot;venda&quot;/&quot;partilha&quot; (o que inclui publicidade direcionada, conforme definido nas leis aplicáveis) ao abrigo das leis estaduais aplicáveis dos EUA, pode optar por não participar nestas tecnologias de seguimento online apresentando um pedido conforme descrito abaixo na secção &quot;"
+    },
+    {
+      "id": 132,
+      "text": "OS RESIDENTES NOS ESTADOS UNIDOS TÊM DIREITOS DE PRIVACIDADE ESPECÍFICOS?"
+    },
+    {
+      "id": 133,
+      "text": "&quot;"
+    },
+    {
+      "id": 134,
+      "text": "Informação específica sobre a forma como utilizamos tais tecnologias e como pode recusar determinados cookies está definida no nosso Aviso de Cookies."
+    },
+    {
+      "id": 135,
+      "text": "Google Analytics"
+    },
+    {
+      "id": 136,
+      "text": "Podemos partilhar a sua informação com o Google Analytics para seguir e analisar a utilização dos Serviços. As Funcionalidades de Publicidade do Google Analytics que podemos utilizar incluem: Google Display Network Impressions Reporting e Google Analytics Demographics and Interests Reporting. Para optar por não ser seguido pelo Google Analytics nos Serviços, visite "
+    },
+    {
+      "id": 137,
+      "text": "https://tools.google.com/dlpage/gaoptout"
+    },
+    {
+      "id": 138,
+      "text": ". Pode optar por não participar nas Funcionalidades de Publicidade do Google Analytics através das "
+    },
+    {
+      "id": 139,
+      "text": "Definições de Anúncios"
+    },
+    {
+      "id": 140,
+      "text": " e das Definições de Anúncios para aplicações móveis. Outros meios de exclusão incluem "
+    },
+    {
+      "id": 141,
+      "text": "http://optout.networkadvertising.org/"
+    },
+    {
+      "id": 142,
+      "text": " and "
+    },
+    {
+      "id": 143,
+      "text": "http://www.networkadvertising.org/mobile-choice"
+    },
+    {
+      "id": 144,
+      "text": ". Para mais informações sobre as práticas de privacidade da Google, visite a "
+    },
+    {
+      "id": 145,
+      "text": "página Privacidade &amp; Termos da Google"
+    },
+    {
+      "id": 146,
+      "text": "."
+    },
+    {
+      "id": 147,
+      "text": "5. OFERECEMOS PRODUTOS BASEADOS EM INTELIGÊNCIA ARTIFICIAL?"
+    },
+    {
+      "id": 148,
+      "text": "Em resumo: Oferecemos produtos, funcionalidades ou ferramentas alimentados por inteligência artificial, aprendizagem automática ou tecnologias semelhantes."
+    },
+    {
+      "id": 149,
+      "text": "Como parte dos nossos Serviços, oferecemos produtos, funcionalidades ou ferramentas alimentados por inteligência artificial, aprendizagem automática ou tecnologias semelhantes (coletivamente, &quot;Produtos de IA&quot;). Estas ferramentas foram concebidas para melhorar a sua experiência e fornecer-lhe soluções inovadoras. Os termos deste Aviso de Privacidade regem a sua utilização dos Produtos de IA nos nossos Serviços."
+    },
+    {
+      "id": 150,
+      "text": "Utilização de Tecnologias de IA"
+    },
+    {
+      "id": 151,
+      "text": "Fornecemos os Produtos de IA através de prestadores de serviços terceiros (&quot;Prestadores de Serviços de IA&quot;), incluindo a OpenAI. Conforme descrito neste Aviso de Privacidade, os seus dados de entrada, resultados e informação pessoal serão partilhados com e tratados por estes Prestadores de Serviços de IA para permitir a sua utilização dos nossos Produtos de IA para os fins descritos em &quot;"
+    },
+    {
+      "id": 152,
+      "text": "QUANDO E COM QUEM PARTILHAMOS A SUA INFORMAÇÃO PESSOAL?"
+    },
+    {
+      "id": 153,
+      "text": "&quot; Não deve utilizar os Produtos de IA de qualquer forma que viole os termos ou políticas de qualquer Prestador de Serviços de IA."
+    },
+    {
+      "id": 154,
+      "text": "Os Nossos Produtos de IA"
+    },
+    {
+      "id": 155,
+      "text": "Os nossos Produtos de IA foram concebidos para as seguintes funções:"
+    },
+    {
+      "id": 156,
+      "text": "Insights de IA"
+    },
+    {
+      "id": 157,
+      "text": "Como Tratamos os Seus Dados Utilizando IA"
+    },
+    {
+      "id": 158,
+      "text": "Toda a informação pessoal tratada através dos nossos Produtos de IA é gerida em conformidade com o nosso Aviso de Privacidade e o nosso acordo com terceiros. Isto assegura um elevado nível de segurança e protege a sua informação pessoal ao longo de todo o processo, dando-lhe tranquilidade quanto à segurança dos seus dados."
+    },
+    {
+      "id": 159,
+      "text": "6. COMO TRATAMOS OS SEUS INÍCIOS DE SESSÃO SOCIAIS?"
+    },
+    {
+      "id": 160,
+      "text": "Em resumo: Se optar por se registar ou iniciar sessão nos nossos Serviços utilizando uma conta de rede social, podemos ter acesso a determinada informação sobre si."
+    },
+    {
+      "id": 161,
+      "text": "Os nossos Serviços oferecem-lhe a possibilidade de se registar e iniciar sessão utilizando os dados da sua conta de rede social de terceiros (como os seus inícios de sessão do Facebook ou X). Quando optar por fazê-lo, receberemos determinada informação de perfil sobre si do seu fornecedor de rede social. A informação de perfil que recebemos pode variar consoante o fornecedor de rede social em causa, mas incluirá frequentemente o seu nome, endereço de email, lista de amigos e fotografia de perfil, bem como outra informação que opte por tornar pública nessa plataforma de rede social."
+    },
+    {
+      "id": 162,
+      "text": "Utilizaremos a informação que recebermos apenas para os fins descritos neste Aviso de Privacidade ou que lhe sejam de outra forma clarificados nos Serviços relevantes. Tenha em atenção que não controlamos, nem somos responsáveis por, outras utilizações da sua informação pessoal pelo seu fornecedor de rede social terceiro. Recomendamos que consulte o aviso de privacidade desse fornecedor para compreender como recolhe, utiliza e partilha a sua informação pessoal, e como pode definir as suas preferências de privacidade nos seus sites e aplicações."
+    },
+    {
+      "id": 163,
+      "text": "7. DURANTE QUANTO TEMPO CONSERVAMOS A SUA INFORMAÇÃO?"
+    },
+    {
+      "id": 164,
+      "text": "Em resumo: Conservamos a sua informação durante o tempo necessário para cumprir os fins descritos neste Aviso de Privacidade, salvo exigência legal em contrário."
+    },
+    {
+      "id": 165,
+      "text": "Conservaremos a sua informação pessoal apenas durante o tempo necessário para os fins definidos neste Aviso de Privacidade, salvo se um período de conservação mais longo for exigido ou permitido por lei (como requisitos fiscais, contabilísticos ou outros requisitos legais). Nenhum fim neste aviso exigirá que conservemos a sua informação pessoal por mais tempo do que o período durante o qual os utilizadores têm uma conta connosco."
+    },
+    {
+      "id": 166,
+      "text": "Quando já não tivermos uma necessidade comercial legítima contínua de tratar a sua informação pessoal, eliminaremos ou anonimizaremos essa informação ou, se tal não for possível (por exemplo, porque a sua informação pessoal foi armazenada em arquivos de cópia de segurança), armazenaremos de forma segura a sua informação pessoal e isolá-la-emos de qualquer tratamento adicional até que a eliminação seja possível."
+    },
+    {
+      "id": 167,
+      "text": "8. COMO MANTEMOS A SUA INFORMAÇÃO SEGURA?"
+    },
+    {
+      "id": 168,
+      "text": "Em resumo: Procuramos proteger a sua informação pessoal através de um sistema de medidas de segurança organizativas e técnicas."
+    },
+    {
+      "id": 169,
+      "text": "Implementámos medidas de segurança técnicas e organizativas adequadas e razoáveis, concebidas para proteger a segurança de qualquer informação pessoal que tratamos. Contudo, apesar das nossas salvaguardas e esforços para proteger a sua informação, nenhuma transmissão eletrónica através da Internet ou tecnologia de armazenamento de informação pode ser garantida como 100% segura, pelo que não podemos prometer nem garantir que hackers, cibercriminosos ou outros terceiros não autorizados não consigam contornar a nossa segurança e recolher, aceder, roubar ou modificar indevidamente a sua informação. Embora façamos o nosso melhor para proteger a sua informação pessoal, a transmissão de informação pessoal de e para os nossos Serviços é por sua conta e risco. Deve aceder aos Serviços apenas num ambiente seguro."
+    },
+    {
+      "id": 170,
+      "text": "9. RECOLHEMOS INFORMAÇÃO DE MENORES?"
+    },
+    {
+      "id": 171,
+      "text": "Em resumo: Não recolhemos conscientemente dados de crianças com menos de 18 anos, nem lhes dirigimos marketing."
+    },
+    {
+      "id": 172,
+      "text": "Não recolhemos conscientemente dados de crianças com menos de 18 anos, nem lhes solicitamos dados ou dirigimos marketing, nem vendemos conscientemente essa informação pessoal. Ao utilizar os Serviços, declara que tem pelo menos 18 anos ou que é pai, mãe ou tutor de um menor e consente a utilização dos Serviços por esse menor dependente. Se soubermos que foi recolhida informação pessoal de utilizadores com menos de 18 anos, desativaremos a conta e tomaremos medidas razoáveis para eliminar prontamente esses dados dos nossos registos. Se tiver conhecimento de quaisquer dados que possamos ter recolhido de crianças com menos de 18 anos, contacte-nos através de "
+    },
+    {
+      "id": 173,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 174,
+      "text": "."
+    },
+    {
+      "id": 175,
+      "text": "10. QUAIS SÃO OS SEUS DIREITOS DE PRIVACIDADE?"
+    },
+    {
+      "id": 176,
+      "text": "Retirar o seu consentimento:"
+    },
+    {
+      "id": 177,
+      "text": " Se estivermos a basear-nos no seu consentimento para tratar a sua informação pessoal, que pode ser consentimento expresso e/ou implícito consoante a lei aplicável, tem o direito de retirar o seu consentimento a qualquer momento. Pode retirar o seu consentimento a qualquer momento contactando-nos através dos contactos indicados na secção &quot;"
+    },
+    {
+      "id": 178,
+      "text": "COMO PODE CONTACTAR-NOS SOBRE ESTE AVISO?"
+    },
+    {
+      "id": 179,
+      "text": "&quot; abaixo."
+    },
+    {
+      "id": 180,
+      "text": "Contudo, tenha em atenção que isto não afetará a licitude do tratamento anterior à sua retirada nem, quando a lei aplicável o permitir, afetará o tratamento da sua informação pessoal efetuado com base em fundamentos jurídicos lícitos distintos do consentimento."
+    },
+    {
+      "id": 181,
+      "text": "Informação da Conta"
+    },
+    {
+      "id": 182,
+      "text": "Se, a qualquer momento, pretender consultar ou alterar a informação da sua conta ou cessar a sua conta, pode:"
+    },
+    {
+      "id": 183,
+      "text": "Iniciar sessão nas definições da sua conta e atualizar a sua conta de utilizador."
+    },
+    {
+      "id": 184,
+      "text": "Mediante o seu pedido de cessação da sua conta, desativaremos ou eliminaremos a sua conta e informação das nossas bases de dados ativas. Contudo, podemos conservar alguma informação nos nossos ficheiros para prevenir fraudes, resolver problemas, apoiar investigações, fazer cumprir os nossos termos legais e/ou cumprir requisitos legais aplicáveis."
+    },
+    {
+      "id": 185,
+      "text": "Se tiver perguntas ou comentários sobre os seus direitos de privacidade, pode enviar-nos um email para "
+    },
+    {
+      "id": 186,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 187,
+      "text": "."
+    },
+    {
+      "id": 188,
+      "text": "11. CONTROLOS PARA FUNCIONALIDADES DO NOT TRACK"
+    },
+    {
+      "id": 189,
+      "text": "A maioria dos navegadores web e alguns sistemas operativos móveis e aplicações móveis incluem uma funcionalidade ou definição Do-Not-Track (&quot;DNT&quot;) que pode ativar para sinalizar a sua preferência de privacidade de não ter dados sobre as suas atividades de navegação online monitorizados e recolhidos. Nesta fase, não foi finalizada qualquer norma tecnológica uniforme para reconhecer e implementar sinais DNT. Assim, não respondemos atualmente a sinais DNT dos navegadores nem a qualquer outro mecanismo que comunique automaticamente a sua escolha de não ser seguido online. Se for adotada uma norma de seguimento online que tenhamos de seguir no futuro, informá-lo-emos sobre essa prática numa versão revista deste Aviso de Privacidade."
+    },
+    {
+      "id": 190,
+      "text": "A lei da Califórnia exige que lhe indiquemos como respondemos aos sinais DNT dos navegadores web. Como atualmente não existe uma norma setorial ou legal para reconhecer ou respeitar sinais DNT, não respondemos aos mesmos neste momento."
+    },
+    {
+      "id": 191,
+      "text": "Global Privacy Control:"
+    },
+    {
+      "id": 192,
+      "text": " Reconhecemos e respeitamos os sinais Global Privacy Control (GPC). Se utilizar um navegador ou extensão que suporte GPC, trataremos isto como um pedido válido para optar por não participar na venda ou partilha da sua informação pessoal para fins de publicidade direcionada ao abrigo das leis de privacidade estaduais aplicáveis, incluindo a California Consumer Privacy Act (CCPA). Quando detetarmos um sinal GPC do seu navegador, aplicaremos automaticamente a sua preferência de exclusão sem exigir qualquer ação adicional da sua parte. Para mais informações sobre o GPC e como ativá-lo, visite "
+    },
+    {
+      "id": 193,
+      "text": "globalprivacycontrol.org"
+    },
+    {
+      "id": 194,
+      "text": "."
+    },
+    {
+      "id": 195,
+      "text": "12. OS RESIDENTES NOS ESTADOS UNIDOS TÊM DIREITOS DE PRIVACIDADE ESPECÍFICOS?"
+    },
+    {
+      "id": 196,
+      "text": "Em resumo: Se for residente na Califórnia, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah ou Virginia, pode ter o direito de solicitar acesso e receber detalhes sobre a informação pessoal que conservamos sobre si e sobre a forma como a tratámos, corrigir inexatidões, obter uma cópia ou eliminar a sua informação pessoal. Pode também ter o direito de retirar o seu consentimento para o tratamento da sua informação pessoal. Estes direitos podem ser limitados em algumas circunstâncias pela lei aplicável. São fornecidas mais informações abaixo."
+    },
+    {
+      "id": 197,
+      "text": "Categorias de Informação Pessoal Que Recolhemos"
+    },
+    {
+      "id": 198,
+      "text": "A tabela abaixo mostra as categorias de informação pessoal que recolhemos nos últimos doze (12) meses. A tabela inclui exemplos ilustrativos de cada categoria e não reflete a informação pessoal que recolhemos de si. Para um inventário completo de toda a informação pessoal que tratamos, consulte a secção &quot;"
+    },
+    {
+      "id": 199,
+      "text": "QUE INFORMAÇÃO RECOLHEMOS?"
+    },
+    {
+      "id": 200,
+      "text": "&quot;"
+    },
+    {
+      "id": 201,
+      "text": "Categoria"
+    },
+    {
+      "id": 202,
+      "text": "Exemplos"
+    },
+    {
+      "id": 203,
+      "text": "Recolhida"
+    },
+    {
+      "id": 204,
+      "text": "A. Identificadores"
+    },
+    {
+      "id": 205,
+      "text": "Dados de contacto, como nome verdadeiro, pseudónimo, endereço postal, número de contacto telefónico ou móvel, identificador pessoal único, identificador online, endereço de Protocolo de Internet, endereço de email e nome da conta"
+    },
+    {
+      "id": 206,
+      "text": "SIM"
+    },
+    {
+      "id": 207,
+      "text": "B. Informação pessoal conforme definida no estatuto California Customer Records"
+    },
+    {
+      "id": 208,
+      "text": "Nome, informação de contacto, educação, emprego, historial de emprego e informação financeira"
+    },
+    {
+      "id": 209,
+      "text": "SIM"
+    },
+    {
+      "id": 210,
+      "text": "C. Características de classificação protegidas ao abrigo da lei estadual ou federal"
+    },
+    {
+      "id": 211,
+      "text": "Género, idade, data de nascimento, raça e etnia, origem nacional, estado civil e outros dados demográficos"
+    },
+    {
+      "id": 212,
+      "text": "NÃO"
+    },
+    {
+      "id": 213,
+      "text": "D. Informação comercial"
+    },
+    {
+      "id": 214,
+      "text": "Informação sobre transações, historial de compras, detalhes financeiros e informação de pagamento"
+    },
+    {
+      "id": 215,
+      "text": "NÃO"
+    },
+    {
+      "id": 216,
+      "text": "E. Informação biométrica"
+    },
+    {
+      "id": 217,
+      "text": "Impressões digitais e impressões vocais"
+    },
+    {
+      "id": 218,
+      "text": "SIM"
+    },
+    {
+      "id": 219,
+      "text": "F. Atividade na Internet ou noutra rede semelhante"
+    },
+    {
+      "id": 220,
+      "text": "Historial de navegação, historial de pesquisas, comportamento online, dados de interesses e interações com os nossos e outros websites, aplicações, sistemas e anúncios"
+    },
+    {
+      "id": 221,
+      "text": "NÃO"
+    },
+    {
+      "id": 222,
+      "text": "G. Dados de geolocalização"
+    },
+    {
+      "id": 223,
+      "text": "Localização do dispositivo"
+    },
+    {
+      "id": 224,
+      "text": "NÃO"
+    },
+    {
+      "id": 225,
+      "text": "H. Informação áudio, eletrónica, sensorial ou semelhante"
+    },
+    {
+      "id": 226,
+      "text": "Imagens e gravações áudio, vídeo ou de chamadas criadas em ligação com as nossas atividades comerciais"
+    },
+    {
+      "id": 227,
+      "text": "NÃO"
+    },
+    {
+      "id": 228,
+      "text": "I. Informação profissional ou relacionada com o emprego"
+    },
+    {
+      "id": 229,
+      "text": "Dados de contacto profissionais para lhe fornecermos os nossos Serviços a um nível empresarial, ou cargo, historial profissional e qualificações profissionais se se candidatar a um emprego connosco"
+    },
+    {
+      "id": 230,
+      "text": "NÃO"
+    },
+    {
+      "id": 231,
+      "text": "J. Informação sobre educação"
+    },
+    {
+      "id": 232,
+      "text": "Registos de estudantes e informação de diretório"
+    },
+    {
+      "id": 233,
+      "text": "NÃO"
+    },
+    {
+      "id": 234,
+      "text": "K. Inferências extraídas de informação pessoal recolhida"
+    },
+    {
+      "id": 235,
+      "text": "Inferências extraídas de qualquer informação pessoal recolhida acima indicada para criar um perfil ou resumo sobre, por exemplo, as preferências e características de um indivíduo"
+    },
+    {
+      "id": 236,
+      "text": "NÃO"
+    },
+    {
+      "id": 237,
+      "text": "L. Informação pessoal sensível"
+    },
+    {
+      "id": 238,
+      "text": "Informação de início de sessão da conta, números de cartões de débito ou crédito, dados genéticos e dados de saúde"
+    },
+    {
+      "id": 239,
+      "text": "SIM"
+    },
+    {
+      "id": 240,
+      "text": "Recolhemos apenas informação pessoal sensível, conforme definida pelas leis de privacidade aplicáveis ou para os fins permitidos por lei ou com o seu consentimento. A informação pessoal sensível pode ser utilizada, ou divulgada a um prestador de serviços ou contratante, para fins adicionais especificados. Pode ter o direito de limitar a utilização ou divulgação da sua informação pessoal sensível. Não recolhemos nem tratamos informação pessoal sensível com o objetivo de inferir características sobre si."
+    },
+    {
+      "id": 241,
+      "text": "Podemos também recolher outra informação pessoal fora destas categorias através de situações em que interage connosco pessoalmente, online, ou por telefone ou correio no contexto de:"
+    },
+    {
+      "id": 242,
+      "text": "Receber ajuda através dos nossos canais de apoio ao cliente;"
+    },
+    {
+      "id": 243,
+      "text": "Participação em inquéritos ou concursos para clientes; e"
+    },
+    {
+      "id": 244,
+      "text": "Facilitação da entrega dos nossos Serviços e resposta aos seus pedidos."
+    },
+    {
+      "id": 245,
+      "text": "Utilizaremos e conservaremos a informação pessoal recolhida conforme necessário para fornecer os Serviços ou durante:"
+    },
+    {
+      "id": 246,
+      "text": "Categoria A, enquanto o utilizador tiver uma conta connosco"
+    },
+    {
+      "id": 247,
+      "text": "Categoria B, enquanto o utilizador tiver uma conta connosco"
+    },
+    {
+      "id": 248,
+      "text": "Categoria E, enquanto o utilizador tiver uma conta connosco"
+    },
+    {
+      "id": 249,
+      "text": "Categoria L, enquanto o utilizador tiver uma conta connosco"
+    },
+    {
+      "id": 250,
+      "text": "Fontes de Informação Pessoal"
+    },
+    {
+      "id": 251,
+      "text": "Saiba mais sobre as fontes de informação pessoal que recolhemos em &quot;"
+    },
+    {
+      "id": 252,
+      "text": "QUE INFORMAÇÃO RECOLHEMOS?"
+    },
+    {
+      "id": 253,
+      "text": "&quot;"
+    },
+    {
+      "id": 254,
+      "text": "Como Utilizamos e Partilhamos Informação Pessoal"
+    },
+    {
+      "id": 255,
+      "text": "Saiba mais sobre como utilizamos a sua informação pessoal na secção &quot;"
+    },
+    {
+      "id": 256,
+      "text": "COMO TRATAMOS A SUA INFORMAÇÃO?"
+    },
+    {
+      "id": 257,
+      "text": "&quot;"
+    },
+    {
+      "id": 258,
+      "text": "A sua informação será partilhada com mais alguém?"
+    },
+    {
+      "id": 259,
+      "text": "Podemos divulgar a sua informação pessoal aos nossos prestadores de serviços ao abrigo de um contrato escrito entre nós e cada prestador de serviços. Saiba mais sobre como divulgamos informação pessoal na secção &quot;"
+    },
+    {
+      "id": 260,
+      "text": "QUANDO E COM QUEM PARTILHAMOS A SUA INFORMAÇÃO PESSOAL?"
+    },
+    {
+      "id": 261,
+      "text": "&quot;"
+    },
+    {
+      "id": 262,
+      "text": "Podemos utilizar a sua informação pessoal para os nossos próprios fins comerciais, como realizar investigação interna para desenvolvimento tecnológico e demonstração. Isto não é considerado uma &quot;venda&quot; da sua informação pessoal."
+    },
+    {
+      "id": 263,
+      "text": "Não divulgámos, vendemos ou partilhámos qualquer informação pessoal a terceiros para um fim empresarial ou comercial nos últimos doze (12) meses. Não venderemos nem partilharemos no futuro informação pessoal pertencente a visitantes de websites, utilizadores e outros consumidores."
+    },
+    {
+      "id": 264,
+      "text": "Os Seus Direitos"
+    },
+    {
+      "id": 265,
+      "text": "Tem direitos ao abrigo de determinadas leis de proteção de dados de estados dos EUA. Contudo, estes direitos não são absolutos e, em determinados casos, podemos recusar o seu pedido conforme permitido por lei. Estes direitos incluem:"
+    },
+    {
+      "id": 266,
+      "text": "Direito de saber"
+    },
+    {
+      "id": 267,
+      "text": " se estamos ou não a tratar os seus dados pessoais"
+    },
+    {
+      "id": 268,
+      "text": "Direito de acesso"
+    },
+    {
+      "id": 269,
+      "text": " aos seus dados pessoais"
+    },
+    {
+      "id": 270,
+      "text": "Direito de corrigir"
+    },
+    {
+      "id": 271,
+      "text": " inexatidões nos seus dados pessoais"
+    },
+    {
+      "id": 272,
+      "text": "Direito de solicitar"
+    },
+    {
+      "id": 273,
+      "text": " a eliminação dos seus dados pessoais"
+    },
+    {
+      "id": 274,
+      "text": "Direito de obter uma cópia"
+    },
+    {
+      "id": 275,
+      "text": " dos dados pessoais que partilhou anteriormente connosco"
+    },
+    {
+      "id": 276,
+      "text": "Direito à não discriminação"
+    },
+    {
+      "id": 277,
+      "text": " pelo exercício dos seus direitos"
+    },
+    {
+      "id": 278,
+      "text": "Direito de optar por não participar"
+    },
+    {
+      "id": 279,
+      "text": " no tratamento dos seus dados pessoais se forem utilizados para publicidade direcionada (ou partilha, conforme definido na lei de privacidade da Califórnia), venda de dados pessoais, ou definição de perfis com vista a decisões que produzam efeitos jurídicos ou efeitos significativamente semelhantes (&quot;profiling&quot;)"
+    },
+    {
+      "id": 280,
+      "text": "Consoante o estado onde vive, pode também ter os seguintes direitos:"
+    },
+    {
+      "id": 281,
+      "text": "Direito de aceder às categorias de dados pessoais que estão a ser tratadas (conforme permitido pela lei aplicável, incluindo a lei de privacidade do Minnesota)"
+    },
+    {
+      "id": 282,
+      "text": "Direito de obter uma lista das categorias de terceiros a quem divulgámos dados pessoais (conforme permitido pela lei aplicável, incluindo a lei de privacidade da Califórnia, Delaware e Maryland)"
+    },
+    {
+      "id": 283,
+      "text": "Direito de obter uma lista de terceiros específicos a quem divulgámos dados pessoais (conforme permitido pela lei aplicável, incluindo a lei de privacidade do Minnesota e Oregon)"
+    },
+    {
+      "id": 284,
+      "text": "Direito de obter uma lista de terceiros a quem vendemos dados pessoais (conforme permitido pela lei aplicável, incluindo a lei de privacidade do Connecticut)"
+    },
+    {
+      "id": 285,
+      "text": "Direito de consultar, compreender, questionar e, consoante o local onde vive, corrigir a forma como os dados pessoais foram objeto de definição de perfis (conforme permitido pela lei aplicável, incluindo a lei de privacidade do Connecticut e Minnesota)"
+    },
+    {
+      "id": 286,
+      "text": "Direito de limitar a utilização e divulgação de dados pessoais sensíveis (conforme permitido pela lei aplicável, incluindo a lei de privacidade da Califórnia)"
+    },
+    {
+      "id": 287,
+      "text": "Direito de optar por não participar na recolha de dados sensíveis e de dados pessoais recolhidos através do funcionamento de uma funcionalidade de reconhecimento de voz ou facial (conforme permitido pela lei aplicável, incluindo a lei de privacidade da Florida)"
+    },
+    {
+      "id": 288,
+      "text": "Como Exercer os Seus Direitos"
+    },
+    {
+      "id": 289,
+      "text": "Para exercer estes direitos, pode contactar-nos visitando "
+    },
+    {
+      "id": 290,
+      "text": "http://www.tavalabs.app/request-personal-information"
+    },
+    {
+      "id": 291,
+      "text": ", visitando "
+    },
+    {
+      "id": 292,
+      "text": "http://www.tavalabs.app/contact-us"
+    },
+    {
+      "id": 293,
+      "text": ", ou consultando os contactos no final deste documento."
+    },
+    {
+      "id": 294,
+      "text": "Respeitaremos as suas preferências de exclusão se ativar o sinal de exclusão "
+    },
+    {
+      "id": 295,
+      "text": "Global Privacy Control"
+    },
+    {
+      "id": 296,
+      "text": " (GPC) no seu navegador."
+    },
+    {
+      "id": 297,
+      "text": "Ao abrigo de determinadas leis de proteção de dados de estados dos EUA, pode designar um agente autorizado para apresentar um pedido em seu nome. Podemos recusar um pedido de um agente autorizado que não apresente prova de que foi validamente autorizado a agir em seu nome, em conformidade com as leis aplicáveis."
+    },
+    {
+      "id": 298,
+      "text": "Verificação do Pedido"
+    },
+    {
+      "id": 299,
+      "text": "Ao receber o seu pedido, precisaremos de verificar a sua identidade para determinar que é a mesma pessoa sobre a qual temos informação no nosso sistema. Utilizaremos apenas a informação pessoal fornecida no seu pedido para verificar a sua identidade ou autoridade para apresentar o pedido. Contudo, se não conseguirmos verificar a sua identidade a partir da informação já conservada por nós, podemos solicitar que forneça informação adicional para efeitos de verificação da sua identidade e para fins de segurança ou prevenção de fraudes."
+    },
+    {
+      "id": 300,
+      "text": "Se submeter o pedido através de um agente autorizado, podemos precisar de recolher informação adicional para verificar a sua identidade antes de processar o seu pedido, e o agente precisará de fornecer uma autorização escrita e assinada por si para submeter tal pedido em seu nome."
+    },
+    {
+      "id": 301,
+      "text": "Recursos"
+    },
+    {
+      "id": 302,
+      "text": "Ao abrigo de determinadas leis de proteção de dados de estados dos EUA, se recusarmos tomar medidas relativamente ao seu pedido, pode recorrer da nossa decisão enviando-nos um email para "
+    },
+    {
+      "id": 303,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 304,
+      "text": ". Informá-lo-emos por escrito de qualquer medida tomada ou não tomada em resposta ao recurso, incluindo uma explicação escrita dos motivos das decisões. Se o seu recurso for recusado, pode apresentar uma reclamação junto do procurador-geral do seu estado."
+    },
+    {
+      "id": 305,
+      "text": "Lei &quot;Shine The Light&quot; da Califórnia"
+    },
+    {
+      "id": 306,
+      "text": "A Secção 1798.83 do Código Civil da Califórnia, também conhecida como lei &quot;Shine The Light&quot;, permite que os nossos utilizadores residentes na Califórnia solicitem e obtenham de nós, uma vez por ano e gratuitamente, informação sobre categorias de informação pessoal (se alguma) que divulgámos a terceiros para fins de marketing direto e os nomes e endereços de todos os terceiros com quem partilhámos informação pessoal no ano civil imediatamente anterior. Se for residente na Califórnia e pretender apresentar tal pedido, submeta o seu pedido por escrito utilizando os contactos indicados na secção &quot;"
+    },
+    {
+      "id": 307,
+      "text": "COMO PODE CONTACTAR-NOS SOBRE ESTE AVISO?"
+    },
+    {
+      "id": 308,
+      "text": "&quot;"
+    },
+    {
+      "id": 309,
+      "text": "13. FAZEMOS ATUALIZAÇÕES A ESTE AVISO?"
+    },
+    {
+      "id": 310,
+      "text": "Em resumo: Sim, atualizaremos este aviso conforme necessário para nos mantermos em conformidade com as leis relevantes."
+    },
+    {
+      "id": 311,
+      "text": "Podemos atualizar este Aviso de Privacidade periodicamente. A versão atualizada será indicada por uma data de &quot;Revisão&quot; atualizada no topo deste Aviso de Privacidade. Se fizermos alterações materiais a este Aviso de Privacidade, podemos notificá-lo publicando de forma proeminente um aviso de tais alterações ou enviando-lhe diretamente uma notificação. Recomendamos que consulte este Aviso de Privacidade com frequência para se manter informado sobre a forma como protegemos a sua informação."
+    },
+    {
+      "id": 312,
+      "text": "14. COMO PODE CONTACTAR-NOS SOBRE ESTE AVISO?"
+    },
+    {
+      "id": 313,
+      "text": "Se tiver perguntas ou comentários sobre este aviso, pode contactar o nosso Encarregado da Proteção de Dados (DPO) por email através de "
+    },
+    {
+      "id": 314,
+      "text": "support@tavalabs.app"
+    },
+    {
+      "id": 315,
+      "text": ", ou contactar-nos por correio para:"
+    },
+    {
+      "id": 316,
+      "text": "Tava Labs, LLC"
+    },
+    {
+      "id": 317,
+      "text": "Encarregado da Proteção de Dados"
+    },
+    {
+      "id": 318,
+      "text": "1521 Blake St STE 95593"
+    },
+    {
+      "id": 319,
+      "text": "Denver, CO 80202"
+    },
+    {
+      "id": 320,
+      "text": "Estados Unidos"
+    },
+    {
+      "id": 321,
+      "text": "15. COMO PODE CONSULTAR, ATUALIZAR OU ELIMINAR OS DADOS QUE RECOLHEMOS DE SI?"
+    },
+    {
+      "id": 322,
+      "text": "Com base nas leis aplicáveis do seu país ou estado de residência nos EUA, pode ter o direito de solicitar acesso à informação pessoal que recolhemos de si, detalhes sobre a forma como a tratámos, corrigir inexatidões ou eliminar a sua informação pessoal. Pode também ter o direito de retirar o seu consentimento para o tratamento da sua informação pessoal. Estes direitos podem ser limitados em algumas circunstâncias pela lei aplicável. Para solicitar a consulta, atualização ou eliminação da sua informação pessoal, visite: "
+    },
+    {
+      "id": 323,
+      "text": "http://www.tavalabs.app/request-personal-information"
+    },
+    {
+      "id": 324,
+      "text": "."
+    },
+    {
+      "id": 325,
+      "text": "Esta Política de Privacidade foi criada utilizando o "
+    },
+    {
+      "id": 326,
+      "text": "Gerador de Políticas de Privacidade"
+    },
+    {
+      "id": 327,
+      "text": "."
+    }
+  ]
+}
