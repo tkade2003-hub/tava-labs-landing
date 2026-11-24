@@ -96,7 +96,7 @@
     "openMenu": "Avaa valikko",
     "closeMenu": "Sulje valikko",
     "language": "Kieli",
-    "tagline": "PDRN Brightening Serum perustajille",
+    "tagline": "Ihonhoitoa yrittäjille",
     "shopHeading": "Kauppa",
     "contactHeading": "Ota yhteyttä",
     "infoHeading": "Tietoa",
@@ -133,7 +133,7 @@
     },
     "disclaimer1": "PDRN Brightening Serum on kosmeettinen tuote. Sitä ei ole tarkoitettu diagnosoimaan, hoitamaan, parantamaan tai ehkäisemään mitään sairautta. Yksilölliset tulokset voivat vaihdella.",
     "disclaimer2": "Kaikki myynti on lopullista. Lue palautuskäytäntömme ennen tilaamista.",
-    "copyright": "© 2026 Tava Labs · PDRN Brightening Serum perustajille",
+    "copyright": "© 2026 Tava Labs · Ihonhoitoa yrittäjille",
     "notFoundLabel": "Tava Labs",
     "notFoundTitle": "Sivua ei löytynyt",
     "notFoundBody": "Sitä sivua ei ole täällä. Se on voinut siirtyä tai osoite voi olla puutteellinen.",
@@ -176,18 +176,18 @@
   "home": {
     "introTitleLead": "Kirkkaampaa, kosteutettua,",
     "introTitleAccent": "terveen näköistä ihoa",
-    "introBody": "Perustajat ja yritysten omistajat viettävät päivänsä tapaamisissa, myyntipuheluissa ja nauhoitetuissa videoissa. Kasvosi ovat ruudulla ja huoneessa kaiken sen ajan. PDRN Brightening Serum on yksi kevyt vaihe, jossa on PDRN:ää, peptidejä ja hyaluronihappoa. Se imeytyy nopeasti ja auttaa ihoa näyttämään kirkkaammalta, kosteutetulta ja sileältä. Kaksi minuuttia kahdesti päivässä.",
+    "introBody": "Perustajat ja yritysten omistajat ovat kameran edessä ja tapaamisissa koko päivän, ja kasvosi ovat osa jokaista pitchausta. Yksi vaihe, jossa on PDRN:ää, peptidejä ja hyaluronihappoa, pitää ihon kirkkaamman, kosteutetun ja sileän näköisenä, kahdessa minuutissa kahdesti päivässä.",
     "marqueeTagline": "Yksi seerumi, aamulla ja illalla",
     "marqueeSlogan": "Tehty perustajille ja yritysten omistajille",
     "buildersTitle": "Tehty perustajille ja yritysten omistajille",
     "buildersTagline": "Rakenna yritystäsi. Älä laiminlyö itseäsi.",
-    "buildersBody": "Perustajat ja yritysten omistajat esiintyvät koko päivän. Pitchaat sijoittajille henkilökohtaisesti, myyt videopuheluissa ja nauhoitat videoita asiakkaille. Puhtaana ja levänneenä näyttäminen on osa yrityksesi hyvää esittämistä. Lyhyt päivittäinen ihonhoitorutiini kuuluu hyvän vaatekaapin ja luotettavan kannettavan tietokoneen rinnalle perushuoltotoimena. PDRN Brightening Serum kestää kaksi minuuttia aamuin illoin.",
+    "buildersBody": "Perustajat ja yritysten omistajat esiintyvät koko päivän: sijoittajapitchaukset, myyntipuhelut ja nauhoitetut videot. Kahden minuutin seerumirutiini aamulla ja illalla on perushuoltoa, hyvän vaatekaapin ja luotettavan kannettavan tietokoneen rinnalla.",
     "pitchAlt": "Perustaja esittelemässä ideaansa sijoittajalle",
     "pitchTitle": "Esittelytilanteessa",
-    "pitchBody": "Kun pitchaat sijoittajille henkilökohtaisesti, he näkevät sinut ennen kuin he näkevät kalvosi. Päivittäinen seerumirutiini auttaa ihoasi näyttämään kirkkaalta, kosteutetulta ja levänneeltä sinä päivänä.",
+    "pitchBody": "Sijoittajat näkevät sinut ennen kuin he näkevät kalvosi. Päivittäinen seerumi auttaa ihoasi näyttämään kirkkaalta, kosteutetulta ja levänneeltä.",
     "cameraAlt": "Perustaja puhumassa kameran edessä",
     "cameraTitle": "Kameran edessä",
-    "cameraBody": "Videokuvauksessa, podcastissa tai myyntipuhelussa kamera näyttää väsyneen ihon lähietäisyydeltä. Kahden minuutin rutiini aamulla ja illalla auttaa ihoasi näyttämään levänneeltä ennen nauhoittamista.",
+    "cameraBody": "Kamera näyttää väsyneen ihon lähietäisyydeltä. Kahden minuutin rutiini aamulla ja illalla auttaa ihoasi näyttämään levänneeltä ennen nauhoittamista.",
     "maintenanceTitle": "Yksi seerumi on koko rutiini.",
     "maintenanceBody": "Levitä kaksi–neljä tippaa PDRN Brightening Serumia puhtaalle, kuivalle iholle aamuin illoin ja käytä sen jälkeen kosteusvoidetta. Koko rutiini kestää noin kaksi minuuttia päivässä.",
     "motionTitle": "Katso asiakasvideoita",
@@ -234,7 +234,7 @@
     ],
     "founderLabel": "Viesti perustajaltamme",
     "founderQuote": "“Yksi seerumi, kaksi minuuttia, aamulla ja illalla. Se on koko rutiini.”",
-    "founderBody1": "Se on Tava Labsin taustalla oleva ajatus. PDRN Brightening Serum on yksi vaihe, jonka ympärille rutiini on rakennettu: kaksi minuuttia kahdesti päivässä, aamulla ja illalla.",
+    "founderBody1": "PDRN Brightening Serum on yksi vaihe, jonka ympärille rutiini on rakennettu. Kaksi minuuttia kahdesti päivässä, aamulla ja illalla.",
     "founderBody2": "Katso video kuullaksesi, miksi teimme sen, omin sanoin.",
     "founderPhilosophy": "Tava Labsin filosofia",
     "founderVideoAria": "Tava Labsin video, miksi teimme PDRN Brightening Serumin",
@@ -742,7 +742,7 @@
     "details": [
       {
         "title": "Tutustu PDRN Brightening Serumiin",
-        "body": "Kevyt ja kosteuttava koostumus sileämmän ja hehkuvamman näköistä ihoa varten. Se imeytyy nopeasti, ei jätä jäämiä ja pitää ihon miellyttävänä."
+        "body": "Kevyt koostumus sileämmän ja kirkkaamman näköistä ihoa varten. Se imeytyy nopeasti eikä jätä jäämiä."
       },
       {
         "title": "Ainesosat ja koostumus",
@@ -754,7 +754,7 @@
       },
       {
         "title": "Puhtaan ihonhoidon lupaus",
-        "body": "Valmistettu sertifioitujen eläinkokeettomien standardien mukaan ja tehty ilman hajusteita, silikoneja, parabeeneja, mineraaliöljyä, sulfaatteja, ftalaatteja tai yleisiä allergeeneja. Ihotautilääkärin testaama kaikilla ihotyypeillä."
+        "body": "Sertifioidusti eläinkokeeton, ja tehty ilman hajusteita, silikoneja, parabeeneja, mineraaliöljyä, sulfaatteja, ftalaatteja tai yleisiä allergeeneja. Ihotautilääkärin testaama kaikilla ihotyypeillä."
       }
     ],
     "innovation": {
@@ -808,12 +808,12 @@
         "Syvää kosteutusta tukeva kaavio",
         "Ihon rakennetta parantava kaavio"
       ],
-      "note": "Paikallisten bioaktiivisten aineiden arvioinnit perustuvat 8 viikon kuluttajien havaintoihin ja instrumentaalisiin kosteustesteihin. Yksilölliset ihon suojakerrokset, genetiikka ja ympäristö vaikuttavat aikatauluihin ja tuloksiin."
+      "note": "Perustuu 8 viikon kuluttajien havaintoihin ja instrumentaalisiin kosteustesteihin. Yksilölliset tulokset vaihtelevat ihon suojakerroksen, genetiikan ja ympäristön mukaan."
     },
     "formulary": {
       "label": "Vertaa koostumuksia",
       "title": "Mikä ihonhoito sopii sinulle?",
-      "sub": "Koostumuksia erilaisiin ihotavoitteisiin, huolenaiheisiin ja rutiineihin. Valitse se, joka sopii ihollesi ja aikataulullesi.",
+      "sub": "Valitse koostumus, joka sopii ihollesi ja aikataulullesi.",
       "serumAlt": "PDRN Brightening Serum",
       "serumPriceLine": "Tilaa ja säästä $39/kk",
       "serumOneTime": "tai $49 kertamaksuna",
@@ -886,7 +886,7 @@
       "label": "Miten sitä käytetään",
       "titleLead": "Yksi yksinkertainen rutiini,",
       "titleAccent": "kahdesti päivässä",
-      "sub": "Säännöllisyys on tärkeää. Noudata näitä vaiheita aamulla ja illalla ja viimeistele kosteusvoiteella pitääksesi kosteuden sisällä.",
+      "sub": "Noudata näitä vaiheita aamulla ja illalla ja viimeistele kosteusvoiteella.",
       "progressionLabel": "Kliininen eteneminen",
       "progressionTitle": "Näkyvien tulosten aikajana",
       "progressionBody": "Kirkkaampi, kosteutetumpi iho 7–14 päivässä; parantunut ihon kimmoisuus ja suojakerroksen kiinteys viikkoon 4–6 mennessä.",
@@ -894,7 +894,7 @@
       "steps": [
         {
           "title": "Puhdista hellävaraisella pesulla",
-          "body": "Puhdista hellävaraisella, pH tasapainotetulla pesulla poistaaksesi lian ja valmistellaksesi ihon, riistämättä sen luonnollisia lipidejä."
+          "body": "Puhdista hellävaraisella, pH tasapainotetulla pesulla. Se poistaa lian riistämättä luonnollisia lipidejä."
         },
         {
           "title": "PDRN Serum, 2–4 tippaa",
@@ -921,7 +921,7 @@
       "items": [
         {
           "q": "Mikä on PDRN ja miten se hyödyttää ihoa?",
-          "a": "PDRN (Polydeoxyribonucleotide) koostuu DNA-fragmenteista, jotka ovat bioyhteensopivia ihmisen ihosolujen kanssa. Se edistää luonnollista solujen uudistumista, stimuloi mikroverenkiertoa ja auttaa korjaamaan ihon suojakerrosta kirkkaammalta ja kiinteämmältä näyttävää ihoa varten."
+          "a": "PDRN (Polydeoxyribonucleotide) koostuu DNA fragmenteista, jotka ovat bioyhteensopivia ihmisen ihosolujen kanssa. Se tukee solujen uudistumista ja mikroverenkiertoa ja auttaa korjaamaan ihon suojakerrosta kirkkaammalta ja kiinteämmältä näyttävää ihoa varten."
         },
         {
           "q": "Miten sisällytän PDRN Brightening Serumin ihonhoitorutiiniini?",
@@ -993,19 +993,19 @@
       "items": [
         {
           "title": "Kuparipeptidi",
-          "body": "Kuparipeptidi, joka on merkitty etikettiin nimellä Copper Lysinate/Prolinate, on tämän koostumuksen peptidi. Se kohdistuu hienojen juonteiden ja ryppyjen ulkonäköön."
+          "body": "Kuparipeptidi, joka on merkitty etikettiin nimellä Copper Lysinate/Prolinate, kohdistuu hienojen juonteiden ja ryppyjen ulkonäköön."
         },
         {
           "title": "Karpalouute",
-          "body": "Karpalouute tulee karpalon hedelmästä. Se on mukana kasviuutteena päivittäisessä koostumuksessa."
+          "body": "Karpalon hedelmäuute tulee karpalon hedelmästä ja on tässä koostumuksessa kasviuute."
         },
         {
           "title": "Aloe vera ja taikapähkinä",
-          "body": "Aloe veran lehtimehu ja taikapähkinävesi ovat koostumuksen kasviainesosia. Ne ovat glyseriinin rinnalla, ja glyseriini auttaa ihoa säilyttämään kosteuden."
+          "body": "Aloe veran lehtimehu ja taikapähkinävesi ovat koostumuksen kasviainesosia. Glyseriini auttaa ihoa säilyttämään kosteuden."
         },
         {
           "title": "Moringa ja neem",
-          "body": "Moringan siemenuute ja neemin lehtiuute ovat koostumuksen kasviuutteita. Mukana on myös E vitamiini, joka on merkitty nimellä Tocopheryl Acetate."
+          "body": "Moringa ja neem ovat koostumuksen kasviuutteita. Mukana on myös E vitamiini."
         }
       ]
     },
@@ -1068,12 +1068,12 @@
     "serumBody": "Päivittäinen kasvoseerumi, jossa on PDRN ja peptidejä, kirkkaamman ja sileämmän näköiselle iholle. Levitä 2-4 tippaa puhtaalle iholle ennen kosteusvoidetta aamuin ja illoin. 1 fl oz (30 ml).",
     "serumPriceLine": "$49 kertaostona, tai $39 kuukaudessa",
     "moisturizerTitle": "Peptide Moisturizer",
-    "moisturizerBody": "Kasvovoide, jossa on peptidejä ja karpalouutetta. Se kosteuttaa ihoa ja kohdistuu hienojen juonteiden ja ryppyjen ulkonäköön. Levitä kolikon kokoinen määrä seerumin jälkeen aamuin ja illoin. 1.7 fl oz (50 ml).",
+    "moisturizerBody": "Kasvovoide, jossa on peptidejä ja karpalouutetta, kosteutusta sekä hienojen juonteiden ja ryppyjen ulkonäköä varten. Levitä kolikon kokoinen määrä seerumin jälkeen aamuin ja illoin. 1.7 fl oz (50 ml).",
     "moisturizerPriceLine": "$27.99 kertaostona",
     "addonSerumBlurb": "Rutiinin ensimmäinen vaihe, kirkkaamman ja sileämmän näköiselle iholle. 1 fl oz (30 ml).",
     "addonMoisturizerBlurb": "Rutiinin toinen vaihe. Se kosteuttaa ihoa ja kohdistuu hienojen juonteiden ja ryppyjen ulkonäköön. 1.7 fl oz (50 ml).",
     "routineTitle": "Rutiini",
-    "routineBody": "Molemmat tuotteet yhdessä, käytettynä järjestyksessä. Ensin seerumi, sitten kosteusvoide, aamuin ja illoin. Kaksi pulloa, yksi rutiini.",
+    "routineBody": "Ensin seerumi, sitten kosteusvoide, aamuin ja illoin. Kaksi pulloa, yksi rutiini.",
     "routinePriceLine": "Yhdessä $76.99 kertaostona, 20 prosenttia alennusta, maksat $61.59"
   },
   "about": {
@@ -1081,19 +1081,19 @@
     "titleLead": "Päivittäinen kasvojen seerumi",
     "titleAccent": "perustajille.",
     "tagline": "Rakenna yritystäsi. Älä laiminlyö itseäsi.",
-    "p1": "Tava Labs on ihonhoitobrändi ihmisille, jotka rakentavat yrityksiä. Ulkonäkösi on osa ammatillista läsnäoloasi. Ihmiset näkevät sinut kameralla, pitch-tapaamisissa ja työssä joka päivä.",
+    "p1": "Tava Labs on ihonhoitobrändi ihmisille, jotka rakentavat yrityksiä. Ulkonäkösi on osa ammatillista läsnäoloasi, kameralla, pitch tapaamisissa ja työssä joka päivä.",
     "p2": "Teemme yhden asian ja teemme sen hyvin. Päivittäinen seerumi, joka pitää ihosi kosteutetun ja levänneen näköisenä ilman monimutkaista rutiinia.",
     "p3": "Tava Labs perustettiin perustajille ja yritysten omistajille. Yksi vaihe aamulla ja illalla ennen tapaamisia, pitchejä ja kameratyötä.",
     "p4": "Ihonhoito, jota käsitellään perushuoltona. Sama säännöllisyys, jonka tuot yritykseesi, sovellettuna omaan rutiiniisi.",
     "serumLabel": "Seerumi",
     "serumTitle": "PDRN Brightening Serum",
     "serumAlt": "PDRN Brightening Serum",
-    "serumBody": "Päivittäinen ihonhoitorutiini, joka on rakennettu PDRN:n (Polydeoxyribonucleotide) ja Acetyl Hexapeptide-8:n ympärille, mukana Sodium Hyaluronate ja Panthenol kosteutusta ja mukavuutta varten. Puhdas ja hajusteeton, ja tehty ilman mitään vapaa listallamme olevista aineista.",
+    "serumBody": "Päivittäinen rutiini, joka on rakennettu PDRN:n ja Acetyl Hexapeptide-8:n ympärille, mukana Sodium Hyaluronate ja Panthenol kosteutusta varten. Puhdas ja hajusteeton, ja tehty ilman mitään vapaa listallamme olevista aineista.",
     "bullets": [
       "PDRN kirkkaampaa ja tasaisemman näköistä ihoa varten.",
       "Acetyl Hexapeptide-8 tukemaan kiinteyden ilmettä.",
       "Sodium Hyaluronate ja Panthenol kosteutusta varten.",
-      "Käytä kahdesti päivässä: 2–4 pumppausta puhtaalle ja kuivalle iholle, aamuin ja illoin."
+      "Käytä kahdesti päivässä: 2-4 tippaa puhtaalle ja kuivalle iholle, aamuin ja illoin."
     ],
     "priceLine": "$49 kertamaksuna tai $39 kuukaudessa tilaa ja säästä vaihtoehdolla.",
     "philosophyLabel": "Filosofiamme",

@@ -96,7 +96,7 @@
     "openMenu": "Åbn menu",
     "closeMenu": "Luk menu",
     "language": "Sprog",
-    "tagline": "PDRN Brightening Serum til stiftere",
+    "tagline": "Hudpleje til iværksættere",
     "shopHeading": "Shop",
     "contactHeading": "Kontakt os",
     "infoHeading": "Info",
@@ -133,7 +133,7 @@
     },
     "disclaimer1": "PDRN Brightening Serum er et kosmetisk produkt. Det er ikke beregnet til at diagnosticere, behandle, kurere eller forebygge nogen sygdom. Individuelle resultater kan variere.",
     "disclaimer2": "Alt salg er endeligt. Se venligst vores returpolitik, før du bestiller.",
-    "copyright": "© 2026 Tava Labs · PDRN Brightening Serum til stiftere",
+    "copyright": "© 2026 Tava Labs · Hudpleje til iværksættere",
     "notFoundLabel": "Tava Labs",
     "notFoundTitle": "Siden blev ikke fundet",
     "notFoundBody": "Den side er ikke her. Den er måske flyttet, eller adressen er ufuldstændig.",
@@ -176,18 +176,18 @@
   "home": {
     "introTitleLead": "Lysere, fugtet,",
     "introTitleAccent": "sundt udseende hud",
-    "introBody": "Stiftere og virksomhedsejere bruger deres dage i møder, på salgsopkald og i optagede videoer. Dit ansigt er på skærmen og i rummet under det hele. PDRN Brightening Serum er ét let trin med PDRN, peptider og hyaluronsyre. Det absorberes hurtigt og hjælper huden med at se lysere, fugtet og glat ud. To minutter, to gange om dagen.",
+    "introBody": "Stiftere og virksomhedsejere er på kamera og i møder hele dagen, og dit ansigt er en del af hvert pitch. Ét trin med PDRN, peptider og hyaluronsyre holder huden lysere, fugtet og glat, på to minutter, to gange om dagen.",
     "marqueeTagline": "Ét serum, morgen og aften",
     "marqueeSlogan": "Lavet til stiftere og virksomhedsejere",
     "buildersTitle": "Lavet til stiftere og virksomhedsejere",
     "buildersTagline": "Byg din virksomhed. Forsøm ikke dig selv.",
-    "buildersBody": "Stiftere og virksomhedsejere præsenterer hele dagen. Du pitcher investorer personligt, sælger på videoopkald og optager videoer til kunder. At se ren og udhvilet ud er en del af at præsentere din virksomhed godt. En kort daglig hudplejerutine hører sammen med en god garderobe og en pålidelig bærbar computer som grundlæggende vedligeholdelse. PDRN Brightening Serum tager to minutter, morgen og aften.",
+    "buildersBody": "Stiftere og virksomhedsejere præsenterer hele dagen: pitches til investorer, salgsopkald og optagede videoer. En serumrutine på to minutter, morgen og aften, er grundlæggende vedligeholdelse, ved siden af en god garderobe og en pålidelig bærbar computer.",
     "pitchAlt": "Stifter der pitcher sin idé for en investor",
     "pitchTitle": "I pitchen",
-    "pitchBody": "Når du pitcher investorer personligt, ser de dig, før de ser dine slides. En daglig serumrutine hjælper din hud med at se lys, fugtet og udhvilet ud på dagen.",
+    "pitchBody": "Investorer ser dig, før de ser dine slides. Et dagligt serum hjælper din hud med at se lys, fugtet og udhvilet ud.",
     "cameraAlt": "Stifter der taler foran et kamera",
     "cameraTitle": "På kamera",
-    "cameraBody": "På en videooptagelse, en podcast eller et salgsopkald viser kameraet træt hud tæt på. En rutine på to minutter morgen og aften hjælper din hud med at se udhvilet ud, før du optager.",
+    "cameraBody": "Kameraet viser træt hud tæt på. En rutine på to minutter, morgen og aften, hjælper din hud med at se udhvilet ud, før du optager.",
     "maintenanceTitle": "Ét serum er hele rutinen.",
     "maintenanceBody": "Påfør to til fire dråber PDRN Brightening Serum på ren, tør hud, morgen og aften, og følg derefter op med fugtighedscreme. Hele rutinen tager omkring to minutter om dagen.",
     "motionTitle": "Se kundevideoer",
@@ -234,7 +234,7 @@
     ],
     "founderLabel": "En besked fra vores stifter",
     "founderQuote": "“Ét serum, to minutter, morgen og aften. Det er hele rutinen.”",
-    "founderBody1": "Det er ideen bag Tava Labs. PDRN Brightening Serum er det ene trin, rutinen er bygget op omkring: to minutter, to gange om dagen, morgen og aften.",
+    "founderBody1": "PDRN Brightening Serum er det ene trin, rutinen er bygget op omkring. To minutter, to gange om dagen, morgen og aften.",
     "founderBody2": "Se videoen for at høre, hvorfor vi lavede det, med vores egne ord.",
     "founderPhilosophy": "Tava Labs filosofien",
     "founderVideoAria": "Tava Labs videoen, hvorfor vi lavede PDRN Brightening Serum",
@@ -742,7 +742,7 @@
     "details": [
       {
         "title": "Mød PDRN Brightening Serum",
-        "body": "En let, fugtgivende formel for glattere, mere strålende udseende hud. Den absorberes hurtigt, efterlader ingen rester og holder huden behagelig."
+        "body": "En let formel for glattere, lysere udseende hud. Den absorberes hurtigt og efterlader ingen rester."
       },
       {
         "title": "Ingredienser og formulering",
@@ -754,7 +754,7 @@
       },
       {
         "title": "Clean Skincare garanti",
-        "body": "Formuleret efter certificerede cruelty free standarder og fremstillet uden duft, silikoner, parabener, mineralsk olie, sulfater, ftalater eller almindelige allergener. Dermatologisk testet på alle hudtyper."
+        "body": "Certificeret cruelty free, og fremstillet uden duft, silikoner, parabener, mineralsk olie, sulfater, ftalater eller almindelige allergener. Dermatologisk testet på alle hudtyper."
       }
     ],
     "innovation": {
@@ -808,12 +808,12 @@
         "Diagram for Supports Deep Hydration",
         "Diagram for Enhances Skin Texture"
       ],
-      "note": "Evalueringer af topiske bioaktive stoffer baseret på 8 ugers forbrugeropfattelse og instrumentelle fugttests. Individuelle hudbarrierer, genetik og miljø påvirker konkrete tidslinjer og resultater."
+      "note": "Baseret på 8 ugers forbrugeropfattelse og instrumentelle fugttests. Individuelle resultater varierer med hudbarriere, genetik og miljø."
     },
     "formulary": {
       "label": "Sammenlign formler",
       "title": "Hvilken hudplejebehandling passer til dig?",
-      "sub": "Formler til forskellige hudmål, bekymringer og rutiner. Vælg den, der passer til din hud og din tidsplan.",
+      "sub": "Vælg den formel, der passer til din hud og din tidsplan.",
       "serumAlt": "PDRN Brightening Serum",
       "serumPriceLine": "Subscribe and Save $39/md.",
       "serumOneTime": "eller $49 som engangskøb",
@@ -886,7 +886,7 @@
       "label": "Sådan bruger du det",
       "titleLead": "Én enkel rutine,",
       "titleAccent": "to gange om dagen",
-      "sub": "Regelmæssighed betyder noget. Følg disse trin morgen og aften, og afslut med fugtighedscreme for at holde fugten inde.",
+      "sub": "Følg disse trin morgen og aften, og afslut med fugtighedscreme.",
       "progressionLabel": "Klinisk progression",
       "progressionTitle": "Tidslinje for synlige resultater",
       "progressionBody": "Lysere og mere fugtet hud på 7 til 14 dage; forbedret hudelasticitet og barrierefasthed ved uge 4 til 6.",
@@ -894,7 +894,7 @@
       "steps": [
         {
           "title": "Rens, med en mild vask",
-          "body": "Rens med en mild, pH balanceret vask for at fjerne snavs og forberede huden, uden at fjerne dens naturlige lipider."
+          "body": "Rens med en mild, pH balanceret vask. Den fjerner snavs uden at fjerne naturlige lipider."
         },
         {
           "title": "PDRN Serum, 2 til 4 dråber",
@@ -921,7 +921,7 @@
       "items": [
         {
           "q": "Hvad er PDRN, og hvordan gavner det huden?",
-          "a": "PDRN (Polydeoxyribonucleotide) består af DNA fragmenter, der er biokompatible med menneskelige hudceller. Det fremmer naturlig celleregenerering, stimulerer mikrocirkulationen og hjælper med at reparere hudbarrieren, for hud, der ser lysere og fastere ud."
+          "a": "PDRN (Polydeoxyribonucleotide) består af DNA fragmenter, der er biokompatible med menneskelige hudceller. Det støtter celleregenerering og mikrocirkulation og hjælper med at reparere hudbarrieren, for hud, der ser lysere og fastere ud."
         },
         {
           "q": "Hvordan indarbejder jeg PDRN Brightening Serum i min hudplejerutine?",
@@ -993,19 +993,19 @@
       "items": [
         {
           "title": "Kobberpeptid",
-          "body": "Kobberpeptid, angivet på etiketten som Copper Lysinate/Prolinate, er peptidet i denne formel. Det målretter synlige fine linjer og rynker."
+          "body": "Kobberpeptid, angivet på etiketten som Copper Lysinate/Prolinate, målretter synlige fine linjer og rynker."
         },
         {
           "title": "Tranebærekstrakt",
-          "body": "Tranebærekstrakt kommer fra tranebærfrugten. Det indgår som et planteekstrakt i den daglige formel."
+          "body": "Tranebærekstrakt kommer fra tranebærfrugten og er et planteekstrakt i denne formel."
         },
         {
           "title": "Aloe vera og troldnød",
-          "body": "Aloe vera bladsaft og troldnøddevand er planteingredienser i formlen. De står ved siden af glycerin, som hjælper huden med at holde på fugten."
+          "body": "Aloe vera bladsaft og troldnøddevand er planteingredienser i formlen. Glycerin hjælper huden med at holde på fugten."
         },
         {
           "title": "Moringa og neem",
-          "body": "Moringafrøekstrakt og neembladekstrakt er planteekstrakter i formlen. E vitamin, angivet som Tocopheryl Acetate, indgår også."
+          "body": "Moringa og neem er planteekstrakter i formlen. E vitamin indgår også."
         }
       ]
     },
@@ -1068,12 +1068,12 @@
     "serumBody": "Et dagligt ansigtsserum med PDRN og peptider, til hud der ser lysere og glattere ud. Påfør 2 til 4 dråber på ren hud før fugtighedscremen, morgen og aften. 1 fl oz (30 ml).",
     "serumPriceLine": "$49 som engangskøb, eller $39 om måneden",
     "moisturizerTitle": "Peptide Moisturizer",
-    "moisturizerBody": "En ansigtscreme med peptider og tranebærekstrakt. Den fugter huden og målretter synlige fine linjer og rynker. Påfør en mængde på størrelse med en mønt efter serummet, morgen og aften. 1.7 fl oz (50 ml).",
+    "moisturizerBody": "En ansigtscreme med peptider og tranebærekstrakt, til fugt og synlige fine linjer og rynker. Påfør en mængde på størrelse med en mønt efter serummet, morgen og aften. 1.7 fl oz (50 ml).",
     "moisturizerPriceLine": "$27.99 som engangskøb",
     "addonSerumBlurb": "Det første trin i rutinen, til hud der ser lysere og glattere ud. 1 fl oz (30 ml).",
     "addonMoisturizerBlurb": "Det andet trin i rutinen. Den fugter huden og målretter synlige fine linjer og rynker. 1.7 fl oz (50 ml).",
     "routineTitle": "Rutinen",
-    "routineBody": "Begge produkter sammen, brugt i rækkefølge. Serummet først, derefter fugtighedscremen, morgen og aften. To flasker, én rutine.",
+    "routineBody": "Serummet først, derefter fugtighedscremen, morgen og aften. To flasker, én rutine.",
     "routinePriceLine": "Sammen $76.99 som engangskøb, 20 procent rabat, du betaler $61.59"
   },
   "about": {
@@ -1081,19 +1081,19 @@
     "titleLead": "Et dagligt ansigtsserum",
     "titleAccent": "til stiftere.",
     "tagline": "Byg din virksomhed. Forsøm ikke dig selv.",
-    "p1": "Tava Labs er et hudplejemærke for folk, der bygger virksomheder. Dit udseende er en del af din professionelle tilstedeværelse. Folk ser dig på kamera, i pitchmøder og på arbejdet hver dag.",
+    "p1": "Tava Labs er et hudplejemærke for folk, der bygger virksomheder. Dit udseende er en del af din professionelle tilstedeværelse, på kamera, i pitchmøder og på arbejdet hver dag.",
     "p2": "Vi laver én ting, og vi laver den godt. Et dagligt serum, der holder din hud fugtet og udhvilet at se på, uden en kompliceret rutine.",
     "p3": "Tava Labs blev grundlagt til stiftere og virksomhedsejere. Ét trin, morgen og aften, før møderne, pitchene og kameraarbejdet.",
     "p4": "Hudpleje, behandlet som grundlæggende vedligeholdelse. Den samme regelmæssighed, du bringer til din virksomhed, anvendt på din egen rutine.",
     "serumLabel": "Serummet",
     "serumTitle": "PDRN Brightening Serum",
     "serumAlt": "PDRN Brightening Serum",
-    "serumBody": "En daglig rutine for teinten, bygget omkring PDRN (Polydeoxyribonucleotide) og Acetyl Hexapeptide-8, med Sodium Hyaluronate og Panthenol for fugt og komfort. Clean og duftfri, og fremstillet uden noget fra vores free from liste.",
+    "serumBody": "En daglig rutine, bygget omkring PDRN og Acetyl Hexapeptide-8, med Sodium Hyaluronate og Panthenol for fugt. Clean og duftfri, og fremstillet uden noget fra vores free from liste.",
     "bullets": [
       "PDRN for en lysere, mere ensartet udseende teint.",
       "Acetyl Hexapeptide-8 til at støtte et fastere udseende.",
       "Sodium Hyaluronate og Panthenol for fugt.",
-      "Brug to gange dagligt: 2 til 4 pump på ren, tør hud, morgen og aften."
+      "Brug to gange dagligt: 2 til 4 dråber på ren, tør hud, morgen og aften."
     ],
     "priceLine": "$49 som engangskøb, eller $39 om måneden med Subscribe & Save.",
     "philosophyLabel": "Vores filosofi",

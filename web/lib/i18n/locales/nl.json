@@ -96,7 +96,7 @@
     "openMenu": "Menu openen",
     "closeMenu": "Menu sluiten",
     "language": "Taal",
-    "tagline": "PDRN Brightening Serum voor oprichters",
+    "tagline": "Huidverzorging voor ondernemers",
     "shopHeading": "Shop",
     "contactHeading": "Neem contact op",
     "infoHeading": "Info",
@@ -133,7 +133,7 @@
     },
     "disclaimer1": "Het PDRN Brightening Serum is een cosmetisch product. Het is niet bedoeld om een ziekte te diagnosticeren, behandelen, genezen of voorkomen. Individuele resultaten kunnen verschillen.",
     "disclaimer2": "Alle verkopen zijn definitief. Lees ons retourbeleid voordat je bestelt.",
-    "copyright": "© 2026 Tava Labs · PDRN Brightening Serum voor oprichters",
+    "copyright": "© 2026 Tava Labs · Huidverzorging voor ondernemers",
     "notFoundLabel": "Tava Labs",
     "notFoundTitle": "Pagina niet gevonden",
     "notFoundBody": "Die pagina is hier niet. Ze is misschien verplaatst, of het adres is onvolledig.",
@@ -176,18 +176,18 @@
   "home": {
     "introTitleLead": "Helderder, gehydrateerd,",
     "introTitleAccent": "gezond ogende huid",
-    "introBody": "Oprichters en ondernemers brengen hun dagen door in vergaderingen, verkoopgesprekken en opgenomen video's. Je gezicht is bij alles in beeld en in de kamer. Het PDRN Brightening Serum is één lichte stap met PDRN, peptiden en hyaluronzuur. Het trekt snel in en helpt de huid er helderder, gehydrateerd en glad uit te zien. Twee minuten, twee keer per dag.",
+    "introBody": "Oprichters en ondernemers zijn de hele dag op camera en in vergaderingen, en je gezicht is deel van elke pitch. Eén stap met PDRN, peptiden en hyaluronzuur houdt de huid er helderder, gehydrateerd en glad uitziend, in twee minuten, twee keer per dag.",
     "marqueeTagline": "Eén serum, 's ochtends en 's avonds",
     "marqueeSlogan": "Gemaakt voor oprichters en ondernemers",
     "buildersTitle": "Gemaakt voor oprichters en ondernemers",
     "buildersTagline": "Bouw je bedrijf. Verwaarloos jezelf niet.",
-    "buildersBody": "Oprichters en ondernemers presenteren de hele dag. Je pitcht investeerders persoonlijk, verkoopt in videogesprekken en neemt video's op voor klanten. Er verzorgd en uitgerust uitzien hoort bij het goed presenteren van je bedrijf. Een korte dagelijkse huidverzorgingsroutine staat naast een goede garderobe en een betrouwbare laptop als basisverzorging. Het PDRN Brightening Serum duurt twee minuten, 's ochtends en 's avonds.",
+    "buildersBody": "Oprichters en ondernemers presenteren de hele dag: pitches voor investeerders, verkoopgesprekken en opgenomen video's. Een serumroutine van twee minuten, 's ochtends en 's avonds, is basisverzorging, naast een goede garderobe en een betrouwbare laptop.",
     "pitchAlt": "Oprichter die zijn idee pitcht aan een investeerder",
     "pitchTitle": "In de pitch",
-    "pitchBody": "Als je investeerders persoonlijk pitcht, zien ze jou voordat ze je dia's zien. Een dagelijkse serumroutine helpt je huid er op die dag helder, gehydrateerd en uitgerust uit te zien.",
+    "pitchBody": "Investeerders zien jou voordat ze je dia's zien. Een dagelijks serum helpt je huid er helder, gehydrateerd en uitgerust uit te zien.",
     "cameraAlt": "Oprichter die voor een camera spreekt",
     "cameraTitle": "Op camera",
-    "cameraBody": "Bij een video-opname, een podcast of een verkoopgesprek laat de camera vermoeide huid van dichtbij zien. Een routine van twee minuten 's ochtends en 's avonds helpt je huid er uitgerust uit te zien voordat je opneemt.",
+    "cameraBody": "De camera laat vermoeide huid van dichtbij zien. Een routine van twee minuten 's ochtends en 's avonds helpt je huid er uitgerust uit te zien voordat je opneemt.",
     "maintenanceTitle": "Eén serum is de hele routine.",
     "maintenanceBody": "Breng 's ochtends en 's avonds twee tot vier druppels PDRN Brightening Serum aan op een schone, droge huid en daarna vochtinbrengende crème. De hele routine duurt ongeveer twee minuten per dag.",
     "motionTitle": "Bekijk klantvideo's",
@@ -234,7 +234,7 @@
     ],
     "founderLabel": "Een boodschap van onze oprichter",
     "founderQuote": "“Eén serum, twee minuten, 's ochtends en 's avonds. Dat is de hele routine.”",
-    "founderBody1": "Dat is het idee achter Tava Labs. Het PDRN Brightening Serum is de ene stap waar de routine omheen is gebouwd: twee minuten, twee keer per dag, 's ochtends en 's avonds.",
+    "founderBody1": "Het PDRN Brightening Serum is de ene stap waar de routine omheen is gebouwd. Twee minuten, twee keer per dag, 's ochtends en 's avonds.",
     "founderBody2": "Bekijk de video om in onze eigen woorden te horen waarom we het hebben gemaakt.",
     "founderPhilosophy": "De filosofie van Tava Labs",
     "founderVideoAria": "De Tava Labs video, waarom we het PDRN Brightening Serum hebben gemaakt",
@@ -742,7 +742,7 @@
     "details": [
       {
         "title": "Maak kennis met het PDRN Brightening Serum",
-        "body": "Een lichte, hydraterende formule voor een gladder, stralender ogende huid. Ze absorbeert snel, laat geen residu achter en houdt de huid comfortabel."
+        "body": "Een lichte formule voor een gladder, helderder ogende huid. Ze absorbeert snel en laat geen residu achter."
       },
       {
         "title": "Ingrediënten en formulering",
@@ -754,7 +754,7 @@
       },
       {
         "title": "Garantie voor schone huidverzorging",
-        "body": "Geformuleerd volgens gecertificeerde dierproefvrije normen, en gemaakt zonder geurstoffen, siliconen, parabenen, minerale olie, sulfaten, ftalaten of veelvoorkomende allergenen. Dermatologisch getest op alle huidtypen."
+        "body": "Gecertificeerd dierproefvrij, en gemaakt zonder geurstoffen, siliconen, parabenen, minerale olie, sulfaten, ftalaten of veelvoorkomende allergenen. Dermatologisch getest op alle huidtypen."
       }
     ],
     "innovation": {
@@ -808,12 +808,12 @@
         "Diagram ondersteunt diepe hydratatie",
         "Diagram verbetert huidtextuur"
       ],
-      "note": "Topische bio actieve evaluaties op basis van 8 weken consumentenperceptie en instrumentele hydratatietests. Individuele huidbarrières, genetica en omgeving beïnvloeden specifieke tijdlijnen en uitkomsten."
+      "note": "Gebaseerd op 8 weken consumentenperceptie en instrumentele hydratatietests. Individuele resultaten verschillen per huidbarrière, genetica en omgeving."
     },
     "formulary": {
       "label": "Formules vergelijken",
       "title": "Welke huidverzorgingsbehandeling past bij jou?",
-      "sub": "Formules voor verschillende huiddoelen, zorgen en routines. Kies de formule die bij je huid en je schema past.",
+      "sub": "Kies de formule die bij je huid en je schema past.",
       "serumAlt": "PDRN Brightening Serum",
       "serumPriceLine": "Subscribe and Save $39/mnd",
       "serumOneTime": "of $49 eenmalig",
@@ -886,7 +886,7 @@
       "label": "Zo gebruik je het",
       "titleLead": "Eén eenvoudige routine,",
       "titleAccent": "twee keer per dag",
-      "sub": "Regelmaat telt. Volg deze stappen 's ochtends en 's avonds en sluit af met vochtinbrengende crème om het vocht vast te houden.",
+      "sub": "Volg deze stappen 's ochtends en 's avonds en sluit af met moisturizer.",
       "progressionLabel": "Klinische progressie",
       "progressionTitle": "Tijdlijn van zichtbare resultaten",
       "progressionBody": "Een huid die er in 7 tot 14 dagen helderder en beter gehydrateerd uitziet; verbeterde huidelasticiteit en stevigheid van de barrière in week 4 tot 6.",
@@ -894,7 +894,7 @@
       "steps": [
         {
           "title": "Reinigen, met een zachte wash",
-          "body": "Reinig met een zachte, pH gebalanceerde wash om vuil te verwijderen en de huid voor te bereiden, zonder haar natuurlijke lipiden te strippen."
+          "body": "Reinig met een zachte, pH gebalanceerde wash. Die verwijdert vuil zonder de natuurlijke lipiden te strippen."
         },
         {
           "title": "PDRN Serum, 2 tot 4 druppels",
@@ -921,7 +921,7 @@
       "items": [
         {
           "q": "Wat is PDRN en hoe helpt het de huid?",
-          "a": "PDRN (Polydeoxyribonucleotide) bestaat uit DNA-fragmenten die biocompatibel zijn met menselijke huidcellen. Het bevordert natuurlijke celvernieuwing, stimuleert de microcirculatie en helpt de huidbarrière te herstellen, voor een huid die er helderder en steviger uitziet."
+          "a": "PDRN (Polydeoxyribonucleotide) bestaat uit DNA-fragmenten die biocompatibel zijn met menselijke huidcellen. Het ondersteunt celvernieuwing en microcirculatie en helpt de huidbarrière te herstellen, voor een huid die er helderder en steviger uitziet."
         },
         {
           "q": "Hoe neem ik het PDRN Brightening Serum op in mijn huidverzorgingsroutine?",
@@ -993,19 +993,19 @@
       "items": [
         {
           "title": "Koperpeptide",
-          "body": "Koperpeptide, op het etiket vermeld als Copper Lysinate/Prolinate, is het peptide in deze formule. Het richt zich op de zichtbaarheid van fijne lijntjes en rimpels."
+          "body": "Koperpeptide, op het etiket vermeld als Copper Lysinate/Prolinate, richt zich op de zichtbaarheid van fijne lijntjes en rimpels."
         },
         {
           "title": "Cranberry vruchtextract",
-          "body": "Cranberry vruchtextract komt van de cranberry vrucht. Het is als plantenextract opgenomen in de dagelijkse formule."
+          "body": "Cranberry vruchtextract komt van de cranberry vrucht en is een plantenextract in deze formule."
         },
         {
           "title": "Aloë vera en toverhazelaar",
-          "body": "Aloë vera bladsap en toverhazelaarwater zijn plantaardige ingrediënten in de formule. Ze staan naast glycerine, dat de huid helpt vocht vast te houden."
+          "body": "Aloë vera bladsap en toverhazelaarwater zijn plantaardige ingrediënten in de formule. Glycerine helpt de huid vocht vast te houden."
         },
         {
           "title": "Moringa en neem",
-          "body": "Moringa zaadextract en neem bladextract zijn plantenextracten in de formule. Vitamine E, vermeld als Tocopheryl Acetate, is ook opgenomen."
+          "body": "Moringa en neem zijn plantenextracten in de formule. Vitamine E is ook opgenomen."
         }
       ]
     },
@@ -1065,15 +1065,15 @@
     "serumStep": "Stap één",
     "moisturizerStep": "Stap twee",
     "serumTitle": "PDRN Brightening Serum",
-    "serumBody": "Een dagelijks gezichtsserum met PDRN en peptiden, voor een stralendere en gladder uitziende huid. Breng 2 tot 4 druppels aan op een gereinigde huid vóór de moisturizer, in de ochtend en avond. 1 fl oz (30 ml).",
+    "serumBody": "Een dagelijks gezichtsserum met PDRN en peptiden, voor een huid die er helderder en gladder uitziet. Breng 2 tot 4 druppels aan op een schone huid vóór de moisturizer, 's ochtends en 's avonds. 1 fl oz (30 ml).",
     "serumPriceLine": "$49 eenmalig, of $39 per maand",
     "moisturizerTitle": "Peptide Moisturizer",
-    "moisturizerBody": "Een gezichtsmoisturizer met peptiden en cranberry extract. De crème hydrateert de huid en richt zich op de zichtbaarheid van fijne lijntjes en rimpels. Breng in de ochtend en avond een hoeveelheid ter grootte van een munt aan na het serum. 1.7 fl oz (50 ml).",
+    "moisturizerBody": "Een gezichtsmoisturizer met peptiden en cranberry extract, voor hydratatie en de zichtbaarheid van fijne lijntjes en rimpels. Breng 's ochtends en 's avonds een hoeveelheid ter grootte van een munt aan na het serum. 1.7 fl oz (50 ml).",
     "moisturizerPriceLine": "$27.99 eenmalig",
     "addonSerumBlurb": "De eerste stap van de routine, voor een stralendere en gladder uitziende huid. 1 fl oz (30 ml).",
     "addonMoisturizerBlurb": "De tweede stap van de routine. De crème hydrateert de huid en richt zich op de zichtbaarheid van fijne lijntjes en rimpels. 1.7 fl oz (50 ml).",
     "routineTitle": "De routine",
-    "routineBody": "Beide producten samen, in volgorde gebruikt. Eerst het serum, daarna de moisturizer, in de ochtend en avond. Twee flessen, één routine.",
+    "routineBody": "Eerst het serum, daarna de moisturizer, 's ochtends en 's avonds. Twee flessen, één routine.",
     "routinePriceLine": "Samen $76.99 eenmalig, 20 procent korting, je betaalt $61.59"
   },
   "about": {
@@ -1081,19 +1081,19 @@
     "titleLead": "Een gezichtsserum voor elke dag",
     "titleAccent": "voor oprichters.",
     "tagline": "Bouw je bedrijf. Verwaarloos jezelf niet.",
-    "p1": "Tava Labs is een huidverzorgingsmerk voor mensen die bedrijven bouwen. Je uiterlijk is deel van je professionele aanwezigheid. Mensen zien je elke dag op camera, in pitchvergaderingen en op het werk.",
+    "p1": "Tava Labs is een huidverzorgingsmerk voor mensen die bedrijven bouwen. Je uiterlijk is deel van je professionele aanwezigheid, op camera, in pitchvergaderingen en elke dag op het werk.",
     "p2": "Wij maken één ding, en we maken het goed. Een serum voor elke dag dat je huid er gehydrateerd en uitgerust uit laat zien, zonder ingewikkelde routine.",
     "p3": "Tava Labs is opgericht voor oprichters en ondernemers. Eén stap, 's ochtends en 's avonds, vóór de vergaderingen, de pitches en het camerawerk.",
     "p4": "Huidverzorging, behandeld als basisverzorging. Dezelfde regelmaat die je in je bedrijf brengt, toegepast op je eigen routine.",
     "serumLabel": "Het serum",
     "serumTitle": "PDRN Brightening Serum",
     "serumAlt": "PDRN Brightening Serum",
-    "serumBody": "Een dagelijkse routine voor de teint, gebouwd rond PDRN (Polydeoxyribonucleotide) en Acetyl Hexapeptide-8, met natriumhyaluronaat en panthenol voor hydratatie en comfort. Clean en geurvrij, en gemaakt zonder iets van onze lijst van weggelaten stoffen.",
+    "serumBody": "Een dagelijkse routine, gebouwd rond PDRN en Acetyl Hexapeptide-8, met Sodium Hyaluronate en Panthenol voor hydratatie. Clean en geurvrij, en gemaakt zonder iets van onze lijst van weggelaten stoffen.",
     "bullets": [
       "PDRN voor een helderder, egaler ogende teint.",
       "Acetyl Hexapeptide-8 ter ondersteuning van een stevig ogende huid.",
       "Natriumhyaluronaat en panthenol voor hydratatie.",
-      "Gebruik twee keer per dag: 2 tot 4 pompjes op een schone, droge huid, ochtend en avond."
+      "Gebruik twee keer per dag: 2 tot 4 druppels op een schone, droge huid, 's ochtends en 's avonds."
     ],
     "priceLine": "$49 eenmalig, of $39 per maand met Subscribe & Save.",
     "philosophyLabel": "Onze filosofie",

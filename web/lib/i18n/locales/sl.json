@@ -96,7 +96,7 @@
     "openMenu": "Odpri meni",
     "closeMenu": "Zapri meni",
     "language": "Jezik",
-    "tagline": "PDRN Brightening Serum za ustanovitelje",
+    "tagline": "Nega kože za podjetnike",
     "shopHeading": "Trgovina",
     "contactHeading": "Pišite nam",
     "infoHeading": "Informacije",
@@ -133,7 +133,7 @@
     },
     "disclaimer1": "PDRN Brightening Serum je kozmetični izdelek. Ni namenjen diagnosticiranju, zdravljenju, ozdravitvi ali preprečevanju katere koli bolezni. Posamezni rezultati se lahko razlikujejo.",
     "disclaimer2": "Vse prodaje so dokončne. Pred naročilom si oglejte našo politiko vračil.",
-    "copyright": "© 2026 Tava Labs · PDRN Brightening Serum za ustanovitelje",
+    "copyright": "© 2026 Tava Labs · Nega kože za podjetnike",
     "notFoundLabel": "Tava Labs",
     "notFoundTitle": "Stran ni najdena",
     "notFoundBody": "Te strani tukaj ni. Morda se je preselila ali pa je naslov nepopoln.",
@@ -176,18 +176,18 @@
   "home": {
     "introTitleLead": "Svetlejša, navlažena,",
     "introTitleAccent": "zdravo videti koža",
-    "introBody": "Ustanovitelji in lastniki podjetij dneve preživijo na srečanjih, prodajnih klicih in v posnetih videih. Vaš obraz je na zaslonu in v sobi pri vsem tem. PDRN Brightening Serum je en lahek korak s PDRN, peptidi in hialuronsko kislino. Hitro se vpije in pomaga koži videti svetlejšo, navlaženo in gladko. Dve minuti, dvakrat na dan.",
+    "introBody": "Ustanovitelji in lastniki podjetij so pred kamero in na srečanjih ves dan, vaš obraz pa je del vsake predstavitve. En korak s PDRN, peptidi in hialuronsko kislino pomaga koži videti svetlejšo, navlaženo in gladko, v dveh minutah, dvakrat na dan.",
     "marqueeTagline": "En serum, zjutraj in zvečer",
     "marqueeSlogan": "Izdelano za ustanovitelje in lastnike podjetij",
     "buildersTitle": "Izdelano za ustanovitelje in lastnike podjetij",
     "buildersTagline": "Gradite svoje podjetje. Ne zanemarjajte sebe.",
-    "buildersBody": "Ustanovitelji in lastniki podjetij se predstavljajo ves dan. Vlagateljem predstavljate osebno, prodajate na videoklicih in snemate videe za stranke. Videti čist in spočit je del dobrega predstavljanja vašega podjetja. Kratka dnevna rutina nege kože sedi ob dobri garderobi in zanesljivem prenosniku kot osnovno vzdrževanje. PDRN Brightening Serum traja dve minuti, zjutraj in zvečer.",
+    "buildersBody": "Ustanovitelji in lastniki podjetij se predstavljajo ves dan: predstavitve vlagateljem, prodajni klici in posneti videi. Dvominutna rutina s serumom, zjutraj in zvečer, je osnovno vzdrževanje, ob dobri garderobi in zanesljivem prenosniku.",
     "pitchAlt": "Ustanovitelj vlagatelju predstavlja svojo idejo",
     "pitchTitle": "Med predstavitvijo",
-    "pitchBody": "Ko vlagateljem predstavljate osebno, vidijo vas, preden vidijo vaše diapozitive. Dnevna rutina s serumom pomaga vaši koži tisti dan videti svetlo, navlaženo in spočito.",
+    "pitchBody": "Vlagatelji vidijo vas, preden vidijo vaše diapozitive. Dnevni serum pomaga vaši koži videti svetlo, navlaženo in spočito.",
     "cameraAlt": "Ustanovitelj govori pred kamero",
     "cameraTitle": "Pred kamero",
-    "cameraBody": "Pri snemanju videa, podcastu ali prodajnem klicu kamera od blizu pokaže utrujeno kožo. Dvominutna rutina zjutraj in zvečer pomaga vaši koži videti spočito pred snemanjem.",
+    "cameraBody": "Kamera od blizu pokaže utrujeno kožo. Dvominutna rutina, zjutraj in zvečer, pomaga vaši koži videti spočito pred snemanjem.",
     "maintenanceTitle": "En serum je celotna rutina.",
     "maintenanceBody": "Nanesite dve do štiri kapljice PDRN Brightening Serum na čisto, suho kožo, zjutraj in zvečer, nato nadaljujte z vlažilno kremo. Celotna rutina traja približno dve minuti na dan.",
     "motionTitle": "Oglejte si videe strank",
@@ -234,7 +234,7 @@
     ],
     "founderLabel": "Sporočilo našega ustanovitelja",
     "founderQuote": "„En serum, dve minuti, zjutraj in zvečer. To je celotna rutina.“",
-    "founderBody1": "To je ideja za Tava Labs. PDRN Brightening Serum je en korak, okoli katerega je rutina zgrajena: dve minuti, dvakrat na dan, zjutraj in zvečer.",
+    "founderBody1": "PDRN Brightening Serum je en korak, okoli katerega je rutina zgrajena. Dve minuti, dvakrat na dan, zjutraj in zvečer.",
     "founderBody2": "Oglejte si video in poslušajte, zakaj smo ga izdelali, z našimi lastnimi besedami.",
     "founderPhilosophy": "Filozofija Tava Labs",
     "founderVideoAria": "Video Tava Labs, zakaj smo izdelali PDRN Brightening Serum",
@@ -742,7 +742,7 @@
     "details": [
       {
         "title": "Spoznajte PDRN Brightening Serum",
-        "body": "Lahka, vlažilna formula za gladkejšo in bolj sijočo kožo. Hitro se vpije, ne pušča ostankov in ohranja udobje kože."
+        "body": "Lahka formula za gladkejšo in svetlejšo kožo na videz. Hitro se vpije in ne pušča ostankov."
       },
       {
         "title": "Sestavine in formulacija",
@@ -754,7 +754,7 @@
       },
       {
         "title": "Jamstvo čiste nege kože",
-        "body": "Formulirano po certificiranih standardih brez testiranja na živalih in izdelano brez dišav, silikonov, parabenov, mineralnega olja, sulfatov, ftalatov ali pogostih alergenov. Dermatološko testirano na vseh tipih kože."
+        "body": "Certificirano brez testiranja na živalih in izdelano brez dišav, silikonov, parabenov, mineralnega olja, sulfatov, ftalatov ali pogostih alergenov. Dermatološko testirano na vseh tipih kože."
       }
     ],
     "innovation": {
@@ -808,12 +808,12 @@
         "Diagram podpore globokemu vlaženju",
         "Diagram izboljšanja teksture kože"
       ],
-      "note": "Ocena lokalnih bioaktivnih sestavin na podlagi 8-tedenskega zaznavanja potrošnikov in instrumentalnih testov vlaženja. Posamezne kožne pregrade, genetika in okolje vplivajo na konkretne časovnice in rezultate."
+      "note": "Na podlagi 8 tedenskih testov zaznavanja potrošnikov in instrumentalnih testov vlaženja. Posamezni rezultati se razlikujejo glede na kožno pregrado, genetiko in okolje."
     },
     "formulary": {
       "label": "Primerjajte formule",
       "title": "Katera nega kože je prava za vas?",
-      "sub": "Formule za različne cilje, težave in rutine kože. Izberite tisto, ki ustreza vaši koži in vašemu urniku.",
+      "sub": "Izberite formulo, ki ustreza vaši koži in vašemu urniku.",
       "serumAlt": "PDRN Brightening Serum",
       "serumPriceLine": "Subscribe and Save $39/mesec",
       "serumOneTime": "ali $49 enkratno",
@@ -886,7 +886,7 @@
       "label": "Kako ga uporabljati",
       "titleLead": "Ena preprosta rutina,",
       "titleAccent": "dvakrat na dan",
-      "sub": "Doslednost je pomembna. Sledite tem korakom zjutraj in zvečer ter zaključite z vlažilno kremo, da zadržite vlago.",
+      "sub": "Sledite tem korakom zjutraj in zvečer ter zaključite z vlažilno kremo.",
       "progressionLabel": "Klinično napredovanje",
       "progressionTitle": "Časovnica vidnih rezultatov",
       "progressionBody": "Svetlejša in bolj navlažena koža v 7 do 14 dneh; izboljšana elastičnost kože in čvrstost pregrade do 4. do 6. tedna.",
@@ -894,7 +894,7 @@
       "steps": [
         {
           "title": "Čiščenje, z nežnim umivanjem",
-          "body": "Očistite z nežnim umivanjem z uravnoteženim pH, da odstranite nečistoče in pripravite kožo, ne da bi ji odvzeli naravne lipide."
+          "body": "Očistite z nežnim umivanjem z uravnoteženim pH. Odstrani nečistoče, ne da bi koži odvzel naravne lipide."
         },
         {
           "title": "Serum PDRN, 2 do 4 kapljice",
@@ -921,7 +921,7 @@
       "items": [
         {
           "q": "Kaj je PDRN in kako koristi koži?",
-          "a": "PDRN (polideoksiribonukleotid) je narejen iz fragmentov DNK, ki so biološko združljivi s človeškimi kožnimi celicami. Spodbuja naravno regeneracijo celic, stimulira mikrocirkulacijo in pomaga popravljati kožno pregrado, za svetlejšo in čvrstejšo kožo na videz."
+          "a": "PDRN (Polydeoxyribonucleotide) je narejen iz fragmentov DNK, ki so biološko združljivi s človeškimi kožnimi celicami. Podpira regeneracijo celic in mikrocirkulacijo ter pomaga popravljati kožno pregrado, za svetlejšo in čvrstejšo kožo na videz."
         },
         {
           "q": "Kako serum PDRN Brightening Serum vključim v svojo rutino nege kože?",
@@ -993,19 +993,19 @@
       "items": [
         {
           "title": "Bakrov peptid",
-          "body": "Bakrov peptid, na etiketi naveden kot Copper Lysinate/Prolinate, je peptid v tej formuli. Cilja na videz drobnih linij in gub."
+          "body": "Bakrov peptid, na etiketi naveden kot Copper Lysinate/Prolinate, cilja na videz drobnih linij in gub."
         },
         {
           "title": "Izvleček brusnice",
-          "body": "Izvleček brusnice prihaja iz plodu brusnice. V dnevno formulo je vključen kot rastlinski izvleček."
+          "body": "Izvleček brusnice prihaja iz plodu brusnice in je rastlinski izvleček v tej formuli."
         },
         {
           "title": "Aloe vera in virginijski nepozebnik",
-          "body": "Sok listov aloe vere in voda virginijskega nepozebnika sta rastlinski sestavini v formuli. Stojita ob glicerinu, ki koži pomaga zadrževati vlago."
+          "body": "Sok listov aloe vere in voda virginijskega nepozebnika sta rastlinski sestavini v formuli. Glicerin koži pomaga zadrževati vlago."
         },
         {
           "title": "Moringa in neem",
-          "body": "Izvleček semen moringe in izvleček listov neema sta rastlinska izvlečka v formuli. Vključen je tudi vitamin E, naveden kot Tocopheryl Acetate."
+          "body": "Moringa in neem sta rastlinska izvlečka v formuli. Vključen je tudi vitamin E."
         }
       ]
     },
@@ -1068,12 +1068,12 @@
     "serumBody": "Dnevni serum za obraz s PDRN in peptidi, za kožo, ki je videti svetlejša in bolj gladka. Nanesite 2 do 4 kapljice na čisto kožo pred vlažilno kremo, zjutraj in zvečer. 1 fl oz (30 ml).",
     "serumPriceLine": "$49 enkratno, ali $39 na mesec",
     "moisturizerTitle": "Peptide Moisturizer",
-    "moisturizerBody": "Vlažilna krema za obraz s peptidi in izvlečkom brusnice. Kožo navlaži in cilja na videz drobnih linij in gub. Nanesite količino v velikosti kovanca po serumu, zjutraj in zvečer. 1.7 fl oz (50 ml).",
+    "moisturizerBody": "Vlažilna krema za obraz s peptidi in izvlečkom brusnice, za vlaženje in videz drobnih linij in gub. Nanesite količino v velikosti kovanca po serumu, zjutraj in zvečer. 1.7 fl oz (50 ml).",
     "moisturizerPriceLine": "$27.99 enkratno",
     "addonSerumBlurb": "Prvi korak rutine, za kožo, ki je videti svetlejša in bolj gladka. 1 fl oz (30 ml).",
     "addonMoisturizerBlurb": "Drugi korak rutine. Kožo navlaži in cilja na videz drobnih linij in gub. 1.7 fl oz (50 ml).",
     "routineTitle": "Rutina",
-    "routineBody": "Oba izdelka skupaj, uporabljena po vrsti. Najprej serum, nato vlažilna krema, zjutraj in zvečer. Dve steklenički, ena rutina.",
+    "routineBody": "Najprej serum, nato vlažilna krema, zjutraj in zvečer. Dve steklenički, ena rutina.",
     "routinePriceLine": "Skupaj $76.99 enkratno, 20 odstotkov popusta, plačate $61.59"
   },
   "about": {
@@ -1081,19 +1081,19 @@
     "titleLead": "Dnevni serum za obraz",
     "titleAccent": "za ustanovitelje.",
     "tagline": "Gradite svoje podjetje. Ne zanemarjajte sebe.",
-    "p1": "Tava Labs je blagovna znamka nege kože za ljudi, ki gradijo podjetja. Vaš videz je del vaše poklicne prisotnosti. Ljudje vas vidijo pred kamero, na predstavitvah in pri delu vsak dan.",
+    "p1": "Tava Labs je blagovna znamka nege kože za ljudi, ki gradijo podjetja. Vaš videz je del vaše poklicne prisotnosti, pred kamero, na predstavitvah in pri delu vsak dan.",
     "p2": "Izdelujemo eno stvar in jo izdelujemo dobro. Dnevni serum, ki ohranja vašo kožo navlaženo in spočito na videz, brez zapletene rutine.",
     "p3": "Tava Labs je bila ustanovljena za ustanovitelje in lastnike podjetij. En korak, zjutraj in zvečer, pred srečanji, predstavitvami in delom pred kamero.",
     "p4": "Nega kože, obravnavana kot osnovno vzdrževanje. Ista doslednost, ki jo prinašate v svoje podjetje, uporabljena v vaši lastni rutini.",
     "serumLabel": "Serum",
     "serumTitle": "PDRN Brightening Serum",
     "serumAlt": "PDRN Brightening Serum",
-    "serumBody": "Dnevna rutina za polt, zgrajena okoli PDRN (Polydeoxyribonucleotide) in Acetyl Hexapeptide-8, z natrijevim hialuronatom in pantenolom za vlaženje in udobje. Čista in brez dišav ter izdelana brez vsega z našega seznama izključenih sestavin.",
+    "serumBody": "Dnevna rutina, zgrajena okoli PDRN in Acetyl Hexapeptide-8, s Sodium Hyaluronate in Panthenol za vlaženje. Čista in brez dišav ter izdelana brez vsega z našega seznama izključenih sestavin.",
     "bullets": [
       "PDRN za svetlejšo in enakomernejšo polt.",
       "Acetyl Hexapeptide-8 za podporo videzu čvrstosti.",
       "Sodium Hyaluronate in Panthenol za vlaženje.",
-      "Uporabljajte dvakrat na dan: 2 do 4 pritiski na čisto, suho kožo, zjutraj in zvečer."
+      "Uporabljajte dvakrat na dan: 2 do 4 kapljice na čisto, suho kožo, zjutraj in zvečer."
     ],
     "priceLine": "$49 enkratno ali $39 na mesec z Subscribe & Save.",
     "philosophyLabel": "Naša filozofija",

@@ -96,7 +96,7 @@
     "openMenu": "Ava menüü",
     "closeMenu": "Sulge menüü",
     "language": "Keel",
-    "tagline": "PDRN Brightening Serum asutajatele",
+    "tagline": "Nahahooldus ettevõtjatele",
     "shopHeading": "Pood",
     "contactHeading": "Võta meiega ühendust",
     "infoHeading": "Teave",
@@ -133,7 +133,7 @@
     },
     "disclaimer1": "PDRN Brightening Serum on kosmeetikatoode. See ei ole mõeldud ühegi haiguse diagnoosimiseks, ravimiseks, leevendamiseks ega ennetamiseks. Individuaalsed tulemused võivad erineda.",
     "disclaimer2": "Kõik müügid on lõplikud. Palun tutvu enne tellimist meie tagastuspoliitikaga.",
-    "copyright": "© 2026 Tava Labs · PDRN Brightening Serum asutajatele",
+    "copyright": "© 2026 Tava Labs · Nahahooldus ettevõtjatele",
     "notFoundLabel": "Tava Labs",
     "notFoundTitle": "Lehte ei leitud",
     "notFoundBody": "Seda lehte siin ei ole. See võib olla kolinud või aadress võib olla puudulik.",
@@ -176,18 +176,18 @@
   "home": {
     "introTitleLead": "Säravam, niisutatud,",
     "introTitleAccent": "tervisliku välimusega nahk",
-    "introBody": "Asutajad ja ettevõtete omanikud veedavad oma päevi koosolekutel, müügikõnedel ja salvestatud videotes. Sinu nägu on ekraanil ja ruumis kogu selle aja. PDRN Brightening Serum on üks kerge samm PDRN-i, peptiidide ja hüaluroonhappega. See imendub kiiresti ja aitab nahal säravam, niisutatud ja sile välja näha. Kaks minutit, kaks korda päevas.",
+    "introBody": "Asutajad ja ettevõtete omanikud on terve päeva kaameras ja koosolekutel ning sinu nägu on osa igast esitlusest. Üks samm PDRN-i, peptiidide ja hüaluroonhappega hoiab naha säravama, niisutatud ja siledana, kahe minutiga, kaks korda päevas.",
     "marqueeTagline": "Üks seerum, hommikul ja õhtul",
     "marqueeSlogan": "Tehtud asutajatele ja ettevõtete omanikele",
     "buildersTitle": "Tehtud asutajatele ja ettevõtete omanikele",
     "buildersTagline": "Ehita oma ettevõtet. Ära jäta iseennast hooletusse.",
-    "buildersBody": "Asutajad ja ettevõtete omanikud esinevad terve päeva. Sa esitled investoritele kohapeal, müüd videokõnedel ja salvestad klientidele videoid. Puhas ja puhanud välimus on osa sinu ettevõtte heast esitlemisest. Lühike igapäevane nahahooldusrutiin kuulub hea riietuse ja usaldusväärse sülearvuti kõrvale põhihoolduse hulka. PDRN Brightening Serum võtab kaks minutit, hommikul ja õhtul.",
+    "buildersBody": "Asutajad ja ettevõtete omanikud esinevad terve päeva: investorite esitlused, müügikõned ja salvestatud videod. Kaheminutiline seerumirutiin hommikul ja õhtul on põhihooldus, hea riietuse ja usaldusväärse sülearvuti kõrval.",
     "pitchAlt": "Asutaja esitleb oma ideed investorile",
     "pitchTitle": "Esitluses",
-    "pitchBody": "Kui esitled investoritele kohapeal, näevad nad sind enne sinu slaide. Igapäevane seerumirutiin aitab nahal sel päeval särav, niisutatud ja puhanud välja näha.",
+    "pitchBody": "Investorid näevad sind enne, kui nad näevad sinu slaide. Igapäevane seerum aitab nahal särav, niisutatud ja puhanud välja näha.",
     "cameraAlt": "Asutaja räägib kaamera ees",
     "cameraTitle": "Kaamera ees",
-    "cameraBody": "Videovõttel, taskuhäälingus või müügikõnel näitab kaamera väsinud nahka lähedalt. Kaheminutiline rutiin hommikul ja õhtul aitab nahal enne salvestamist puhanud välja näha.",
+    "cameraBody": "Kaamera näitab väsinud nahka lähedalt. Kaheminutiline rutiin hommikul ja õhtul aitab nahal enne salvestamist puhanud välja näha.",
     "maintenanceTitle": "Üks seerum on kogu rutiin.",
     "maintenanceBody": "Kanna kaks kuni neli tilka PDRN Brightening Serum puhtale ja kuivale nahale hommikul ja õhtul, seejärel kasuta niisutajat. Kogu rutiin võtab umbes kaks minutit päevas.",
     "motionTitle": "Vaata klientide videoid",
@@ -234,7 +234,7 @@
     ],
     "founderLabel": "Sõnum meie asutajalt",
     "founderQuote": "„Üks seerum, kaks minutit, hommikul ja õhtul. See on kogu rutiin.”",
-    "founderBody1": "See on Tava Labsi idee. PDRN Brightening Serum on üks samm, mille ümber rutiin on ehitatud: kaks minutit, kaks korda päevas, hommikul ja õhtul.",
+    "founderBody1": "PDRN Brightening Serum on üks samm, mille ümber rutiin on ehitatud. Kaks minutit, kaks korda päevas, hommikul ja õhtul.",
     "founderBody2": "Vaata videot, et kuulda, miks me selle tegime, meie oma sõnadega.",
     "founderPhilosophy": "Tava Labsi filosoofia",
     "founderVideoAria": "Tava Labsi video, miks me tegime PDRN Brightening Serum",
@@ -742,7 +742,7 @@
     "details": [
       {
         "title": "Tutvu PDRN Brightening Serum tootega",
-        "body": "Kerge, niisutav valem siledama ja säravama välimusega naha heaks. See imendub kiiresti, ei jäta jääke ja hoiab naha mugavana."
+        "body": "Kerge valem siledama ja säravama välimusega naha heaks. See imendub kiiresti ega jäta jääke."
       },
       {
         "title": "Koostisosad ja valem",
@@ -754,7 +754,7 @@
       },
       {
         "title": "Puhta nahahoolduse garantii",
-        "body": "Koostatud sertifitseeritud julmusevabade standardite järgi ja valmistatud ilma lõhnaainete, silikoonide, parabeenide, mineraalõli, sulfaatide, ftalaatide ja levinud allergeenideta. Dermatoloogi testitud kõigil nahatüüpidel."
+        "body": "Sertifitseeritud julmusevaba ja valmistatud ilma lõhnaainete, silikoonide, parabeenide, mineraalõli, sulfaatide, ftalaatide ja levinud allergeenideta. Dermatoloogi testitud kõigil nahatüüpidel."
       }
     ],
     "innovation": {
@@ -808,12 +808,12 @@
         "Sügava niisutuse toetamise diagramm",
         "Nahatekstuuri parandamise diagramm"
       ],
-      "note": "Paiksete bioaktiivainete hindamised põhinevad 8 nädala tarbijataju ja instrumentaalsetel niisutustestidel. Individuaalsed nahabarjäärid, geneetika ja keskkond mõjutavad konkreetseid ajakavasid ja tulemusi."
+      "note": "Põhineb 8 nädala tarbijatajul ja instrumentaalsetel niisutustestidel. Individuaalsed tulemused sõltuvad nahabarjäärist, geneetikast ja keskkonnast."
     },
     "formulary": {
       "label": "Võrdle valemeid",
       "title": "Milline nahahooldusravi on sulle õige?",
-      "sub": "Valemid erinevate nah eesmärkide, murede ja rutiinide jaoks. Vali see, mis sobib sinu naha ja ajakavaga.",
+      "sub": "Vali valem, mis sobib sinu naha ja ajakavaga.",
       "serumAlt": "PDRN Brightening Serum",
       "serumPriceLine": "Subscribe and Save $39/kuus",
       "serumOneTime": "või $49 ühekordse ostuna",
@@ -886,7 +886,7 @@
       "label": "Kuidas seda kasutada",
       "titleLead": "Üks lihtne rutiin,",
       "titleAccent": "kaks korda päevas",
-      "sub": "Järjepidevus loeb. Järgi neid samme hommikul ja õhtul ning lõpeta niisutajaga, et niiskus nahas hoida.",
+      "sub": "Järgi neid samme hommikul ja õhtul ning lõpeta niisutajaga.",
       "progressionLabel": "Kliiniline edenemine",
       "progressionTitle": "Nähtavate tulemuste ajakava",
       "progressionBody": "Säravam ja niisutatum nahk 7 kuni 14 päevaga; paranenud naha elastsus ja barjääri pringus 4. kuni 6. nädalaks.",
@@ -894,7 +894,7 @@
       "steps": [
         {
           "title": "Puhasta õrna pesuvahendiga",
-          "body": "Puhasta õrna, pH tasakaalus pesuvahendiga, et eemaldada mustus ja valmistada nahk ette, ilma selle loomulikke lipiide eemaldamata."
+          "body": "Puhasta õrna, pH tasakaalus pesuvahendiga. See eemaldab mustuse, ilma loomulikke lipiide eemaldamata."
         },
         {
           "title": "PDRN seerum, 2 kuni 4 tilka",
@@ -921,7 +921,7 @@
       "items": [
         {
           "q": "Mis on PDRN ja kuidas see nahale kasu toob?",
-          "a": "PDRN (polüdeoksüribonukleotiid) koosneb DNA fragmentidest, mis sobivad bioloogiliselt inimese naharakkudega. See soodustab rakkude loomulikku uuenemist, stimuleerib mikrovereringet ja aitab parandada nahabarjääri, et nahk näeks säravam ja pringim välja."
+          "a": "PDRN (Polydeoxyribonucleotide) koosneb DNA fragmentidest, mis sobivad bioloogiliselt inimese naharakkudega. See toetab rakkude uuenemist ja mikrovereringet ning aitab parandada nahabarjääri, et nahk näeks säravam ja pringim välja."
         },
         {
           "q": "Kuidas ma PDRN Brightening Serum oma nahahooldusrutiini lisan?",
@@ -993,19 +993,19 @@
       "items": [
         {
           "title": "Vaskpeptiid",
-          "body": "Vaskpeptiid, mis on etiketil kirjas kui Copper Lysinate/Prolinate, on selle koostise peptiid. See suunab tähelepanu peente joonte ja kortsude välimusele."
+          "body": "Vaskpeptiid, mis on etiketil kirjas kui Copper Lysinate/Prolinate, suunab tähelepanu peente joonte ja kortsude välimusele."
         },
         {
           "title": "Jõhvikaekstrakt",
-          "body": "Jõhvikaekstrakt tuleb jõhvika viljast. See on igapäevases koostises taimeekstraktina."
+          "body": "Jõhvika viljaekstrakt tuleb jõhvika viljast ja on selles koostises taimeekstrakt."
         },
         {
           "title": "Aaloe ja nõiapähkel",
-          "body": "Aaloe lehemahl ja nõiapähklivesi on koostises taimsed koostisosad. Need seisavad glütseriini kõrval, mis aitab nahal niiskust hoida."
+          "body": "Aaloe lehemahl ja nõiapähklivesi on koostises taimsed koostisosad. Glütseriin aitab nahal niiskust hoida."
         },
         {
           "title": "Moringa ja neem",
-          "body": "Moringa seemneekstrakt ja neemi leheekstrakt on koostises taimeekstraktid. Kaasas on ka E vitamiin, mis on kirjas kui Tocopheryl Acetate."
+          "body": "Moringa ja neem on koostises taimeekstraktid. Kaasas on ka E vitamiin."
         }
       ]
     },
@@ -1068,12 +1068,12 @@
     "serumBody": "Igapäevane näoseerum PDRN-i ja peptiididega, säravama ja siledama väljanägemisega naha jaoks. Kandke 2 kuni 4 tilka puhtale nahale enne niisutajat, hommikul ja õhtul. 1 fl oz (30 ml).",
     "serumPriceLine": "$49 ühekordne, või $39 kuus",
     "moisturizerTitle": "Peptide Moisturizer",
-    "moisturizerBody": "Näo niisutaja peptiidide ja jõhvikaekstraktiga. See niisutab nahka ja suunab tähelepanu peente joonte ja kortsude välimusele. Kandke mündisuurune kogus pärast seerumit, hommikul ja õhtul. 1.7 fl oz (50 ml).",
+    "moisturizerBody": "Näo niisutaja peptiidide ja jõhvikaekstraktiga, niisutuse ning peente joonte ja kortsude välimuse heaks. Kandke mündisuurune kogus pärast seerumit, hommikul ja õhtul. 1.7 fl oz (50 ml).",
     "moisturizerPriceLine": "$27.99 ühekordne",
     "addonSerumBlurb": "Rutiini esimene samm, säravama ja siledama väljanägemisega naha jaoks. 1 fl oz (30 ml).",
     "addonMoisturizerBlurb": "Rutiini teine samm. See niisutab nahka ja suunab tähelepanu peente joonte ja kortsude välimusele. 1.7 fl oz (50 ml).",
     "routineTitle": "Rutiin",
-    "routineBody": "Mõlemad tooted koos, kasutatuna järjekorras. Kõigepealt seerum, seejärel niisutaja, hommikul ja õhtul. Kaks pudelit, üks rutiin.",
+    "routineBody": "Kõigepealt seerum, seejärel niisutaja, hommikul ja õhtul. Kaks pudelit, üks rutiin.",
     "routinePriceLine": "Koos $76.99 ühekordne, 20 protsenti allahindlust, maksate $61.59"
   },
   "about": {
@@ -1081,19 +1081,19 @@
     "titleLead": "Igapäevane näoseerum",
     "titleAccent": "asutajatele.",
     "tagline": "Ehita oma ettevõtet. Ära jäta iseennast hooletusse.",
-    "p1": "Tava Labs on nahahooldusbränd inimestele, kes ehitavad ettevõtteid. Sinu välimus on osa sinu ametialasest kohalolust. Inimesed näevad sind iga päev kaameras, esitluskoosolekutel ja tööl.",
+    "p1": "Tava Labs on nahahooldusbränd inimestele, kes ehitavad ettevõtteid. Sinu välimus on osa sinu ametialasest kohalolust, iga päev kaameras, esitluskoosolekutel ja tööl.",
     "p2": "Me teeme ühte asja ja teeme seda hästi. Igapäevane seerum, mis hoiab naha niisutatud ja puhanud välimusega, ilma keerulise rutiinita.",
     "p3": "Tava Labs asutati asutajatele ja ettevõtete omanikele. Üks samm, hommikul ja õhtul, enne koosolekuid, esitlusi ja kaameratööd.",
     "p4": "Nahahooldus, käsitletuna põhihooldusena. Sama järjepidevus, mida tood oma ettevõttesse, rakendatuna oma rutiinile.",
     "serumLabel": "Seerum",
     "serumTitle": "PDRN Brightening Serum",
     "serumAlt": "PDRN Brightening Serum",
-    "serumBody": "Igapäevane jume rutiin, mis on ehitatud PDRN-i (Polydeoxyribonucleotide) ja Acetyl Hexapeptide-8 ümber, koos Sodium Hyaluronate ja Panthenol koostisosadega niisutuse ja mugavuse heaks. Puhas ja lõhnaainevaba ning valmistatud ilma millegita meie välistamisnimekirjast.",
+    "serumBody": "Igapäevane rutiin, mis on ehitatud PDRN-i ja Acetyl Hexapeptide-8 ümber, koos Sodium Hyaluronate ja Panthenol koostisosadega niisutuse heaks. Puhas ja lõhnaainevaba ning valmistatud ilma millegita meie välistamisnimekirjast.",
     "bullets": [
       "PDRN säravama ja ühtlasema välimusega jume heaks.",
       "Acetyl Hexapeptide-8 pringuse välimuse toetamiseks.",
       "Sodium Hyaluronate ja Panthenol niisutuse heaks.",
-      "Kasuta kaks korda päevas: 2 kuni 4 pumpamist puhtale ja kuivale nahale, hommikul ja õhtul."
+      "Kasuta kaks korda päevas: 2 kuni 4 tilka puhtale ja kuivale nahale, hommikul ja õhtul."
     ],
     "priceLine": "$49 ühekordse ostuna või $39 kuus Subscribe & Save korral.",
     "philosophyLabel": "Meie filosoofia",

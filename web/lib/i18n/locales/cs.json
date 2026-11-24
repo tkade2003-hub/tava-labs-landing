@@ -96,7 +96,7 @@
     "openMenu": "Otevřít menu",
     "closeMenu": "Zavřít menu",
     "language": "Jazyk",
-    "tagline": "PDRN Brightening Serum pro zakladatele",
+    "tagline": "Péče o pleť pro podnikatele",
     "shopHeading": "Obchod",
     "contactHeading": "Kontaktujte nás",
     "infoHeading": "Informace",
@@ -133,7 +133,7 @@
     },
     "disclaimer1": "PDRN Brightening Serum je kosmetický produkt. Není určen k diagnostice, léčbě, vyléčení ani prevenci jakékoli nemoci. Jednotlivé výsledky se mohou lišit.",
     "disclaimer2": "Všechny prodeje jsou konečné. Před objednáním si prosím přečtěte naše zásady vrácení zboží.",
-    "copyright": "© 2026 Tava Labs · PDRN Brightening Serum pro zakladatele",
+    "copyright": "© 2026 Tava Labs · Péče o pleť pro podnikatele",
     "notFoundLabel": "Tava Labs",
     "notFoundTitle": "Stránka nebyla nalezena",
     "notFoundBody": "Tato stránka tu není. Možná byla přesunuta nebo je adresa neúplná.",
@@ -176,18 +176,18 @@
   "home": {
     "introTitleLead": "Jasnější, hydratovaná,",
     "introTitleAccent": "zdravě vypadající pleť",
-    "introBody": "Zakladatelé a majitelé firem tráví své dny na schůzkách, prodejních hovorech a v nahraných videích. Váš obličej je po celou dobu na obrazovce i v místnosti. PDRN Brightening Serum je jeden lehký krok s PDRN, peptidy a kyselinou hyaluronovou. Rychle se vstřebává a pomáhá pleti vypadat jasnější, hydratovaná a hladká. Dvě minuty, dvakrát denně.",
+    "introBody": "Zakladatelé a majitelé firem jsou před kamerou a na schůzkách celý den a váš obličej je součástí každé prezentace. Jeden krok s PDRN, peptidy a kyselinou hyaluronovou pomáhá pleti vypadat jasnější, hydratovaná a hladká, ve dvou minutách, dvakrát denně.",
     "marqueeTagline": "Jedno sérum, ráno a večer",
     "marqueeSlogan": "Vyrobeno pro zakladatele a majitele firem",
     "buildersTitle": "Vyrobeno pro zakladatele a majitele firem",
     "buildersTagline": "Budujte své podnikání. Nezanedbávejte sebe.",
-    "buildersBody": "Zakladatelé a majitelé firem prezentují celý den. Prezentujete investorům osobně, prodáváte při videohovorech a nahráváte videa pro zákazníky. Vypadat čistě a odpočatě je součástí dobré prezentace vaší firmy. Krátká každodenní rutina péče o pleť patří vedle dobrého šatníku a spolehlivého notebooku jako základní údržba. PDRN Brightening Serum trvá dvě minuty, ráno a večer.",
+    "buildersBody": "Zakladatelé a majitelé firem prezentují celý den: prezentace pro investory, prodejní hovory a nahraná videa. Dvouminutová rutina se sérem, ráno a večer, je základní údržba, vedle dobrého šatníku a spolehlivého notebooku.",
     "pitchAlt": "Zakladatel prezentuje svůj nápad investorovi",
     "pitchTitle": "Při prezentaci",
-    "pitchBody": "Když prezentujete investorům osobně, vidí vás dříve, než uvidí vaše slajdy. Každodenní rutina se sérem pomáhá vaší pleti vypadat v ten den jasně, hydratovaně a odpočatě.",
+    "pitchBody": "Investoři vidí vás dříve, než uvidí vaše slajdy. Denní sérum pomáhá vaší pleti vypadat jasně, hydratovaně a odpočatě.",
     "cameraAlt": "Zakladatel mluví před kamerou",
     "cameraTitle": "Před kamerou",
-    "cameraBody": "Při natáčení videa, podcastu nebo prodejním hovoru kamera ukazuje unavenou pleť zblízka. Dvouminutová rutina ráno a večer pomáhá vaší pleti vypadat odpočatě, než začnete nahrávat.",
+    "cameraBody": "Kamera ukazuje unavenou pleť zblízka. Dvouminutová rutina, ráno a večer, pomáhá vaší pleti vypadat odpočatě, než začnete nahrávat.",
     "maintenanceTitle": "Jedno sérum je celá rutina.",
     "maintenanceBody": "Aplikujte dvě až čtyři kapky PDRN Brightening Serum na čistou, suchou pleť ráno a večer a poté pokračujte hydratačním krémem. Celá rutina trvá asi dvě minuty denně.",
     "motionTitle": "Sledujte videa zákazníků",
@@ -234,7 +234,7 @@
     ],
     "founderLabel": "Vzkaz od našeho zakladatele",
     "founderQuote": "„Jedno sérum, dvě minuty, ráno a večer. To je celá rutina.“",
-    "founderBody1": "To je myšlenka, která stojí za Tava Labs. PDRN Brightening Serum je jediný krok, na kterém je rutina postavena: dvě minuty, dvakrát denně, ráno a večer.",
+    "founderBody1": "PDRN Brightening Serum je jediný krok, na kterém je rutina postavena. Dvě minuty, dvakrát denně, ráno a večer.",
     "founderBody2": "Podívejte se na video a poslechněte si, proč jsme ho vyrobili, našimi vlastními slovy.",
     "founderPhilosophy": "Filozofie Tava Labs",
     "founderVideoAria": "Video Tava Labs, proč jsme vyrobili PDRN Brightening Serum",
@@ -742,7 +742,7 @@
     "details": [
       {
         "title": "Seznamte se s PDRN Brightening Serum",
-        "body": "Lehké, hydratační složení pro hladší a zářivěji vypadající pleť. Rychle se vstřebává, nezanechává zbytky a udržuje pleť v pohodlí."
+        "body": "Lehké složení pro hladší a jasněji vypadající pleť. Rychle se vstřebává a nezanechává zbytky."
       },
       {
         "title": "Složení a formulace",
@@ -754,7 +754,7 @@
       },
       {
         "title": "Záruka čisté péče o pleť",
-        "body": "Formulováno podle certifikovaných standardů netestování na zvířatech a vyrobeno bez parfemace, silikonů, parabenů, minerálních olejů, sulfátů, ftalátů a běžných alergenů. Dermatologicky testováno na všech typech pleti."
+        "body": "Certifikované jako netestované na zvířatech a vyrobené bez parfemace, silikonů, parabenů, minerálního oleje, sulfátů, ftalátů a běžných alergenů. Dermatologicky testováno na všech typech pleti."
       }
     ],
     "innovation": {
@@ -808,12 +808,12 @@
         "Diagram podpory hloubkové hydratace",
         "Diagram zlepšení textury pleti"
       ],
-      "note": "Hodnocení lokálních bioaktivních látek na základě 8týdenního spotřebitelského vnímání a přístrojových testů hydratace. Jednotlivé kožní bariéry, genetika a prostředí ovlivňují konkrétní časové průběhy a výsledky."
+      "note": "Na základě 8týdenních testů spotřebitelského vnímání a přístrojových testů hydratace. Jednotlivé výsledky se liší podle kožní bariéry, genetiky a prostředí."
     },
     "formulary": {
       "label": "Porovnejte složení",
       "title": "Která péče o pleť je pro vás ta pravá?",
-      "sub": "Složení pro různé cíle pleti, obavy a rutiny. Vyberte si to, které vyhovuje vaší pleti a vašemu rozvrhu.",
+      "sub": "Vyberte si složení, které vyhovuje vaší pleti a vašemu rozvrhu.",
       "serumAlt": "PDRN Brightening Serum",
       "serumPriceLine": "Subscribe and Save $39/měs.",
       "serumOneTime": "nebo $49 jednorázově",
@@ -886,7 +886,7 @@
       "label": "Jak ho používat",
       "titleLead": "Jedna jednoduchá rutina,",
       "titleAccent": "dvakrát denně",
-      "sub": "Pravidelnost je důležitá. Postupujte podle těchto kroků ráno a večer a zakončete hydratačním krémem, abyste udrželi vlhkost uvnitř.",
+      "sub": "Postupujte podle těchto kroků ráno a večer a zakončete hydratačním krémem.",
       "progressionLabel": "Klinický průběh",
       "progressionTitle": "Časová osa viditelných výsledků",
       "progressionBody": "Jasnější, hydratovanější pleť za 7 až 14 dní; zlepšená pružnost pleti a pevnost bariéry do 4. až 6. týdne.",
@@ -894,7 +894,7 @@
       "steps": [
         {
           "title": "Vyčištění jemným čisticím přípravkem",
-          "body": "Vyčistěte pleť jemným čisticím přípravkem s vyváženým pH, který odstraní nečistoty a pleť připraví, aniž by ji zbavil přirozených lipidů."
+          "body": "Vyčistěte pleť jemným čisticím přípravkem s vyváženým pH. Odstraňuje nečistoty, aniž by pleť zbavil přirozených lipidů."
         },
         {
           "title": "PDRN Serum, 2 až 4 kapky",
@@ -921,7 +921,7 @@
       "items": [
         {
           "q": "Co je PDRN a jak prospívá pleti?",
-          "a": "PDRN (Polydeoxyribonucleotide) se skládá z fragmentů DNA, které jsou biokompatibilní s lidskými kožními buňkami. Podporuje přirozenou regeneraci buněk, stimuluje mikrocirkulaci a pomáhá opravovat kožní bariéru, pro pleť, která vypadá jasnější a pevnější."
+          "a": "PDRN (Polydeoxyribonucleotide) se skládá z fragmentů DNA, které jsou biokompatibilní s lidskými kožními buňkami. Podporuje regeneraci buněk a mikrocirkulaci a pomáhá opravovat kožní bariéru, pro pleť, která vypadá jasnější a pevnější."
         },
         {
           "q": "Jak zařadím PDRN Brightening Serum do své rutiny péče o pleť?",
@@ -993,19 +993,19 @@
       "items": [
         {
           "title": "Měděný peptid",
-          "body": "Měděný peptid, uvedený na etiketě jako Copper Lysinate/Prolinate, je peptid v tomto složení. Cílí na vzhled jemných linek a vrásek."
+          "body": "Měděný peptid, uvedený na etiketě jako Copper Lysinate/Prolinate, cílí na vzhled jemných linek a vrásek."
         },
         {
           "title": "Extrakt z brusinek",
-          "body": "Extrakt z brusinek pochází z plodu brusinky. Je zahrnutý jako rostlinný extrakt v denním složení."
+          "body": "Extrakt z brusinek pochází z plodu brusinky a je rostlinným extraktem v tomto složení."
         },
         {
           "title": "Aloe vera a vilín",
-          "body": "Šťáva z listů aloe vera a voda z vilínu jsou rostlinné složky ve složení. Stojí vedle glycerinu, který pomáhá pleti udržet vlhkost."
+          "body": "Šťáva z listů aloe vera a voda z vilínu jsou rostlinné složky ve složení. Glycerin pomáhá pleti udržet vlhkost."
         },
         {
           "title": "Moringa a neem",
-          "body": "Extrakt ze semen moringy a extrakt z listů neemu jsou rostlinné extrakty ve složení. Zahrnutý je také vitamin E, uvedený jako Tocopheryl Acetate."
+          "body": "Moringa a neem jsou rostlinné extrakty ve složení. Zahrnutý je také vitamin E."
         }
       ]
     },
@@ -1065,15 +1065,15 @@
     "serumStep": "Krok jedna",
     "moisturizerStep": "Krok dva",
     "serumTitle": "PDRN Brightening Serum",
-    "serumBody": "Denní pleťové sérum s PDRN a peptidy, pro pleť, která vypadá jasnější a hladší. Naneste 2 až 4 kapky na čistou pleť před hydratačním krémem, ráno a večer. 1 fl oz (30 ml).",
+    "serumBody": "Denní pleťové sérum s PDRN a peptidy pro jasněji a hladčeji vypadající pleť. Naneste 2 až 4 kapky na čistou pleť před hydratačním krémem, ráno a večer. 1 fl oz (30 ml).",
     "serumPriceLine": "$49 jednorázově, nebo $39 měsíčně",
     "moisturizerTitle": "Peptide Moisturizer",
-    "moisturizerBody": "Pleťový hydratační krém s peptidy a extraktem z brusinek. Hydratuje pleť a cílí na vzhled jemných linek a vrásek. Naneste množství o velikosti mince po séru, ráno a večer. 1.7 fl oz (50 ml).",
+    "moisturizerBody": "Pleťový hydratační krém s peptidy a extraktem z brusinek, pro hydrataci a vzhled jemných linek a vrásek. Naneste množství o velikosti mince po séru, ráno a večer. 1.7 fl oz (50 ml).",
     "moisturizerPriceLine": "$27.99 jednorázově",
     "addonSerumBlurb": "První krok rutiny, pro pleť, která vypadá jasnější a hladší. 1 fl oz (30 ml).",
     "addonMoisturizerBlurb": "Druhý krok rutiny. Hydratuje pleť a cílí na vzhled jemných linek a vrásek. 1.7 fl oz (50 ml).",
     "routineTitle": "Rutina",
-    "routineBody": "Oba produkty dohromady, používané v pořadí. Nejprve sérum, potom hydratační krém, ráno a večer. Dvě lahvičky, jedna rutina.",
+    "routineBody": "Nejprve sérum, potom hydratační krém, ráno a večer. Dvě lahvičky, jedna rutina.",
     "routinePriceLine": "Dohromady $76.99 jednorázově, sleva 20 procent, zaplatíte $61.59"
   },
   "about": {
@@ -1081,19 +1081,19 @@
     "titleLead": "Každodenní pleťové sérum",
     "titleAccent": "pro zakladatele.",
     "tagline": "Budujte své podnikání. Nezanedbávejte sebe.",
-    "p1": "Tava Labs je značka péče o pleť pro lidi, kteří budují firmy. Váš vzhled je součástí vaší profesní přítomnosti. Lidé vás vidí před kamerou, na pitch schůzkách a v práci každý den.",
+    "p1": "Tava Labs je značka péče o pleť pro lidi, kteří budují firmy. Váš vzhled je součástí vaší profesní přítomnosti, před kamerou, na pitch schůzkách a v práci každý den.",
     "p2": "Vyrábíme jednu věc a vyrábíme ji dobře. Každodenní sérum, které udržuje vaši pleť hydratovanou a odpočatě vypadající, bez složité rutiny.",
     "p3": "Tava Labs byla založena pro zakladatele a majitele firem. Jeden krok, ráno a večer, před schůzkami, pitchi a prací před kamerou.",
     "p4": "Péče o pleť, považovaná za základní údržbu. Stejná pravidelnost, kterou přinášíte do své firmy, aplikovaná na vaši vlastní rutinu.",
     "serumLabel": "Sérum",
     "serumTitle": "PDRN Brightening Serum",
     "serumAlt": "PDRN Brightening Serum",
-    "serumBody": "Každodenní rutina pro pleť postavená kolem PDRN (Polydeoxyribonucleotide) a Acetyl Hexapeptide-8, se Sodium Hyaluronate a Panthenol pro hydrataci a pohodlí. Čistá, bez parfemace a vyrobená bez čehokoli z našeho seznamu vynechaných látek.",
+    "serumBody": "Denní rutina postavená kolem PDRN a Acetyl Hexapeptide-8, se Sodium Hyaluronate a Panthenol pro hydrataci. Čistá, bez parfemace a vyrobená bez čehokoli z našeho seznamu vynechaných látek.",
     "bullets": [
       "PDRN pro jasnější a rovnoměrněji vypadající pleť.",
       "Acetyl Hexapeptide-8 na podporu pevného vzhledu pleti.",
       "Sodium Hyaluronate a Panthenol pro hydrataci.",
-      "Používejte dvakrát denně: 2 až 4 dávky z pumpičky na čistou a suchou pleť, ráno a večer."
+      "Používejte dvakrát denně: 2 až 4 kapky na čistou a suchou pleť, ráno a večer."
     ],
     "priceLine": "$49 jednorázově, nebo $39 měsíčně se Subscribe & Save.",
     "philosophyLabel": "Naše filozofie",
