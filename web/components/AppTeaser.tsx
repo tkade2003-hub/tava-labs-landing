@@ -500,7 +500,7 @@ export default function AppTeaser({
           ))}
         </div>
         <div className="mt-14 text-center">
-          <Button render={<Link href={localizeHref("/glow-brightening-serum", locale)} />} size="lg" className="px-6">
+          <Button render={<Link href={localizeHref("/glow-brightening-serum", locale)} />} size="lg" className="accent-btn px-6">
             {dict.chrome.addToRoutine}
           </Button>
         </div>

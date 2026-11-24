@@ -57,7 +57,7 @@ export default function Header({
           </Link>
           <Button
             render={<Link href={lh("/glow-brightening-serum")} />}
-            className="hidden border-[#D8C19A]/60 sm:inline-flex"
+            className="accent-btn hidden border-[#D8C19A]/60 sm:inline-flex"
             size="lg"
           >
             {c.addToRoutine}

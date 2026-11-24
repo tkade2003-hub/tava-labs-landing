@@ -87,7 +87,7 @@ export function ProductBody({ locale = "en" }: { locale?: Locale }) {
             </ul>
 
             <div className="mt-8 flex flex-wrap items-center gap-4">
-              <Button render={<Link href={lh("/quiz")} />} size="lg" className="px-7">
+              <Button render={<Link href={lh("/quiz")} />} size="lg" className="accent-btn px-7">
                 {addToRoutine}
               </Button>
               <a
@@ -157,7 +157,7 @@ export function ProductBody({ locale = "en" }: { locale?: Locale }) {
           <p className="mt-6 text-xs text-ink/55">
             {t.innovation.footnote}
           </p>
-          <Button render={<Link href={lh("/quiz")} />} size="lg" className="mt-8">
+          <Button render={<Link href={lh("/quiz")} />} size="lg" className="accent-btn mt-8">
             {addToRoutine}
           </Button>
         </div>
@@ -189,7 +189,7 @@ export function ProductBody({ locale = "en" }: { locale?: Locale }) {
             ))}
           </ol>
           <div className="mt-8 flex flex-wrap items-center gap-4">
-            <Button render={<Link href={lh("/quiz")} />} size="lg">
+            <Button render={<Link href={lh("/quiz")} />} size="lg" className="accent-btn">
               {addToRoutine}
             </Button>
             <p className="max-w-md text-sm text-ink/65">
@@ -223,7 +223,7 @@ export function ProductBody({ locale = "en" }: { locale?: Locale }) {
         <p className="mt-6 max-w-3xl text-sm leading-relaxed text-ink/60">
           {t.clinical.note}
         </p>
-        <Button render={<Link href={lh("/quiz")} />} size="lg" className="mt-8">
+        <Button render={<Link href={lh("/quiz")} />} size="lg" className="accent-btn mt-8">
           {addToRoutine}
         </Button>
       </section>
@@ -428,7 +428,7 @@ export function ProductBody({ locale = "en" }: { locale?: Locale }) {
           <Button
             render={<Link href={lh("/quiz")} />}
             size="lg"
-            className="bg-gold px-7 text-white hover:bg-gold/85"
+            className="accent-btn bg-gold px-7 text-white hover:bg-gold/85"
           >
             {addToRoutine}
           </Button>

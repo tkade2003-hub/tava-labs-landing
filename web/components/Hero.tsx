@@ -34,6 +34,7 @@ const heroCss = `
 .hr-panel{position:relative;border-radius:28px;overflow:hidden;background:#F6EEDF;display:grid;grid-template-columns:1fr 1.05fr;min-height:620px;box-shadow:0 24px 48px rgba(8,37,29,.10)}
 .hr-copy{position:relative;z-index:2;align-self:center;padding:64px 20px 64px 64px;min-width:0}
 .hr-pill{display:inline-flex;align-items:center;border:1px solid rgba(18,16,12,.30);border-radius:999px;padding:8px 16px;font-family:var(--font-kanit),Arial,sans-serif;font-size:12.5px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:#12100C;animation:hr-rise .8s cubic-bezier(0.22,1,0.36,1) both}
+.hr-pill-dot{width:7px;height:7px;border-radius:50%;background:var(--accent-pop);margin-right:10px;flex:none}
 .hr-title{font-family:'Futura extra font','Futura',sans-serif;font-style:italic;font-weight:900;font-size:clamp(40px,5vw,72px);line-height:1.02;letter-spacing:-.01em;color:#12100C;margin:26px 0 0;width:100%;text-wrap:balance}
 .hr-title .hr-line{display:block;animation:hr-rise .85s cubic-bezier(0.22,1,0.36,1) both}
 .hr-title .hr-line-2{animation-delay:.09s;color:#B78B45}
@@ -41,8 +42,8 @@ const heroCss = `
 .hr-fig{position:relative;height:100%;min-height:620px;animation:hr-fade 1.1s cubic-bezier(0.22,1,0.36,1) .15s both}
 .hr-fig-line{position:absolute;inset:0;z-index:1;pointer-events:none}
 .hr-fig-line svg{position:absolute;inset:0;width:100%;height:100%;display:block}
-.hr-fig-path{fill:none;stroke:#B78B45;stroke-width:3;vector-effect:non-scaling-stroke}
-.hr-dot{position:absolute;width:13px;height:13px;border-radius:50%;background:#B78B45;border:2.5px solid #FFFDF8;box-shadow:0 1px 5px rgba(8,37,29,.25);transform:translate(-50%,-50%)}
+.hr-fig-path{fill:none;stroke:var(--accent-pop);stroke-width:3;vector-effect:non-scaling-stroke}
+.hr-dot{position:absolute;width:13px;height:13px;border-radius:50%;background:var(--accent-pop);border:2.5px solid #FFFDF8;box-shadow:0 1px 5px rgba(8,37,29,.25);transform:translate(-50%,-50%)}
 .hr-dot-a{left:3.5%;top:20%}
 .hr-dot-b{left:96.5%;top:74%}
 .hr-tag{position:absolute;font-family:var(--font-kanit),Arial,sans-serif;color:#5C4A22;line-height:1.2;text-align:center}
@@ -56,8 +57,8 @@ const heroCss = `
 .hr-stat{background:rgba(255,255,255,.66);backdrop-filter:blur(14px) saturate(1.1);-webkit-backdrop-filter:blur(14px) saturate(1.1);border:1px solid rgba(255,255,255,.7);border-radius:20px;padding:16px 18px 14px;box-shadow:0 18px 36px rgba(8,37,29,.16);animation:hr-rise .85s cubic-bezier(0.22,1,0.36,1) .45s both}
 .hr-stat-top{display:flex;align-items:center;justify-content:space-between}
 .hr-stat-label{font-family:var(--font-kanit),Arial,sans-serif;font-size:12.5px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#4C463C}
-.hr-stat-icon{width:34px;height:34px;border-radius:50%;background:#F3E8D2;display:grid;place-items:center;box-shadow:0 2px 6px rgba(8,37,29,.14)}
-.hr-stat-big{font-family:'Futura font',sans-serif;font-weight:700;font-size:33px;line-height:1.05;color:#08251D;margin:10px 0 0}
+.hr-stat-icon{width:34px;height:34px;border-radius:50%;background:var(--accent-pop);display:grid;place-items:center;box-shadow:0 2px 6px rgba(8,37,29,.14)}
+.hr-stat-big{font-family:'Futura font',sans-serif;font-weight:700;font-size:33px;line-height:1.05;color:var(--accent-pop);margin:10px 0 0}
 .hr-stat-cap{font-size:15.5px;font-weight:600;color:#12100C;margin:3px 0 0}
 .hr-stat-note{font-size:11.5px;line-height:1.45;color:#6B6353;margin:7px 0 0}
 .hr-cards{margin-top:22px;display:grid;grid-template-columns:1fr 1fr 1.55fr;gap:22px}
@@ -70,8 +71,8 @@ const heroCss = `
 .hr-card:hover .hr-card-photo img{transform:scale(1.035)}
 .hr-shade{position:absolute;inset:0;background:linear-gradient(to top in oklch,rgba(8,37,29,.80) 0%,rgba(8,37,29,.28) 30%,rgba(8,37,29,0) 52%);pointer-events:none}
 .hr-card-pill{position:absolute;top:16px;left:16px;z-index:2;background:rgba(255,255,255,.88);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-radius:999px;padding:8px 14px;font-family:var(--font-kanit),Arial,sans-serif;font-size:12px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#12100C}
-.hr-arrow{position:absolute;top:16px;right:16px;z-index:2;width:40px;height:40px;border-radius:50%;background:rgba(255,255,255,.92);display:grid;place-items:center;color:#12100C;transition:background .25s cubic-bezier(0.22,1,0.36,1)}
-.hr-card:hover .hr-arrow{background:#D8C19A}
+.hr-arrow{position:absolute;top:16px;right:16px;z-index:2;width:40px;height:40px;border-radius:50%;background:var(--accent-pop);display:grid;place-items:center;color:#fff;transition:background .25s cubic-bezier(0.22,1,0.36,1)}
+.hr-card:hover .hr-arrow{background:var(--accent-pop)}
 .hr-caption{position:absolute;left:20px;bottom:18px;z-index:2;color:#fff;font-family:'Futura font',sans-serif;font-weight:700;font-size:21px;line-height:1.2;max-width:86%}
 .hr-wide{background:#F3E8D2;border:1px solid rgb(18 16 12 / 0.08);min-height:100%}
 .hr-wide-bottle{position:absolute;top:0;right:0;bottom:0;width:52%;-webkit-mask-image:linear-gradient(to right,transparent,black 22%);mask-image:linear-gradient(to right,transparent,black 22%)}
@@ -128,7 +129,7 @@ export default function Hero({
       <div className="hr-wrap">
         <div className="hr-panel">
           <div className="hr-copy">
-            <p className="hr-pill">{t.pill}</p>
+            <p className="hr-pill"><span className="hr-pill-dot" aria-hidden="true" />{t.pill}</p>
             <h1 className="hr-title">
               <span className="hr-line">{t.line1}</span>
               <span className="hr-line hr-line-2">{t.line2}</span>
@@ -194,6 +195,7 @@ export default function Hero({
               <Button
                 render={<Link href={lh("/glow-brightening-serum")} />}
                 size="lg"
+                className="accent-btn"
               >
                 {dict.chrome.addToRoutine}
               </Button>

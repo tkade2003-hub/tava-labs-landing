@@ -168,6 +168,12 @@
   --gold: #b78b45;
   --gold-soft: #d8c19a;
   --gold-metal: #bd9a2e;
+  /* Pop accent (adopted 2026-11-24): a small dose accent outside the
+     Forest Luxe palette. It never replaces the gold or forest roles,
+     never carries body text, and never fills large surfaces. It appears
+     only on primary Add to Routine buttons, the footer Subscribe
+     button, and the named hero accents. One source: this token. */
+  --accent-pop: #e0218a;
   --linen: #f3f0e9;
   /* Borders are an alpha ink, not a solid hex, so a hairline blends
      into whatever surface it sits on (adopted 2026-11-22). It replaces
@@ -628,4 +634,15 @@ body {
 }
 footer .gold-metal-text {
   color: #D8C19A;
+}
+/* Primary action treatment for the pop accent: applied to the shared
+   primary Add to Routine buttons and the footer Subscribe button. */
+.accent-btn {
+  background-color: var(--accent-pop) !important;
+  color: #fff !important;
+  border-color: transparent !important;
+}
+.accent-btn:hover {
+  background-color: var(--accent-pop) !important;
+  filter: brightness(0.92);
 }

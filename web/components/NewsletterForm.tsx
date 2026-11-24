@@ -75,7 +75,7 @@ export default function NewsletterForm({ dict }: { dict: Dict }) {
         <Button
           type="submit"
           disabled={sending}
-          className="bg-gold text-white hover:bg-gold/85"
+          className="accent-btn bg-gold text-white hover:bg-gold/85"
         >
           {sending ? t.sending : t.subscribe}
         </Button>

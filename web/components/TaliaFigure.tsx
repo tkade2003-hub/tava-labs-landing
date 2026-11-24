@@ -106,7 +106,7 @@ export default function TaliaFigure({ dict }: { dict: Dict }) {
               <svg viewBox="0 0 24 24" width="17" height="17">
                 <path
                   d="M12 2.8c3.6 4.4 6.2 7.9 6.2 10.9a6.2 6.2 0 1 1 -12.4 0c0-3 2.6-6.5 6.2-10.9z"
-                  fill="#123B2C"
+                  fill="#fff"
                 />
               </svg>
             </span>

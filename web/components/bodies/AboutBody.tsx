@@ -65,7 +65,7 @@ export function AboutBody({ locale = "en" }: { locale?: Locale }) {
               {t.priceLine}
             </p>
             <div className="mt-6 flex flex-wrap gap-3">
-              <Button render={<Link href={lh("/glow-brightening-serum")} />} size="lg">
+              <Button render={<Link href={lh("/glow-brightening-serum")} />} size="lg" className="accent-btn">
                 {dict.chrome.addToRoutine}
               </Button>
             </div>

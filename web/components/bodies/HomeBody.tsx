@@ -121,7 +121,7 @@ export function HomeBody({ locale = "en" }: { locale?: Locale }) {
           <p className="mt-3 text-ink/75">
             {t.maintenanceBody}
           </p>
-          <Button render={<Link href={lh("/glow-brightening-serum")} />} size="lg" className="mt-6 px-6">
+          <Button render={<Link href={lh("/glow-brightening-serum")} />} size="lg" className="accent-btn mt-6 px-6">
             {dict.chrome.addToRoutine}
           </Button>
         </div>
