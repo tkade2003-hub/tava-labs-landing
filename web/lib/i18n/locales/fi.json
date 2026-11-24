@@ -1,0 +1,1939 @@
+{
+ "meta": {
+  "home": {
+   "title": "PDRN Brightening Serum yrittäjille | Tava Labs",
+   "description": "Ihonhoitoa yrittäjille. PDRN Brightening Serum yhdistää PDRN:n, peptidit ja hyaluronihapon hehkuvaa ja kosteutettua ihoa varten. $49 kertamaksuna tai $39 kuukaudessa."
+  },
+  "product": {
+   "title": "PDRN Brightening Serum yrittäjille | Tava Labs",
+   "description": "Tava Labsin PDRN Brightening Serum yhdistää PDRN:n, peptidit ja natriumhyaluronaatin hehkuvaa ja kosteutettua ihoa varten yhdessä päivittäisessä vaiheessa. Se on tehty perustajille, operatiivisille tekijöille ja sisällöntuottajille. $49 kertamaksuna tai $39 kuukaudessa."
+  },
+  "about": {
+   "title": "Tietoa Tava Labsista | Ihonhoitoa kunnianhimoisille",
+   "description": "Tava Labs tekee ihonhoitoa kunnianhimoisille. Tutustu tiimiin PDRN Brightening Serumin takana. Se on päivittäinen rutiini, joka on tehty perustajille ja ammattilaisille."
+  },
+  "ingredients": {
+   "title": "PDRN Brightening Serum ainesosat | Tava Labs",
+   "description": "Jokainen PDRN Brightening Serumin ainesosa selitettynä, PDRN:stä ja peptideistä natriumhyaluronaattiin ja pantenoliin, sekä koko INCI lista ja se, mitä jätämme pois."
+  },
+  "faq": {
+   "title": "PDRN Brightening Serum usein kysytyt kysymykset ja vastaukset | Tava Labs",
+   "description": "Vastauksia PDRN Brightening Serumista: hinnoittelu, tilaa ja säästä, toimitusajat, palautukset, ihotesti ja ostoksesi yhdistäminen Tava sovellukseen."
+  },
+  "contact": {
+   "title": "Ota yhteyttä Tava Labsiin | Tuki, myynti ja kumppanuudet",
+   "description": "Ota yhteyttä Tava Labsiin tuotetuesta, tilausavusta, tukkumyynnistä, kumppanuuksista ja lehdistöstä. Sähköposti talia@tavalabs.app tai soita 909-906-1308."
+  },
+  "partners": {
+   "title": "Kumppaniksi Tava Labsin kanssa | Ilmainen seerumi ohjelmaasi",
+   "description": "Kiihdyttämöt, hautomot, yritysohjelmat ja sijoittajat: anna perustajillesi kuukauden ilmainen erä PDRN Brightening Serumia. Ryhdy Tava Labsin kumppaniksi."
+  },
+  "research": {
+   "title": "16 viikon tutkimustulokset | Tava Labs",
+   "description": "Mitattuja tuloksia Tava Labsin 16 viikon osallistujaohjelmasta. Muutokset lähtötasosta viikolle 16 aknevaurioissa, kosteutuksessa, punoituksessa, pigmentaatiossa ja ihon rakenteessa, sekä koko ohjelman protokolla."
+  },
+  "blog": {
+   "title": "The Tava Journal | Iho, uni ja stressi perustajille",
+   "description": "Unitiedettä, stressitutkimusta ja ihon terveyttä perustajille ja ammattilaisille, sekä käytännön rutiineja terävänä näyttämiseen työssä."
+  },
+  "quiz": {
+   "title": "Ihotesti | Rakenna henkilökohtainen seerumisuunnitelmasi | Tava Labs",
+   "description": "Vastaa muutamaan nopeaan kysymykseen ja rakenna henkilökohtainen suunnitelmasi PDRN Brightening Serumin ympärille. Yksi seerumi, kahdesti päivässä, sovitettuna ihoosi ja tavoitteisiisi."
+  },
+  "checkoutSuccess": {
+   "title": "Tilaus vahvistettu | Sinun PDRN Brightening Serumisi | Tava Labs",
+   "description": "Tava Labsin PDRN Brightening Serum tilauksesi on vahvistettu. Lunastuskoodisi yhdistää tämän ostoksen sovellukseen, jossa suunnitelmasi, vastauksesi ja tilauksesi kulkevat mukanasi."
+  },
+  "checkoutCancel": {
+   "title": "Kassa peruttu | Veloitusta ei tehty | Tava Labs",
+   "description": "Veloitusta ei tehty. Tava Labs suunnitelmasi ja vastauksesi on tallennettu, joten voit jatkaa juuri siitä mihin jäit, kun olet valmis."
+  },
+  "login": {
+   "title": "Kirjaudu sisään | Tava Labs",
+   "description": "Kirjaudu Tava Labs tilillesi: suunnitelmasi, tilauksesi, rutiinisi ja tuki, sidottuna samaan sähköpostiin kuin mobiilisovellus."
+  },
+  "account": {
+   "title": "Tilisi | Tava Labs",
+   "description": "Tava Labs tilisi verkossa: suunnitelmasi, tilauksesi, rutiinisi ja tuki, sidottuna samaan sähköpostiin kuin mobiilisovellus."
+  },
+  "terms": {
+   "title": "Käyttöehdot | Tava Labs",
+   "description": "Ehdot, jotka koskevat tavalabs.app sivuston käyttöäsi ja PDRN Brightening Serumin ostamistasi Tava Labs, LLC:ltä, mukaan lukien käytäntömme, jonka mukaan kaikki myynti on lopullista."
+  },
+  "privacy": {
+   "title": "Tietosuojakäytäntö | Tava Labs",
+   "description": "Miten Tava Labs kerää, käyttää ja suojaa tietojasi, kun vierailet tavalabs.app sivustolla, teet ihotestin tai tilaat PDRN Brightening Serumin."
+  },
+  "returns": {
+   "title": "Palautus ja hyvityskäytäntö | Tava Labs",
+   "description": "Tava Labsin palautus ja hyvityskäytäntö PDRN Brightening Serum tilauksille, mukaan lukien ehtomme, jonka mukaan kaikki myynti on lopullista, ja miten tavoitat tuen."
+  },
+  "cookies": {
+   "title": "Evästekäytäntö | Tava Labs",
+   "description": "Miten Tava Labsin verkkosivusto käyttää evästeitä ja vastaavia työkaluja, kun vierailet tavalabs.app sivustolla, mitä ne tallentavat ja miten voit hallita niitä."
+  },
+  "shipping": {
+   "title": "Toimituskäytäntö | Tava Labs",
+   "description": "Tava Labsin toimituskäytäntö PDRN Brightening Serum tilauksille: käsittelyajat, toimitusarviot, seuranta ja toimitusalueet."
+  }
+ },
+ "chrome": {
+  "homeAria": "Tava Labsin etusivu",
+  "primaryNavAria": "Päänavigaatio",
+  "mobileNavAria": "Mobiili",
+  "navSerum": "Seerumi",
+  "navAbout": "Tietoa",
+  "navIngredients": "Ainesosat",
+  "navFaqs": "Usein kysytyt kysymykset",
+  "navBlog": "Blogi",
+  "navContact": "Yhteystiedot",
+  "login": "Kirjaudu",
+  "addToRoutine": "Lisää rutiiniin",
+  "openMenu": "Avaa valikko",
+  "closeMenu": "Sulje valikko",
+  "language": "Kieli",
+  "tagline": "The Science of Attractive Health",
+  "shopHeading": "Kauppa",
+  "contactHeading": "Ota yhteyttä",
+  "infoHeading": "Tietoa",
+  "legalHeading": "Oikeudelliset tiedot",
+  "footerSerum": "PDRN Brightening Serum",
+  "footerIngredients": "Ainesosat",
+  "contactLinks": {
+   "general": "Yleiset asiat",
+   "wholesale": "Tukkumyynti",
+   "salesSupport": "Myynnin tuki",
+   "productSupport": "Tuotetuki",
+   "pr": "PR"
+  },
+  "infoLinks": {
+   "about": "Tietoa meistä",
+   "partners": "Kumppanit",
+   "ingredients": "Ainesosat",
+   "faqs": "Usein kysytyt kysymykset",
+   "blog": "Blogi",
+   "research": "Tutkimus"
+  },
+  "newsletterHeading": "Pysy ajan tasalla kaikesta Tavasta",
+  "newsletter": {
+   "placeholder": "Sähköpostiosoitteesi",
+   "subscribe": "Tilaa",
+   "sending": "Lähetetään...",
+   "done": "Olet mukana. Tervetuloa hehkulistalle.",
+   "error": "Jotain meni pieleen, yritä uudelleen."
+  },
+  "disclaimer1": "PDRN Brightening Serum on kosmeettinen tuote. Sitä ei ole tarkoitettu diagnosoimaan, hoitamaan, parantamaan tai ehkäisemään mitään sairautta. Yksilölliset tulokset voivat vaihdella.",
+  "disclaimer2": "Kaikki myynti on lopullista. Lue palautuskäytäntömme ennen tilaamista.",
+  "copyright": "© 2026 Tava Labs · The Science of Attractive Health",
+  "notFoundLabel": "Tava Labs",
+  "notFoundTitle": "Sivua ei löytynyt",
+  "notFoundBody": "Sitä sivua ei ole täällä. Se on voinut siirtyä tai osoite voi olla puutteellinen.",
+  "notFoundHome": "Takaisin etusivulle",
+  "notFoundShop": "Osta PDRN Brightening Serum",
+  "legalLinks": {
+   "terms": "Käyttöehdot",
+   "privacy": "Tietosuojakäytäntö",
+   "returns": "Palautuskäytäntö",
+   "cookies": "Evästekäytäntö",
+   "shipping": "Toimituskäytäntö"
+  }
+ },
+ "hero": {
+  "ariaLabel": "PDRN Brightening Serum",
+  "pill": "Eturivissä olevalle ihmiselle",
+  "line1": "Huoliteltu ennen",
+  "line2": "ensimmäistä puhelua.",
+  "sub": "Kaksi tai neljä tippaa PDRN Brightening Serumia, aamuin ja illoin, iholle, joka näyttää kirkkaalta, kosteutetulta ja sileältä ensimmäisestä puhelusta viimeiseen.",
+  "cardAria": "PDRN Brightening Serum, tuotesivu",
+  "onSetPill": "Kuvauspaikalla",
+  "onSetCaption": "Rauhallinen valojen alla",
+  "onSetAlt": "Perustaja istumassa studiossa kameraan päin",
+  "morningPill": "Aamurituaali",
+  "morningCaption": "Peilin ääressä ensimmäisenä",
+  "morningAlt": "Perustaja levittämässä seerumia kylpyhuoneen peilin ääressä aamuvalossa",
+  "widePill": "Päivä ja yö",
+  "wideHead": "Yksi pullo. Joka päivä.",
+  "priceLine": "$49 kertamaksuna tai $39 kuukaudessa",
+  "talia": {
+   "baseline": "Lähtötaso",
+   "week16": "Viikko 16",
+   "statBig": "63 % matalampi",
+   "statCap": "Aknevauriot",
+   "statNote": "Keskimääräinen muutos 16 viikon osallistujaohjelmassa",
+   "alt": "Talia Kade, Tava Labsin tutkija, yllään valkoinen laboratoriotakki",
+   "slopeAria": "Trendiviiva lähtötason 16,8:sta viikon 16 arvoon 6,2"
+  }
+ },
+ "home": {
+  "introTitleLead": "Kirkkaampaa, kosteutettua,",
+  "introTitleAccent": "terveen näköistä ihoa",
+  "introBody": "Yrittäjät elävät kameran edessä ja huoneessa. Esittelet sijoittajille, päätät kauppoja myyntipuheluissa ja nauhoitat videon, joka myy tuotteen. Kasvosi ovat osa esitystäsi. PDRN Brightening Serum on yksi kevyt ja nopeasti imeytyvä vaihe, jossa on PDRN:ää, peptidejä ja hyaluronihappoa. Se auttaa ihoa näyttämään kirkkaammalta, syvästi kosteutetulta ja sileältä. Kaksi minuuttia, kahdesti päivässä, ja saavut paikalle terävänä, levänneenä ja valmiina.",
+  "marqueeTagline": "The Science of Attractive Health",
+  "marqueeSlogan": "Ihonhoitoa kunnianhimoisille",
+  "buildersTitle": "Rakennettu rakentajille",
+  "buildersTagline": "Rakenna yritystäsi. Älä laiminlyö itseäsi.",
+  "buildersBody": "Yrittäjänä esiinnyt aina. Esittelet sijoittajille kasvokkain, myyt videopuheluissa ja nauhoitat sisältöä, jonka pitää ansaita luottamus sekunneissa. Valmistautuneena ja rauhallisena näyttäminen ei ole turhamaisuutta. Se on osa sitä, miten esittelet yrityksen. Yksinkertainen päivittäinen rutiini kuuluu perustajan toimintajärjestelmään hyvän vaatekaapin, laadukkaan kannettavan tietokoneen ja luotettavan järjestelmän rinnalle.",
+  "pitchAlt": "Perustaja esittelemässä ideaansa sijoittajalle",
+  "pitchTitle": "Esittelytilanteessa",
+  "pitchBody": "Pöydän toisella puolella sijoittajaa vastapäätä huone lukee sinua ennen kuin se lukee esitystäsi. Saavu paikalle sellaisen ihmisen näköisenä, joka johtaa tukemisen arvoista yritystä: levänneenä, terävänä ja valmiina.",
+  "cameraAlt": "Perustaja puhumassa kameran edessä",
+  "cameraTitle": "Kameran edessä",
+  "cameraBody": "Kuvauksissa, podcastissa tai myyntipuhelussa linssi näyttää myöhäiset illat ensimmäisenä. Itseluottamus kameran edessä alkaa siitä, miten huolehdit itsestäsi ennen kuin koskaan painat nauhoituspainiketta.",
+  "maintenanceTitle": "Yrittäjän päivittäinen huolto.",
+  "maintenanceBody": "Yksi seerumi, aamuin ja illoin. Näytä valmistautuneelta. Tunne olosi varmaksi. Saavu valmiina.",
+  "motionTitle": "Tava in Motion",
+  "motionBody": "Monet sisällöntuottajat ja yrittäjät rakastavat meitä jo.",
+  "playVideo": "Toista video",
+  "videoPlayer": "Videosoitin",
+  "closeVideo": "Sulje video",
+  "freeFromTitleLead": "Laadukkaita ainesosia, yhdistettynä",
+  "freeFromTitleAccent": "huolella.",
+  "freeFromSub": "Se, mitä jätämme pois, on yhtä tärkeää kuin se, mitä laitamme mukaan.",
+  "freeFromItems": [
+   {
+    "name": "Ei eläinkokeita",
+    "blurb": "Ei koskaan testattu eläimillä."
+   },
+   {
+    "name": "Ilman hajusteita",
+    "blurb": "Ei lisättyjä hajusteita tai synteettisiä tuoksuja."
+   },
+   {
+    "name": "Ilman mineraaliöljyä",
+    "blurb": "Ei mineraaliöljyä tai maaöljystä tehtyjä täyteaineita."
+   },
+   {
+    "name": "Ilman ftalaatteja",
+    "blurb": "Ei ftalaatteja koostumuksessa."
+   },
+   {
+    "name": "Ilman silikoneja",
+    "blurb": "Ei silikoneja peittämässä ihoasi."
+   },
+   {
+    "name": "Ilman sulfaatteja",
+    "blurb": "Ei voimakkaita sulfaatteja. Hellävarainen iholle."
+   },
+   {
+    "name": "Ilman allergeeneja",
+    "blurb": "Tehty ilman yleisiä allergeeneja."
+   },
+   {
+    "name": "Ilman alkoholia",
+    "blurb": "Ei kuivattavia alkoholeja."
+   }
+  ],
+  "founderLabel": "Viesti perustajaltamme",
+  "founderQuote": "“Terve iho on viehättävin asia, jonka voit pukea päällesi.”",
+  "founderBody1": "Se on filosofia Tava Labsin takana, The Science of Attractive Health. PDRN Brightening Serum on se yksi vaihe, jonka ympärille rutiini rakentuu: kaksi minuuttia, kahdesti päivässä, aamuin ja illoin.",
+  "founderBody2": "Katso elokuva ja kuule sen taustalla oleva tiede omin sanoin kerrottuna.",
+  "founderPhilosophy": "Tava Labsin filosofia",
+  "founderVideoAria": "Tava Labs elokuva, PDRN Brightening Serumin taustalla oleva tiede",
+  "shopSerum": "Osta seerumi",
+  "journalTitle": "The Tava Journal",
+  "journalSub": "Unesta, stressistä ja valmiina saapumisesta.",
+  "readJournal": "Lue Journal",
+  "readStory": "Lue tarina"
+ },
+ "appTeaser": {
+  "label": "Tulossa pian",
+  "lead": "Rutiinisi, laboratoriotuloksesi ja tilauksesi saavat oman kotinsa.",
+  "headlineLead": "Yksi sovellus.",
+  "headlineTrail": "Joka päivä.",
+  "scroll": "Selaa",
+  "caption": "Tava Labs sovellus tuo seerumisuunnitelmasi, päivittäisen rutiinisi, laboratoriopaneelisi ja tuloksesi sekä tilauksesi yhteen paikkaan, tehtynä iPhonelle.",
+  "features": [
+   {
+    "title": "Päivittäinen rutiini",
+    "desc": "Aamun ja illan kerrat, rastitettuna vaihe vaiheelta."
+   },
+   {
+    "title": "Putket ja edistyminen",
+    "desc": "Putkesi ja se, mitä on jäljellä, luettavissa yhdellä silmäyksellä."
+   },
+   {
+    "title": "Laboratoriopaneelit ja tulokset",
+    "desc": "Paneelit, tulokset ja viitearvot taskussasi."
+   },
+   {
+    "title": "Tilaukset ja täydennykset",
+    "desc": "Tilaukset ja täydennykset ilman etsimistä."
+   }
+  ],
+  "phone": {
+   "today": "Tänään",
+   "goodMorning": "Hyvää huomenta",
+   "dayLine": "Päivä 12 / 30 · 18 päivää jäljellä ensimmäiseen täyteen kuukauteesi",
+   "stepsToGo": "Tänään: 4 / 6 rutiinin vaiheesta jäljellä",
+   "morningRoutine": "Aamurutiini",
+   "amDrops": "AM · 3 tippaa",
+   "clinicalReview": "Kliininen arvio",
+   "resultsIn": "Tuloksesi ovat saapuneet",
+   "optimal": "4 optimaalista",
+   "inRange": "2 viitealueella",
+   "toReview": "1 tarkistettavana",
+   "tabs": {
+    "today": "Tänään",
+    "shop": "Kauppa",
+    "lab": "Laboratorio",
+    "orders": "Tilaukset",
+    "profile": "Profiili"
+   },
+   "steps": [
+    {
+     "title": "Puhdista",
+     "detail": "Hellävarainen puhdistusaine, taputtele kuivaksi"
+    },
+    {
+     "title": "Levitä 3 tippaa seerumia",
+     "detail": "Paina kasvoille ja kaulalle"
+    },
+    {
+     "title": "Kosteuta + SPF",
+     "detail": "SPF 30 tai korkeampi"
+    }
+   ]
+  }
+ },
+ "categoryChrome": {
+  "readMore": "Lue lisää +",
+  "showLess": "Näytä vähemmän −",
+  "prevProducts": "Edelliset tuotteet",
+  "nextProducts": "Seuraavat tuotteet",
+  "goTo": "Siirry kohteeseen {title}",
+  "explore": "Tutustu"
+ },
+ "categories": {
+  "skincare": {
+   "eyebrow": "SKINCARE",
+   "heroTitleLead": "Seuraava tapaamisesi",
+   "heroTitleAccent": "alkaa sinusta.",
+   "heroCopy": "Tehty yrittäjille, jotka esittelevät, myyvät ja nauhoittavat kameran edessä. Yksi päivittäinen seerumi, rakennettu PDRN:n ympärille, iholle, joka näyttää terävältä ja levänneeltä huoneessa ja linssissä.",
+   "heroFinePrint": "Kosmeettista ihonhoitoa. Ei tarkoitettu diagnosoimaan, hoitamaan, parantamaan tai ehkäisemään mitään sairautta.",
+   "stamp": "SKINCARE FOR THE AMBITIOUS",
+   "primaryCta": "Lisää rutiiniin",
+   "secondaryCta": "Katso ainesosat",
+   "optionsEyebrow": "VALIKOIMA",
+   "optionsTitleLead": "Yksi seerumi.",
+   "optionsTitleAccent": "Ei hyllyllistä arvailua.",
+   "optionsCopy": "Aloita seerumista. Loput tuotesarjasta ovat tulossa.",
+   "products": [
+    {
+     "title": "PDRN Brightening Serum",
+     "subtitle": "PDRN, peptidit ja natriumhyaluronaatti",
+     "unit": "kertamaksu",
+     "imageAlt": "Tava Labs PDRN Brightening Serum pullo",
+     "badges": [
+      "Bestseller"
+     ],
+     "description": "Päivittäinen seerumi hehkuvalle, kosteutetulle ja terveen näköiselle iholle. $39 kuukaudessa tilaa ja säästä vaihtoehdolla.",
+     "linkLabel": "Katso seerumi"
+    },
+    {
+     "title": "Peptide Moisturizer",
+     "subtitle": "1,7 fl oz (50 ml)",
+     "imageAlt": "Tava Labs Peptide Moisturizer valkoinen tuubi vaaleanpunaisella roiskeella",
+     "badges": [
+      "Tulossa pian"
+     ],
+     "description": "Peptidivoide, joka kohdistuu ryppyihin ja kosteuttaa, tehty iholle, jonka pitää näyttää rauhalliselta koko päivän."
+    },
+    {
+     "title": "Peptide Eye Cream",
+     "subtitle": "1 fl oz (30 ml)",
+     "imageAlt": "Tava Labs Peptide Eye Cream valkoinen tuubi samppanjanvärisellä tipalla",
+     "badges": [
+      "Tulossa pian"
+     ],
+     "description": "Vähentää silmien turvotuksen näkymistä ja kohdistuu silmänympärysalueen ryppyihin, levänneeseen ilmeeseen kameran edessä."
+    },
+    {
+     "title": "Skin Firming Cream",
+     "subtitle": "2 oz (56 g)",
+     "imageAlt": "Tava Labs Skin Firming Cream valkoinen purkki kultaisen aallon taustalla",
+     "badges": [
+      "Tulossa pian"
+     ],
+     "description": "Hyaluronihappoa ja CoQ10:ä täyteläisessä voiteessa, joka saa ihon näyttämään kiinteältä ja hoidetulta."
+    }
+   ],
+   "disclaimerLead": "Tava Labsin ihonhoitotuotteet ovat kosmetiikkaa. Niitä ei ole tarkoitettu diagnosoimaan, hoitamaan, parantamaan tai ehkäisemään mitään sairautta.",
+   "disclaimerMore": [
+    "Yksilölliset tulokset vaihtelevat. Käytä vain ohjeen mukaan: 2–4 tippaa PDRN Brightening Serumia kahdesti päivässä puhtaalle iholle.",
+    "Jos ärsytystä ilmenee, lopeta käyttö ja kysy ammattilaiselta. Tämän sivun hinnat olivat oikein julkaisuhetkellä ja voivat muuttua."
+   ],
+   "protocolEyebrow": "RUTIINI",
+   "protocolTitleLead": "Kaksi minuuttia, kahdesti päivässä.",
+   "protocolTitleAccent": "Siinä on koko rutiini.",
+   "protocolCopy": "Rutiini, joka on rakennettu yhden seerumin ja yrittäjän aikataulun ympärille, varhaiset puhelut, myöhäiset illat ja kaikki muu.",
+   "protocolCta": "Lisää rutiiniin",
+   "steps": [
+    {
+     "title": "Arvioi",
+     "lead": "ihotestillä",
+     "body": "Vastaa muutamaan nopeaan kysymykseen ihostasi, unestasi ja aikataulustasi, jotta suunnitelmasi lähtee siitä, missä todella olet."
+    },
+    {
+     "title": "Levitä",
+     "lead": "2–4 tippaa, kahdesti päivässä",
+     "body": "Aamuin ja illoin, puhtaalle iholle. Yksi seerumi, yksi vaihe, ei kymmenen vaiheen rutiinia ylläpidettävänä."
+    },
+    {
+     "title": "Seuraa",
+     "lead": "suunnitelmaasi sovelluksessa",
+     "body": "Ostoksesi yhdistyy Tava sovellukseen lunastuskoodilla, jossa suunnitelmasi, tilauksesi ja rutiinisi pysyvät yhdessä paikassa."
+    }
+   ],
+   "legalLines": [
+    "Vain kosmeettisia tuotteita. Mikään tällä sivulla ei ole lääketieteellinen neuvo."
+   ]
+  },
+  "biomarkers": {
+   "eyebrow": "LABORATORION BIOMARKKERIT",
+   "heroTitleLead": "Tunne tietosi,",
+   "heroTitleAccent": "Tavalla.",
+   "heroCopy": "Johdat yritystäsi numeroilla. Pian voit käyttää samaa kurinalaisuutta itseesi: tärkeimmät biomarkkerisi, seurattuna ajan myötä, Tava sovelluksessa.",
+   "heroFinePrint": "Tulossa pian Tava sovellukseen. Näkemykset ovat vain tiedoksi eivätkä diagnosoi mitään tilaa.",
+   "stamp": "TIETOSI YHDESSÄ PAIKASSA",
+   "primaryCta": "Katso, mitä seurataan",
+   "secondaryCta": "Miten se toimii",
+   "optionsEyebrow": "MITÄ SEURATAAN",
+   "optionsTitleLead": "Kuusi aluetta.",
+   "optionsTitleAccent": "Yksi selkeä kuva.",
+   "optionsCopy": "Biomarkkerialueet Tava sovelluksen esikatselussa, rakenteilla nyt.",
+   "products": [
+    {
+     "title": "Aivot",
+     "subtitle": "Keskittyminen ja selkeys",
+     "badges": [
+      "Tulossa pian"
+     ],
+     "description": "Markkerit keskittymisen, selkeyden ja kognitiivisen tahdin taustalla, koottuna yhteen näkymään."
+    },
+    {
+     "title": "Hormonit",
+     "subtitle": "Tasapaino",
+     "badges": [
+      "Tulossa pian"
+     ],
+     "description": "Hormonikuvasi ajan myötä, jotta muutokset näkyvät sen sijaan että niitä arvailtaisiin."
+    },
+    {
+     "title": "Sydän",
+     "subtitle": "Sydän ja verisuonimarkkerit",
+     "badges": [
+      "Tulossa pian"
+     ],
+     "description": "Tärkeät sydänmarkkerit, seurattuna trendinä yksittäisen mittauksen sijaan."
+    },
+    {
+     "title": "Aineenvaihdunta",
+     "subtitle": "Energia ja kulutus",
+     "badges": [
+      "Tulossa pian"
+     ],
+     "description": "Miten kehosi käyttää energiaa, numeroina, joita voit todella seurata."
+    },
+    {
+     "title": "Suolisto",
+     "subtitle": "Ruoansulatuksen terveys",
+     "badges": [
+      "Tulossa pian"
+     ],
+     "description": "Suoliston terveyden signaalit, jotka liittyvät energiaan, mielialaan ja palautumiseen."
+    },
+    {
+     "title": "Pitkäikäisyys",
+     "subtitle": "Biologinen ikä",
+     "badges": [
+      "Tulossa pian"
+     ],
+     "description": "Pitkä näkymä: miten markkerisi muodostavat kuvan biologisesta iästä."
+    }
+   ],
+   "disclaimerLead": "Tava sovelluksen biomarkkerinäkemykset ovat vain tiedoksi. Ne eivät diagnosoi, hoida tai ehkäise mitään tilaa.",
+   "disclaimerMore": [
+    "Keskustele oman palveluntarjoajasi kanssa kaikista tuloksista, jotka huolestuttavat sinua. Hätätilanteessa soita 911."
+   ],
+   "protocolEyebrow": "MITEN SE TOIMII",
+   "protocolTitleLead": "Testaa, tarkista,",
+   "protocolTitleAccent": "seuraa trendiä.",
+   "protocolCopy": "Yksi koontinäyttö yritystä johtavalle ihmiselle, seerumisuunnitelmasi rinnalla samassa sovelluksessa.",
+   "steps": [
+    {
+     "title": "Testaa",
+     "lead": "laboratoriokumppanin kautta",
+     "body": "Näytteesi kerätään ja käsitellään, ja tulokset saapuvat Tava sovellukseesi."
+    },
+    {
+     "title": "Tarkista",
+     "lead": "alue alueelta",
+     "body": "Aivot, hormonit, sydän, aineenvaihdunta, suolisto ja pitkäikäisyys, jokaisella oma näkymänsä."
+    },
+    {
+     "title": "Seuraa",
+     "lead": "trendi ajan myötä",
+     "body": "Yksi mittaus on tilannekuva. Arvo on trendissä, ja sovellus säilyttää sen puolestasi."
+    }
+   ],
+   "legalLines": [
+    "Laboratorion biomarkkerien seuranta on tulossa pian eikä ole vielä avoinna tilauksille."
+   ]
+  },
+  "mentalHealth": {
+   "eyebrow": "MIELENTERVEYS",
+   "heroTitleLead": "Keskity paremmin,",
+   "heroTitleAccent": "Tavalla.",
+   "heroCopy": "Tukea keskittymiseen ja tarkkaavuuteen, joka alkaa kliinikon arviosta, ei kassapainikkeesta.",
+   "heroFinePrint": "Kliinikon arvion jälkeen. Tämä ohjelma on kehitteillä eikä ole vielä avoinna ilmoittautumiselle.",
+   "stamp": "KLINIKON ARVIOIMA HOITO",
+   "primaryCta": "Katso, miten se toimii",
+   "optionsEyebrow": "OHJELMA",
+   "optionsTitleLead": "Hoito, joka alkaa",
+   "optionsTitleAccent": "arviosta.",
+   "optionsCopy": "",
+   "products": [],
+   "disclaimerLead": "Mielenterveyden tuki Tavalla alkaa kliinikon arviosta. Mikään tässä ei ole diagnoosi tai hoitosuositus.",
+   "disclaimerMore": [
+    "Jos olet kriisissä tai ajattelet vahingoittavasi itseäsi, soita tai lähetä tekstiviesti numeroon 988 Yhdysvalloissa. Hätätilanteessa soita 911."
+   ],
+   "protocolEyebrow": "MITEN SE TOIMII",
+   "protocolTitleLead": "Arvio ensin.",
+   "protocolTitleAccent": "Sitten suunnitelma.",
+   "protocolCopy": "Huolellinen polku, avoimesti, omaan tahtiisi.",
+   "steps": [
+    {
+     "title": "Tarkista",
+     "lead": "kliinikon kanssa",
+     "body": "Jaa historiasi ja se, minkä kanssa kamppailet, ja kliinikko arvioi, sopiiko tuki täällä sinulle."
+    },
+    {
+     "title": "Suunnitelma",
+     "lead": "rakennettu ympärillesi",
+     "body": "Jos se sopii, suunnitelmasi rakennetaan tavoitteidesi ja aikataulusi ympärille."
+    },
+    {
+     "title": "Tuki",
+     "lead": "matkan varrella",
+     "body": "Väliarviot pitävät suunnitelman rehellisenä asioiden muuttuessa."
+    }
+   ],
+   "legalLines": [
+    "Tavan mielenterveystarjonta on kehitteillä eikä ole vielä avoinna ilmoittautumiselle."
+   ]
+  },
+  "peptides": {
+   "eyebrow": "PEPTIDIOHJELMAT",
+   "heroTitleLead": "Peptidit,",
+   "heroTitleAccent": "palveluntarjoaja tukenasi.",
+   "heroCopy": "Kolmetoista Tava Labsin peptidiohjelmaa, joista jokainen alkaa verkkokonsultaatiolla ja palveluntarjoajan arviolla.",
+   "heroFinePrint": "Resepti vaaditaan. Lisensoitu palveluntarjoaja päättää kelpoisuudesta konsultaation jälkeen.",
+   "stamp": "PALVELUNTARJOAJAN OHJAAMAT OHJELMAT",
+   "primaryCta": "Aloita konsultaatio",
+   "secondaryCta": "Miten se toimii",
+   "optionsEyebrow": "OHJELMAT",
+   "optionsTitleLead": "Kolmetoista ohjelmaa.",
+   "optionsTitleAccent": "Yksi konsultaatio käynnistää niistä minkä tahansa.",
+   "optionsCopy": "Jokainen ohjelma sisältää $20 konsultaation. Useimmat sisältävät laboratoriotestit. Hinnat ovat kuukausittaisia ohjelmahintoja.",
+   "unitPerMonth": "/kk",
+   "products": [
+    {
+     "subtitle": "Palautuminen",
+     "imageAlt": "BPC-157 ohjelman injektiopullon kuvitus",
+     "badges": [
+      "Palautuminen",
+      "Suoliston terveys",
+      "Laboratoriotestit sisältyvät"
+     ],
+     "description": "BPC-157 Tava Labsilta. Palveluntarjoajan arvio ja seuranta ovat osa ohjelmaa.",
+     "linkLabel": "Katso ohjelma"
+    },
+    {
+     "subtitle": "Suoliston terveys",
+     "imageAlt": "CJC-1295 + Ipamorelin ohjelman injektiopullon kuvitus",
+     "badges": [
+      "Suoliston terveys",
+      "Uni",
+      "Palautuminen",
+      "Pitkäikäisyys",
+      "Laboratoriotestit sisältyvät"
+     ],
+     "description": "CJC-1295 + Ipamorelin Tava Labsilta. Palveluntarjoajan arvio ja seuranta ovat osa ohjelmaa.",
+     "linkLabel": "Katso ohjelma"
+    },
+    {
+     "subtitle": "Pitkäikäisyys",
+     "imageAlt": "GHK-Cu ohjelman injektiopullon kuvitus",
+     "badges": [
+      "Pitkäikäisyys",
+      "Laboratoriotestit sisältyvät"
+     ],
+     "description": "GHK-Cu Tava Labsilta. Palveluntarjoajan arvio ja seuranta ovat osa ohjelmaa.",
+     "linkLabel": "Katso ohjelma"
+    },
+    {
+     "subtitle": "Palautuminen",
+     "imageAlt": "GLOW Injection ohjelman injektiopullon kuvitus",
+     "badges": [
+      "Palautuminen",
+      "Laboratoriotestit sisältyvät"
+     ],
+     "description": "GLOW Injection Tava Labsilta. Palveluntarjoajan arvio ja seuranta ovat osa ohjelmaa.",
+     "linkLabel": "Katso ohjelma"
+    },
+    {
+     "subtitle": "Painonpudotus",
+     "imageAlt": "MOTS-C ohjelman injektiopullon kuvitus",
+     "badges": [
+      "Painonpudotus",
+      "Energia",
+      "Suorituskyky",
+      "Laboratoriotestit sisältyvät"
+     ],
+     "description": "MOTS-C Tava Labsilta. Palveluntarjoajan arvio ja seuranta ovat osa ohjelmaa.",
+     "linkLabel": "Katso ohjelma"
+    },
+    {
+     "subtitle": "Pitkäikäisyys",
+     "imageAlt": "NAD+ Injectable ohjelman injektiopullon kuvitus",
+     "badges": [
+      "Pitkäikäisyys",
+      "Energia",
+      "Palautuminen",
+      "Keskittyminen"
+     ],
+     "description": "NAD+ Injectable Tava Labsilta. Palveluntarjoajan arvio ja seuranta ovat osa ohjelmaa.",
+     "linkLabel": "Katso ohjelma"
+    },
+    {
+     "subtitle": "Seksuaaliterveys",
+     "imageAlt": "PT-141 ohjelman injektiopullon kuvitus",
+     "badges": [
+      "Seksuaaliterveys",
+      "Laboratoriotestit sisältyvät"
+     ],
+     "description": "PT-141 Tava Labsilta. Palveluntarjoajan arvio ja seuranta ovat osa ohjelmaa.",
+     "linkLabel": "Katso ohjelma"
+    },
+    {
+     "subtitle": "Painonpudotus",
+     "imageAlt": "Semaglutide + B12 (Cyanocobalamin) ohjelman injektiopullon kuvitus",
+     "badges": [
+      "Painonpudotus",
+      "Laboratoriotestit sisältyvät"
+     ],
+     "description": "Semaglutide + B12 (Cyanocobalamin) Tava Labsilta. Palveluntarjoajan arvio ja seuranta ovat osa ohjelmaa.",
+     "linkLabel": "Katso ohjelma"
+    },
+    {
+     "subtitle": "Pitkäikäisyys",
+     "imageAlt": "Sermorelin ohjelman injektiopullon kuvitus",
+     "badges": [
+      "Pitkäikäisyys",
+      "Palautuminen",
+      "Suorituskyky",
+      "Laboratoriotestit sisältyvät"
+     ],
+     "description": "Sermorelin Tava Labsilta. Palveluntarjoajan arvio ja seuranta ovat osa ohjelmaa.",
+     "linkLabel": "Katso ohjelma"
+    },
+    {
+     "subtitle": "Suorituskyky",
+     "imageAlt": "TB-500 ohjelman injektiopullon kuvitus",
+     "badges": [
+      "Suorituskyky",
+      "Palautuminen",
+      "Laboratoriotestit sisältyvät"
+     ],
+     "description": "TB-500 Tava Labsilta. Palveluntarjoajan arvio ja seuranta ovat osa ohjelmaa.",
+     "linkLabel": "Katso ohjelma"
+    },
+    {
+     "subtitle": "Pitkäikäisyys",
+     "imageAlt": "Tesamorelin ohjelman injektiopullon kuvitus",
+     "badges": [
+      "Pitkäikäisyys",
+      "Palautuminen",
+      "Suorituskyky",
+      "Laboratoriotestit sisältyvät"
+     ],
+     "description": "Tesamorelin Tava Labsilta. Palveluntarjoajan arvio ja seuranta ovat osa ohjelmaa.",
+     "linkLabel": "Katso ohjelma"
+    },
+    {
+     "subtitle": "Painonpudotus",
+     "imageAlt": "Tirzepatide + B12 (Cyanocobalamin) ohjelman injektiopullon kuvitus",
+     "badges": [
+      "Painonpudotus",
+      "Laboratoriotestit sisältyvät"
+     ],
+     "description": "Tirzepatide + B12 (Cyanocobalamin) Tava Labsilta. Palveluntarjoajan arvio ja seuranta ovat osa ohjelmaa.",
+     "linkLabel": "Katso ohjelma"
+    },
+    {
+     "subtitle": "Palautuminen",
+     "imageAlt": "Wolverine Injection ohjelman injektiopullon kuvitus",
+     "badges": [
+      "Palautuminen",
+      "Laboratoriotestit sisältyvät"
+     ],
+     "description": "Wolverine Injection Tava Labsilta. Palveluntarjoajan arvio ja seuranta ovat osa ohjelmaa.",
+     "linkLabel": "Katso ohjelma"
+    }
+   ],
+   "disclaimerLead": "Yhdistelmälääkkeet valmistetaan lisensoiduissa apteekeissa yksittäisille potilaille. Ne eivät ole FDA:n hyväksymiä, eikä FDA arvioi yhdistelmälääkkeitä turvallisuuden, tehokkuuden tai laadun osalta.",
+   "disclaimerMore": [
+    "Lääketieteellisen hoidon tarjoavat riippumattomat, lisensoidut palveluntarjoajat. Palveluntarjoajat päättävät itsenäisesti, sopiiko hoito sinulle; osto ei takaa reseptiä.",
+    "Lisensoitu palveluntarjoaja tarkistaa tietosi ja päättää itsenäisesti, sopiiko hoito sinulle. Osto ei takaa reseptiä.",
+    "Hätätilanteissa soita 911."
+   ],
+   "protocolEyebrow": "MITEN SE TOIMII",
+   "protocolTitleLead": "Konsultoi, arvioi,",
+   "protocolTitleAccent": "sitten aloita.",
+   "protocolCopy": "Jokainen ohjelma toimii riippumattomien lisensoitujen palveluntarjoajien kautta.",
+   "protocolCta": "Aloita konsultaatio",
+   "steps": [
+    {
+     "title": "Konsultoi",
+     "lead": "verkossa, oman aikataulusi mukaan",
+     "body": "Täytä valitsemasi ohjelman verkkokonsultaatio. Konsultaatio on $20."
+    },
+    {
+     "title": "Tarkista",
+     "lead": "lisensoidun palveluntarjoajan toimesta",
+     "body": "Palveluntarjoaja tarkistaa tietosi ja laboratoriotuloksesi ja päättää itsenäisesti, sopiiko hoito sinulle."
+    },
+    {
+     "title": "Aloita",
+     "lead": "jos resepti myönnetään",
+     "body": "Lääkkeesi toimitetaan lisensoidusta apteekista, ja palveluntarjoajasi seuraa tilannettasi ohjelman edetessä."
+    }
+   ],
+   "legalLines": [
+    "Peptidikauppamme on tällä hetkellä testitilassa, joten ohjelmat näytetään tarkistusta varten eivätkä ole vielä avoinna oikeille tilauksille.",
+    "Hätätilanteissa soita 911."
+   ]
+  }
+ },
+ "product": {
+  "breadcrumbHome": "Etusivu",
+  "inStock": "Varastossa",
+  "cleanVegan": "Puhdas ja vegaaninen • PDRN Active",
+  "dermTested": "Ihotautilääkärin testaama • Tehty kaikille ihotyypeille",
+  "titleLead": "PDRN Brightening",
+  "titleAccent": "Serum",
+  "pricePerUnit": "/ 30 ml (1 fl oz)",
+  "subPrice": "tai $39 kuukaudessa tilaa ja säästä vaihtoehdolla",
+  "bullets": [
+   "PDRN, Acetyl Hexapeptide-8 ja hyaluronihappo tukemaan sileämpää ja hehkuvamman näköistä ihoa.",
+   "Syvä kosteutus glyseriinistä, natrium PCA:sta ja pantenolista.",
+   "100 % ilman eläinkokeita, ilman hajusteita, ilman parabeeneja, ilman sulfaatteja, ilman mineraaliöljyä, ilman silikoneja ja vegaaninen."
+  ],
+  "viewFormulation": "Katso koko koostumus ja kliiniset testit",
+  "details": [
+   {
+    "title": "Tutustu PDRN Brightening Serumiin",
+    "body": "Kevyt ja kosteuttava koostumus sileämmän ja hehkuvamman näköistä ihoa varten. Se imeytyy nopeasti, ei jätä jäämiä ja pitää ihon miellyttävänä."
+   },
+   {
+    "title": "Ainesosat ja koostumus",
+    "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin."
+   },
+   {
+    "title": "Miten levitetään",
+    "body": "Levitä 2–4 tippaa puhtaalle ja kuivalle iholle. Hiero hellävaraisesti kasvoille ja kaulalle, kunnes imeytynyt. Käytä kahdesti päivässä, aamuin ja illoin. Jatka kosteusvoiteella tai aurinkovoiteella."
+   },
+   {
+    "title": "Puhtaan ihonhoidon lupaus",
+    "body": "Valmistettu sertifioitujen eläinkokeettomien standardien mukaan ja tehty ilman hajusteita, silikoneja, parabeeneja, mineraaliöljyä, sulfaatteja, ftalaatteja tai yleisiä allergeeneja. Ihotautilääkärin testaama kaikilla ihotyypeillä."
+   }
+  ],
+  "innovation": {
+   "label": "Solutason innovaatio",
+   "titleLead": "Uuden sukupolven iho",
+   "titleAccent": "Uudistuminen",
+   "sub": "Merestä peräisin olevia aktiiviaineita ja kohdennettuja heksapeptidejä yhdessä päivittäisessä seerumissa.",
+   "items": [
+    {
+     "label": "Solujen uudistuminen",
+     "title": "PDRN Bio Actives",
+     "body": "Merestä peräisin oleva PDRN nopeuttaa solujen uusiutumista, elvyttää sameaa ihoa ja tasoittaa näkyvää rakennetta."
+    },
+    {
+     "label": "Bio Peptide Complex",
+     "title": "Acetyl Hexapeptide-8",
+     "body": "Signaalipeptidit helpottavat pinnan jännitystä ja tukevat kollageenin luonnollista kimmoisuutta, kiinteämmän näköistä ihoa varten, jossa on enemmän joustoa."
+    },
+    {
+     "label": "Syvä kosteutus",
+     "title": "Hydration Matrix",
+     "body": "Hyaluronihappo, natrium PCA ja pantenoli toimivat yhdessä pitääkseen kosteuden ihon suojakerroksessa yli 24 tuntia."
+    }
+   ],
+   "imgAlts": [
+    "Seerumin rakenne",
+    "Kristalli ja koostumus",
+    "Kristallinäyte"
+   ],
+   "footnote": "*Biosellulaarinen aktiivisuus arvioitu in vitro ja ex vivo kliinisillä arvioinneilla. Tulokset voivat vaihdella yksilöllisen ihon tilan mukaan."
+  },
+  "ecosystem": {
+   "label": "Koko suunnitelma",
+   "title": "Saa täysi tuki rutiinillesi",
+   "sub": "Seerumisi lisäksi jokainen Tava Labs suunnitelma sisältää:",
+   "items": [
+    "Henkilökohtaisen ihodiagnostiikan ja hoito ohjeen ihotestistäsi",
+    "Hoitosuunnitelman, joka alkaa hitaasti ja rakentuu ajan myötä",
+    "Levitysmuistutukset, joita hallitset, aamuin ja illoin",
+    "Viestituki suoraan sovelluksessa",
+    "Tilaa ja säästä toimitus joka kuukausi, keskeytä tai peruuta milloin tahansa"
+   ],
+   "note": "Keskeytä, säädä tai peruuta tilaa ja säästä milloin tahansa. Kertaostokset pysyvät saatavilla hintaan $49."
+  },
+  "clinical": {
+   "label": "Kliininen teho",
+   "titleLead": "Pidä huolta",
+   "titleAccent": "ihosi terveydestä",
+   "imgAlts": [
+    "Hehkua edistävä kaavio",
+    "Syvää kosteutusta tukeva kaavio",
+    "Ihon rakennetta parantava kaavio"
+   ],
+   "note": "Paikallisten bioaktiivisten aineiden arvioinnit perustuvat 8 viikon kuluttajien havaintoihin ja instrumentaalisiin kosteustesteihin. Yksilölliset ihon suojakerrokset, genetiikka ja ympäristö vaikuttavat aikatauluihin ja tuloksiin."
+  },
+  "formulary": {
+   "label": "Koostumusvalikoima",
+   "title": "Mikä ihonhoito sopii sinulle?",
+   "sub": "Kohdennettuja koostumuksia eri ihotavoitteisiin, huolenaiheisiin ja rutiineihin. Rakenna hoito, joka sopii työaikatauluun.",
+   "serumAlt": "PDRN Brightening Serum",
+   "serumPriceLine": "Tilaa ja säästä $39/kk",
+   "serumOneTime": "tai $49 kertamaksuna",
+   "primaryBenefit": "Pääasiallinen hyöty",
+   "howToUse": "Miten käytetään",
+   "activeIngredient": "Aktiivinen ainesosa",
+   "serumBenefitValue": "Hehku ja kiinteys",
+   "serumHowValue": "AM ja PM",
+   "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
+   "selectSerum": "Valitse seerumi",
+   "comingSoon": "Tulossa pian",
+   "status": "Tila",
+   "sizeLabel": "Koko",
+   "others": [
+    {
+     "rows": [
+      [
+       "Pääasiallinen hyöty",
+       "Päivittäinen kosteutus"
+      ],
+      [
+       "Koko",
+       "1,7 fl oz (50 ml)"
+      ]
+     ]
+    },
+    {
+     "rows": [
+      [
+       "Pääasiallinen hyöty",
+       "Silmänympärysalueen hoito"
+      ],
+      [
+       "Koko",
+       "1 fl oz (30 ml)"
+      ]
+     ]
+    },
+    {
+     "rows": [
+      [
+       "Pääasiallinen hyöty",
+       "Kiinteytys ja kosteutus"
+      ],
+      [
+       "Koko",
+       "2 oz (56 g)"
+      ],
+      [
+       "Aktiivinen ainesosa",
+       "Hyaluronihappo ja CoQ10"
+      ]
+     ]
+    },
+    {
+     "rows": [
+      [
+       "Pääasiallinen hyöty",
+       "Päänahan ja hiusten hoito"
+      ],
+      [
+       "Koko",
+       "1 fl oz (30 ml)"
+      ]
+     ]
+    }
+   ]
+  },
+  "protocol": {
+   "label": "Päivittäisen hoidon protokolla",
+   "titleLead": "Yksi yksinkertainen rutiini,",
+   "titleAccent": "kahdesti päivässä",
+   "sub": "Johdonmukaisuus on tärkeää. Noudata näitä vaiheita aamuin ja illoin, jotta peptidit ja PDRN voivat tehdä työnsä, ja viimeistele lukitsemalla kosteus.",
+   "progressionLabel": "Kliininen eteneminen",
+   "progressionTitle": "Näkyvien tulosten aikajana",
+   "progressionBody": "Parantunut hehku ja kosteutus 7–14 päivässä; parantunut ihon kimmoisuus ja suojakerroksen kiinteys viikoilla 4–6.",
+   "timelineAlt": "Esimerkki tulosten aikajanasta, viikot 1–4 ja sen jälkeen",
+   "steps": [
+    {
+     "title": "Puhdista hellävaraisella pesulla",
+     "body": "Puhdista hellävaraisella, pH tasapainotetulla pesulla poistaaksesi lian ja valmistellaksesi ihon, riistämättä sen luonnollisia lipidejä."
+    },
+    {
+     "title": "PDRN Serum, 2–4 tippaa",
+     "body": "Levitä 2–4 tippaa PDRN Serumia kostealle iholle. Paina ja taputtele hellävaraisesti kasvoille ja kaulalle, kunnes täysin imeytynyt."
+    },
+    {
+     "title": "Kosteuta ja hydratoi",
+     "body": "Sinettele kosteusvoiteella pitääksesi peptidit sisällä ja tukeaksesi keramidisuojaa."
+    },
+    {
+     "title": "Suojaa (vain AM), SPF 30+",
+     "body": "Viimeistele aamurutiini laajakirjoisella SPF 30+ suojalla suojataksesi ihoa UV säteiltä ja vapaiden radikaalien vaurioilta."
+    },
+    {
+     "title": "Henkilökohtainen suunnitelmasi, sisältyy",
+     "body": "Ihotestisi rakentaa suunnitelmasi, mukaan lukien miten aloitat hitaasti ja milloin lisäät käyttöä."
+    }
+   ]
+  },
+  "faqSection": {
+   "label": "Vastauksia ja selkeyttä",
+   "title": "Usein kysytyt kysymykset",
+   "viewAll": "Katso kaikki UKK",
+   "items": [
+    {
+     "q": "Mikä on PDRN ja miten se hyödyttää ihoa?",
+     "a": "PDRN (Polydeoxyribonucleotide) koostuu DNA fragmenteista, jotka ovat bioyhteensopivia ihmisen ihosolujen kanssa. Se edistää solujen luonnollista uudistumista, stimuloi mikroverenkiertoa ja auttaa korjaamaan ihon suojakerrosta, näkyvää hehkua ja kiinteyttä varten."
+    },
+    {
+     "q": "Miten sisällytän PDRN Brightening Serumin ihonhoitorutiiniini?",
+     "a": "Käytä PDRN Brightening Serumia kahdesti päivässä puhdistuksen ja kasvoveden jälkeen. Annostele 2–4 tippaa suoraan sormenpäille tai kostealle iholle ja tasoita kasvoille, kaulalle ja dekolteelle. Jatka kosteusvoiteella ja aamun aurinkovoiteella."
+    },
+    {
+     "q": "Sopiiko tämä seerumi herkälle ja akneen taipuvaiselle iholle?",
+     "a": "Kyllä. Koostumuksemme on ei komedogeeninen, öljytön, hajusteeton ja rikastettu rauhoittavalla pantenolilla. Se rauhoittaa herkkyyttä ja kosteuttaa syvästi tukkimatta ihohuokosia tai aiheuttamatta ärsytystä."
+    },
+    {
+     "q": "Voinko käyttää PDRN:ää yhdessä retinolin, C vitamiinin tai AHA/BHA:n kanssa?",
+     "a": "Kyllä. PDRN toimii hyvin aktiivisten hoitojen, kuten retinoidien ja C vitamiinin, rinnalla. Sen kosteuttava pohja auttaa rauhoittamaan kuorinta aineiden aiheuttamaa hilseilyä tai punoitusta."
+    },
+    {
+     "q": "Kuinka kauan yksi 30 ml pullo yleensä kestää?",
+     "a": "Kun sitä levitetään 2–4 tippaa kahdesti päivässä, yksi 30 ml (1 fl oz) pullo kestää yleensä 4–6 viikkoa. Tilaa ja säästä lähettää seuraavan pullon ennen kuin edellinen loppuu."
+    }
+   ]
+  },
+  "finalCta": {
+   "title": "Kasvosi ovat jokaisessa esityksessä. Pidä ne valmiina.",
+   "line": "PDRN Brightening Serum · $49.00 / 30 ml · Puhdas ja vegaaninen · Syvä kosteutus · Peruuta milloin tahansa"
+  },
+  "gallery": {
+   "view": "Katso {n}",
+   "alts": [
+    "PDRN Brightening Serum pullo",
+    "Seerumipullon näkymä 2",
+    "Seerumipullon näkymä 3",
+    "Seerumipullon näkymä 4",
+    "Seerumipullon näkymä 5"
+   ]
+  }
+ },
+ "about": {
+  "label": "Tietoa meistä",
+  "titleLead": "Ihonhoitoa",
+  "titleAccent": "kunnianhimoisille.",
+  "tagline": "Rakenna yritystäsi. Älä laiminlyö itseäsi.",
+  "p1": "Tava Labs on henkilökohtaisen huollon brändi ihmisille, jotka rakentavat yrityksiä. Ulkonäkösi on osa ammatillista läsnäoloasi. Se, miten esiinnyt kameran edessä, esittelytilanteessa ja huoneessa, on osa sitä, miten työsi luetaan.",
+  "p2": "Teemme yhden asian ja teemme sen hyvin. Päivittäisen seerumin, joka pitää ihosi rauhallisen, kosteutetun ja valmiin näköisenä, ilman monimutkaista rutiinia.",
+  "p3": "Tava Labs perustettiin perustajille, sisällöntuottajille ja ammattilaisille, jotka sijoittavat yrityksen takana olevaan ihmiseen. Yksi vaihe, aamuin ja illoin, ennen tapaamisia, esityksiä ja kameratyötä.",
+  "p4": "Tämä on ihonhoitoa huoltona, ei turhamaisuutena. Sama kurinalaisuus, jonka tuot yritykseesi, sovellettuna itseesi.",
+  "serumLabel": "Seerumi",
+  "serumTitle": "PDRN Brightening Serum",
+  "serumAlt": "PDRN Brightening Serum",
+  "serumBody": "Päivittäinen ihonhoitorutiini, joka on rakennettu PDRN:n (Polydeoxyribonucleotide) ja Acetyl Hexapeptide-8:n ympärille, mukana Sodium Hyaluronate ja Panthenol kosteutusta ja mukavuutta varten. Puhdas ja hajusteeton, ja tehty ilman mitään vapaa listallamme olevista aineista.",
+  "bullets": [
+   "PDRN kirkkaampaa ja tasaisemman näköistä ihoa varten.",
+   "Acetyl Hexapeptide-8 tukemaan kiinteyden ilmettä.",
+   "Sodium Hyaluronate ja Panthenol kosteutusta varten.",
+   "Käytä kahdesti päivässä: 2–4 pumppausta puhtaalle ja kuivalle iholle, aamuin ja illoin."
+  ],
+  "priceLine": "$49 kertamaksuna tai $39 kuukaudessa tilaa ja säästä vaihtoehdolla.",
+  "philosophyLabel": "Filosofiamme",
+  "quote": "“Terve iho on viehättävin asia, jonka voit pukea päällesi.”",
+  "philosophyCaption": "Tava Labsin filosofia",
+  "philosophyP1": "Uskomme itsestä huolehtimiseen samalla tavalla kuin huolehdit työstäsi: johdonmukaisesti ja ilman draamaa. Pieni päivittäinen huolto voittaa satunnaiset suuret uudistukset.",
+  "philosophyP2": "Emme lupaa muutosta. Teemme hyvin koostetun päivittäisen seerumin, kerromme tarkalleen, mitä siinä on, ja annamme rutiinin puhua puolestaan.",
+  "onlineTitle": "Vain verkossa",
+  "onlineSegments": [
+   {
+    "text": "Tava Labs on vain verkossa toimiva brändi. Kysymyksiä? Lähetä sähköpostia "
+   },
+   {
+    "text": "talia@tavalabs.app",
+    "href": "mailto:talia@tavalabs.app"
+   },
+   {
+    "text": "."
+   }
+  ],
+  "contactUs": "Ota yhteyttä"
+ },
+ "contact": {
+  "label": "Ota yhteyttä",
+  "title": "Haluaisimme kuulla sinusta.",
+  "sub": "Lähetä meille sähköpostia, niin vastaamme sinulle. Valitse sopiva aihe tai kirjoita meille suoraan.",
+  "emailLabel": "Sähköposti:",
+  "phoneLabel": "Puhelin:",
+  "topics": {
+   "general": {
+    "title": "Yleiset asiat",
+    "body": "Yleisiä kysymyksiä Tava Labsista ja seerumista."
+   },
+   "wholesale": {
+    "title": "Tukkumyynti",
+    "body": "Tukku ja vähittäiskaupan tiedustelut PDRN Brightening Serumista."
+   },
+   "sales-support": {
+    "title": "Myynnin tuki",
+    "body": "Kysymyksiä tilaamisesta, tilaa ja säästä vaihtoehdosta ja kassasta."
+   },
+   "product-support": {
+    "title": "Tuotetuki",
+    "body": "Apua seerumin käyttöön, rutiineihin ja henkilökohtaiseen suunnitelmaasi."
+   },
+   "partnerships": {
+    "title": "Kumppanuudet",
+    "body": "Kumppanuudet kiihdyttämöjen, yliopistojen, sijoittajien ja yhteisöjen kanssa."
+   },
+   "pr": {
+    "title": "PR",
+    "body": "Lehdistö ja mediatiedustelut."
+   }
+  }
+ },
+ "faq": {
+  "label": "Usein kysytyt kysymykset",
+  "titleLead": "Usein kysytyt",
+  "titleAccent": "Kysymykset",
+  "sub": "Vastauksia seerumista, tilaamisesta, toimituksesta ja henkilökohtaisesta suunnitelmastasi.",
+  "items": [
+   {
+    "q": "Mikä on PDRN Brightening Serum?",
+    "a": [
+     {
+      "text": "Päivittäinen seerumi, joka on rakennettu PDRN:n (Polydeoxyribonucleotide) ja Acetyl Hexapeptide-8:n ympärille, mukana Sodium Hyaluronate ja Panthenol. Se on päivittäinen ihonhoitorutiini: levitä aamuin ja illoin tukemaan kirkkaampaa ja tasaisemman näköistä ihoa sekä rauhallista, kameravalmista ilmettä."
+     }
+    ]
+   },
+   {
+    "q": "Miten käytän sitä?",
+    "a": [
+     {
+      "text": "Levitä 2–4 tippaa puhtaalle ja kuivalle iholle, aamuin ja illoin. Jatka kosteusvoiteella. Jos aktiivinen ihonhoito on sinulle uutta, aloita kerran päivässä ensimmäisen viikon ajan ja lisää sitten kahdesti päivässä käyttöön."
+     }
+    ]
+   },
+   {
+    "q": "Miten saan henkilökohtaisen suunnitelmani?",
+    "a": [
+     {
+      "text": "Tee "
+     },
+     {
+      "text": "Ihotesti",
+      "href": "/quiz"
+     },
+     {
+      "text": ". Vastauksesi rakentavat henkilökohtaisen suunnitelman, mukaan lukien miten aloitat hitaasti ja milloin lisäät käyttöä."
+     }
+    ]
+   },
+   {
+    "q": "Paljonko se maksaa?",
+    "a": [
+     {
+      "text": "$49 kertamaksuna tai $39 kuukaudessa tilaa ja säästä vaihtoehdolla (20 % alennus). Tilaa ja säästä voidaan keskeyttää, ohittaa tai peruuttaa milloin tahansa."
+     }
+    ]
+   },
+   {
+    "q": "Miten toimitus toimii?",
+    "a": [
+     {
+      "text": "Tilaukset toteuttaa kumppanimme ja ne toimitetaan kassalla antamaasi osoitteeseen. Katso "
+     },
+     {
+      "text": "Toimituskäytäntö",
+      "href": "/shipping"
+     },
+     {
+      "text": " saadaksesi lisätietoja."
+     }
+    ]
+   },
+   {
+    "q": "Mikä on palautuskäytäntönne?",
+    "a": [
+     {
+      "text": "Kaikki myynti on lopullista. Lue "
+     },
+     {
+      "text": "Palautuskäytäntö",
+      "href": "/returns"
+     },
+     {
+      "text": " ennen tilaamista."
+     }
+    ]
+   },
+   {
+    "q": "Mitä ainesosia se sisältää?",
+    "a": [
+     {
+      "text": "Koko ainesosalista on "
+     },
+     {
+      "text": "Ainesosat sivulla",
+      "href": "/ingredients"
+     },
+     {
+      "text": ". Seerumi on hajusteeton ja tehty ilman parabeeneja, sulfaatteja, silikoneja, mineraaliöljyä, ftalaatteja ja yleisiä allergeeneja."
+     }
+    ]
+   },
+   {
+    "q": "Sopiiko se ihotyypilleni?",
+    "a": [
+     {
+      "text": "Seerumi on koostettu sopimaan kaikille ihotyypeille. Jos sinulla on ihosairaus tai huolenaiheita, keskustele ihotautilääkärisi kanssa ennen uuden ihonhoidon aloittamista."
+     }
+    ]
+   },
+   {
+    "q": "Miten otan teihin yhteyttä?",
+    "a": [
+     {
+      "text": "Lähetä sähköpostia osoitteeseen talia@tavalabs.app tai käytä "
+     },
+     {
+      "text": "Ota yhteyttä",
+      "href": "/contact"
+     },
+     {
+      "text": " sivua."
+     }
+    ]
+   }
+  ]
+ },
+ "ingredients": {
+  "label": "Ainesosat",
+  "titleLead": "Mitä sisällä on, ja",
+  "titleAccent": "mitä jätämme pois.",
+  "intro": "Tässä on jokainen PDRN Brightening Serumin ainesosa, mitä kukin tekee, ja koko lista juuri sellaisena kuin se näkyy etiketissä.",
+  "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Valmistettu Yhdysvalloissa · Sopii kaikille ihotyypeille.",
+  "keyTitle": "Tärkeimmät ainesosat",
+  "keyItems": [
+   {
+    "name": "PDRN (Polydeoxyribonucleotide)",
+    "body": "Pääaktiiviaine. Tukee kirkkaampaa ja tasaisemman näköistä ihoa sekä rauhallista, kameravalmista ilmettä."
+   },
+   {
+    "name": "Acetyl Hexapeptide-8",
+    "body": "Peptidi, joka tukee kiinteyden ja sileyden ilmettä."
+   },
+   {
+    "name": "Sodium Hyaluronate (Hyaluronic Acid)",
+    "body": "Vetää kosteutta puoleensa kosteutettua ja miellyttävää ihoa varten."
+   },
+   {
+    "name": "Panthenol",
+    "body": "Rauhoittaa ja tukee ihon suojakerrosta."
+   },
+   {
+    "name": "Glycerin + Sodium PCA",
+    "body": "Kosteutta sitovia aineita, jotka auttavat ihoa pitämään veden päivän läpi."
+   }
+  ],
+  "fullTitle": "Kaikki ainesosat",
+  "howTitle": "Miten käytetään",
+  "howBody": "Levitä 2–4 pumppausta puhtaalle ja kuivalle iholle, aamuin ja illoin. Jatka kosteusvoiteella. Aloita kerran päivässä, jos aktiivinen ihonhoito on sinulle uutta.",
+  "warningTitle": "Varoitus",
+  "warningBody": "Vain ulkoiseen käyttöön. Vältä suoraa kosketusta silmiin. Jos ärsytystä ilmenee, lopeta käyttö. Pidä poissa lasten ulottuvilta."
+ },
+ "partners": {
+  "label": "Kumppaniksi Tava Labsin kanssa",
+  "titleLead": "Anna perustajillesi ilmainen kuukausi",
+  "titleAccent": "Tava Labsia.",
+  "intro": "Tava Labs tekee yhteistyötä kiihdyttämöjen, yliopistojen, enkelisijoittajien ja perustajayhteisöjen kanssa. Jäsenesi saavat ensimmäisen kuukauden PDRN Brightening Serumia ilmaiseksi, jotta yrityksiä rakentavat ihmiset voivat huolehtia yrityksen takana olevasta ihmisestä.",
+  "tagline": "Ilmainen kuukausi, meidän piikkiimme, ilman sitoumuksia.",
+  "becomePartner": "Ryhdy kumppaniksi",
+  "partnershipsContact": "Kumppanuuksien yhteystiedot",
+  "audiences": [
+   {
+    "alt": "Startup perustajia kiihdyttämön sessiossa",
+    "title": "Kiihdyttämöille",
+    "body": "Perustajasi esittelevät, demoavat ja kuvaavat sisältöä ensimmäisestä päivästä lähtien. Anna heille kuukausi päivittäistä huoltoa, joka auttaa heitä saapumaan rauhallisina ja kameravalmiina, ja yksi asia vähemmän mietittävänä ohjelman aikana.",
+    "how": "Näin se toimii: lähetämme jokaiselle kohorttisi perustajalle yhden ilmaisen pullon, mukana henkilökohtainen suunnitelma ihotestistä. Esittelet meidät kerran; me hoidamme kaiken muun."
+   },
+   {
+    "alt": "Yliopisto opiskelijoita kampuksella",
+    "title": "Yliopistoille",
+    "body": "Yrittäjyysopiskelijat rakentavat julkisesti: esityskilpailuja, demopäiviä, perustajien puheita ja ensimmäisiä sijoittajatapaamisia. Ilmainen kuukausi Tava Labsia on käytännöllinen ja mieleenpainuva lahja ohjelmasi opiskelijoille.",
+    "how": "Näin se toimii: tarjoamme pullot kohortillesi, luokallesi tai tapahtumaasi, sekä yksinkertaisen esitteen. Ei kustannuksia yliopistolle eikä opiskelijoille."
+   },
+   {
+    "alt": "Sijoittajatapaaminen perustajan kanssa",
+    "title": "Enkelisijoittajille",
+    "body": "Tuet ihmistä yhtä paljon kuin yritystä. Ilmainen kuukausi Tava Labsia on huomaavainen lahja salkkusi perustajille, ja se tukee sijoituskohteidesi päivittäistä rutiinia.",
+    "how": "Näin se toimii: kerro meille, kuinka monelle perustajalle haluat antaa lahjan, ja me järjestämme toimituksen ja heidän henkilökohtaiset suunnitelmansa. Ei kustannuksia sinulle eikä heille."
+   }
+  ],
+  "whyTitleLead": "Nolla kustannusta. Nolla vaivaa.",
+  "whyTitleAccent": "Todellista arvoa.",
+  "why": [
+   {
+    "title": "Lisää arvoa ensimmäisestä päivästä",
+    "body": "Jäsenesi saavat oikean tuotteen ja henkilökohtaisen suunnitelman, eivät alennuskoodia, jonka he unohtavat."
+   },
+   {
+    "title": "Nolla kustannusta sinulle",
+    "body": "Ensimmäinen kuukausi on meidän piikkiimme jokaiselle lahjan saajalle."
+   },
+   {
+    "title": "Nolla vaivaa sinulle",
+    "body": "Me hoidamme toimituksen, perehdytyksen ja tuen. Sinä teet yhden esittelyn."
+   },
+   {
+    "title": "Lahja, jota he todella käyttävät",
+    "body": "Yksi vaihe, aamuin ja illoin. Se sopii perustajan aikatauluun, koska se on suunniteltu sellaiselle."
+   }
+  ],
+  "formulationTitle": "Puhdas ja harkittu koostumus.",
+  "formulationSub": "Seerumi on tehty ilman ainesosia, joista jäsenesi kysyvät eniten:",
+  "stepsTitle": "Miten kumppanuus toimii",
+  "steps": [
+   {
+    "title": "Ota yhteyttä",
+    "body": "Kerro meille ohjelmastasi ja siitä, kuinka monelle ihmiselle haluaisit antaa lahjan."
+   },
+   {
+    "title": "Me järjestämme lahjan",
+    "body": "Lähetämme seerumin ja luomme jokaisen henkilökohtaisen suunnitelman ihotestistä."
+   },
+   {
+    "title": "Sinä annat lahjan",
+    "body": "Jäsenesi saavat ilmaisen kuukauden päivittäistä huoltoa, kiitoksemme sinulle jokaisessa laatikossa."
+   }
+  ],
+  "closingTitleLead": "Laitetaan ilmainen kuukausi perustajiesi",
+  "closingTitleAccent": "käsiin.",
+  "closingSegments": [
+   {
+    "text": "Lähetä sähköpostia "
+   },
+   {
+    "text": "talia@tavalabs.app",
+    "href": "mailto:talia@tavalabs.app"
+   },
+   {
+    "text": " tai soita "
+   },
+   {
+    "text": "909-906-1308",
+    "href": "tel:+19099061308"
+   },
+   {
+    "text": ", niin järjestämme sen."
+   }
+  ]
+ },
+ "blog": {
+  "label": "The Tava Journal",
+  "titleLead": "Uni ja stressitutkimusta",
+  "titleAccent": "perustajille",
+  "sub": "Unitiedettä, stressitutkimusta ja suorituskykynäkemystä perustajille.",
+  "readStory": "Lue tarina"
+ },
+ "research": {
+  "pill": "Tutkimussarja 001 · Osallistujien tulokset",
+  "h1Lead": "16 viikon katsaus mitattuihin",
+  "h1Accent": "ihon muutoksiin.",
+  "heroSub": "Prospektiivinen, avoin osallistujaohjelma, jossa yhdistyvät henkilökohtainen ihonhoitorutiini, lisäravinteet ja elämäntapaohjaus. Jokainen tämän sivun luku tulee raportista, mitattuna lähtötasolla ja viikolla 16.",
+  "chips": [
+   "Prospektiivinen ja avoin",
+   "Yksi ryhmä",
+   "Lääketieteellisesti valvottu",
+   "Henkilökohtainen kliinisen tutkimuksen paikka"
+  ],
+  "headlineLabel": "Päätulos",
+  "headlineTitle": "Aknevaurioiden kokonaismäärä laski arvosta 16,8 arvoon 6,2",
+  "slopeAria": "Kaltevuuskaavio, joka näyttää aknevaurioiden kokonaismäärän lähtötason 16,8:sta viikon 16 arvoon 6,2",
+  "slopeBaseline": "Lähtötaso 16,8",
+  "slopeWeek": "Viikko 16 · 6,2",
+  "slopeNote": "Suora viiva vain kahden mitatun pisteen välillä. Raportti ei julkaissut tulosarvoja viikoille 4, 8 tai 12.",
+  "badges": [
+   {
+    "big": "60 prosenttia korkeampi",
+    "small": "Ihon kosteutus, 29,4 AU:sta 47,1 AU:hun"
+   },
+   {
+    "big": "52 prosenttia matalampi",
+    "small": "Kliininen rakenteen pisteytys, 2,7 / 4:stä 1,3 / 4:ään"
+   }
+  ],
+  "statsLabels": [
+   "Viikkoja ohjelmassa",
+   "Ilmoittautuneita aikuisia",
+   "Ihmisiä, jotka suorittivat kaikki käynnit",
+   "Suoritusaste"
+  ],
+  "percentWord": "prosenttia",
+  "resultsBg": "Tulokset",
+  "resultsLabel": "Keskimääräinen muutos · Lähtötasosta viikolle 16",
+  "resultsTitle": "Mikä muuttui, selkeinä numeroina.",
+  "resultsSub": "Tulokset 84 osallistujalle, jotka suorittivat kaikki käynnit. Jokainen kortti vertaa kahta ajankohtaa, jotka tutkimus todella mittasi.",
+  "baseline": "Lähtötaso",
+  "week16": "Viikko 16",
+  "slopeFoot": "Lähtötasosta viikolle 16",
+  "results": [
+   {
+    "title": "Aknevaurioiden kokonaismäärä",
+    "change": "63 prosenttia matalampi",
+    "note": "Ihotautilääkärin laskemat vauriot"
+   },
+   {
+    "title": "Ihon kosteutus",
+    "change": "60 prosenttia korkeampi",
+    "note": "Corneometer mittaus AU yksiköissä"
+   },
+   {
+    "title": "Punoituksen ja punoituksen indeksi",
+    "change": "30 prosenttia matalampi",
+    "note": "Chromameter indeksi"
+   },
+   {
+    "title": "Melaniinin ja pigmentaation indeksi",
+    "change": "25 prosenttia matalampi",
+    "note": "Chromameter indeksi"
+   },
+   {
+    "title": "Kliininen rakenteen pisteytys",
+    "change": "52 prosenttia matalampi",
+    "note": "Arvioitu asteikolla 0–4"
+   }
+  ],
+  "peopleBg": "Ihmiset",
+  "participantsLabel": "Ketkä osallistuivat",
+  "participantsTitle": "Keskiarvojen takana olevat ihmiset.",
+  "participantsSub": "Viisi käyntiä ohjelman aikana, lähtötasosta viikolle 16.",
+  "ageLabel": "Keski ikä",
+  "ageSuffix": "Vuotta vanha · Alue 20–48",
+  "visitTimeline": "Käyntien aikajana",
+  "visits": [
+   {
+    "name": "Lähtötaso",
+    "desc": "Seulonta, mittaukset ja valokuvaus"
+   },
+   {
+    "name": "Viikko 4",
+    "desc": "Seuranta arvio"
+   },
+   {
+    "name": "Viikko 8",
+    "desc": "Seuranta arvio"
+   },
+   {
+    "name": "Viikko 12",
+    "desc": "Seuranta arvio"
+   },
+   {
+    "name": "Viikko 16",
+    "desc": "Loppumittaukset ja valokuvaus"
+   }
+  ],
+  "genderTitle": "Sukupuolijakauma",
+  "genderAria": "Sukupuolijakauman donitsikaavio, 74 prosenttia naisia, 24 prosenttia miehiä, 2 prosenttia muunsukupuolisia",
+  "gender": [
+   {
+    "label": "Naiset",
+    "pct": "74 prosenttia"
+   },
+   {
+    "label": "Miehet",
+    "pct": "24 prosenttia"
+   },
+   {
+    "label": "Muunsukupuoliset",
+    "pct": "2 prosenttia"
+   }
+  ],
+  "donutNote": "Donitsi animoituu raportoituun jakaumaan, kun se selaa näkyviin.",
+  "concernsTitle": "Lähtötason ihon huolenaiheet",
+  "concerns": [
+   "Tulehduksen jälkeinen hyperpigmentaatio",
+   "Epätasainen rakenne ja karheus",
+   "Tulehduksellinen akne",
+   "Kasvojen punoitus ja herkkyys",
+   "Tummat silmänaluset",
+   "Kuivuus ja heikentynyt suojakerros",
+   "Hienot juonteet ja varhainen valovanheneminen"
+  ],
+  "concernsNote": "Osallistujat saattoivat raportoida useamman kuin yhden huolenaiheen, joten nämä osuudet eivät summaudu 100 prosenttiin.",
+  "programBg": "Ohjelma",
+  "programLabel": "Ohjelma ja protokolla",
+  "programTitle": "16 viikon ohjelma, vaihe vaiheelta.",
+  "programSub": "Osallistujat saivat henkilökohtaisen seulonnan, tuotteiden jakelun, levitysohjauksen ja seuranta arviot kliinisen tutkimuksen paikassa.",
+  "morningTag": "Aamurutiini",
+  "morningTitle": "Aloita päivä",
+  "amSteps": [
+   "Hellävarainen puhdistusaine",
+   "C vitamiiniseerumi, 15 prosenttia",
+   "Keramidivoide",
+   "Mineraalinen aurinkovoide, SPF 50"
+  ],
+  "eveningTag": "Iltarutiini",
+  "eveningTitle": "Päätä päivä",
+  "pmSteps": [
+   "Hellävarainen puhdistusaine",
+   "Niasiiniamidi 5 prosenttia plus sinkkiseerumi",
+   "Peptidisuojavoide",
+   "Retinoli 0,3 prosenttia, otettiin käyttöön viikolla 2 ja titrattiin kliinikon ohjauksessa"
+  ],
+  "routineNote": "Retinolia käytettiin 3–5 iltana viikossa kahden ensimmäisen viikon totuttelujakson jälkeen. Tarvittaessa käytettiin 2 prosentin salisyylihappoa aktiivisiin vaurioihin.",
+  "supplementLabel": "Lisäravinnerutiini",
+  "supplementTitle": "Tava Skin Complex",
+  "supplementSub": "Kaksi kapselia päivässä aamiaisen kanssa. Määrät näytetään kahden kapselin annosta kohden.",
+  "supplements": [
+   "C vitamiini",
+   "Sinkki",
+   "Niasiiniamidi",
+   "Astaksantiini",
+   "Kurkumiini fytosomi",
+   "Lactobacillus probioottisekoitus"
+  ],
+  "supplementNote": "Valinnainen lisä, Omega 3, yksi pehmeä kapseli päivässä.",
+  "nutritionTitle": "Ravitsemusohjaus",
+  "nutritionItems": [
+   "Vähintään 2,5 litraa vettä päivässä",
+   "Vihanneksia, marjoja ja omega 3 pitoisia ruokia",
+   "Rajoita lisättyä sokeria ja korkean glykeemisen indeksin ruokia",
+   "Valinnainen kahden viikon vähämaitoinen ja vähäsokerinen nollaus",
+   "Lähtötason neuvonta rekisteröidyn ravitsemusterapeutin kanssa"
+  ],
+  "lifestyleTitle": "Elämäntapatavoitteet",
+  "lifestyleItems": [
+   "7–9 tuntia unta",
+   "Vähintään 150 minuuttia kohtalaista liikuntaa viikossa",
+   "Viiden minuutin päivittäinen hengitysharjoitus",
+   "Uni kirjattuna viikoittain",
+   "Kosteutus ja aurinkovoide tottumukset tarkistettiin käynneillä"
+  ],
+  "adherenceLabel": "Ohjelman seuranta",
+  "adherenceTitle": "Kuinka tarkasti ihmiset pysyivät suunnitelmassa.",
+  "adherenceSub": "Pysyminen koko 16 viikon ajan, kuten raportissa on kirjattu.",
+  "adherence": [
+   "Kokonaispysyminen",
+   "Lisäravinteiden pysyminen",
+   "Paikallisen käytön pysyminen"
+  ],
+  "adherenceAria": "{label}, {val} prosenttia",
+  "adherenceFoot": "Koko 16 viikon ohjelman ajan",
+  "safetyBg": "Turvallisuus",
+  "safetyLabel": "Raportoidut sivuvaikutukset",
+  "safetyTitle": "Mitä osallistujat raportoivat.",
+  "safetySub": "Osallistujien osuudet, jotka raportoivat kustakin vaikutuksesta ohjelman aikana.",
+  "sideEffectsTitle": "Sivuvaikutukset",
+  "sideEffects": [
+   "Lievä kuivuus tai hilseily",
+   "Väliaikainen aknen paheneminen",
+   "Lievä vatsavaiva"
+  ],
+  "withdrawalsTitle": "Keskeyttämiset",
+  "withdrawalsSub": "8 osallistujaa keskeytti 92 ilmoittautuneesta.",
+  "withdrawals": [
+   {
+    "label": "Aikatauluristiriidat",
+    "value": "5 ihmistä"
+   },
+   {
+    "label": "Lievät sivuvaikutukset",
+    "value": "2 ihmistä"
+   },
+   {
+    "label": "Kadonnut seurannasta",
+    "value": "1 ihminen"
+   }
+  ],
+  "alertTitle": "Vakavia haittatapahtumia ei raportoitu.",
+  "alertBody": "Tuo lause on esitetty raportissa tällä sivulla lueteltujen lievien vaikutusten rinnalla. Se sisältyy tähän juuri sellaisena kuin se on raportoitu.",
+  "photoLabel": "Visuaalinen dokumentaatio",
+  "photoTitle": "Osallistujien kuvavertailut.",
+  "photoSub": "Rinnakkaiset valokuvat neljän kuukauden ohjelmasta. Jokaisen parin vasen kuva näytti lähtötason ja oikea kuva viikon 16. Tällä sivulla ei toisteta osallistujien valokuvia.",
+  "participant": "Osallistuja {initial}",
+  "docViews": [
+   "Sivuprofiilinäkymä",
+   "Näkymä edestä",
+   "Näkymä edestä silmälaseilla",
+   "Lähikuva poskesta"
+  ],
+  "baselineAndWeek": "Lähtötaso ja viikko 16",
+  "photoProtocolTitle": "Valokuvausprotokolla",
+  "photoProtocol": "Standardoitu kuvaus lähtötasolla ja seurannassa käyttäen kiinteää kamera asetelmaa, johdonmukaista näkyvää ja ristipolarisoitua valaistusta, etu, 45 asteen ja profiilikulmia sekä värikalibroitua taustaa.",
+  "methodsLabel": "Miten mittaukset tehtiin",
+  "methodsTitle": "Kliiniset mittaukset",
+  "methods": [
+   "Ihotautilääkäri laski aknevauriot",
+   "Corneometer kosteutus",
+   "Chromameter punoituksen ja melaniinin indeksit",
+   "Rakenteen arviointi asteikolla 0–4",
+   "Standardoitu valokuvaus"
+  ],
+  "factsLabel": "Tutkimusasetelma",
+  "factsTitle": "Asetelma yhdellä silmäyksellä.",
+  "facts": [
+   {
+    "k": "Asetelma",
+    "v": "Prospektiivinen, avoin, yksi ryhmä"
+   },
+   {
+    "k": "Ympäristö",
+    "v": "Henkilökohtaisesti, lääketieteellisesti valvottu"
+   },
+   {
+    "k": "Arviot",
+    "v": "Lähtötaso plus viikot 4, 8, 12, 16"
+   },
+   {
+    "k": "Suoritettu",
+    "v": "84 / 92 ilmoittautuneesta · 91 prosenttia"
+   }
+  ],
+  "source": "Lähde, Tava Labs Participant Outcomes, Research Series 001, 16 viikon osallistujaohjelma. Tämä sivu esittää vain raportin luvut, lähtötason ja viikon 16 kahtena mitattuna tulosajankohtana."
+ },
+ "account": {
+  "signedInAs": "Kirjautuneena nimellä",
+  "signOut": "Kirjaudu ulos",
+  "loading": "Ladataan tiliäsi…",
+  "failedTitle": "Emme voineet ladata tiliäsi",
+  "failedSegments": [
+   {
+    "text": "Tarkista yhteytesi ja yritä uudelleen. Jos se jatkuu, lähetä sähköpostia "
+   },
+   {
+    "text": "talia@tavalabs.app",
+    "href": "mailto:talia@tavalabs.app"
+   },
+   {
+    "text": " niin hoidamme asian."
+   }
+  ],
+  "tryAgain": "Yritä uudelleen",
+  "tabs": {
+   "today": "Tänään",
+   "orders": "Tilaukset",
+   "shop": "Kauppa",
+   "lab": "Laboratorio",
+   "support": "Tuki"
+  },
+  "greetings": {
+   "morning": "Hyvää huomenta",
+   "afternoon": "Hyvää iltapäivää",
+   "evening": "Hyvää iltaa"
+  },
+  "weekInitials": [
+   "S",
+   "M",
+   "T",
+   "K",
+   "T",
+   "P",
+   "S"
+  ],
+  "streakLine": "{streak} päivän putki · Päivä {day} / 30{bottle}",
+  "dayLine": "Päivä {day} / 30{bottle}. Suorita tämän päivän rutiini sovelluksessa aloittaaksesi putkesi.",
+  "bottleSuffix": " · {days} päivää jäljellä pullossa",
+  "progressLine": "Päivä {day} / 30 · {left} päivää jäljellä ensimmäiseen täyteen kuukauteesi",
+  "stepsToGo": "Tänään: {n} / {total} rutiinin vaiheesta jäljellä.",
+  "todayComplete": "Tämä päivä on valmis. Seuraava päiväsi on jo valmiina.",
+  "planEyebrow": "Suunnitelmasi",
+  "planDefault": "Tee ihotesti, ja henkilökohtainen suunnitelmasi, joka on rakennettu vastauksistasi, elää täällä ja sovelluksessa.",
+  "retakeQuiz": "Tee ihotesti uudelleen",
+  "takeQuiz": "Tee ihotesti",
+  "chipLabels": {
+   "goal": "Tavoite",
+   "skinType": "Ihotyyppi",
+   "concern": "Huolenaihe",
+   "routine": "Rutiini",
+   "plan": "Suunnitelma",
+   "routineTimes": "Rutiinin ajat"
+  },
+  "labelMaps": {
+   "goal": {
+    "radiance": "Hehku",
+    "fine_lines": "Hienot juonteet",
+    "hydration": "Kosteutus",
+    "even_tone": "Tasainen sävy"
+   },
+   "skinType": {
+    "dry": "Kuiva",
+    "oily": "Rasvainen",
+    "combination": "Sekaiho",
+    "sensitive": "Herkkä",
+    "not_sure": "En ole varma"
+   },
+   "concern": {
+    "dullness": "Sameus",
+    "fine_lines": "Hienot juonteet",
+    "uneven_tone": "Epätasainen sävy",
+    "texture": "Rakenne",
+    "dryness": "Kuivuus"
+   },
+   "sensitivity": {
+    "often": "Usein herkkä",
+    "sometimes": "Joskus herkkä",
+    "never": "Harvoin herkkä"
+   },
+   "routine": {
+    "cleanser_only": "Vain puhdistusaine",
+    "few_products": "Muutama tuote",
+    "full_routine": "Täysi rutiini"
+   },
+   "ramp": {
+    "gentle": "Hellävarainen totuttelu",
+    "standard": "Tavallinen totuttelu",
+    "full": "Täysi vahvuus"
+   }
+  },
+  "morningEyebrow": "Aamurutiini",
+  "nightEyebrow": "Iltarutiini",
+  "amTitle": "AM · 3 tippaa",
+  "pmTitle": "PM · 3 tippaa",
+  "amSteps": [
+   {
+    "title": "Puhdista",
+    "detail": "Hellävarainen puhdistusaine, taputtele kuivaksi"
+   },
+   {
+    "title": "Levitä 3 tippaa seerumia",
+    "detail": "Paina kasvoille ja kaulalle"
+   },
+   {
+    "title": "Kosteuta + SPF",
+    "detail": "SPF 30 tai korkeampi"
+   }
+  ],
+  "pmSteps": [
+   {
+    "title": "Kaksoispuhdistus",
+    "detail": "Poista SPF ja meikki"
+   },
+   {
+    "title": "Levitä 3 tippaa seerumia",
+    "detail": "Ennen retinolia tai hoitoja"
+   },
+   {
+    "title": "Iltavoide",
+    "detail": "Sinettele kosteus"
+   }
+  ],
+  "stepsNote": "Rastitat vaiheet mobiilisovelluksessa. Tämä sivu näyttää tämän päivän rutiinin ja sen, mitä sovellus on kirjannut tähän mennessä tänään.",
+  "ordersEyebrow": "Tilaukset",
+  "ordersTitle": "Tilauksesi",
+  "ordersEmpty": "Ei tilauksia vielä. Kun ostat, tilauksesi ja seuranta näkyvät täällä ja sovelluksessa.",
+  "paid": "Maksettu",
+  "paymentFailed": "Maksu epäonnistui",
+  "unpaid": "Maksamaton",
+  "statusLabels": [
+   "Tilattu",
+   "Lähetetty",
+   "Matkalla toimitukseen",
+   "Toimitettu"
+  ],
+  "subscription": "Tilaus",
+  "carrierFallback": "Kuljetusyritys",
+  "trackPackage": "Seuraa pakettia",
+  "claimEyebrow": "Lunastuskoodi",
+  "claimTitle": "Ostoksen yhdistäminen sovellukseen",
+  "claimForOrder": "Lunastuskoodisi tilaukselle {order}",
+  "claimYourCode": "Lunastuskoodisi",
+  "claimValidUntil": " (voimassa {date} asti)",
+  "claimEnter": ". Syötä se Tava sovelluksessa kohdassa Tilaukset yhdistääksesi tämän ostoksen sovellustiliisi:",
+  "claimWebNote": "Täällä verkossa et tarvitse koodia. Kirjautuminen kassasähköpostillasi näyttää jo tilauksesi ja suunnitelmasi yllä.",
+  "claimEmpty": "Ostitko testin tai tämän sivuston kautta? Vahvistussähköpostisi ja kassan jälkeinen sivu näyttivät lunastuskoodin. Avaa Tava mobiilisovellus, kirjaudu sisään ja syötä koodi Tilaukset välilehdellä. Ostoksesi, suunnitelmasi ja testivastauksesi siirtyvät sovellustilillesi. Täällä verkossa kirjautuminen samalla sähköpostilla, jolla teit ostoksen, näyttää jo kaiken yllä. Mitään muuta ei tarvitse syöttää.",
+  "shop": {
+   "eyebrow": "PDRN Brightening Serum",
+   "title": "The Science of Attractive Health",
+   "body": "1 fl oz (30 ml). Vähennä hienoja juonteita, kosteuta syvästi, palauta hehku ja vahvista ihoa. 2–4 pumppausta, aamuin ja illoin.",
+   "subscribeLine": "Tilaa, $39 kuukaudessa.",
+   "subscribeRest": " Tuore pullo joka kuukausi, automaattisesti.",
+   "oneTimeLine": "Kertamaksu, $49.",
+   "oneTimeRest": " Yksi pullo.",
+   "subscribeBtn": "Tilaa, $39 kuukaudessa",
+   "buyOnceBtn": "Osta kerran, $49",
+   "stripeNote": "Turvallinen kassa Stripen kautta. Vahvistat maksun Stripen sivulla."
+  },
+  "labTab": {
+   "eyebrow": "Laboratorio",
+   "title": "Tunne numerosi.",
+   "sub": "Oikeita veripaneeleja, tilattuna Tava tilisi alle. Selaa paneeleja, katso jokainen markkeri ennen tilaamista ja saa tuloksesi toimitettuna suoraan tänne."
+  },
+  "support": {
+   "eyebrow": "Tuki",
+   "title": "Olemme täällä auttamassa",
+   "segments": [
+    {
+     "text": "Lähetä sähköpostia "
+    },
+    {
+     "text": "talia@tavalabs.app",
+     "href": "mailto:talia@tavalabs.app"
+    },
+    {
+     "text": " tai soita "
+    },
+    {
+     "text": "909-906-1308",
+     "href": "tel:+19099061308"
+    },
+    {
+     "text": "."
+    }
+   ],
+   "links": {
+    "general": "Yleiset kysymykset",
+    "productSupport": "Tuotetuki",
+    "salesSupport": "Tilaus ja myynnin tuki",
+    "faqs": "Usein kysytyt kysymykset",
+    "shipping": "Toimituskäytäntö",
+    "returns": "Palautuskäytäntö"
+   }
+  }
+ },
+ "lab": {
+  "ordersLabel": "Kliininen arvio",
+  "ordersTitle": "Laboratoriotilauksesi",
+  "loadingOrders": "Ladataan tilauksiasi…",
+  "ordersEmpty": "Ei mitään vielä. Kun suoritat paneelin, jokainen markkeri saapuu tänne arvon, terveen vaihteluvälin ja ajan myötä tapahtuvan liikkeen kanssa. Tilaa ensimmäinen paneelisi alla, niin tämä tila täyttyy.",
+  "viewResults": "Katso tulokset",
+  "howLabel": "Miten laboratoriot toimivat",
+  "howTitle": "Neljä vaihetta, yksi näytteenotto",
+  "steps": [
+   {
+    "title": "Valitse paneeli",
+    "body": "Valitse paneeli, joka vastaa sitä, mitä haluat tietää. Jokainen sen markkeri on listattu ennen tilaamista."
+   },
+   {
+    "title": "Lääkärin arvio",
+    "body": "Lisensoitu lääkäri tarkistaa ja hyväksyy jokaisen tilauksen, joten erillistä lääkärikäyntiä ei tarvita."
+   },
+   {
+    "title": "Kävele näytteenottoon",
+    "body": "Yksi nopea verinäyte keräyspisteessä lähelläsi. Useimmat käynnit kestävät noin viisitoista minuuttia."
+   },
+   {
+    "title": "Tulokset saapuvat tänne",
+    "body": "Tulokset toimitetaan digitaalisesti tähän välilehteen päivissä, jokaisen markkerin ja sen vaihteluvälin kanssa."
+   }
+  ],
+  "panelsLabel": "Paneelit",
+  "panelsTitle": "Neljätoista paneelia, rakennettu sen ympärille, mitä seuraat",
+  "panelsSub": "Jokainen paneeli näyttää hintansa. Tilaaminen avautuu, kun kassa kytketään päälle, ja lisensoitu lääkäri tarkistaa jokaisen tilauksen ennen kuin tuloksesi toimitetaan suoraan tänne. Paneeleja ei voi tilata osoitteisiin New Yorkissa, New Jerseyssä tai Rhode Islandissa.",
+  "markersSuffix": "{n} markkeria",
+  "resultsInDays": "Tulokset päivissä",
+  "hideMarkers": "Piilota markkerit",
+  "seeMarkers": "Katso markkerit",
+  "markersAria": "Markkerit paneelissa {name}",
+  "disclaimer": "Laboratorionäkemykset ovat tietoa omasta terveydestäsi eivätkä ole diagnoosi. Keskustele lääkärisi kanssa kaikista tuloksista, jotka huolestuttavat sinua, ja soita 911 hätätilanteessa.",
+  "panelsById": {
+   "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
+    "name": "Athletic Performance Panel",
+    "description": "Harjoitteluvalmius ja palautuminen: verenkuva, aineenvaihduntapaneeli, rautavarastot, D vitamiini, testosteroni, tulehdus ja lihasentsyymit.",
+    "collection": "Kävele sisään verinäytteenottoon"
+   },
+   "38c76039-05dc-4cd3-8475-7a675989fbf2": {
+    "name": "Baseline Wellness Panel",
+    "description": "Koko kehon lähtökohta: verenkuva, aineenvaihdunnan terveys, kolesteroli, verensokeri, D vitamiini ja kilpirauhanen.",
+    "collection": "Kävele sisään verinäytteenottoon"
+   },
+   "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
+    "name": "Energy & Fatigue Panel",
+    "description": "Tavalliset syyt matalan energian takana: rautavarastot ja kuljetus, B12, folaatti, D vitamiini, kilpirauhanen ja verenkuva.",
+    "collection": "Kävele sisään verinäytteenottoon"
+   },
+   "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
+    "name": "Female Baseline Panel",
+    "description": "Kohdennettu paneeli, jossa on 14 markkeria, listattuna kokonaan alla.",
+    "collection": "Kävele sisään verinäytteenottoon"
+   },
+   "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
+    "name": "GLP1 Panel",
+    "description": "Kohdennettu paneeli, jossa on 10 markkeria, listattuna kokonaan alla.",
+    "collection": "Kävele sisään verinäytteenottoon"
+   },
+   "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
+    "name": "Heart Health Panel",
+    "description": "Sydän ja verisuoniriski peruskolesterolin lisäksi: lipidit, ApoB, Lp(a), hs-CRP ja homokysteiini.",
+    "collection": "Kävele sisään verinäytteenottoon"
+   },
+   "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
+    "name": "Longevity Panel",
+    "description": "Kattava vuosittainen syväkatsaus aineenvaihdunnan, sydän ja verisuoniterveyden, tulehduksen ja hormoniterveyden markkereihin.",
+    "collection": "Kävele sisään verinäytteenottoon"
+   },
+   "b909fb21-b264-483c-a915-4ce87713cfa9": {
+    "name": "Male Baseline Test",
+    "description": "Kohdennettu paneeli, jossa on 12 markkeria, listattuna kokonaan alla.",
+    "collection": "Kävele sisään verinäytteenottoon"
+   },
+   "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
+    "name": "Male TRT Panel",
+    "description": "Kohdennettu paneeli, jossa on 16 markkeria, listattuna kokonaan alla.",
+    "collection": "Kävele sisään verinäytteenottoon"
+   },
+   "abfabb68-c777-4457-87c2-46bf5fe26d81": {
+    "name": "Men's Hormone Panel",
+    "description": "Miesten hormonitila: kokonaistestosteroni, SHBG, estradioli, LH ja FSH.",
+    "collection": "Kävele sisään verinäytteenottoon"
+   },
+   "f12fe316-367a-4c53-9735-8c0129c45506": {
+    "name": "Metabolic Health Panel",
+    "description": "Verensokerin hallinta ja aineenvaihduntariski: A1c, paastoinsuliini, kolesteroli ja täysi aineenvaihduntapaneeli.",
+    "collection": "Kävele sisään verinäytteenottoon"
+   },
+   "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
+    "name": "Stress & Recovery Panel",
+    "description": "Stressikuorma ja palautumiskyky: kortisoli, DHEA-S, kilpirauhanen ja tulehdus.",
+    "collection": "Kävele sisään verinäytteenottoon"
+   },
+   "1760616d-44d3-4654-817d-440a969e5cdf": {
+    "name": "Thyroid Complete Panel",
+    "description": "Täysi kilpirauhasen tutkimus: TSH, vapaa T4, vapaa T3 ja TPO vasta aineet.",
+    "collection": "Kävele sisään verinäytteenottoon"
+   },
+   "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
+    "name": "Women's Hormone Panel",
+    "description": "Naisten hormonitila: estradioli, progesteroni, FSH, LH, DHEA-S ja testosteroni.",
+    "collection": "Kävele sisään verinäytteenottoon"
+   }
+  },
+  "detail": {
+   "backToAccount": "Takaisin tilillesi",
+   "notFoundTitle": "Sitä laboratoriotilausta ei löytynyt",
+   "notFoundBody": "Se voi kuulua eri sähköpostille. Kirjaudu sisään sähköpostilla, jolla tilasit, ja yritä uudelleen.",
+   "clinicalReview": "KLIININEN ARVIO",
+   "loadingResults": "Ladataan tuloksiasi…",
+   "yourPanel": "Paneelisi",
+   "markerFallback": "Markkeri",
+   "headlines": {
+    "loading": "Haetaan tuloksiasi",
+    "pending": "Tuloksesi ovat matkalla",
+    "allIn": "Kaikki tuloksesi ovat saapuneet.",
+    "in": "Tuloksesi ovat saapuneet."
+   },
+   "sublines": {
+    "loading": "Hetki, kun laboratorioraportti latautuu.",
+    "pending": "Heti kun laboratorio raportoi, tämä sivu täyttyy jokaisella markkerilla, sen arvolla ja terveellä vaihteluvälillä.",
+    "allIn": "Jokainen markkeri on vaihteluvälillä. Tässä on koko kuva.",
+    "oneAttention": "Yksi markkeri tarvitsee lähempää tarkastelua. Sukelletaan siihen.",
+    "manyAttention": "{n} markkeria tarvitsee lähempää tarkastelua. Sukelletaan niihin."
+   },
+   "orderedPrefix": "Tilattu",
+   "statusPrefix": "Tila:",
+   "notInYetTitle": "Tulokset eivät ole vielä saapuneet",
+   "notInYetBody": "Useimmat paneelit raportoivat päivien sisällä näytteenotostasi. Kun omasi saapuu, tämä sivu näyttää täyden tasapainonäkymän jokaisen markkerin ja sen vaihteluvälin kanssa.",
+   "markerBalance": "Markkeritasapainosi",
+   "biomarkers": "BIOMARKKERIT",
+   "analyzedSuffix": "{pct} % analysoitu",
+   "statusNames": {
+    "optimal": "Optimaalinen",
+    "inRange": "Vaihteluvälillä",
+    "attention": "Vaatii huomiota"
+   },
+   "statusLabels": {
+    "optimal": "OPTIMAALINEN",
+    "inRange": "VAIHTELUVÄLILLÄ",
+    "attention": "MERKITTY"
+   },
+   "basePrefix": "Pohja: {name}",
+   "updatedPrefix": "Päivitetty {date}",
+   "updatedRecently": "Päivitetty äskettäin",
+   "triageTitle": "Tilan lajittelu",
+   "tapToFilter": "Napauta suodattaaksesi",
+   "triageSubs": {
+    "optimal": "Juuri siellä, missä haluat niiden olevan",
+    "inRange": "Terveen vaihteluvälin sisällä",
+    "attention": "Keskustelun arvoinen lääkärisi kanssa"
+   },
+   "allFilter": "Kaikki ({n})",
+   "rangePrefix": "Vaihteluväli {range}",
+   "disclaimer": "Laboratoriotulokset ovat tietoa omasta terveydestäsi eivätkä ole diagnoosi. Keskustele lääkärisi kanssa kaikista tuloksista, jotka huolestuttavat sinua, ja soita 911 hätätilanteessa."
+  }
+ },
+ "login": {
+  "brandHeadLead": "Tervetuloa",
+  "brandHeadAccent": "takaisin.",
+  "brandCopy": "Suunnitelmasi, tilauksesi ja rutiinisi. Yksi sähköposti sitoo sovelluksen ja verkon yhteen.",
+  "label": "Tava tilisi",
+  "title": "Kirjaudu sisään",
+  "intro": "Kirjaudu sisään sähköpostilla, jota käytit kassalla tai Tava mobiilisovelluksessa. Suunnitelmasi, tilauksesi ja rutiinisi on sidottu siihen sähköpostiin, joten kaikki täällä vastaa sovellusta. Salasanaa ei tarvita. Lähetämme sinulle kirjautumislinkin sähköpostilla, ja sen napauttaminen vie sinut tilillesi.",
+  "emailLabel": "Sähköpostiosoite",
+  "invalidEmail": "Syötä voimassa oleva sähköpostiosoite.",
+  "sendFailed": "Emme voineet lähettää sitä sähköpostia. Tarkista osoite ja yritä uudelleen.",
+  "sending": "Lähetetään…",
+  "sendButton": "Lähetä minulle kirjautumislinkki sähköpostilla",
+  "sentNotice": "Kirjautumislinkki lähetetty osoitteeseen {email}. Sen saapuminen voi kestää minuutin. Tarkista roskapostikansiosi, jos et näe sitä.",
+  "sentBody": "Avaa se sähköposti tällä laitteella ja napauta sisällä olevaa linkkiä. Päädyt tilillesi, jo kirjautuneena. Linkki toimii kerran ja vanhenee, joten käytä se pian.",
+  "resend": "Lähetä sähköposti uudelleen",
+  "differentEmail": "Käytä eri sähköpostia",
+  "footNote": "Ensimmäistä kertaa täällä? Sama linkki luo tilisi. Käytä tilauksesi sähköpostia, ja kaikki odottaa sinua jo.",
+  "claimLabel": "Ostitko verkosta, käytätkö sovellusta?",
+  "claimTitle": "Käytä lunastuskoodiasi sovelluksessa",
+  "claimBody1": "Kun ostit testin tai tämän sivuston kautta, ostovahvistussähköpostisi (ja kassan jälkeinen sivu) näytti lunastuskoodin. Avaa Tava mobiilisovellus, kirjaudu sisään ja syötä se koodi Tilaukset välilehdellä. Ostoksesi, suunnitelmasi ja testivastauksesi siirtyvät sovellustilillesi, ilman toista ostosta.",
+  "claimBody2": "Verkossa se on vielä yksinkertaisempaa. Kirjaudu yllä sisään samalla sähköpostilla, jolla teit ostoksen, ja tilauksesi ja suunnitelmasi ovat jo täällä.",
+  "faqButton": "Kysymyksiä? Katso UKK"
+ },
+ "checkout": {
+  "title": "Kassa",
+  "closeAria": "Sulje kassa",
+  "planOneTime": "PDRN Brightening Serum · $49 · Kertaostos",
+  "planSubscribe": "PDRN Brightening Serum · $39 kuukaudessa · Tilaa ja säästä 20 %",
+  "email": "Sähköposti",
+  "firstName": "Etunimi",
+  "lastName": "Sukunimi",
+  "streetAddress": "Katuosoite",
+  "addressLine2": "Osoiterivi 2 (valinnainen)",
+  "city": "Kaupunki",
+  "state": "Osavaltio",
+  "zip": "ZIP",
+  "country": "Maa",
+  "phoneOptional": "Puhelin (valinnainen)",
+  "missingIntro": "Melkein valmista. Lisää {fields}.",
+  "missingNames": {
+   "email": "voimassa oleva sähköposti",
+   "firstName": "etunimi",
+   "lastName": "sukunimi",
+   "address1": "katuosoite",
+   "city": "kaupunki",
+   "state": "osavaltio",
+   "zip": "ZIP koodi"
+  },
+  "creating": "Luodaan kassaasi…",
+  "taking": "Viedään sinut turvalliseen kassaan…",
+  "continueBtn": "Jatka maksuun",
+  "startError": "Kassa ei voinut käynnistyä. Tarkista tietosi ja yritä uudelleen. Mitään ei veloitettu.",
+  "stripeNote": "Turvallinen kassa Stripen kautta. Vahvistat maksun Stripen sivulla. Mitään ei veloiteta vielä."
+ },
+ "legal": {
+  "governsNote": "Tämä sivu on käännös englanninkielisestä alkuperäisestä. Jos sanamuoto joskus eroaa, englanninkielinen versio on määräävä."
+ }
+}

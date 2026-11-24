@@ -1,0 +1,1939 @@
+{
+ "meta": {
+  "home": {
+   "title": "PDRN Brightening Serum verslininkams | Tava Labs",
+   "description": "Odos priežiūra verslininkams. PDRN Brightening Serum derina PDRN, peptidus ir hialurono rūgštį, kad oda atrodytų skaisti ir sudrėkinta. $49 vieną kartą arba $39 per mėnesį."
+  },
+  "product": {
+   "title": "PDRN Brightening Serum verslininkams | Tava Labs",
+   "description": "Tava Labs PDRN Brightening Serum derina PDRN, peptidus ir Sodium Hyaluronate, kad oda vienu kasdieniu žingsniu atrodytų skaisti ir sudrėkinta. Sukurta įkūrėjams, vadovams ir kūrėjams. $49 vieną kartą arba $39 per mėnesį."
+  },
+  "about": {
+   "title": "Apie Tava Labs | Odos priežiūra ambicingiems žmonėms",
+   "description": "Tava Labs kuria odos priežiūrą ambicingiems žmonėms. Susipažinkite su komanda, sukūrusią PDRN Brightening Serum, kasdienę rutiną įkūrėjams ir specialistams."
+  },
+  "ingredients": {
+   "title": "PDRN Brightening Serum sudėtis | Tava Labs",
+   "description": "Kiekviena PDRN Brightening Serum sudedamoji dalis paaiškinta, nuo PDRN ir peptidų iki Sodium Hyaluronate ir Panthenol, taip pat visas INCI sąrašas ir tai, ko į sudėtį nededame."
+  },
+  "faq": {
+   "title": "PDRN Brightening Serum dažni klausimai ir atsakymai | Tava Labs",
+   "description": "Atsakymai apie PDRN Brightening Serum: kainos, Subscribe and Save, pristatymo laikas, grąžinimai, odos testas ir pirkimo susiejimas su Tava programėle."
+  },
+  "contact": {
+   "title": "Susisiekite su Tava Labs | Pagalba, pardavimai ir partnerystė",
+   "description": "Susisiekite su Tava Labs dėl pagalbos dėl produkto, užsakymų, didmeninės prekybos, partnerystės ir spaudos. Rašykite talia@tavalabs.app arba skambinkite 909-906-1308."
+  },
+  "partners": {
+   "title": "Tapkite Tava Labs partneriu | Nemokamas serumas jūsų programai",
+   "description": "Akseleratoriai, inkubatoriai, verslo programos ir investuotojai, padovanokite savo įkūrėjams nemokamą vieno mėnesio PDRN Brightening Serum atsargą. Tapkite Tava Labs partneriu."
+  },
+  "research": {
+   "title": "16 savaičių tyrimo rezultatai | Tava Labs",
+   "description": "Išmatuoti Tava Labs 16 savaičių dalyvių programos rezultatai. Pokyčiai nuo pradinio lygio iki 16 savaitės, spuogų pažeidimai, drėkinimas, paraudimas, pigmentacija ir tekstūra, bei visas programos protokolas."
+  },
+  "blog": {
+   "title": "The Tava Journal | Oda, miegas ir stresas įkūrėjams",
+   "description": "Miego mokslas, streso tyrimai ir odos sveikata įkūrėjams bei specialistams, taip pat praktinės rutinos, padedančios darbe atrodyti tvarkingai."
+  },
+  "quiz": {
+   "title": "Odos testas | Sukurkite asmeninį serumo planą | Tava Labs",
+   "description": "Atsakykite į kelis greitus klausimus ir sukurkite asmeninį planą su PDRN Brightening Serum. Vienas serumas, du kartus per dieną, pritaikytas jūsų odai ir tikslams."
+  },
+  "checkoutSuccess": {
+   "title": "Užsakymas patvirtintas | Jūsų PDRN Brightening Serum | Tava Labs",
+   "description": "Jūsų Tava Labs PDRN Brightening Serum užsakymas patvirtintas. Jūsų aktyvavimo kodas susieja šį pirkinį su programėle, kurioje jūsų planas, atsakymai ir užsakymas keliauja kartu su jumis."
+  },
+  "checkoutCancel": {
+   "title": "Atsiskaitymas atšauktas | Mokėjimas nenuskaičiuotas | Tava Labs",
+   "description": "Mokėjimas nebuvo nuskaičiuotas. Jūsų Tava Labs planas ir atsakymai išsaugoti, todėl galėsite tęsti nuo tos vietos, kurioje sustojote, kai būsite pasiruošę."
+  },
+  "login": {
+   "title": "Prisijungti | Tava Labs",
+   "description": "Prisijunkite prie savo Tava Labs paskyros: jūsų planas, užsakymai, rutina ir pagalba, susieta su tuo pačiu el. paštu kaip ir mobilioji programėlė."
+  },
+  "account": {
+   "title": "Jūsų paskyra | Tava Labs",
+   "description": "Jūsų Tava Labs paskyra internete: jūsų planas, užsakymai, rutina ir pagalba, susieta su tuo pačiu el. paštu kaip ir mobilioji programėlė."
+  },
+  "terms": {
+   "title": "Sąlygos ir nuostatos | Tava Labs",
+   "description": "Sąlygos, reglamentuojančios jūsų naudojimąsi tavalabs.app ir PDRN Brightening Serum pirkimą iš Tava Labs, LLC, įskaitant mūsų politiką, kad visi pardavimai yra galutiniai."
+  },
+  "privacy": {
+   "title": "Privatumo politika | Tava Labs",
+   "description": "Kaip Tava Labs renka, naudoja ir saugo jūsų informaciją, kai lankotės tavalabs.app, atliekate odos testą arba užsisakote PDRN Brightening Serum."
+  },
+  "returns": {
+   "title": "Grąžinimo ir pinigų grąžinimo politika | Tava Labs",
+   "description": "Tava Labs grąžinimo ir pinigų grąžinimo politika PDRN Brightening Serum užsakymams, įskaitant mūsų sąlygas, kad visi pardavimai yra galutiniai, ir kaip susisiekti su pagalba."
+  },
+  "cookies": {
+   "title": "Slapukų politika | Tava Labs",
+   "description": "Kaip Tava Labs svetainė naudoja slapukus ir panašias priemones, kai lankotės tavalabs.app, ką jie saugo ir kaip galite juos valdyti."
+  },
+  "shipping": {
+   "title": "Pristatymo politika | Tava Labs",
+   "description": "Tava Labs pristatymo politika PDRN Brightening Serum užsakymams: paruošimo laikas, pristatymo terminai, sekimas ir pristatymo teritorijos."
+  }
+ },
+ "chrome": {
+  "homeAria": "Tava Labs pradžia",
+  "primaryNavAria": "Pagrindinė",
+  "mobileNavAria": "Mobilioji",
+  "navSerum": "Serumas",
+  "navAbout": "Apie mus",
+  "navIngredients": "Sudėtis",
+  "navFaqs": "DUK",
+  "navBlog": "Tinklaraštis",
+  "navContact": "Kontaktai",
+  "login": "Prisijungti",
+  "addToRoutine": "Pridėti prie rutinos",
+  "openMenu": "Atidaryti meniu",
+  "closeMenu": "Uždaryti meniu",
+  "language": "Kalba",
+  "tagline": "Patrauklios sveikatos mokslas",
+  "shopHeading": "Parduotuvė",
+  "contactHeading": "Susisiekite su mumis",
+  "infoHeading": "Informacija",
+  "legalHeading": "Teisinė informacija",
+  "footerSerum": "PDRN Brightening Serum",
+  "footerIngredients": "Sudėtis",
+  "contactLinks": {
+   "general": "Bendri klausimai",
+   "wholesale": "Didmeninė prekyba",
+   "salesSupport": "Pardavimų pagalba",
+   "productSupport": "Pagalba dėl produkto",
+   "pr": "Viešieji ryšiai"
+  },
+  "infoLinks": {
+   "about": "Apie mus",
+   "partners": "Partneriai",
+   "ingredients": "Sudėtis",
+   "faqs": "DUK",
+   "blog": "Tinklaraštis",
+   "research": "Tyrimai"
+  },
+  "newsletterHeading": "Sekite visas Tava naujienas",
+  "newsletter": {
+   "placeholder": "Jūsų el. paštas",
+   "subscribe": "Prenumeruoti",
+   "sending": "Siunčiama...",
+   "done": "Jūs jau sąraše. Sveiki atvykę į spindesio sąrašą.",
+   "error": "Kažkas nepavyko, bandykite dar kartą."
+  },
+  "disclaimer1": "PDRN Brightening Serum yra kosmetikos produktas. Jis nėra skirtas jokiai ligai diagnozuoti, gydyti, išgydyti ar jos prevencijai. Individualūs rezultatai gali skirtis.",
+  "disclaimer2": "Visi pardavimai yra galutiniai. Prieš užsakydami peržiūrėkite mūsų grąžinimo politiką.",
+  "copyright": "© 2026 Tava Labs · Patrauklios sveikatos mokslas",
+  "notFoundLabel": "Tava Labs",
+  "notFoundTitle": "Puslapis nerastas",
+  "notFoundBody": "Šio puslapio čia nėra. Galbūt jis buvo perkeltas arba adresas yra nepilnas.",
+  "notFoundHome": "Grįžti į pradžios puslapį",
+  "notFoundShop": "Įsigyti PDRN Brightening Serum",
+  "legalLinks": {
+   "terms": "Sąlygos ir nuostatos",
+   "privacy": "Privatumo politika",
+   "returns": "Grąžinimo politika",
+   "cookies": "Slapukų politika",
+   "shipping": "Pristatymo politika"
+  }
+ },
+ "hero": {
+  "ariaLabel": "PDRN Brightening Serum",
+  "pill": "Žmogui, kuris yra priešakyje",
+  "line1": "Tvarkinga išvaizda dar prieš",
+  "line2": "pirmąjį skambutį.",
+  "sub": "Du iki keturi lašai PDRN Brightening Serum, ryte ir vakare, kad oda nuo pirmojo iki paskutinio skambučio atrodytų skaisti, sudrėkinta ir lygi.",
+  "cardAria": "PDRN Brightening Serum, produkto puslapis",
+  "onSetPill": "Filmavimo aikštelėje",
+  "onSetCaption": "Ramybė po prožektoriais",
+  "onSetAlt": "Įkūrėjas sėdi studijos aikštelėje, atsisukęs į kamerą",
+  "morningPill": "Ryto ritualas",
+  "morningCaption": "Prie veidrodžio, vos pabudus",
+  "morningAlt": "Įkūrėjas ryto šviesoje prie vonios veidrodžio tepasi serumą",
+  "widePill": "Dieną ir naktį",
+  "wideHead": "Vienas buteliukas. Kiekvieną dieną.",
+  "priceLine": "$49 vieną kartą arba $39 per mėnesį",
+  "talia": {
+   "baseline": "Pradinis lygis",
+   "week16": "16 savaitė",
+   "statBig": "63 proc. mažiau",
+   "statCap": "Spuogų pažeidimai",
+   "statNote": "Vidutinis pokytis 16 savaičių dalyvių programoje",
+   "alt": "Talia Kade, Tava Labs tyrėja, vilkinti baltą laboratorinį chalatą",
+   "slopeAria": "Tendencijos linija nuo 16.8 pradinio lygio iki 6.2 ties 16 savaite"
+  }
+ },
+ "home": {
+  "introTitleLead": "Skaistesnė, sudrėkinta,",
+  "introTitleAccent": "sveikai atrodanti oda",
+  "introBody": "Verslininkai gyvena prieš kamerą ir susitikimų kambaryje. Pristatote investuotojams, užbaigiate pardavimo skambučius ir įrašote vaizdo įrašą, kuris parduoda produktą. Jūsų veidas yra pristatymo dalis. PDRN Brightening Serum yra vienas lengvas, greitai susigeriantis žingsnis su PDRN, peptidais ir hialurono rūgštimi. Jis padeda odai atrodyti skaistesnei, giliai sudrėkintai ir lygiai. Dvi minutės, du kartus per dieną, ir pasirodote tvarkingi, pailsėję ir pasiruošę.",
+  "marqueeTagline": "Patrauklios sveikatos mokslas",
+  "marqueeSlogan": "Odos priežiūra ambicingiems žmonėms",
+  "buildersTitle": "Sukurta kūrėjams ir statytojams",
+  "buildersTagline": "Kurkite savo verslą. Nepamirškite savęs.",
+  "buildersBody": "Kaip verslininkas, jūs nuolat pristatote. Asmeniškai pristatote investuotojams, parduodate vaizdo skambučiuose ir kuriate turinį, kuris per kelias sekundes turi pelnyti pasitikėjimą. Atrodyti pasiruošusiam ir susikaupusiam nėra tuštybė. Tai yra dalis to, kaip pristatote verslą. Paprasta kasdienė rutina įkūrėjo kasdienybėje priklauso šalia gero garderobo, kokybiško nešiojamojo kompiuterio ir sistemos, kuria galite pasikliauti.",
+  "pitchAlt": "Įkūrėjas pristato savo idėją investuotojui",
+  "pitchTitle": "Pristatymo metu",
+  "pitchBody": "Priešais investuotoją, kitapus stalo, kambarys pirmiausia skaito jus, o tik tada jūsų pristatymą. Pasirodykite kaip žmogus, stovintis už įmonės, kurią verta remti: pailsėjęs, tvarkingas ir pasiruošęs.",
+  "cameraAlt": "Įkūrėjas kalba prieš kamerą",
+  "cameraTitle": "Prieš kamerą",
+  "cameraBody": "Filmavimo, tinklalaidės ar pardavimo skambučio metu objektyvas pirmiausia parodo bemieges naktis. Pasitikėjimas prieš kamerą prasideda nuo to, kaip pasirūpinate savimi dar prieš paspausdami įrašymo mygtuką.",
+  "maintenanceTitle": "Kasdienė verslininko priežiūra.",
+  "maintenanceBody": "Vienas serumas, ryte ir vakare. Atrodykite pasiruošę. Jauskitės užtikrinti. Pasirodykite pasirengę.",
+  "motionTitle": "Tava judesyje",
+  "motionBody": "Daugelis kūrėjų ir verslininkų jau mus mėgsta.",
+  "playVideo": "Leisti vaizdo įrašą",
+  "videoPlayer": "Vaizdo įrašų grotuvas",
+  "closeVideo": "Uždaryti vaizdo įrašą",
+  "freeFromTitleLead": "Kokybiškos sudedamosios dalys, sujungtos",
+  "freeFromTitleAccent": "su rūpesčiu.",
+  "freeFromSub": "Tai, ko nededame, yra taip pat svarbu kaip tai, ką dedame.",
+  "freeFromItems": [
+   {
+    "name": "Be žiauraus elgesio su gyvūnais",
+    "blurb": "Niekada nebandyta su gyvūnais."
+   },
+   {
+    "name": "Be kvapiųjų medžiagų",
+    "blurb": "Jokių pridėtų kvepalų ar sintetinių kvapų."
+   },
+   {
+    "name": "Be mineralinės alyvos",
+    "blurb": "Jokios mineralinės alyvos ar naftos užpildų."
+   },
+   {
+    "name": "Be ftalatų",
+    "blurb": "Formulėje nėra ftalatų."
+   },
+   {
+    "name": "Be silikonų",
+    "blurb": "Jokių silikonų, dengiančių jūsų odą."
+   },
+   {
+    "name": "Be sulfatų",
+    "blurb": "Jokių agresyvių sulfatų. Švelnu odai."
+   },
+   {
+    "name": "Be alergenų",
+    "blurb": "Pagaminta be įprastų alergenų."
+   },
+   {
+    "name": "Be alkoholio",
+    "blurb": "Jokių džiovinančių alkoholių."
+   }
+  ],
+  "founderLabel": "Mūsų įkūrėjo žinutė",
+  "founderQuote": "„Sveika oda yra patraukliausias dalykas, kurį galite dėvėti.“",
+  "founderBody1": "Tai yra filosofija, kuria remiasi Tava Labs, patrauklios sveikatos mokslas. PDRN Brightening Serum yra tas vienas žingsnis, aplink kurį kuriama rutina: dvi minutės, du kartus per dieną, ryte ir vakare.",
+  "founderBody2": "Pažiūrėkite filmą ir išgirskite mokslą, kuriuo jis remiasi, mūsų pačių žodžiais.",
+  "founderPhilosophy": "Tava Labs filosofija",
+  "founderVideoAria": "Tava Labs filmas, mokslas, kuriuo remiasi PDRN Brightening Serum",
+  "shopSerum": "Įsigyti serumą",
+  "journalTitle": "The Tava Journal",
+  "journalSub": "Apie miegą, stresą ir pasirodymą pasiruošus.",
+  "readJournal": "Skaityti žurnalą",
+  "readStory": "Skaityti istoriją"
+ },
+ "appTeaser": {
+  "label": "Netrukus",
+  "lead": "Jūsų rutina, tyrimai ir užsakymai netrukus turės savo vietą.",
+  "headlineLead": "Viena programėlė.",
+  "headlineTrail": "Kiekvieną dieną.",
+  "scroll": "Slinkti",
+  "caption": "Tava Labs programėlė sujungia jūsų serumo planą, kasdienę rutiną, laboratorinių tyrimų paneles ir rezultatus bei užsakymus į vieną vietą, sukurta iPhone.",
+  "features": [
+   {
+    "title": "Kasdienė rutina",
+    "desc": "Ryto ir vakaro sesijos, pažymimos žingsnis po žingsnio."
+   },
+   {
+    "title": "Serijos ir pažanga",
+    "desc": "Jūsų serija ir tai, kas liko, matoma vienu žvilgsniu."
+   },
+   {
+    "title": "Tyrimų panelės ir rezultatai",
+    "desc": "Panelės, rezultatai ir normos jūsų kišenėje."
+   },
+   {
+    "title": "Užsakymai ir papildymai",
+    "desc": "Užsakymai ir papildymai be paieškų."
+   }
+  ],
+  "phone": {
+   "today": "Šiandien",
+   "goodMorning": "Labas rytas",
+   "dayLine": "12 diena iš 30 · liko 18 dienų iki pirmojo pilno mėnesio",
+   "stepsToGo": "Šiandien: liko 4 iš 6 rutinos žingsnių",
+   "morningRoutine": "Ryto rutina",
+   "amDrops": "Ryte · 3 lašai",
+   "clinicalReview": "Klinikinė peržiūra",
+   "resultsIn": "Jūsų rezultatai jau gauti",
+   "optimal": "4 optimalūs",
+   "inRange": "2 normoje",
+   "toReview": "1 peržiūrėti",
+   "tabs": {
+    "today": "Šiandien",
+    "shop": "Parduotuvė",
+    "lab": "Tyrimai",
+    "orders": "Užsakymai",
+    "profile": "Profilis"
+   },
+   "steps": [
+    {
+     "title": "Valymas",
+     "detail": "Švelnus valiklis, nusausinkite tapšnodami"
+    },
+    {
+     "title": "Užtepkite 3 lašus serumo",
+     "detail": "Įspauskite į veidą ir kaklą"
+    },
+    {
+     "title": "Drėkinimas ir SPF",
+     "detail": "SPF 30 ar didesnis"
+    }
+   ]
+  }
+ },
+ "categoryChrome": {
+  "readMore": "Skaityti daugiau +",
+  "showLess": "Rodyti mažiau −",
+  "prevProducts": "Ankstesni produktai",
+  "nextProducts": "Kiti produktai",
+  "goTo": "Eiti į {title}",
+  "explore": "Naršyti"
+ },
+ "categories": {
+  "skincare": {
+   "eyebrow": "ODOS PRIEŽIŪRA",
+   "heroTitleLead": "Jūsų kitas susitikimas",
+   "heroTitleAccent": "prasideda nuo jūsų.",
+   "heroCopy": "Sukurta verslininkams, kurie pristato, parduoda ir filmuojasi prieš kamerą. Vienas kasdienis serumas, kurio pagrindas yra PDRN, kad oda kambaryje ir prieš objektyvą atrodytų tvarkinga ir pailsėjusi.",
+   "heroFinePrint": "Kosmetinė odos priežiūra. Neskirta jokiai ligai diagnozuoti, gydyti, išgydyti ar jos prevencijai.",
+   "stamp": "ODOS PRIEŽIŪRA AMBICINGIEMS ŽMONĖMS",
+   "primaryCta": "Pridėti prie rutinos",
+   "secondaryCta": "Žiūrėti sudėtį",
+   "optionsEyebrow": "ASORTIMENTAS",
+   "optionsTitleLead": "Vienas serumas.",
+   "optionsTitleAccent": "Jokios spėlionių lentynos.",
+   "optionsCopy": "Pradėkite nuo serumo. Likusi linija jau pakeliui.",
+   "products": [
+    {
+     "title": "PDRN Brightening Serum",
+     "subtitle": "PDRN, peptidai ir Sodium Hyaluronate",
+     "unit": "vieną kartą",
+     "imageAlt": "Tava Labs PDRN Brightening Serum buteliukas",
+     "badges": [
+      "Perkamiausias"
+     ],
+     "description": "Kasdienis serumas skaistesnei, sudrėkintai, sveikai atrodančiai odai. $39 per mėnesį su Subscribe and Save.",
+     "linkLabel": "Žiūrėti serumą"
+    },
+    {
+     "title": "Peptidinis drėkiklis",
+     "subtitle": "1.7 fl oz (50ml)",
+     "imageAlt": "Tava Labs peptidinio drėkiklio balta tūbelė su rožiniu purslu",
+     "badges": [
+      "Netrukus"
+     ],
+     "description": "Peptidinis drėkiklis, skirtas raukšlėms ir drėkinimui, sukurtas odai, kuri visą dieną turi atrodyti susikaupusi."
+    },
+    {
+     "title": "Peptidinis akių kremas",
+     "subtitle": "1 fl oz (30ml)",
+     "imageAlt": "Tava Labs peptidinio akių kremo balta tūbelė su šampano lašu",
+     "badges": [
+      "Netrukus"
+     ],
+     "description": "Mažina akių paburkimo išvaizdą ir yra skirtas raukšlėms akių srityje, kad prieš kamerą atrodytumėte pailsėję."
+    },
+    {
+     "title": "Odos stangrinamasis kremas",
+     "subtitle": "2 oz (56g)",
+     "imageAlt": "Tava Labs odos stangrinamojo kremo baltas indelis auksinės bangos fone",
+     "badges": [
+      "Netrukus"
+     ],
+     "description": "Hialurono rūgštis ir CoQ10 sodriame kreme, po kurio oda atrodo stangri ir prižiūrėta."
+    }
+   ],
+   "disclaimerLead": "Tava Labs odos priežiūros produktai yra kosmetika. Jie nėra skirti jokiai ligai diagnozuoti, gydyti, išgydyti ar jos prevencijai.",
+   "disclaimerMore": [
+    "Individualūs rezultatai skiriasi. Naudokite tik kaip nurodyta: 2 iki 4 lašus PDRN Brightening Serum, du kartus per dieną, ant švarios odos.",
+    "Jei atsiranda dirginimas, nutraukite naudojimą ir pasitarkite su specialistu. Šiame puslapyje nurodytos kainos buvo tikslios paskelbimo metu ir gali keistis."
+   ],
+   "protocolEyebrow": "RUTINA",
+   "protocolTitleLead": "Dvi minutės, du kartus per dieną.",
+   "protocolTitleAccent": "Tai ir yra visa rutina.",
+   "protocolCopy": "Rutina, sukurta aplink vieną serumą ir verslininko tvarkaraštį, ankstyvus skambučius, vėlyvas naktis ir visa kita.",
+   "protocolCta": "Pridėti prie rutinos",
+   "steps": [
+    {
+     "title": "Įvertinkite",
+     "lead": "su odos testu",
+     "body": "Atsakykite į kelis greitus klausimus apie savo odą, miegą ir tvarkaraštį, kad planas prasidėtų nuo to, kur iš tikrųjų esate."
+    },
+    {
+     "title": "Tepkite",
+     "lead": "2 iki 4 lašus, du kartus per dieną",
+     "body": "Ryte ir vakare, ant švarios odos. Vienas serumas, vienas žingsnis, jokios dešimties žingsnių rutinos, kurią reikėtų palaikyti."
+    },
+    {
+     "title": "Sekite",
+     "lead": "savo planą programėlėje",
+     "body": "Jūsų pirkinys su aktyvavimo kodu susiejamas su Tava programėle, kurioje jūsų planas, užsakymai ir rutina lieka vienoje vietoje."
+    }
+   ],
+   "legalLines": [
+    "Tik kosmetikos produktai. Nieko šiame puslapyje nėra medicininis patarimas."
+   ]
+  },
+  "biomarkers": {
+   "eyebrow": "LABORATORINIAI BIOMARKERIAI",
+   "heroTitleLead": "Žinokite savo duomenis,",
+   "heroTitleAccent": "su Tava.",
+   "heroCopy": "Savo įmonę valdote pagal skaičius. Netrukus tą pačią discipliną galėsite taikyti sau: pagrindiniai biomarkeriai, sekami laikui bėgant, Tava programėlėje.",
+   "heroFinePrint": "Netrukus Tava programėlėje. Įžvalgos yra tik informacinės ir nediagnozuoja jokios būklės.",
+   "stamp": "JŪSŲ DUOMENYS VIENOJE VIETOJE",
+   "primaryCta": "Žiūrėti, kas sekama",
+   "secondaryCta": "Kaip tai veiks",
+   "optionsEyebrow": "KAS SEKAMA",
+   "optionsTitleLead": "Šešios sritys.",
+   "optionsTitleAccent": "Vienas aiškus vaizdas.",
+   "optionsCopy": "Biomarkerių sritys Tava programėlės peržiūroje, kuriama dabar.",
+   "products": [
+    {
+     "title": "Smegenys",
+     "subtitle": "Susikaupimas ir aiškumas",
+     "badges": [
+      "Netrukus"
+     ],
+     "description": "Markeriai, lemiantys susikaupimą, aiškumą ir kognityvinį tempą, surinkti viename vaizde."
+    },
+    {
+     "title": "Hormonai",
+     "subtitle": "Pusiausvyra",
+     "badges": [
+      "Netrukus"
+     ],
+     "description": "Jūsų hormonų vaizdas laikui bėgant, kad pokyčiai būtų matomi, o ne spėjami."
+    },
+    {
+     "title": "Širdis",
+     "subtitle": "Širdies ir kraujagyslių markeriai",
+     "badges": [
+      "Netrukus"
+     ],
+     "description": "Svarbūs širdies markeriai, sekami kaip tendencija, o ne kaip vienkartinis rodmuo."
+    },
+    {
+     "title": "Medžiagų apykaita",
+     "subtitle": "Energija ir deginimas",
+     "badges": [
+      "Netrukus"
+     ],
+     "description": "Kaip jūsų kūnas naudoja energiją, skaičiais, kuriuos iš tikrųjų galite sekti."
+    },
+    {
+     "title": "Žarnynas",
+     "subtitle": "Virškinimo sveikata",
+     "badges": [
+      "Netrukus"
+     ],
+     "description": "Žarnyno sveikatos signalai, susiję su energija, nuotaika ir atsistatymu."
+    },
+    {
+     "title": "Ilgaamžiškumas",
+     "subtitle": "Biologinis amžius",
+     "badges": [
+      "Netrukus"
+     ],
+     "description": "Ilgas žvilgsnis: kaip jūsų markeriai susideda į biologinio amžiaus vaizdą."
+    }
+   ],
+   "disclaimerLead": "Biomarkerių įžvalgos Tava programėlėje yra tik informacinės. Jos nediagnozuoja, negydo ir neužkerta kelio jokiai būklei.",
+   "disclaimerMore": [
+    "Dėl bet kokio nerimą keliančio rezultato pasitarkite su savo gydytoju. Skubios pagalbos atveju skambinkite 911."
+   ],
+   "protocolEyebrow": "KAIP TAI VEIKS",
+   "protocolTitleLead": "Tyrimas, peržiūra,",
+   "protocolTitleAccent": "tendencijos sekimas.",
+   "protocolCopy": "Viena skydinė žmogui, vadovaujančiam verslui, šalia jūsų serumo plano toje pačioje programėlėje.",
+   "steps": [
+    {
+     "title": "Tyrimas",
+     "lead": "per laboratorijos partnerį",
+     "body": "Jūsų mėginys paimamas ir apdorojamas, o rezultatai patenka į jūsų Tava programėlę."
+    },
+    {
+     "title": "Peržiūra",
+     "lead": "sritis po srities",
+     "body": "Smegenys, hormonai, širdis, medžiagų apykaita, žarnynas ir ilgaamžiškumas, kiekviena sritis su savo vaizdu."
+    },
+    {
+     "title": "Sekimas",
+     "lead": "tendencija laikui bėgant",
+     "body": "Vienas rodmuo yra momentinė nuotrauka. Vertė yra tendencijoje, o programėlė ją saugo už jus."
+    }
+   ],
+   "legalLines": [
+    "Laboratorinių biomarkerių sekimas netrukus pasirodys ir dar nėra atviras užsakymams."
+   ]
+  },
+  "mentalHealth": {
+   "eyebrow": "PSICHIKOS SVEIKATA",
+   "heroTitleLead": "Geriau susikaupkite,",
+   "heroTitleAccent": "su Tava.",
+   "heroCopy": "Parama susikaupimui ir dėmesiui, kuri prasideda nuo klinikinės peržiūros, o ne nuo atsiskaitymo mygtuko.",
+   "heroFinePrint": "Po klinikinės peržiūros. Ši programa kuriama ir dar nėra atvira registracijai.",
+   "stamp": "KLINIKINIO SPECIALISTO PERŽIŪRĖTA PRIEŽIŪRA",
+   "primaryCta": "Žiūrėti, kaip tai veikia",
+   "optionsEyebrow": "PROGRAMA",
+   "optionsTitleLead": "Priežiūra, kuri prasideda",
+   "optionsTitleAccent": "nuo peržiūros.",
+   "optionsCopy": "",
+   "products": [],
+   "disclaimerLead": "Psichikos sveikatos parama Tava prasideda nuo klinikinės peržiūros. Nieko čia nėra diagnozė ar gydymo rekomendacija.",
+   "disclaimerMore": [
+    "Jei esate krizėje arba galvojate apie savęs žalojimą, Jungtinėse Valstijose skambinkite arba rašykite 988. Skubios pagalbos atveju skambinkite 911."
+   ],
+   "protocolEyebrow": "KAIP TAI VEIKIA",
+   "protocolTitleLead": "Pirmiausia peržiūra.",
+   "protocolTitleAccent": "Tada planas.",
+   "protocolCopy": "Atsargus kelias, atvirai, jūsų tempu.",
+   "steps": [
+    {
+     "title": "Peržiūra",
+     "lead": "su klinikiniu specialistu",
+     "body": "Pasidalykite savo istorija ir tuo, su kuo susiduriate, o klinikinis specialistas peržiūrės, ar parama čia jums tinka."
+    },
+    {
+     "title": "Planas",
+     "lead": "sukurtas aplink jus",
+     "body": "Jei tinka, jūsų planas kuriamas pagal jūsų tikslus ir tvarkaraštį."
+    },
+    {
+     "title": "Parama",
+     "lead": "einant toliau",
+     "body": "Patikrinimai padeda planui išlikti sąžiningam, kai viskas keičiasi."
+    }
+   ],
+   "legalLines": [
+    "Psichikos sveikatos pasiūlymai Tava yra kuriami ir dar nėra atviri registracijai."
+   ]
+  },
+  "peptides": {
+   "eyebrow": "PEPTIDŲ PROGRAMOS",
+   "heroTitleLead": "Peptidai,",
+   "heroTitleAccent": "kai gydytojas yra jūsų pusėje.",
+   "heroCopy": "Trylika peptidų programų iš Tava Labs, kiekviena prasideda nuo internetinės konsultacijos ir gydytojo peržiūros.",
+   "heroFinePrint": "Reikalingas receptas. Licencijuotas gydytojas po konsultacijos nusprendžia dėl tinkamumo.",
+   "stamp": "GYDYTOJO VADOVAUJAMOS PROGRAMOS",
+   "primaryCta": "Pradėti konsultaciją",
+   "secondaryCta": "Kaip tai veikia",
+   "optionsEyebrow": "PROGRAMOS",
+   "optionsTitleLead": "Trylika programų.",
+   "optionsTitleAccent": "Viena konsultacija pradeda bet kurią iš jų.",
+   "optionsCopy": "Į kiekvieną programą įskaičiuota $20 konsultacija. Į daugumą įskaičiuoti laboratoriniai tyrimai. Kainos yra mėnesio programų kainos.",
+   "unitPerMonth": "/mėn.",
+   "products": [
+    {
+     "subtitle": "Atsistatymas",
+     "imageAlt": "BPC-157 programos buteliuko iliustracija",
+     "badges": [
+      "Atsistatymas",
+      "Žarnyno sveikata",
+      "Laboratoriniai tyrimai įskaičiuoti"
+     ],
+     "description": "BPC-157 iš Tava Labs. Gydytojo peržiūra ir tolesnė priežiūra yra programos dalis.",
+     "linkLabel": "Žiūrėti programą"
+    },
+    {
+     "subtitle": "Žarnyno sveikata",
+     "imageAlt": "CJC-1295 + Ipamorelin programos buteliuko iliustracija",
+     "badges": [
+      "Žarnyno sveikata",
+      "Miegas",
+      "Atsistatymas",
+      "Ilgaamžiškumas",
+      "Laboratoriniai tyrimai įskaičiuoti"
+     ],
+     "description": "CJC-1295 + Ipamorelin iš Tava Labs. Gydytojo peržiūra ir tolesnė priežiūra yra programos dalis.",
+     "linkLabel": "Žiūrėti programą"
+    },
+    {
+     "subtitle": "Ilgaamžiškumas",
+     "imageAlt": "GHK-Cu programos buteliuko iliustracija",
+     "badges": [
+      "Ilgaamžiškumas",
+      "Laboratoriniai tyrimai įskaičiuoti"
+     ],
+     "description": "GHK-Cu iš Tava Labs. Gydytojo peržiūra ir tolesnė priežiūra yra programos dalis.",
+     "linkLabel": "Žiūrėti programą"
+    },
+    {
+     "subtitle": "Atsistatymas",
+     "imageAlt": "GLOW Injection programos buteliuko iliustracija",
+     "badges": [
+      "Atsistatymas",
+      "Laboratoriniai tyrimai įskaičiuoti"
+     ],
+     "description": "GLOW Injection iš Tava Labs. Gydytojo peržiūra ir tolesnė priežiūra yra programos dalis.",
+     "linkLabel": "Žiūrėti programą"
+    },
+    {
+     "subtitle": "Svorio mažėjimas",
+     "imageAlt": "MOTS-C programos buteliuko iliustracija",
+     "badges": [
+      "Svorio mažėjimas",
+      "Energija",
+      "Rezultatai",
+      "Laboratoriniai tyrimai įskaičiuoti"
+     ],
+     "description": "MOTS-C iš Tava Labs. Gydytojo peržiūra ir tolesnė priežiūra yra programos dalis.",
+     "linkLabel": "Žiūrėti programą"
+    },
+    {
+     "subtitle": "Ilgaamžiškumas",
+     "imageAlt": "NAD+ Injectable programos buteliuko iliustracija",
+     "badges": [
+      "Ilgaamžiškumas",
+      "Energija",
+      "Atsistatymas",
+      "Susikaupimas"
+     ],
+     "description": "NAD+ Injectable iš Tava Labs. Gydytojo peržiūra ir tolesnė priežiūra yra programos dalis.",
+     "linkLabel": "Žiūrėti programą"
+    },
+    {
+     "subtitle": "Seksualinė sveikata",
+     "imageAlt": "PT-141 programos buteliuko iliustracija",
+     "badges": [
+      "Seksualinė sveikata",
+      "Laboratoriniai tyrimai įskaičiuoti"
+     ],
+     "description": "PT-141 iš Tava Labs. Gydytojo peržiūra ir tolesnė priežiūra yra programos dalis.",
+     "linkLabel": "Žiūrėti programą"
+    },
+    {
+     "subtitle": "Svorio mažėjimas",
+     "imageAlt": "Semaglutide + B12 (Cyanocobalamin) programos buteliuko iliustracija",
+     "badges": [
+      "Svorio mažėjimas",
+      "Laboratoriniai tyrimai įskaičiuoti"
+     ],
+     "description": "Semaglutide + B12 (Cyanocobalamin) iš Tava Labs. Gydytojo peržiūra ir tolesnė priežiūra yra programos dalis.",
+     "linkLabel": "Žiūrėti programą"
+    },
+    {
+     "subtitle": "Ilgaamžiškumas",
+     "imageAlt": "Sermorelin programos buteliuko iliustracija",
+     "badges": [
+      "Ilgaamžiškumas",
+      "Atsistatymas",
+      "Rezultatai",
+      "Laboratoriniai tyrimai įskaičiuoti"
+     ],
+     "description": "Sermorelin iš Tava Labs. Gydytojo peržiūra ir tolesnė priežiūra yra programos dalis.",
+     "linkLabel": "Žiūrėti programą"
+    },
+    {
+     "subtitle": "Rezultatai",
+     "imageAlt": "TB-500 programos buteliuko iliustracija",
+     "badges": [
+      "Rezultatai",
+      "Atsistatymas",
+      "Laboratoriniai tyrimai įskaičiuoti"
+     ],
+     "description": "TB-500 iš Tava Labs. Gydytojo peržiūra ir tolesnė priežiūra yra programos dalis.",
+     "linkLabel": "Žiūrėti programą"
+    },
+    {
+     "subtitle": "Ilgaamžiškumas",
+     "imageAlt": "Tesamorelin programos buteliuko iliustracija",
+     "badges": [
+      "Ilgaamžiškumas",
+      "Atsistatymas",
+      "Rezultatai",
+      "Laboratoriniai tyrimai įskaičiuoti"
+     ],
+     "description": "Tesamorelin iš Tava Labs. Gydytojo peržiūra ir tolesnė priežiūra yra programos dalis.",
+     "linkLabel": "Žiūrėti programą"
+    },
+    {
+     "subtitle": "Svorio mažėjimas",
+     "imageAlt": "Tirzepatide + B12 (Cyanocobalamin) programos buteliuko iliustracija",
+     "badges": [
+      "Svorio mažėjimas",
+      "Laboratoriniai tyrimai įskaičiuoti"
+     ],
+     "description": "Tirzepatide + B12 (Cyanocobalamin) iš Tava Labs. Gydytojo peržiūra ir tolesnė priežiūra yra programos dalis.",
+     "linkLabel": "Žiūrėti programą"
+    },
+    {
+     "subtitle": "Atsistatymas",
+     "imageAlt": "Wolverine Injection programos buteliuko iliustracija",
+     "badges": [
+      "Atsistatymas",
+      "Laboratoriniai tyrimai įskaičiuoti"
+     ],
+     "description": "Wolverine Injection iš Tava Labs. Gydytojo peržiūra ir tolesnė priežiūra yra programos dalis.",
+     "linkLabel": "Žiūrėti programą"
+    }
+   ],
+   "disclaimerLead": "Sudėtiniai vaistai yra ruošiami licencijuotų vaistinių atskiriems pacientams. Jie nėra patvirtinti FDA, o FDA netikrina sudėtinių vaistų saugos, veiksmingumo ar kokybės.",
+   "disclaimerMore": [
+    "Medicininę priežiūrą teikia nepriklausomi, licencijuoti gydytojai. Gydytojai savarankiškai nusprendžia, ar gydymas jums tinka; pirkimas negarantuoja recepto.",
+    "Licencijuotas gydytojas peržiūri jūsų informaciją ir savarankiškai nusprendžia, ar gydymas jums tinka. Pirkimas negarantuoja recepto.",
+    "Skubios pagalbos atveju skambinkite 911."
+   ],
+   "protocolEyebrow": "KAIP TAI VEIKIA",
+   "protocolTitleLead": "Konsultacija, peržiūra,",
+   "protocolTitleAccent": "tada pradžia.",
+   "protocolCopy": "Kiekviena programa vykdoma per nepriklausomus licencijuotus gydytojus.",
+   "protocolCta": "Pradėti konsultaciją",
+   "steps": [
+    {
+     "title": "Konsultacija",
+     "lead": "internetu, pagal jūsų tvarkaraštį",
+     "body": "Užpildykite internetinę konsultaciją pasirinktai programai. Konsultacija kainuoja $20."
+    },
+    {
+     "title": "Peržiūra",
+     "lead": "licencijuoto gydytojo",
+     "body": "Gydytojas peržiūri jūsų informaciją ir tyrimus ir savarankiškai nusprendžia, ar gydymas jums tinka."
+    },
+    {
+     "title": "Pradžia",
+     "lead": "jei paskirta",
+     "body": "Jūsų vaistai siunčiami iš licencijuotos vaistinės, o gydytojas stebi jus programai tęsiantis."
+    }
+   ],
+   "legalLines": [
+    "Mūsų peptidų parduotuvė šiuo metu veikia bandomuoju režimu, todėl programos rodomos peržiūrai ir dar nėra atviros tikriems užsakymams.",
+    "Skubios pagalbos atveju skambinkite 911."
+   ]
+  }
+ },
+ "product": {
+  "breadcrumbHome": "Pradžia",
+  "inStock": "Yra sandėlyje",
+  "cleanVegan": "Švarus ir veganiškas • Aktyvus PDRN",
+  "dermTested": "Patikrinta dermatologų • Sukurta visiems odos tipams",
+  "titleLead": "PDRN Brightening",
+  "titleAccent": "Serum",
+  "pricePerUnit": "/ 30ml (1 fl oz)",
+  "subPrice": "arba $39 per mėnesį su Subscribe and Save",
+  "bullets": [
+   "PDRN, Acetyl Hexapeptide-8 ir hialurono rūgštis, padedantys odai atrodyti lygesnei ir skaistesnei.",
+   "Gilus drėkinimas iš glicerino, Sodium PCA ir Panthenol.",
+   "100 proc. be žiauraus elgesio su gyvūnais, be kvapiųjų medžiagų, be parabenų, be sulfatų, be mineralinės alyvos, be silikonų ir veganiškas."
+  ],
+  "viewFormulation": "Žiūrėti visą formulę ir klinikinius tyrimus",
+  "details": [
+   {
+    "title": "Susipažinkite su PDRN Brightening Serum",
+    "body": "Lengva, drėkinanti formulė lygesnei, skaistesnei atrodančiai odai. Greitai susigeria, nepalieka likučių ir palaiko odos komfortą."
+   },
+   {
+    "title": "Sudėtis ir formulė",
+    "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin."
+   },
+   {
+    "title": "Kaip tepti",
+    "body": "Užtepkite 2 iki 4 lašus ant švarios, sausos odos. Švelniai masažuokite veidą ir kaklą, kol susigers. Naudokite du kartus per dieną, ryte ir vakare. Po to tepkite drėkiklį arba apsaugą nuo saulės."
+   },
+   {
+    "title": "Švarios odos priežiūros garantija",
+    "body": "Sukurta pagal sertifikuotus standartus be žiauraus elgesio su gyvūnais ir pagaminta be kvapiųjų medžiagų, silikonų, parabenų, mineralinės alyvos, sulfatų, ftalatų ar įprastų alergenų. Patikrinta dermatologų visiems odos tipams."
+   }
+  ],
+  "innovation": {
+   "label": "Ląstelių inovacija",
+   "titleLead": "Naujos kartos odos",
+   "titleAccent": "Atsinaujinimas",
+   "sub": "Jūrinės veikliosios medžiagos ir tiksliniai heksapeptidai, viename kasdieniame serume.",
+   "items": [
+    {
+     "label": "Ląstelių atsinaujinimas",
+     "title": "PDRN bioaktyviosios medžiagos",
+     "body": "Jūrinis PDRN spartina ląstelių kaitą, gaivina blankią veido odą ir lygina matomą tekstūrą."
+    },
+    {
+     "label": "Bio peptidų kompleksas",
+     "title": "Acetyl Hexapeptide-8",
+     "body": "Signaliniai peptidai mažina paviršiaus įtampą ir palaiko natūralų kolageno elastingumą, kad oda atrodytų stangresnė ir elastingesnė."
+    },
+    {
+     "label": "Gilus drėkinimas",
+     "title": "Drėkinimo matrica",
+     "body": "Hialurono rūgštis, Sodium PCA ir Panthenol kartu sulaiko drėgmę odos barjere ilgiau nei 24 valandas."
+    }
+   ],
+   "imgAlts": [
+    "Serumo tekstūra",
+    "Kristalas ir formulė",
+    "Kristalo pavyzdys"
+   ],
+   "footnote": "*Biologinis ląstelių aktyvumas įvertintas in vitro ir ex vivo klinikiniais vertinimais. Rezultatai gali skirtis priklausomai nuo individualios odos būklės."
+  },
+  "ecosystem": {
+   "label": "Visas planas",
+   "title": "Gaukite visą rutinos paramą",
+   "sub": "Kartu su serumu kiekvienas Tava Labs planas apima:",
+   "items": [
+    "Asmeninę odos diagnostiką ir rutinos vadovą iš jūsų odos testo",
+    "Gydymo planą, kuris prasideda lėtai ir stiprėja laikui bėgant",
+    "Tepimo priminimus, kuriuos valdote jūs, ryte ir vakare",
+    "Žinučių pagalbą tiesiog programėlėje",
+    "Subscribe and Save pristatymą kiekvieną mėnesį, pristabdykite arba atšaukite bet kada"
+   ],
+   "note": "Pristabdykite, koreguokite arba atšaukite Subscribe and Save bet kada. Vienkartiniai pirkiniai lieka prieinami už $49."
+  },
+  "clinical": {
+   "label": "Klinikinis veiksmingumas",
+   "titleLead": "Rūpinkitės savo",
+   "titleAccent": "odos sveikata",
+   "imgAlts": [
+    "Skaistumą skatinanti diagrama",
+    "Gilų drėkinimą palaikanti diagrama",
+    "Odos tekstūrą gerinanti diagrama"
+   ],
+   "note": "Vietinio poveikio bioaktyvių medžiagų vertinimai, pagrįsti 8 savaičių vartotojų suvokimu ir instrumentiniais drėkinimo tyrimais. Individualūs odos barjerai, genetika ir aplinka turi įtakos konkretiems terminams ir rezultatams."
+  },
+  "formulary": {
+   "label": "Formulynas",
+   "title": "Kokia odos priežiūros priemonė jums tinka?",
+   "sub": "Tikslinės formulės skirtingiems odos tikslams, rūpesčiams ir rutinoms. Sukurkite režimą, tinkantį darbo tvarkaraščiui.",
+   "serumAlt": "PDRN Brightening Serum",
+   "serumPriceLine": "Subscribe and Save $39/mėn.",
+   "serumOneTime": "arba $49 vieną kartą",
+   "primaryBenefit": "Pagrindinė nauda",
+   "howToUse": "Kaip naudoti",
+   "activeIngredient": "Veiklioji medžiaga",
+   "serumBenefitValue": "Švytėjimas ir stangrumas",
+   "serumHowValue": "Ryte ir vakare",
+   "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
+   "selectSerum": "Pasirinkti serumą",
+   "comingSoon": "Netrukus",
+   "status": "Būsena",
+   "sizeLabel": "Dydis",
+   "others": [
+    {
+     "rows": [
+      [
+       "Pagrindinė nauda",
+       "Kasdienis drėkinimas"
+      ],
+      [
+       "Dydis",
+       "1.7 fl oz (50ml)"
+      ]
+     ]
+    },
+    {
+     "rows": [
+      [
+       "Pagrindinė nauda",
+       "Akių srities priežiūra"
+      ],
+      [
+       "Dydis",
+       "1 fl oz (30ml)"
+      ]
+     ]
+    },
+    {
+     "rows": [
+      [
+       "Pagrindinė nauda",
+       "Stangrinimas ir drėkinimas"
+      ],
+      [
+       "Dydis",
+       "2 oz (56g)"
+      ],
+      [
+       "Veiklioji medžiaga",
+       "Hialurono rūgštis ir CoQ10"
+      ]
+     ]
+    },
+    {
+     "rows": [
+      [
+       "Pagrindinė nauda",
+       "Galvos odos ir plaukų priežiūra"
+      ],
+      [
+       "Dydis",
+       "1 fl oz (30ml)"
+      ]
+     ]
+    }
+   ]
+  },
+  "protocol": {
+   "label": "Kasdienės rutinos protokolas",
+   "titleLead": "Viena paprasta rutina,",
+   "titleAccent": "du kartus per dieną",
+   "sub": "Nuoseklumas yra svarbus. Atlikite šiuos žingsnius ryte ir vakare, kad peptidai ir PDRN galėtų atlikti savo darbą, ir užbaikite užrakindami drėgmę.",
+   "progressionLabel": "Klinikinė pažanga",
+   "progressionTitle": "Matomų rezultatų laiko juosta",
+   "progressionBody": "Sustiprėjęs spindesys ir drėkinimas per 7 iki 14 dienų; pagerėjęs odos elastingumas ir barjero stangrumas iki 4 iki 6 savaitės.",
+   "timelineAlt": "Rezultatų laiko juostos pavyzdys, 1 iki 4 savaitės ir vėliau",
+   "steps": [
+    {
+     "title": "Valykite švelnia priemone",
+     "body": "Valykite švelnia, pH subalansuota priemone, kad pašalintumėte nešvarumus ir paruoštumėte odą, nenuplėšdami jos natūralių lipidų."
+    },
+    {
+     "title": "PDRN serumas, 2 iki 4 lašai",
+     "body": "Užtepkite 2 iki 4 lašus PDRN serumo ant drėgnos odos. Švelniai įspauskite ir tapšnokite veidą ir kaklą, kol visiškai susigers."
+    },
+    {
+     "title": "Drėkinkite ir palaikykite drėgmę",
+     "body": "Užrakinkite drėkikliu, kad peptidai išliktų ir būtų palaikomas keramidų barjeras."
+    },
+    {
+     "title": "Apsauga (tik ryte), SPF 30+",
+     "body": "Ryto rutiną užbaikite plataus spektro SPF 30+, kad apsaugotumėte odą nuo UV ir laisvųjų radikalų žalos."
+    },
+    {
+     "title": "Jūsų asmeninis planas, įskaičiuotas",
+     "body": "Jūsų odos testas sukuria jūsų planą, įskaitant tai, kaip pradėti lėtai ir kada stiprinti."
+    }
+   ]
+  },
+  "faqSection": {
+   "label": "Atsakymai ir aiškumas",
+   "title": "Dažnai užduodami klausimai",
+   "viewAll": "Žiūrėti visus DUK",
+   "items": [
+    {
+     "q": "Kas yra PDRN ir kuo jis naudingas odai?",
+     "a": "PDRN (Polydeoxyribonucleotide) sudarytas iš DNR fragmentų, biologiškai suderinamų su žmogaus odos ląstelėmis. Jis skatina natūralų ląstelių atsinaujinimą, stimuliuoja mikrocirkuliaciją ir padeda atkurti odos barjerą, kad oda matomai spindėtų ir būtų stangri."
+    },
+    {
+     "q": "Kaip įtraukti PDRN Brightening Serum į savo odos priežiūros rutiną?",
+     "a": "Naudokite PDRN Brightening Serum du kartus per dieną po valymo ir tonizavimo. Užlašinkite 2 iki 4 lašus tiesiai ant pirštų galiukų arba drėgnos odos, išlygindami per veidą, kaklą ir dekoltė. Po to tepkite drėkiklį ir ryto apsaugą nuo saulės."
+    },
+    {
+     "q": "Ar šis serumas tinka jautriai ir į spuogus linkusiai odai?",
+     "a": "Taip. Mūsų formulė yra nekomedogeninė, be aliejų, be kvapiųjų medžiagų ir praturtinta raminančiu Panthenol. Ji ramina jautrumą ir giliai drėkina, neužkimšdama porų ir nesukeldama dirginimo."
+    },
+    {
+     "q": "Ar galiu PDRN derinti su retinoliu, vitaminu C arba AHA/BHA?",
+     "a": "Taip. PDRN gerai veikia kartu su aktyviomis priemonėmis, tokiomis kaip retinoidai ir vitaminas C. Jo drėkinanti bazė padeda raminti pleiskanojimą ar paraudimą, kurį gali sukelti cheminiai šveitikliai."
+    },
+    {
+     "q": "Kiek paprastai užtenka vieno 30ml buteliuko?",
+     "a": "Tepant po 2 iki 4 lašus du kartus per dieną, vieno 30ml (1 fl oz) buteliuko paprastai užtenka 4 iki 6 savaitėms. Subscribe and Save atsiunčia kitą buteliuką dar prieš pasibaigiant."
+    }
+   ]
+  },
+  "finalCta": {
+   "title": "Jūsų veidas yra kiekviename pristatyme. Laikykite jį pasiruošusį.",
+   "line": "PDRN Brightening Serum · $49.00 / 30ml · Švarus ir veganiškas · Gilus drėkinimas · Atšaukite bet kada"
+  },
+  "gallery": {
+   "view": "Vaizdas {n}",
+   "alts": [
+    "PDRN Brightening Serum buteliukas",
+    "Serumo buteliuko vaizdas 2",
+    "Serumo buteliuko vaizdas 3",
+    "Serumo buteliuko vaizdas 4",
+    "Serumo buteliuko vaizdas 5"
+   ]
+  }
+ },
+ "about": {
+  "label": "Apie mus",
+  "titleLead": "Odos priežiūra",
+  "titleAccent": "ambicingiems žmonėms.",
+  "tagline": "Kurkite savo verslą. Nepamirškite savęs.",
+  "p1": "Tava Labs yra asmeninės priežiūros prekės ženklas žmonėms, kuriantiems verslus. Jūsų išvaizda yra jūsų profesinio įvaizdžio dalis. Tai, kaip pasirodote prieš kamerą, pristatymo metu ir kambaryje, yra dalis to, kaip skaitomas jūsų darbas.",
+  "p2": "Mes kuriame vieną dalyką ir kuriame jį gerai. Kasdienį serumą, kuris palaiko jūsų odą susikaupusią, sudrėkintą ir pasiruošusią, be sudėtingos rutinos.",
+  "p3": "Tava Labs buvo įkurta įkūrėjams, kūrėjams ir specialistams, kurie investuoja į žmogų, stovintį už įmonės. Vienas žingsnis, ryte ir vakare, prieš susitikimus, pristatymus ir darbą prieš kamerą.",
+  "p4": "Tai odos priežiūra kaip priežiūra, o ne tuštybė. Ta pati disciplina, kurią taikote savo verslui, pritaikyta jums patiems.",
+  "serumLabel": "Serumas",
+  "serumTitle": "PDRN Brightening Serum",
+  "serumAlt": "PDRN Brightening Serum",
+  "serumBody": "Kasdienė veido odos rutina, sukurta aplink PDRN (Polydeoxyribonucleotide) ir Acetyl Hexapeptide-8, su Sodium Hyaluronate ir Panthenol drėkinimui ir komfortui. Švari ir be kvapiųjų medžiagų, pagaminta be nieko iš mūsų sąrašo, ko nededame.",
+  "bullets": [
+   "PDRN skaistesnei, lygesnei atrodančiai veido odai.",
+   "Acetyl Hexapeptide-8, palaikantis stangrumo išvaizdą.",
+   "Sodium Hyaluronate ir Panthenol drėkinimui.",
+   "Naudokite du kartus per dieną: 2 iki 4 paspaudimus ant švarios, sausos odos, ryte ir vakare."
+  ],
+  "priceLine": "$49 vieną kartą, arba $39 per mėnesį su Subscribe & Save.",
+  "philosophyLabel": "Mūsų filosofija",
+  "quote": "„Sveika oda yra patraukliausias dalykas, kurį galite dėvėti.“",
+  "philosophyCaption": "Tava Labs filosofija",
+  "philosophyP1": "Tikime, kad savimi reikia rūpintis taip, kaip rūpinatės savo darbu: nuosekliai ir be dramos. Maža kasdienė priežiūra nugali retkarčiais atliekamus didelius pertvarkymus.",
+  "philosophyP2": "Mes nežadame transformacijos. Kuriame gerai suformuluotą kasdienį serumą, tiksliai pasakome, kas jame yra, ir leidžiame rutinai kalbėti pačiai už save.",
+  "onlineTitle": "Tik internetu",
+  "onlineSegments": [
+   {
+    "text": "Tava Labs yra tik internetu veikiantis prekės ženklas. Klausimai? Rašykite "
+   },
+   {
+    "text": "talia@tavalabs.app",
+    "href": "mailto:talia@tavalabs.app"
+   },
+   {
+    "text": "."
+   }
+  ],
+  "contactUs": "Susisiekite su mumis"
+ },
+ "contact": {
+  "label": "Susisiekite su mumis",
+  "title": "Mielai išgirstume jus.",
+  "sub": "Parašykite mums el. laišką ir mes atsakysime. Pasirinkite tinkančią temą arba rašykite mums tiesiogiai.",
+  "emailLabel": "El. paštas:",
+  "phoneLabel": "Telefonas:",
+  "topics": {
+   "general": {
+    "title": "Bendri klausimai",
+    "body": "Bendri klausimai apie Tava Labs ir serumą."
+   },
+   "wholesale": {
+    "title": "Didmeninė prekyba",
+    "body": "Didmeninės ir mažmeninės prekybos užklausos dėl PDRN Brightening Serum."
+   },
+   "sales-support": {
+    "title": "Pardavimų pagalba",
+    "body": "Klausimai apie užsakymą, Subscribe & Save ir atsiskaitymą."
+   },
+   "product-support": {
+    "title": "Pagalba dėl produkto",
+    "body": "Pagalba naudojant serumą, rutinas ir jūsų asmeninį planą."
+   },
+   "partnerships": {
+    "title": "Partnerystė",
+    "body": "Partnerystė su akseleratoriais, universitetais, investuotojais ir bendruomenėmis."
+   },
+   "pr": {
+    "title": "Viešieji ryšiai",
+    "body": "Spaudos ir žiniasklaidos užklausos."
+   }
+  }
+ },
+ "faq": {
+  "label": "DUK",
+  "titleLead": "Dažnai užduodami",
+  "titleAccent": "Klausimai",
+  "sub": "Atsakymai apie serumą, užsakymą, pristatymą ir jūsų asmeninį planą.",
+  "items": [
+   {
+    "q": "Kas yra PDRN Brightening Serum?",
+    "a": [
+     {
+      "text": "Kasdienis serumas, sukurtas aplink PDRN (Polydeoxyribonucleotide) ir Acetyl Hexapeptide-8, su Sodium Hyaluronate ir Panthenol. Tai kasdienė veido odos rutina: tepkite ryte ir vakare, kad palaikytumėte skaistesnę, lygesnę atrodančią veido odą ir susikaupusią, kamerai pasiruošusią išvaizdą."
+     }
+    ]
+   },
+   {
+    "q": "Kaip jį naudoti?",
+    "a": [
+     {
+      "text": "Užtepkite 2 iki 4 lašus ant švarios, sausos odos, ryte ir vakare. Po to tepkite drėkiklį. Jei esate naujokas aktyvios odos priežiūros srityje, pirmą savaitę pradėkite kartą per dieną, tada pereikite prie dviejų kartų per dieną."
+     }
+    ]
+   },
+   {
+    "q": "Kaip gauti asmeninį planą?",
+    "a": [
+     {
+      "text": "Atlikite "
+     },
+     {
+      "text": "Odos testą",
+      "href": "/quiz"
+     },
+     {
+      "text": ". Jūsų atsakymai sukuria asmeninį planą, įskaitant tai, kaip pradėti lėtai ir kada stiprinti."
+     }
+    ]
+   },
+   {
+    "q": "Kiek tai kainuoja?",
+    "a": [
+     {
+      "text": "$49 vieną kartą, arba $39 per mėnesį su Subscribe & Save (20 proc. nuolaida). Subscribe & Save galima pristabdyti, praleisti arba atšaukti bet kada."
+     }
+    ]
+   },
+   {
+    "q": "Kaip veikia pristatymas?",
+    "a": [
+     {
+      "text": "Užsakymus vykdo mūsų partneris ir siunčia adresu, kurį nurodote atsiskaitydami. Žiūrėkite "
+     },
+     {
+      "text": "Pristatymo politiką",
+      "href": "/shipping"
+     },
+     {
+      "text": " dėl išsamesnės informacijos."
+     }
+    ]
+   },
+   {
+    "q": "Kokia yra jūsų grąžinimo politika?",
+    "a": [
+     {
+      "text": "Visi pardavimai yra galutiniai. Prieš užsakydami perskaitykite "
+     },
+     {
+      "text": "Grąžinimo politiką",
+      "href": "/returns"
+     },
+     {
+      "text": " prieš užsakydami."
+     }
+    ]
+   },
+   {
+    "q": "Kokios sudedamosios dalys jame yra?",
+    "a": [
+     {
+      "text": "Visas sudedamųjų dalių sąrašas yra "
+     },
+     {
+      "text": "Sudėties puslapyje",
+      "href": "/ingredients"
+     },
+     {
+      "text": ". Serumas yra be kvapiųjų medžiagų ir pagamintas be parabenų, sulfatų, silikonų, mineralinės alyvos, ftalatų ir įprastų alergenų."
+     }
+    ]
+   },
+   {
+    "q": "Ar jis tinka mano odos tipui?",
+    "a": [
+     {
+      "text": "Serumas suformuluotas taip, kad tiktų visiems odos tipams. Jei turite odos būklę ar rūpesčių, prieš pradėdami bet kokią naują odos priežiūrą pasitarkite su dermatologu."
+     }
+    ]
+   },
+   {
+    "q": "Kaip su jumis susisiekti?",
+    "a": [
+     {
+      "text": "Rašykite talia@tavalabs.app arba naudokite "
+     },
+     {
+      "text": "Susisiekite su mumis",
+      "href": "/contact"
+     },
+     {
+      "text": " puslapį."
+     }
+    ]
+   }
+  ]
+ },
+ "ingredients": {
+  "label": "Sudėtis",
+  "titleLead": "Kas yra viduje, ir",
+  "titleAccent": "ko nededame.",
+  "intro": "Čia yra kiekviena PDRN Brightening Serum sudedamoji dalis, ką kiekviena daro, ir visas sąrašas tiksliai taip, kaip jis pateiktas etiketėje.",
+  "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Pagaminta JAV · Tinka visiems odos tipams.",
+  "keyTitle": "Pagrindinės sudedamosios dalys",
+  "keyItems": [
+   {
+    "name": "PDRN (Polydeoxyribonucleotide)",
+    "body": "Pagrindinė veiklioji medžiaga. Palaiko skaistesnę, lygesnę atrodančią veido odą ir susikaupusią, kamerai pasiruošusią išvaizdą."
+   },
+   {
+    "name": "Acetyl Hexapeptide-8",
+    "body": "Peptidas, palaikantis stangrumo ir lygumo išvaizdą."
+   },
+   {
+    "name": "Sodium Hyaluronate (Hyaluronic Acid)",
+    "body": "Pritraukia drėgmę sudrėkintai, komfortiškai odai."
+   },
+   {
+    "name": "Panthenol",
+    "body": "Ramina ir palaiko odos barjerą."
+   },
+   {
+    "name": "Glycerin + Sodium PCA",
+    "body": "Drėkikliai, padedantys odai visą dieną išlaikyti vandenį."
+   }
+  ],
+  "fullTitle": "Visa sudėtis",
+  "howTitle": "Kaip naudoti",
+  "howBody": "Užtepkite 2 iki 4 paspaudimus ant švarios, sausos odos, ryte ir vakare. Po to tepkite drėkiklį. Pradėkite kartą per dieną, jei esate naujokas aktyvios odos priežiūros srityje.",
+  "warningTitle": "Įspėjimas",
+  "warningBody": "Tik išoriniam naudojimui. Venkite tiesioginio kontakto su akimis. Jei atsiranda dirginimas, nutraukite naudojimą. Laikykite vaikams nepasiekiamoje vietoje."
+ },
+ "partners": {
+  "label": "Tapkite Tava Labs partneriu",
+  "titleLead": "Padovanokite savo įkūrėjams nemokamą mėnesį",
+  "titleAccent": "Tava Labs.",
+  "intro": "Tava Labs bendradarbiauja su akseleratoriais, universitetais, angelais investuotojais ir įkūrėjų bendruomenėmis. Jūsų nariai pirmą PDRN Brightening Serum mėnesį gauna nemokamai, kad žmonės, kuriantys įmones, galėtų pasirūpinti žmogumi, stovinčiu už įmonės.",
+  "tagline": "Nemokamas mėnuo, mūsų sąskaita, be jokių įsipareigojimų.",
+  "becomePartner": "Tapti partneriu",
+  "partnershipsContact": "Partnerystės kontaktas",
+  "audiences": [
+   {
+    "alt": "Startuolių įkūrėjai akseleratoriaus sesijoje",
+    "title": "Akseleratoriams",
+    "body": "Jūsų įkūrėjai nuo pirmos dienos pristato, demonstruoja ir filmuoja turinį. Padovanokite jiems mėnesį kasdienės priežiūros, kuri padeda jiems pasirodyti susikaupusiems ir pasiruošusiems kamerai, ir vienu rūpesčiu mažiau programos metu.",
+    "how": "Kaip tai veikia: kiekvienam jūsų kohortos įkūrėjui išsiunčiame vieną nemokamą buteliuką su asmeniniu planu iš odos testo. Jūs mus pristatote vieną kartą; visa kita sutvarkome mes."
+   },
+   {
+    "alt": "Universiteto studentai miestelyje",
+    "title": "Universitetams",
+    "body": "Verslumo studentai kuria viešai: pristatymų konkursai, demonstravimo dienos, įkūrėjų pokalbiai ir pirmieji susitikimai su investuotojais. Nemokamas Tava Labs mėnuo yra praktiška, įsimintina dovana jūsų programos studentams.",
+    "how": "Kaip tai veikia: jūsų kohortai, klasei ar renginiui suteikiame buteliukus ir paprastą atmintinę. Universitetui jokios kainos ir studentams jokios kainos."
+   },
+   {
+    "alt": "Investuotojo susitikimas su įkūrėju",
+    "title": "Angelams investuotojams",
+    "body": "Jūs remiate žmogų taip pat kaip ir įmonę. Nemokamas Tava Labs mėnuo yra apgalvota dovana jūsų portfelio įkūrėjams ir palaiko žmonių, į kuriuos investavote, kasdienę rutiną.",
+    "how": "Kaip tai veikia: pasakykite mums, kiek įkūrėjų norėtumėte apdovanoti, ir mes suorganizuojame pristatymą bei jų asmeninius planus. Jums jokios kainos ir jiems jokios kainos."
+   }
+  ],
+  "whyTitleLead": "Nulinė kaina. Nulinės pastangos.",
+  "whyTitleAccent": "Tikra vertė.",
+  "why": [
+   {
+    "title": "Daugiau vertės nuo pirmos dienos",
+    "body": "Jūsų nariai gauna tikrą produktą ir asmeninį planą, o ne nuolaidos kodą, kurį pamirš."
+   },
+   {
+    "title": "Jums nulinė kaina",
+    "body": "Pirmas mėnuo yra mūsų sąskaita kiekvienam žmogui, kurį apdovanojate."
+   },
+   {
+    "title": "Jums nulinės pastangos",
+    "body": "Mes tvarkome pristatymą, įvedimą ir pagalbą. Jūs pristatote vieną kartą."
+   },
+   {
+    "title": "Dovana, kurią jie iš tikrųjų naudos",
+    "body": "Vienas žingsnis, ryte ir vakare. Ji tinka įkūrėjo tvarkaraščiui, nes buvo sukurta būtent tokiam."
+   }
+  ],
+  "formulationTitle": "Švari, apgalvota formulė.",
+  "formulationSub": "Serumas pagamintas be sudedamųjų dalių, dėl kurių jūsų nariai klausia dažniausiai:",
+  "stepsTitle": "Kaip veikia partnerystė",
+  "steps": [
+   {
+    "title": "Susisiekite",
+    "body": "Papasakokite mums apie savo programą ir kiek žmonių norėtumėte apdovanoti."
+   },
+   {
+    "title": "Mes suorganizuojame dovaną",
+    "body": "Išsiunčiame serumą ir kiekvienam žmogui sukuriame asmeninį planą iš odos testo."
+   },
+   {
+    "title": "Jūs įteikiate dovaną",
+    "body": "Jūsų nariai gauna nemokamą kasdienės priežiūros mėnesį, su mūsų padėka jums kiekvienoje dėžutėje."
+   }
+  ],
+  "closingTitleLead": "Įdėkime nemokamą mėnesį jūsų įkūrėjams į",
+  "closingTitleAccent": "rankas.",
+  "closingSegments": [
+   {
+    "text": "Rašykite "
+   },
+   {
+    "text": "talia@tavalabs.app",
+    "href": "mailto:talia@tavalabs.app"
+   },
+   {
+    "text": " arba skambinkite "
+   },
+   {
+    "text": "909-906-1308",
+    "href": "tel:+19099061308"
+   },
+   {
+    "text": ", ir mes viską sutvarkysime."
+   }
+  ]
+ },
+ "blog": {
+  "label": "The Tava Journal",
+  "titleLead": "Miego ir streso tyrimai",
+  "titleAccent": "įkūrėjams",
+  "sub": "Miego mokslas, streso tyrimai ir įžvalgos apie darbingumą įkūrėjams.",
+  "readStory": "Skaityti istoriją"
+ },
+ "research": {
+  "pill": "Tyrimų serija 001 · Dalyvių rezultatai",
+  "h1Lead": "16 savaičių žvilgsnis į išmatuotus",
+  "h1Accent": "odos pokyčius.",
+  "heroSub": "Perspektyvinė, atviro žymėjimo dalyvių programa, derinanti asmeninę odos priežiūros rutiną, papildus ir gyvenimo būdo rekomendacijas. Kiekvienas skaičius šiame puslapyje yra iš ataskaitos, išmatuotas pradiniame lygyje ir 16 savaitę.",
+  "chips": [
+   "Perspektyvinė ir atviro žymėjimo",
+   "Viena grupė",
+   "Prižiūrima medikų",
+   "Klinikinių tyrimų vieta gyvai"
+  ],
+  "headlineLabel": "Pagrindinis rezultatas",
+  "headlineTitle": "Bendras spuogų pažeidimų skaičius sumažėjo nuo 16.8 iki 6.2",
+  "slopeAria": "Nuolydžio diagrama, rodanti bendrą spuogų pažeidimų skaičių nuo 16.8 pradiniame lygyje iki 6.2 ties 16 savaite",
+  "slopeBaseline": "Pradinis lygis 16.8",
+  "slopeWeek": "16 savaitė · 6.2",
+  "slopeNote": "Tiesi linija tik tarp dviejų išmatuotų taškų. Ataskaitoje nebuvo paskelbtos rezultatų vertės 4, 8 ar 12 savaitėms.",
+  "badges": [
+   {
+    "big": "60 proc. didesnis",
+    "small": "Odos drėkinimas, 29.4 AU iki 47.1 AU"
+   },
+   {
+    "big": "52 proc. mažesnis",
+    "small": "Klinikinis tekstūros balas, 2.7 iš 4 iki 1.3 iš 4"
+   }
+  ],
+  "statsLabels": [
+   "Savaitės programoje",
+   "Įtraukti suaugusieji",
+   "Žmonės, baigę visus vizitus",
+   "Baigimo rodiklis"
+  ],
+  "percentWord": "proc.",
+  "resultsBg": "Rezultatai",
+  "resultsLabel": "Vidutinis pokytis · Nuo pradinio lygio iki 16 savaitės",
+  "resultsTitle": "Kas pasikeitė, paprastais skaičiais.",
+  "resultsSub": "Rezultatai 84 dalyviams, baigusiems visus vizitus. Kiekviena kortelė lygina du laiko taškus, kuriuos tyrimas iš tikrųjų matavo.",
+  "baseline": "Pradinis lygis",
+  "week16": "16 savaitė",
+  "slopeFoot": "Nuo pradinio lygio iki 16 savaitės",
+  "results": [
+   {
+    "title": "Bendras spuogų pažeidimų skaičius",
+    "change": "63 proc. mažiau",
+    "note": "Dermatologo suskaičiuoti pažeidimai"
+   },
+   {
+    "title": "Odos drėkinimas",
+    "change": "60 proc. daugiau",
+    "note": "Korneometro matavimas AU"
+   },
+   {
+    "title": "Eritemos ir paraudimo indeksas",
+    "change": "30 proc. mažiau",
+    "note": "Chromametro indeksas"
+   },
+   {
+    "title": "Melanino ir pigmentacijos indeksas",
+    "change": "25 proc. mažiau",
+    "note": "Chromametro indeksas"
+   },
+   {
+    "title": "Klinikinis tekstūros balas",
+    "change": "52 proc. mažiau",
+    "note": "Vertinama skalėje nuo 0 iki 4"
+   }
+  ],
+  "peopleBg": "Žmonės",
+  "participantsLabel": "Kas dalyvavo",
+  "participantsTitle": "Žmonės už vidurkių.",
+  "participantsSub": "Penki vizitai per programą, nuo pradinio lygio iki 16 savaitės.",
+  "ageLabel": "Vidutinis amžius",
+  "ageSuffix": "Metai · Intervalas nuo 20 iki 48",
+  "visitTimeline": "Vizitų laiko juosta",
+  "visits": [
+   {
+    "name": "Pradinis lygis",
+    "desc": "Atranka, matavimai ir fotografavimas"
+   },
+   {
+    "name": "4 savaitė",
+    "desc": "Tolesnis vertinimas"
+   },
+   {
+    "name": "8 savaitė",
+    "desc": "Tolesnis vertinimas"
+   },
+   {
+    "name": "12 savaitė",
+    "desc": "Tolesnis vertinimas"
+   },
+   {
+    "name": "16 savaitė",
+    "desc": "Galutiniai matavimai ir fotografavimas"
+   }
+  ],
+  "genderTitle": "Pasiskirstymas pagal lytį",
+  "genderAria": "Pasiskirstymo pagal lytį žiedinė diagrama, 74 proc. moterų, 24 proc. vyrų, 2 proc. nebinarinės lyties",
+  "gender": [
+   {
+    "label": "Moterys",
+    "pct": "74 proc."
+   },
+   {
+    "label": "Vyrai",
+    "pct": "24 proc."
+   },
+   {
+    "label": "Nebinarinė lytis",
+    "pct": "2 proc."
+   }
+  ],
+  "donutNote": "Žiedas animuojasi iki nurodyto pasiskirstymo, kai slenka į vaizdą.",
+  "concernsTitle": "Pradiniai odos rūpesčiai",
+  "concerns": [
+   "Použdegiminė hiperpigmentacija",
+   "Netolygi tekstūra ir šiurkštumas",
+   "Uždegiminiai spuogai",
+   "Veido paraudimas ir jautrumas",
+   "Tamsūs ratilai po akimis",
+   "Sausumas ir pažeistas barjeras",
+   "Smulkios raukšlės ir ankstyvas fotosenėjimas"
+  ],
+  "concernsNote": "Dalyviai galėjo nurodyti daugiau nei vieną rūpestį, todėl šios dalys nesusideda į 100 proc.",
+  "programBg": "Programa",
+  "programLabel": "Programa ir protokolas",
+  "programTitle": "16 savaičių programa, žingsnis po žingsnio.",
+  "programSub": "Dalyviai klinikinių tyrimų vietoje gyvai praėjo atranką, gavo produktus, mokymą, kaip tepti, ir tolesnius vertinimus.",
+  "morningTag": "Ryto rutina",
+  "morningTitle": "Pradėkite dieną",
+  "amSteps": [
+   "Švelnus valiklis",
+   "Vitamino C serumas, 15 proc.",
+   "Keramidų drėkiklis",
+   "Mineralinė apsauga nuo saulės, SPF 50"
+  ],
+  "eveningTag": "Vakaro rutina",
+  "eveningTitle": "Užbaikite dieną",
+  "pmSteps": [
+   "Švelnus valiklis",
+   "Niacinamido 5 proc. ir cinko serumas",
+   "Peptidinis barjero kremas",
+   "Retinolis 0.3 proc., pradėtas 2 savaitę ir titruojamas vadovaujant klinikiniam specialistui"
+  ],
+  "routineNote": "Retinolis buvo naudojamas 3 iki 5 naktų per savaitę po pradinio dviejų savaičių įsibėgėjimo laikotarpio. Prireikus aktyviems pažeidimams buvo naudojama 2 proc. salicilo rūgštis.",
+  "supplementLabel": "Papildų rutina",
+  "supplementTitle": "Tava Skin Complex",
+  "supplementSub": "Dvi kapsulės kasdien su pusryčiais. Kiekiai nurodyti dviejų kapsulių porcijai.",
+  "supplements": [
+   "Vitaminas C",
+   "Cinkas",
+   "Niacinamidas",
+   "Astaksantinas",
+   "Kurkumino fitosoma",
+   "Lactobacillus probiotikų mišinys"
+  ],
+  "supplementNote": "Pasirenkamas priedas, Omega 3, viena minkštoji kapsulė kasdien.",
+  "nutritionTitle": "Mitybos rekomendacijos",
+  "nutritionItems": [
+   "Mažiausiai 2.5 L vandens kasdien",
+   "Daržovės, uogos ir maistas, turtingas omega 3",
+   "Ribokite pridėtą cukrų ir maistą su aukštu glikemijos indeksu",
+   "Pasirenkamas dviejų savaičių režimas su mažai pieno ir mažai cukraus",
+   "Pradinė konsultacija su registruotu dietologu"
+  ],
+  "lifestyleTitle": "Gyvenimo būdo tikslai",
+  "lifestyleItems": [
+   "7 iki 9 valandos miego",
+   "Mažiausiai 150 minučių vidutinio aktyvumo per savaitę",
+   "Penkių minučių kasdienis kvėpavimo pratimas",
+   "Miegas registruojamas kas savaitę",
+   "Drėkinimo ir apsaugos nuo saulės įpročiai peržiūrimi vizitų metu"
+  ],
+  "adherenceLabel": "Programos sekimas",
+  "adherenceTitle": "Kaip tiksliai žmonės laikėsi plano.",
+  "adherenceSub": "Laikymasis per visas 16 savaičių, kaip užfiksuota ataskaitoje.",
+  "adherence": [
+   "Bendras laikymasis",
+   "Papildų laikymasis",
+   "Vietinio naudojimo laikymasis"
+  ],
+  "adherenceAria": "{label}, {val} proc.",
+  "adherenceFoot": "Per 16 savaičių programą",
+  "safetyBg": "Sauga",
+  "safetyLabel": "Pranešti šalutiniai poveikiai",
+  "safetyTitle": "Ką pranešė dalyviai.",
+  "safetySub": "Dalyvių, pranešusių apie kiekvieną poveikį programos metu, dalys.",
+  "sideEffectsTitle": "Šalutiniai poveikiai",
+  "sideEffects": [
+   "Lengvas sausumas ar pleiskanojimas",
+   "Laikinas spuogų paūmėjimas",
+   "Lengvas virškinimo trakto diskomfortas"
+  ],
+  "withdrawalsTitle": "Pasitraukimai",
+  "withdrawalsSub": "8 dalyviai pasitraukė iš 92 įtrauktų.",
+  "withdrawals": [
+   {
+    "label": "Tvarkaraščio konfliktai",
+    "value": "5 žmonės"
+   },
+   {
+    "label": "Lengvi šalutiniai poveikiai",
+    "value": "2 žmonės"
+   },
+   {
+    "label": "Prarasta tolesniam stebėjimui",
+    "value": "1 žmogus"
+   }
+  ],
+  "alertTitle": "Sunkių nepageidaujamų reiškinių nepranešta.",
+  "alertBody": "Ši eilutė ataskaitoje nurodyta šalia šiame puslapyje išvardytų lengvų poveikių. Ji čia įtraukta tiksliai taip, kaip pranešta.",
+  "photoLabel": "Vaizdinė dokumentacija",
+  "photoTitle": "Dalyvių nuotraukų palyginimai.",
+  "photoSub": "Greta esančios nuotraukos iš keturių mėnesių programos. Kairioji kiekvienos poros nuotrauka rodė pradinį lygį, o dešinioji rodė 16 savaitę. Šiame puslapyje jokių dalyvių nuotraukų neatgaminama.",
+  "participant": "Dalyvis {initial}",
+  "docViews": [
+   "Šoninio profilio vaizdas",
+   "Vaizdas iš priekio",
+   "Vaizdas iš priekio su akiniais",
+   "Skruosto vaizdas iš arti"
+  ],
+  "baselineAndWeek": "Pradinis lygis ir 16 savaitė",
+  "photoProtocolTitle": "Fotografavimo protokolas",
+  "photoProtocol": "Standartizuotas fiksavimas pradiniame lygyje ir tolesnio stebėjimo metu, naudojant fiksuotą kameros sąranką, nuoseklų matomą ir kryžmiškai poliarizuotą apšvietimą, vaizdus iš priekio, 45 laipsnių ir profilio kampais bei pagal spalvą sukalibruotą foną.",
+  "methodsLabel": "Kaip buvo atliekami matavimai",
+  "methodsTitle": "Klinikiniai matavimai",
+  "methods": [
+   "Dermatologo suskaičiuoti spuogų pažeidimai",
+   "Korneometro drėkinimas",
+   "Chromametro paraudimo ir melanino indeksai",
+   "Tekstūros vertinimas skalėje nuo 0 iki 4",
+   "Standartizuotas fotografavimas"
+  ],
+  "factsLabel": "Tyrimo sandara",
+  "factsTitle": "Sandara vienu žvilgsniu.",
+  "facts": [
+   {
+    "k": "Sandara",
+    "v": "Perspektyvinė, atviro žymėjimo, viena grupė"
+   },
+   {
+    "k": "Aplinka",
+    "v": "Gyvai, prižiūrima medikų"
+   },
+   {
+    "k": "Vertinimai",
+    "v": "Pradinis lygis ir 4, 8, 12, 16 savaitės"
+   },
+   {
+    "k": "Baigė",
+    "v": "84 iš 92 įtrauktų · 91 proc."
+   }
+  ],
+  "source": "Šaltinis, Tava Labs dalyvių rezultatai, tyrimų serija 001, 16 savaičių dalyvių programa. Šiame puslapyje pateikiami tik ataskaitos skaičiai, o pradinis lygis ir 16 savaitė yra du išmatuoti rezultatų taškai."
+ },
+ "account": {
+  "signedInAs": "Prisijungta kaip",
+  "signOut": "Atsijungti",
+  "loading": "Įkeliama jūsų paskyra…",
+  "failedTitle": "Nepavyko įkelti jūsų paskyros",
+  "failedSegments": [
+   {
+    "text": "Patikrinkite ryšį ir bandykite dar kartą. Jei tai kartojasi, rašykite "
+   },
+   {
+    "text": "talia@tavalabs.app",
+    "href": "mailto:talia@tavalabs.app"
+   },
+   {
+    "text": " ir mes viską sutvarkysime."
+   }
+  ],
+  "tryAgain": "Bandykite dar kartą",
+  "tabs": {
+   "today": "Šiandien",
+   "orders": "Užsakymai",
+   "shop": "Parduotuvė",
+   "lab": "Tyrimai",
+   "support": "Pagalba"
+  },
+  "greetings": {
+   "morning": "Labas rytas",
+   "afternoon": "Laba diena",
+   "evening": "Labas vakaras"
+  },
+  "weekInitials": [
+   "S",
+   "P",
+   "A",
+   "T",
+   "K",
+   "P",
+   "Š"
+  ],
+  "streakLine": "{streak} dienų serija · {day} diena iš 30{bottle}",
+  "dayLine": "{day} diena iš 30{bottle}. Atlikite šiandienos rutiną programėlėje, kad pradėtumėte savo seriją.",
+  "bottleSuffix": " · buteliuke liko {days} dienų",
+  "progressLine": "{day} diena iš 30 · liko {left} dienų iki pirmojo pilno mėnesio",
+  "stepsToGo": "Šiandien: liko {n} iš {total} rutinos žingsnių.",
+  "todayComplete": "Šiandiena baigta. Kita diena jau laukia eilėje.",
+  "planEyebrow": "Jūsų planas",
+  "planDefault": "Atlikite odos testą, ir jūsų asmeninis planas, sukurtas iš jūsų atsakymų, gyvens čia ir programėlėje.",
+  "retakeQuiz": "Pakartoti odos testą",
+  "takeQuiz": "Atlikti odos testą",
+  "chipLabels": {
+   "goal": "Tikslas",
+   "skinType": "Odos tipas",
+   "concern": "Rūpestis",
+   "routine": "Rutina",
+   "plan": "Planas",
+   "routineTimes": "Rutinos laikai"
+  },
+  "labelMaps": {
+   "goal": {
+    "radiance": "Skaistumas",
+    "fine_lines": "Smulkios raukšlės",
+    "hydration": "Drėkinimas",
+    "even_tone": "Tolygus tonas"
+   },
+   "skinType": {
+    "dry": "Sausa",
+    "oily": "Riebi",
+    "combination": "Mišri",
+    "sensitive": "Jautri",
+    "not_sure": "Nesu tikras"
+   },
+   "concern": {
+    "dullness": "Blankumas",
+    "fine_lines": "Smulkios raukšlės",
+    "uneven_tone": "Netolygus tonas",
+    "texture": "Tekstūra",
+    "dryness": "Sausumas"
+   },
+   "sensitivity": {
+    "often": "Dažnai jautri",
+    "sometimes": "Kartais jautri",
+    "never": "Retai jautri"
+   },
+   "routine": {
+    "cleanser_only": "Tik valiklis",
+    "few_products": "Keletas produktų",
+    "full_routine": "Visa rutina"
+   },
+   "ramp": {
+    "gentle": "Švelnus įsibėgėjimas",
+    "standard": "Standartinis įsibėgėjimas",
+    "full": "Pilnas stiprumas"
+   }
+  },
+  "morningEyebrow": "Ryto rutina",
+  "nightEyebrow": "Vakaro rutina",
+  "amTitle": "Ryte · 3 lašai",
+  "pmTitle": "Vakare · 3 lašai",
+  "amSteps": [
+   {
+    "title": "Valymas",
+    "detail": "Švelnus valiklis, nusausinkite tapšnodami"
+   },
+   {
+    "title": "Užtepkite 3 lašus serumo",
+    "detail": "Įspauskite į veidą ir kaklą"
+   },
+   {
+    "title": "Drėkinimas ir SPF",
+    "detail": "SPF 30 ar didesnis"
+   }
+  ],
+  "pmSteps": [
+   {
+    "title": "Dvigubas valymas",
+    "detail": "Pašalinkite SPF ir makiažą"
+   },
+   {
+    "title": "Užtepkite 3 lašus serumo",
+    "detail": "Prieš retinolį ar kitas priemones"
+   },
+   {
+    "title": "Naktinis drėkiklis",
+    "detail": "Užrakinkite drėkinimą"
+   }
+  ],
+  "stepsNote": "Žingsnius pažymite mobiliojoje programėlėje. Šis puslapis rodo šiandienos rutiną ir tai, ką programėlė iki šiol šiandien užfiksavo.",
+  "ordersEyebrow": "Užsakymai",
+  "ordersTitle": "Jūsų užsakymai",
+  "ordersEmpty": "Užsakymų dar nėra. Kai pirksite, jūsų užsakymai ir sekimas bus rodomi čia ir programėlėje.",
+  "paid": "Apmokėta",
+  "paymentFailed": "Mokėjimas nepavyko",
+  "unpaid": "Neapmokėta",
+  "statusLabels": [
+   "Užsakyta",
+   "Išsiųsta",
+   "Pristatoma",
+   "Pristatyta"
+  ],
+  "subscription": "Prenumerata",
+  "carrierFallback": "Vežėjas",
+  "trackPackage": "Sekti siuntą",
+  "claimEyebrow": "Aktyvavimo kodas",
+  "claimTitle": "Pirkimo susiejimas su programėle",
+  "claimForOrder": "Jūsų aktyvavimo kodas užsakymui {order}",
+  "claimYourCode": "Jūsų aktyvavimo kodas",
+  "claimValidUntil": " (galioja iki {date})",
+  "claimEnter": ". Įveskite jį Tava programėlėje skiltyje Užsakymai, kad susietumėte šį pirkinį su savo programėlės paskyra:",
+  "claimWebNote": "Čia, internete, kodo jums nereikia. Prisijungimas su jūsų atsiskaitymo el. paštu jau rodo jūsų užsakymus ir planą aukščiau.",
+  "claimEmpty": "Pirkote per testą arba šią svetainę? Jūsų patvirtinimo el. laiške ir puslapyje iškart po atsiskaitymo buvo rodomas aktyvavimo kodas. Atidarykite Tava mobiliąją programėlę, prisijunkite ir įveskite kodą skirtuke Užsakymai. Jūsų pirkinys, planas ir testo atsakymai persikelia į jūsų programėlės paskyrą. Čia, internete, prisijungimas su tuo pačiu el. paštu, kuriuo atsiskaitėte, jau rodo viską aukščiau. Daugiau nieko įvesti nereikia.",
+  "shop": {
+   "eyebrow": "PDRN Brightening Serum",
+   "title": "Patrauklios sveikatos mokslas",
+   "body": "1 fl oz (30 ml). Mažinkite smulkias raukšles, giliai drėkinkite, atkurkite skaistumą ir stiprinkite odą. 2 iki 4 paspaudimai, ryte ir vakare.",
+   "subscribeLine": "Prenumerata, $39 per mėnesį.",
+   "subscribeRest": " Naujas buteliukas kiekvieną mėnesį, automatiškai.",
+   "oneTimeLine": "Vieną kartą, $49.",
+   "oneTimeRest": " Vienas buteliukas.",
+   "subscribeBtn": "Prenumeruoti, $39 per mėnesį",
+   "buyOnceBtn": "Pirkti vieną kartą, $49",
+   "stripeNote": "Saugus atsiskaitymas per Stripe. Mokėjimą patvirtinsite Stripe puslapyje."
+  },
+  "labTab": {
+   "eyebrow": "Tyrimai",
+   "title": "Žinokite savo skaičius.",
+   "sub": "Tikros kraujo panelės, užsakomos jūsų Tava paskyroje. Naršykite paneles, prieš užsakydami pamatykite kiekvieną markerį ir gaukite rezultatus tiesiai čia."
+  },
+  "support": {
+   "eyebrow": "Pagalba",
+   "title": "Esame čia, kad padėtume",
+   "segments": [
+    {
+     "text": "Rašykite "
+    },
+    {
+     "text": "talia@tavalabs.app",
+     "href": "mailto:talia@tavalabs.app"
+    },
+    {
+     "text": " arba skambinkite "
+    },
+    {
+     "text": "909-906-1308",
+     "href": "tel:+19099061308"
+    },
+    {
+     "text": "."
+    }
+   ],
+   "links": {
+    "general": "Bendri klausimai",
+    "productSupport": "Pagalba dėl produkto",
+    "salesSupport": "Užsakymų ir pardavimų pagalba",
+    "faqs": "DUK",
+    "shipping": "Pristatymo politika",
+    "returns": "Grąžinimo politika"
+   }
+  }
+ },
+ "lab": {
+  "ordersLabel": "Klinikinė peržiūra",
+  "ordersTitle": "Jūsų laboratorinių tyrimų užsakymai",
+  "loadingOrders": "Įkeliami jūsų užsakymai…",
+  "ordersEmpty": "Čia dar nieko nėra. Kai atliksite panelę, kiekvienas markeris atsidurs čia su savo verte, sveiku intervalu ir tuo, kaip jis kinta laikui bėgant. Užsisakykite pirmą panelę žemiau ir ši vieta prisipildys.",
+  "viewResults": "Žiūrėti rezultatus",
+  "howLabel": "Kaip veikia tyrimai",
+  "howTitle": "Keturi žingsniai, vienas paėmimas",
+  "steps": [
+   {
+    "title": "Pasirinkite panelę",
+    "body": "Pasirinkite panelę, atitinkančią tai, ką norite sužinoti. Kiekvienas joje esantis markeris išvardytas prieš užsakant."
+   },
+   {
+    "title": "Gydytojo peržiūra",
+    "body": "Licencijuotas gydytojas peržiūri ir patvirtina kiekvieną užsakymą, todėl atskiro vizito pas gydytoją nereikia."
+   },
+   {
+    "title": "Ateikite paėmimui",
+    "body": "Vienas greitas kraujo paėmimas netoli jūsų esančioje paėmimo vietoje. Dauguma vizitų trunka apie penkiolika minučių."
+   },
+   {
+    "title": "Rezultatai atsiduria čia",
+    "body": "Rezultatai per kelias dienas skaitmeniniu būdu pristatomi į šį skirtuką, su kiekvienu markeriu ir jo intervalu."
+   }
+  ],
+  "panelsLabel": "Panelės",
+  "panelsTitle": "Keturiolika panelių, sukurtų pagal tai, ką sekate",
+  "panelsSub": "Kiekviena panelė rodo savo kainą. Užsakymas atsidaro, kai įjungiamas atsiskaitymas, o licencijuotas gydytojas peržiūri kiekvieną užsakymą, prieš pristatant rezultatus tiesiai čia. Panelių negalima užsisakyti adresams Niujorke, Naujajame Džersyje ar Rod Ailande.",
+  "markersSuffix": "{n} markeriai",
+  "resultsInDays": "Rezultatai per kelias dienas",
+  "hideMarkers": "Slėpti markerius",
+  "seeMarkers": "Žiūrėti markerius",
+  "markersAria": "Markeriai panelėje {name}",
+  "disclaimer": "Tyrimų įžvalgos yra informacija apie jūsų pačių sveikatą ir nėra diagnozė. Dėl bet kokio nerimą keliančio rezultato pasitarkite su gydytoju, o skubios pagalbos atveju skambinkite 911.",
+  "panelsById": {
+   "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
+    "name": "Sportinių rezultatų panelė",
+    "description": "Pasirengimas treniruotėms ir atsistatymas: kraujo rodikliai, medžiagų apykaitos panelė, geležies atsargos, vitaminas D, testosteronas, uždegimas ir raumenų fermentai.",
+    "collection": "Kraujo paėmimas atvykus"
+   },
+   "38c76039-05dc-4cd3-8475-7a675989fbf2": {
+    "name": "Pradinės gerovės panelė",
+    "description": "Viso kūno pradinis taškas: kraujo rodikliai, medžiagų apykaitos sveikata, cholesterolis, cukrus kraujyje, vitaminas D ir skydliaukė.",
+    "collection": "Kraujo paėmimas atvykus"
+   },
+   "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
+    "name": "Energijos ir nuovargio panelė",
+    "description": "Įprasti mažos energijos įtariamieji: geležies atsargos ir transportas, B12, foliatai, vitaminas D, skydliaukė ir kraujo rodikliai.",
+    "collection": "Kraujo paėmimas atvykus"
+   },
+   "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
+    "name": "Moterų pradinė panelė",
+    "description": "Tikslinė 14 markerių panelė, pilnai išvardyta žemiau.",
+    "collection": "Kraujo paėmimas atvykus"
+   },
+   "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
+    "name": "GLP1 panelė",
+    "description": "Tikslinė 10 markerių panelė, pilnai išvardyta žemiau.",
+    "collection": "Kraujo paėmimas atvykus"
+   },
+   "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
+    "name": "Širdies sveikatos panelė",
+    "description": "Širdies ir kraujagyslių rizika, ne tik bazinis cholesterolis: lipidai, ApoB, Lp(a), hs-CRP ir homocisteinas.",
+    "collection": "Kraujo paėmimas atvykus"
+   },
+   "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
+    "name": "Ilgaamžiškumo panelė",
+    "description": "Išsamus metinis gilus žvilgsnis į medžiagų apykaitos, širdies ir kraujagyslių, uždegimo ir hormonų sveikatos markerius.",
+    "collection": "Kraujo paėmimas atvykus"
+   },
+   "b909fb21-b264-483c-a915-4ce87713cfa9": {
+    "name": "Vyrų pradinis tyrimas",
+    "description": "Tikslinė 12 markerių panelė, pilnai išvardyta žemiau.",
+    "collection": "Kraujo paėmimas atvykus"
+   },
+   "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
+    "name": "Vyrų TRT panelė",
+    "description": "Tikslinė 16 markerių panelė, pilnai išvardyta žemiau.",
+    "collection": "Kraujo paėmimas atvykus"
+   },
+   "abfabb68-c777-4457-87c2-46bf5fe26d81": {
+    "name": "Vyrų hormonų panelė",
+    "description": "Vyrų hormonų būsena: bendras testosteronas, SHBG, estradiolis, LH ir FSH.",
+    "collection": "Kraujo paėmimas atvykus"
+   },
+   "f12fe316-367a-4c53-9735-8c0129c45506": {
+    "name": "Medžiagų apykaitos sveikatos panelė",
+    "description": "Cukraus kraujyje kontrolė ir medžiagų apykaitos rizika: A1c, insulinas nevalgius, cholesterolis ir visa medžiagų apykaitos panelė.",
+    "collection": "Kraujo paėmimas atvykus"
+   },
+   "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
+    "name": "Streso ir atsistatymo panelė",
+    "description": "Streso apkrova ir atsistatymo gebėjimas: kortizolis, DHEA-S, skydliaukė ir uždegimas.",
+    "collection": "Kraujo paėmimas atvykus"
+   },
+   "1760616d-44d3-4654-817d-440a969e5cdf": {
+    "name": "Pilna skydliaukės panelė",
+    "description": "Pilnas skydliaukės tyrimas: TSH, laisvas T4, laisvas T3 ir TPO antikūnai.",
+    "collection": "Kraujo paėmimas atvykus"
+   },
+   "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
+    "name": "Moterų hormonų panelė",
+    "description": "Moterų hormonų būsena: estradiolis, progesteronas, FSH, LH, DHEA-S ir testosteronas.",
+    "collection": "Kraujo paėmimas atvykus"
+   }
+  },
+  "detail": {
+   "backToAccount": "Grįžti į savo paskyrą",
+   "notFoundTitle": "Tas tyrimų užsakymas nerastas",
+   "notFoundBody": "Galbūt jis priklauso kitam el. paštui. Prisijunkite su el. paštu, kuriuo užsakėte, ir bandykite dar kartą.",
+   "clinicalReview": "KLINIKINĖ PERŽIŪRA",
+   "loadingResults": "Įkeliami jūsų rezultatai…",
+   "yourPanel": "Jūsų panelė",
+   "markerFallback": "Markeris",
+   "headlines": {
+    "loading": "Atnaujinami jūsų rezultatai",
+    "pending": "Jūsų rezultatai jau pakeliui",
+    "allIn": "Visi jūsų rezultatai jau gauti.",
+    "in": "Jūsų rezultatai jau gauti."
+   },
+   "sublines": {
+    "loading": "Palaukite, kol įsikels laboratorijos ataskaita.",
+    "pending": "Kai tik laboratorija pateiks ataskaitą, šis puslapis prisipildys kiekvienu markeriu, jo verte ir sveiku intervalu.",
+    "allIn": "Kiekvienas markeris yra intervale. Štai visas vaizdas.",
+    "oneAttention": "Vienam markeriui reikia atidesnio žvilgsnio. Panagrinėkime.",
+    "manyAttention": "{n} markeriams reikia atidesnio žvilgsnio. Panagrinėkime."
+   },
+   "orderedPrefix": "Užsakyta",
+   "statusPrefix": "Būsena:",
+   "notInYetTitle": "Rezultatų dar nėra",
+   "notInYetBody": "Dauguma panelių pateikiamos per kelias dienas po paėmimo. Kai jūsų atsidurs čia, šis puslapis rodys visą pusiausvyros vaizdą su kiekvienu markeriu ir jo intervalu.",
+   "markerBalance": "Jūsų markerių pusiausvyra",
+   "biomarkers": "BIOMARKERIAI",
+   "analyzedSuffix": "{pct}% išanalizuota",
+   "statusNames": {
+    "optimal": "Optimalus",
+    "inRange": "Intervale",
+    "attention": "Reikia dėmesio"
+   },
+   "statusLabels": {
+    "optimal": "OPTIMALUS",
+    "inRange": "INTERVALE",
+    "attention": "PAŽYMĖTAS"
+   },
+   "basePrefix": "Bazė: {name}",
+   "updatedPrefix": "Atnaujinta {date}",
+   "updatedRecently": "Atnaujinta neseniai",
+   "triageTitle": "Būsenos rūšiavimas",
+   "tapToFilter": "Bakstelėkite, kad filtruotumėte",
+   "triageSubs": {
+    "optimal": "Ten, kur norite, kad jie būtų",
+    "inRange": "Sveiko intervalo ribose",
+    "attention": "Verta pokalbio su gydytoju"
+   },
+   "allFilter": "Visi ({n})",
+   "rangePrefix": "Intervalas {range}",
+   "disclaimer": "Tyrimų rezultatai yra informacija apie jūsų pačių sveikatą ir nėra diagnozė. Dėl bet kokio nerimą keliančio rezultato pasitarkite su gydytoju, o skubios pagalbos atveju skambinkite 911."
+  }
+ },
+ "login": {
+  "brandHeadLead": "Sveiki sugrįžę",
+  "brandHeadAccent": "atgal.",
+  "brandCopy": "Jūsų planas, jūsų užsakymai ir jūsų rutina. Vienas el. paštas sujungia programėlę ir internetą.",
+  "label": "Jūsų Tava paskyra",
+  "title": "Prisijungti",
+  "intro": "Prisijunkite su el. paštu, kurį naudojote atsiskaitydami arba Tava mobiliojoje programėlėje. Jūsų planas, užsakymai ir rutina susieti su tuo el. paštu, todėl čia viskas atitinka programėlę. Slaptažodžio nereikia. Atsiųsime jums prisijungimo nuorodą el. paštu, o ją bakstelėję atsidursite savo paskyroje.",
+  "emailLabel": "El. pašto adresas",
+  "invalidEmail": "Įveskite galiojantį el. pašto adresą.",
+  "sendFailed": "Nepavyko išsiųsti to el. laiško. Patikrinkite adresą ir bandykite dar kartą.",
+  "sending": "Siunčiama…",
+  "sendButton": "Atsiųsti prisijungimo nuorodą el. paštu",
+  "sentNotice": "Prisijungimo nuoroda išsiųsta adresu {email}. Ji gali atvykti per minutę. Jei nematote, patikrinkite šlamšto aplanką.",
+  "sentBody": "Atidarykite tą el. laišką šiame įrenginyje ir bakstelėkite viduje esančią nuorodą. Atsidursite savo paskyroje, jau prisijungę. Nuoroda veikia vieną kartą ir baigia galioti, todėl panaudokite ją greitai.",
+  "resend": "Siųsti el. laišką iš naujo",
+  "differentEmail": "Naudoti kitą el. paštą",
+  "footNote": "Pirmą kartą čia? Ta pati nuoroda sukuria jūsų paskyrą. Naudokite el. paštą iš savo užsakymo ir viskas jau laukia jūsų.",
+  "claimLabel": "Pirkote internete, naudojate programėlę?",
+  "claimTitle": "Naudokite aktyvavimo kodą programėlėje",
+  "claimBody1": "Kai pirkote per testą arba šią svetainę, jūsų pirkimo patvirtinimo el. laiške (ir puslapyje iškart po atsiskaitymo) buvo rodomas aktyvavimo kodas. Atidarykite Tava mobiliąją programėlę, prisijunkite ir įveskite tą kodą skirtuke Užsakymai. Jūsų pirkinys, planas ir testo atsakymai persikelia į jūsų programėlės paskyrą, be antro pirkimo.",
+  "claimBody2": "Internete dar paprasčiau. Prisijunkite aukščiau su tuo pačiu el. paštu, kuriuo atsiskaitėte, ir jūsų užsakymai bei planas jau yra čia.",
+  "faqButton": "Klausimai? Žiūrėkite DUK"
+ },
+ "checkout": {
+  "title": "Atsiskaitymas",
+  "closeAria": "Uždaryti atsiskaitymą",
+  "planOneTime": "PDRN Brightening Serum · $49 · Vienkartinis pirkimas",
+  "planSubscribe": "PDRN Brightening Serum · $39 per mėnesį · Subscribe & Save 20%",
+  "email": "El. paštas",
+  "firstName": "Vardas",
+  "lastName": "Pavardė",
+  "streetAddress": "Gatvės adresas",
+  "addressLine2": "Adreso 2 eilutė (neprivaloma)",
+  "city": "Miestas",
+  "state": "Valstija",
+  "zip": "ZIP",
+  "country": "Šalis",
+  "phoneOptional": "Telefonas (neprivaloma)",
+  "missingIntro": "Jau beveik. Pridėkite {fields}.",
+  "missingNames": {
+   "email": "galiojantį el. paštą",
+   "firstName": "vardą",
+   "lastName": "pavardę",
+   "address1": "gatvės adresą",
+   "city": "miestą",
+   "state": "valstiją",
+   "zip": "ZIP kodą"
+  },
+  "creating": "Kuriamas jūsų atsiskaitymas…",
+  "taking": "Nukreipiama į saugų atsiskaitymą…",
+  "continueBtn": "Tęsti į mokėjimą",
+  "startError": "Atsiskaitymas negalėjo prasidėti. Patikrinkite savo duomenis ir bandykite dar kartą. Nieko nebuvo nuskaičiuota.",
+  "stripeNote": "Saugus atsiskaitymas per Stripe. Mokėjimą patvirtinsite Stripe puslapyje. Dar nieko nenuskaičiuota."
+ },
+ "legal": {
+  "governsNote": "Šis puslapis yra angliško originalo vertimas. Jei formuluotė kada nors skirtųsi, galioja angliška versija."
+ }
+}

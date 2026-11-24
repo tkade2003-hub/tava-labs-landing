@@ -1,0 +1,300 @@
+{
+ "file": "quiz-41.js",
+ "entries": [
+  {
+   "k": "goal.radiance",
+   "q": "dq",
+   "t": "lyster och strålglans"
+  },
+  {
+   "k": "goal.fine_lines",
+   "q": "dq",
+   "t": "fina linjer"
+  },
+  {
+   "k": "goal.hydration",
+   "q": "dq",
+   "t": "djup återfuktning"
+  },
+  {
+   "k": "goal.even_tone",
+   "q": "dq",
+   "t": "en jämn ton"
+  },
+  {
+   "k": "skin.dry",
+   "q": "dq",
+   "t": "Torr"
+  },
+  {
+   "k": "skin.oily",
+   "q": "dq",
+   "t": "Fet"
+  },
+  {
+   "k": "skin.combination",
+   "q": "dq",
+   "t": "Kombinerad"
+  },
+  {
+   "k": "skin.sensitive",
+   "q": "dq",
+   "t": "Känslig"
+  },
+  {
+   "k": "skin.not_sure",
+   "q": "dq",
+   "t": "Håller fortfarande på att komma på det"
+  },
+  {
+   "k": "concern.dullness",
+   "q": "dq",
+   "t": "matthet"
+  },
+  {
+   "k": "concern.uneven_tone",
+   "q": "dq",
+   "t": "ojämn ton"
+  },
+  {
+   "k": "concern.texture",
+   "q": "dq",
+   "t": "grov textur"
+  },
+  {
+   "k": "concern.dryness",
+   "q": "dq",
+   "t": "torrhet"
+  },
+  {
+   "k": "notalone.radiance",
+   "q": "dq",
+   "t": "Grundare och kreatörer som presenterar sig varje dag börjar sin morgon på samma sätt. Matt hud som ser trött ut är en av de vanligaste anledningarna till att människor börjar med en serumrutin. PDRN Brightening Serum är byggt kring PDRN och peptider, i en lätt formula utformad för att förbättra utseendet av slät, strålande hud och lämna den fyllig, mjuk och uppfriskad, morgon och kväll."
+  },
+  {
+   "k": "notalone.fine_lines",
+   "q": "dq",
+   "t": "Grundare och kreatörer som presenterar sig varje dag börjar sin morgon på samma sätt. Fina linjer är oftast det första människor vill ha ett serum för. Denna formula kombinerar acetyl hexapeptide-8 med PDRN, ingredienser valda för att stödja hud som ser slätare och mer lysande ut, i ett enda steg, två gånger om dagen. Ingen tiodstegsrutin krävs."
+  },
+  {
+   "k": "notalone.hydration",
+   "q": "dq",
+   "t": "Grundare och kreatörer som presenterar sig varje dag börjar sin morgon på samma sätt. Hud som känns stram och törstig vid middagstid är precis vad detta serum är gjort för. En blandning av glycerin, sodium PCA och sodium hyaluronate ger djup återfuktning, medan panthenol vårdar, så att huden känns bekväm och ser fyllig ut, inte fet."
+  },
+  {
+   "k": "notalone.even_tone",
+   "q": "dq",
+   "t": "Grundare och kreatörer som presenterar sig varje dag börjar sin morgon på samma sätt. En hy som ser ojämn ut är en vanlig frustration. PDRN och peptider hjälper till att främja en mer lysande hy som ser livfull ut, och den lätta formulan absorberas snabbt och enkelt, ett enkelt steg två gånger dagligen mot en jämnare look."
+  },
+  {
+   "k": "ing.pdrn.name",
+   "q": "dq",
+   "t": "PDRN (polydeoxyribonucleotide)"
+  },
+  {
+   "k": "ing.pdrn.text",
+   "q": "dq",
+   "t": "Hjälper till att främja en mer lysande hy som ser livfull ut och förbättrar utseendet av slät, strålande hud."
+  },
+  {
+   "k": "ing.peptide.name",
+   "q": "dq",
+   "t": "Acetyl hexapeptide-8"
+  },
+  {
+   "k": "ing.peptide.text",
+   "q": "dq",
+   "t": "En peptid som arbetar tillsammans med PDRN för att stödja hud som ser slätare och jämnare ut."
+  },
+  {
+   "k": "ing.ha.name",
+   "q": "dq",
+   "t": "Hyaluronsyra, glycerin och sodium PCA"
+  },
+  {
+   "k": "ing.ha.text",
+   "q": "dq",
+   "t": "En återfuktningsblandning som drar till sig fukt för en fyllig, bekväm känsla och en silkeslen textur."
+  },
+  {
+   "k": "ing.panthenol.name",
+   "q": "dq",
+   "t": "Panthenol"
+  },
+  {
+   "k": "ing.panthenol.text",
+   "q": "dq",
+   "t": "Vårdar huden och lämnar den mjuk och bekväm, en snäll bas för hud som reagerar lätt."
+  },
+  {
+   "k": "ramp.often.1",
+   "q": "dq",
+   "t": "Vecka 1, endast kvällar, varannan kväll"
+  },
+  {
+   "k": "ramp.often.2",
+   "q": "dq",
+   "t": "Vecka 2, varje kväll"
+  },
+  {
+   "k": "ramp.often.3",
+   "q": "dq",
+   "t": "Vecka 3–4, morgon och kväll"
+  },
+  {
+   "k": "ramp.sometimes.1",
+   "q": "dq",
+   "t": "Dag 1–3, endast kvällar"
+  },
+  {
+   "k": "ramp.sometimes.2",
+   "q": "dq",
+   "t": "Från dag 4, morgon och kväll"
+  },
+  {
+   "k": "ramp.never.1",
+   "q": "dq",
+   "t": "Från dag 1, morgon och kväll, två gånger dagligen"
+  },
+  {
+   "k": "fit.cleanser_only",
+   "q": "dq",
+   "t": "Passar in direkt efter rengöring, ett tillagt steg, cirka en minut."
+  },
+  {
+   "k": "fit.few_products",
+   "q": "dq",
+   "t": "Appliceras efter rengöring, före din fuktkräm."
+  },
+  {
+   "k": "fit.full_routine",
+   "q": "dq",
+   "t": "Läggs i lager efter rengöring och före fuktkräm och SPF, inget att ge upp."
+  },
+  {
+   "k": "notalone.titlePrefix",
+   "q": "dq",
+   "t": "Du är inte ensam. "
+  },
+  {
+   "k": "notalone.titleSuffix",
+   "q": "dq",
+   "t": " är där de flesta börjar."
+  },
+  {
+   "k": "match.topTag",
+   "q": "sq",
+   "t": "<span class=\"tag\">Your top match</span>"
+  },
+  {
+   "k": "plan.template",
+   "q": "tpl",
+   "t": "\n    <p class=\"mirrorline\">${SKIN_LABEL[a.skinType]} hud · fokus på ${CONCERN_LABEL[a.concern]} · mål: ${GOAL_LABEL[a.goal]}</p>\n    <div class=\"planrow\"><span class=\"k\">Upptrappning</span><span class=\"v\">${plan.rampLines.join(\"<br>\")}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Dina tider</span><span class=\"v\">${fmtTime(a.amTime)} och ${fmtTime(a.pmTime)}, påminnelser endast då</span></div>\n    <div class=\"planrow\"><span class=\"k\">Passar rutinen</span><span class=\"v\">${ROUTINE_FIT[a.routine]}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Flaskan</span><span class=\"v\">PDRN Brightening Serum, 1 fl oz (30 ml), i storlek för användning två gånger dagligen</span></div>"
+  },
+  {
+   "k": "summary.template",
+   "q": "tpl",
+   "t": "30 dagars plan för ${GOAL_LABEL[a.goal]}: ${SKIN_LABEL[a.skinType]} hud, främsta bekymmer ${CONCERN_LABEL[a.concern]}. "
+  },
+  {
+   "k": "summary.ramp",
+   "q": "tpl",
+   "t": "Upptrappning: ${ramp.key} (${ramp.lines.join(\"; \")}). Applicera kl. ${fmtTime(a.amTime)} och ${fmtTime(a.pmTime)}. "
+  },
+  {
+   "k": "buy.subscribe",
+   "q": "dq",
+   "t": "Starta min prenumeration"
+  },
+  {
+   "k": "buy.once",
+   "q": "dq",
+   "t": "Köp en gång"
+  },
+  {
+   "k": "paynote.subscribe",
+   "q": "dq",
+   "t": "Prenumerationen förnyas var 30:e dag för $39. Pausa eller avbryt när som helst."
+  },
+  {
+   "k": "paynote.once",
+   "q": "dq",
+   "t": "Engångsköp för $49. Ingen prenumeration."
+  },
+  {
+   "k": "missing.firstName",
+   "q": "dq",
+   "t": "förnamn"
+  },
+  {
+   "k": "missing.lastName",
+   "q": "dq",
+   "t": "efternamn"
+  },
+  {
+   "k": "missing.address1",
+   "q": "dq",
+   "t": "gatuadress"
+  },
+  {
+   "k": "missing.city",
+   "q": "dq",
+   "t": "stad"
+  },
+  {
+   "k": "missing.state",
+   "q": "dq",
+   "t": "delstat"
+  },
+  {
+   "k": "missing.zip",
+   "q": "dq",
+   "t": "ZIP kod"
+  },
+  {
+   "k": "missing.email",
+   "q": "dq",
+   "t": "mejl"
+  },
+  {
+   "k": "missing.intro",
+   "q": "dq",
+   "t": "Nästan klart, lägg till "
+  },
+  {
+   "k": "placing",
+   "q": "dq",
+   "t": "Lägger din beställning…"
+  },
+  {
+   "k": "taking",
+   "q": "dq",
+   "t": "Tar dig till säker kassa…"
+  },
+  {
+   "k": "orderError",
+   "q": "dq",
+   "t": "Något gick fel när din beställning lades, dina uppgifter finns fortfarande här, försök igen. Om det fortsätter att misslyckas, mejla talia@tavalabs.app så löser vi det."
+  },
+  {
+   "k": "thanks.template",
+   "q": "tpl",
+   "t": "\n    <h3>Beställningssammanfattning</h3>\n    <div class=\"planrow\"><span class=\"k\">Produkt</span><span class=\"v\">PDRN Brightening Serum · 1 fl oz (30 ml) · ×1</span></div>\n    <div class=\"planrow\"><span class=\"k\">${p.order.purchaseType === \"subscribe\" ? \"Subscription\" : \"One-time\"}</span><span class=\"v\">$${p.order.price}${p.order.purchaseType === \"subscribe\" ? \" every 30 days — pause or cancel anytime\" : \"\"}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Skickas till</span><span class=\"v\">${s.firstName} ${s.lastName}, ${s.city}, ${s.stateCode} ${s.zip}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Din plan</span><span class=\"v\">${plan.rampLines.join(\" · \")}<br>Påminnelser kl. ${fmtTime(p.answers.amTime)} och ${fmtTime(p.answers.pmTime)}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Plan skickad till</span><span class=\"v\">${p.email}</span></div>"
+  },
+  {
+   "k": "carry.template",
+   "q": "tpl",
+   "t": "Logga in i appen med ${p.email}, samma mejladress som du använde här, så finns dina svar, din 30 dagars plan och denna beställning redan där. Inget att skriva om."
+  },
+  {
+   "k": "time.pm",
+   "q": "dq",
+   "t": "PM"
+  },
+  {
+   "k": "time.am",
+   "q": "dq",
+   "t": "AM"
+  }
+ ]
+}

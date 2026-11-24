@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Skopiowano ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Skopiuj to:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Nie mogliśmy znaleźć Twojego odniesienia do finalizacji zakupu na tej stronie, Twój kod odbioru jest również w Twoim emailu z potwierdzeniem. Zachowaj ten email i użyj kodu, gdy zainstalujesz aplikację."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Już odebrane na Twoje konto w aplikacji. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Zachowaj do "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Kopiuj kod odbioru"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Kopiuj link odbioru"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Ten kod łączy Twój zakup z Twoim kontem w aplikacji:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Ten zakup już znajduje się na koncie w aplikacji, więc nie ma kodu do odebrania, po prostu zaloguj się do aplikacji."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Potwierdzanie Twojej płatności, Twój kod odbioru pojawi się tutaj za kilka sekund…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Twoja płatność jest potwierdzona emailem, Twój kod odbioru jest również w tym emailu. Zachowaj go i wpisz w aplikacji, gdy ją zainstalujesz."
+  }
+ ]
+}

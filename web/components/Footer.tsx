@@ -6,31 +6,8 @@ import {
 } from "./SocialIcons";
 import Logo from "./Logo";
 import NewsletterForm from "./NewsletterForm";
-
-const CONTACT_LINKS = [
-  { href: "/contact#general", label: "General" },
-  { href: "/contact#wholesale", label: "Wholesale" },
-  { href: "/contact#sales-support", label: "Sales Support" },
-  { href: "/contact#product-support", label: "Product Support" },
-  { href: "/contact#pr", label: "PR" },
-];
-
-const INFO_LINKS = [
-  { href: "/about", label: "About Us" },
-  { href: "/partners", label: "Partners" },
-  { href: "/ingredients", label: "Ingredients" },
-  { href: "/faq", label: "FAQs" },
-  { href: "/blog", label: "Blog" },
-  { href: "/research", label: "Research" },
-];
-
-const LEGAL_LINKS = [
-  { href: "/terms", label: "Terms & Conditions" },
-  { href: "/privacy", label: "Privacy Policy" },
-  { href: "/returns", label: "Returns Policy" },
-  { href: "/cookies", label: "Cookie Policy" },
-  { href: "/shipping", label: "Shipping Policy" },
-];
+import { localizeHref, type Locale } from "@/lib/i18n/config";
+import type { Dict } from "@/lib/i18n/dictionaries";
 
 const SOCIALS = [
   { href: "https://www.instagram.com/tava_labs", label: "Instagram", Icon: InstagramIcon },
@@ -38,7 +15,37 @@ const SOCIALS = [
   { href: "https://www.youtube.com/@tavalabsapp", label: "YouTube", Icon: YoutubeIcon },
 ];
 
-export default function Footer() {
+export default function Footer({
+  locale = "en",
+  dict,
+}: {
+  locale?: Locale;
+  dict: Dict;
+}) {
+  const c = dict.chrome;
+  const lh = (href: string) => localizeHref(href, locale);
+  const CONTACT_LINKS = [
+    { href: "/contact#general", label: c.contactLinks.general },
+    { href: "/contact#wholesale", label: c.contactLinks.wholesale },
+    { href: "/contact#sales-support", label: c.contactLinks.salesSupport },
+    { href: "/contact#product-support", label: c.contactLinks.productSupport },
+    { href: "/contact#pr", label: c.contactLinks.pr },
+  ];
+  const INFO_LINKS = [
+    { href: "/about", label: c.infoLinks.about },
+    { href: "/partners", label: c.infoLinks.partners },
+    { href: "/ingredients", label: c.infoLinks.ingredients },
+    { href: "/faq", label: c.infoLinks.faqs },
+    { href: "/blog", label: c.infoLinks.blog },
+    { href: "/research", label: c.infoLinks.research },
+  ];
+  const LEGAL_LINKS = [
+    { href: "/terms", label: c.legalLinks.terms },
+    { href: "/privacy", label: c.legalLinks.privacy },
+    { href: "/returns", label: c.legalLinks.returns },
+    { href: "/cookies", label: c.legalLinks.cookies },
+    { href: "/shipping", label: c.legalLinks.shipping },
+  ];
   return (
     <footer className="bg-forest text-[#fafaf9]">
       <div className="mx-auto max-w-7xl px-5 py-14 sm:px-8">
@@ -46,7 +53,7 @@ export default function Footer() {
           <div>
             <Logo className="h-8 w-auto" />
             <p className="mt-5 max-w-xs gold-word text-xl">
-              The Science of Attractive Health
+              {c.tagline}
             </p>
             <div className="mt-6 flex gap-3">
               {SOCIALS.map(({ href, label, Icon }) => (
@@ -64,37 +71,37 @@ export default function Footer() {
             </div>
           </div>
 
-          <nav aria-label="Shop">
+          <nav aria-label={c.shopHeading}>
             <h3 className="text-sm font-semibold tracking-wide gold-metal-text">
-              Shop
+              {c.shopHeading}
             </h3>
             <ul className="mt-4 space-y-2.5 text-sm">
               <li>
-                <Link href="/glow-brightening-serum" className="text-[#fafaf9]/85 hover:text-white">
-                  PDRN Brightening Serum
+                <Link href={lh("/glow-brightening-serum")} className="text-[#fafaf9]/85 hover:text-white">
+                  {c.footerSerum}
                 </Link>
               </li>
               <li>
-                <Link href="/glow-brightening-serum" className="text-[#fafaf9]/85 hover:text-white">
-                  Add to routine
+                <Link href={lh("/glow-brightening-serum")} className="text-[#fafaf9]/85 hover:text-white">
+                  {c.addToRoutine}
                 </Link>
               </li>
               <li>
-                <Link href="/ingredients" className="text-[#fafaf9]/85 hover:text-white">
-                  Ingredients
+                <Link href={lh("/ingredients")} className="text-[#fafaf9]/85 hover:text-white">
+                  {c.footerIngredients}
                 </Link>
               </li>
             </ul>
           </nav>
 
-          <nav aria-label="Contact us">
+          <nav aria-label={c.contactHeading}>
             <h3 className="text-sm font-semibold tracking-wide gold-metal-text">
-              Contact us
+              {c.contactHeading}
             </h3>
             <ul className="mt-4 space-y-2.5 text-sm">
               {CONTACT_LINKS.map((item) => (
                 <li key={item.href}>
-                  <Link href={item.href} className="text-[#fafaf9]/85 hover:text-white">
+                  <Link href={lh(item.href)} className="text-[#fafaf9]/85 hover:text-white">
                     {item.label}
                   </Link>
                 </li>
@@ -102,14 +109,14 @@ export default function Footer() {
             </ul>
           </nav>
 
-          <nav aria-label="Info">
+          <nav aria-label={c.infoHeading}>
             <h3 className="text-sm font-semibold tracking-wide gold-metal-text">
-              Info
+              {c.infoHeading}
             </h3>
             <ul className="mt-4 space-y-2.5 text-sm">
               {INFO_LINKS.map((item) => (
                 <li key={item.href}>
-                  <Link href={item.href} className="text-[#fafaf9]/85 hover:text-white">
+                  <Link href={lh(item.href)} className="text-[#fafaf9]/85 hover:text-white">
                     {item.label}
                   </Link>
                 </li>
@@ -117,14 +124,14 @@ export default function Footer() {
             </ul>
           </nav>
 
-          <nav aria-label="Legal">
+          <nav aria-label={c.legalHeading}>
             <h3 className="text-sm font-semibold tracking-wide gold-metal-text">
-              Legal
+              {c.legalHeading}
             </h3>
             <ul className="mt-4 space-y-2.5 text-sm">
               {LEGAL_LINKS.map((item) => (
                 <li key={item.href}>
-                  <Link href={item.href} className="text-[#fafaf9]/85 hover:text-white">
+                  <Link href={lh(item.href)} className="text-[#fafaf9]/85 hover:text-white">
                     {item.label}
                   </Link>
                 </li>
@@ -135,24 +142,17 @@ export default function Footer() {
 
         <div className="mt-14 border-t border-white/10 pt-10">
           <h3 className="font-display text-2xl font-semibold">
-            Keep up to date with all things Tava
+            {c.newsletterHeading}
           </h3>
           <div className="mt-4">
-            <NewsletterForm />
+            <NewsletterForm dict={dict} />
           </div>
         </div>
 
         <div className="mt-12 space-y-3 border-t border-white/10 pt-8 text-xs leading-relaxed text-[#fafaf9]/60">
-          <p>
-            PDRN Brightening Serum is a cosmetic product. It is not intended to
-            diagnose, treat, cure, or prevent any disease. Individual results
-            may vary.
-          </p>
-          <p>
-            All sales are final. Please see our Returns policy before
-            ordering.
-          </p>
-          <p>&copy; 2026 Tava Labs &middot; The Science of Attractive Health</p>
+          <p>{c.disclaimer1}</p>
+          <p>{c.disclaimer2}</p>
+          <p>{c.copyright}</p>
         </div>
       </div>
     </footer>

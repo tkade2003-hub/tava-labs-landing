@@ -17,6 +17,11 @@ import {
   type MotionStyle,
 } from "framer-motion";
 import { Button } from "@/components/ui/button";
+import { localizeHref, type Locale } from "@/lib/i18n/config";
+import type { Dict } from "@/lib/i18n/dictionaries";
+import { EN_DICT } from "@/lib/i18n/dictionaries";
+
+type Teaser = Dict["appTeaser"];
 
 /* Aperture reveal app teaser, adapted from the Animata aperture reveal
    pattern at Vashon direction on 2026-11-23. One scroll progress value
@@ -164,16 +169,7 @@ const css = `
 .at-root[data-static] :is(.at-lead,.at-trail,.at-frame,.at-icon){ transform:none; }
 `;
 
-const CAPTION =
-  "The Tava Labs app brings your serum plan, your daily routine, your lab panels and results, and your orders into one place, built for iPhone.";
-const CAPTION_WORDS = CAPTION.split(" ");
 
-const FEATURES: Array<[string, string]> = [
-  ["A daily routine", "Morning and night sessions, checked off step by step."],
-  ["Streaks and progress", "Your streak and what is left, readable at a glance."],
-  ["Lab panels and results", "Panels, results, and ranges in your pocket."],
-  ["Orders and refills", "Orders and refills without the hunt."],
-];
 
 function TabIcon({ children, label, active }: { children: ReactNode; label: string; active?: boolean }) {
   return (
@@ -223,7 +219,8 @@ function StepRow({ done, title, detail, last }: { done?: boolean; title: string;
   );
 }
 
-function PhoneScreen() {
+function PhoneScreen({ t }: { t: Teaser }) {
+  const ph = t.phone;
   return (
     <div className="at-phone" aria-hidden="true">
       <div className="at-screen">
@@ -254,14 +251,14 @@ function PhoneScreen() {
             className="rounded-[9px]"
           />
           <span className="font-display text-[26px] leading-none font-semibold text-forest-deep">
-            Today
+            {ph.today}
           </span>
         </div>
         <p className="mt-[12px] px-5 font-display text-[19px] leading-tight font-semibold text-forest-deep">
-          Good morning
+          {ph.goodMorning}
         </p>
         <p className="mt-[3px] px-5 text-[11px] leading-snug text-[#6F695C]">
-          Day 12 of 30 · 18 days to go to your first full month
+          {ph.dayLine}
         </p>
 
         {/* Progress, counting what is left */}
@@ -270,7 +267,7 @@ function PhoneScreen() {
             <div className="h-full rounded-full bg-gold" style={{ width: "40%" }} />
           </div>
           <p className="mt-[6px] text-[11px] text-[#6F695C]">
-            Today: 4 of 6 routine steps to go
+            {ph.stepsToGo}
           </p>
         </div>
 
@@ -280,20 +277,20 @@ function PhoneScreen() {
             className="text-[9px] font-semibold tracking-[0.18em] text-gold uppercase"
             style={{ fontFamily: "var(--font-kanit), Arial, sans-serif" }}
           >
-            Morning routine
+            {ph.morningRoutine}
           </p>
           <div className="mt-[5px] flex flex-wrap items-center gap-2">
             <span className="font-display text-[17px] leading-none font-semibold text-forest-deep">
-              AM · 3 drops
+              {ph.amDrops}
             </span>
             <span className="rounded-full bg-linen px-2 py-[3px] text-[9.5px] font-semibold text-forest">
               PDRN Brightening Serum
             </span>
           </div>
           <div className="mt-[4px]">
-            <StepRow done title="Cleanse" detail="Gentle cleanser, pat dry" />
-            <StepRow done title="Apply 3 drops of serum" detail="Press into face and neck" />
-            <StepRow title="Moisturize + SPF" detail="SPF 30 or higher" last />
+            <StepRow done title={ph.steps[0].title} detail={ph.steps[0].detail} />
+            <StepRow done title={ph.steps[1].title} detail={ph.steps[1].detail} />
+            <StepRow title={ph.steps[2].title} detail={ph.steps[2].detail} last />
           </div>
         </div>
 
@@ -303,10 +300,10 @@ function PhoneScreen() {
             className="text-[9px] font-semibold tracking-[0.18em] uppercase"
             style={{ fontFamily: "var(--font-kanit), Arial, sans-serif", color: "#D8C19A" }}
           >
-            Clinical review
+            {ph.clinicalReview}
           </p>
           <p className="mt-[5px] font-display text-[17px] leading-none font-semibold" style={{ color: "#FAFAF9" }}>
-            Your results are in
+            {ph.resultsIn}
           </p>
           <div className="mt-[10px] flex h-[6px] overflow-hidden rounded-full">
             <span style={{ width: "55%", background: "#25C7FF" }} />
@@ -315,13 +312,13 @@ function PhoneScreen() {
           </div>
           <div className="mt-[8px] flex gap-[12px] text-[10px]" style={{ color: "rgba(250,250,249,0.82)" }}>
             <span className="flex items-center gap-[5px]">
-              <span className="size-[6px] rounded-full" style={{ background: "#25C7FF" }} />4 optimal
+              <span className="size-[6px] rounded-full" style={{ background: "#25C7FF" }} />{ph.optimal}
             </span>
             <span className="flex items-center gap-[5px]">
-              <span className="size-[6px] rounded-full" style={{ background: "#F5A640" }} />2 in range
+              <span className="size-[6px] rounded-full" style={{ background: "#F5A640" }} />{ph.inRange}
             </span>
             <span className="flex items-center gap-[5px]">
-              <span className="size-[6px] rounded-full" style={{ background: "#F59EB5" }} />1 to review
+              <span className="size-[6px] rounded-full" style={{ background: "#F59EB5" }} />{ph.toReview}
             </span>
           </div>
         </div>
@@ -331,26 +328,26 @@ function PhoneScreen() {
         {/* Tab bar */}
         <div className="relative border-t border-linestone bg-white px-3 pt-[9px] pb-[24px]">
           <div className="flex items-start justify-between">
-            <TabIcon label="Today" active>
+            <TabIcon label={ph.tabs.today} active>
               <path d="m3 10 9-7 9 7v10a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z" />
             </TabIcon>
-            <TabIcon label="Shop">
+            <TabIcon label={ph.tabs.shop}>
               <path d="M6 7h15l-1.5 9h-12z" />
               <path d="M6 7 5 3H2" />
               <circle cx="9" cy="20" r="1.6" />
               <circle cx="17" cy="20" r="1.6" />
             </TabIcon>
-            <TabIcon label="Lab">
+            <TabIcon label={ph.tabs.lab}>
               <path d="M9 3h6" />
               <path d="M10 3v6L4.5 19a2 2 0 0 0 1.8 3h11.4a2 2 0 0 0 1.8-3L14 9V3" />
               <path d="M7.5 15h9" />
             </TabIcon>
-            <TabIcon label="Orders">
+            <TabIcon label={ph.tabs.orders}>
               <path d="M21 8v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8" />
               <path d="m3 8 2.5-5h13L21 8H3z" />
               <path d="M10 12h4" />
             </TabIcon>
-            <TabIcon label="Profile">
+            <TabIcon label={ph.tabs.profile}>
               <circle cx="12" cy="8" r="4" />
               <path d="M4 21c1.5-3.6 4.5-5 8-5s6.5 1.4 8 5" />
             </TabIcon>
@@ -371,7 +368,15 @@ function PhoneScreen() {
   );
 }
 
-export default function AppTeaser() {
+export default function AppTeaser({
+  dict = EN_DICT,
+  locale = "en",
+}: {
+  dict?: Dict;
+  locale?: Locale;
+}) {
+  const t = dict.appTeaser;
+  const CAPTION_WORDS = t.caption.split(" ");
   const isStatic = usePrefersReducedMotion();
   const headlineId = useId();
   const trackRef = useRef<HTMLDivElement>(null);
@@ -439,9 +444,9 @@ export default function AppTeaser() {
       <style>{css}</style>
 
       <div className="mx-auto max-w-7xl px-5 pt-16 sm:px-8 lg:pt-20">
-        <p className="tava-label">Coming soon</p>
+        <p className="tava-label">{t.label}</p>
         <p className="mt-4 max-w-2xl text-lg leading-relaxed text-ink/75">
-          Your routine, your labs, and your orders are getting a home of their own.
+          {t.lead}
         </p>
       </div>
 
@@ -452,20 +457,20 @@ export default function AppTeaser() {
       >
         <motion.div ref={stageRef} className="at-stage" style={stageStyle}>
           <div className="at-media">
-            <PhoneScreen />
+            <PhoneScreen t={t} />
           </div>
 
           <h2 id={headlineId} className="at-headline">
-            <span className="at-lead">One app.</span>
+            <span className="at-lead">{t.headlineLead}</span>
             <span ref={openingRef} className="at-icon">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src="/assets/icon-t-period.svg" alt="" width={216} height={216} />
             </span>
-            <span className="at-trail">Every day.</span>
+            <span className="at-trail">{t.headlineTrail}</span>
           </h2>
 
           <p className="at-hint" aria-hidden="true">
-            Scroll
+            {t.scroll}
           </p>
 
           <p className="at-caption">
@@ -485,18 +490,18 @@ export default function AppTeaser() {
 
       <div className="mx-auto max-w-7xl px-5 pb-16 sm:px-8 lg:pb-24">
         <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-4">
-          {FEATURES.map(([title, desc]) => (
-            <div key={title} className="border-t-2 border-forest pt-5">
+          {t.features.map((f) => (
+            <div key={f.title} className="border-t-2 border-forest pt-5">
               <h3 className="font-display text-2xl leading-snug font-semibold text-forest-deep">
-                {title}
+                {f.title}
               </h3>
-              <p className="mt-2 text-sm leading-relaxed text-ink/70">{desc}</p>
+              <p className="mt-2 text-sm leading-relaxed text-ink/70">{f.desc}</p>
             </div>
           ))}
         </div>
         <div className="mt-14 text-center">
-          <Button render={<Link href="/glow-brightening-serum" />} size="lg" className="px-6">
-            Add to routine
+          <Button render={<Link href={localizeHref("/glow-brightening-serum", locale)} />} size="lg" className="px-6">
+            {dict.chrome.addToRoutine}
           </Button>
         </div>
       </div>

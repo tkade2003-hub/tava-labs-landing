@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Kopeeritud ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Kopeeri see:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Me ei leidnud sinu kassaviidet sellelt lehelt, sinu lunastuskood on ka sinu kinnitusmeilis. Hoia see e-post alles ja kasuta koodi, kui rakenduse installid."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Juba sinu rakenduse kontosse lunastatud. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Hoia see alles kuni "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Kopeeri lunastuskood"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Kopeeri lunastuslink"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "See kood ühendab sinu ostu sinu rakenduse kontoga:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "See ost elab juba rakenduse kontos, nii et lunastatavat koodi ei ole, logi lihtsalt rakendusse sisse."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Sinu makse kinnitamine, sinu lunastuskood ilmub siia mõne sekundi pärast…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Sinu makse on e-postiga kinnitatud, sinu lunastuskood on ka selles e-postis. Hoia see alles ja sisesta see rakendusse, kui selle installid."
+  }
+ ]
+}

@@ -1,0 +1,1939 @@
+{
+ "meta": {
+  "home": {
+   "title": "PDRN Brightening Serum voor ondernemers | Tava Labs",
+   "description": "Huidverzorging voor ondernemers. Het PDRN Brightening Serum combineert PDRN, peptiden en hyaluronzuur voor een stralende, gehydrateerde huid. $49 eenmalig of $39 per maand."
+  },
+  "product": {
+   "title": "PDRN Brightening Serum voor ondernemers | Tava Labs",
+   "description": "Het Tava Labs PDRN Brightening Serum combineert PDRN, peptiden en natriumhyaluronaat voor een stralende, gehydrateerde huid in één dagelijkse stap, gemaakt voor oprichters, operators en makers. $49 eenmalig of $39 per maand."
+  },
+  "about": {
+   "title": "Over Tava Labs | Huidverzorging voor de ambitieuzen",
+   "description": "Tava Labs maakt huidverzorging voor de ambitieuzen. Maak kennis met het team achter het PDRN Brightening Serum, de dagelijkse routine voor oprichters en professionals."
+  },
+  "ingredients": {
+   "title": "Ingrediënten van het PDRN Brightening Serum | Tava Labs",
+   "description": "Elk ingrediënt in het PDRN Brightening Serum uitgelegd, van PDRN en peptiden tot natriumhyaluronaat en panthenol, plus de volledige INCI lijst en wat wij weglaten."
+  },
+  "faq": {
+   "title": "Veelgestelde vragen over het PDRN Brightening Serum | Tava Labs",
+   "description": "Antwoorden over het PDRN Brightening Serum: prijzen, Subscribe and Save, levertijden, retouren, de huidquiz en het koppelen van je aankoop aan de Tava app."
+  },
+  "contact": {
+   "title": "Contact met Tava Labs | Support, verkoop en partnerschappen",
+   "description": "Neem contact op met Tava Labs voor productsupport, hulp bij bestellingen, groothandel, partnerschappen en pers. Mail naar talia@tavalabs.app of bel 909-906-1308."
+  },
+  "partners": {
+   "title": "Partner worden van Tava Labs | Gratis serum voor jouw programma",
+   "description": "Accelerators, incubators, bedrijfsprogramma’s en investeerders: geef je oprichters een gratis voorraad van een maand van het PDRN Brightening Serum. Word partner van Tava Labs."
+  },
+  "research": {
+   "title": "Resultaten van 16 weken onderzoek | Tava Labs",
+   "description": "Gemeten resultaten uit het deelnemersprogramma van 16 weken van Tava Labs. Veranderingen van baseline tot week 16 in acne laesies, hydratatie, roodheid, pigmentatie en textuur, met het volledige protocol van het programma."
+  },
+  "blog": {
+   "title": "The Tava Journal | Huid, slaap en stress voor oprichters",
+   "description": "Slaapwetenschap, stressonderzoek en huidgezondheid voor oprichters en professionals, plus praktische routines om er scherp uit te zien op het werk."
+  },
+  "quiz": {
+   "title": "Huidquiz | Stel je persoonlijke serumplan samen | Tava Labs",
+   "description": "Beantwoord een paar snelle vragen en stel je persoonlijke plan samen rond het PDRN Brightening Serum. Eén serum, twee keer per dag, afgestemd op je huid en je doelen."
+  },
+  "checkoutSuccess": {
+   "title": "Bestelling bevestigd | Jouw PDRN Brightening Serum | Tava Labs",
+   "description": "Je bestelling van het Tava Labs PDRN Brightening Serum is bevestigd. Je claimcode koppelt deze aankoop aan de app, waar je plan, antwoorden en bestelling met je meebewegen."
+  },
+  "checkoutCancel": {
+   "title": "Afrekenen geannuleerd | Niets afgeschreven | Tava Labs",
+   "description": "Er is niets afgeschreven. Je Tava Labs plan en antwoorden zijn bewaard, zodat je verder kunt gaan waar je was gebleven zodra je er klaar voor bent."
+  },
+  "login": {
+   "title": "Inloggen | Tava Labs",
+   "description": "Log in op je Tava Labs account: je plan, bestellingen, routine en support, gekoppeld aan hetzelfde e-mailadres als de mobiele app."
+  },
+  "account": {
+   "title": "Jouw account | Tava Labs",
+   "description": "Je Tava Labs account op het web: je plan, bestellingen, routine en support, gekoppeld aan hetzelfde e-mailadres als de mobiele app."
+  },
+  "terms": {
+   "title": "Algemene voorwaarden | Tava Labs",
+   "description": "De voorwaarden voor je gebruik van tavalabs.app en je aankoop van het PDRN Brightening Serum bij Tava Labs, LLC, inclusief ons beleid dat alle verkopen definitief zijn."
+  },
+  "privacy": {
+   "title": "Privacybeleid | Tava Labs",
+   "description": "Hoe Tava Labs je gegevens verzamelt, gebruikt en beschermt wanneer je tavalabs.app bezoekt, de huidquiz doet of het PDRN Brightening Serum bestelt."
+  },
+  "returns": {
+   "title": "Retour en terugbetalingsbeleid | Tava Labs",
+   "description": "Het retour en terugbetalingsbeleid van Tava Labs voor bestellingen van het PDRN Brightening Serum, inclusief onze voorwaarden dat alle verkopen definitief zijn en hoe je support bereikt."
+  },
+  "cookies": {
+   "title": "Cookiebeleid | Tava Labs",
+   "description": "Hoe de website van Tava Labs cookies en vergelijkbare tools gebruikt wanneer je tavalabs.app bezoekt, wat ze opslaan en hoe je ze kunt beheren."
+  },
+  "shipping": {
+   "title": "Verzendbeleid | Tava Labs",
+   "description": "Het verzendbeleid van Tava Labs voor bestellingen van het PDRN Brightening Serum: verwerkingstijden, leveringsinschattingen, tracking en leveringsgebieden."
+  }
+ },
+ "chrome": {
+  "homeAria": "Tava Labs startpagina",
+  "primaryNavAria": "Primair",
+  "mobileNavAria": "Mobiel",
+  "navSerum": "Het serum",
+  "navAbout": "Over ons",
+  "navIngredients": "Ingrediënten",
+  "navFaqs": "Veelgestelde vragen",
+  "navBlog": "Blog",
+  "navContact": "Contact",
+  "login": "Inloggen",
+  "addToRoutine": "Voeg toe aan routine",
+  "openMenu": "Menu openen",
+  "closeMenu": "Menu sluiten",
+  "language": "Taal",
+  "tagline": "The Science of Attractive Health",
+  "shopHeading": "Shop",
+  "contactHeading": "Neem contact op",
+  "infoHeading": "Info",
+  "legalHeading": "Juridisch",
+  "footerSerum": "PDRN Brightening Serum",
+  "footerIngredients": "Ingrediënten",
+  "contactLinks": {
+   "general": "Algemeen",
+   "wholesale": "Groothandel",
+   "salesSupport": "Verkoopsupport",
+   "productSupport": "Productsupport",
+   "pr": "PR"
+  },
+  "infoLinks": {
+   "about": "Over ons",
+   "partners": "Partners",
+   "ingredients": "Ingrediënten",
+   "faqs": "Veelgestelde vragen",
+   "blog": "Blog",
+   "research": "Onderzoek"
+  },
+  "newsletterHeading": "Blijf op de hoogte van alles rond Tava",
+  "newsletter": {
+   "placeholder": "Je e-mailadres",
+   "subscribe": "Abonneer",
+   "sending": "Verzenden...",
+   "done": "Je staat erop. Welkom op de glowlijst.",
+   "error": "Er ging iets mis, probeer het opnieuw."
+  },
+  "disclaimer1": "Het PDRN Brightening Serum is een cosmetisch product. Het is niet bedoeld om een ziekte te diagnosticeren, behandelen, genezen of voorkomen. Individuele resultaten kunnen verschillen.",
+  "disclaimer2": "Alle verkopen zijn definitief. Lees ons retourbeleid voordat je bestelt.",
+  "copyright": "© 2026 Tava Labs · The Science of Attractive Health",
+  "notFoundLabel": "Tava Labs",
+  "notFoundTitle": "Pagina niet gevonden",
+  "notFoundBody": "Die pagina is hier niet. Ze is misschien verplaatst, of het adres is onvolledig.",
+  "notFoundHome": "Terug naar de homepage",
+  "notFoundShop": "Shop het PDRN Brightening Serum",
+  "legalLinks": {
+   "terms": "Algemene voorwaarden",
+   "privacy": "Privacybeleid",
+   "returns": "Retourbeleid",
+   "cookies": "Cookiebeleid",
+   "shipping": "Verzendbeleid"
+  }
+ },
+ "hero": {
+  "ariaLabel": "PDRN Brightening Serum",
+  "pill": "Voor wie vooraan staat",
+  "line1": "Verzorgd vóór",
+  "line2": "het eerste gesprek.",
+  "sub": "Twee tot vier druppels PDRN Brightening Serum, ochtend en avond, voor een huid die er helder, gehydrateerd en glad uitziet, van het eerste tot het laatste gesprek.",
+  "cardAria": "PDRN Brightening Serum, de productpagina",
+  "onSetPill": "Op de set",
+  "onSetCaption": "Kalm onder de lampen",
+  "onSetAlt": "Oprichter zittend op een studioset, kijkend in de camera",
+  "morningPill": "Ochtendritueel",
+  "morningCaption": "Bij de spiegel, als eerste",
+  "morningAlt": "Oprichter die serum aanbrengt bij een badkamerspiegel in ochtendlicht",
+  "widePill": "Dag en nacht",
+  "wideHead": "Eén fles. Elke dag.",
+  "priceLine": "$49 eenmalig of $39 per maand",
+  "talia": {
+   "baseline": "Baseline",
+   "week16": "Week 16",
+   "statBig": "63% lager",
+   "statCap": "Acne laesies",
+   "statNote": "Gemiddelde verandering in het deelnemersprogramma van 16 weken",
+   "alt": "Talia Kade, onderzoeker bij Tava Labs, in een witte laboratoriumjas",
+   "slopeAria": "Trendlijn van 16,8 bij baseline naar 6,2 in week 16"
+  }
+ },
+ "home": {
+  "introTitleLead": "Helderder, gehydrateerd,",
+  "introTitleAccent": "gezond ogende huid",
+  "introBody": "Ondernemers leven op camera en in de kamer. Je pitcht investeerders, sluit deals in verkoopgesprekken en neemt de video op die het product verkoopt. Je gezicht is deel van de pitch. Het PDRN Brightening Serum is één lichte, snel absorberende stap met PDRN, peptiden en hyaluronzuur. Het helpt de huid er helderder, diep gehydrateerd en glad uit te zien. Twee minuten, twee keer per dag, en je verschijnt scherp, uitgerust en klaar.",
+  "marqueeTagline": "The Science of Attractive Health",
+  "marqueeSlogan": "Huidverzorging voor de ambitieuzen",
+  "buildersTitle": "Gemaakt voor de bouwers",
+  "buildersTagline": "Bouw je bedrijf. Verwaarloos jezelf niet.",
+  "buildersBody": "Als ondernemer presenteer je voortdurend. Je pitcht investeerders in persoon, verkoopt via videogesprekken en neemt content op die binnen enkele seconden vertrouwen moet winnen. Er voorbereid en beheerst uitzien is geen ijdelheid. Het is deel van hoe je het bedrijf presenteert. Een eenvoudige dagelijkse routine hoort in het systeem van een oprichter, naast een goede garderobe, een degelijke laptop en een systeem waarop je kunt vertrouwen.",
+  "pitchAlt": "Oprichter die zijn idee pitcht aan een investeerder",
+  "pitchTitle": "In de pitch",
+  "pitchBody": "Tegenover een investeerder leest de kamer jou voordat ze je deck leest. Verschijn als de persoon achter een bedrijf dat steun verdient: uitgerust, scherp en klaar.",
+  "cameraAlt": "Oprichter die voor een camera spreekt",
+  "cameraTitle": "Op camera",
+  "cameraBody": "Op een shoot, een podcast of een verkoopgesprek toont de lens eerst de late nachten. Vertrouwen voor een camera begint bij hoe je jezelf onderhoudt voordat je ooit op opnemen drukt.",
+  "maintenanceTitle": "Het dagelijkse onderhoud van de ondernemer.",
+  "maintenanceBody": "Eén serum, ochtend en avond. Zie er voorbereid uit. Voel je zelfverzekerd. Verschijn klaar.",
+  "motionTitle": "Tava in beweging",
+  "motionBody": "Veel makers en ondernemers zijn al fan van ons.",
+  "playVideo": "Video afspelen",
+  "videoPlayer": "Videospeler",
+  "closeVideo": "Video sluiten",
+  "freeFromTitleLead": "Kwaliteitsingrediënten, zorgvuldig",
+  "freeFromTitleAccent": "gecombineerd.",
+  "freeFromSub": "Wat wij weglaten is net zo belangrijk als wat wij erin stoppen.",
+  "freeFromItems": [
+   {
+    "name": "Dierproefvrij",
+    "blurb": "Nooit getest op dieren."
+   },
+   {
+    "name": "Geurvrij",
+    "blurb": "Geen toegevoegde parfums of synthetische geuren."
+   },
+   {
+    "name": "Vrij van minerale olie",
+    "blurb": "Geen minerale olie of petroleumvulstoffen."
+   },
+   {
+    "name": "Vrij van ftalaten",
+    "blurb": "Geen ftalaten in de formule."
+   },
+   {
+    "name": "Vrij van siliconen",
+    "blurb": "Geen siliconen die je huid bedekken."
+   },
+   {
+    "name": "Vrij van sulfaten",
+    "blurb": "Geen agressieve sulfaten. Zacht voor de huid."
+   },
+   {
+    "name": "Vrij van allergenen",
+    "blurb": "Gemaakt zonder veelvoorkomende allergenen."
+   },
+   {
+    "name": "Vrij van alcohol",
+    "blurb": "Geen uitdrogende alcoholen."
+   }
+  ],
+  "founderLabel": "Een boodschap van onze oprichter",
+  "founderQuote": "“Een gezonde huid is het aantrekkelijkste wat je kunt dragen.”",
+  "founderBody1": "Dat is de filosofie achter Tava Labs, The Science of Attractive Health. Het PDRN Brightening Serum is de ene stap waar de routine omheen is gebouwd: twee minuten, twee keer per dag, ochtend en avond.",
+  "founderBody2": "Bekijk de film en hoor de wetenschap erachter, in onze eigen woorden.",
+  "founderPhilosophy": "De filosofie van Tava Labs",
+  "founderVideoAria": "De Tava Labs film, de wetenschap achter het PDRN Brightening Serum",
+  "shopSerum": "Shop het serum",
+  "journalTitle": "The Tava Journal",
+  "journalSub": "Over slaap, stress en klaar verschijnen.",
+  "readJournal": "Lees het journal",
+  "readStory": "Lees het verhaal"
+ },
+ "appTeaser": {
+  "label": "Binnenkort",
+  "lead": "Je routine, je labs en je bestellingen krijgen een eigen thuis.",
+  "headlineLead": "Eén app.",
+  "headlineTrail": "Elke dag.",
+  "scroll": "Scroll",
+  "caption": "De Tava Labs app brengt je serumplan, je dagelijkse routine, je labpanels en resultaten en je bestellingen samen op één plek, gemaakt voor iPhone.",
+  "features": [
+   {
+    "title": "Een dagelijkse routine",
+    "desc": "Ochtend en avondsessies, stap voor stap afgevinkt."
+   },
+   {
+    "title": "Reeksen en voortgang",
+    "desc": "Je reeks en wat er nog rest, in één oogopslag leesbaar."
+   },
+   {
+    "title": "Labpanels en resultaten",
+    "desc": "Panels, resultaten en bereiken in je broekzak."
+   },
+   {
+    "title": "Bestellingen en bijvullingen",
+    "desc": "Bestellingen en bijvullingen zonder zoeken."
+   }
+  ],
+  "phone": {
+   "today": "Vandaag",
+   "goodMorning": "Goedemorgen",
+   "dayLine": "Dag 12 van 30 · Nog 18 dagen tot je eerste volle maand",
+   "stepsToGo": "Vandaag: nog 4 van 6 routinestappen te gaan",
+   "morningRoutine": "Ochtendroutine",
+   "amDrops": "AM · 3 druppels",
+   "clinicalReview": "Klinische beoordeling",
+   "resultsIn": "Je resultaten zijn binnen",
+   "optimal": "4 optimaal",
+   "inRange": "2 binnen bereik",
+   "toReview": "1 te bekijken",
+   "tabs": {
+    "today": "Vandaag",
+    "shop": "Shop",
+    "lab": "Lab",
+    "orders": "Bestellingen",
+    "profile": "Profiel"
+   },
+   "steps": [
+    {
+     "title": "Reinigen",
+     "detail": "Zachte reiniger, droogdeppen"
+    },
+    {
+     "title": "Breng 3 druppels serum aan",
+     "detail": "Druk in gezicht en hals"
+    },
+    {
+     "title": "Hydrateren + SPF",
+     "detail": "SPF 30 of hoger"
+    }
+   ]
+  }
+ },
+ "categoryChrome": {
+  "readMore": "Lees meer +",
+  "showLess": "Toon minder −",
+  "prevProducts": "Vorige producten",
+  "nextProducts": "Volgende producten",
+  "goTo": "Ga naar {title}",
+  "explore": "Ontdek"
+ },
+ "categories": {
+  "skincare": {
+   "eyebrow": "HUIDVERZORGING",
+   "heroTitleLead": "Je volgende vergadering",
+   "heroTitleAccent": "begint bij jou.",
+   "heroCopy": "Gemaakt voor ondernemers die pitchen, verkopen en opnemen op camera. Eén dagelijks serum, gebouwd rond PDRN, voor een huid die er scherp en uitgerust uitziet in de kamer en op de lens.",
+   "heroFinePrint": "Cosmetische huidverzorging. Niet bedoeld om een ziekte te diagnosticeren, behandelen, genezen of voorkomen.",
+   "stamp": "HUIDVERZORGING VOOR DE AMBITIEUZEN",
+   "primaryCta": "Voeg toe aan routine",
+   "secondaryCta": "Bekijk de ingrediënten",
+   "optionsEyebrow": "HET ASSORTIMENT",
+   "optionsTitleLead": "Eén serum.",
+   "optionsTitleAccent": "Geen plank vol giswerk.",
+   "optionsCopy": "Begin met het serum. De rest van de lijn is onderweg.",
+   "products": [
+    {
+     "title": "PDRN Brightening Serum",
+     "subtitle": "PDRN, peptiden en natriumhyaluronaat",
+     "unit": "eenmalig",
+     "imageAlt": "Fles Tava Labs PDRN Brightening Serum",
+     "badges": [
+      "Bestseller"
+     ],
+     "description": "Het dagelijkse serum voor een stralende, gehydrateerde, gezond ogende huid. $39 per maand met Subscribe and Save.",
+     "linkLabel": "Bekijk het serum"
+    },
+    {
+     "title": "Peptide Moisturizer",
+     "subtitle": "1.7 fl oz (50ml)",
+     "imageAlt": "Witte tube Tava Labs Peptide Moisturizer met een roze spetter",
+     "badges": [
+      "Binnenkort"
+     ],
+     "description": "Een peptide moisturizer die rimpels aanpakt en hydrateert, gemaakt voor een huid die de hele dag beheerst moet ogen."
+    },
+    {
+     "title": "Peptide Eye Cream",
+     "subtitle": "1 fl oz (30ml)",
+     "imageAlt": "Witte tube Tava Labs Peptide Eye Cream met een champagnedruppel",
+     "badges": [
+      "Binnenkort"
+     ],
+     "description": "Vermindert de zichtbaarheid van wallen onder de ogen en pakt rimpels rond de ogen aan, voor een uitgeruste blik op camera."
+    },
+    {
+     "title": "Skin Firming Cream",
+     "subtitle": "2 oz (56g)",
+     "imageAlt": "Wit potje Tava Labs Skin Firming Cream met een gouden golf als achtergrond",
+     "badges": [
+      "Binnenkort"
+     ],
+     "description": "Hyaluronzuur en CoQ10 in een rijke crème die de huid er stevig en verzorgd laat uitzien."
+    }
+   ],
+   "disclaimerLead": "De huidverzorgingsproducten van Tava Labs zijn cosmetica. Ze zijn niet bedoeld om een ziekte te diagnosticeren, behandelen, genezen of voorkomen.",
+   "disclaimerMore": [
+    "Individuele resultaten verschillen. Gebruik alleen zoals aangegeven: 2 tot 4 druppels van het PDRN Brightening Serum, twee keer per dag, op een schone huid.",
+    "Stop bij irritatie met het gebruik en raadpleeg een professional. De prijzen op deze pagina waren juist bij publicatie en kunnen veranderen."
+   ],
+   "protocolEyebrow": "DE ROUTINE",
+   "protocolTitleLead": "Twee minuten, twee keer per dag.",
+   "protocolTitleAccent": "Dat is de hele routine.",
+   "protocolCopy": "Een routine gebouwd rond één serum en het schema van een ondernemer, met vroege gesprekken, late nachten en alles daartussen.",
+   "protocolCta": "Voeg toe aan routine",
+   "steps": [
+    {
+     "title": "Beoordeel",
+     "lead": "met de huidquiz",
+     "body": "Beantwoord een paar snelle vragen over je huid, slaap en schema, zodat je plan begint waar je echt staat."
+    },
+    {
+     "title": "Breng aan",
+     "lead": "2 tot 4 druppels, twee keer per dag",
+     "body": "Ochtend en avond, op een schone huid. Eén serum, één stap, geen routine van tien stappen om bij te houden."
+    },
+    {
+     "title": "Volg",
+     "lead": "je plan in de app",
+     "body": "Je aankoop koppelt met een claimcode aan de Tava app, waar je plan, bestellingen en routine op één plek blijven."
+    }
+   ],
+   "legalLines": [
+    "Alleen cosmetische producten. Niets op deze pagina is medisch advies."
+   ]
+  },
+  "biomarkers": {
+   "eyebrow": "LABBIOMARKERS",
+   "heroTitleLead": "Ken je gegevens,",
+   "heroTitleAccent": "op Tava.",
+   "heroCopy": "Je runt je bedrijf op cijfers. Binnenkort kun je dezelfde discipline op jezelf toepassen: je belangrijkste biomarkers, in de tijd gevolgd, in de Tava app.",
+   "heroFinePrint": "Binnenkort in de Tava app. Inzichten zijn alleen ter informatie en diagnosticeren geen aandoening.",
+   "stamp": "JE GEGEVENS OP ÉÉN PLEK",
+   "primaryCta": "Bekijk wat wordt gevolgd",
+   "secondaryCta": "Hoe het gaat werken",
+   "optionsEyebrow": "WAT WORDT GEVOLGD",
+   "optionsTitleLead": "Zes gebieden.",
+   "optionsTitleAccent": "Eén helder beeld.",
+   "optionsCopy": "De biomarkergebieden in de Tava app Preview, nu in aanbouw.",
+   "products": [
+    {
+     "title": "Hersenen",
+     "subtitle": "Focus en helderheid",
+     "badges": [
+      "Binnenkort"
+     ],
+     "description": "De markers achter focus, helderheid en cognitief tempo, samengebracht in één overzicht."
+    },
+    {
+     "title": "Hormonen",
+     "subtitle": "Balans",
+     "badges": [
+      "Binnenkort"
+     ],
+     "description": "Je hormoonbeeld in de tijd, zodat veranderingen zichtbaar zijn in plaats van gegist."
+    },
+    {
+     "title": "Hart",
+     "subtitle": "Cardiovasculaire markers",
+     "badges": [
+      "Binnenkort"
+     ],
+     "description": "De hartmarkers die ertoe doen, gevolgd als trend in plaats van als eenmalige meting."
+    },
+    {
+     "title": "Stofwisseling",
+     "subtitle": "Energie en verbranding",
+     "badges": [
+      "Binnenkort"
+     ],
+     "description": "Hoe je lichaam energie gebruikt, in cijfers die je echt kunt volgen."
+    },
+    {
+     "title": "Darm",
+     "subtitle": "Spijsverteringsgezondheid",
+     "badges": [
+      "Binnenkort"
+     ],
+     "description": "Signalen van darmgezondheid die samenhangen met energie, stemming en herstel."
+    },
+    {
+     "title": "Levensduur",
+     "subtitle": "Biologische leeftijd",
+     "badges": [
+      "Binnenkort"
+     ],
+     "description": "De lange blik: hoe je markers samen een beeld van je biologische leeftijd vormen."
+    }
+   ],
+   "disclaimerLead": "Biomarkerinzichten in de Tava app zijn alleen ter informatie. Ze diagnosticeren, behandelen of voorkomen geen aandoening.",
+   "disclaimerMore": [
+    "Bespreek elk resultaat dat je zorgen baart met je eigen zorgverlener. Bel in een noodgeval 911."
+   ],
+   "protocolEyebrow": "HOE HET GAAT WERKEN",
+   "protocolTitleLead": "Test, bekijk,",
+   "protocolTitleAccent": "volg de trend.",
+   "protocolCopy": "Eén dashboard voor de persoon die het bedrijf runt, naast je serumplan in dezelfde app.",
+   "steps": [
+    {
+     "title": "Test",
+     "lead": "via een labpartner",
+     "body": "Je monster wordt afgenomen en verwerkt, en de resultaten komen terecht in je Tava app."
+    },
+    {
+     "title": "Bekijk",
+     "lead": "gebied per gebied",
+     "body": "Hersenen, hormonen, hart, stofwisseling, darm en levensduur, elk met een eigen overzicht."
+    },
+    {
+     "title": "Volg",
+     "lead": "de trend in de tijd",
+     "body": "Eén meting is een momentopname. De waarde zit in de trend, en de app bewaart die voor je."
+    }
+   ],
+   "legalLines": [
+    "Het volgen van labbiomarkers komt binnenkort en is nog niet open voor bestellingen."
+   ]
+  },
+  "mentalHealth": {
+   "eyebrow": "MENTALE GEZONDHEID",
+   "heroTitleLead": "Focus beter,",
+   "heroTitleAccent": "op Tava.",
+   "heroCopy": "Ondersteuning voor focus en aandacht die begint met een beoordeling door een clinicus, niet met een afrekenknop.",
+   "heroFinePrint": "Na beoordeling door een clinicus. Dit programma is in ontwikkeling en nog niet open voor inschrijving.",
+   "stamp": "DOOR CLINICI BEOORDEELDE ZORG",
+   "primaryCta": "Bekijk hoe het werkt",
+   "optionsEyebrow": "HET PROGRAMMA",
+   "optionsTitleLead": "Zorg die begint",
+   "optionsTitleAccent": "met een beoordeling.",
+   "optionsCopy": "",
+   "products": [],
+   "disclaimerLead": "Mentale gezondheidsondersteuning op Tava begint met een beoordeling door een clinicus. Niets hier is een diagnose of een behandeladvies.",
+   "disclaimerMore": [
+    "Bel of sms 988 in de Verenigde Staten als je in crisis bent of eraan denkt jezelf te verwonden. Bel in een noodgeval 911."
+   ],
+   "protocolEyebrow": "HOE HET WERKT",
+   "protocolTitleLead": "Eerst beoordelen.",
+   "protocolTitleAccent": "Daarna een plan.",
+   "protocolCopy": "Een zorgvuldig pad, in alle openheid, in jouw tempo.",
+   "steps": [
+    {
+     "title": "Beoordeling",
+     "lead": "met een clinicus",
+     "body": "Deel je geschiedenis en waar je mee zit, en een clinicus beoordeelt of ondersteuning hier passend is."
+    },
+    {
+     "title": "Plan",
+     "lead": "om jou heen gebouwd",
+     "body": "Als het passend is, wordt je plan gebouwd rond je doelen en je schema."
+    },
+    {
+     "title": "Ondersteuning",
+     "lead": "onderweg",
+     "body": "Check ins houden het plan eerlijk naarmate dingen veranderen."
+    }
+   ],
+   "legalLines": [
+    "Het aanbod voor mentale gezondheid op Tava is in ontwikkeling en nog niet open voor inschrijving."
+   ]
+  },
+  "peptides": {
+   "eyebrow": "PEPTIDEPROGRAMMA’S",
+   "heroTitleLead": "Peptiden,",
+   "heroTitleAccent": "met een zorgverlener aan je zijde.",
+   "heroCopy": "Dertien peptideprogramma’s van Tava Labs, elk beginnend met een online consult en een beoordeling door een zorgverlener.",
+   "heroFinePrint": "Recept vereist. Een bevoegde zorgverlener beslist na het consult over geschiktheid.",
+   "stamp": "PROGRAMMA’S ONDER BEGELEIDING VAN ZORGVERLENERS",
+   "primaryCta": "Start een consult",
+   "secondaryCta": "Hoe het werkt",
+   "optionsEyebrow": "DE PROGRAMMA’S",
+   "optionsTitleLead": "Dertien programma’s.",
+   "optionsTitleAccent": "Eén consult start elk ervan.",
+   "optionsCopy": "Elk programma omvat een consult van $20. De meeste omvatten labtests. De prijzen zijn de maandelijkse programmaprijzen.",
+   "unitPerMonth": "/mnd",
+   "products": [
+    {
+     "subtitle": "Herstel",
+     "imageAlt": "Flaconillustratie van het programma BPC-157",
+     "badges": [
+      "Herstel",
+      "Darmgezondheid",
+      "Labtests inbegrepen"
+     ],
+     "description": "BPC-157 van Tava Labs. Beoordeling en opvolging door een zorgverlener maken deel uit van het programma.",
+     "linkLabel": "Bekijk programma"
+    },
+    {
+     "subtitle": "Darmgezondheid",
+     "imageAlt": "Flaconillustratie van het programma CJC-1295 + Ipamorelin",
+     "badges": [
+      "Darmgezondheid",
+      "Slaap",
+      "Herstel",
+      "Levensduur",
+      "Labtests inbegrepen"
+     ],
+     "description": "CJC-1295 + Ipamorelin van Tava Labs. Beoordeling en opvolging door een zorgverlener maken deel uit van het programma.",
+     "linkLabel": "Bekijk programma"
+    },
+    {
+     "subtitle": "Levensduur",
+     "imageAlt": "Flaconillustratie van het programma GHK-Cu",
+     "badges": [
+      "Levensduur",
+      "Labtests inbegrepen"
+     ],
+     "description": "GHK-Cu van Tava Labs. Beoordeling en opvolging door een zorgverlener maken deel uit van het programma.",
+     "linkLabel": "Bekijk programma"
+    },
+    {
+     "subtitle": "Herstel",
+     "imageAlt": "Flaconillustratie van het programma GLOW Injection",
+     "badges": [
+      "Herstel",
+      "Labtests inbegrepen"
+     ],
+     "description": "GLOW Injection van Tava Labs. Beoordeling en opvolging door een zorgverlener maken deel uit van het programma.",
+     "linkLabel": "Bekijk programma"
+    },
+    {
+     "subtitle": "Gewichtsverlies",
+     "imageAlt": "Flaconillustratie van het programma MOTS-C",
+     "badges": [
+      "Gewichtsverlies",
+      "Energie",
+      "Prestatie",
+      "Labtests inbegrepen"
+     ],
+     "description": "MOTS-C van Tava Labs. Beoordeling en opvolging door een zorgverlener maken deel uit van het programma.",
+     "linkLabel": "Bekijk programma"
+    },
+    {
+     "subtitle": "Levensduur",
+     "imageAlt": "Flaconillustratie van het programma NAD+ Injectable",
+     "badges": [
+      "Levensduur",
+      "Energie",
+      "Herstel",
+      "Focus"
+     ],
+     "description": "NAD+ Injectable van Tava Labs. Beoordeling en opvolging door een zorgverlener maken deel uit van het programma.",
+     "linkLabel": "Bekijk programma"
+    },
+    {
+     "subtitle": "Seksuele gezondheid",
+     "imageAlt": "Flaconillustratie van het programma PT-141",
+     "badges": [
+      "Seksuele gezondheid",
+      "Labtests inbegrepen"
+     ],
+     "description": "PT-141 van Tava Labs. Beoordeling en opvolging door een zorgverlener maken deel uit van het programma.",
+     "linkLabel": "Bekijk programma"
+    },
+    {
+     "subtitle": "Gewichtsverlies",
+     "imageAlt": "Flaconillustratie van het programma Semaglutide + B12 (Cyanocobalamin)",
+     "badges": [
+      "Gewichtsverlies",
+      "Labtests inbegrepen"
+     ],
+     "description": "Semaglutide + B12 (Cyanocobalamin) van Tava Labs. Beoordeling en opvolging door een zorgverlener maken deel uit van het programma.",
+     "linkLabel": "Bekijk programma"
+    },
+    {
+     "subtitle": "Levensduur",
+     "imageAlt": "Flaconillustratie van het programma Sermorelin",
+     "badges": [
+      "Levensduur",
+      "Herstel",
+      "Prestatie",
+      "Labtests inbegrepen"
+     ],
+     "description": "Sermorelin van Tava Labs. Beoordeling en opvolging door een zorgverlener maken deel uit van het programma.",
+     "linkLabel": "Bekijk programma"
+    },
+    {
+     "subtitle": "Prestatie",
+     "imageAlt": "Flaconillustratie van het programma TB-500",
+     "badges": [
+      "Prestatie",
+      "Herstel",
+      "Labtests inbegrepen"
+     ],
+     "description": "TB-500 van Tava Labs. Beoordeling en opvolging door een zorgverlener maken deel uit van het programma.",
+     "linkLabel": "Bekijk programma"
+    },
+    {
+     "subtitle": "Levensduur",
+     "imageAlt": "Flaconillustratie van het programma Tesamorelin",
+     "badges": [
+      "Levensduur",
+      "Herstel",
+      "Prestatie",
+      "Labtests inbegrepen"
+     ],
+     "description": "Tesamorelin van Tava Labs. Beoordeling en opvolging door een zorgverlener maken deel uit van het programma.",
+     "linkLabel": "Bekijk programma"
+    },
+    {
+     "subtitle": "Gewichtsverlies",
+     "imageAlt": "Flaconillustratie van het programma Tirzepatide + B12 (Cyanocobalamin)",
+     "badges": [
+      "Gewichtsverlies",
+      "Labtests inbegrepen"
+     ],
+     "description": "Tirzepatide + B12 (Cyanocobalamin) van Tava Labs. Beoordeling en opvolging door een zorgverlener maken deel uit van het programma.",
+     "linkLabel": "Bekijk programma"
+    },
+    {
+     "subtitle": "Herstel",
+     "imageAlt": "Flaconillustratie van het programma Wolverine Injection",
+     "badges": [
+      "Herstel",
+      "Labtests inbegrepen"
+     ],
+     "description": "Wolverine Injection van Tava Labs. Beoordeling en opvolging door een zorgverlener maken deel uit van het programma.",
+     "linkLabel": "Bekijk programma"
+    }
+   ],
+   "disclaimerLead": "Samengestelde medicatie wordt door bevoegde apotheken bereid voor individuele patiënten. Ze is niet door de FDA goedgekeurd, en de FDA beoordeelt samengestelde middelen niet op veiligheid, werkzaamheid of kwaliteit.",
+   "disclaimerMore": [
+    "Medische zorg wordt verleend door onafhankelijke, bevoegde zorgverleners. Zorgverleners beslissen zelfstandig of een behandeling bij je past; een aankoop garandeert geen recept.",
+    "Een bevoegde zorgverlener beoordeelt je gegevens en beslist zelfstandig of een behandeling bij je past. Een aankoop garandeert geen recept.",
+    "Bel 911 in noodgevallen."
+   ],
+   "protocolEyebrow": "HOE HET WERKT",
+   "protocolTitleLead": "Consult, beoordeling,",
+   "protocolTitleAccent": "daarna beginnen.",
+   "protocolCopy": "Elk programma verloopt via onafhankelijke bevoegde zorgverleners.",
+   "protocolCta": "Start een consult",
+   "steps": [
+    {
+     "title": "Consult",
+     "lead": "online, in jouw schema",
+     "body": "Vul het online consult in voor het programma dat je koos. Het consult kost $20."
+    },
+    {
+     "title": "Beoordeling",
+     "lead": "door een bevoegde zorgverlener",
+     "body": "Een zorgverlener beoordeelt je gegevens en je labs en beslist zelfstandig of de behandeling bij je past."
+    },
+    {
+     "title": "Begin",
+     "lead": "indien voorgeschreven",
+     "body": "Je medicatie wordt verzonden vanuit een bevoegde apotheek, en je zorgverlener volgt je op terwijl je programma loopt."
+    }
+   ],
+   "legalLines": [
+    "Onze peptidewinkel staat momenteel in testmodus, dus programma’s worden ter beoordeling getoond en zijn nog niet open voor echte bestellingen.",
+    "Bel 911 in noodgevallen."
+   ]
+  }
+ },
+ "product": {
+  "breadcrumbHome": "Home",
+  "inStock": "Op voorraad",
+  "cleanVegan": "Clean en vegan • PDRN actief",
+  "dermTested": "Dermatologisch getest • Gemaakt voor alle huidtypen",
+  "titleLead": "PDRN Brightening",
+  "titleAccent": "Serum",
+  "pricePerUnit": "/ 30ml (1 fl oz)",
+  "subPrice": "of $39 per maand met Subscribe and Save",
+  "bullets": [
+   "PDRN, Acetyl Hexapeptide-8 en hyaluronzuur, ter ondersteuning van een gladder, stralender ogende huid.",
+   "Diepe hydratatie van glycerine, natrium PCA en panthenol.",
+   "100% dierproefvrij, geurvrij, parabenenvrij, sulfaatvrij, vrij van minerale olie, vrij van siliconen en vegan."
+  ],
+  "viewFormulation": "Bekijk de volledige formulering en klinische tests",
+  "details": [
+   {
+    "title": "Maak kennis met het PDRN Brightening Serum",
+    "body": "Een lichte, hydraterende formule voor een gladder, stralender ogende huid. Ze absorbeert snel, laat geen residu achter en houdt de huid comfortabel."
+   },
+   {
+    "title": "Ingrediënten en formulering",
+    "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin."
+   },
+   {
+    "title": "Hoe aan te brengen",
+    "body": "Breng 2 tot 4 druppels aan op een schone, droge huid. Masseer zachtjes over gezicht en hals tot het is opgenomen. Gebruik twee keer per dag, ochtend en avond. Volg op met moisturizer of zonnebrand."
+   },
+   {
+    "title": "Garantie voor schone huidverzorging",
+    "body": "Geformuleerd volgens gecertificeerde dierproefvrije normen, en gemaakt zonder geurstoffen, siliconen, parabenen, minerale olie, sulfaten, ftalaten of veelvoorkomende allergenen. Dermatologisch getest op alle huidtypen."
+   }
+  ],
+  "innovation": {
+   "label": "Cellulaire innovatie",
+   "titleLead": "Next Gen huid",
+   "titleAccent": "Regeneratie",
+   "sub": "Mariene werkstoffen en gerichte hexapeptiden, in één dagelijks serum.",
+   "items": [
+    {
+     "label": "Cellulaire vernieuwing",
+     "title": "PDRN bio werkstoffen",
+     "body": "Mariene PDRN versnelt de celvernieuwing, doet een doffe teint herleven en verzacht zichtbare textuur."
+    },
+    {
+     "label": "Bio peptidecomplex",
+     "title": "Acetyl Hexapeptide-8",
+     "body": "Signaalpeptiden verminderen oppervlaktespanning en ondersteunen de natuurlijke collageenelasticiteit, voor een steviger ogende huid met meer veerkracht."
+    },
+    {
+     "label": "Diepe hydratatie",
+     "title": "Hydratatiematrix",
+     "body": "Hyaluronzuur, natrium PCA en panthenol werken samen om vocht meer dan 24 uur in de huidbarrière vast te houden."
+    }
+   ],
+   "imgAlts": [
+    "Serumtextuur",
+    "Kristal en formule",
+    "Kristalstaal"
+   ],
+   "footnote": "*Bio cellulaire activiteit beoordeeld via in vitro en ex vivo klinische evaluaties. Resultaten kunnen verschillen per individuele huidtoestand."
+  },
+  "ecosystem": {
+   "label": "Het volledige plan",
+   "title": "Krijg volledige routineondersteuning",
+   "sub": "Samen met je serum omvat elk Tava Labs plan:",
+   "items": [
+    "Een persoonlijke huiddiagnose en regimegids uit je huidquiz",
+    "Een behandelplan dat langzaam begint en in de tijd opbouwt",
+    "Toepassingsherinneringen die jij beheert, ochtend en avond",
+    "Berichtenondersteuning direct in de app",
+    "Subscribe and Save levering elke maand, pauzeer of annuleer wanneer je wilt"
+   ],
+   "note": "Pauzeer, pas aan of annuleer Subscribe and Save wanneer je wilt. Eenmalige aankopen blijven beschikbaar voor $49."
+  },
+  "clinical": {
+   "label": "Klinische werkzaamheid",
+   "titleLead": "Zorg voor je",
+   "titleAccent": "huidgezondheid",
+   "imgAlts": [
+    "Diagram bevordert uitstraling",
+    "Diagram ondersteunt diepe hydratatie",
+    "Diagram verbetert huidtextuur"
+   ],
+   "note": "Topische bio actieve evaluaties op basis van 8 weken consumentenperceptie en instrumentele hydratatietests. Individuele huidbarrières, genetica en omgeving beïnvloeden specifieke tijdlijnen en uitkomsten."
+  },
+  "formulary": {
+   "label": "Het formularium",
+   "title": "Welke huidverzorgingsbehandeling past bij jou?",
+   "sub": "Gerichte formules voor verschillende huiddoelen, zorgen en routines. Bouw het regime dat past bij een werkschema.",
+   "serumAlt": "PDRN Brightening Serum",
+   "serumPriceLine": "Subscribe and Save $39/mnd",
+   "serumOneTime": "of $49 eenmalig",
+   "primaryBenefit": "Belangrijkste voordeel",
+   "howToUse": "Hoe te gebruiken",
+   "activeIngredient": "Werkzaam ingrediënt",
+   "serumBenefitValue": "Luminositeit en stevigheid",
+   "serumHowValue": "AM en PM",
+   "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
+   "selectSerum": "Selecteer serum",
+   "comingSoon": "Binnenkort",
+   "status": "Status",
+   "sizeLabel": "Inhoud",
+   "others": [
+    {
+     "rows": [
+      [
+       "Belangrijkste voordeel",
+       "Dagelijkse hydratatie"
+      ],
+      [
+       "Inhoud",
+       "1,7 fl oz (50ml)"
+      ]
+     ]
+    },
+    {
+     "rows": [
+      [
+       "Belangrijkste voordeel",
+       "Verzorging van het ooggebied"
+      ],
+      [
+       "Inhoud",
+       "1 fl oz (30ml)"
+      ]
+     ]
+    },
+    {
+     "rows": [
+      [
+       "Belangrijkste voordeel",
+       "Stevigheid en hydratatie"
+      ],
+      [
+       "Inhoud",
+       "2 oz (56g)"
+      ],
+      [
+       "Werkzaam ingrediënt",
+       "Hyaluronzuur en CoQ10"
+      ]
+     ]
+    },
+    {
+     "rows": [
+      [
+       "Belangrijkste voordeel",
+       "Hoofdhuid en haarverzorging"
+      ],
+      [
+       "Inhoud",
+       "1 fl oz (30ml)"
+      ]
+     ]
+    }
+   ]
+  },
+  "protocol": {
+   "label": "Protocol voor het dagelijkse regime",
+   "titleLead": "Eén eenvoudige routine,",
+   "titleAccent": "twee keer per dag",
+   "sub": "Consistentie telt. Volg deze stappen ochtend en avond zodat de peptiden en PDRN hun werk kunnen doen, en eindig met het insluiten van vocht.",
+   "progressionLabel": "Klinische progressie",
+   "progressionTitle": "Tijdlijn van zichtbare resultaten",
+   "progressionBody": "Meer glow en hydratatie in 7 tot 14 dagen; betere huidelasticiteit en barrièrestevigheid tegen week 4 tot 6.",
+   "timelineAlt": "Voorbeeld van een resultatentijdlijn, week 1 tot 4 en daarna",
+   "steps": [
+    {
+     "title": "Reinigen, met een zachte wash",
+     "body": "Reinig met een zachte, pH gebalanceerde wash om vuil te verwijderen en de huid voor te bereiden, zonder haar natuurlijke lipiden te strippen."
+    },
+    {
+     "title": "PDRN Serum, 2 tot 4 druppels",
+     "body": "Breng 2 tot 4 druppels PDRN Serum aan op een vochtige huid. Druk en dep zachtjes over gezicht en hals tot het volledig is opgenomen."
+    },
+    {
+     "title": "Hydrateer en voed",
+     "body": "Sluit af met moisturizer om de peptiden in te sluiten en de ceramidebarrière te ondersteunen."
+    },
+    {
+     "title": "Bescherm (alleen AM), SPF 30+",
+     "body": "Eindig de ochtendroutine met breed spectrum SPF 30+ om de huid te beschermen tegen UV en schade door vrije radicalen."
+    },
+    {
+     "title": "Je persoonlijke plan, inbegrepen",
+     "body": "Je huidquiz bouwt je plan, inclusief hoe je langzaam begint en wanneer je opbouwt."
+    }
+   ]
+  },
+  "faqSection": {
+   "label": "Antwoorden en helderheid",
+   "title": "Veelgestelde vragen",
+   "viewAll": "Bekijk alle veelgestelde vragen",
+   "items": [
+    {
+     "q": "Wat is PDRN en hoe helpt het de huid?",
+     "a": "PDRN (Polydeoxyribonucleotide) bestaat uit DNA fragmenten die bio compatibel zijn met menselijke huidcellen. Het bevordert natuurlijke celregeneratie, stimuleert microcirculatie en helpt de huidbarrière herstellen, voor zichtbare uitstraling en stevigheid."
+    },
+    {
+     "q": "Hoe neem ik het PDRN Brightening Serum op in mijn huidverzorgingsroutine?",
+     "a": "Gebruik het PDRN Brightening Serum twee keer per dag na reiniging en tonen. Breng 2 tot 4 druppels direct aan op vingertoppen of een vochtige huid en strijk over gezicht, hals en decolleté. Volg op met je moisturizer en zonnebrand in de ochtend."
+    },
+    {
+     "q": "Is dit serum geschikt voor een gevoelige en acnegevoelige huid?",
+     "a": "Ja. Onze formulering is niet comedogeen, olievrij, geurvrij en verrijkt met kalmerende panthenol. Ze kalmeert gevoeligheid en hydrateert diep, zonder poriën te verstoppen of irritatie te veroorzaken."
+    },
+    {
+     "q": "Kan ik PDRN combineren met retinol, vitamine C of AHA/BHA?",
+     "a": "Ja. PDRN werkt goed naast actieve behandelingen zoals retinoïden en vitamine C. De hydraterende basis helpt de schilfering of roodheid te verzachten die chemische exfolianten kunnen veroorzaken."
+    },
+    {
+     "q": "Hoe lang gaat één fles van 30ml doorgaans mee?",
+     "a": "Bij 2 tot 4 druppels twee keer per dag gaat één fles van 30ml (1 fl oz) doorgaans 4 tot 6 weken mee. Subscribe and Save stuurt de volgende fles voordat je op bent."
+    }
+   ]
+  },
+  "finalCta": {
+   "title": "Je gezicht zit in elke pitch. Houd het klaar.",
+   "line": "PDRN Brightening Serum · $49.00 / 30ml · Clean en vegan · Diepe hydratatie · Annuleer wanneer je wilt"
+  },
+  "gallery": {
+   "view": "Bekijk {n}",
+   "alts": [
+    "Fles PDRN Brightening Serum",
+    "Serumfles weergave 2",
+    "Serumfles weergave 3",
+    "Serumfles weergave 4",
+    "Serumfles weergave 5"
+   ]
+  }
+ },
+ "about": {
+  "label": "Over ons",
+  "titleLead": "Huidverzorging voor",
+  "titleAccent": "de ambitieuzen.",
+  "tagline": "Bouw je bedrijf. Verwaarloos jezelf niet.",
+  "p1": "Tava Labs is een merk voor persoonlijk onderhoud voor mensen die bedrijven bouwen. Je uiterlijk is deel van je professionele aanwezigheid. Hoe je verschijnt op camera, in de pitch en in de kamer is deel van hoe je werk wordt gelezen.",
+  "p2": "Wij maken één ding, en wij maken het goed. Een dagelijks serum dat je huid er beheerst, gehydrateerd en klaar laat uitzien, zonder ingewikkelde routine.",
+  "p3": "Tava Labs is opgericht voor oprichters, makers en professionals die investeren in de persoon achter het bedrijf. Eén stap, ochtend en avond, vóór de vergaderingen, de pitches en het camerawerk.",
+  "p4": "Dit is huidverzorging als onderhoud, niet als ijdelheid. Dezelfde discipline die je aan je bedrijf geeft, toegepast op jezelf.",
+  "serumLabel": "Het serum",
+  "serumTitle": "PDRN Brightening Serum",
+  "serumAlt": "PDRN Brightening Serum",
+  "serumBody": "Een dagelijkse routine voor de teint, gebouwd rond PDRN (Polydeoxyribonucleotide) en Acetyl Hexapeptide-8, met natriumhyaluronaat en panthenol voor hydratatie en comfort. Clean en geurvrij, en gemaakt zonder iets van onze lijst van weggelaten stoffen.",
+  "bullets": [
+   "PDRN voor een helderder, egaler ogende teint.",
+   "Acetyl Hexapeptide-8 ter ondersteuning van een stevig ogende huid.",
+   "Natriumhyaluronaat en panthenol voor hydratatie.",
+   "Gebruik twee keer per dag: 2 tot 4 pompjes op een schone, droge huid, ochtend en avond."
+  ],
+  "priceLine": "$49 eenmalig, of $39 per maand met Subscribe & Save.",
+  "philosophyLabel": "Onze filosofie",
+  "quote": "“Een gezonde huid is het aantrekkelijkste wat je kunt dragen.”",
+  "philosophyCaption": "De filosofie van Tava Labs",
+  "philosophyP1": "Wij geloven dat je voor jezelf moet zorgen zoals je voor je werk zorgt: consequent en zonder drama. Klein dagelijks onderhoud wint het van af en toe een grote ingreep.",
+  "philosophyP2": "Wij beloven geen transformatie. Wij maken een goed geformuleerd dagelijks serum, vertellen je precies wat erin zit en laten de routine voor zichzelf spreken.",
+  "onlineTitle": "Alleen online",
+  "onlineSegments": [
+   {
+    "text": "Tava Labs is een merk dat alleen online bestaat. Vragen? Mail naar "
+   },
+   {
+    "text": "talia@tavalabs.app",
+    "href": "mailto:talia@tavalabs.app"
+   },
+   {
+    "text": "."
+   }
+  ],
+  "contactUs": "Neem contact op"
+ },
+ "contact": {
+  "label": "Neem contact op",
+  "title": "Wij horen graag van je.",
+  "sub": "Mail ons en wij reageren. Kies het onderwerp dat past, of schrijf ons direct.",
+  "emailLabel": "E-mail:",
+  "phoneLabel": "Telefoon:",
+  "topics": {
+   "general": {
+    "title": "Algemeen",
+    "body": "Algemene vragen over Tava Labs en het serum."
+   },
+   "wholesale": {
+    "title": "Groothandel",
+    "body": "Groothandel en retailvragen over het PDRN Brightening Serum."
+   },
+   "sales-support": {
+    "title": "Verkoopsupport",
+    "body": "Vragen over bestellen, Subscribe & Save en afrekenen."
+   },
+   "product-support": {
+    "title": "Productsupport",
+    "body": "Hulp bij het gebruik van het serum, routines en je persoonlijke plan."
+   },
+   "partnerships": {
+    "title": "Partnerschappen",
+    "body": "Partnerschappen met accelerators, universiteiten, investeerders en communities."
+   },
+   "pr": {
+    "title": "PR",
+    "body": "Pers en mediavragen."
+   }
+  }
+ },
+ "faq": {
+  "label": "Veelgestelde vragen",
+  "titleLead": "Veelgestelde",
+  "titleAccent": "vragen",
+  "sub": "Antwoorden over het serum, bestellen, verzending en je persoonlijke plan.",
+  "items": [
+   {
+    "q": "Wat is het PDRN Brightening Serum?",
+    "a": [
+     {
+      "text": "Een dagelijks serum gebouwd rond PDRN (Polydeoxyribonucleotide) en Acetyl Hexapeptide-8, met natriumhyaluronaat en panthenol. Het is een dagelijkse routine voor de teint: breng ochtend en avond aan ter ondersteuning van een helderder, egaler ogende teint en een beheerste, cameraklare blik."
+     }
+    ]
+   },
+   {
+    "q": "Hoe gebruik ik het?",
+    "a": [
+     {
+      "text": "Breng 2 tot 4 druppels aan op een schone, droge huid, ochtend en avond. Volg op met moisturizer. Ben je nieuw met actieve huidverzorging, begin dan de eerste week met één keer per dag en bouw daarna op naar twee keer per dag."
+     }
+    ]
+   },
+   {
+    "q": "Hoe krijg ik mijn persoonlijke plan?",
+    "a": [
+     {
+      "text": "Doe de "
+     },
+     {
+      "text": "Huidquiz",
+      "href": "/quiz"
+     },
+     {
+      "text": ". Je antwoorden bouwen een persoonlijk plan, inclusief hoe je langzaam begint en wanneer je opbouwt."
+     }
+    ]
+   },
+   {
+    "q": "Hoeveel kost het?",
+    "a": [
+     {
+      "text": "$49 eenmalig, of $39 per maand met Subscribe & Save (20% korting). Subscribe & Save kan wanneer je wilt worden gepauzeerd, overgeslagen of geannuleerd."
+     }
+    ]
+   },
+   {
+    "q": "Hoe werkt de verzending?",
+    "a": [
+     {
+      "text": "Bestellingen worden door onze partner verwerkt en verzonden naar het adres dat je bij het afrekenen opgeeft. Zie het "
+     },
+     {
+      "text": "Verzendbeleid",
+      "href": "/shipping"
+     },
+     {
+      "text": " voor details."
+     }
+    ]
+   },
+   {
+    "q": "Wat is jullie retourbeleid?",
+    "a": [
+     {
+      "text": "Alle verkopen zijn definitief. Lees het "
+     },
+     {
+      "text": "Retourbeleid",
+      "href": "/returns"
+     },
+     {
+      "text": " voordat je bestelt."
+     }
+    ]
+   },
+   {
+    "q": "Welke ingrediënten bevat het?",
+    "a": [
+     {
+      "text": "De volledige ingrediëntenlijst staat op de "
+     },
+     {
+      "text": "Ingrediëntenpagina",
+      "href": "/ingredients"
+     },
+     {
+      "text": ". Het serum is geurvrij en gemaakt zonder parabenen, sulfaten, siliconen, minerale olie, ftalaten en veelvoorkomende allergenen."
+     }
+    ]
+   },
+   {
+    "q": "Is het geschikt voor mijn huidtype?",
+    "a": [
+     {
+      "text": "Het serum is geformuleerd voor alle huidtypen. Heb je een huidaandoening of zorgen, bespreek die dan met je dermatoloog voordat je met nieuwe huidverzorging begint."
+     }
+    ]
+   },
+   {
+    "q": "Hoe neem ik contact op?",
+    "a": [
+     {
+      "text": "Mail naar talia@tavalabs.app of gebruik de "
+     },
+     {
+      "text": "Contactpagina",
+      "href": "/contact"
+     },
+     {
+      "text": " pagina."
+     }
+    ]
+   }
+  ]
+ },
+ "ingredients": {
+  "label": "Ingrediënten",
+  "titleLead": "Wat erin zit, en",
+  "titleAccent": "wat wij weglaten.",
+  "intro": "Hier is elk ingrediënt in het PDRN Brightening Serum, wat elk ingrediënt doet, en de volledige lijst precies zoals die op het etiket staat.",
+  "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Gemaakt in de VS · Geschikt voor alle huidtypen.",
+  "keyTitle": "Belangrijkste ingrediënten",
+  "keyItems": [
+   {
+    "name": "PDRN (Polydeoxyribonucleotide)",
+    "body": "De belangrijkste werkstof. Ondersteunt een helderder, egaler ogende teint en een beheerste, cameraklare blik."
+   },
+   {
+    "name": "Acetyl Hexapeptide-8",
+    "body": "Een peptide dat een stevig en glad ogende huid ondersteunt."
+   },
+   {
+    "name": "Sodium Hyaluronate (Hyaluronic Acid)",
+    "body": "Trekt vocht aan voor een gehydrateerde, comfortabele huid."
+   },
+   {
+    "name": "Panthenol",
+    "body": "Kalmeert en ondersteunt de huidbarrière."
+   },
+   {
+    "name": "Glycerin + Sodium PCA",
+    "body": "Humectanten die de huid helpen de hele dag water vast te houden."
+   }
+  ],
+  "fullTitle": "Volledige ingrediënten",
+  "howTitle": "Hoe te gebruiken",
+  "howBody": "Breng 2 tot 4 pompjes aan op een schone, droge huid, ochtend en avond. Volg op met moisturizer. Begin met één keer per dag als je nieuw bent met actieve huidverzorging.",
+  "warningTitle": "Waarschuwing",
+  "warningBody": "Alleen voor uitwendig gebruik. Vermijd direct contact met de ogen. Stop bij irritatie met het gebruik. Buiten bereik van kinderen houden."
+ },
+ "partners": {
+  "label": "Word partner van Tava Labs",
+  "titleLead": "Geef je oprichters een gratis maand",
+  "titleAccent": "Tava Labs.",
+  "intro": "Tava Labs werkt samen met accelerators, universiteiten, angel investeerders en oprichtercommunities. Je leden krijgen hun eerste maand van het PDRN Brightening Serum gratis, zodat de mensen die bedrijven bouwen kunnen zorgen voor de persoon achter het bedrijf.",
+  "tagline": "Een gratis maand, van ons, zonder kleine lettertjes.",
+  "becomePartner": "Word partner",
+  "partnershipsContact": "Contact voor partnerschappen",
+  "audiences": [
+   {
+    "alt": "Startoprichters tijdens een acceleratorsessie",
+    "title": "Voor accelerators",
+    "body": "Je oprichters pitchen, demoën en filmen content vanaf dag één. Geef ze een maand dagelijks onderhoud dat ze helpt beheerst en cameraklaar te verschijnen, en één ding minder om over na te denken tijdens het programma.",
+    "how": "Zo werkt het: wij verzenden naar elke oprichter in je cohort één gratis fles, met een persoonlijk plan uit de huidquiz. Jij stelt ons één keer voor; wij regelen al het andere."
+   },
+   {
+    "alt": "Universiteitsstudenten op de campus",
+    "title": "Voor universiteiten",
+    "body": "Studenten ondernemerschap bouwen in het openbaar: pitchwedstrijden, demodagen, oprichtertalks en eerste investeerdersgesprekken. Een gratis maand Tava Labs is een praktisch, gedenkwaardig cadeau voor de studenten in je programma.",
+    "how": "Zo werkt het: wij leveren flessen voor je cohort, klas of evenement, plus een eenvoudige hand out. Geen kosten voor de universiteit en geen kosten voor de studenten."
+   },
+   {
+    "alt": "Investeerdersgesprek met een oprichter",
+    "title": "Voor angel investeerders",
+    "body": "Je steunt de persoon net zozeer als het bedrijf. Een gratis maand Tava Labs is een attent cadeau voor de oprichters in je portfolio, en het ondersteunt de dagelijkse routine van de mensen in wie je hebt geïnvesteerd.",
+    "how": "Zo werkt het: vertel ons hoeveel oprichters je wilt verrassen, en wij regelen de levering en hun persoonlijke plannen. Geen kosten voor jou en geen kosten voor hen."
+   }
+  ],
+  "whyTitleLead": "Nul kosten. Nul moeite.",
+  "whyTitleAccent": "Echte waarde.",
+  "why": [
+   {
+    "title": "Meer waarde vanaf dag één",
+    "body": "Je leden krijgen een echt product en een persoonlijk plan, geen kortingscode die ze vergeten."
+   },
+   {
+    "title": "Nul kosten voor jou",
+    "body": "De eerste maand is van ons, voor elke persoon die je verrast."
+   },
+   {
+    "title": "Nul moeite voor jou",
+    "body": "Wij regelen verzending, onboarding en support. Jij maakt één introductie."
+   },
+   {
+    "title": "Een cadeau dat ze echt gebruiken",
+    "body": "Eén stap, ochtend en avond. Het past bij het schema van een oprichter omdat het daarvoor is ontworpen."
+   }
+  ],
+  "formulationTitle": "Schone, doordachte formulering.",
+  "formulationSub": "Het serum is gemaakt zonder de ingrediënten waar je leden het meest naar vragen:",
+  "stepsTitle": "Hoe een partnerschap werkt",
+  "steps": [
+   {
+    "title": "Neem contact op",
+    "body": "Vertel ons over je programma en hoeveel mensen je wilt verrassen."
+   },
+   {
+    "title": "Wij regelen het cadeau",
+    "body": "Wij verzenden het serum en stellen het persoonlijke plan van elke persoon op uit de huidquiz."
+   },
+   {
+    "title": "Jij geeft het cadeau",
+    "body": "Je leden krijgen een gratis maand dagelijks onderhoud, met onze dank aan jou in elke doos."
+   }
+  ],
+  "closingTitleLead": "Laten we een gratis maand in handen van je oprichters",
+  "closingTitleAccent": "leggen.",
+  "closingSegments": [
+   {
+    "text": "Mail naar "
+   },
+   {
+    "text": "talia@tavalabs.app",
+    "href": "mailto:talia@tavalabs.app"
+   },
+   {
+    "text": " of bel "
+   },
+   {
+    "text": "909-906-1308",
+    "href": "tel:+19099061308"
+   },
+   {
+    "text": ", en wij zetten het op."
+   }
+  ]
+ },
+ "blog": {
+  "label": "The Tava Journal",
+  "titleLead": "Slaap en stressonderzoek",
+  "titleAccent": "voor oprichters",
+  "sub": "Slaapwetenschap, stressonderzoek en prestatieinzicht voor oprichters.",
+  "readStory": "Lees het verhaal"
+ },
+ "research": {
+  "pill": "Onderzoeksreeks 001 · Uitkomsten van deelnemers",
+  "h1Lead": "Een blik van 16 weken op gemeten",
+  "h1Accent": "huidveranderingen.",
+  "heroSub": "Een prospectief, open label deelnemersprogramma dat een persoonlijke huidverzorgingsroutine, supplementen en leefstijlbegeleiding combineert. Elk cijfer op deze pagina komt uit het rapport, gemeten bij baseline en in week 16.",
+  "chips": [
+   "Prospectief en open label",
+   "Eén arm",
+   "Medisch begeleid",
+   "Klinische onderzoekslocatie in persoon"
+  ],
+  "headlineLabel": "Kernresultaat",
+  "headlineTitle": "Het totale aantal acne laesies daalde van 16.8 naar 6.2",
+  "slopeAria": "Hellingsgrafiek die het totale aantal acne laesies toont van 16.8 bij baseline naar 6.2 in week 16",
+  "slopeBaseline": "Baseline 16.8",
+  "slopeWeek": "Week 16 · 6.2",
+  "slopeNote": "Een rechte lijn alleen tussen de twee gemeten punten. Het rapport publiceerde geen uitkomstwaarden voor week 4, 8 of 12.",
+  "badges": [
+   {
+    "big": "60 procent hoger",
+    "small": "Huidhydratatie, 29.4 AU naar 47.1 AU"
+   },
+   {
+    "big": "52 procent lager",
+    "small": "Klinische textuurscore, 2.7 van 4 naar 1.3 van 4"
+   }
+  ],
+  "statsLabels": [
+   "Weken in het programma",
+   "Volwassenen ingeschreven",
+   "Mensen die alle bezoeken voltooiden",
+   "Voltooiingspercentage"
+  ],
+  "percentWord": "procent",
+  "resultsBg": "Resultaten",
+  "resultsLabel": "Gemiddelde verandering · Baseline naar week 16",
+  "resultsTitle": "Wat er veranderde, in gewone cijfers.",
+  "resultsSub": "Resultaten voor de 84 deelnemers die alle bezoeken voltooiden. Elke kaart vergelijkt de twee tijdpunten die het onderzoek echt heeft gemeten.",
+  "baseline": "Baseline",
+  "week16": "Week 16",
+  "slopeFoot": "Baseline naar week 16",
+  "results": [
+   {
+    "title": "Totaal aantal acne laesies",
+    "change": "63 procent lager",
+    "note": "Door dermatoloog getelde laesies"
+   },
+   {
+    "title": "Huidhydratatie",
+    "change": "60 procent hoger",
+    "note": "Corneometermeting in AU"
+   },
+   {
+    "title": "Erytheem en roodheidsindex",
+    "change": "30 procent lager",
+    "note": "Chromameterindex"
+   },
+   {
+    "title": "Melanine en pigmentatie index",
+    "change": "25 procent lager",
+    "note": "Chromameterindex"
+   },
+   {
+    "title": "Klinische textuurscore",
+    "change": "52 procent lager",
+    "note": "Beoordeeld op een schaal van 0 tot 4"
+   }
+  ],
+  "peopleBg": "Mensen",
+  "participantsLabel": "Wie deelnam",
+  "participantsTitle": "De mensen achter de gemiddelden.",
+  "participantsSub": "Vijf bezoeken tijdens het programma, van baseline tot en met week 16.",
+  "ageLabel": "Gemiddelde leeftijd",
+  "ageSuffix": "Jaar oud · Bereik 20 tot 48",
+  "visitTimeline": "Tijdlijn van bezoeken",
+  "visits": [
+   {
+    "name": "Baseline",
+    "desc": "Screening, metingen en fotografie"
+   },
+   {
+    "name": "Week 4",
+    "desc": "Vervolgbeoordeling"
+   },
+   {
+    "name": "Week 8",
+    "desc": "Vervolgbeoordeling"
+   },
+   {
+    "name": "Week 12",
+    "desc": "Vervolgbeoordeling"
+   },
+   {
+    "name": "Week 16",
+    "desc": "Laatste metingen en fotografie"
+   }
+  ],
+  "genderTitle": "Verdeling naar geslacht",
+  "genderAria": "Donutgrafiek van de verdeling naar geslacht, 74 procent vrouw, 24 procent man, 2 procent non binair",
+  "gender": [
+   {
+    "label": "Vrouw",
+    "pct": "74 procent"
+   },
+   {
+    "label": "Man",
+    "pct": "24 procent"
+   },
+   {
+    "label": "Non binair",
+    "pct": "2 procent"
+   }
+  ],
+  "donutNote": "De donut animeert naar de gerapporteerde verdeling zodra hij in beeld schuift.",
+  "concernsTitle": "Huidzorgen bij baseline",
+  "concerns": [
+   "Postinflammatoire hyperpigmentatie",
+   "Ongelijke textuur en ruwheid",
+   "Inflammatoire acne",
+   "Roodheid en gevoeligheid in het gezicht",
+   "Donkere kringen onder de ogen",
+   "Droogheid en aangetaste barrière",
+   "Fijne lijntjes en vroege fotoveroudering"
+  ],
+  "concernsNote": "Deelnemers konden meer dan één zorg opgeven, dus deze aandelen tellen niet op tot 100 procent.",
+  "programBg": "Programma",
+  "programLabel": "Programma en protocol",
+  "programTitle": "Het programma van 16 weken, stap voor stap.",
+  "programSub": "Deelnemers kregen screening in persoon, productuitgifte, toepassingscoaching en vervolgbeoordelingen op een klinische onderzoekslocatie.",
+  "morningTag": "Ochtendroutine",
+  "morningTitle": "Begin de dag",
+  "amSteps": [
+   "Zachte reiniger",
+   "Vitamine C serum, 15 procent",
+   "Ceramide moisturizer",
+   "Minerale zonnebrand, SPF 50"
+  ],
+  "eveningTag": "Avondroutine",
+  "eveningTitle": "Sluit de dag af",
+  "pmSteps": [
+   "Zachte reiniger",
+   "Niacinamide 5 procent plus zinkserum",
+   "Peptide barrièrecrème",
+   "Retinol 0.3 procent, geïntroduceerd in week 2 en getitreerd onder begeleiding van een clinicus"
+  ],
+  "routineNote": "Retinol werd na de eerste opbouwperiode van twee weken 3 tot 5 nachten per week gebruikt. Indien nodig werd 2 procent salicylzuur gebruikt voor actieve laesies.",
+  "supplementLabel": "Supplementroutine",
+  "supplementTitle": "Tava Skin Complex",
+  "supplementSub": "Twee capsules per dag bij het ontbijt. Hoeveelheden getoond per portie van twee capsules.",
+  "supplements": [
+   "Vitamine C",
+   "Zink",
+   "Niacinamide",
+   "Astaxanthine",
+   "Curcumine fytosoom",
+   "Lactobacillus probiotische mix"
+  ],
+  "supplementNote": "Optionele toevoeging, Omega 3, één softgel per dag.",
+  "nutritionTitle": "Voedingsbegeleiding",
+  "nutritionItems": [
+   "Minstens 2.5 L water per dag",
+   "Groenten, bessen en omega 3 rijke voeding",
+   "Beperk toegevoegde suiker en voeding met een hoge glycemische waarde",
+   "Optionele reset van twee weken met weinig zuivel en weinig suiker",
+   "Baseline counseling met een geregistreerde diëtist"
+  ],
+  "lifestyleTitle": "Leefstijldoelen",
+  "lifestyleItems": [
+   "7 tot 9 uur slaap",
+   "Minstens 150 minuten matige activiteit per week",
+   "Dagelijkse ademhalingsoefening van vijf minuten",
+   "Slaap wekelijks gelogd",
+   "Hydratatie en zonnebrandgewoonten beoordeeld tijdens bezoeken"
+  ],
+  "adherenceLabel": "Programmavolging",
+  "adherenceTitle": "Hoe nauwkeurig mensen het plan volgden.",
+  "adherenceSub": "Therapietrouw over de volledige 16 weken, zoals vastgelegd in het rapport.",
+  "adherence": [
+   "Algemene therapietrouw",
+   "Supplementtrouw",
+   "Topische trouw"
+  ],
+  "adherenceAria": "{label}, {val} procent",
+  "adherenceFoot": "Over het programma van 16 weken",
+  "safetyBg": "Veiligheid",
+  "safetyLabel": "Gerapporteerde bijwerkingen",
+  "safetyTitle": "Wat deelnemers rapporteerden.",
+  "safetySub": "Aandelen van deelnemers die elk effect tijdens het programma rapporteerden.",
+  "sideEffectsTitle": "Bijwerkingen",
+  "sideEffects": [
+   "Milde droogheid of schilfering",
+   "Tijdelijke acne uitbraak",
+   "Mild maag en darmongemak"
+  ],
+  "withdrawalsTitle": "Uitvallers",
+  "withdrawalsSub": "8 deelnemers vielen uit van de 92 ingeschrevenen.",
+  "withdrawals": [
+   {
+    "label": "Planningsconflicten",
+    "value": "5 mensen"
+   },
+   {
+    "label": "Milde bijwerkingen",
+    "value": "2 mensen"
+   },
+   {
+    "label": "Verloren voor opvolging",
+    "value": "1 persoon"
+   }
+  ],
+  "alertTitle": "Geen ernstige ongewenste voorvallen gerapporteerd.",
+  "alertBody": "Die zin staat in het rapport naast de milde effecten op deze pagina. Ze is hier opgenomen precies zoals gerapporteerd.",
+  "photoLabel": "Visuele documentatie",
+  "photoTitle": "Fotovergelijkingen van deelnemers.",
+  "photoSub": "Foto’s naast elkaar uit het programma van vier maanden. De linker afbeelding in elk paar toonde baseline en de rechter afbeelding toonde week 16. Er worden geen foto’s van deelnemers op deze pagina weergegeven.",
+  "participant": "Deelnemer {initial}",
+  "docViews": [
+   "Zijprofielweergave",
+   "Frontale weergave",
+   "Frontale weergave met bril",
+   "Close up van de wang"
+  ],
+  "baselineAndWeek": "Baseline en week 16",
+  "photoProtocolTitle": "Fotografieprotocol",
+  "photoProtocol": "Gestandaardiseerde opname bij baseline en opvolging met een vaste cameraopstelling, consistente zichtbare en kruisgepolariseerde belichting, frontale, 45 graden en profielhoeken, en een kleurgekalibreerde achtergrond.",
+  "methodsLabel": "Hoe metingen werden gedaan",
+  "methodsTitle": "Klinische metingen",
+  "methods": [
+   "Door dermatoloog getelde acne laesies",
+   "Corneometer hydratatie",
+   "Chromameter roodheid en melanine indices",
+   "Textuurbeoordeling op een schaal van 0 tot 4",
+   "Gestandaardiseerde fotografie"
+  ],
+  "factsLabel": "Onderzoeksopzet",
+  "factsTitle": "De opzet in één oogopslag.",
+  "facts": [
+   {
+    "k": "Opzet",
+    "v": "Prospectief, open label, één arm"
+   },
+   {
+    "k": "Locatie",
+    "v": "In persoon, medisch begeleid"
+   },
+   {
+    "k": "Beoordelingen",
+    "v": "Baseline plus week 4, 8, 12, 16"
+   },
+   {
+    "k": "Voltooid",
+    "v": "84 van 92 ingeschreven · 91 procent"
+   }
+  ],
+  "source": "Bron, Tava Labs Participant Outcomes, Research Series 001, deelnemersprogramma van 16 weken. Deze pagina presenteert alleen de cijfers uit het rapport, met baseline en week 16 als de twee gemeten uitkomstpunten."
+ },
+ "account": {
+  "signedInAs": "Ingelogd als",
+  "signOut": "Uitloggen",
+  "loading": "Je account laden…",
+  "failedTitle": "We konden je account niet laden",
+  "failedSegments": [
+   {
+    "text": "Controleer je verbinding en probeer het opnieuw. Blijft het gebeuren, mail dan naar "
+   },
+   {
+    "text": "talia@tavalabs.app",
+    "href": "mailto:talia@tavalabs.app"
+   },
+   {
+    "text": " en wij lossen het op."
+   }
+  ],
+  "tryAgain": "Probeer opnieuw",
+  "tabs": {
+   "today": "Vandaag",
+   "orders": "Bestellingen",
+   "shop": "Shop",
+   "lab": "Lab",
+   "support": "Support"
+  },
+  "greetings": {
+   "morning": "Goedemorgen",
+   "afternoon": "Goedemiddag",
+   "evening": "Goedenavond"
+  },
+  "weekInitials": [
+   "Z",
+   "M",
+   "D",
+   "W",
+   "D",
+   "V",
+   "Z"
+  ],
+  "streakLine": "{streak} dagen reeks · Dag {day} van 30{bottle}",
+  "dayLine": "Dag {day} van 30{bottle}. Voltooi de routine van vandaag in de app om je reeks te starten.",
+  "bottleSuffix": " · Nog {days} dagen in de fles",
+  "progressLine": "Dag {day} van 30 · Nog {left} dagen tot je eerste volle maand",
+  "stepsToGo": "Vandaag: nog {n} van {total} routinestappen te gaan.",
+  "todayComplete": "Vandaag is voltooid. Je volgende dag staat al klaar.",
+  "planEyebrow": "Je plan",
+  "planDefault": "Doe de huidquiz, en je persoonlijke plan, gebouwd uit je antwoorden, woont hier en in de app.",
+  "retakeQuiz": "Doe de huidquiz opnieuw",
+  "takeQuiz": "Doe de huidquiz",
+  "chipLabels": {
+   "goal": "Doel",
+   "skinType": "Huidtype",
+   "concern": "Zorg",
+   "routine": "Routine",
+   "plan": "Plan",
+   "routineTimes": "Routinetijden"
+  },
+  "labelMaps": {
+   "goal": {
+    "radiance": "Uitstraling",
+    "fine_lines": "Fijne lijntjes",
+    "hydration": "Hydratatie",
+    "even_tone": "Egale teint"
+   },
+   "skinType": {
+    "dry": "Droog",
+    "oily": "Vettig",
+    "combination": "Gecombineerd",
+    "sensitive": "Gevoelig",
+    "not_sure": "Niet zeker"
+   },
+   "concern": {
+    "dullness": "Dofheid",
+    "fine_lines": "Fijne lijntjes",
+    "uneven_tone": "Ongelijke teint",
+    "texture": "Textuur",
+    "dryness": "Droogheid"
+   },
+   "sensitivity": {
+    "often": "Vaak gevoelig",
+    "sometimes": "Soms gevoelig",
+    "never": "Zelden gevoelig"
+   },
+   "routine": {
+    "cleanser_only": "Alleen reiniger",
+    "few_products": "Een paar producten",
+    "full_routine": "Volledige routine"
+   },
+   "ramp": {
+    "gentle": "Zachte opbouw",
+    "standard": "Standaard opbouw",
+    "full": "Volle sterkte"
+   }
+  },
+  "morningEyebrow": "Ochtendroutine",
+  "nightEyebrow": "Avondroutine",
+  "amTitle": "AM · 3 druppels",
+  "pmTitle": "PM · 3 druppels",
+  "amSteps": [
+   {
+    "title": "Reinigen",
+    "detail": "Zachte reiniger, droogdeppen"
+   },
+   {
+    "title": "Breng 3 druppels serum aan",
+    "detail": "Druk in gezicht en hals"
+   },
+   {
+    "title": "Hydrateren + SPF",
+    "detail": "SPF 30 of hoger"
+   }
+  ],
+  "pmSteps": [
+   {
+    "title": "Dubbel reinigen",
+    "detail": "Verwijder SPF en make up"
+   },
+   {
+    "title": "Breng 3 druppels serum aan",
+    "detail": "Vóór retinol of behandelingen"
+   },
+   {
+    "title": "Nachtmoisturizer",
+    "detail": "Sluit hydratatie in"
+   }
+  ],
+  "stepsNote": "Je vinkt stappen af in de mobiele app. Deze pagina toont de routine van vandaag en wat de app vandaag al heeft vastgelegd.",
+  "ordersEyebrow": "Bestellingen",
+  "ordersTitle": "Je bestellingen",
+  "ordersEmpty": "Nog geen bestellingen. Wanneer je koopt, verschijnen je bestellingen en tracking hier en in de app.",
+  "paid": "Betaald",
+  "paymentFailed": "Betaling mislukt",
+  "unpaid": "Niet betaald",
+  "statusLabels": [
+   "Besteld",
+   "Verzonden",
+   "Onderweg voor levering",
+   "Geleverd"
+  ],
+  "subscription": "Abonnement",
+  "carrierFallback": "Vervoerder",
+  "trackPackage": "Volg pakket",
+  "claimEyebrow": "Claimcode",
+  "claimTitle": "Een aankoop koppelen aan de app",
+  "claimForOrder": "Je claimcode voor bestelling {order}",
+  "claimYourCode": "Je claimcode",
+  "claimValidUntil": " (geldig tot {date})",
+  "claimEnter": ". Voer hem in de Tava app in onder Bestellingen om deze aankoop aan je appaccount te koppelen:",
+  "claimWebNote": "Hier op het web heb je de code niet nodig. Inloggen met je afreken e-mailadres toont je bestellingen en plan al hierboven.",
+  "claimEmpty": "Gekocht via de quiz of deze site? Je bevestigingsmail en de pagina direct na het afrekenen toonden een claimcode. Open de Tava mobiele app, log in en voer de code in op het tabblad Bestellingen. Je aankoop, plan en quizantwoorden bewegen mee naar je appaccount. Hier op het web toont inloggen met hetzelfde e-mailadres waarmee je afrekende al alles hierboven. Verder niets in te voeren.",
+  "shop": {
+   "eyebrow": "PDRN Brightening Serum",
+   "title": "The Science of Attractive Health",
+   "body": "1 fl oz (30 ml). Verminder fijne lijntjes, hydrateer diep, herstel uitstraling en versterk de huid. 2 tot 4 pompjes, ochtend en avond.",
+   "subscribeLine": "Abonneer, $39 per maand.",
+   "subscribeRest": " Elke maand automatisch een verse fles.",
+   "oneTimeLine": "Eenmalig, $49.",
+   "oneTimeRest": " Eén fles.",
+   "subscribeBtn": "Abonneer, $39 per maand",
+   "buyOnceBtn": "Koop eenmalig, $49",
+   "stripeNote": "Veilig afrekenen via Stripe. Je bevestigt de betaling op de pagina van Stripe."
+  },
+  "labTab": {
+   "eyebrow": "Lab",
+   "title": "Ken je cijfers.",
+   "sub": "Echte bloedpanels, besteld onder je Tava account. Blader door de panels, bekijk elke marker voordat je bestelt en krijg je resultaten hier geleverd."
+  },
+  "support": {
+   "eyebrow": "Support",
+   "title": "Wij zijn er om te helpen",
+   "segments": [
+    {
+     "text": "Mail naar "
+    },
+    {
+     "text": "talia@tavalabs.app",
+     "href": "mailto:talia@tavalabs.app"
+    },
+    {
+     "text": " of bel "
+    },
+    {
+     "text": "909-906-1308",
+     "href": "tel:+19099061308"
+    },
+    {
+     "text": "."
+    }
+   ],
+   "links": {
+    "general": "Algemene vragen",
+    "productSupport": "Productsupport",
+    "salesSupport": "Bestel en verkoopsupport",
+    "faqs": "Veelgestelde vragen",
+    "shipping": "Verzendbeleid",
+    "returns": "Retourbeleid"
+   }
+  }
+ },
+ "lab": {
+  "ordersLabel": "Klinische beoordeling",
+  "ordersTitle": "Je labbestellingen",
+  "loadingOrders": "Je bestellingen laden…",
+  "ordersEmpty": "Nog niets hier. Wanneer je een panel voltooit, komt elke marker hier terecht met zijn waarde, zijn gezonde bereik en hoe hij in de tijd beweegt. Bestel hieronder je eerste panel en deze ruimte vult zich.",
+  "viewResults": "Bekijk resultaten",
+  "howLabel": "Hoe labs werken",
+  "howTitle": "Vier stappen, één afname",
+  "steps": [
+   {
+    "title": "Kies een panel",
+    "body": "Kies het panel dat past bij wat je wilt weten. Elke marker erin staat vermeld voordat je bestelt."
+   },
+   {
+    "title": "Beoordeling door een arts",
+    "body": "Een bevoegde arts beoordeelt en autoriseert elke bestelling, dus een apart doktersbezoek is niet nodig."
+   },
+   {
+    "title": "Loop binnen voor je afname",
+    "body": "Eén snelle bloedafname op een afnamelocatie bij jou in de buurt. De meeste bezoeken duren ongeveer vijftien minuten."
+   },
+   {
+    "title": "Resultaten komen hier terecht",
+    "body": "Resultaten worden binnen enkele dagen digitaal in dit tabblad geleverd, met elke marker en zijn bereik."
+   }
+  ],
+  "panelsLabel": "De panels",
+  "panelsTitle": "Veertien panels, gebouwd rond wat jij volgt",
+  "panelsSub": "Elk panel toont zijn prijs. Bestellen opent zodra het afrekenen is ingeschakeld, en een bevoegde arts beoordeelt elke bestelling voordat je resultaten hier worden geleverd. Panels kunnen niet worden besteld voor adressen in New York, New Jersey of Rhode Island.",
+  "markersSuffix": "{n} markers",
+  "resultsInDays": "Resultaten binnen enkele dagen",
+  "hideMarkers": "Verberg de markers",
+  "seeMarkers": "Bekijk de markers",
+  "markersAria": "Markers in {name}",
+  "disclaimer": "Labinzichten zijn informatie over je eigen gezondheid en geen diagnose. Bespreek elk resultaat dat je zorgen baart met je arts, en bel 911 in een noodgeval.",
+  "panelsById": {
+   "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
+    "name": "Panel sportprestaties",
+    "description": "Trainingsgereedheid en herstel: bloedbeelden, metabool panel, ijzervoorraden, vitamine D, testosteron, ontsteking en spierenzymen.",
+    "collection": "Bloedafname op locatie"
+   },
+   "38c76039-05dc-4cd3-8475-7a675989fbf2": {
+    "name": "Panel basiswelzijn",
+    "description": "Startpunt voor het hele lichaam: bloedbeelden, metabole gezondheid, cholesterol, bloedsuiker, vitamine D en schildklier.",
+    "collection": "Bloedafname op locatie"
+   },
+   "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
+    "name": "Panel energie en vermoeidheid",
+    "description": "De gebruikelijke verdachten achter lage energie: ijzervoorraden en transport, B12, foliumzuur, vitamine D, schildklier en bloedbeelden.",
+    "collection": "Bloedafname op locatie"
+   },
+   "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
+    "name": "Panel basis vrouwen",
+    "description": "Een gericht panel van 14 markers, hieronder volledig vermeld.",
+    "collection": "Bloedafname op locatie"
+   },
+   "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
+    "name": "GLP1 panel",
+    "description": "Een gericht panel van 10 markers, hieronder volledig vermeld.",
+    "collection": "Bloedafname op locatie"
+   },
+   "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
+    "name": "Panel hartgezondheid",
+    "description": "Cardiovasculair risico voorbij basis cholesterol: lipiden, ApoB, Lp(a), hs-CRP en homocysteïne.",
+    "collection": "Bloedafname op locatie"
+   },
+   "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
+    "name": "Panel levensduur",
+    "description": "Uitgebreide jaarlijkse deep dive over metabole, cardiovasculaire, inflammatoire en hormonale gezondheidsmarkers.",
+    "collection": "Bloedafname op locatie"
+   },
+   "b909fb21-b264-483c-a915-4ce87713cfa9": {
+    "name": "Basistest mannen",
+    "description": "Een gericht panel van 12 markers, hieronder volledig vermeld.",
+    "collection": "Bloedafname op locatie"
+   },
+   "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
+    "name": "Panel TRT mannen",
+    "description": "Een gericht panel van 16 markers, hieronder volledig vermeld.",
+    "collection": "Bloedafname op locatie"
+   },
+   "abfabb68-c777-4457-87c2-46bf5fe26d81": {
+    "name": "Panel mannenhormonen",
+    "description": "Mannelijke hormoonstatus: totaal testosteron, SHBG, estradiol, LH en FSH.",
+    "collection": "Bloedafname op locatie"
+   },
+   "f12fe316-367a-4c53-9735-8c0129c45506": {
+    "name": "Panel metabole gezondheid",
+    "description": "Bloedsuikercontrole en metabool risico: A1c, nuchtere insuline, cholesterol en een volledig metabool panel.",
+    "collection": "Bloedafname op locatie"
+   },
+   "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
+    "name": "Panel stress en herstel",
+    "description": "Stressbelasting en herstelcapaciteit: cortisol, DHEA-S, schildklier en ontsteking.",
+    "collection": "Bloedafname op locatie"
+   },
+   "1760616d-44d3-4654-817d-440a969e5cdf": {
+    "name": "Panel schildklier compleet",
+    "description": "Volledig schildklieronderzoek: TSH, vrij T4, vrij T3 en TPO antistoffen.",
+    "collection": "Bloedafname op locatie"
+   },
+   "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
+    "name": "Panel vrouwenhormonen",
+    "description": "Vrouwelijke hormoonstatus: estradiol, progesteron, FSH, LH, DHEA-S en testosteron.",
+    "collection": "Bloedafname op locatie"
+   }
+  },
+  "detail": {
+   "backToAccount": "Terug naar je account",
+   "notFoundTitle": "Die labbestelling is niet gevonden",
+   "notFoundBody": "Ze hoort misschien bij een ander e-mailadres. Log in met het e-mailadres waarmee je bestelde en probeer het opnieuw.",
+   "clinicalReview": "KLINISCHE BEOORDELING",
+   "loadingResults": "Je resultaten laden…",
+   "yourPanel": "Je panel",
+   "markerFallback": "Marker",
+   "headlines": {
+    "loading": "Je resultaten ophalen",
+    "pending": "Je resultaten zijn onderweg",
+    "allIn": "Al je resultaten zijn binnen.",
+    "in": "Je resultaten zijn binnen."
+   },
+   "sublines": {
+    "loading": "Een moment terwijl het labrapport laadt.",
+    "pending": "Zodra het lab rapporteert, vult deze pagina zich met elke marker, zijn waarde en zijn gezonde bereik.",
+    "allIn": "Elke marker zit binnen bereik. Hier is het volledige beeld.",
+    "oneAttention": "Eén marker vraagt om een nadere blik. Laten we erin duiken.",
+    "manyAttention": "{n} markers vragen om een nadere blik. Laten we erin duiken."
+   },
+   "orderedPrefix": "Besteld",
+   "statusPrefix": "Status:",
+   "notInYetTitle": "Resultaten zijn nog niet binnen",
+   "notInYetBody": "De meeste panels rapporteren binnen enkele dagen na je afname. Wanneer die van jou binnenkomt, toont deze pagina het volledige balansoverzicht met elke marker en zijn bereik.",
+   "markerBalance": "Je markerbalans",
+   "biomarkers": "BIOMARKERS",
+   "analyzedSuffix": "{pct}% geanalyseerd",
+   "statusNames": {
+    "optimal": "Optimaal",
+    "inRange": "Binnen bereik",
+    "attention": "Vraagt aandacht"
+   },
+   "statusLabels": {
+    "optimal": "OPTIMAAL",
+    "inRange": "BINNEN BEREIK",
+    "attention": "GEMARKEERD"
+   },
+   "basePrefix": "Basis: {name}",
+   "updatedPrefix": "Bijgewerkt {date}",
+   "updatedRecently": "Onlangs bijgewerkt",
+   "triageTitle": "Statustriage",
+   "tapToFilter": "Tik om te filteren",
+   "triageSubs": {
+    "optimal": "Precies waar je ze wilt",
+    "inRange": "Binnen het gezonde bereik",
+    "attention": "Een gesprek met je arts waard"
+   },
+   "allFilter": "Alle ({n})",
+   "rangePrefix": "Bereik {range}",
+   "disclaimer": "Labresultaten zijn informatie over je eigen gezondheid en geen diagnose. Bespreek elk resultaat dat je zorgen baart met je arts, en bel 911 in een noodgeval."
+  }
+ },
+ "login": {
+  "brandHeadLead": "Welkom",
+  "brandHeadAccent": "terug.",
+  "brandCopy": "Je plan, je bestellingen en je routine. Eén e-mailadres verbindt de app en het web.",
+  "label": "Je Tava account",
+  "title": "Inloggen",
+  "intro": "Log in met het e-mailadres dat je gebruikte bij het afrekenen of in de Tava mobiele app. Je plan, bestellingen en routine zijn aan dat e-mailadres gekoppeld, dus alles hier komt overeen met de app. Geen wachtwoord nodig. Wij mailen je een inloglink, en erop tikken brengt je in je account.",
+  "emailLabel": "E-mailadres",
+  "invalidEmail": "Voer een geldig e-mailadres in.",
+  "sendFailed": "We konden die e-mail niet verzenden. Controleer het adres en probeer het opnieuw.",
+  "sending": "Verzenden…",
+  "sendButton": "Mail mij een inloglink",
+  "sentNotice": "Inloglink verzonden naar {email}. Het kan een minuut duren voordat hij aankomt. Controleer je spammap als je hem niet ziet.",
+  "sentBody": "Open die e-mail op dit apparaat en tik op de link erin. Je komt in je account terecht, al ingelogd. De link werkt één keer en verloopt, dus gebruik hem snel.",
+  "resend": "Verzend de e-mail opnieuw",
+  "differentEmail": "Gebruik een ander e-mailadres",
+  "footNote": "Voor het eerst hier? Dezelfde link maakt je account aan. Gebruik het e-mailadres van je bestelling en alles staat al op je te wachten.",
+  "claimLabel": "Op het web gekocht, gebruik je de app?",
+  "claimTitle": "Gebruik je claimcode in de app",
+  "claimBody1": "Toen je via de quiz of deze site kocht, toonde je aankoopbevestigingsmail (en de pagina direct na het afrekenen) een claimcode. Open de Tava mobiele app, log in en voer die code in op het tabblad Bestellingen. Je aankoop, plan en quizantwoorden bewegen mee naar je appaccount, zonder tweede aankoop.",
+  "claimBody2": "Op het web is het nog eenvoudiger. Log hierboven in met hetzelfde e-mailadres waarmee je afrekende, en je bestellingen en plan staan hier al.",
+  "faqButton": "Vragen? Bekijk de veelgestelde vragen"
+ },
+ "checkout": {
+  "title": "Afrekenen",
+  "closeAria": "Afrekenen sluiten",
+  "planOneTime": "PDRN Brightening Serum · $49 · Eenmalige aankoop",
+  "planSubscribe": "PDRN Brightening Serum · $39 per maand · Subscribe & Save 20%",
+  "email": "E-mail",
+  "firstName": "Voornaam",
+  "lastName": "Achternaam",
+  "streetAddress": "Straatadres",
+  "addressLine2": "Adresregel 2 (optioneel)",
+  "city": "Plaats",
+  "state": "Staat",
+  "zip": "Postcode",
+  "country": "Land",
+  "phoneOptional": "Telefoon (optioneel)",
+  "missingIntro": "Bijna klaar. Voeg je {fields} toe.",
+  "missingNames": {
+   "email": "een geldig e-mailadres",
+   "firstName": "voornaam",
+   "lastName": "achternaam",
+   "address1": "straatadres",
+   "city": "plaats",
+   "state": "staat",
+   "zip": "postcode"
+  },
+  "creating": "Je afrekenen aanmaken…",
+  "taking": "Je wordt naar veilig afrekenen gebracht…",
+  "continueBtn": "Ga verder naar betaling",
+  "startError": "Het afrekenen kon niet starten. Controleer je gegevens en probeer het opnieuw. Er is niets afgeschreven.",
+  "stripeNote": "Veilig afrekenen via Stripe. Je bevestigt de betaling op de pagina van Stripe. Er wordt nog niets afgeschreven."
+ },
+ "legal": {
+  "governsNote": "Deze pagina is een vertaling van het Engelse origineel. Als de bewoording ooit verschilt, is de Engelse versie bepalend."
+ }
+}

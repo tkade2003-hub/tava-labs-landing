@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "en": "Copied ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "en": "Copy this:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "en": "We couldn't find your checkout reference on this page — your claim code is also in your confirmation email. Keep that email and use the code when you install the app."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "en": "Already claimed into your app account. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "en": "Keep it until "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "en": "Copy claim code"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "en": "Copy claim link"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "en": "This code connects your purchase to your app account:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "en": "This purchase already lives in an app account, so there's no code to claim — just sign in to the app."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "en": "Confirming your payment — your claim code will appear here in a few seconds…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "en": "Your payment is confirmed by email — your claim code is in that email too. Keep it, and enter it in the app when you install it."
+  }
+ ]
+}

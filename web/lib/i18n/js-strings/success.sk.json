@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Skopírované ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Skopírujte toto:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Na tejto stránke sa nám nepodarilo nájsť vašu referenciu pokladne, váš kód na uplatnenie je aj vo vašom potvrdzovacom emaile. Uchovajte si tento email a kód použite, keď si nainštalujete aplikáciu."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Už uplatnené do vášho účtu v aplikácii. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Uchovajte ho do "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Kopírovať kód na uplatnenie"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Kopírovať odkaz na uplatnenie"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Tento kód prepája váš nákup s vaším účtom v aplikácii:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Tento nákup už žije v účte aplikácie, takže nie je žiadny kód na uplatnenie, stačí sa prihlásiť do aplikácie."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Potvrdzuje sa vaša platba, váš kód na uplatnenie sa tu objaví o pár sekúnd…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Vaša platba je potvrdená emailom, váš kód na uplatnenie je aj v tomto emaile. Uchovajte si ho a zadajte ho v aplikácii, keď si ju nainštalujete."
+  }
+ ]
+}

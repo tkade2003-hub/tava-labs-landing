@@ -1,0 +1,307 @@
+{
+ "file": "quiz-41.js",
+ "entries": [
+  {
+   "k": "goal.radiance",
+   "q": "dq",
+   "t": "blask i promienność"
+  },
+  {
+   "k": "goal.fine_lines",
+   "q": "dq",
+   "t": "drobne linie"
+  },
+  {
+   "k": "goal.hydration",
+   "q": "dq",
+   "t": "głębokie nawilżenie"
+  },
+  {
+   "k": "goal.even_tone",
+   "q": "dq",
+   "t": "równy koloryt"
+  },
+  {
+   "k": "skin.dry",
+   "q": "dq",
+   "t": "Sucha"
+  },
+  {
+   "k": "skin.oily",
+   "q": "dq",
+   "t": "Tłusta"
+  },
+  {
+   "k": "skin.combination",
+   "q": "dq",
+   "t": "Mieszana"
+  },
+  {
+   "k": "skin.sensitive",
+   "q": "dq",
+   "t": "Wrażliwa"
+  },
+  {
+   "k": "skin.not_sure",
+   "q": "dq",
+   "t": "Wciąż to odkrywam"
+  },
+  {
+   "k": "concern.dullness",
+   "q": "dq",
+   "t": "matowość"
+  },
+  {
+   "k": "concern.uneven_tone",
+   "q": "dq",
+   "t": "nierówny koloryt"
+  },
+  {
+   "k": "concern.texture",
+   "q": "dq",
+   "t": "szorstka tekstura"
+  },
+  {
+   "k": "concern.dryness",
+   "q": "dq",
+   "t": "suchość"
+  },
+  {
+   "k": "notalone.radiance",
+   "q": "dq",
+   "t": "Założyciele i twórcy, którzy prezentują się każdego dnia, zaczynają swój poranek w ten sam sposób. Matowa skóra o zmęczonym wyglądzie to jeden z najczęstszych powodów, dla których ludzie zaczynają rutynę z serum. PDRN Brightening Serum jest zbudowane wokół PDRN i peptydów, w lekkiej formule zaprojektowanej, aby poprawić wygląd gładkiej, promiennej skóry, sprawiając, że wygląda jędrnie, miękko i świeżo, rano i wieczorem."
+  },
+  {
+   "k": "notalone.fine_lines",
+   "q": "dq",
+   "t": "Założyciele i twórcy, którzy prezentują się każdego dnia, zaczynają swój poranek w ten sam sposób. Drobne linie to zwykle pierwsza rzecz, do której ludzie chcą serum. Ta formuła łączy Acetyl Hexapeptide-8 z PDRN, składniki wybrane, aby wspierać skórę, która wygląda gładsza i bardziej promienna, w jednym kroku, dwa razy dziennie. Nie potrzeba rutyny z dziesięciu kroków."
+  },
+  {
+   "k": "notalone.hydration",
+   "q": "dq",
+   "t": "Założyciele i twórcy, którzy prezentują się każdego dnia, zaczynają swój poranek w ten sam sposób. Skóra, która w południe czuje się napięta i spragniona, to dokładnie to, do czego stworzono to serum. Mieszanka gliceryny, Sodium PCA i Sodium Hyaluronate zapewnia głębokie nawilżenie, a Panthenol pielęgnuje, więc skóra czuje się komfortowo i wygląda jędrnie, a nie tłusto."
+  },
+  {
+   "k": "notalone.even_tone",
+   "q": "dq",
+   "t": "Założyciele i twórcy, którzy prezentują się każdego dnia, zaczynają swój poranek w ten sam sposób. Cera o nierównym wyglądzie to częsta frustracja. PDRN i peptydy pomagają wspierać cerę o bardziej promiennym i żywym wyglądzie, a lekka formuła wchłania się szybko i łatwo, prosty krok dwa razy dziennie w kierunku bardziej równego wyglądu."
+  },
+  {
+   "k": "ing.pdrn.name",
+   "q": "dq",
+   "t": "PDRN (polydeoxyribonucleotide)"
+  },
+  {
+   "k": "ing.pdrn.text",
+   "q": "dq",
+   "t": "Pomaga wspierać cerę o bardziej promiennym i żywym wyglądzie oraz poprawia wygląd gładkiej, promiennej skóry."
+  },
+  {
+   "k": "ing.peptide.name",
+   "q": "dq",
+   "t": "Acetyl hexapeptide-8"
+  },
+  {
+   "k": "ing.peptide.text",
+   "q": "dq",
+   "t": "Peptyd, który współpracuje z PDRN, aby wspierać skórę, która wygląda gładsza i bardziej równa."
+  },
+  {
+   "k": "ing.ha.name",
+   "q": "dq",
+   "t": "Hyaluronic acid, glycerin & sodium PCA"
+  },
+  {
+   "k": "ing.ha.text",
+   "q": "dq",
+   "t": "Mieszanka nawilżająca, która przyciąga wilgoć, dla jędrnego, komfortowego uczucia i jedwabiście gładkiej tekstury."
+  },
+  {
+   "k": "ing.panthenol.name",
+   "q": "dq",
+   "t": "Panthenol"
+  },
+  {
+   "k": "ing.panthenol.text",
+   "q": "dq",
+   "t": "Pielęgnuje skórę, sprawiając, że czuje się miękka i komfortowa, łagodna baza dla skóry, która łatwo reaguje."
+  },
+  {
+   "k": "ramp.often.1",
+   "q": "dq",
+   "t": "Tydzień 1, tylko wieczorem, co drugą noc"
+  },
+  {
+   "k": "ramp.often.2",
+   "q": "dq",
+   "t": "Tydzień 2, każdego wieczoru"
+  },
+  {
+   "k": "ramp.often.3",
+   "q": "dq",
+   "t": "Tygodnie 3 do 4, rano i wieczorem"
+  },
+  {
+   "k": "ramp.sometimes.1",
+   "q": "dq",
+   "t": "Dni 1 do 3, tylko wieczorem"
+  },
+  {
+   "k": "ramp.sometimes.2",
+   "q": "dq",
+   "t": "Od dnia 4, rano i wieczorem"
+  },
+  {
+   "k": "ramp.never.1",
+   "q": "dq",
+   "t": "Od dnia 1, rano i wieczorem, dwa razy dziennie"
+  },
+  {
+   "k": "fit.cleanser_only",
+   "q": "dq",
+   "t": "Wpisuje się zaraz po oczyszczeniu, jeden dodatkowy krok, około minuty."
+  },
+  {
+   "k": "fit.few_products",
+   "q": "dq",
+   "t": "Nakłada się po oczyszczeniu, przed kremem nawilżającym."
+  },
+  {
+   "k": "fit.full_routine",
+   "q": "dq",
+   "t": "Nakłada się po oczyszczeniu, przed kremem nawilżającym i SPF, z niczego nie trzeba rezygnować."
+  },
+  {
+   "k": "notalone.titlePrefix",
+   "q": "dq",
+   "t": "Nie jesteś w tym sam. "
+  },
+  {
+   "k": "notalone.titleSuffix",
+   "q": "dq",
+   "t": " to miejsce, od którego zaczyna większość osób."
+  },
+  {
+   "k": "match.topTag",
+   "q": "sq",
+   "t": "<span class=\"tag\">Your top match</span>"
+  },
+  {
+   "k": "plan.template",
+   "q": "tpl",
+   "t": "\n    <p class=\"mirrorline\">${SKIN_LABEL[a.skinType]} skóra · nacisk na ${CONCERN_LABEL[a.concern]} · cel: ${GOAL_LABEL[a.goal]}</p>\n    <div class=\"planrow\"><span class=\"k\">Wprowadzanie</span><span class=\"v\">${plan.rampLines.join(\"<br>\")}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Twoje godziny</span><span class=\"v\">${fmtTime(a.amTime)} i ${fmtTime(a.pmTime)}, przypomnienia tylko wtedy</span></div>\n    <div class=\"planrow\"><span class=\"k\">Dopasowanie do rutyny</span><span class=\"v\">${ROUTINE_FIT[a.routine]}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Butelka</span><span class=\"v\">PDRN Brightening Serum, 1 fl oz (30 ml), w rozmiarze na stosowanie dwa razy dziennie</span></div>"
+  },
+  {
+   "k": "summary.template",
+   "q": "tpl",
+   "t": "30 dniowy plan dla ${GOAL_LABEL[a.goal]}: ${SKIN_LABEL[a.skinType]} skóra, główny problem ${CONCERN_LABEL[a.concern]}. "
+  },
+  {
+   "k": "summary.ramp",
+   "q": "tpl",
+   "t": "Wprowadzanie: ${ramp.key} (${ramp.lines.join(\"; \")}). Nakładaj o ${fmtTime(a.amTime)} i ${fmtTime(a.pmTime)}. "
+  },
+  {
+   "k": "buy.subscribe",
+   "q": "dq",
+   "t": "Rozpocznij moją subskrypcję"
+  },
+  {
+   "k": "buy.once",
+   "q": "dq",
+   "t": "Kup jednorazowo"
+  },
+  {
+   "k": "paynote.subscribe",
+   "q": "dq",
+   "t": "Subskrypcja odnawia się co 30 dni za $39. Wstrzymaj lub anuluj w każdej chwili."
+  },
+  {
+   "k": "paynote.once",
+   "q": "dq",
+   "t": "Zakup jednorazowy za $49. Bez subskrypcji."
+  },
+  {
+   "k": "missing.firstName",
+   "q": "dq",
+   "t": "imię",
+   "anchor": "missing.push(\"first name\")"
+  },
+  {
+   "k": "missing.lastName",
+   "q": "dq",
+   "t": "nazwisko",
+   "anchor": "missing.push(\"last name\")"
+  },
+  {
+   "k": "missing.address1",
+   "q": "dq",
+   "t": "adres ulicy",
+   "anchor": "missing.push(\"street address\")"
+  },
+  {
+   "k": "missing.city",
+   "q": "dq",
+   "t": "miasto",
+   "anchor": "missing.push(\"city\")"
+  },
+  {
+   "k": "missing.state",
+   "q": "dq",
+   "t": "stan",
+   "anchor": "missing.push(\"state\")"
+  },
+  {
+   "k": "missing.zip",
+   "q": "dq",
+   "t": "kod pocztowy",
+   "anchor": "missing.push(\"ZIP code\")"
+  },
+  {
+   "k": "missing.email",
+   "q": "dq",
+   "t": "email",
+   "anchor": "missing.push(\"email\")"
+  },
+  {
+   "k": "missing.intro",
+   "q": "dq",
+   "t": "Już prawie, dodaj swoje "
+  },
+  {
+   "k": "placing",
+   "q": "dq",
+   "t": "Składanie zamówienia…"
+  },
+  {
+   "k": "taking",
+   "q": "dq",
+   "t": "Przenoszenie do bezpiecznej finalizacji zakupu…"
+  },
+  {
+   "k": "orderError",
+   "q": "dq",
+   "t": "Coś poszło nie tak podczas składania zamówienia, Twoje dane nadal tutaj są, spróbuj ponownie. Jeśli to nadal nie działa, napisz na talia@tavalabs.app, a my to załatwimy."
+  },
+  {
+   "k": "thanks.template",
+   "q": "tpl",
+   "t": "\n    <h3>Podsumowanie zamówienia</h3>\n    <div class=\"planrow\"><span class=\"k\">Produkt</span><span class=\"v\">PDRN Brightening Serum · 1 fl oz (30 ml) · ×1</span></div>\n    <div class=\"planrow\"><span class=\"k\">${p.order.purchaseType === \"subscribe\" ? \"Subscription\" : \"One-time\"}</span><span class=\"v\">$${p.order.price}${p.order.purchaseType === \"subscribe\" ? \" every 30 days — pause or cancel anytime\" : \"\"}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Wysyłka do</span><span class=\"v\">${s.firstName} ${s.lastName}, ${s.city}, ${s.stateCode} ${s.zip}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Twój plan</span><span class=\"v\">${plan.rampLines.join(\" · \")}<br>Przypomnienia o ${fmtTime(p.answers.amTime)} i ${fmtTime(p.answers.pmTime)}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Plan wysłany do</span><span class=\"v\">${p.email}</span></div>"
+  },
+  {
+   "k": "carry.template",
+   "q": "tpl",
+   "t": "Zaloguj się do aplikacji adresem ${p.email}, tym samym adresem email, którego użyłeś tutaj, a Twoje odpowiedzi, Twój 30 dniowy plan i to zamówienie już tam są. Nie trzeba nic wpisywać ponownie."
+  },
+  {
+   "k": "time.pm",
+   "q": "dq",
+   "t": "PM"
+  },
+  {
+   "k": "time.am",
+   "q": "dq",
+   "t": "AM"
+  }
+ ]
+}

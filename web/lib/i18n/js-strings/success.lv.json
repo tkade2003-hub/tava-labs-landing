@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Nokopēts ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Kopējiet šo:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Mēs nevarējām atrast jūsu apmaksas atsauci šajā lapā, jūsu pieprasījuma kods ir arī jūsu apstiprinājuma e pastā. Saglabājiet šo e pastu un izmantojiet kodu, kad instalējat lietotni."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Jau pieprasīts jūsu lietotnes kontā. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Saglabājiet to līdz "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Kopēt pieprasījuma kodu"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Kopēt pieprasījuma saiti"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Šis kods savieno jūsu pirkumu ar jūsu lietotnes kontu:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Šis pirkums jau dzīvo lietotnes kontā, tāpēc nav koda, ko pieprasīt, vienkārši pierakstieties lietotnē."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Apstiprina jūsu maksājumu, jūsu pieprasījuma kods parādīsies šeit pēc dažām sekundēm…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Jūsu maksājums ir apstiprināts pa e pastu, jūsu pieprasījuma kods ir arī šajā e pastā. Saglabājiet to un ievadiet lietotnē, kad to instalējat."
+  }
+ ]
+}

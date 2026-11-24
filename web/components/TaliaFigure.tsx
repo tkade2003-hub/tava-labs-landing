@@ -3,6 +3,7 @@
 import React, { useEffect, useRef } from "react";
 import Image from "next/image";
 import { HERO_TALIA } from "../lib/heroImages";
+import type { Dict } from "@/lib/i18n/dictionaries";
 
 /*
   Talia figure for the hero panel, added 2026-11-23 at Vashon direction.
@@ -15,7 +16,8 @@ import { HERO_TALIA } from "../lib/heroImages";
   scroll; reduced motion turns the drift off.
 */
 
-export default function TaliaFigure() {
+export default function TaliaFigure({ dict }: { dict: Dict }) {
+  const t = dict.hero.talia;
   const rootRef = useRef<HTMLDivElement>(null);
   const lineRef = useRef<HTMLDivElement>(null);
   const tagsRef = useRef<HTMLDivElement>(null);
@@ -67,7 +69,7 @@ export default function TaliaFigure() {
         >
           <path
             className="hr-fig-path"
-            d="M 3.5 20 C 35 28, 58 50, 93 74"
+            d="M 3.5 20 C 35 28, 62 52, 96.5 74"
           />
         </svg>
         <span className="hr-dot hr-dot-a" />
@@ -77,7 +79,7 @@ export default function TaliaFigure() {
       <div className="hr-fig-img" ref={imgRef}>
         <Image
           src={HERO_TALIA}
-          alt="Talia Kade, researcher at Tava Labs, wearing a white lab coat"
+          alt={t.alt}
           fill
           priority
           sizes="(min-width: 900px) 45vw, 88vw"
@@ -87,11 +89,11 @@ export default function TaliaFigure() {
 
       <div className="hr-fig-tags" ref={tagsRef} aria-hidden="true">
         <span className="hr-tag hr-tag-a">
-          <b>Baseline</b>
+          <b>{t.baseline}</b>
           <span>16.8</span>
         </span>
         <span className="hr-tag hr-tag-b">
-          <b>Week 16</b>
+          <b>{t.week16}</b>
           <span>6.2</span>
         </span>
       </div>
@@ -99,7 +101,7 @@ export default function TaliaFigure() {
       <div className="hr-stat-pos" ref={cardRef}>
         <div className="hr-stat">
           <div className="hr-stat-top">
-            <span className="hr-stat-label">Week 16</span>
+            <span className="hr-stat-label">{t.week16}</span>
             <span className="hr-stat-icon" aria-hidden="true">
               <svg viewBox="0 0 24 24" width="17" height="17">
                 <path
@@ -110,12 +112,10 @@ export default function TaliaFigure() {
             </span>
           </div>
           <p className="hr-stat-big">
-            <span aria-hidden="true">↓</span> 63% lower
+            <span aria-hidden="true">↓</span> {t.statBig}
           </p>
-          <p className="hr-stat-cap">Acne lesions</p>
-          <p className="hr-stat-note">
-            Average change in the 16 week participant program
-          </p>
+          <p className="hr-stat-cap">{t.statCap}</p>
+          <p className="hr-stat-note">{t.statNote}</p>
         </div>
       </div>
     </div>

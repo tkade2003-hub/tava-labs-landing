@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Copiado ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Copie isto:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Não encontrámos a sua referência de pagamento nesta página. O seu código de ativação está também no seu email de confirmação. Guarde esse email e use o código quando instalar a aplicação."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Já ativado na sua conta da aplicação. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Guarde-o até "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Copiar código de ativação"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Copiar link de ativação"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Este código liga a sua compra à sua conta da aplicação:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Esta compra já está numa conta da aplicação, por isso não há código para ativar. Basta iniciar sessão na aplicação."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "A confirmar o seu pagamento. O seu código de ativação aparecerá aqui dentro de alguns segundos…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "O seu pagamento está confirmado por email. O seu código de ativação está também nesse email. Guarde-o e introduza-o na aplicação quando a instalar."
+  }
+ ]
+}

@@ -16,7 +16,7 @@ export const FREE_FROM = [
 export default function FreeFrom({
   items = FREE_FROM,
 }: {
-  items?: typeof FREE_FROM;
+  items?: readonly { name: string; blurb: string; img: string }[];
 }) {
   return (
     <ul className="grid gap-x-10 sm:grid-cols-2 lg:grid-cols-4">

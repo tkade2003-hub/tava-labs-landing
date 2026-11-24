@@ -1,0 +1,307 @@
+{
+ "file": "quiz-41.js",
+ "entries": [
+  {
+   "k": "goal.radiance",
+   "q": "dq",
+   "t": "ragyogás és kisugárzás"
+  },
+  {
+   "k": "goal.fine_lines",
+   "q": "dq",
+   "t": "finom vonalak"
+  },
+  {
+   "k": "goal.hydration",
+   "q": "dq",
+   "t": "mély hidratálás"
+  },
+  {
+   "k": "goal.even_tone",
+   "q": "dq",
+   "t": "egyenletes tónus"
+  },
+  {
+   "k": "skin.dry",
+   "q": "dq",
+   "t": "Száraz"
+  },
+  {
+   "k": "skin.oily",
+   "q": "dq",
+   "t": "Zsíros"
+  },
+  {
+   "k": "skin.combination",
+   "q": "dq",
+   "t": "Kombinált"
+  },
+  {
+   "k": "skin.sensitive",
+   "q": "dq",
+   "t": "Érzékeny"
+  },
+  {
+   "k": "skin.not_sure",
+   "q": "dq",
+   "t": "Még nem tudom biztosan"
+  },
+  {
+   "k": "concern.dullness",
+   "q": "dq",
+   "t": "fakóság"
+  },
+  {
+   "k": "concern.uneven_tone",
+   "q": "dq",
+   "t": "egyenetlen tónus"
+  },
+  {
+   "k": "concern.texture",
+   "q": "dq",
+   "t": "durva textúra"
+  },
+  {
+   "k": "concern.dryness",
+   "q": "dq",
+   "t": "szárazság"
+  },
+  {
+   "k": "notalone.radiance",
+   "q": "dq",
+   "t": "Az alapítók és alkotók, akik minden nap bemutatkoznak, ugyanúgy kezdik a reggelüket. A fakó, fáradtnak tűnő bőr az egyik leggyakoribb ok, amiért az emberek szérumrutint kezdenek. A PDRN Brightening Serum a PDRN és a peptidek köré épül, könnyű formulában, amely a sima, ragyogó bőr látszatát hivatott javítani, és a bőrt teltnek, puhának és felfrissültnek mutatja, reggel és este."
+  },
+  {
+   "k": "notalone.fine_lines",
+   "q": "dq",
+   "t": "Az alapítók és alkotók, akik minden nap bemutatkoznak, ugyanúgy kezdik a reggelüket. A finom vonalak általában az első dolog, amiért az emberek szérumot szeretnének. Ez a formula az Acetyl Hexapeptide-8 összetevőt párosítja a PDRN-nel, olyan összetevőket, amelyeket azért választottak, hogy támogassák a simábbnak és ragyogóbbnak tűnő bőrt, egyetlen lépésben, naponta kétszer. Nincs szükség tízlépéses rutinra."
+  },
+  {
+   "k": "notalone.hydration",
+   "q": "dq",
+   "t": "Az alapítók és alkotók, akik minden nap bemutatkoznak, ugyanúgy kezdik a reggelüket. A bőr, amely délre feszesnek és szomjasnak érzi magát, pontosan az, amire ez a szérum készült. A Glycerin, a Sodium PCA és a Sodium Hyaluronate keveréke mély hidratálást nyújt, miközben a Panthenol ápol, így a bőr kényelmesnek érzi magát, és teltnek tűnik, nem zsírosnak."
+  },
+  {
+   "k": "notalone.even_tone",
+   "q": "dq",
+   "t": "Az alapítók és alkotók, akik minden nap bemutatkoznak, ugyanúgy kezdik a reggelüket. Az egyenetlennek tűnő arcszín gyakori frusztráció. A PDRN és a peptidek segítenek előmozdítani a ragyogóbb, élénkebbnek tűnő arcszínt, és a könnyű formula gyorsan és könnyen beszívódik, egyszerű lépés naponta kétszer az egyenletesebb megjelenés felé."
+  },
+  {
+   "k": "ing.pdrn.name",
+   "q": "dq",
+   "t": "PDRN (polydeoxyribonucleotide)"
+  },
+  {
+   "k": "ing.pdrn.text",
+   "q": "dq",
+   "t": "Segít előmozdítani a ragyogóbb, élénkebbnek tűnő arcszínt, és javítja a sima, ragyogó bőr látszatát."
+  },
+  {
+   "k": "ing.peptide.name",
+   "q": "dq",
+   "t": "Acetyl hexapeptide-8"
+  },
+  {
+   "k": "ing.peptide.text",
+   "q": "dq",
+   "t": "Peptid, amely a PDRN mellett dolgozik, hogy támogassa a simábbnak és egyenletesebbnek tűnő bőrt."
+  },
+  {
+   "k": "ing.ha.name",
+   "q": "dq",
+   "t": "Hialuronsav, Glycerin és Sodium PCA"
+  },
+  {
+   "k": "ing.ha.text",
+   "q": "dq",
+   "t": "Hidratáló keverék, amely magához vonzza a nedvességet a telt, kényelmes érzetért és a selymesen sima textúráért."
+  },
+  {
+   "k": "ing.panthenol.name",
+   "q": "dq",
+   "t": "Panthenol"
+  },
+  {
+   "k": "ing.panthenol.text",
+   "q": "dq",
+   "t": "Ápolja a bőrt, puhának és kényelmesnek hagyja, kíméletes alap a könnyen reagáló bőrnek."
+  },
+  {
+   "k": "ramp.often.1",
+   "q": "dq",
+   "t": "1. hét, csak esténként, minden második este"
+  },
+  {
+   "k": "ramp.often.2",
+   "q": "dq",
+   "t": "2. hét, minden este"
+  },
+  {
+   "k": "ramp.often.3",
+   "q": "dq",
+   "t": "3. és 4. hét, reggel és este"
+  },
+  {
+   "k": "ramp.sometimes.1",
+   "q": "dq",
+   "t": "1, 3. nap, csak esténként"
+  },
+  {
+   "k": "ramp.sometimes.2",
+   "q": "dq",
+   "t": "A 4. naptól, reggel és este"
+  },
+  {
+   "k": "ramp.never.1",
+   "q": "dq",
+   "t": "Az 1. naptól, reggel és este, naponta kétszer"
+  },
+  {
+   "k": "fit.cleanser_only",
+   "q": "dq",
+   "t": "Közvetlenül a tisztítás után illeszkedik, egy plusz lépés, körülbelül egy perc."
+  },
+  {
+   "k": "fit.few_products",
+   "q": "dq",
+   "t": "A tisztítás után kerül fel, a hidratálód előtt."
+  },
+  {
+   "k": "fit.full_routine",
+   "q": "dq",
+   "t": "A tisztítás után rétegeződik, a hidratáló és az SPF előtt, semmiről nem kell lemondanod."
+  },
+  {
+   "k": "notalone.titlePrefix",
+   "q": "dq",
+   "t": "Nem vagy egyedül. "
+  },
+  {
+   "k": "notalone.titleSuffix",
+   "q": "dq",
+   "t": " az a pont, ahol a legtöbben kezdik."
+  },
+  {
+   "k": "match.topTag",
+   "q": "sq",
+   "t": "<span class=\"tag\">Your top match</span>"
+  },
+  {
+   "k": "plan.template",
+   "q": "tpl",
+   "t": "\n    <p class=\"mirrorline\">${SKIN_LABEL[a.skinType]} bőr · fókusz: ${CONCERN_LABEL[a.concern]} · cél: ${GOAL_LABEL[a.goal]}</p>\n    <div class=\"planrow\"><span class=\"k\">Felépítés</span><span class=\"v\">${plan.rampLines.join(\"<br>\")}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Az időpontjaid</span><span class=\"v\">${fmtTime(a.amTime)} és ${fmtTime(a.pmTime)}, emlékeztetők csak akkor</span></div>\n    <div class=\"planrow\"><span class=\"k\">Illeszkedés a rutinhoz</span><span class=\"v\">${ROUTINE_FIT[a.routine]}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Az üveg</span><span class=\"v\">PDRN Brightening Serum, 1 fl oz (30 ml), napi kétszeri használatra méretezve</span></div>"
+  },
+  {
+   "k": "summary.template",
+   "q": "tpl",
+   "t": "30 napos terv ehhez: ${GOAL_LABEL[a.goal]}: ${SKIN_LABEL[a.skinType]} bőr, fő probléma: ${CONCERN_LABEL[a.concern]}. "
+  },
+  {
+   "k": "summary.ramp",
+   "q": "tpl",
+   "t": "Felépítés: ${ramp.key} (${ramp.lines.join(\"; \")}). Alkalmazás ekkor: ${fmtTime(a.amTime)} és ${fmtTime(a.pmTime)}. "
+  },
+  {
+   "k": "buy.subscribe",
+   "q": "dq",
+   "t": "Előfizetés indítása"
+  },
+  {
+   "k": "buy.once",
+   "q": "dq",
+   "t": "Egyszeri vásárlás"
+  },
+  {
+   "k": "paynote.subscribe",
+   "q": "dq",
+   "t": "Az előfizetés 30 naponta megújul $39 áron. Bármikor szüneteltethető vagy lemondható."
+  },
+  {
+   "k": "paynote.once",
+   "q": "dq",
+   "t": "Egyszeri vásárlás $49 áron. Nincs előfizetés."
+  },
+  {
+   "k": "missing.firstName",
+   "q": "dq",
+   "t": "keresztnév",
+   "anchor": "missing.push(\"first name\")"
+  },
+  {
+   "k": "missing.lastName",
+   "q": "dq",
+   "t": "vezetéknév",
+   "anchor": "missing.push(\"last name\")"
+  },
+  {
+   "k": "missing.address1",
+   "q": "dq",
+   "t": "utca és házszám",
+   "anchor": "missing.push(\"street address\")"
+  },
+  {
+   "k": "missing.city",
+   "q": "dq",
+   "t": "város",
+   "anchor": "missing.push(\"city\")"
+  },
+  {
+   "k": "missing.state",
+   "q": "dq",
+   "t": "állam",
+   "anchor": "missing.push(\"state\")"
+  },
+  {
+   "k": "missing.zip",
+   "q": "dq",
+   "t": "ZIP kód",
+   "anchor": "missing.push(\"ZIP code\")"
+  },
+  {
+   "k": "missing.email",
+   "q": "dq",
+   "t": "e-mail",
+   "anchor": "missing.push(\"email\")"
+  },
+  {
+   "k": "missing.intro",
+   "q": "dq",
+   "t": "Már majdnem kész, add meg: "
+  },
+  {
+   "k": "placing",
+   "q": "dq",
+   "t": "A rendelésed leadása…"
+  },
+  {
+   "k": "taking",
+   "q": "dq",
+   "t": "Átirányítunk a biztonságos fizetéshez…"
+  },
+  {
+   "k": "orderError",
+   "q": "dq",
+   "t": "Valami hiba történt a rendelésed leadásakor, az adataid még itt vannak, próbáld újra. Ha továbbra sem sikerül, írj a talia@tavalabs.app címre, és elintézzük."
+  },
+  {
+   "k": "thanks.template",
+   "q": "tpl",
+   "t": "\n    <h3>Rendelés összefoglaló</h3>\n    <div class=\"planrow\"><span class=\"k\">Termék</span><span class=\"v\">PDRN Brightening Serum · 1 fl oz (30 ml) · ×1</span></div>\n    <div class=\"planrow\"><span class=\"k\">${p.order.purchaseType === \"subscribe\" ? \"Subscription\" : \"One-time\"}</span><span class=\"v\">$${p.order.price}${p.order.purchaseType === \"subscribe\" ? \" every 30 days — pause or cancel anytime\" : \"\"}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Szállítás ide</span><span class=\"v\">${s.firstName} ${s.lastName}, ${s.city}, ${s.stateCode} ${s.zip}</span></div>\n    <div class=\"planrow\"><span class=\"k\">A terved</span><span class=\"v\">${plan.rampLines.join(\" · \")}<br>Emlékeztetők ekkor: ${fmtTime(p.answers.amTime)} és ${fmtTime(p.answers.pmTime)}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Terv elküldve ide</span><span class=\"v\">${p.email}</span></div>"
+  },
+  {
+   "k": "carry.template",
+   "q": "tpl",
+   "t": "Jelentkezz be az alkalmazásba ezzel: ${p.email}, ugyanazzal az e-mail címmel, amelyet itt használtál, és a válaszaid, a 30 napos terved és ez a rendelés már ott vannak. Semmit nem kell újra begépelned."
+  },
+  {
+   "k": "time.pm",
+   "q": "dq",
+   "t": "PM"
+  },
+  {
+   "k": "time.am",
+   "q": "dq",
+   "t": "AM"
+  }
+ ]
+}

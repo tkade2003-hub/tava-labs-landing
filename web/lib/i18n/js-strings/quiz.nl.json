@@ -1,0 +1,300 @@
+{
+ "file": "quiz-41.js",
+ "entries": [
+  {
+   "k": "goal.radiance",
+   "q": "dq",
+   "t": "glow en uitstraling"
+  },
+  {
+   "k": "goal.fine_lines",
+   "q": "dq",
+   "t": "fijne lijntjes"
+  },
+  {
+   "k": "goal.hydration",
+   "q": "dq",
+   "t": "diepe hydratatie"
+  },
+  {
+   "k": "goal.even_tone",
+   "q": "dq",
+   "t": "een egale teint"
+  },
+  {
+   "k": "skin.dry",
+   "q": "dq",
+   "t": "Droog"
+  },
+  {
+   "k": "skin.oily",
+   "q": "dq",
+   "t": "Vettig"
+  },
+  {
+   "k": "skin.combination",
+   "q": "dq",
+   "t": "Gecombineerd"
+  },
+  {
+   "k": "skin.sensitive",
+   "q": "dq",
+   "t": "Gevoelig"
+  },
+  {
+   "k": "skin.not_sure",
+   "q": "dq",
+   "t": "Ik ben er nog achter aan het komen"
+  },
+  {
+   "k": "concern.dullness",
+   "q": "dq",
+   "t": "dofheid"
+  },
+  {
+   "k": "concern.uneven_tone",
+   "q": "dq",
+   "t": "ongelijke teint"
+  },
+  {
+   "k": "concern.texture",
+   "q": "dq",
+   "t": "ruwe textuur"
+  },
+  {
+   "k": "concern.dryness",
+   "q": "dq",
+   "t": "droogheid"
+  },
+  {
+   "k": "notalone.radiance",
+   "q": "dq",
+   "t": "Oprichters en makers die zichzelf elke dag presenteren, beginnen hun ochtend op dezelfde manier. Een doffe, vermoeid ogende huid is een van de meest voorkomende redenen waarom mensen een serumroutine beginnen. Het PDRN Brightening Serum is gebouwd rond PDRN en peptiden, in een lichte formule die is ontworpen om een glad, stralend ogende huid te versterken, zodat ze er vol, zacht en verfrist uitziet, ochtend en avond."
+  },
+  {
+   "k": "notalone.fine_lines",
+   "q": "dq",
+   "t": "Oprichters en makers die zichzelf elke dag presenteren, beginnen hun ochtend op dezelfde manier. Fijne lijntjes zijn meestal het eerste waarvoor mensen een serum willen. Deze formule combineert acetyl hexapeptide-8 met PDRN, ingrediënten gekozen om een huid te ondersteunen die er gladder en stralender uitziet, in één stap, twee keer per dag. Geen routine van tien stappen nodig."
+  },
+  {
+   "k": "notalone.hydration",
+   "q": "dq",
+   "t": "Oprichters en makers die zichzelf elke dag presenteren, beginnen hun ochtend op dezelfde manier. Een huid die tegen de middag strak en dorstig aanvoelt, is precies waarvoor dit serum is gemaakt. Een mix van glycerine, natrium PCA en natriumhyaluronaat zorgt voor diepe hydratatie, terwijl panthenol verzorgt, zodat de huid comfortabel aanvoelt en er vol uitziet, niet vettig."
+  },
+  {
+   "k": "notalone.even_tone",
+   "q": "dq",
+   "t": "Oprichters en makers die zichzelf elke dag presenteren, beginnen hun ochtend op dezelfde manier. Een ongelijk ogende teint is een veelvoorkomende frustratie. PDRN en peptiden helpen een stralender, levendiger ogende teint te bevorderen, en de lichte formule absorbeert snel en gemakkelijk, een eenvoudige stap twee keer per dag naar een egalere blik."
+  },
+  {
+   "k": "ing.pdrn.name",
+   "q": "dq",
+   "t": "PDRN (polydeoxyribonucleotide)"
+  },
+  {
+   "k": "ing.pdrn.text",
+   "q": "dq",
+   "t": "Helpt een stralender, levendiger ogende teint te bevorderen en versterkt een glad, stralend ogende huid."
+  },
+  {
+   "k": "ing.peptide.name",
+   "q": "dq",
+   "t": "Acetyl hexapeptide-8"
+  },
+  {
+   "k": "ing.peptide.text",
+   "q": "dq",
+   "t": "Een peptide dat samen met PDRN werkt om een huid te ondersteunen die er gladder en egaler uitziet."
+  },
+  {
+   "k": "ing.ha.name",
+   "q": "dq",
+   "t": "Hyaluronzuur, glycerine en natrium PCA"
+  },
+  {
+   "k": "ing.ha.text",
+   "q": "dq",
+   "t": "Een hydratatiemix die vocht aantrekt voor een vol, comfortabel gevoel en een zijdezachte textuur."
+  },
+  {
+   "k": "ing.panthenol.name",
+   "q": "dq",
+   "t": "Panthenol"
+  },
+  {
+   "k": "ing.panthenol.text",
+   "q": "dq",
+   "t": "Verzorgt de huid en laat haar zacht en comfortabel aanvoelen, een vriendelijke basis voor een huid die snel reageert."
+  },
+  {
+   "k": "ramp.often.1",
+   "q": "dq",
+   "t": "Week 1, alleen ’s avonds, om de andere avond"
+  },
+  {
+   "k": "ramp.often.2",
+   "q": "dq",
+   "t": "Week 2, elke avond"
+  },
+  {
+   "k": "ramp.often.3",
+   "q": "dq",
+   "t": "Week 3–4, ochtend en avond"
+  },
+  {
+   "k": "ramp.sometimes.1",
+   "q": "dq",
+   "t": "Dag 1–3, alleen ’s avonds"
+  },
+  {
+   "k": "ramp.sometimes.2",
+   "q": "dq",
+   "t": "Vanaf dag 4, ochtend en avond"
+  },
+  {
+   "k": "ramp.never.1",
+   "q": "dq",
+   "t": "Vanaf dag 1, ochtend en avond, twee keer per dag"
+  },
+  {
+   "k": "fit.cleanser_only",
+   "q": "dq",
+   "t": "Past direct na het reinigen, één extra stap, ongeveer een minuut."
+  },
+  {
+   "k": "fit.few_products",
+   "q": "dq",
+   "t": "Gaat erop na het reinigen, vóór je moisturizer."
+  },
+  {
+   "k": "fit.full_routine",
+   "q": "dq",
+   "t": "Komt na het reinigen en vóór moisturizer en SPF, niets om op te geven."
+  },
+  {
+   "k": "notalone.titlePrefix",
+   "q": "dq",
+   "t": "Je bent niet alleen. "
+  },
+  {
+   "k": "notalone.titleSuffix",
+   "q": "dq",
+   "t": " is waar de meeste mensen beginnen."
+  },
+  {
+   "k": "match.topTag",
+   "q": "sq",
+   "t": "<span class=\"tag\">Your top match</span>"
+  },
+  {
+   "k": "plan.template",
+   "q": "tpl",
+   "t": "\n    <p class=\"mirrorline\">${SKIN_LABEL[a.skinType]} huid · focus op ${CONCERN_LABEL[a.concern]} · doel: ${GOAL_LABEL[a.goal]}</p>\n    <div class=\"planrow\"><span class=\"k\">Opbouw</span><span class=\"v\">${plan.rampLines.join(\"<br>\")}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Jouw tijden</span><span class=\"v\">${fmtTime(a.amTime)} en ${fmtTime(a.pmTime)}, alleen dan herinneringen</span></div>\n    <div class=\"planrow\"><span class=\"k\">Routinefit</span><span class=\"v\">${ROUTINE_FIT[a.routine]}</span></div>\n    <div class=\"planrow\"><span class=\"k\">De fles</span><span class=\"v\">PDRN Brightening Serum, 1 fl oz (30 ml), bemeten voor gebruik twee keer per dag</span></div>"
+  },
+  {
+   "k": "summary.template",
+   "q": "tpl",
+   "t": "Plan van 30 dagen voor ${GOAL_LABEL[a.goal]}: ${SKIN_LABEL[a.skinType]} huid, belangrijkste zorg ${CONCERN_LABEL[a.concern]}. "
+  },
+  {
+   "k": "summary.ramp",
+   "q": "tpl",
+   "t": "Opbouw: ${ramp.key} (${ramp.lines.join(\"; \")}). Breng aan om ${fmtTime(a.amTime)} en ${fmtTime(a.pmTime)}. "
+  },
+  {
+   "k": "buy.subscribe",
+   "q": "dq",
+   "t": "Start mijn abonnement"
+  },
+  {
+   "k": "buy.once",
+   "q": "dq",
+   "t": "Koop eenmalig"
+  },
+  {
+   "k": "paynote.subscribe",
+   "q": "dq",
+   "t": "Het abonnement verlengt elke 30 dagen voor $39. Pauzeer of annuleer wanneer je wilt."
+  },
+  {
+   "k": "paynote.once",
+   "q": "dq",
+   "t": "Eenmalige aankoop van $49. Geen abonnement."
+  },
+  {
+   "k": "missing.firstName",
+   "q": "dq",
+   "t": "voornaam"
+  },
+  {
+   "k": "missing.lastName",
+   "q": "dq",
+   "t": "achternaam"
+  },
+  {
+   "k": "missing.address1",
+   "q": "dq",
+   "t": "straatadres"
+  },
+  {
+   "k": "missing.city",
+   "q": "dq",
+   "t": "plaats"
+  },
+  {
+   "k": "missing.state",
+   "q": "dq",
+   "t": "staat"
+  },
+  {
+   "k": "missing.zip",
+   "q": "dq",
+   "t": "postcode"
+  },
+  {
+   "k": "missing.email",
+   "q": "dq",
+   "t": "e-mail"
+  },
+  {
+   "k": "missing.intro",
+   "q": "dq",
+   "t": "Bijna klaar, voeg je toe "
+  },
+  {
+   "k": "placing",
+   "q": "dq",
+   "t": "Je bestelling plaatsen…"
+  },
+  {
+   "k": "taking",
+   "q": "dq",
+   "t": "Je wordt naar veilig afrekenen gebracht…"
+  },
+  {
+   "k": "orderError",
+   "q": "dq",
+   "t": "Er ging iets mis bij het plaatsen van je bestelling, je gegevens staan er nog, probeer het opnieuw. Blijft het mislukken, mail dan naar talia@tavalabs.app en wij lossen het op."
+  },
+  {
+   "k": "thanks.template",
+   "q": "tpl",
+   "t": "\n    <h3>Besteloverzicht</h3>\n    <div class=\"planrow\"><span class=\"k\">Product</span><span class=\"v\">PDRN Brightening Serum · 1 fl oz (30 ml) · ×1</span></div>\n    <div class=\"planrow\"><span class=\"k\">${p.order.purchaseType === \"subscribe\" ? \"Subscription\" : \"One-time\"}</span><span class=\"v\">$${p.order.price}${p.order.purchaseType === \"subscribe\" ? \" every 30 days — pause or cancel anytime\" : \"\"}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Verzenden naar</span><span class=\"v\">${s.firstName} ${s.lastName}, ${s.city}, ${s.stateCode} ${s.zip}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Je plan</span><span class=\"v\">${plan.rampLines.join(\" · \")}<br>Herinneringen om ${fmtTime(p.answers.amTime)} en ${fmtTime(p.answers.pmTime)}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Plan verzonden naar</span><span class=\"v\">${p.email}</span></div>"
+  },
+  {
+   "k": "carry.template",
+   "q": "tpl",
+   "t": "Log in de app in met ${p.email}, hetzelfde e-mailadres dat je hier gebruikte, en je antwoorden, je plan van 30 dagen en deze bestelling staan er al. Niets opnieuw te typen."
+  },
+  {
+   "k": "time.pm",
+   "q": "dq",
+   "t": "PM"
+  },
+  {
+   "k": "time.am",
+   "q": "dq",
+   "t": "AM"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Kopirano ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Kopirajte to:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Na tej strani nismo našli vaše reference z blagajne, vaša koda za prevzem je tudi v vašem potrditvenem e-poštnem sporočilu. Shranite to sporočilo in uporabite kodo, ko namestite aplikacijo."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Že prevzeto v vaš račun v aplikaciji. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Shranite jo do "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Kopirajte kodo za prevzem"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Kopirajte povezavo za prevzem"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Ta koda poveže vaš nakup z vašim računom v aplikaciji:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Ta nakup že živi v računu v aplikaciji, zato ni kode za prevzem, samo prijavite se v aplikacijo."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Potrjevanje vašega plačila, vaša koda za prevzem se bo tukaj prikazala čez nekaj sekund …"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Vaše plačilo je potrjeno po e-pošti, vaša koda za prevzem je tudi v tem sporočilu. Shranite ga in jo vnesite v aplikacijo, ko jo namestite."
+  }
+ ]
+}

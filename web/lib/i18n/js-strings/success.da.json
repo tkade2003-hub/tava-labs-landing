@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Kopieret ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Kopiér dette:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Vi kunne ikke finde din betalingsreference på denne side, din indløsningskode er også i din bekræftelsesemail. Behold den email og brug koden, når du installerer appen."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Allerede indløst på din appkonto. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Behold den indtil "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Kopiér indløsningskode"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Kopiér indløsningslink"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Denne kode forbinder dit køb med din appkonto:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Dette køb bor allerede på en appkonto, så der er ingen kode at indløse, log blot ind i appen."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Bekræfter din betaling, din indløsningskode vises her om få sekunder…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Din betaling er bekræftet via email, din indløsningskode er også i den email. Behold den, og indtast den i appen, når du installerer den."
+  }
+ ]
+}

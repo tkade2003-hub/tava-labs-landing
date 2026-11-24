@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Zkopírováno ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Zkopírujte toto:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Na této stránce se nám nepodařilo najít váš odkaz na pokladnu, váš propojovací kód je také ve vašem potvrzovacím e-mailu. Tento e-mail si uschovejte a kód použijte, až si aplikaci nainstalujete."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Už propojeno s vaším účtem v aplikaci. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Uschovejte do "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Kopírovat propojovací kód"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Kopírovat propojovací odkaz"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Tento kód propojí váš nákup s vaším účtem v aplikaci:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Tento nákup už žije v účtu aplikace, takže není žádný kód k propojení, stačí se do aplikace přihlásit."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Potvrzujeme vaši platbu, váš propojovací kód se tu objeví za pár sekund…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Vaše platba je potvrzená e-mailem, váš propojovací kód je i v tomto e-mailu. Uschovejte si ho a zadejte ho v aplikaci, až si ji nainstalujete."
+  }
+ ]
+}

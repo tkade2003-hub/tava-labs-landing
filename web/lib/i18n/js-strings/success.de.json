@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Kopiert ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Kopieren Sie dies:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Wir konnten Ihre Kauf Referenz auf dieser Seite nicht finden, Ihr Einlösecode ist auch in Ihrer Bestätigungs E-Mail. Behalten Sie diese E-Mail und verwenden Sie den Code, wenn Sie die App installieren."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Bereits in Ihr App Konto eingelöst. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Behalten Sie ihn bis "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Einlösecode kopieren"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Einlöselink kopieren"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Dieser Code verbindet Ihren Kauf mit Ihrem App Konto:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Dieser Kauf lebt bereits in einem App Konto, daher gibt es keinen Code einzulösen, melden Sie sich einfach in der App an."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Ihre Zahlung wird bestätigt, Ihr Einlösecode erscheint hier in wenigen Sekunden…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Ihre Zahlung ist per E-Mail bestätigt, Ihr Einlösecode ist auch in dieser E-Mail. Behalten Sie sie und geben Sie ihn in der App ein, wenn Sie sie installieren."
+  }
+ ]
+}

@@ -1,0 +1,307 @@
+{
+ "file": "quiz-41.js",
+ "entries": [
+  {
+   "k": "goal.radiance",
+   "q": "dq",
+   "t": "strălucire și luminozitate"
+  },
+  {
+   "k": "goal.fine_lines",
+   "q": "dq",
+   "t": "linii fine"
+  },
+  {
+   "k": "goal.hydration",
+   "q": "dq",
+   "t": "hidratare profundă"
+  },
+  {
+   "k": "goal.even_tone",
+   "q": "dq",
+   "t": "un ton uniform"
+  },
+  {
+   "k": "skin.dry",
+   "q": "dq",
+   "t": "Uscată"
+  },
+  {
+   "k": "skin.oily",
+   "q": "dq",
+   "t": "Grasă"
+  },
+  {
+   "k": "skin.combination",
+   "q": "dq",
+   "t": "Mixtă"
+  },
+  {
+   "k": "skin.sensitive",
+   "q": "dq",
+   "t": "Sensibilă"
+  },
+  {
+   "k": "skin.not_sure",
+   "q": "dq",
+   "t": "Încă îmi dau seama"
+  },
+  {
+   "k": "concern.dullness",
+   "q": "dq",
+   "t": "ternitatea"
+  },
+  {
+   "k": "concern.uneven_tone",
+   "q": "dq",
+   "t": "tonul neuniform"
+  },
+  {
+   "k": "concern.texture",
+   "q": "dq",
+   "t": "textura aspră"
+  },
+  {
+   "k": "concern.dryness",
+   "q": "dq",
+   "t": "uscăciunea"
+  },
+  {
+   "k": "notalone.radiance",
+   "q": "dq",
+   "t": "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Pielea ternă, cu aspect obosit, este unul dintre cele mai frecvente motive pentru care oamenii încep o rutină cu serum. PDRN Brightening Serum este construit în jurul PDRN și al peptidelor, într-o formulă ușoară creată pentru a îmbunătăți aspectul pielii netede și luminoase, lăsând-o cu un aspect plin, moale și împrospătat, dimineața și seara."
+  },
+  {
+   "k": "notalone.fine_lines",
+   "q": "dq",
+   "t": "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Liniile fine sunt de obicei primul lucru pentru care oamenii vor un serum. Această formulă combină Acetyl Hexapeptide-8 cu PDRN, ingrediente alese pentru a susține o piele care arată mai netedă și mai luminoasă, într-un singur pas, de două ori pe zi. Nu este nevoie de o rutină în zece pași."
+  },
+  {
+   "k": "notalone.hydration",
+   "q": "dq",
+   "t": "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Pielea care se simte strânsă și însetată până la prânz este exact pentru ce este făcut acest serum. Un amestec de glicerină, Sodium PCA și Sodium Hyaluronate oferă hidratare profundă, în timp ce Panthenol condiționează, așa că pielea se simte confortabilă și arată plină, nu grasă."
+  },
+  {
+   "k": "notalone.even_tone",
+   "q": "dq",
+   "t": "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Un ten cu aspect neuniform este o frustrare frecventă. PDRN și peptidele ajută la promovarea unui ten cu aspect mai luminos și mai vibrant, iar formula ușoară se absoarbe rapid și ușor, un pas simplu de două ori pe zi către un aspect mai uniform."
+  },
+  {
+   "k": "ing.pdrn.name",
+   "q": "dq",
+   "t": "PDRN (polydeoxyribonucleotide)"
+  },
+  {
+   "k": "ing.pdrn.text",
+   "q": "dq",
+   "t": "Ajută la promovarea unui ten cu aspect mai luminos și mai vibrant și îmbunătățește aspectul pielii netede și luminoase."
+  },
+  {
+   "k": "ing.peptide.name",
+   "q": "dq",
+   "t": "Acetyl hexapeptide-8"
+  },
+  {
+   "k": "ing.peptide.text",
+   "q": "dq",
+   "t": "O peptidă care lucrează alături de PDRN pentru a susține o piele care arată mai netedă și mai uniformă."
+  },
+  {
+   "k": "ing.ha.name",
+   "q": "dq",
+   "t": "Acid hialuronic, glicerină și Sodium PCA"
+  },
+  {
+   "k": "ing.ha.text",
+   "q": "dq",
+   "t": "Un amestec de hidratare care atrage umezeala pentru o senzație plină și confortabilă și o textură mătăsos de netedă."
+  },
+  {
+   "k": "ing.panthenol.name",
+   "q": "dq",
+   "t": "Panthenol"
+  },
+  {
+   "k": "ing.panthenol.text",
+   "q": "dq",
+   "t": "Condiționează pielea, lăsând-o moale și confortabilă, o bază blândă pentru pielea care reacționează ușor."
+  },
+  {
+   "k": "ramp.often.1",
+   "q": "dq",
+   "t": "Săptămâna 1, doar seara, o dată la două nopți"
+  },
+  {
+   "k": "ramp.often.2",
+   "q": "dq",
+   "t": "Săptămâna 2, în fiecare seară"
+  },
+  {
+   "k": "ramp.often.3",
+   "q": "dq",
+   "t": "Săptămânile 3 și 4, dimineața și seara"
+  },
+  {
+   "k": "ramp.sometimes.1",
+   "q": "dq",
+   "t": "Zilele 1 până la 3, doar seara"
+  },
+  {
+   "k": "ramp.sometimes.2",
+   "q": "dq",
+   "t": "Din ziua 4 înainte, dimineața și seara"
+  },
+  {
+   "k": "ramp.never.1",
+   "q": "dq",
+   "t": "Din ziua 1, dimineața și seara, de două ori pe zi"
+  },
+  {
+   "k": "fit.cleanser_only",
+   "q": "dq",
+   "t": "Se potrivește imediat după curățare, un pas adăugat, aproximativ un minut."
+  },
+  {
+   "k": "fit.few_products",
+   "q": "dq",
+   "t": "Se aplică după curățare, înainte de crema ta hidratantă."
+  },
+  {
+   "k": "fit.full_routine",
+   "q": "dq",
+   "t": "Se suprapune după curățare și înainte de crema hidratantă și SPF, fără să renunți la nimic."
+  },
+  {
+   "k": "notalone.titlePrefix",
+   "q": "dq",
+   "t": "Nu ești singur. "
+  },
+  {
+   "k": "notalone.titleSuffix",
+   "q": "dq",
+   "t": " este locul de unde încep majoritatea oamenilor."
+  },
+  {
+   "k": "match.topTag",
+   "q": "sq",
+   "t": "<span class=\"tag\">Your top match</span>"
+  },
+  {
+   "k": "plan.template",
+   "q": "tpl",
+   "t": "\n    <p class=\"mirrorline\">Piele ${SKIN_LABEL[a.skinType]} · accent pe ${CONCERN_LABEL[a.concern]} · obiectiv: ${GOAL_LABEL[a.goal]}</p>\n    <div class=\"planrow\"><span class=\"k\">Creștere</span><span class=\"v\">${plan.rampLines.join(\"<br>\")}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Orele tale</span><span class=\"v\">${fmtTime(a.amTime)} și ${fmtTime(a.pmTime)}, mementouri doar atunci</span></div>\n    <div class=\"planrow\"><span class=\"k\">Potrivire cu rutina</span><span class=\"v\">${ROUTINE_FIT[a.routine]}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Sticla</span><span class=\"v\">PDRN Brightening Serum, 1 fl oz (30 ml), dimensionată pentru folosire de două ori pe zi</span></div>"
+  },
+  {
+   "k": "summary.template",
+   "q": "tpl",
+   "t": "Plan de 30 de zile pentru ${GOAL_LABEL[a.goal]}: piele ${SKIN_LABEL[a.skinType]}, preocupare principală ${CONCERN_LABEL[a.concern]}. "
+  },
+  {
+   "k": "summary.ramp",
+   "q": "tpl",
+   "t": "Creștere: ${ramp.key} (${ramp.lines.join(\"; \")}). Aplică la ${fmtTime(a.amTime)} și ${fmtTime(a.pmTime)}. "
+  },
+  {
+   "k": "buy.subscribe",
+   "q": "dq",
+   "t": "Începe abonamentul meu"
+  },
+  {
+   "k": "buy.once",
+   "q": "dq",
+   "t": "Cumpără o dată"
+  },
+  {
+   "k": "paynote.subscribe",
+   "q": "dq",
+   "t": "Abonamentul se reînnoiește la fiecare 30 de zile la $39. Pune pe pauză sau anulează oricând."
+  },
+  {
+   "k": "paynote.once",
+   "q": "dq",
+   "t": "Achiziție unică de $49. Fără abonament."
+  },
+  {
+   "k": "missing.firstName",
+   "q": "dq",
+   "t": "prenume",
+   "anchor": "missing.push(\"first name\")"
+  },
+  {
+   "k": "missing.lastName",
+   "q": "dq",
+   "t": "nume de familie",
+   "anchor": "missing.push(\"last name\")"
+  },
+  {
+   "k": "missing.address1",
+   "q": "dq",
+   "t": "adresa străzii",
+   "anchor": "missing.push(\"street address\")"
+  },
+  {
+   "k": "missing.city",
+   "q": "dq",
+   "t": "oraș",
+   "anchor": "missing.push(\"city\")"
+  },
+  {
+   "k": "missing.state",
+   "q": "dq",
+   "t": "stat",
+   "anchor": "missing.push(\"state\")"
+  },
+  {
+   "k": "missing.zip",
+   "q": "dq",
+   "t": "cod ZIP",
+   "anchor": "missing.push(\"ZIP code\")"
+  },
+  {
+   "k": "missing.email",
+   "q": "dq",
+   "t": "email",
+   "anchor": "missing.push(\"email\")"
+  },
+  {
+   "k": "missing.intro",
+   "q": "dq",
+   "t": "Aproape gata, adaugă "
+  },
+  {
+   "k": "placing",
+   "q": "dq",
+   "t": "Se plasează comanda ta…"
+  },
+  {
+   "k": "taking",
+   "q": "dq",
+   "t": "Te ducem la finalizarea securizată…"
+  },
+  {
+   "k": "orderError",
+   "q": "dq",
+   "t": "Ceva nu a mers bine la plasarea comenzii tale, datele tale sunt încă aici, te rugăm să încerci din nou. Dacă continuă să eșueze, scrie la talia@tavalabs.app și rezolvăm noi."
+  },
+  {
+   "k": "thanks.template",
+   "q": "tpl",
+   "t": "\n    <h3>Rezumatul comenzii</h3>\n    <div class=\"planrow\"><span class=\"k\">Produs</span><span class=\"v\">PDRN Brightening Serum · 1 fl oz (30 ml) · ×1</span></div>\n    <div class=\"planrow\"><span class=\"k\">${p.order.purchaseType === \"subscribe\" ? \"Subscription\" : \"One-time\"}</span><span class=\"v\">$${p.order.price}${p.order.purchaseType === \"subscribe\" ? \" every 30 days — pause or cancel anytime\" : \"\"}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Livrare către</span><span class=\"v\">${s.firstName} ${s.lastName}, ${s.city}, ${s.stateCode} ${s.zip}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Planul tău</span><span class=\"v\">${plan.rampLines.join(\" · \")}<br>Mementouri la ${fmtTime(p.answers.amTime)} și ${fmtTime(p.answers.pmTime)}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Plan trimis către</span><span class=\"v\">${p.email}</span></div>"
+  },
+  {
+   "k": "carry.template",
+   "q": "tpl",
+   "t": "Autentifică-te în aplicație cu ${p.email}, același email pe care l-ai folosit aici, iar răspunsurile tale, planul tău de 30 de zile și această comandă sunt deja acolo. Nu ai nimic de retastat."
+  },
+  {
+   "k": "time.pm",
+   "q": "dq",
+   "t": "PM"
+  },
+  {
+   "k": "time.am",
+   "q": "dq",
+   "t": "AM"
+  }
+ ]
+}

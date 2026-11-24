@@ -1,0 +1,307 @@
+{
+ "file": "quiz-41.js",
+ "entries": [
+  {
+   "k": "goal.radiance",
+   "q": "dq",
+   "t": "sjaj i blistavost"
+  },
+  {
+   "k": "goal.fine_lines",
+   "q": "dq",
+   "t": "fine linije"
+  },
+  {
+   "k": "goal.hydration",
+   "q": "dq",
+   "t": "dubinska hidratacija"
+  },
+  {
+   "k": "goal.even_tone",
+   "q": "dq",
+   "t": "ujednačen ton"
+  },
+  {
+   "k": "skin.dry",
+   "q": "dq",
+   "t": "Suha"
+  },
+  {
+   "k": "skin.oily",
+   "q": "dq",
+   "t": "Masna"
+  },
+  {
+   "k": "skin.combination",
+   "q": "dq",
+   "t": "Mješovita"
+  },
+  {
+   "k": "skin.sensitive",
+   "q": "dq",
+   "t": "Osjetljiva"
+  },
+  {
+   "k": "skin.not_sure",
+   "q": "dq",
+   "t": "Još uvijek otkrivam"
+  },
+  {
+   "k": "concern.dullness",
+   "q": "dq",
+   "t": "beživotnost"
+  },
+  {
+   "k": "concern.uneven_tone",
+   "q": "dq",
+   "t": "neujednačen ton"
+  },
+  {
+   "k": "concern.texture",
+   "q": "dq",
+   "t": "gruba tekstura"
+  },
+  {
+   "k": "concern.dryness",
+   "q": "dq",
+   "t": "suhoća"
+  },
+  {
+   "k": "notalone.radiance",
+   "q": "dq",
+   "t": "Osnivači i kreatori koji se svakodnevno predstavljaju jutro započinju na isti način. Beživotna koža umornog izgleda jedan je od najčešćih razloga zašto ljudi započinju rutinu sa serumom. PDRN Brightening Serum izgrađen je oko PDRN i peptida, u laganoj formuli osmišljenoj da poboljša izgled glatke i blistave kože, ostavljajući je punijeg izgleda, meku i osvježenu, ujutro i navečer."
+  },
+  {
+   "k": "notalone.fine_lines",
+   "q": "dq",
+   "t": "Osnivači i kreatori koji se svakodnevno predstavljaju jutro započinju na isti način. Fine linije obično su prva stvar za koju ljudi žele serum. Ova formula spaja Acetyl Hexapeptide-8 s PDRN, sastojke odabrane da podrže kožu glađeg i blistavijeg izgleda, u jednom koraku, dvaput dnevno. Nije potrebna rutina od deset koraka."
+  },
+  {
+   "k": "notalone.hydration",
+   "q": "dq",
+   "t": "Osnivači i kreatori koji se svakodnevno predstavljaju jutro započinju na isti način. Koža koja se do sredine dana osjeća zategnuto i žedno upravo je ono za što je ovaj serum izrađen. Mješavina glicerina, sodium PCA i Sodium Hyaluronate pruža dubinsku hidrataciju, dok Panthenol njeguje, pa se koža osjeća ugodno i izgleda puno, a ne masno."
+  },
+  {
+   "k": "notalone.even_tone",
+   "q": "dq",
+   "t": "Osnivači i kreatori koji se svakodnevno predstavljaju jutro započinju na isti način. Ten neujednačenog izgleda česta je frustracija. PDRN i peptidi pomažu promicati blistaviji ten živahnijeg izgleda, a lagana formula brzo se i lako upija, jednostavan korak dvaput dnevno prema ujednačenijem izgledu."
+  },
+  {
+   "k": "ing.pdrn.name",
+   "q": "dq",
+   "t": "PDRN (polydeoxyribonucleotide)"
+  },
+  {
+   "k": "ing.pdrn.text",
+   "q": "dq",
+   "t": "Pomaže promicati blistaviji ten živahnijeg izgleda i poboljšava izgled glatke i blistave kože."
+  },
+  {
+   "k": "ing.peptide.name",
+   "q": "dq",
+   "t": "Acetyl hexapeptide-8"
+  },
+  {
+   "k": "ing.peptide.text",
+   "q": "dq",
+   "t": "Peptid koji djeluje uz PDRN kako bi podržao kožu glađeg i ujednačenijeg izgleda."
+  },
+  {
+   "k": "ing.ha.name",
+   "q": "dq",
+   "t": "Hijaluronska kiselina, glicerin i sodium PCA"
+  },
+  {
+   "k": "ing.ha.text",
+   "q": "dq",
+   "t": "Hidratantna mješavina koja privlači vlagu za pun i ugodan osjećaj te svilenkasto glatku teksturu."
+  },
+  {
+   "k": "ing.panthenol.name",
+   "q": "dq",
+   "t": "Panthenol"
+  },
+  {
+   "k": "ing.panthenol.text",
+   "q": "dq",
+   "t": "Njeguje kožu, ostavljajući je mekom i ugodnom, nježna baza za kožu koja lako reagira."
+  },
+  {
+   "k": "ramp.often.1",
+   "q": "dq",
+   "t": "1. tjedan, samo navečer, svaku drugu večer"
+  },
+  {
+   "k": "ramp.often.2",
+   "q": "dq",
+   "t": "2. tjedan, svaku večer"
+  },
+  {
+   "k": "ramp.often.3",
+   "q": "dq",
+   "t": "3. do 4. tjedan, ujutro i navečer"
+  },
+  {
+   "k": "ramp.sometimes.1",
+   "q": "dq",
+   "t": "Dani 1 do 3, samo navečer"
+  },
+  {
+   "k": "ramp.sometimes.2",
+   "q": "dq",
+   "t": "Od 4. dana nadalje, ujutro i navečer"
+  },
+  {
+   "k": "ramp.never.1",
+   "q": "dq",
+   "t": "Od 1. dana, ujutro i navečer, dvaput dnevno"
+  },
+  {
+   "k": "fit.cleanser_only",
+   "q": "dq",
+   "t": "Uklapa se odmah nakon čišćenja, jedan dodani korak, oko minutu."
+  },
+  {
+   "k": "fit.few_products",
+   "q": "dq",
+   "t": "Nanosi se nakon čišćenja, prije vaše hidratantne kreme."
+  },
+  {
+   "k": "fit.full_routine",
+   "q": "dq",
+   "t": "Nanosi se u sloju nakon čišćenja i prije hidratantne kreme i SPF, ničega se ne morate odreći."
+  },
+  {
+   "k": "notalone.titlePrefix",
+   "q": "dq",
+   "t": "Niste sami. "
+  },
+  {
+   "k": "notalone.titleSuffix",
+   "q": "dq",
+   "t": " je mjesto od kojeg većina ljudi počinje."
+  },
+  {
+   "k": "match.topTag",
+   "q": "sq",
+   "t": "<span class=\"tag\">Your top match</span>"
+  },
+  {
+   "k": "plan.template",
+   "q": "tpl",
+   "t": "\n    <p class=\"mirrorline\">${SKIN_LABEL[a.skinType]} koža · fokus na ${CONCERN_LABEL[a.concern]} · cilj: ${GOAL_LABEL[a.goal]}</p>\n    <div class=\"planrow\"><span class=\"k\">Postupno uvođenje</span><span class=\"v\">${plan.rampLines.join(\"<br>\")}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Vaša vremena</span><span class=\"v\">${fmtTime(a.amTime)} i ${fmtTime(a.pmTime)}, podsjetnici samo tada</span></div>\n    <div class=\"planrow\"><span class=\"k\">Uklapanje u rutinu</span><span class=\"v\">${ROUTINE_FIT[a.routine]}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Bočica</span><span class=\"v\">PDRN Brightening Serum, 1 fl oz (30 ml), veličina za uporabu dvaput dnevno</span></div>"
+  },
+  {
+   "k": "summary.template",
+   "q": "tpl",
+   "t": "Plan od 30 dana za ${GOAL_LABEL[a.goal]}: ${SKIN_LABEL[a.skinType]} koža, glavna tegoba ${CONCERN_LABEL[a.concern]}. "
+  },
+  {
+   "k": "summary.ramp",
+   "q": "tpl",
+   "t": "Postupno uvođenje: ${ramp.key} (${ramp.lines.join(\"; \")}). Nanesite u ${fmtTime(a.amTime)} i ${fmtTime(a.pmTime)}. "
+  },
+  {
+   "k": "buy.subscribe",
+   "q": "dq",
+   "t": "Započnite moju pretplatu"
+  },
+  {
+   "k": "buy.once",
+   "q": "dq",
+   "t": "Kupite jednom"
+  },
+  {
+   "k": "paynote.subscribe",
+   "q": "dq",
+   "t": "Pretplata se obnavlja svakih 30 dana po $39. Pauzirajte ili otkažite u bilo kojem trenutku."
+  },
+  {
+   "k": "paynote.once",
+   "q": "dq",
+   "t": "Jednokratna kupnja od $49. Bez pretplate."
+  },
+  {
+   "k": "missing.firstName",
+   "q": "dq",
+   "t": "ime",
+   "anchor": "missing.push(\"first name\")"
+  },
+  {
+   "k": "missing.lastName",
+   "q": "dq",
+   "t": "prezime",
+   "anchor": "missing.push(\"last name\")"
+  },
+  {
+   "k": "missing.address1",
+   "q": "dq",
+   "t": "adresa ulice",
+   "anchor": "missing.push(\"street address\")"
+  },
+  {
+   "k": "missing.city",
+   "q": "dq",
+   "t": "grad",
+   "anchor": "missing.push(\"city\")"
+  },
+  {
+   "k": "missing.state",
+   "q": "dq",
+   "t": "savezna država",
+   "anchor": "missing.push(\"state\")"
+  },
+  {
+   "k": "missing.zip",
+   "q": "dq",
+   "t": "poštanski broj",
+   "anchor": "missing.push(\"ZIP code\")"
+  },
+  {
+   "k": "missing.email",
+   "q": "dq",
+   "t": "e pošta",
+   "anchor": "missing.push(\"email\")"
+  },
+  {
+   "k": "missing.intro",
+   "q": "dq",
+   "t": "Još malo, dodajte svoje "
+  },
+  {
+   "k": "placing",
+   "q": "dq",
+   "t": "Slanje vaše narudžbe…"
+  },
+  {
+   "k": "taking",
+   "q": "dq",
+   "t": "Vodimo vas na sigurnu naplatu…"
+  },
+  {
+   "k": "orderError",
+   "q": "dq",
+   "t": "Nešto je pošlo po zlu pri slanju vaše narudžbe, vaši podaci su i dalje ovdje, pokušajte ponovno. Ako i dalje ne uspijeva, pišite na talia@tavalabs.app i mi ćemo to riješiti."
+  },
+  {
+   "k": "thanks.template",
+   "q": "tpl",
+   "t": "\n    <h3>Sažetak narudžbe</h3>\n    <div class=\"planrow\"><span class=\"k\">Proizvod</span><span class=\"v\">PDRN Brightening Serum · 1 fl oz (30 ml) · ×1</span></div>\n    <div class=\"planrow\"><span class=\"k\">${p.order.purchaseType === \"subscribe\" ? \"Subscription\" : \"One-time\"}</span><span class=\"v\">$${p.order.price}${p.order.purchaseType === \"subscribe\" ? \" every 30 days — pause or cancel anytime\" : \"\"}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Dostava na</span><span class=\"v\">${s.firstName} ${s.lastName}, ${s.city}, ${s.stateCode} ${s.zip}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Vaš plan</span><span class=\"v\">${plan.rampLines.join(\" · \")}<br>Podsjetnici u ${fmtTime(p.answers.amTime)} i ${fmtTime(p.answers.pmTime)}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Plan poslan na</span><span class=\"v\">${p.email}</span></div>"
+  },
+  {
+   "k": "carry.template",
+   "q": "tpl",
+   "t": "Prijavite se u aplikaciju adresom ${p.email}, istom adresom e pošte koju ste ovdje koristili, i vaši odgovori, vaš plan od 30 dana i ova narudžba već su tamo. Ništa ne treba ponovno upisivati."
+  },
+  {
+   "k": "time.pm",
+   "q": "dq",
+   "t": "PM"
+  },
+  {
+   "k": "time.am",
+   "q": "dq",
+   "t": "AM"
+  }
+ ]
+}

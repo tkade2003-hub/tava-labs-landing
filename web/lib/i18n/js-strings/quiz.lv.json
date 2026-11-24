@@ -1,0 +1,307 @@
+{
+ "file": "quiz-41.js",
+ "entries": [
+  {
+   "k": "goal.radiance",
+   "q": "dq",
+   "t": "mirdzums un starojums"
+  },
+  {
+   "k": "goal.fine_lines",
+   "q": "dq",
+   "t": "smalkās līnijas"
+  },
+  {
+   "k": "goal.hydration",
+   "q": "dq",
+   "t": "dziļa mitrināšana"
+  },
+  {
+   "k": "goal.even_tone",
+   "q": "dq",
+   "t": "vienmērīgs tonis"
+  },
+  {
+   "k": "skin.dry",
+   "q": "dq",
+   "t": "Sausa"
+  },
+  {
+   "k": "skin.oily",
+   "q": "dq",
+   "t": "Taukaina"
+  },
+  {
+   "k": "skin.combination",
+   "q": "dq",
+   "t": "Kombinēta"
+  },
+  {
+   "k": "skin.sensitive",
+   "q": "dq",
+   "t": "Jutīga"
+  },
+  {
+   "k": "skin.not_sure",
+   "q": "dq",
+   "t": "Vēl to noskaidroju"
+  },
+  {
+   "k": "concern.dullness",
+   "q": "dq",
+   "t": "blāvums"
+  },
+  {
+   "k": "concern.uneven_tone",
+   "q": "dq",
+   "t": "nevienmērīgs tonis"
+  },
+  {
+   "k": "concern.texture",
+   "q": "dq",
+   "t": "raupja tekstūra"
+  },
+  {
+   "k": "concern.dryness",
+   "q": "dq",
+   "t": "sausums"
+  },
+  {
+   "k": "notalone.radiance",
+   "q": "dq",
+   "t": "Dibinātāji un satura veidotāji, kuri sevi prezentē katru dienu, savu rītu sāk vienādi. Blāva, nogurusi izskata āda ir viens no izplatītākajiem iemesliem, kāpēc cilvēki sāk seruma rutīnu. PDRN Brightening Serum ir veidots ap PDRN un peptīdiem vieglā formulā, kas radīta, lai uzlabotu gludas, mirdzošas ādas izskatu, liekot tai izskatīties kuplai, mīkstai un atsvaidzinātai no rīta un vakarā."
+  },
+  {
+   "k": "notalone.fine_lines",
+   "q": "dq",
+   "t": "Dibinātāji un satura veidotāji, kuri sevi prezentē katru dienu, savu rītu sāk vienādi. Smalkās līnijas parasti ir pirmā lieta, kuras dēļ cilvēki vēlas serumu. Šī formula apvieno Acetyl Hexapeptide-8 ar PDRN, sastāvdaļas, kas izvēlētas, lai atbalstītu ādu, kas izskatās gludāka un mirdzošāka, vienā solī divas reizes dienā. Nekāda desmit soļu rutīna nav vajadzīga."
+  },
+  {
+   "k": "notalone.hydration",
+   "q": "dq",
+   "t": "Dibinātāji un satura veidotāji, kuri sevi prezentē katru dienu, savu rītu sāk vienādi. Āda, kas līdz pusdienlaikam šķiet savilkta un izslāpusi, ir tieši tas, kam šis serums ir radīts. Glicerīna, Sodium PCA un Sodium Hyaluronate maisījums nodrošina dziļu mitrināšanu, bet Panthenol kopj, lai āda justos komfortabli un izskatītos kupla, nevis taukaina."
+  },
+  {
+   "k": "notalone.even_tone",
+   "q": "dq",
+   "t": "Dibinātāji un satura veidotāji, kuri sevi prezentē katru dienu, savu rītu sāk vienādi. Nevienmērīga izskata sejas krāsa ir izplatīta neapmierinātība. PDRN un peptīdi palīdz veicināt mirdzošāku, dzīvīgāka izskata sejas krāsu, un vieglā formula ātri un viegli iesūcas, vienkāršs solis divas reizes dienā ceļā uz vienmērīgāku izskatu."
+  },
+  {
+   "k": "ing.pdrn.name",
+   "q": "dq",
+   "t": "PDRN (polydeoxyribonucleotide)"
+  },
+  {
+   "k": "ing.pdrn.text",
+   "q": "dq",
+   "t": "Palīdz veicināt mirdzošāku, dzīvīgāka izskata sejas krāsu un uzlabo gludas, mirdzošas ādas izskatu."
+  },
+  {
+   "k": "ing.peptide.name",
+   "q": "dq",
+   "t": "Acetyl hexapeptide-8"
+  },
+  {
+   "k": "ing.peptide.text",
+   "q": "dq",
+   "t": "Peptīds, kas darbojas kopā ar PDRN, lai atbalstītu ādu, kas izskatās gludāka un vienmērīgāka."
+  },
+  {
+   "k": "ing.ha.name",
+   "q": "dq",
+   "t": "Hialuronskābe, glicerīns un Sodium PCA"
+  },
+  {
+   "k": "ing.ha.text",
+   "q": "dq",
+   "t": "Mitrināšanas maisījums, kas piesaista mitrumu kuplai, komfortablai sajūtai un zīdaini gludai tekstūrai."
+  },
+  {
+   "k": "ing.panthenol.name",
+   "q": "dq",
+   "t": "Panthenol"
+  },
+  {
+   "k": "ing.panthenol.text",
+   "q": "dq",
+   "t": "Kopj ādu, liekot tai justies mīkstai un komfortablai, saudzīga bāze ādai, kas viegli reaģē."
+  },
+  {
+   "k": "ramp.often.1",
+   "q": "dq",
+   "t": "1. nedēļa, tikai vakaros, katru otro vakaru"
+  },
+  {
+   "k": "ramp.often.2",
+   "q": "dq",
+   "t": "2. nedēļa, katru vakaru"
+  },
+  {
+   "k": "ramp.often.3",
+   "q": "dq",
+   "t": "3. līdz 4. nedēļa, no rīta un vakarā"
+  },
+  {
+   "k": "ramp.sometimes.1",
+   "q": "dq",
+   "t": "1. līdz 3. diena, tikai vakaros"
+  },
+  {
+   "k": "ramp.sometimes.2",
+   "q": "dq",
+   "t": "No 4. dienas, no rīta un vakarā"
+  },
+  {
+   "k": "ramp.never.1",
+   "q": "dq",
+   "t": "No 1. dienas, no rīta un vakarā, divas reizes dienā"
+  },
+  {
+   "k": "fit.cleanser_only",
+   "q": "dq",
+   "t": "Iederas tieši pēc attīrīšanas, viens pievienots solis, apmēram minūte."
+  },
+  {
+   "k": "fit.few_products",
+   "q": "dq",
+   "t": "Uzklājas pēc attīrīšanas, pirms jūsu mitrinātāja."
+  },
+  {
+   "k": "fit.full_routine",
+   "q": "dq",
+   "t": "Kārtojas pēc attīrīšanas un pirms mitrinātāja un SPF, ne no kā nav jāatsakās."
+  },
+  {
+   "k": "notalone.titlePrefix",
+   "q": "dq",
+   "t": "Jūs neesat viens. "
+  },
+  {
+   "k": "notalone.titleSuffix",
+   "q": "dq",
+   "t": " ir tas, ar ko lielākā daļa cilvēku sāk."
+  },
+  {
+   "k": "match.topTag",
+   "q": "sq",
+   "t": "<span class=\"tag\">Your top match</span>"
+  },
+  {
+   "k": "plan.template",
+   "q": "tpl",
+   "t": "\n    <p class=\"mirrorline\">${SKIN_LABEL[a.skinType]} āda · uzsvars uz ${CONCERN_LABEL[a.concern]} · mērķis: ${GOAL_LABEL[a.goal]}</p>\n    <div class=\"planrow\"><span class=\"k\">Palielināšana</span><span class=\"v\">${plan.rampLines.join(\"<br>\")}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Jūsu laiki</span><span class=\"v\">${fmtTime(a.amTime)} un ${fmtTime(a.pmTime)}, atgādinājumi tikai tad</span></div>\n    <div class=\"planrow\"><span class=\"k\">Atbilstība rutīnai</span><span class=\"v\">${ROUTINE_FIT[a.routine]}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Pudele</span><span class=\"v\">PDRN Brightening Serum, 1 fl oz (30 ml), izmērs lietošanai divas reizes dienā</span></div>"
+  },
+  {
+   "k": "summary.template",
+   "q": "tpl",
+   "t": "30 dienu plāns mērķim ${GOAL_LABEL[a.goal]}: ${SKIN_LABEL[a.skinType]} āda, galvenās bažas ${CONCERN_LABEL[a.concern]}. "
+  },
+  {
+   "k": "summary.ramp",
+   "q": "tpl",
+   "t": "Palielināšana: ${ramp.key} (${ramp.lines.join(\"; \")}). Uzklājiet plkst. ${fmtTime(a.amTime)} un ${fmtTime(a.pmTime)}. "
+  },
+  {
+   "k": "buy.subscribe",
+   "q": "dq",
+   "t": "Sākt manu abonementu"
+  },
+  {
+   "k": "buy.once",
+   "q": "dq",
+   "t": "Pirkt vienreiz"
+  },
+  {
+   "k": "paynote.subscribe",
+   "q": "dq",
+   "t": "Abonements atjaunojas ik pēc 30 dienām par $39. Jebkurā laikā apturiet vai atceliet."
+  },
+  {
+   "k": "paynote.once",
+   "q": "dq",
+   "t": "Vienreizējs pirkums par $49. Nekāda abonementa."
+  },
+  {
+   "k": "missing.firstName",
+   "q": "dq",
+   "t": "vārdu",
+   "anchor": "missing.push(\"first name\")"
+  },
+  {
+   "k": "missing.lastName",
+   "q": "dq",
+   "t": "uzvārdu",
+   "anchor": "missing.push(\"last name\")"
+  },
+  {
+   "k": "missing.address1",
+   "q": "dq",
+   "t": "ielas adresi",
+   "anchor": "missing.push(\"street address\")"
+  },
+  {
+   "k": "missing.city",
+   "q": "dq",
+   "t": "pilsētu",
+   "anchor": "missing.push(\"city\")"
+  },
+  {
+   "k": "missing.state",
+   "q": "dq",
+   "t": "štatu",
+   "anchor": "missing.push(\"state\")"
+  },
+  {
+   "k": "missing.zip",
+   "q": "dq",
+   "t": "ZIP kodu",
+   "anchor": "missing.push(\"ZIP code\")"
+  },
+  {
+   "k": "missing.email",
+   "q": "dq",
+   "t": "e pastu",
+   "anchor": "missing.push(\"email\")"
+  },
+  {
+   "k": "missing.intro",
+   "q": "dq",
+   "t": "Gandrīz gatavs, pievienojiet savu "
+  },
+  {
+   "k": "placing",
+   "q": "dq",
+   "t": "Veic jūsu pasūtījumu…"
+  },
+  {
+   "k": "taking",
+   "q": "dq",
+   "t": "Ved jūs uz drošu apmaksu…"
+  },
+  {
+   "k": "orderError",
+   "q": "dq",
+   "t": "Kaut kas nogāja greizi, veicot jūsu pasūtījumu, jūsu dati joprojām ir šeit, lūdzu, mēģiniet vēlreiz. Ja tas turpina neizdoties, rakstiet uz talia@tavalabs.app, un mēs to atrisināsim."
+  },
+  {
+   "k": "thanks.template",
+   "q": "tpl",
+   "t": "\n    <h3>Pasūtījuma kopsavilkums</h3>\n    <div class=\"planrow\"><span class=\"k\">Produkts</span><span class=\"v\">PDRN Brightening Serum · 1 fl oz (30 ml) · ×1</span></div>\n    <div class=\"planrow\"><span class=\"k\">${p.order.purchaseType === \"subscribe\" ? \"Subscription\" : \"One-time\"}</span><span class=\"v\">$${p.order.price}${p.order.purchaseType === \"subscribe\" ? \" every 30 days — pause or cancel anytime\" : \"\"}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Nosūta uz</span><span class=\"v\">${s.firstName} ${s.lastName}, ${s.city}, ${s.stateCode} ${s.zip}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Jūsu plāns</span><span class=\"v\">${plan.rampLines.join(\" · \")}<br>Atgādinājumi plkst. ${fmtTime(p.answers.amTime)} un ${fmtTime(p.answers.pmTime)}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Plāns nosūtīts uz</span><span class=\"v\">${p.email}</span></div>"
+  },
+  {
+   "k": "carry.template",
+   "q": "tpl",
+   "t": "Pierakstieties lietotnē ar ${p.email}, to pašu e pastu, kuru izmantojāt šeit, un jūsu atbildes, jūsu 30 dienu plāns un šis pasūtījums jau ir tur. Nekas nav jāievada no jauna."
+  },
+  {
+   "k": "time.pm",
+   "q": "dq",
+   "t": "PM"
+  },
+  {
+   "k": "time.am",
+   "q": "dq",
+   "t": "AM"
+  }
+ ]
+}

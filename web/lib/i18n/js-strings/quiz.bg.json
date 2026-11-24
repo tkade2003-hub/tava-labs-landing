@@ -1,0 +1,307 @@
+{
+ "file": "quiz-41.js",
+ "entries": [
+  {
+   "k": "goal.radiance",
+   "q": "dq",
+   "t": "сияние и блясък"
+  },
+  {
+   "k": "goal.fine_lines",
+   "q": "dq",
+   "t": "фини линии"
+  },
+  {
+   "k": "goal.hydration",
+   "q": "dq",
+   "t": "дълбока хидратация"
+  },
+  {
+   "k": "goal.even_tone",
+   "q": "dq",
+   "t": "равен тон"
+  },
+  {
+   "k": "skin.dry",
+   "q": "dq",
+   "t": "Суха"
+  },
+  {
+   "k": "skin.oily",
+   "q": "dq",
+   "t": "Мазна"
+  },
+  {
+   "k": "skin.combination",
+   "q": "dq",
+   "t": "Комбинирана"
+  },
+  {
+   "k": "skin.sensitive",
+   "q": "dq",
+   "t": "Чувствителна"
+  },
+  {
+   "k": "skin.not_sure",
+   "q": "dq",
+   "t": "Все още го установявам"
+  },
+  {
+   "k": "concern.dullness",
+   "q": "dq",
+   "t": "матовост"
+  },
+  {
+   "k": "concern.uneven_tone",
+   "q": "dq",
+   "t": "неравен тон"
+  },
+  {
+   "k": "concern.texture",
+   "q": "dq",
+   "t": "груба текстура"
+  },
+  {
+   "k": "concern.dryness",
+   "q": "dq",
+   "t": "сухота"
+  },
+  {
+   "k": "notalone.radiance",
+   "q": "dq",
+   "t": "Основателите и творците, които се представят всеки ден, започват сутринта си по същия начин. Матовата и уморена на вид кожа е една от най честите причини хората да започнат рутина със серум. PDRN Brightening Serum е изграден около PDRN и пептиди, в лека формула, създадена да подобри вида на гладката и сияйна кожа, като я оставя да изглежда плътна, мека и освежена, сутрин и вечер."
+  },
+  {
+   "k": "notalone.fine_lines",
+   "q": "dq",
+   "t": "Основателите и творците, които се представят всеки ден, започват сутринта си по същия начин. Фините линии обикновено са първото нещо, за което хората искат серум. Тази формула съчетава acetyl hexapeptide-8 с PDRN, съставки, избрани да подпомогнат кожа, която изглежда по гладка и по сияйна, в една стъпка, два пъти дневно. Не е нужна рутина от десет стъпки."
+  },
+  {
+   "k": "notalone.hydration",
+   "q": "dq",
+   "t": "Основателите и творците, които се представят всеки ден, започват сутринта си по същия начин. Кожата, която се чувства опъната и жадна до обяд, е точно това, за което е създаден този серум. Смес от глицерин, sodium PCA и sodium hyaluronate осигурява дълбока хидратация, докато panthenol подхранва, така че кожата се чувства комфортна и изглежда плътна, а не мазна."
+  },
+  {
+   "k": "notalone.even_tone",
+   "q": "dq",
+   "t": "Основателите и творците, които се представят всеки ден, започват сутринта си по същия начин. Неравният на вид тен е често разочарование. PDRN и пептидите помагат да се насърчи по сияен и жив на вид тен, а леката формула попива бързо и лесно, проста стъпка два пъти дневно към по равен вид."
+  },
+  {
+   "k": "ing.pdrn.name",
+   "q": "dq",
+   "t": "PDRN (polydeoxyribonucleotide)"
+  },
+  {
+   "k": "ing.pdrn.text",
+   "q": "dq",
+   "t": "Помага да се насърчи по сияен и жив на вид тен и подобрява вида на гладката и сияйна кожа."
+  },
+  {
+   "k": "ing.peptide.name",
+   "q": "dq",
+   "t": "Acetyl hexapeptide-8"
+  },
+  {
+   "k": "ing.peptide.text",
+   "q": "dq",
+   "t": "Пептид, който работи заедно с PDRN, за да подпомогне кожа, която изглежда по гладка и по равна."
+  },
+  {
+   "k": "ing.ha.name",
+   "q": "dq",
+   "t": "Hyaluronic acid, glycerin & sodium PCA"
+  },
+  {
+   "k": "ing.ha.text",
+   "q": "dq",
+   "t": "Хидратираща смес, която привлича влага за плътно и комфортно усещане и копринено гладка текстура."
+  },
+  {
+   "k": "ing.panthenol.name",
+   "q": "dq",
+   "t": "Panthenol"
+  },
+  {
+   "k": "ing.panthenol.text",
+   "q": "dq",
+   "t": "Подхранва кожата, като я оставя да се чувства мека и комфортна, нежна основа за кожа, която реагира лесно."
+  },
+  {
+   "k": "ramp.often.1",
+   "q": "dq",
+   "t": "Седмица 1, само вечери, през вечер"
+  },
+  {
+   "k": "ramp.often.2",
+   "q": "dq",
+   "t": "Седмица 2, всяка вечер"
+  },
+  {
+   "k": "ramp.often.3",
+   "q": "dq",
+   "t": "Седмици 3 до 4, сутрин и вечер"
+  },
+  {
+   "k": "ramp.sometimes.1",
+   "q": "dq",
+   "t": "Дни 1 до 3, само вечери"
+  },
+  {
+   "k": "ramp.sometimes.2",
+   "q": "dq",
+   "t": "От ден 4 нататък, сутрин и вечер"
+  },
+  {
+   "k": "ramp.never.1",
+   "q": "dq",
+   "t": "От ден 1, сутрин и вечер, два пъти дневно"
+  },
+  {
+   "k": "fit.cleanser_only",
+   "q": "dq",
+   "t": "Влиза веднага след почистването, една добавена стъпка, около минута."
+  },
+  {
+   "k": "fit.few_products",
+   "q": "dq",
+   "t": "Нанася се след почистване, преди овлажнителя ви."
+  },
+  {
+   "k": "fit.full_routine",
+   "q": "dq",
+   "t": "Наслоява се след почистване и преди овлажнител и SPF, нищо за отказване."
+  },
+  {
+   "k": "notalone.titlePrefix",
+   "q": "dq",
+   "t": "Не сте сами. "
+  },
+  {
+   "k": "notalone.titleSuffix",
+   "q": "dq",
+   "t": " е мястото, откъдето повечето хора започват."
+  },
+  {
+   "k": "match.topTag",
+   "q": "sq",
+   "t": "<span class=\"tag\">Your top match</span>"
+  },
+  {
+   "k": "plan.template",
+   "q": "tpl",
+   "t": "\n    <p class=\"mirrorline\">${SKIN_LABEL[a.skinType]} кожа · фокус върху ${CONCERN_LABEL[a.concern]} · цел: ${GOAL_LABEL[a.goal]}</p>\n    <div class=\"planrow\"><span class=\"k\">Постепенно въвеждане</span><span class=\"v\">${plan.rampLines.join(\"<br>\")}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Вашите часове</span><span class=\"v\">${fmtTime(a.amTime)} и ${fmtTime(a.pmTime)}, напомняния само тогава</span></div>\n    <div class=\"planrow\"><span class=\"k\">Пасване на рутината</span><span class=\"v\">${ROUTINE_FIT[a.routine]}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Бутилката</span><span class=\"v\">PDRN Brightening Serum, 1 fl oz (30 ml), с размер за употреба два пъти дневно</span></div>"
+  },
+  {
+   "k": "summary.template",
+   "q": "tpl",
+   "t": "30 дневен план за ${GOAL_LABEL[a.goal]}: ${SKIN_LABEL[a.skinType]} кожа, основно притеснение ${CONCERN_LABEL[a.concern]}. "
+  },
+  {
+   "k": "summary.ramp",
+   "q": "tpl",
+   "t": "Постепенно въвеждане: ${ramp.key} (${ramp.lines.join(\"; \")}). Нанасяйте в ${fmtTime(a.amTime)} и ${fmtTime(a.pmTime)}. "
+  },
+  {
+   "k": "buy.subscribe",
+   "q": "dq",
+   "t": "Започнете абонамента ми"
+  },
+  {
+   "k": "buy.once",
+   "q": "dq",
+   "t": "Купете веднъж"
+  },
+  {
+   "k": "paynote.subscribe",
+   "q": "dq",
+   "t": "Абонаментът се подновява на всеки 30 дни за $39. Поставете на пауза или отменете по всяко време."
+  },
+  {
+   "k": "paynote.once",
+   "q": "dq",
+   "t": "Еднократна покупка за $49. Без абонамент."
+  },
+  {
+   "k": "missing.firstName",
+   "q": "dq",
+   "t": "име",
+   "anchor": "missing.push(\"first name\")"
+  },
+  {
+   "k": "missing.lastName",
+   "q": "dq",
+   "t": "фамилия",
+   "anchor": "missing.push(\"last name\")"
+  },
+  {
+   "k": "missing.address1",
+   "q": "dq",
+   "t": "адрес",
+   "anchor": "missing.push(\"street address\")"
+  },
+  {
+   "k": "missing.city",
+   "q": "dq",
+   "t": "град",
+   "anchor": "missing.push(\"city\")"
+  },
+  {
+   "k": "missing.state",
+   "q": "dq",
+   "t": "щат",
+   "anchor": "missing.push(\"state\")"
+  },
+  {
+   "k": "missing.zip",
+   "q": "dq",
+   "t": "ZIP код",
+   "anchor": "missing.push(\"ZIP code\")"
+  },
+  {
+   "k": "missing.email",
+   "q": "dq",
+   "t": "имейл",
+   "anchor": "missing.push(\"email\")"
+  },
+  {
+   "k": "missing.intro",
+   "q": "dq",
+   "t": "Почти сте готови, добавете вашите "
+  },
+  {
+   "k": "placing",
+   "q": "dq",
+   "t": "Поставяне на поръчката ви…"
+  },
+  {
+   "k": "taking",
+   "q": "dq",
+   "t": "Отвеждане към сигурно плащане…"
+  },
+  {
+   "k": "orderError",
+   "q": "dq",
+   "t": "Нещо се обърка при поставянето на поръчката ви, данните ви все още са тук, моля, опитайте отново. Ако продължава да се проваля, пишете на talia@tavalabs.app и ще го оправим."
+  },
+  {
+   "k": "thanks.template",
+   "q": "tpl",
+   "t": "\n    <h3>Обобщение на поръчката</h3>\n    <div class=\"planrow\"><span class=\"k\">Продукт</span><span class=\"v\">PDRN Brightening Serum · 1 fl oz (30 ml) · ×1</span></div>\n    <div class=\"planrow\"><span class=\"k\">${p.order.purchaseType === \"subscribe\" ? \"Subscription\" : \"One-time\"}</span><span class=\"v\">$${p.order.price}${p.order.purchaseType === \"subscribe\" ? \" every 30 days — pause or cancel anytime\" : \"\"}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Доставка до</span><span class=\"v\">${s.firstName} ${s.lastName}, ${s.city}, ${s.stateCode} ${s.zip}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Вашият план</span><span class=\"v\">${plan.rampLines.join(\" · \")}<br>Напомняния в ${fmtTime(p.answers.amTime)} и ${fmtTime(p.answers.pmTime)}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Планът е изпратен до</span><span class=\"v\">${p.email}</span></div>"
+  },
+  {
+   "k": "carry.template",
+   "q": "tpl",
+   "t": "Влезте в приложението с ${p.email}, същия имейл, който използвахте тук, и отговорите ви, 30 дневният ви план и тази поръчка вече са там. Нищо за повторно въвеждане."
+  },
+  {
+   "k": "time.pm",
+   "q": "dq",
+   "t": "PM"
+  },
+  {
+   "k": "time.am",
+   "q": "dq",
+   "t": "AM"
+  }
+ ]
+}

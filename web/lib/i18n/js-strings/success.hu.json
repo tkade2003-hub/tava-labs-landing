@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Másolva ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Másold ezt:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Nem találtuk a fizetési hivatkozásodat ezen az oldalon, az igénylőkódod a visszaigazoló e-mailedben is szerepel. Őrizd meg azt az e-mailt, és használd a kódot, amikor telepíted az alkalmazást."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Már igényelted az alkalmazás fiókodba. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Őrizd meg eddig: "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Igénylőkód másolása"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Igénylőlink másolása"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Ez a kód kapcsolja össze a vásárlásodat az alkalmazás fiókoddal:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Ez a vásárlás már egy alkalmazás fiókban él, így nincs igényelhető kód, csak jelentkezz be az alkalmazásba."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "A fizetésed visszaigazolása, az igénylőkódod néhány másodpercen belül megjelenik itt…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "A fizetésedet e-mailben visszaigazoltuk, az igénylőkódod abban az e-mailben is szerepel. Őrizd meg, és add meg az alkalmazásban, amikor telepíted."
+  }
+ ]
+}

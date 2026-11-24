@@ -4,39 +4,23 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import { LAB_PANELS } from "@/lib/labPanels";
 import { callLabs, type LabOrderRow } from "@/lib/labs";
+import { EN_DICT, type Dict } from "@/lib/i18n/dictionaries";
+import { fmt, localizeHref, type Locale } from "@/lib/i18n/config";
 
 // The Lab tab panel catalog in the dark clinical style: real blood
 // panels a signed in member can browse, with the full marker list per
 // panel and its retail price from the labs function. Ordering opens
 // once the lab checkout is attached; results are delivered into this
 // same tab.
-const STEPS = [
-  {
-    n: "01",
-    title: "Choose a panel",
-    body: "Pick the panel that matches what you want to know. Every marker in it is listed before you order.",
-  },
-  {
-    n: "02",
-    title: "Physician review",
-    body: "A licensed physician reviews and authorizes every order, so no separate doctor visit is needed.",
-  },
-  {
-    n: "03",
-    title: "Walk in for your draw",
-    body: "One quick blood draw at a collection site near you. Most visits take about fifteen minutes.",
-  },
-  {
-    n: "04",
-    title: "Results land here",
-    body: "Results are delivered digitally into this tab in days, with every marker and its range.",
-  },
-];
+const STEP_NUMBERS = ["01", "02", "03", "04"];
 
 const tile =
   "rounded-[28px] border border-white/[0.07] bg-white/[0.055] p-6 sm:p-7";
 
-export default function LabPanels() {
+export default function LabPanels({ dict = EN_DICT, locale = "en" }: { dict?: Dict; locale?: Locale }) {
+  const t = dict.lab;
+  const lh = (href: string) => localizeHref(href, locale);
+  const dateLocale = locale === "en" ? "en-US" : locale;
   const [openId, setOpenId] = useState<string | null>(null);
   const [orders, setOrders] = useState<LabOrderRow[] | null>(null);
   const [prices, setPrices] = useState<Record<string, number>>({});
@@ -60,19 +44,17 @@ export default function LabPanels() {
       <div className="flex flex-col gap-4">
         <div className={tile}>
           <p className="text-[11px] font-semibold tracking-[0.18em] text-champagne uppercase">
-            Clinical review
+            {t.ordersLabel}
           </p>
           <h3 className="mt-2 text-[1.625rem] leading-tight font-semibold text-white">
-            Your lab orders
+            {t.ordersTitle}
           </h3>
           {orders === null ? (
-            <p className="mt-2 text-[15px] leading-relaxed text-white/65">Loading your orders…</p>
+            <p className="mt-2 text-[15px] leading-relaxed text-white/65">{t.loadingOrders}</p>
           ) : orders.length === 0 ? (
             <>
               <p className="mt-2 max-w-[42rem] text-[15px] leading-relaxed text-white/70">
-                Nothing here yet. When you complete a panel, every marker lands here with its
-                value, its healthy range, and how it moves over time. Order your first panel
-                below and this space fills in.
+                {t.ordersEmpty}
               </p>
             </>
           ) : (
@@ -82,7 +64,7 @@ export default function LabPanels() {
                   <div>
                     <p className="text-[15px] font-semibold text-white">{o.panel_name}</p>
                     <p className="text-[13px] text-white/55">
-                      {new Date(o.created_at).toLocaleDateString("en-US", {
+                      {new Date(o.created_at).toLocaleDateString(dateLocale, {
                         month: "long",
                         day: "numeric",
                         year: "numeric",
@@ -91,10 +73,10 @@ export default function LabPanels() {
                     </p>
                   </div>
                   <Link
-                    href={`/account/lab/${o.id}`}
+                    href={lh(`/account/lab/${o.id}`)}
                     className="inline-flex min-h-11 shrink-0 items-center text-sm font-semibold text-champagne underline decoration-champagne/60 decoration-2 underline-offset-4"
                   >
-                    View results
+                    {t.viewResults}
                   </Link>
                 </li>
               ))}
@@ -104,20 +86,20 @@ export default function LabPanels() {
 
         <div className={tile}>
           <p className="text-[11px] font-semibold tracking-[0.18em] text-champagne uppercase">
-            How labs work
+            {t.howLabel}
           </p>
-          <h3 className="mt-2 text-[1.375rem] font-semibold text-white">Four steps, one draw</h3>
+          <h3 className="mt-2 text-[1.375rem] font-semibold text-white">{t.howTitle}</h3>
           <div className="mt-5 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-            {STEPS.map((s) => (
-              <div key={s.n}>
+            {STEP_NUMBERS.map((n, i) => (
+              <div key={n}>
                 <p
                   className="text-[26px] leading-none font-black italic"
                   style={{ fontFamily: "'Futura extra font','Futura',sans-serif", color: "#D8C19A" }}
                 >
-                  {s.n}
+                  {n}
                 </p>
-                <p className="mt-2 text-[15px] font-semibold text-white">{s.title}</p>
-                <p className="mt-1 text-sm leading-relaxed text-white/65">{s.body}</p>
+                <p className="mt-2 text-[15px] font-semibold text-white">{t.steps[i].title}</p>
+                <p className="mt-1 text-sm leading-relaxed text-white/65">{t.steps[i].body}</p>
               </div>
             ))}
           </div>
@@ -125,21 +107,23 @@ export default function LabPanels() {
 
         <div className="px-1 pt-2">
           <p className="text-[11px] font-semibold tracking-[0.18em] text-champagne uppercase">
-            The panels
+            {t.panelsLabel}
           </p>
           <h3 className="mt-2 text-[1.625rem] leading-tight font-semibold text-white">
-            Fourteen panels, built around what you track
+            {t.panelsTitle}
           </h3>
           <p className="mt-2 max-w-[42rem] text-[15px] leading-relaxed text-white/70">
-            Every panel shows its price. Ordering opens once checkout is switched on, and a
-            licensed physician reviews every order before your results are delivered right here.
-            Panels cannot be ordered for addresses in New York, New Jersey, or Rhode Island.
+            {t.panelsSub}
           </p>
         </div>
 
         <div className="grid gap-4 lg:grid-cols-2">
           {LAB_PANELS.map((panel) => {
             const open = openId === panel.id;
+            const loc = t.panelsById[panel.id as keyof typeof t.panelsById];
+            const panelName = loc?.name ?? panel.name;
+            const panelDesc = loc?.description ?? panel.description;
+            const panelCollection = loc?.collection ?? panel.collection;
             return (
               <article
                 key={panel.id}
@@ -147,18 +131,18 @@ export default function LabPanels() {
               >
                 <div className="flex items-start justify-between gap-4">
                   <h4 className="text-[1.375rem] leading-snug font-semibold text-white">
-                    {panel.name}
+                    {panelName}
                   </h4>
                   <span className="shrink-0 rounded-full bg-champagne px-3 py-1 text-[12px] font-semibold whitespace-nowrap text-[#2A1710]">
-                    {panel.markerCount} markers
+                    {fmt(t.markersSuffix, { n: panel.markerCount })}
                   </span>
                 </div>
                 <p className="mt-2 text-[15px] leading-relaxed text-white/70">
-                  {panel.description}
+                  {panelDesc}
                 </p>
                 <div className="mt-3 flex items-baseline justify-between gap-4">
                   <p className="text-[13px] font-medium text-champagne">
-                    {panel.collection} · Results in days
+                    {panelCollection} · {t.resultsInDays}
                   </p>
                   {prices[panel.id] ? (
                     <p className="text-xl font-semibold text-white">
@@ -173,10 +157,10 @@ export default function LabPanels() {
                     aria-expanded={open}
                     onClick={() => setOpenId(open ? null : panel.id)}
                   >
-                    {open ? "Hide the markers" : "See the markers"}
+                    {open ? t.hideMarkers : t.seeMarkers}
                   </button>
                   {open ? (
-                    <ul className="mt-2 flex flex-wrap gap-1.5" aria-label={`Markers in ${panel.name}`}>
+                    <ul className="mt-2 flex flex-wrap gap-1.5" aria-label={fmt(t.markersAria, { name: panelName })}>
                       {panel.markers.map((m) => (
                         <li
                           key={m}
@@ -194,8 +178,7 @@ export default function LabPanels() {
         </div>
 
         <p className="px-1 text-sm leading-relaxed text-white/55">
-          Lab insights are information about your own health and are not a diagnosis. Talk to your
-          doctor about any result that concerns you, and call 911 in an emergency.
+          {t.disclaimer}
         </p>
       </div>
     </div>

@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Nukopijuota ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Kopijuokite tai:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Šiame puslapyje neradome jūsų atsiskaitymo nuorodos, jūsų aktyvavimo kodas taip pat yra jūsų patvirtinimo el. laiške. Išsaugokite tą el. laišką ir naudokite kodą, kai įdiegsite programėlę."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Jau aktyvuota į jūsų programėlės paskyrą. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Išsaugokite iki "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Kopijuoti aktyvavimo kodą"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Kopijuoti aktyvavimo nuorodą"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Šis kodas susieja jūsų pirkinį su jūsų programėlės paskyra:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Šis pirkinys jau yra programėlės paskyroje, todėl kodo aktyvuoti nereikia, tiesiog prisijunkite prie programėlės."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Patvirtinamas jūsų mokėjimas, jūsų aktyvavimo kodas čia pasirodys po kelių sekundžių…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Jūsų mokėjimas patvirtintas el. paštu, jūsų aktyvavimo kodas taip pat yra tame el. laiške. Išsaugokite jį ir įveskite programėlėje, kai ją įdiegsite."
+  }
+ ]
+}

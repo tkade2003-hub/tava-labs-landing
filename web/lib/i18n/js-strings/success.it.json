@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Copiato ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Copia questo:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Non siamo riusciti a trovare il tuo riferimento di pagamento in questa pagina — il tuo codice di riscatto è anche nella tua email di conferma. Conserva quell'email e usa il codice quando installi l'app."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Già riscattato nel tuo account dell'app. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Conservalo fino al "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Copia il codice di riscatto"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Copia il link di riscatto"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Questo codice collega il tuo acquisto al tuo account dell'app:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Questo acquisto vive già in un account dell'app, quindi non c'è nessun codice da riscattare — accedi semplicemente all'app."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Conferma del pagamento in corso — il tuo codice di riscatto apparirà qui tra pochi secondi…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Il tuo pagamento è confermato via email — il tuo codice di riscatto è anche in quell'email. Conservalo e inseriscilo nell'app quando la installi."
+  }
+ ]
+}

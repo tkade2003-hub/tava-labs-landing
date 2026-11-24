@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Copiat ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Copiază asta:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Nu am putut găsi referința ta de finalizare pe această pagină, codul tău de revendicare este și în emailul tău de confirmare. Păstrează acel email și folosește codul când instalezi aplicația."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Deja revendicat în contul tău din aplicație. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Păstrează-l până la "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Copiază codul de revendicare"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Copiază linkul de revendicare"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Acest cod conectează achiziția ta la contul tău din aplicație:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Această achiziție locuiește deja într-un cont din aplicație, așa că nu există niciun cod de revendicat, doar autentifică-te în aplicație."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Se confirmă plata ta, codul tău de revendicare va apărea aici în câteva secunde…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Plata ta este confirmată prin email, codul tău de revendicare este și în acel email. Păstrează-l și introdu-l în aplicație când o instalezi."
+  }
+ ]
+}

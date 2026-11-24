@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Ikkuppjat ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Ikkoppja dan:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Ma stajniex insibu r referenza tal ħlas tiegħek f din il paġna, il kodiċi tat talba tiegħek jinsab ukoll fl email ta konferma tiegħek. Żomm dik l email u uża l kodiċi meta tinstalla l app."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Diġà ġie mitlub fil kont tal app tiegħek. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Żommu sa "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Ikkoppja l kodiċi tat talba"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Ikkoppja l link tat talba"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Dan il kodiċi jgħaqqad ix xiri tiegħek mal kont tal app tiegħek:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Dan ix xiri diġà jgħix f kont tal app, għalhekk m hemm l ebda kodiċi x titlob, idħol biss fl app."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Qed nikkonfermaw il ħlas tiegħek, il kodiċi tat talba tiegħek se jidher hawn fi ftit sekondi…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Il ħlas tiegħek huwa kkonfermat bl email, il kodiċi tat talba tiegħek jinsab f dik l email ukoll. Żommu, u daħħlu fl app meta tinstallaha."
+  }
+ ]
+}

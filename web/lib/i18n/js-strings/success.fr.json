@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Copié ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Copiez ceci :"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Nous n'avons pas trouvé votre référence de paiement sur cette page. Votre code de réclamation se trouve aussi dans votre e mail de confirmation. Conservez cet e mail et utilisez le code quand vous installerez l'application."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Déjà réclamé dans votre compte de l'application. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Conservez le jusqu'au "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Copier le code de réclamation"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Copier le lien de réclamation"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Ce code relie votre achat à votre compte dans l'application :"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Cet achat vit déjà dans un compte de l'application, il n'y a donc aucun code à réclamer. Connectez vous simplement à l'application."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Confirmation de votre paiement en cours. Votre code de réclamation apparaîtra ici dans quelques secondes…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Votre paiement est confirmé par e mail. Votre code de réclamation se trouve aussi dans cet e mail. Conservez le et saisissez le dans l'application quand vous l'installerez."
+  }
+ ]
+}

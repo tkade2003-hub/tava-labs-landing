@@ -1,0 +1,307 @@
+{
+ "file": "quiz-41.js",
+ "entries": [
+  {
+   "k": "goal.radiance",
+   "q": "dq",
+   "t": "dawl u radjanza"
+  },
+  {
+   "k": "goal.fine_lines",
+   "q": "dq",
+   "t": "linji fini"
+  },
+  {
+   "k": "goal.hydration",
+   "q": "dq",
+   "t": "idratazzjoni fil fond"
+  },
+  {
+   "k": "goal.even_tone",
+   "q": "dq",
+   "t": "ton uniformi"
+  },
+  {
+   "k": "skin.dry",
+   "q": "dq",
+   "t": "Nixfa"
+  },
+  {
+   "k": "skin.oily",
+   "q": "dq",
+   "t": "Żejtnija"
+  },
+  {
+   "k": "skin.combination",
+   "q": "dq",
+   "t": "Kombinazzjoni"
+  },
+  {
+   "k": "skin.sensitive",
+   "q": "dq",
+   "t": "Sensittiva"
+  },
+  {
+   "k": "skin.not_sure",
+   "q": "dq",
+   "t": "Għadni nifhem"
+  },
+  {
+   "k": "concern.dullness",
+   "q": "dq",
+   "t": "matt"
+  },
+  {
+   "k": "concern.uneven_tone",
+   "q": "dq",
+   "t": "ton mhux uniformi"
+  },
+  {
+   "k": "concern.texture",
+   "q": "dq",
+   "t": "nisġa ħarxa"
+  },
+  {
+   "k": "concern.dryness",
+   "q": "dq",
+   "t": "nixfa"
+  },
+  {
+   "k": "notalone.radiance",
+   "q": "dq",
+   "t": "Il fundaturi u l kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Ġilda matta u li tidher għajjiena hija waħda mill aktar raġunijiet komuni għaliex in nies jibdew rutina bis serum. Il PDRN Brightening Serum huwa mibni madwar il PDRN u l peptidi, f formula ħafifa mfassla biex ittejjeb id dehra ta ġilda lixxa u radjanti, u tħalliha tidher mimlija, ratba u friska, filgħodu u billejl."
+  },
+  {
+   "k": "notalone.fine_lines",
+   "q": "dq",
+   "t": "Il fundaturi u l kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Il linji fini huma ġeneralment l ewwel ħaġa li n nies iridu serum għaliha. Din il formula tgħaqqad l acetyl hexapeptide-8 mal PDRN, ingredjenti magħżula biex jappoġġaw ġilda li tidher aktar lixxa u luminuża, f pass wieħed, darbtejn kuljum. L ebda rutina ta għaxar passi meħtieġa."
+  },
+  {
+   "k": "notalone.hydration",
+   "q": "dq",
+   "t": "Il fundaturi u l kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Ġilda li tħossha ssikkata u għatxana sa nofsinhar hija eżatt dak li dan is serum huwa magħmul għalih. Taħlita ta glycerin, sodium PCA u sodium hyaluronate tipprovdi idratazzjoni fil fond, filwaqt li l panthenol jikkundizzjona, biex il ġilda tħossha komda u tidher mimlija, mhux żejtnija."
+  },
+  {
+   "k": "notalone.even_tone",
+   "q": "dq",
+   "t": "Il fundaturi u l kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Karnaġġjon li jidher mhux uniformi huwa frustrazzjoni komuni. Il PDRN u l peptidi jgħinu biex jippromwovu karnaġġjon li jidher aktar luminuż u vibranti, u l formula ħafifa tiġi assorbita malajr u faċilment, pass sempliċi darbtejn kuljum lejn dehra aktar uniformi."
+  },
+  {
+   "k": "ing.pdrn.name",
+   "q": "dq",
+   "t": "PDRN (polydeoxyribonucleotide)"
+  },
+  {
+   "k": "ing.pdrn.text",
+   "q": "dq",
+   "t": "Jgħin biex jippromwovi karnaġġjon li jidher aktar luminuż u vibranti u jtejjeb id dehra ta ġilda lixxa u radjanti."
+  },
+  {
+   "k": "ing.peptide.name",
+   "q": "dq",
+   "t": "Acetyl hexapeptide-8"
+  },
+  {
+   "k": "ing.peptide.text",
+   "q": "dq",
+   "t": "Peptide li jaħdem flimkien mal PDRN biex jappoġġa ġilda li tidher aktar lixxa u uniformi."
+  },
+  {
+   "k": "ing.ha.name",
+   "q": "dq",
+   "t": "Aċidu jaluroniku, glycerin u sodium PCA"
+  },
+  {
+   "k": "ing.ha.text",
+   "q": "dq",
+   "t": "Taħlita ta idratazzjoni li tiġbed l umdità għal sensazzjoni mimlija u komda u nisġa lixxa bħall ħarir."
+  },
+  {
+   "k": "ing.panthenol.name",
+   "q": "dq",
+   "t": "Panthenol"
+  },
+  {
+   "k": "ing.panthenol.text",
+   "q": "dq",
+   "t": "Jikkundizzjona l ġilda, u jħalliha ratba u komda, bażi ġentili għal ġilda li tirreaġixxi faċilment."
+  },
+  {
+   "k": "ramp.often.1",
+   "q": "dq",
+   "t": "Ġimgħa 1, filgħaxijiet biss, lejl iva u lejl le"
+  },
+  {
+   "k": "ramp.often.2",
+   "q": "dq",
+   "t": "Ġimgħa 2, kull filgħaxija"
+  },
+  {
+   "k": "ramp.often.3",
+   "q": "dq",
+   "t": "Ġimgħat 3 sa 4, filgħodu u filgħaxija"
+  },
+  {
+   "k": "ramp.sometimes.1",
+   "q": "dq",
+   "t": "Ġranet 1 sa 3, filgħaxijiet biss"
+  },
+  {
+   "k": "ramp.sometimes.2",
+   "q": "dq",
+   "t": "Minn jum 4 il quddiem, filgħodu u filgħaxija"
+  },
+  {
+   "k": "ramp.never.1",
+   "q": "dq",
+   "t": "Minn jum 1, filgħodu u filgħaxija, darbtejn kuljum"
+  },
+  {
+   "k": "fit.cleanser_only",
+   "q": "dq",
+   "t": "Jidħol eżatt wara t tindif, pass wieħed miżjud, madwar minuta."
+  },
+  {
+   "k": "fit.few_products",
+   "q": "dq",
+   "t": "Jmur wara t tindif, qabel l idratant tiegħek."
+  },
+  {
+   "k": "fit.full_routine",
+   "q": "dq",
+   "t": "Jistratifika wara t tindif u qabel l idratant u l SPF, mingħajr ma ċċedi xejn."
+  },
+  {
+   "k": "notalone.titlePrefix",
+   "q": "dq",
+   "t": "M intix waħdek. "
+  },
+  {
+   "k": "notalone.titleSuffix",
+   "q": "dq",
+   "t": " huwa fejn il biċċa l kbira tan nies jibdew."
+  },
+  {
+   "k": "match.topTag",
+   "q": "sq",
+   "t": "<span class=\"tag\">Your top match</span>"
+  },
+  {
+   "k": "plan.template",
+   "q": "tpl",
+   "t": "\n    <p class=\"mirrorline\">${SKIN_LABEL[a.skinType]} ġilda · fokus fuq ${CONCERN_LABEL[a.concern]} · għan: ${GOAL_LABEL[a.goal]}</p>\n    <div class=\"planrow\"><span class=\"k\">Żieda gradwali</span><span class=\"v\">${plan.rampLines.join(\"<br>\")}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Il ħinijiet tiegħek</span><span class=\"v\">${fmtTime(a.amTime)} u ${fmtTime(a.pmTime)}, tfakki riet f dawk il ħinijiet biss</span></div>\n    <div class=\"planrow\"><span class=\"k\">Kif tidħol fir rutina</span><span class=\"v\">${ROUTINE_FIT[a.routine]}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Il flixkun</span><span class=\"v\">PDRN Brightening Serum, 1 fl oz (30 ml), daqs għall użu darbtejn kuljum</span></div>"
+  },
+  {
+   "k": "summary.template",
+   "q": "tpl",
+   "t": "Pjan ta 30 jum għal ${GOAL_LABEL[a.goal]}: ${SKIN_LABEL[a.skinType]} ġilda, tħassib prinċipali ${CONCERN_LABEL[a.concern]}. "
+  },
+  {
+   "k": "summary.ramp",
+   "q": "tpl",
+   "t": "Żieda gradwali: ${ramp.key} (${ramp.lines.join(\"; \")}). Applika fis ${fmtTime(a.amTime)} u fis ${fmtTime(a.pmTime)}. "
+  },
+  {
+   "k": "buy.subscribe",
+   "q": "dq",
+   "t": "Ibda l abbonament tiegħi"
+  },
+  {
+   "k": "buy.once",
+   "q": "dq",
+   "t": "Ixtri darba"
+  },
+  {
+   "k": "paynote.subscribe",
+   "q": "dq",
+   "t": "L abbonament jiġġedded kull 30 jum għal $39. Waqqaf jew ikkanċella fi kwalunkwe ħin."
+  },
+  {
+   "k": "paynote.once",
+   "q": "dq",
+   "t": "Xiri ta darba ta $49. L ebda abbonament."
+  },
+  {
+   "k": "missing.firstName",
+   "q": "dq",
+   "t": "isem",
+   "anchor": "missing.push(\"first name\")"
+  },
+  {
+   "k": "missing.lastName",
+   "q": "dq",
+   "t": "kunjom",
+   "anchor": "missing.push(\"last name\")"
+  },
+  {
+   "k": "missing.address1",
+   "q": "dq",
+   "t": "indirizz tat triq",
+   "anchor": "missing.push(\"street address\")"
+  },
+  {
+   "k": "missing.city",
+   "q": "dq",
+   "t": "belt",
+   "anchor": "missing.push(\"city\")"
+  },
+  {
+   "k": "missing.state",
+   "q": "dq",
+   "t": "stat",
+   "anchor": "missing.push(\"state\")"
+  },
+  {
+   "k": "missing.zip",
+   "q": "dq",
+   "t": "kodiċi ZIP",
+   "anchor": "missing.push(\"ZIP code\")"
+  },
+  {
+   "k": "missing.email",
+   "q": "dq",
+   "t": "email",
+   "anchor": "missing.push(\"email\")"
+  },
+  {
+   "k": "missing.intro",
+   "q": "dq",
+   "t": "Kważi hemm, żid "
+  },
+  {
+   "k": "placing",
+   "q": "dq",
+   "t": "Qed nagħmlu l ordni tiegħek…"
+  },
+  {
+   "k": "taking",
+   "q": "dq",
+   "t": "Qed neħduk għall ħlas sigur…"
+  },
+  {
+   "k": "orderError",
+   "q": "dq",
+   "t": "Xi ħaġa marret ħażin meta konna qed nagħmlu l ordni tiegħek, id dettalji tiegħek għadhom hawn, jekk jogħġbok erġa pprova. Jekk jibqa jfalli, ibgħat email lil talia@tavalabs.app u aħna nirranġawha."
+  },
+  {
+   "k": "thanks.template",
+   "q": "tpl",
+   "t": "\n    <h3>Sommarju tal ordni</h3>\n    <div class=\"planrow\"><span class=\"k\">Prodott</span><span class=\"v\">PDRN Brightening Serum · 1 fl oz (30 ml) · ×1</span></div>\n    <div class=\"planrow\"><span class=\"k\">${p.order.purchaseType === \"subscribe\" ? \"Subscription\" : \"One-time\"}</span><span class=\"v\">$${p.order.price}${p.order.purchaseType === \"subscribe\" ? \" every 30 days — pause or cancel anytime\" : \"\"}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Jintbagħat lil</span><span class=\"v\">${s.firstName} ${s.lastName}, ${s.city}, ${s.stateCode} ${s.zip}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Il pjan tiegħek</span><span class=\"v\">${plan.rampLines.join(\" · \")}<br>Tfakki riet fis ${fmtTime(p.answers.amTime)} u fis ${fmtTime(p.answers.pmTime)}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Pjan mibgħut lil</span><span class=\"v\">${p.email}</span></div>"
+  },
+  {
+   "k": "carry.template",
+   "q": "tpl",
+   "t": "Idħol fl app b ${p.email}, l istess email li użajt hawn, u t tweġibiet tiegħek, il pjan ta 30 jum tiegħek u din l ordni diġà qegħdin hemm. Xejn ma għandek terġa ttajpja."
+  },
+  {
+   "k": "time.pm",
+   "q": "dq",
+   "t": "PM"
+  },
+  {
+   "k": "time.am",
+   "q": "dq",
+   "t": "AM"
+  }
+ ]
+}

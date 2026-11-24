@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Kopierat ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Kopiera detta:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Vi kunde inte hitta din kassareferens på denna sida, din anspråkskod finns också i ditt bekräftelsemejl. Behåll det mejlet och använd koden när du installerar appen."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Redan inlösta till ditt appkonto. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Behåll den till "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Kopiera anspråkskod"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Kopiera anspråkslänk"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Denna kod kopplar ditt köp till ditt appkonto:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Detta köp finns redan i ett appkonto, så det finns ingen kod att lösa in, logga bara in i appen."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Bekräftar din betalning, din anspråkskod visas här om några sekunder…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Din betalning är bekräftad via mejl, din anspråkskod finns i det mejlet också. Behåll den och ange den i appen när du installerar den."
+  }
+ ]
+}

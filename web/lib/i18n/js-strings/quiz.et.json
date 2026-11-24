@@ -1,0 +1,307 @@
+{
+ "file": "quiz-41.js",
+ "entries": [
+  {
+   "k": "goal.radiance",
+   "q": "dq",
+   "t": "säravus ja sära"
+  },
+  {
+   "k": "goal.fine_lines",
+   "q": "dq",
+   "t": "peened jooned"
+  },
+  {
+   "k": "goal.hydration",
+   "q": "dq",
+   "t": "sügav niisutus"
+  },
+  {
+   "k": "goal.even_tone",
+   "q": "dq",
+   "t": "ühtlane toon"
+  },
+  {
+   "k": "skin.dry",
+   "q": "dq",
+   "t": "Kuiv"
+  },
+  {
+   "k": "skin.oily",
+   "q": "dq",
+   "t": "Rasune"
+  },
+  {
+   "k": "skin.combination",
+   "q": "dq",
+   "t": "Kombineeritud"
+  },
+  {
+   "k": "skin.sensitive",
+   "q": "dq",
+   "t": "Tundlik"
+  },
+  {
+   "k": "skin.not_sure",
+   "q": "dq",
+   "t": "Alles selgitan välja"
+  },
+  {
+   "k": "concern.dullness",
+   "q": "dq",
+   "t": "tuhmus"
+  },
+  {
+   "k": "concern.uneven_tone",
+   "q": "dq",
+   "t": "ebaühtlane toon"
+  },
+  {
+   "k": "concern.texture",
+   "q": "dq",
+   "t": "kare tekstuur"
+  },
+  {
+   "k": "concern.dryness",
+   "q": "dq",
+   "t": "kuivus"
+  },
+  {
+   "k": "notalone.radiance",
+   "q": "dq",
+   "t": "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Tuhm, väsinud välimusega nahk on üks levinumaid põhjuseid, miks inimesed seerumirutiini alustavad. PDRN Brightening Serum on ehitatud PDRN-i ja peptiidide ümber kerges valemis, mis on loodud parandama sileda ja särava naha välimust, jättes selle täidlase, pehme ja värskena, hommikul ja õhtul."
+  },
+  {
+   "k": "notalone.fine_lines",
+   "q": "dq",
+   "t": "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Peened jooned on tavaliselt esimene asi, mille pärast inimesed seerumit soovivad. See valem ühendab acetyl hexapeptide-8 PDRN-iga, koostisosad, mis on valitud toetama nahka, mis näeb siledam ja säravam välja, ühes sammus, kaks korda päevas. Kümne sammu rutiini ei ole vaja."
+  },
+  {
+   "k": "notalone.hydration",
+   "q": "dq",
+   "t": "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Nahk, mis tundub keskpäevaks kiskuv ja janune, on täpselt see, mille jaoks see seerum on tehtud. Glütseriini, sodium PCA ja sodium hyaluronate segu pakub sügavat niisutust, samal ajal kui panthenol hooldab, nii et nahk tundub mugav ja näeb täidlane välja, mitte rasvane."
+  },
+  {
+   "k": "notalone.even_tone",
+   "q": "dq",
+   "t": "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Ebaühtlase välimusega jume on levinud frustratsioon. PDRN ja peptiidid aitavad edendada säravamat ja elavama välimusega jumet ning kerge valem imendub kiiresti ja lihtsalt, lihtne kaks korda päevas tehtav samm ühtlasema välimuse poole."
+  },
+  {
+   "k": "ing.pdrn.name",
+   "q": "dq",
+   "t": "PDRN (polydeoxyribonucleotide)"
+  },
+  {
+   "k": "ing.pdrn.text",
+   "q": "dq",
+   "t": "Aitab edendada säravamat ja elavama välimusega jumet ning parandab sileda ja särava naha välimust."
+  },
+  {
+   "k": "ing.peptide.name",
+   "q": "dq",
+   "t": "Acetyl hexapeptide-8"
+  },
+  {
+   "k": "ing.peptide.text",
+   "q": "dq",
+   "t": "Peptiid, mis töötab koos PDRN-iga, et toetada nahka, mis näeb siledam ja ühtlasem välja."
+  },
+  {
+   "k": "ing.ha.name",
+   "q": "dq",
+   "t": "Hyaluronic acid, glycerin & sodium PCA"
+  },
+  {
+   "k": "ing.ha.text",
+   "q": "dq",
+   "t": "Niisutusegu, mis tõmbab niiskust ligi täidlase ja mugava tunde ning siidiselt sileda tekstuuri heaks."
+  },
+  {
+   "k": "ing.panthenol.name",
+   "q": "dq",
+   "t": "Panthenol"
+  },
+  {
+   "k": "ing.panthenol.text",
+   "q": "dq",
+   "t": "Hooldab nahka, jättes selle pehme ja mugava tundena, lahke põhi nahale, mis reageerib kergesti."
+  },
+  {
+   "k": "ramp.often.1",
+   "q": "dq",
+   "t": "1. nädal, õhtuti, üle õhtu"
+  },
+  {
+   "k": "ramp.often.2",
+   "q": "dq",
+   "t": "2. nädal, igal õhtul"
+  },
+  {
+   "k": "ramp.often.3",
+   "q": "dq",
+   "t": "3. kuni 4. nädal, hommikul ja õhtul"
+  },
+  {
+   "k": "ramp.sometimes.1",
+   "q": "dq",
+   "t": "1. kuni 3. päev, ainult õhtuti"
+  },
+  {
+   "k": "ramp.sometimes.2",
+   "q": "dq",
+   "t": "Alates 4. päevast, hommikul ja õhtul"
+  },
+  {
+   "k": "ramp.never.1",
+   "q": "dq",
+   "t": "Alates 1. päevast, hommikul ja õhtul, kaks korda päevas"
+  },
+  {
+   "k": "fit.cleanser_only",
+   "q": "dq",
+   "t": "Sobitub kohe pärast puhastamist, üks lisatud samm, umbes minut."
+  },
+  {
+   "k": "fit.few_products",
+   "q": "dq",
+   "t": "Läheb peale pärast puhastamist, enne sinu niisutajat."
+  },
+  {
+   "k": "fit.full_routine",
+   "q": "dq",
+   "t": "Kihistub pärast puhastamist ning enne niisutajat ja SPF-i, millestki loobuma ei pea."
+  },
+  {
+   "k": "notalone.titlePrefix",
+   "q": "dq",
+   "t": "Sa ei ole üksi. "
+  },
+  {
+   "k": "notalone.titleSuffix",
+   "q": "dq",
+   "t": " on koht, kust enamik inimesi alustab."
+  },
+  {
+   "k": "match.topTag",
+   "q": "sq",
+   "t": "<span class=\"tag\">Your top match</span>"
+  },
+  {
+   "k": "plan.template",
+   "q": "tpl",
+   "t": "\n    <p class=\"mirrorline\">${SKIN_LABEL[a.skinType]} nahk · fookus: ${CONCERN_LABEL[a.concern]} · eesmärk: ${GOAL_LABEL[a.goal]}</p>\n    <div class=\"planrow\"><span class=\"k\">Sisseelamine</span><span class=\"v\">${plan.rampLines.join(\"<br>\")}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Sinu ajad</span><span class=\"v\">${fmtTime(a.amTime)} ja ${fmtTime(a.pmTime)}, meeldetuletused ainult siis</span></div>\n    <div class=\"planrow\"><span class=\"k\">Rutiini sobivus</span><span class=\"v\">${ROUTINE_FIT[a.routine]}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Pudel</span><span class=\"v\">PDRN Brightening Serum, 1 fl oz (30 ml), suurus kaks korda päevas kasutamiseks</span></div>"
+  },
+  {
+   "k": "summary.template",
+   "q": "tpl",
+   "t": "30 päeva plaan eesmärgile ${GOAL_LABEL[a.goal]}: ${SKIN_LABEL[a.skinType]} nahk, peamine mure ${CONCERN_LABEL[a.concern]}. "
+  },
+  {
+   "k": "summary.ramp",
+   "q": "tpl",
+   "t": "Sisseelamine: ${ramp.key} (${ramp.lines.join(\"; \")}). Kanna peale kell ${fmtTime(a.amTime)} ja ${fmtTime(a.pmTime)}. "
+  },
+  {
+   "k": "buy.subscribe",
+   "q": "dq",
+   "t": "Alusta minu tellimust"
+  },
+  {
+   "k": "buy.once",
+   "q": "dq",
+   "t": "Osta üks kord"
+  },
+  {
+   "k": "paynote.subscribe",
+   "q": "dq",
+   "t": "Tellimus uueneb iga 30 päeva tagant hinnaga $39. Peata või tühista igal ajal."
+  },
+  {
+   "k": "paynote.once",
+   "q": "dq",
+   "t": "Ühekordne ost hinnaga $49. Tellimust ei ole."
+  },
+  {
+   "k": "missing.firstName",
+   "q": "dq",
+   "t": "eesnimi",
+   "anchor": "missing.push(\"first name\")"
+  },
+  {
+   "k": "missing.lastName",
+   "q": "dq",
+   "t": "perekonnanimi",
+   "anchor": "missing.push(\"last name\")"
+  },
+  {
+   "k": "missing.address1",
+   "q": "dq",
+   "t": "tänava aadress",
+   "anchor": "missing.push(\"street address\")"
+  },
+  {
+   "k": "missing.city",
+   "q": "dq",
+   "t": "linn",
+   "anchor": "missing.push(\"city\")"
+  },
+  {
+   "k": "missing.state",
+   "q": "dq",
+   "t": "osariik",
+   "anchor": "missing.push(\"state\")"
+  },
+  {
+   "k": "missing.zip",
+   "q": "dq",
+   "t": "ZIP-kood",
+   "anchor": "missing.push(\"ZIP code\")"
+  },
+  {
+   "k": "missing.email",
+   "q": "dq",
+   "t": "e-post",
+   "anchor": "missing.push(\"email\")"
+  },
+  {
+   "k": "missing.intro",
+   "q": "dq",
+   "t": "Peaaegu valmis, lisa oma "
+  },
+  {
+   "k": "placing",
+   "q": "dq",
+   "t": "Sinu tellimuse esitamine…"
+  },
+  {
+   "k": "taking",
+   "q": "dq",
+   "t": "Viin sind turvalisse kassasse…"
+  },
+  {
+   "k": "orderError",
+   "q": "dq",
+   "t": "Midagi läks sinu tellimuse esitamisel valesti, sinu andmed on endiselt siin, proovi uuesti. Kui see ebaõnnestub jätkuvalt, kirjuta talia@tavalabs.app ja me lahendame selle."
+  },
+  {
+   "k": "thanks.template",
+   "q": "tpl",
+   "t": "\n    <h3>Tellimuse kokkuvõte</h3>\n    <div class=\"planrow\"><span class=\"k\">Toode</span><span class=\"v\">PDRN Brightening Serum · 1 fl oz (30 ml) · ×1</span></div>\n    <div class=\"planrow\"><span class=\"k\">${p.order.purchaseType === \"subscribe\" ? \"Subscription\" : \"One-time\"}</span><span class=\"v\">$${p.order.price}${p.order.purchaseType === \"subscribe\" ? \" every 30 days — pause or cancel anytime\" : \"\"}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Saadetakse</span><span class=\"v\">${s.firstName} ${s.lastName}, ${s.city}, ${s.stateCode} ${s.zip}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Sinu plaan</span><span class=\"v\">${plan.rampLines.join(\" · \")}<br>Meeldetuletused kell ${fmtTime(p.answers.amTime)} ja ${fmtTime(p.answers.pmTime)}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Plaan saadetud</span><span class=\"v\">${p.email}</span></div>"
+  },
+  {
+   "k": "carry.template",
+   "q": "tpl",
+   "t": "Logi rakendusse sisse aadressiga ${p.email}, sama e-post, mida sa siin kasutasid, ja sinu vastused, sinu 30 päeva plaan ja see tellimus on juba seal. Midagi uuesti sisestada ei ole."
+  },
+  {
+   "k": "time.pm",
+   "q": "dq",
+   "t": "PM"
+  },
+  {
+   "k": "time.am",
+   "q": "dq",
+   "t": "AM"
+  }
+ ]
+}

@@ -1,0 +1,307 @@
+{
+ "file": "quiz-41.js",
+ "entries": [
+  {
+   "k": "goal.radiance",
+   "q": "dq",
+   "t": "λάμψη και ακτινοβολία"
+  },
+  {
+   "k": "goal.fine_lines",
+   "q": "dq",
+   "t": "λεπτές γραμμές"
+  },
+  {
+   "k": "goal.hydration",
+   "q": "dq",
+   "t": "βαθιά ενυδάτωση"
+  },
+  {
+   "k": "goal.even_tone",
+   "q": "dq",
+   "t": "ένας ομοιόμορφος τόνος"
+  },
+  {
+   "k": "skin.dry",
+   "q": "dq",
+   "t": "Ξηρό"
+  },
+  {
+   "k": "skin.oily",
+   "q": "dq",
+   "t": "Λιπαρό"
+  },
+  {
+   "k": "skin.combination",
+   "q": "dq",
+   "t": "Μεικτό"
+  },
+  {
+   "k": "skin.sensitive",
+   "q": "dq",
+   "t": "Ευαίσθητο"
+  },
+  {
+   "k": "skin.not_sure",
+   "q": "dq",
+   "t": "Ακόμη το ανακαλύπτω"
+  },
+  {
+   "k": "concern.dullness",
+   "q": "dq",
+   "t": "θαμπάδα"
+  },
+  {
+   "k": "concern.uneven_tone",
+   "q": "dq",
+   "t": "ανομοιόμορφος τόνος"
+  },
+  {
+   "k": "concern.texture",
+   "q": "dq",
+   "t": "τραχιά υφή"
+  },
+  {
+   "k": "concern.dryness",
+   "q": "dq",
+   "t": "ξηρότητα"
+  },
+  {
+   "k": "notalone.radiance",
+   "q": "dq",
+   "t": "Οι ιδρυτές και οι δημιουργοί που παρουσιάζονται κάθε μέρα ξεκινούν το πρωί τους με τον ίδιο τρόπο. Το θαμπό δέρμα με κουρασμένη όψη είναι ένας από τους πιο συνηθισμένους λόγους για να ξεκινήσει κανείς μια ρουτίνα serum. Το PDRN Brightening Serum είναι χτισμένο γύρω από το PDRN και τα πεπτίδια, σε μια ελαφριά φόρμουλα σχεδιασμένη να ενισχύει την όψη λείου, λαμπερού δέρματος, αφήνοντάς το να δείχνει σφριγηλό, απαλό και ανανεωμένο, πρωί και βράδυ."
+  },
+  {
+   "k": "notalone.fine_lines",
+   "q": "dq",
+   "t": "Οι ιδρυτές και οι δημιουργοί που παρουσιάζονται κάθε μέρα ξεκινούν το πρωί τους με τον ίδιο τρόπο. Οι λεπτές γραμμές είναι συνήθως το πρώτο πράγμα για το οποίο θέλει κανείς ένα serum. Αυτή η φόρμουλα συνδυάζει το Acetyl Hexapeptide-8 με το PDRN, συστατικά που επιλέχθηκαν για να υποστηρίξουν δέρμα που δείχνει πιο λείο και πιο φωτεινό, σε ένα μόνο βήμα, δύο φορές την ημέρα. Δεν απαιτείται ρουτίνα δέκα βημάτων."
+  },
+  {
+   "k": "notalone.hydration",
+   "q": "dq",
+   "t": "Οι ιδρυτές και οι δημιουργοί που παρουσιάζονται κάθε μέρα ξεκινούν το πρωί τους με τον ίδιο τρόπο. Το δέρμα που τραβάει και διψάει μέχρι το μεσημέρι είναι ακριβώς αυτό για το οποίο φτιάχτηκε αυτό το serum. Ένα μείγμα γλυκερίνης, Sodium PCA και Sodium Hyaluronate παρέχει βαθιά ενυδάτωση, ενώ το Panthenol περιποιείται, ώστε το δέρμα να νιώθει άνετο και να δείχνει σφριγηλό, όχι λιπαρό."
+  },
+  {
+   "k": "notalone.even_tone",
+   "q": "dq",
+   "t": "Οι ιδρυτές και οι δημιουργοί που παρουσιάζονται κάθε μέρα ξεκινούν το πρωί τους με τον ίδιο τρόπο. Μια επιδερμίδα με ανομοιόμορφη όψη είναι μια συνηθισμένη απογοήτευση. Το PDRN και τα πεπτίδια βοηθούν να προωθηθεί μια πιο φωτεινή επιδερμίδα με ζωντανή όψη, και η ελαφριά φόρμουλα απορροφάται γρήγορα και εύκολα, ένα απλό βήμα δύο φορές την ημέρα προς μια πιο ομοιόμορφη όψη."
+  },
+  {
+   "k": "ing.pdrn.name",
+   "q": "dq",
+   "t": "PDRN (polydeoxyribonucleotide)"
+  },
+  {
+   "k": "ing.pdrn.text",
+   "q": "dq",
+   "t": "Βοηθά να προωθηθεί μια πιο φωτεινή επιδερμίδα με ζωντανή όψη και ενισχύει την όψη λείου, λαμπερού δέρματος."
+  },
+  {
+   "k": "ing.peptide.name",
+   "q": "dq",
+   "t": "Acetyl hexapeptide-8"
+  },
+  {
+   "k": "ing.peptide.text",
+   "q": "dq",
+   "t": "Ένα πεπτίδιο που συνεργάζεται με το PDRN για να υποστηρίξει δέρμα που δείχνει πιο λείο και πιο ομοιόμορφο."
+  },
+  {
+   "k": "ing.ha.name",
+   "q": "dq",
+   "t": "Υαλουρονικό οξύ, γλυκερίνη και Sodium PCA"
+  },
+  {
+   "k": "ing.ha.text",
+   "q": "dq",
+   "t": "Ένα μείγμα ενυδάτωσης που προσελκύει υγρασία για σφριγηλή, άνετη αίσθηση και μεταξένια λεία υφή."
+  },
+  {
+   "k": "ing.panthenol.name",
+   "q": "dq",
+   "t": "Panthenol"
+  },
+  {
+   "k": "ing.panthenol.text",
+   "q": "dq",
+   "t": "Περιποιείται το δέρμα, αφήνοντάς το απαλό και άνετο, μια ευγενική βάση για δέρμα που αντιδρά εύκολα."
+  },
+  {
+   "k": "ramp.often.1",
+   "q": "dq",
+   "t": "Εβδομάδα 1: μόνο τα βράδια, κάθε δεύτερο βράδυ"
+  },
+  {
+   "k": "ramp.often.2",
+   "q": "dq",
+   "t": "Εβδομάδα 2: κάθε βράδυ"
+  },
+  {
+   "k": "ramp.often.3",
+   "q": "dq",
+   "t": "Εβδομάδες 3 έως 4: πρωί και βράδυ"
+  },
+  {
+   "k": "ramp.sometimes.1",
+   "q": "dq",
+   "t": "Ημέρες 1 έως 3: μόνο τα βράδια"
+  },
+  {
+   "k": "ramp.sometimes.2",
+   "q": "dq",
+   "t": "Από την ημέρα 4 και μετά: πρωί και βράδυ"
+  },
+  {
+   "k": "ramp.never.1",
+   "q": "dq",
+   "t": "Από την ημέρα 1: πρωί και βράδυ, δύο φορές την ημέρα"
+  },
+  {
+   "k": "fit.cleanser_only",
+   "q": "dq",
+   "t": "Μπαίνει αμέσως μετά τον καθαρισμό, ένα πρόσθετο βήμα, περίπου ένα λεπτό."
+  },
+  {
+   "k": "fit.few_products",
+   "q": "dq",
+   "t": "Εφαρμόζεται μετά τον καθαρισμό, πριν από την ενυδατική σας κρέμα."
+  },
+  {
+   "k": "fit.full_routine",
+   "q": "dq",
+   "t": "Στρώνεται μετά τον καθαρισμό και πριν από την ενυδατική κρέμα και το SPF, τίποτα να μην εγκαταλείψετε."
+  },
+  {
+   "k": "notalone.titlePrefix",
+   "q": "dq",
+   "t": "Δεν είστε μόνοι. "
+  },
+  {
+   "k": "notalone.titleSuffix",
+   "q": "dq",
+   "t": " είναι το σημείο από όπου ξεκινούν οι περισσότεροι."
+  },
+  {
+   "k": "match.topTag",
+   "q": "sq",
+   "t": "<span class=\"tag\">Your top match</span>"
+  },
+  {
+   "k": "plan.template",
+   "q": "tpl",
+   "t": "\n    <p class=\"mirrorline\">Δέρμα ${SKIN_LABEL[a.skinType]} · έμφαση στο ${CONCERN_LABEL[a.concern]} · στόχος: ${GOAL_LABEL[a.goal]}</p>\n    <div class=\"planrow\"><span class=\"k\">Σταδιακή αύξηση</span><span class=\"v\">${plan.rampLines.join(\"<br>\")}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Οι ώρες σας</span><span class=\"v\">${fmtTime(a.amTime)} και ${fmtTime(a.pmTime)}, υπενθυμίσεις μόνο τότε</span></div>\n    <div class=\"planrow\"><span class=\"k\">Προσαρμογή ρουτίνας</span><span class=\"v\">${ROUTINE_FIT[a.routine]}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Το μπουκάλι</span><span class=\"v\">PDRN Brightening Serum, 1 fl oz (30 ml), σε μέγεθος για χρήση δύο φορές την ημέρα</span></div>"
+  },
+  {
+   "k": "summary.template",
+   "q": "tpl",
+   "t": "Πλάνο 30 ημερών για ${GOAL_LABEL[a.goal]}: δέρμα ${SKIN_LABEL[a.skinType]}, κύρια ανησυχία ${CONCERN_LABEL[a.concern]}. "
+  },
+  {
+   "k": "summary.ramp",
+   "q": "tpl",
+   "t": "Σταδιακή αύξηση: ${ramp.key} (${ramp.lines.join(\"; \")}). Εφαρμόστε στις ${fmtTime(a.amTime)} και ${fmtTime(a.pmTime)}. "
+  },
+  {
+   "k": "buy.subscribe",
+   "q": "dq",
+   "t": "Ξεκινήστε τη συνδρομή μου"
+  },
+  {
+   "k": "buy.once",
+   "q": "dq",
+   "t": "Αγορά μία φορά"
+  },
+  {
+   "k": "paynote.subscribe",
+   "q": "dq",
+   "t": "Η συνδρομή ανανεώνεται κάθε 30 ημέρες στα $39. Παύση ή ακύρωση ανά πάσα στιγμή."
+  },
+  {
+   "k": "paynote.once",
+   "q": "dq",
+   "t": "Αγορά μίας φοράς $49. Χωρίς συνδρομή."
+  },
+  {
+   "k": "missing.firstName",
+   "q": "dq",
+   "t": "όνομα",
+   "anchor": "missing.push(\"first name\")"
+  },
+  {
+   "k": "missing.lastName",
+   "q": "dq",
+   "t": "επώνυμο",
+   "anchor": "missing.push(\"last name\")"
+  },
+  {
+   "k": "missing.address1",
+   "q": "dq",
+   "t": "διεύθυνση οδού",
+   "anchor": "missing.push(\"street address\")"
+  },
+  {
+   "k": "missing.city",
+   "q": "dq",
+   "t": "πόλη",
+   "anchor": "missing.push(\"city\")"
+  },
+  {
+   "k": "missing.state",
+   "q": "dq",
+   "t": "πολιτεία",
+   "anchor": "missing.push(\"state\")"
+  },
+  {
+   "k": "missing.zip",
+   "q": "dq",
+   "t": "ταχυδρομικός κώδικας",
+   "anchor": "missing.push(\"ZIP code\")"
+  },
+  {
+   "k": "missing.email",
+   "q": "dq",
+   "t": "email",
+   "anchor": "missing.push(\"email\")"
+  },
+  {
+   "k": "missing.intro",
+   "q": "dq",
+   "t": "Σχεδόν εκεί, προσθέστε το "
+  },
+  {
+   "k": "placing",
+   "q": "dq",
+   "t": "Υποβολή της παραγγελίας σας…"
+  },
+  {
+   "k": "taking",
+   "q": "dq",
+   "t": "Μετάβαση στην ασφαλή ολοκλήρωση αγοράς…"
+  },
+  {
+   "k": "orderError",
+   "q": "dq",
+   "t": "Κάτι πήγε στραβά κατά την υποβολή της παραγγελίας σας. Τα στοιχεία σας βρίσκονται ακόμη εδώ, δοκιμάστε ξανά. Εάν συνεχίζει να αποτυγχάνει, στείλτε email στο talia@tavalabs.app και θα το τακτοποιήσουμε."
+  },
+  {
+   "k": "thanks.template",
+   "q": "tpl",
+   "t": "\n    <h3>Σύνοψη παραγγελίας</h3>\n    <div class=\"planrow\"><span class=\"k\">Προϊόν</span><span class=\"v\">PDRN Brightening Serum · 1 fl oz (30 ml) · ×1</span></div>\n    <div class=\"planrow\"><span class=\"k\">${p.order.purchaseType === \"subscribe\" ? \"Subscription\" : \"One-time\"}</span><span class=\"v\">$${p.order.price}${p.order.purchaseType === \"subscribe\" ? \" every 30 days — pause or cancel anytime\" : \"\"}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Αποστολή σε</span><span class=\"v\">${s.firstName} ${s.lastName}, ${s.city}, ${s.stateCode} ${s.zip}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Το πλάνο σας</span><span class=\"v\">${plan.rampLines.join(\" · \")}<br>Υπενθυμίσεις στις ${fmtTime(p.answers.amTime)} και ${fmtTime(p.answers.pmTime)}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Το πλάνο στάλθηκε στο</span><span class=\"v\">${p.email}</span></div>"
+  },
+  {
+   "k": "carry.template",
+   "q": "tpl",
+   "t": "Συνδεθείτε στην εφαρμογή με το ${p.email}, το ίδιο email που χρησιμοποιήσατε εδώ, και οι απαντήσεις σας, το πλάνο 30 ημερών σας και αυτή η παραγγελία βρίσκονται ήδη εκεί. Τίποτα να μην πληκτρολογήσετε ξανά."
+  },
+  {
+   "k": "time.pm",
+   "q": "dq",
+   "t": "ΜΜ"
+  },
+  {
+   "k": "time.am",
+   "q": "dq",
+   "t": "ΠΜ"
+  }
+ ]
+}

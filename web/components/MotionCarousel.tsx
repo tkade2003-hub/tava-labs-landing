@@ -1,6 +1,8 @@
 "use client";
 
 import { useCallback, useEffect, useState } from "react";
+import type { Dict } from "@/lib/i18n/dictionaries";
+import { EN_DICT } from "@/lib/i18n/dictionaries";
 
 const MOTION_VIDEOS = [
   "video_1794963376632",
@@ -27,7 +29,8 @@ function PlayTriangle() {
   );
 }
 
-export default function MotionCarousel() {
+export default function MotionCarousel({ dict = EN_DICT }: { dict?: Dict }) {
+  const t = dict.home;
   const [active, setActive] = useState<string | null>(null);
 
   const close = useCallback(() => setActive(null), []);
@@ -46,10 +49,10 @@ export default function MotionCarousel() {
   return (
     <section className="overflow-hidden bg-white pt-[34px] pb-[10px]">
       <p className="mb-[18px] text-center text-[13px] font-semibold text-black">
-        Tava in Motion
+        {t.motionTitle}
       </p>
       <p className="mx-auto mb-5 max-w-[640px] px-5 text-center text-[19px] leading-[1.5] text-black">
-        Many creators and entrepreneurs already love us.
+        {t.motionBody}
       </p>
       <div className="tava-marquee overflow-hidden [mask-image:linear-gradient(90deg,transparent,#000_15%,#000_85%,transparent)] [-webkit-mask-image:linear-gradient(90deg,transparent,#000_15%,#000_85%,transparent)]">
         <div className="tava-marquee-track">
@@ -60,7 +63,7 @@ export default function MotionCarousel() {
                 key={`${v}-${i}`}
                 role="button"
                 tabIndex={0}
-                aria-label="Play video"
+                aria-label={t.playVideo}
                 aria-hidden={i >= MOTION_VIDEOS.length}
                 onClick={() => setActive(src)}
                 onKeyDown={(e) => {
@@ -91,7 +94,7 @@ export default function MotionCarousel() {
         <div
           role="dialog"
           aria-modal="true"
-          aria-label="Video player"
+          aria-label={t.videoPlayer}
           onClick={(e) => {
             if (e.target === e.currentTarget) close();
           }}
@@ -100,7 +103,7 @@ export default function MotionCarousel() {
           <button
             type="button"
             onClick={close}
-            aria-label="Close video"
+            aria-label={t.closeVideo}
             className="absolute top-[18px] right-[22px] flex h-11 w-11 items-center justify-center rounded-full bg-black text-[22px] leading-none text-white focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-gold"
           >
             &times;

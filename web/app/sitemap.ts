@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
+import { NON_EN_LOCALES } from "@/lib/i18n/config";
 
-export default function sitemap(): MetadataRoute.Sitemap {
-  return [
+const BASE: MetadataRoute.Sitemap = [
     { url: "https://tavalabs.app", changeFrequency: "weekly", priority: 1.0 },
     { url: "https://tavalabs.app/about", changeFrequency: "monthly", priority: 0.7 },
     { url: "https://tavalabs.app/contact", changeFrequency: "monthly", priority: 0.7 },
@@ -28,6 +28,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: "https://tavalabs.app/privacy", changeFrequency: "yearly", priority: 0.3 },
     { url: "https://tavalabs.app/cookies", changeFrequency: "yearly", priority: 0.3 },
     { url: "https://tavalabs.app/shipping", changeFrequency: "yearly", priority: 0.3 },
-    { url: "https://tavalabs.app/returns", changeFrequency: "yearly", priority: 0.3 }
-  ];
+    { url: "https://tavalabs.app/returns", changeFrequency: "yearly", priority: 0.3 },
+];
+
+export default function sitemap(): MetadataRoute.Sitemap {
+  const localized: MetadataRoute.Sitemap = [];
+  for (const locale of NON_EN_LOCALES) {
+    for (const entry of BASE) {
+      localized.push({
+        ...entry,
+        url: entry.url.replace("https://tavalabs.app", `https://tavalabs.app/${locale}`),
+      });
+    }
+  }
+  return [...BASE, ...localized];
 }

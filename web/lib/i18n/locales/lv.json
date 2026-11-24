@@ -1,0 +1,1939 @@
+{
+ "meta": {
+  "home": {
+   "title": "PDRN Brightening Serum uzņēmējiem | Tava Labs",
+   "description": "Ādas kopšana uzņēmējiem. PDRN Brightening Serum apvieno PDRN, peptīdus un hialuronskābi mirdzošai, mitrinātai ādai. $49 vienreizējam pirkumam vai $39 mēnesī."
+  },
+  "product": {
+   "title": "PDRN Brightening Serum uzņēmējiem | Tava Labs",
+   "description": "Tava Labs PDRN Brightening Serum vienā ikdienas solī apvieno PDRN, peptīdus un Sodium Hyaluronate mirdzošai, mitrinātai ādai. Radīts dibinātājiem, vadītājiem un satura veidotājiem. $49 vienreizējam pirkumam vai $39 mēnesī."
+  },
+  "about": {
+   "title": "Par Tava Labs | Ādas kopšana ambiciozajiem",
+   "description": "Tava Labs rada ādas kopšanu ambiciozajiem. Iepazīstieties ar komandu, kas stāv aiz PDRN Brightening Serum, ikdienas rutīnas dibinātājiem un profesionāļiem."
+  },
+  "ingredients": {
+   "title": "PDRN Brightening Serum sastāvdaļas | Tava Labs",
+   "description": "Katras PDRN Brightening Serum sastāvdaļas skaidrojums, no PDRN un peptīdiem līdz Sodium Hyaluronate un Panthenol, kā arī pilns INCI saraksts un tas, ko mēs izlaižam."
+  },
+  "faq": {
+   "title": "PDRN Brightening Serum bieži uzdotie jautājumi un atbildes | Tava Labs",
+   "description": "Atbildes par PDRN Brightening Serum: cenas, Subscribe and Save, piegādes laiki, atgriešana, ādas tests un pirkuma savienošana ar Tava lietotni."
+  },
+  "contact": {
+   "title": "Sazinieties ar Tava Labs | Atbalsts, pārdošana un partnerība",
+   "description": "Sazinieties ar Tava Labs par produktu atbalstu, palīdzību ar pasūtījumiem, vairumtirdzniecību, partnerību un presi. Rakstiet uz talia@tavalabs.app vai zvaniet 909-906-1308."
+  },
+  "partners": {
+   "title": "Kļūstiet par Tava Labs partneri | Bezmaksas serums jūsu programmai",
+   "description": "Akseleratori, inkubatori, biznesa programmas un investori: dāviniet saviem dibinātājiem PDRN Brightening Serum krājumu vienam mēnesim bez maksas. Kļūstiet par Tava Labs partneri."
+  },
+  "research": {
+   "title": "16 nedēļu pētījuma rezultāti | Tava Labs",
+   "description": "Izmērītie rezultāti no Tava Labs 16 nedēļu dalībnieku programmas. Izmaiņas no sākuma līdz 16. nedēļai aknes bojājumos, mitrināšanā, apsārtumā, pigmentācijā un tekstūrā, kā arī pilns programmas protokols."
+  },
+  "blog": {
+   "title": "The Tava Journal | Āda, miegs un stress dibinātājiem",
+   "description": "Miega zinātne, stresa pētījumi un ādas veselība dibinātājiem un profesionāļiem, kā arī praktiskas rutīnas, lai darbā izskatītos asi un pārliecinoši."
+  },
+  "quiz": {
+   "title": "Ādas tests | Izveidojiet savu personīgo seruma plānu | Tava Labs",
+   "description": "Atbildiet uz dažiem īsiem jautājumiem un izveidojiet savu personīgo plānu ap PDRN Brightening Serum. Viens serums divas reizes dienā, pielāgots jūsu ādai un jūsu mērķiem."
+  },
+  "checkoutSuccess": {
+   "title": "Pasūtījums apstiprināts | Jūsu PDRN Brightening Serum | Tava Labs",
+   "description": "Jūsu Tava Labs PDRN Brightening Serum pasūtījums ir apstiprināts. Jūsu pieprasījuma kods savieno šo pirkumu ar lietotni, kur jūsu plāns, atbildes un pasūtījums pārvietojas kopā ar jums."
+  },
+  "checkoutCancel": {
+   "title": "Apmaksa atcelta | Maksa nav iekasēta | Tava Labs",
+   "description": "Maksa netika iekasēta. Jūsu Tava Labs plāns un atbildes ir saglabātas, tāpēc varat turpināt tieši tur, kur apstājāties, kad būsiet gatavs."
+  },
+  "login": {
+   "title": "Pierakstīties | Tava Labs",
+   "description": "Pierakstieties savā Tava Labs kontā: jūsu plāns, pasūtījumi, rutīna un atbalsts, kas saistīti ar to pašu e pastu kā mobilā lietotne."
+  },
+  "account": {
+   "title": "Jūsu konts | Tava Labs",
+   "description": "Jūsu Tava Labs konts tīmeklī: jūsu plāns, pasūtījumi, rutīna un atbalsts, kas saistīti ar to pašu e pastu kā mobilā lietotne."
+  },
+  "terms": {
+   "title": "Noteikumi un nosacījumi | Tava Labs",
+   "description": "Noteikumi, kas reglamentē jūsu tavalabs.app lietošanu un PDRN Brightening Serum pirkumu no Tava Labs, LLC, tostarp mūsu politika, ka visi pirkumi ir galīgi."
+  },
+  "privacy": {
+   "title": "Privātuma politika | Tava Labs",
+   "description": "Kā Tava Labs apkopo, izmanto un aizsargā jūsu informāciju, kad apmeklējat tavalabs.app, aizpildāt ādas testu vai pasūtāt PDRN Brightening Serum."
+  },
+  "returns": {
+   "title": "Atgriešanas un atmaksas politika | Tava Labs",
+   "description": "Tava Labs atgriešanas un atmaksas politika PDRN Brightening Serum pasūtījumiem, tostarp mūsu noteikumi, ka visi pirkumi ir galīgi, un kā sazināties ar atbalstu."
+  },
+  "cookies": {
+   "title": "Sīkfailu politika | Tava Labs",
+   "description": "Kā Tava Labs vietne izmanto sīkfailus un līdzīgus rīkus, kad apmeklējat tavalabs.app, ko tie saglabā un kā jūs varat tos kontrolēt."
+  },
+  "shipping": {
+   "title": "Piegādes politika | Tava Labs",
+   "description": "Tava Labs piegādes politika PDRN Brightening Serum pasūtījumiem: apstrādes laiki, piegādes aplēses, izsekošana un piegādes teritorijas."
+  }
+ },
+ "chrome": {
+  "homeAria": "Tava Labs sākumlapa",
+  "primaryNavAria": "Galvenā",
+  "mobileNavAria": "Mobilā",
+  "navSerum": "Serums",
+  "navAbout": "Par mums",
+  "navIngredients": "Sastāvdaļas",
+  "navFaqs": "Bieži uzdotie jautājumi",
+  "navBlog": "Blogs",
+  "navContact": "Kontakti",
+  "login": "Pierakstīties",
+  "addToRoutine": "Pievienot rutīnai",
+  "openMenu": "Atvērt izvēlni",
+  "closeMenu": "Aizvērt izvēlni",
+  "language": "Valoda",
+  "tagline": "Pievilcīgas veselības zinātne",
+  "shopHeading": "Veikals",
+  "contactHeading": "Sazinieties ar mums",
+  "infoHeading": "Informācija",
+  "legalHeading": "Juridiskā informācija",
+  "footerSerum": "PDRN Brightening Serum",
+  "footerIngredients": "Sastāvdaļas",
+  "contactLinks": {
+   "general": "Vispārīgi",
+   "wholesale": "Vairumtirdzniecība",
+   "salesSupport": "Pārdošanas atbalsts",
+   "productSupport": "Produktu atbalsts",
+   "pr": "Sabiedriskās attiecības"
+  },
+  "infoLinks": {
+   "about": "Par mums",
+   "partners": "Partneri",
+   "ingredients": "Sastāvdaļas",
+   "faqs": "Bieži uzdotie jautājumi",
+   "blog": "Blogs",
+   "research": "Pētījumi"
+  },
+  "newsletterHeading": "Esiet informēts par visu, kas saistīts ar Tava",
+  "newsletter": {
+   "placeholder": "Jūsu e pasts",
+   "subscribe": "Abonēt",
+   "sending": "Sūta...",
+   "done": "Jūs esat iekšā. Laipni lūdzam mirdzuma sarakstā.",
+   "error": "Kaut kas nogāja greizi, lūdzu, mēģiniet vēlreiz."
+  },
+  "disclaimer1": "PDRN Brightening Serum ir kosmētikas produkts. Tas nav paredzēts nevienas slimības diagnosticēšanai, ārstēšanai, izārstēšanai vai novēršanai. Individuālie rezultāti var atšķirties.",
+  "disclaimer2": "Visi pirkumi ir galīgi. Lūdzu, pirms pasūtīšanas izlasiet mūsu Atgriešanas politiku.",
+  "copyright": "© 2026 Tava Labs · Pievilcīgas veselības zinātne",
+  "notFoundLabel": "Tava Labs",
+  "notFoundTitle": "Lapa nav atrasta",
+  "notFoundBody": "Šīs lapas šeit nav. Iespējams, tā ir pārvietota vai adrese ir nepilnīga.",
+  "notFoundHome": "Atpakaļ uz sākumlapu",
+  "notFoundShop": "Iegādāties PDRN Brightening Serum",
+  "legalLinks": {
+   "terms": "Noteikumi un nosacījumi",
+   "privacy": "Privātuma politika",
+   "returns": "Atgriešanas politika",
+   "cookies": "Sīkfailu politika",
+   "shipping": "Piegādes politika"
+  }
+ },
+ "hero": {
+  "ariaLabel": "PDRN Brightening Serum",
+  "pill": "Cilvēkam, kurš ir priekšplānā",
+  "line1": "Nosvērts jau pirms",
+  "line2": "pirmā zvana.",
+  "sub": "Divi līdz četri pilieni PDRN Brightening Serum no rīta un vakarā ādai, kas izskatās gaiša, mitrināta un gluda no pirmā zvana līdz pēdējam.",
+  "cardAria": "PDRN Brightening Serum, produkta lapa",
+  "onSetPill": "Uzņemšanas laukumā",
+  "onSetCaption": "Mierīgs prožektoru gaismā",
+  "onSetAlt": "Dibinātājs sēž studijas laukumā un skatās kamerā",
+  "morningPill": "Rīta rituāls",
+  "morningCaption": "Pie spoguļa, pirmā lieta no rīta",
+  "morningAlt": "Dibinātājs uzklāj serumu pie vannasistabas spoguļa rīta gaismā",
+  "widePill": "Dienā un naktī",
+  "wideHead": "Viena pudele. Katru dienu.",
+  "priceLine": "$49 vienreizējam pirkumam vai $39 mēnesī",
+  "talia": {
+   "baseline": "Sākuma stāvoklis",
+   "week16": "16. nedēļa",
+   "statBig": "par 63% mazāk",
+   "statCap": "Aknes bojājumi",
+   "statNote": "Vidējās izmaiņas 16 nedēļu dalībnieku programmā",
+   "alt": "Talia Kade, pētniece Tava Labs, baltā laboratorijas halātā",
+   "slopeAria": "Tendences līnija no 16,8 sākumā līdz 6,2 16. nedēļā"
+  }
+ },
+ "home": {
+  "introTitleLead": "Gaišāka, mitrināta,",
+  "introTitleAccent": "veselīga izskata āda",
+  "introBody": "Uzņēmēji dzīvo kameras priekšā un klātienē. Jūs prezentējat investoriem, noslēdzat darījumus pārdošanas zvanos un ierakstāt video, kas pārdod produktu. Jūsu seja ir daļa no prezentācijas. PDRN Brightening Serum ir viens viegls, ātri iesūcošs solis ar PDRN, peptīdiem un hialuronskābi. Tas palīdz ādai izskatīties gaišākai, dziļi mitrinātai un gludai. Divas minūtes divas reizes dienā, un jūs ierodaties ass, atpūties un gatavs.",
+  "marqueeTagline": "Pievilcīgas veselības zinātne",
+  "marqueeSlogan": "Ādas kopšana ambiciozajiem",
+  "buildersTitle": "Radīts veidotājiem",
+  "buildersTagline": "Veidojiet savu biznesu. Neatstājiet novārtā sevi.",
+  "buildersBody": "Kā uzņēmējs jūs vienmēr prezentējat. Jūs prezentējat investoriem klātienē, pārdodat videozvanos un ierakstāt saturu, kam dažu sekunžu laikā jāiegūst uzticība. Izskatīties sagatavotam un nosvērtam nav iedomība. Tā ir daļa no tā, kā jūs prezentējat biznesu. Vienkārša ikdienas rutīna iederas dibinātāja sistēmā blakus labam garderobes komplektam, kvalitatīvam klēpjdatoram un sistēmai, uz kuru varat paļauties.",
+  "pitchAlt": "Dibinātājs prezentē savu ideju investoram",
+  "pitchTitle": "Prezentācijā",
+  "pitchBody": "Pretī investoram pāri galdam telpa jūs nolasa, pirms tā nolasa jūsu prezentāciju. Ierodieties kā cilvēks, kurš stāv aiz uzņēmuma, kurā vērts ieguldīt: atpūties, ass un gatavs.",
+  "cameraAlt": "Dibinātājs runā kameras priekšā",
+  "cameraTitle": "Kamerā",
+  "cameraBody": "Filmēšanā, podkāstā vai pārdošanas zvanā objektīvs vispirms parāda vēlās naktis. Pārliecība kameras priekšā sākas ar to, kā jūs par sevi rūpējaties, pirms vispār nospiežat ierakstīšanas pogu.",
+  "maintenanceTitle": "Uzņēmēja ikdienas kopšana.",
+  "maintenanceBody": "Viens serums no rīta un vakarā. Izskatieties sagatavots. Jūtieties pārliecināts. Ierodieties gatavs.",
+  "motionTitle": "Tava kustībā",
+  "motionBody": "Daudzi satura veidotāji un uzņēmēji mūs jau mīl.",
+  "playVideo": "Atskaņot video",
+  "videoPlayer": "Video atskaņotājs",
+  "closeVideo": "Aizvērt video",
+  "freeFromTitleLead": "Kvalitatīvas sastāvdaļas, apvienotas",
+  "freeFromTitleAccent": "ar rūpību.",
+  "freeFromSub": "Tas, ko mēs izlaižam, ir tikpat svarīgi kā tas, ko mēs pievienojam.",
+  "freeFromItems": [
+   {
+    "name": "Bez cietsirdības",
+    "blurb": "Nekad nav testēts uz dzīvniekiem."
+   },
+   {
+    "name": "Bez smaržvielām",
+    "blurb": "Bez pievienotām smaržām vai sintētiskām aromvielām."
+   },
+   {
+    "name": "Bez minerāleļļas",
+    "blurb": "Bez minerāleļļas vai naftas pildvielām."
+   },
+   {
+    "name": "Bez ftalātiem",
+    "blurb": "Formulā nav ftalātu."
+   },
+   {
+    "name": "Bez silikoniem",
+    "blurb": "Bez silikoniem, kas pārklāj jūsu ādu."
+   },
+   {
+    "name": "Bez sulfātiem",
+    "blurb": "Bez skarbiem sulfātiem. Saudzīgs ādai."
+   },
+   {
+    "name": "Bez alergēniem",
+    "blurb": "Ražots bez izplatītiem alergēniem."
+   },
+   {
+    "name": "Bez alkohola",
+    "blurb": "Bez sausinošiem alkoholiem."
+   }
+  ],
+  "founderLabel": "Vēstījums no mūsu dibinātāja",
+  "founderQuote": "“Veselīga āda ir vispievilcīgākā lieta, ko varat valkāt.”",
+  "founderBody1": "Tā ir filozofija, kas stāv aiz Tava Labs, Pievilcīgas veselības zinātnes. PDRN Brightening Serum ir tas viens solis, ap kuru ir veidota rutīna: divas minūtes divas reizes dienā, no rīta un vakarā.",
+  "founderBody2": "Noskatieties filmu, lai dzirdētu zinātni, kas aiz tā stāv, mūsu pašu vārdiem.",
+  "founderPhilosophy": "Tava Labs filozofija",
+  "founderVideoAria": "Tava Labs filma, zinātne, kas stāv aiz PDRN Brightening Serum",
+  "shopSerum": "Iegādāties serumu",
+  "journalTitle": "The Tava Journal",
+  "journalSub": "Par miegu, stresu un gatavību ierasties.",
+  "readJournal": "Lasīt žurnālu",
+  "readStory": "Lasīt stāstu"
+ },
+ "appTeaser": {
+  "label": "Drīzumā",
+  "lead": "Jūsu rutīnai, jūsu laboratorijas rezultātiem un jūsu pasūtījumiem būs sava mājvieta.",
+  "headlineLead": "Viena lietotne.",
+  "headlineTrail": "Katru dienu.",
+  "scroll": "Ritināt",
+  "caption": "Tava Labs lietotne apvieno jūsu seruma plānu, jūsu ikdienas rutīnu, jūsu laboratorijas paneļus un rezultātus, kā arī jūsu pasūtījumus vienā vietā, radīta iPhone.",
+  "features": [
+   {
+    "title": "Ikdienas rutīna",
+    "desc": "Rīta un vakara sesijas, atzīmētas soli pa solim."
+   },
+   {
+    "title": "Sērijas un progress",
+    "desc": "Jūsu sērija un tas, kas vēl atlicis, redzams vienā mirklī."
+   },
+   {
+    "title": "Laboratorijas paneļi un rezultāti",
+    "desc": "Paneļi, rezultāti un diapazoni jūsu kabatā."
+   },
+   {
+    "title": "Pasūtījumi un papildinājumi",
+    "desc": "Pasūtījumi un papildinājumi bez meklēšanas."
+   }
+  ],
+  "phone": {
+   "today": "Šodien",
+   "goodMorning": "Labrīt",
+   "dayLine": "12. diena no 30 · vēl 18 dienas līdz jūsu pirmajam pilnajam mēnesim",
+   "stepsToGo": "Šodien: vēl 4 no 6 rutīnas soļiem",
+   "morningRoutine": "Rīta rutīna",
+   "amDrops": "Rīts · 3 pilieni",
+   "clinicalReview": "Klīniskais pārskats",
+   "resultsIn": "Jūsu rezultāti ir klāt",
+   "optimal": "4 optimāli",
+   "inRange": "2 diapazonā",
+   "toReview": "1 pārskatīšanai",
+   "tabs": {
+    "today": "Šodien",
+    "shop": "Veikals",
+    "lab": "Laboratorija",
+    "orders": "Pasūtījumi",
+    "profile": "Profils"
+   },
+   "steps": [
+    {
+     "title": "Attīrīt",
+     "detail": "Saudzīgs attīrīšanas līdzeklis, nosusināt ar viegliem pieskārieniem"
+    },
+    {
+     "title": "Uzklāt 3 pilienus seruma",
+     "detail": "Iespiediet sejā un kaklā"
+    },
+    {
+     "title": "Mitrināt + SPF",
+     "detail": "SPF 30 vai augstāks"
+    }
+   ]
+  }
+ },
+ "categoryChrome": {
+  "readMore": "Lasīt vairāk +",
+  "showLess": "Rādīt mazāk −",
+  "prevProducts": "Iepriekšējie produkti",
+  "nextProducts": "Nākamie produkti",
+  "goTo": "Doties uz {title}",
+  "explore": "Izpētīt"
+ },
+ "categories": {
+  "skincare": {
+   "eyebrow": "ĀDAS KOPŠANA",
+   "heroTitleLead": "Jūsu nākamā tikšanās",
+   "heroTitleAccent": "sākas ar jums.",
+   "heroCopy": "Radīts uzņēmējiem, kuri prezentē, pārdod un ieraksta kameras priekšā. Viens ikdienas serums, veidots ap PDRN, ādai, kas izskatās asa un atpūtusies telpā un objektīvā.",
+   "heroFinePrint": "Kosmētiska ādas kopšana. Nav paredzēts nevienas slimības diagnosticēšanai, ārstēšanai, izārstēšanai vai novēršanai.",
+   "stamp": "ĀDAS KOPŠANA AMBICIOZAJIEM",
+   "primaryCta": "Pievienot rutīnai",
+   "secondaryCta": "Skatīt sastāvdaļas",
+   "optionsEyebrow": "KLĀSTS",
+   "optionsTitleLead": "Viens serums.",
+   "optionsTitleAccent": "Nekādu minējumu plaukta.",
+   "optionsCopy": "Sāciet ar serumu. Pārējā līnija ir ceļā.",
+   "products": [
+    {
+     "title": "PDRN Brightening Serum",
+     "subtitle": "PDRN, peptīdi un Sodium Hyaluronate",
+     "unit": "vienreizējs pirkums",
+     "imageAlt": "Tava Labs PDRN Brightening Serum pudele",
+     "badges": [
+      "Bestsellers"
+     ],
+     "description": "Ikdienas serums mirdzošai, mitrinātai, veselīga izskata ādai. $39 mēnesī ar Subscribe and Save.",
+     "linkLabel": "Skatīt serumu"
+    },
+    {
+     "title": "Peptīdu mitrinātājs",
+     "subtitle": "1,7 fl oz (50ml)",
+     "imageAlt": "Tava Labs Peptide Moisturizer balta tūbiņa ar rozā šļakatu",
+     "badges": [
+      "Drīzumā"
+     ],
+     "description": "Peptīdu mitrinātājs, kas vērsts uz grumbām un mitrina, radīts ādai, kurai visas dienas garumā jāizskatās nosvērtai."
+    },
+    {
+     "title": "Peptīdu acu krēms",
+     "subtitle": "1 fl oz (30ml)",
+     "imageAlt": "Tava Labs Peptide Eye Cream balta tūbiņa ar šampanieša pilienu",
+     "badges": [
+      "Drīzumā"
+     ],
+     "description": "Samazina acu pietūkuma izskatu un vērsts uz grumbām acu zonā, lai kamerā izskatītos atpūties."
+    },
+    {
+     "title": "Ādas tvirtumu veicinošs krēms",
+     "subtitle": "2 oz (56g)",
+     "imageAlt": "Tava Labs Skin Firming Cream balta burciņa ar zelta viļņa fonu",
+     "badges": [
+      "Drīzumā"
+     ],
+     "description": "Hialuronskābe un CoQ10 bagātā krēmā, kas liek ādai izskatīties tvirtai un koptai."
+    }
+   ],
+   "disclaimerLead": "Tava Labs ādas kopšanas produkti ir kosmētika. Tie nav paredzēti nevienas slimības diagnosticēšanai, ārstēšanai, izārstēšanai vai novēršanai.",
+   "disclaimerMore": [
+    "Individuālie rezultāti atšķiras. Lietojiet tikai saskaņā ar norādījumiem: 2 līdz 4 pilienus PDRN Brightening Serum divas reizes dienā uz tīras ādas.",
+    "Ja rodas kairinājums, pārtrauciet lietošanu un konsultējieties ar speciālistu. Cenas šajā lapā bija precīzas publicēšanas brīdī un var mainīties."
+   ],
+   "protocolEyebrow": "RUTĪNA",
+   "protocolTitleLead": "Divas minūtes divas reizes dienā.",
+   "protocolTitleAccent": "Tā ir visa rutīna.",
+   "protocolCopy": "Rutīna, kas veidota ap vienu serumu un uzņēmēja grafiku, agriem zvaniem, vēlām naktīm un visu pārējo.",
+   "protocolCta": "Pievienot rutīnai",
+   "steps": [
+    {
+     "title": "Novērtēt",
+     "lead": "ar ādas testu",
+     "body": "Atbildiet uz dažiem īsiem jautājumiem par savu ādu, miegu un grafiku, lai jūsu plāns sāktos no tā, kur jūs patiesībā esat."
+    },
+    {
+     "title": "Uzklāt",
+     "lead": "2 līdz 4 pilieni divas reizes dienā",
+     "body": "No rīta un vakarā uz tīras ādas. Viens serums, viens solis, nekāda desmit soļu rutīna, kas jāuztur."
+    },
+    {
+     "title": "Sekot līdzi",
+     "lead": "savā plānā lietotnē",
+     "body": "Jūsu pirkums savienojas ar Tava lietotni ar pieprasījuma kodu, kur jūsu plāns, pasūtījumi un rutīna paliek vienā vietā."
+    }
+   ],
+   "legalLines": [
+    "Tikai kosmētikas produkti. Nekas šajā lapā nav medicīnisks padoms."
+   ]
+  },
+  "biomarkers": {
+   "eyebrow": "LABORATORIJAS BIOMARĶIERI",
+   "heroTitleLead": "Ziniet savus datus,",
+   "heroTitleAccent": "Tava.",
+   "heroCopy": "Jūs vadāt savu uzņēmumu ar skaitļiem. Drīz jūs varēsiet piemērot to pašu disciplīnu sev: jūsu galvenie biomarķieri, izsekoti laika gaitā, Tava lietotnē.",
+   "heroFinePrint": "Drīzumā Tava lietotnē. Ieskati ir paredzēti tikai informācijai un nediagnosticē nevienu stāvokli.",
+   "stamp": "JŪSU DATI VIENĀ VIETĀ",
+   "primaryCta": "Skatīt, kas tiek izsekots",
+   "secondaryCta": "Kā tas darbosies",
+   "optionsEyebrow": "KAS TIEK IZSEKOTS",
+   "optionsTitleLead": "Sešas jomas.",
+   "optionsTitleAccent": "Viens skaidrs attēls.",
+   "optionsCopy": "Biomarķieru jomas Tava lietotnes priekšskatījumā, kas pašlaik tiek veidotas.",
+   "products": [
+    {
+     "title": "Smadzenes",
+     "subtitle": "Koncentrēšanās un skaidrība",
+     "badges": [
+      "Drīzumā"
+     ],
+     "description": "Marķieri, kas stāv aiz koncentrēšanās, skaidrības un kognitīvā tempa, apkopoti vienā skatā."
+    },
+    {
+     "title": "Hormoni",
+     "subtitle": "Līdzsvars",
+     "badges": [
+      "Drīzumā"
+     ],
+     "description": "Jūsu hormonu attēls laika gaitā, lai izmaiņas būtu redzamas, nevis minamas."
+    },
+    {
+     "title": "Sirds",
+     "subtitle": "Kardiovaskulārie marķieri",
+     "badges": [
+      "Drīzumā"
+     ],
+     "description": "Sirds marķieri, kuriem ir nozīme, izsekoti kā tendence, nevis vienreizējs rādījums."
+    },
+    {
+     "title": "Metabolisms",
+     "subtitle": "Enerģija un patēriņš",
+     "badges": [
+      "Drīzumā"
+     ],
+     "description": "Kā jūsu ķermenis izmanto enerģiju, skaitļos, kuriem jūs patiešām varat sekot."
+    },
+    {
+     "title": "Zarnas",
+     "subtitle": "Gremošanas veselība",
+     "badges": [
+      "Drīzumā"
+     ],
+     "description": "Zarnu veselības signāli, kas saistīti ar enerģiju, garastāvokli un atjaunošanos."
+    },
+    {
+     "title": "Ilgmūžība",
+     "subtitle": "Bioloģiskais vecums",
+     "badges": [
+      "Drīzumā"
+     ],
+     "description": "Ilgtermiņa skats: kā jūsu marķieri summējas bioloģiskā vecuma attēlā."
+    }
+   ],
+   "disclaimerLead": "Biomarķieru ieskati Tava lietotnē ir paredzēti tikai informācijai. Tie nediagnosticē, neārstē un nenovērš nevienu stāvokli.",
+   "disclaimerMore": [
+    "Runājiet ar savu pakalpojumu sniedzēju par jebkuru rezultātu, kas jūs uztrauc. Ārkārtas gadījumā zvaniet 911."
+   ],
+   "protocolEyebrow": "KĀ TAS DARBOSIES",
+   "protocolTitleLead": "Testēt, pārskatīt,",
+   "protocolTitleAccent": "sekot tendencei.",
+   "protocolCopy": "Viens informācijas panelis cilvēkam, kurš vada biznesu, blakus jūsu seruma plānam tajā pašā lietotnē.",
+   "steps": [
+    {
+     "title": "Testēt",
+     "lead": "ar laboratorijas partneri",
+     "body": "Jūsu paraugs tiek savākts un apstrādāts, un rezultāti nonāk jūsu Tava lietotnē."
+    },
+    {
+     "title": "Pārskatīt",
+     "lead": "jomu pa jomai",
+     "body": "Smadzenes, hormoni, sirds, metabolisms, zarnas un ilgmūžība, katrai savs skats."
+    },
+    {
+     "title": "Sekot līdzi",
+     "lead": "tendencei laika gaitā",
+     "body": "Viens rādījums ir momentuzņēmums. Vērtība ir tendencē, un lietotne to saglabā jūsu vietā."
+    }
+   ],
+   "legalLines": [
+    "Laboratorijas biomarķieru izsekošana drīzumā būs pieejama un vēl nav atvērta pasūtījumiem."
+   ]
+  },
+  "mentalHealth": {
+   "eyebrow": "GARĪGĀ VESELĪBA",
+   "heroTitleLead": "Labāk koncentrēties,",
+   "heroTitleAccent": "Tava.",
+   "heroCopy": "Atbalsts koncentrēšanās un uzmanības jomā, kas sākas ar klīnicista pārskatu, nevis ar apmaksas pogu.",
+   "heroFinePrint": "Pēc klīnicista pārskata. Šī programma ir izstrādē un vēl nav atvērta pieteikumiem.",
+   "stamp": "KLĪNICISTA PĀRSKATĪTA APRŪPE",
+   "primaryCta": "Skatīt, kā tas darbojas",
+   "optionsEyebrow": "PROGRAMMA",
+   "optionsTitleLead": "Aprūpe, kas sākas",
+   "optionsTitleAccent": "ar pārskatu.",
+   "optionsCopy": "",
+   "products": [],
+   "disclaimerLead": "Garīgās veselības atbalsts Tava sākas ar klīnicista pārskatu. Nekas šeit nav diagnoze vai ārstēšanas ieteikums.",
+   "disclaimerMore": [
+    "Ja esat krīzē vai domājat par kaitēšanu sev, zvaniet vai rakstiet īsziņu uz 988 Amerikas Savienotajās Valstīs. Ārkārtas gadījumā zvaniet 911."
+   ],
+   "protocolEyebrow": "KĀ TAS DARBOJAS",
+   "protocolTitleLead": "Vispirms pārskats.",
+   "protocolTitleAccent": "Tad plāns.",
+   "protocolCopy": "Rūpīgs ceļš, atklāti, jūsu tempā.",
+   "steps": [
+    {
+     "title": "Pārskats",
+     "lead": "ar klīnicistu",
+     "body": "Dalieties ar savu vēsturi un to, ar ko saskaraties, un klīnicists pārskata, vai atbalsts šeit ir piemērots."
+    },
+    {
+     "title": "Plāns",
+     "lead": "veidots ap jums",
+     "body": "Ja tas ir piemērots, jūsu plāns tiek veidots ap jūsu mērķiem un jūsu grafiku."
+    },
+    {
+     "title": "Atbalsts",
+     "lead": "ceļā",
+     "body": "Saziņa uztur plānu godīgu, lietām mainoties."
+    }
+   ],
+   "legalLines": [
+    "Garīgās veselības piedāvājumi Tava ir izstrādē un vēl nav atvērti pieteikumiem."
+   ]
+  },
+  "peptides": {
+   "eyebrow": "PEPTĪDU PROGRAMMAS",
+   "heroTitleLead": "Peptīdi,",
+   "heroTitleAccent": "ar pakalpojumu sniedzēju jūsu stūrī.",
+   "heroCopy": "Trīspadsmit peptīdu programmas no Tava Labs, katra sākas ar tiešsaistes konsultāciju un pakalpojumu sniedzēja pārskatu.",
+   "heroFinePrint": "Nepieciešama recepte. Licencēts pakalpojumu sniedzējs pēc konsultācijas izlemj par piemērotību.",
+   "stamp": "PAKALPOJUMU SNIEDZĒJA VADĪTAS PROGRAMMAS",
+   "primaryCta": "Sākt konsultāciju",
+   "secondaryCta": "Kā tas darbojas",
+   "optionsEyebrow": "PROGRAMMAS",
+   "optionsTitleLead": "Trīspadsmit programmas.",
+   "optionsTitleAccent": "Viena konsultācija sāk jebkuru no tām.",
+   "optionsCopy": "Katra programma ietver $20 konsultāciju. Lielākā daļa ietver laboratorijas testus. Cenas ir programmu mēneša cenas.",
+   "unitPerMonth": "/mēnesī",
+   "products": [
+    {
+     "subtitle": "Atjaunošanās",
+     "imageAlt": "BPC-157 programmas flakona attēls",
+     "badges": [
+      "Atjaunošanās",
+      "Zarnu veselība",
+      "Iekļauti laboratorijas testi"
+     ],
+     "description": "BPC-157 no Tava Labs. Pakalpojumu sniedzēja pārskats un turpmākā uzraudzība ir daļa no programmas.",
+     "linkLabel": "Skatīt programmu"
+    },
+    {
+     "subtitle": "Zarnu veselība",
+     "imageAlt": "CJC-1295 + Ipamorelin programmas flakona attēls",
+     "badges": [
+      "Zarnu veselība",
+      "Miegs",
+      "Atjaunošanās",
+      "Ilgmūžība",
+      "Iekļauti laboratorijas testi"
+     ],
+     "description": "CJC-1295 + Ipamorelin no Tava Labs. Pakalpojumu sniedzēja pārskats un turpmākā uzraudzība ir daļa no programmas.",
+     "linkLabel": "Skatīt programmu"
+    },
+    {
+     "subtitle": "Ilgmūžība",
+     "imageAlt": "GHK-Cu programmas flakona attēls",
+     "badges": [
+      "Ilgmūžība",
+      "Iekļauti laboratorijas testi"
+     ],
+     "description": "GHK-Cu no Tava Labs. Pakalpojumu sniedzēja pārskats un turpmākā uzraudzība ir daļa no programmas.",
+     "linkLabel": "Skatīt programmu"
+    },
+    {
+     "subtitle": "Atjaunošanās",
+     "imageAlt": "GLOW Injection programmas flakona attēls",
+     "badges": [
+      "Atjaunošanās",
+      "Iekļauti laboratorijas testi"
+     ],
+     "description": "GLOW Injection no Tava Labs. Pakalpojumu sniedzēja pārskats un turpmākā uzraudzība ir daļa no programmas.",
+     "linkLabel": "Skatīt programmu"
+    },
+    {
+     "subtitle": "Svara zaudēšana",
+     "imageAlt": "MOTS-C programmas flakona attēls",
+     "badges": [
+      "Svara zaudēšana",
+      "Enerģija",
+      "Sniegums",
+      "Iekļauti laboratorijas testi"
+     ],
+     "description": "MOTS-C no Tava Labs. Pakalpojumu sniedzēja pārskats un turpmākā uzraudzība ir daļa no programmas.",
+     "linkLabel": "Skatīt programmu"
+    },
+    {
+     "subtitle": "Ilgmūžība",
+     "imageAlt": "NAD+ Injectable programmas flakona attēls",
+     "badges": [
+      "Ilgmūžība",
+      "Enerģija",
+      "Atjaunošanās",
+      "Koncentrēšanās"
+     ],
+     "description": "NAD+ Injectable no Tava Labs. Pakalpojumu sniedzēja pārskats un turpmākā uzraudzība ir daļa no programmas.",
+     "linkLabel": "Skatīt programmu"
+    },
+    {
+     "subtitle": "Seksuālā veselība",
+     "imageAlt": "PT-141 programmas flakona attēls",
+     "badges": [
+      "Seksuālā veselība",
+      "Iekļauti laboratorijas testi"
+     ],
+     "description": "PT-141 no Tava Labs. Pakalpojumu sniedzēja pārskats un turpmākā uzraudzība ir daļa no programmas.",
+     "linkLabel": "Skatīt programmu"
+    },
+    {
+     "subtitle": "Svara zaudēšana",
+     "imageAlt": "Semaglutide + B12 (Cyanocobalamin) programmas flakona attēls",
+     "badges": [
+      "Svara zaudēšana",
+      "Iekļauti laboratorijas testi"
+     ],
+     "description": "Semaglutide + B12 (Cyanocobalamin) no Tava Labs. Pakalpojumu sniedzēja pārskats un turpmākā uzraudzība ir daļa no programmas.",
+     "linkLabel": "Skatīt programmu"
+    },
+    {
+     "subtitle": "Ilgmūžība",
+     "imageAlt": "Sermorelin programmas flakona attēls",
+     "badges": [
+      "Ilgmūžība",
+      "Atjaunošanās",
+      "Sniegums",
+      "Iekļauti laboratorijas testi"
+     ],
+     "description": "Sermorelin no Tava Labs. Pakalpojumu sniedzēja pārskats un turpmākā uzraudzība ir daļa no programmas.",
+     "linkLabel": "Skatīt programmu"
+    },
+    {
+     "subtitle": "Sniegums",
+     "imageAlt": "TB-500 programmas flakona attēls",
+     "badges": [
+      "Sniegums",
+      "Atjaunošanās",
+      "Iekļauti laboratorijas testi"
+     ],
+     "description": "TB-500 no Tava Labs. Pakalpojumu sniedzēja pārskats un turpmākā uzraudzība ir daļa no programmas.",
+     "linkLabel": "Skatīt programmu"
+    },
+    {
+     "subtitle": "Ilgmūžība",
+     "imageAlt": "Tesamorelin programmas flakona attēls",
+     "badges": [
+      "Ilgmūžība",
+      "Atjaunošanās",
+      "Sniegums",
+      "Iekļauti laboratorijas testi"
+     ],
+     "description": "Tesamorelin no Tava Labs. Pakalpojumu sniedzēja pārskats un turpmākā uzraudzība ir daļa no programmas.",
+     "linkLabel": "Skatīt programmu"
+    },
+    {
+     "subtitle": "Svara zaudēšana",
+     "imageAlt": "Tirzepatide + B12 (Cyanocobalamin) programmas flakona attēls",
+     "badges": [
+      "Svara zaudēšana",
+      "Iekļauti laboratorijas testi"
+     ],
+     "description": "Tirzepatide + B12 (Cyanocobalamin) no Tava Labs. Pakalpojumu sniedzēja pārskats un turpmākā uzraudzība ir daļa no programmas.",
+     "linkLabel": "Skatīt programmu"
+    },
+    {
+     "subtitle": "Atjaunošanās",
+     "imageAlt": "Wolverine Injection programmas flakona attēls",
+     "badges": [
+      "Atjaunošanās",
+      "Iekļauti laboratorijas testi"
+     ],
+     "description": "Wolverine Injection no Tava Labs. Pakalpojumu sniedzēja pārskats un turpmākā uzraudzība ir daļa no programmas.",
+     "linkLabel": "Skatīt programmu"
+    }
+   ],
+   "disclaimerLead": "Saliktie medikamenti tiek sagatavoti licencētās aptiekās atsevišķiem pacientiem. Tie nav FDA apstiprināti, un FDA nepārskata saliktos medikamentus attiecībā uz drošību, efektivitāti vai kvalitāti.",
+   "disclaimerMore": [
+    "Medicīnisko aprūpi sniedz neatkarīgi, licencēti pakalpojumu sniedzēji. Pakalpojumu sniedzēji neatkarīgi izlemj, vai ārstēšana jums ir piemērota; pirkums negarantē recepti.",
+    "Licencēts pakalpojumu sniedzējs pārskata jūsu informāciju un neatkarīgi izlemj, vai ārstēšana jums ir piemērota. Pirkums negarantē recepti.",
+    "Ārkārtas gadījumos zvaniet 911."
+   ],
+   "protocolEyebrow": "KĀ TAS DARBOJAS",
+   "protocolTitleLead": "Konsultēties, pārskatīt,",
+   "protocolTitleAccent": "tad sākt.",
+   "protocolCopy": "Katra programma darbojas ar neatkarīgiem licencētiem pakalpojumu sniedzējiem.",
+   "protocolCta": "Sākt konsultāciju",
+   "steps": [
+    {
+     "title": "Konsultēties",
+     "lead": "tiešsaistē, pēc jūsu grafika",
+     "body": "Aizpildiet tiešsaistes konsultāciju programmai, kuru izvēlējāties. Konsultācija maksā $20."
+    },
+    {
+     "title": "Pārskatīt",
+     "lead": "licencēts pakalpojumu sniedzējs",
+     "body": "Pakalpojumu sniedzējs pārskata jūsu informāciju un jūsu laboratorijas rezultātus un neatkarīgi izlemj, vai ārstēšana jums ir piemērota."
+    },
+    {
+     "title": "Sākt",
+     "lead": "ja izrakstīts",
+     "body": "Jūsu medikaments tiek nosūtīts no licencētas aptiekas, un jūsu pakalpojumu sniedzējs turpina uzraudzību, programmai turpinoties."
+    }
+   ],
+   "legalLines": [
+    "Mūsu peptīdu veikals pašlaik ir testa režīmā, tāpēc programmas ir parādītas pārskatīšanai un vēl nav atvērtas reāliem pasūtījumiem.",
+    "Ārkārtas gadījumos zvaniet 911."
+   ]
+  }
+ },
+ "product": {
+  "breadcrumbHome": "Sākumlapa",
+  "inStock": "Ir noliktavā",
+  "cleanVegan": "Tīrs un vegāns • PDRN aktīvs",
+  "dermTested": "Dermatologu testēts • Radīts visiem ādas tipiem",
+  "titleLead": "PDRN Brightening",
+  "titleAccent": "Serum",
+  "pricePerUnit": "/ 30ml (1 fl oz)",
+  "subPrice": "vai $39 mēnesī ar Subscribe and Save",
+  "bullets": [
+   "PDRN, Acetyl Hexapeptide-8 un hialuronskābe, lai atbalstītu gludāku, mirdzošāka izskata ādu.",
+   "Dziļa mitrināšana no glicerīna, Sodium PCA un Panthenol.",
+   "100% bez cietsirdības, bez smaržvielām, bez parabēniem, bez sulfātiem, bez minerāleļļas, bez silikoniem un vegāns."
+  ],
+  "viewFormulation": "Skatīt pilnu formulu un klīniskos testus",
+  "details": [
+   {
+    "title": "Iepazīstieties ar PDRN Brightening Serum",
+    "body": "Viegla, mitrinoša formula gludākai, mirdzošāka izskata ādai. Tā ātri iesūcas, neatstāj atlikumu un uztur ādu komfortablu."
+   },
+   {
+    "title": "Sastāvdaļas un formula",
+    "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin."
+   },
+   {
+    "title": "Kā uzklāt",
+    "body": "Uzklājiet 2 līdz 4 pilienus uz tīras, sausas ādas. Maigi iemasējiet sejā un kaklā, līdz iesūcas. Lietojiet divas reizes dienā, no rīta un vakarā. Turpiniet ar mitrinātāju vai saules aizsargkrēmu."
+   },
+   {
+    "title": "Tīras ādas kopšanas garantija",
+    "body": "Formulēts atbilstoši sertificētiem bez cietsirdības standartiem un ražots bez smaržvielām, silikoniem, parabēniem, minerāleļļas, sulfātiem, ftalātiem vai izplatītiem alergēniem. Dermatologu testēts uz visiem ādas tipiem."
+   }
+  ],
+  "innovation": {
+   "label": "Šūnu inovācija",
+   "titleLead": "Nākamās paaudzes ādas",
+   "titleAccent": "Atjaunošanās",
+   "sub": "Jūras aktīvās vielas un mērķtiecīgi heksapeptīdi vienā ikdienas serumā.",
+   "items": [
+    {
+     "label": "Šūnu atjaunošanās",
+     "title": "PDRN bioaktīvās vielas",
+     "body": "Jūras PDRN paātrina šūnu apriti, atdzīvinot blāvu sejas krāsu un izlīdzinot redzamo tekstūru."
+    },
+    {
+     "label": "Biopeptīdu komplekss",
+     "title": "Acetyl Hexapeptide-8",
+     "body": "Signālpeptīdi mazina virsmas sasprindzinājumu un atbalsta dabisko kolagēna elastību, lai āda izskatītos tvirtāka un elastīgāka."
+    },
+    {
+     "label": "Dziļa mitrināšana",
+     "title": "Mitrināšanas matrica",
+     "body": "Hialuronskābe, Sodium PCA un Panthenol darbojas kopā, lai noturētu mitrumu ādas barjerā vairāk nekā 24 stundas."
+    }
+   ],
+   "imgAlts": [
+    "Seruma tekstūra",
+    "Kristāls un formula",
+    "Kristāla paraugs"
+   ],
+   "footnote": "*Bioloģiskā šūnu aktivitāte novērtēta ar in vitro un ex vivo klīniskiem novērtējumiem. Rezultāti var atšķirties atkarībā no individuālā ādas stāvokļa."
+  },
+  "ecosystem": {
+   "label": "Pilnais plāns",
+   "title": "Saņemiet pilnīgu rutīnas atbalstu",
+   "sub": "Kopā ar jūsu serumu katrs Tava Labs plāns ietver:",
+   "items": [
+    "Personalizētu ādas diagnostiku un režīma ceļvedi no jūsu ādas testa",
+    "Ārstēšanas plānu, kas sākas lēni un veidojas laika gaitā",
+    "Lietošanas atgādinājumus, kurus jūs kontrolējat, no rīta un vakarā",
+    "Ziņojumu atbalstu tieši lietotnē",
+    "Subscribe and Save piegādi katru mēnesi, jebkurā laikā apturiet vai atceliet"
+   ],
+   "note": "Jebkurā laikā apturiet, pielāgojiet vai atceliet Subscribe and Save. Vienreizējie pirkumi paliek pieejami par $49."
+  },
+  "clinical": {
+   "label": "Klīniskā efektivitāte",
+   "titleLead": "Rūpējieties par savu",
+   "titleAccent": "ādas veselību",
+   "imgAlts": [
+    "Veicina mirdzumu diagramma",
+    "Atbalsta dziļu mitrināšanu diagramma",
+    "Uzlabo ādas tekstūru diagramma"
+   ],
+   "note": "Lokālo bioaktīvo vielu novērtējumi, pamatojoties uz 8 nedēļu patērētāju uztveres un instrumentāliem mitrināšanas testiem. Individuālās ādas barjeras, ģenētika un vide ietekmē konkrētos laika grafikus un rezultātus."
+  },
+  "formulary": {
+   "label": "Formulārs",
+   "title": "Kura ādas kopšanas procedūra jums ir piemērota?",
+   "sub": "Mērķtiecīgas formulas dažādiem ādas mērķiem, bažām un rutīnām. Izveidojiet režīmu, kas atbilst darba grafikam.",
+   "serumAlt": "PDRN Brightening Serum",
+   "serumPriceLine": "Subscribe and Save $39/mēnesī",
+   "serumOneTime": "vai $49 vienreizējam pirkumam",
+   "primaryBenefit": "Galvenais ieguvums",
+   "howToUse": "Kā lietot",
+   "activeIngredient": "Aktīvā sastāvdaļa",
+   "serumBenefitValue": "Mirdzums un tvirtums",
+   "serumHowValue": "No rīta un vakarā",
+   "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
+   "selectSerum": "Izvēlēties serumu",
+   "comingSoon": "Drīzumā",
+   "status": "Statuss",
+   "sizeLabel": "Izmērs",
+   "others": [
+    {
+     "rows": [
+      [
+       "Galvenais ieguvums",
+       "Ikdienas mitrināšana"
+      ],
+      [
+       "Izmērs",
+       "1,7 fl oz (50ml)"
+      ]
+     ]
+    },
+    {
+     "rows": [
+      [
+       "Galvenais ieguvums",
+       "Acu zonas kopšana"
+      ],
+      [
+       "Izmērs",
+       "1 fl oz (30ml)"
+      ]
+     ]
+    },
+    {
+     "rows": [
+      [
+       "Galvenais ieguvums",
+       "Tvirtums un mitrināšana"
+      ],
+      [
+       "Izmērs",
+       "2 oz (56g)"
+      ],
+      [
+       "Aktīvā sastāvdaļa",
+       "Hialuronskābe un CoQ10"
+      ]
+     ]
+    },
+    {
+     "rows": [
+      [
+       "Galvenais ieguvums",
+       "Galvas ādas un matu kopšana"
+      ],
+      [
+       "Izmērs",
+       "1 fl oz (30ml)"
+      ]
+     ]
+    }
+   ]
+  },
+  "protocol": {
+   "label": "Ikdienas režīma protokols",
+   "titleLead": "Viena vienkārša rutīna,",
+   "titleAccent": "divas reizes dienā",
+   "sub": "Konsekvencei ir nozīme. Ievērojiet šos soļus no rīta un vakarā, lai peptīdi un PDRN varētu darīt savu darbu, un pabeidziet, noslēdzot mitrumu.",
+   "progressionLabel": "Klīniskā progresija",
+   "progressionTitle": "Redzamo rezultātu laika grafiks",
+   "progressionBody": "Uzlabots mirdzums un mitrināšana 7 līdz 14 dienās; uzlabota ādas elastība un barjeras tvirtums līdz 4. līdz 6. nedēļai.",
+   "timelineAlt": "Rezultātu laika grafika piemērs, no 1. līdz 4. nedēļai un tālāk",
+   "steps": [
+    {
+     "title": "Attīrīt ar saudzīgu mazgāšanas līdzekli",
+     "body": "Attīriet ar saudzīgu, pH līdzsvarotu mazgāšanas līdzekli, lai noņemtu netīrumus un sagatavotu ādu, neatņemot tai dabiskos lipīdus."
+    },
+    {
+     "title": "PDRN serums, 2 līdz 4 pilieni",
+     "body": "Uzklājiet 2 līdz 4 pilienus PDRN seruma uz mitras ādas. Maigi iespiediet un uzsitiet pa seju un kaklu, līdz pilnībā iesūcas."
+    },
+    {
+     "title": "Mitrināt un hidratēt",
+     "body": "Noslēdziet ar mitrinātāju, lai noturētu peptīdus un atbalstītu ceramīdu barjeru."
+    },
+    {
+     "title": "Aizsargāt (tikai no rīta), SPF 30+",
+     "body": "Pabeidziet rīta rutīnu ar plaša spektra SPF 30+, lai aizsargātu ādu pret UV un brīvo radikāļu bojājumiem."
+    },
+    {
+     "title": "Jūsu personīgais plāns, iekļauts",
+     "body": "Jūsu ādas tests izveido jūsu plānu, tostarp to, kā sākt lēni un kad palielināt."
+    }
+   ]
+  },
+  "faqSection": {
+   "label": "Atbildes un skaidrība",
+   "title": "Bieži uzdotie jautājumi",
+   "viewAll": "Skatīt visus bieži uzdotos jautājumus",
+   "items": [
+    {
+     "q": "Kas ir PDRN un kā tas nāk par labu ādai?",
+     "a": "PDRN (Polydeoxyribonucleotide) sastāv no DNS fragmentiem, kas ir biosaderīgi ar cilvēka ādas šūnām. Tas veicina dabisko šūnu atjaunošanos, stimulē mikrocirkulāciju un palīdz atjaunot ādas barjeru, lai iegūtu redzamu mirdzumu un tvirtumu."
+    },
+    {
+     "q": "Kā es iekļauju PDRN Brightening Serum savā ādas kopšanas rutīnā?",
+     "a": "Lietojiet PDRN Brightening Serum divas reizes dienā pēc attīrīšanas un tonizēšanas. Uzpiliniet 2 līdz 4 pilienus tieši uz pirkstu galiem vai mitras ādas, izlīdzinot pa seju, kaklu un dekoltē. Turpiniet ar savu mitrinātāju un rīta saules aizsargkrēmu."
+    },
+    {
+     "q": "Vai šis serums ir piemērots jutīgai un pret akni tendētai ādai?",
+     "a": "Jā. Mūsu formula ir nekomedogēna, bez eļļas, bez smaržvielām un bagātināta ar nomierinošu Panthenol. Tā nomierina jutīgumu, vienlaikus dziļi mitrinot, neaizsprostojot poras un neizraisot kairinājumu."
+    },
+    {
+     "q": "Vai es varu lietot PDRN kopā ar retinolu, C vitamīnu vai AHA/BHA?",
+     "a": "Jā. PDRN labi darbojas kopā ar aktīvām procedūrām, piemēram, retinoīdiem un C vitamīnu. Tā mitrinošā bāze palīdz nomierināt lobīšanos vai apsārtumu, ko var izraisīt ķīmiskie eksfolianti."
+    },
+    {
+     "q": "Cik ilgi parasti pietiek vienai 30ml pudelei?",
+     "a": "Lietojot 2 līdz 4 pilienus divas reizes dienā, viena 30ml (1 fl oz) pudele parasti pietiek 4 līdz 6 nedēļām. Subscribe and Save nosūta nākamo pudeli, pirms jums beidzas."
+    }
+   ]
+  },
+  "finalCta": {
+   "title": "Jūsu seja ir katrā prezentācijā. Turiet to gatavu.",
+   "line": "PDRN Brightening Serum · $49.00 / 30ml · Tīrs un vegāns · Dziļa mitrināšana · Atceliet jebkurā laikā"
+  },
+  "gallery": {
+   "view": "Skatīt {n}",
+   "alts": [
+    "PDRN Brightening Serum pudele",
+    "Seruma pudeles skats 2",
+    "Seruma pudeles skats 3",
+    "Seruma pudeles skats 4",
+    "Seruma pudeles skats 5"
+   ]
+  }
+ },
+ "about": {
+  "label": "Par mums",
+  "titleLead": "Ādas kopšana",
+  "titleAccent": "ambiciozajiem.",
+  "tagline": "Veidojiet savu biznesu. Neatstājiet novārtā sevi.",
+  "p1": "Tava Labs ir personīgās kopšanas zīmols cilvēkiem, kuri veido uzņēmumus. Jūsu izskats ir daļa no jūsu profesionālās klātbūtnes. Tas, kā jūs ierodaties kamerā, prezentācijā un telpā, ir daļa no tā, kā jūsu darbs tiek nolasīts.",
+  "p2": "Mēs ražojam vienu lietu, un mēs to darām labi. Ikdienas serums, kas uztur jūsu ādu nosvērtu, mitrinātu un gatavu, bez sarežģītas rutīnas.",
+  "p3": "Tava Labs tika dibināts dibinātājiem, satura veidotājiem un profesionāļiem, kuri iegulda cilvēkā, kurš stāv aiz uzņēmuma. Viens solis no rīta un vakarā, pirms tikšanām, prezentācijām un darba kameras priekšā.",
+  "p4": "Šī ir ādas kopšana kā uzturēšana, nevis iedomība. Tā pati disciplīna, ko jūs piemērojat savam biznesam, piemērota jums pašam.",
+  "serumLabel": "Serums",
+  "serumTitle": "PDRN Brightening Serum",
+  "serumAlt": "PDRN Brightening Serum",
+  "serumBody": "Ikdienas sejas kopšanas rutīna, kas veidota ap PDRN (Polydeoxyribonucleotide) un Acetyl Hexapeptide-8, ar Sodium Hyaluronate un Panthenol mitrināšanai un komfortam. Tīra un bez smaržvielām, un ražota bez nekā no mūsu izslēgto vielu saraksta.",
+  "bullets": [
+   "PDRN gaišākai, vienmērīgāka izskata sejas krāsai.",
+   "Acetyl Hexapeptide-8, lai atbalstītu tvirtuma izskatu.",
+   "Sodium Hyaluronate un Panthenol mitrināšanai.",
+   "Lietojiet divas reizes dienā: 2 līdz 4 sūkņa spiedienus uz tīras, sausas ādas no rīta un vakarā."
+  ],
+  "priceLine": "$49 vienreizējam pirkumam vai $39 mēnesī ar Subscribe & Save.",
+  "philosophyLabel": "Mūsu filozofija",
+  "quote": "“Veselīga āda ir vispievilcīgākā lieta, ko varat valkāt.”",
+  "philosophyCaption": "Tava Labs filozofija",
+  "philosophyP1": "Mēs ticam rūpēties par sevi tā, kā jūs rūpējaties par savu darbu: konsekventi un bez drāmas. Neliela ikdienas uzturēšana pārspēj neregulāras kapitālas pārmaiņas.",
+  "philosophyP2": "Mēs nesolām pārvērtības. Mēs ražojam labi formulētu ikdienas serumu, sakām jums precīzi, kas tajā ir, un ļaujam rutīnai runāt pašai par sevi.",
+  "onlineTitle": "Tikai tiešsaistē",
+  "onlineSegments": [
+   {
+    "text": "Tava Labs ir tikai tiešsaistes zīmols. Jautājumi? Rakstiet uz "
+   },
+   {
+    "text": "talia@tavalabs.app",
+    "href": "mailto:talia@tavalabs.app"
+   },
+   {
+    "text": "."
+   }
+  ],
+  "contactUs": "Sazinieties ar mums"
+ },
+ "contact": {
+  "label": "Sazinieties ar mums",
+  "title": "Mēs labprāt no jums dzirdētu.",
+  "sub": "Rakstiet mums, un mēs jums atbildēsim. Izvēlieties piemēroto tēmu vai rakstiet mums tieši.",
+  "emailLabel": "E pasts:",
+  "phoneLabel": "Tālrunis:",
+  "topics": {
+   "general": {
+    "title": "Vispārīgi",
+    "body": "Vispārīgi jautājumi par Tava Labs un serumu."
+   },
+   "wholesale": {
+    "title": "Vairumtirdzniecība",
+    "body": "Vairumtirdzniecības un mazumtirdzniecības jautājumi par PDRN Brightening Serum."
+   },
+   "sales-support": {
+    "title": "Pārdošanas atbalsts",
+    "body": "Jautājumi par pasūtīšanu, Subscribe & Save un apmaksu."
+   },
+   "product-support": {
+    "title": "Produktu atbalsts",
+    "body": "Palīdzība ar seruma lietošanu, rutīnām un jūsu personīgo plānu."
+   },
+   "partnerships": {
+    "title": "Partnerība",
+    "body": "Partnerība ar akseleratoriem, universitātēm, investoriem un kopienām."
+   },
+   "pr": {
+    "title": "Sabiedriskās attiecības",
+    "body": "Preses un mediju jautājumi."
+   }
+  }
+ },
+ "faq": {
+  "label": "Bieži uzdotie jautājumi",
+  "titleLead": "Bieži uzdotie",
+  "titleAccent": "Jautājumi",
+  "sub": "Atbildes par serumu, pasūtīšanu, piegādi un jūsu personīgo plānu.",
+  "items": [
+   {
+    "q": "Kas ir PDRN Brightening Serum?",
+    "a": [
+     {
+      "text": "Ikdienas serums, kas veidots ap PDRN (Polydeoxyribonucleotide) un Acetyl Hexapeptide-8, ar Sodium Hyaluronate un Panthenol. Tā ir ikdienas sejas kopšanas rutīna: uzklājiet no rīta un vakarā, lai atbalstītu gaišāku, vienmērīgāka izskata sejas krāsu un nosvērtu, kamerai gatavu izskatu."
+     }
+    ]
+   },
+   {
+    "q": "Kā es to lietoju?",
+    "a": [
+     {
+      "text": "Uzklājiet 2 līdz 4 pilienus uz tīras, sausas ādas no rīta un vakarā. Turpiniet ar mitrinātāju. Ja esat jauns aktīvajā ādas kopšanā, sāciet vienu reizi dienā pirmajā nedēļā, pēc tam palieliniet līdz divām reizēm dienā."
+     }
+    ]
+   },
+   {
+    "q": "Kā es saņemu savu personīgo plānu?",
+    "a": [
+     {
+      "text": "Aizpildiet "
+     },
+     {
+      "text": "Ādas testu",
+      "href": "/quiz"
+     },
+     {
+      "text": ". Jūsu atbildes izveido personīgo plānu, tostarp to, kā sākt lēni un kad palielināt."
+     }
+    ]
+   },
+   {
+    "q": "Cik tas maksā?",
+    "a": [
+     {
+      "text": "$49 vienreizējam pirkumam vai $39 mēnesī ar Subscribe & Save (20% atlaide). Subscribe & Save var jebkurā laikā apturēt, izlaist vai atcelt."
+     }
+    ]
+   },
+   {
+    "q": "Kā darbojas piegāde?",
+    "a": [
+     {
+      "text": "Pasūtījumus izpilda mūsu partneris un nosūta uz adresi, kuru norādāt apmaksas laikā. Skatiet "
+     },
+     {
+      "text": "Piegādes politiku",
+      "href": "/shipping"
+     },
+     {
+      "text": " sīkākai informācijai."
+     }
+    ]
+   },
+   {
+    "q": "Kāda ir jūsu atgriešanas politika?",
+    "a": [
+     {
+      "text": "Visi pirkumi ir galīgi. Lūdzu, izlasiet "
+     },
+     {
+      "text": "Atgriešanas politiku",
+      "href": "/returns"
+     },
+     {
+      "text": " pirms pasūtīšanas."
+     }
+    ]
+   },
+   {
+    "q": "Kādas sastāvdaļas tas satur?",
+    "a": [
+     {
+      "text": "Pilns sastāvdaļu saraksts ir "
+     },
+     {
+      "text": "Sastāvdaļu lapā",
+      "href": "/ingredients"
+     },
+     {
+      "text": ". Serums ir bez smaržvielām un ražots bez parabēniem, sulfātiem, silikoniem, minerāleļļas, ftalātiem un izplatītiem alergēniem."
+     }
+    ]
+   },
+   {
+    "q": "Vai tas ir piemērots manam ādas tipam?",
+    "a": [
+     {
+      "text": "Serums ir formulēts tā, lai būtu piemērots visiem ādas tipiem. Ja jums ir ādas stāvoklis vai bažas, pirms jebkuras jaunas ādas kopšanas uzsākšanas runājiet ar savu dermatologu."
+     }
+    ]
+   },
+   {
+    "q": "Kā es varu ar jums sazināties?",
+    "a": [
+     {
+      "text": "Rakstiet uz talia@tavalabs.app vai izmantojiet "
+     },
+     {
+      "text": "Sazinieties ar mums",
+      "href": "/contact"
+     },
+     {
+      "text": " lapu."
+     }
+    ]
+   }
+  ]
+ },
+ "ingredients": {
+  "label": "Sastāvdaļas",
+  "titleLead": "Kas ir iekšā un",
+  "titleAccent": "ko mēs izlaižam.",
+  "intro": "Šeit ir katra PDRN Brightening Serum sastāvdaļa, ko katra no tām dara, un pilns saraksts tieši tā, kā tas parādās uz etiķetes.",
+  "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Ražots ASV · Piemērots visiem ādas tipiem.",
+  "keyTitle": "Galvenās sastāvdaļas",
+  "keyItems": [
+   {
+    "name": "PDRN (Polydeoxyribonucleotide)",
+    "body": "Galvenā aktīvā viela. Atbalsta gaišāku, vienmērīgāka izskata sejas krāsu un nosvērtu, kamerai gatavu izskatu."
+   },
+   {
+    "name": "Acetyl Hexapeptide-8",
+    "body": "Peptīds, kas atbalsta tvirtuma un gluduma izskatu."
+   },
+   {
+    "name": "Sodium Hyaluronate (Hyaluronic Acid)",
+    "body": "Piesaista mitrumu mitrinātai, komfortablai ādai."
+   },
+   {
+    "name": "Panthenol",
+    "body": "Nomierina un atbalsta ādas barjeru."
+   },
+   {
+    "name": "Glycerin + Sodium PCA",
+    "body": "Humektanti, kas palīdz ādai noturēt ūdeni visas dienas garumā."
+   }
+  ],
+  "fullTitle": "Pilnas sastāvdaļas",
+  "howTitle": "Kā lietot",
+  "howBody": "Uzklājiet 2 līdz 4 sūkņa spiedienus uz tīras, sausas ādas no rīta un vakarā. Turpiniet ar mitrinātāju. Sāciet vienu reizi dienā, ja esat jauns aktīvajā ādas kopšanā.",
+  "warningTitle": "Brīdinājums",
+  "warningBody": "Tikai ārējai lietošanai. Izvairieties no tiešas saskares ar acīm. Ja rodas kairinājums, pārtrauciet lietošanu. Sargāt no bērniem."
+ },
+ "partners": {
+  "label": "Kļūstiet par Tava Labs partneri",
+  "titleLead": "Dāviniet saviem dibinātājiem bezmaksas mēnesi",
+  "titleAccent": "Tava Labs.",
+  "intro": "Tava Labs sadarbojas ar akseleratoriem, universitātēm, eņģeļu investoriem un dibinātāju kopienām. Jūsu biedri saņem savu pirmo PDRN Brightening Serum mēnesi bez maksas, lai cilvēki, kuri veido uzņēmumus, varētu rūpēties par cilvēku, kurš stāv aiz uzņēmuma.",
+  "tagline": "Bezmaksas mēnesis no mums, bez jebkādām saistībām.",
+  "becomePartner": "Kļūt par partneri",
+  "partnershipsContact": "Partnerības kontakts",
+  "audiences": [
+   {
+    "alt": "Jaunuzņēmumu dibinātāji akseleratora sesijā",
+    "title": "Akseleratoriem",
+    "body": "Jūsu dibinātāji prezentē, demonstrē un filmē saturu no pirmās dienas. Dāviniet viņiem mēnesi ikdienas kopšanas, kas palīdz viņiem ierasties nosvērtiem un gataviem kamerai, un vienu lietu mazāk, par ko domāt programmas laikā.",
+    "how": "Kā tas darbojas: mēs katram dibinātājam jūsu grupā nosūtām vienu bezmaksas pudeli ar personīgo plānu no ādas testa. Jūs mūs iepazīstināt vienu reizi; mēs parūpējamies par visu pārējo."
+   },
+   {
+    "alt": "Universitātes studenti kampusā",
+    "title": "Universitātēm",
+    "body": "Uzņēmējdarbības studenti veido publiski: prezentāciju konkursi, demo dienas, dibinātāju sarunas un pirmās tikšanās ar investoriem. Bezmaksas Tava Labs mēnesis ir praktiska, neaizmirstama dāvana studentiem jūsu programmā.",
+    "how": "Kā tas darbojas: mēs nodrošinām pudeles jūsu grupai, klasei vai pasākumam, kā arī vienkāršu izdales materiālu. Universitātei bez maksas un studentiem bez maksas."
+   },
+   {
+    "alt": "Investora tikšanās ar dibinātāju",
+    "title": "Eņģeļu investoriem",
+    "body": "Jūs atbalstāt cilvēku tikpat daudz kā uzņēmumu. Bezmaksas Tava Labs mēnesis ir pārdomāta dāvana dibinātājiem jūsu portfelī, un tas atbalsta to cilvēku ikdienas rutīnu, kuros esat ieguldījis.",
+    "how": "Kā tas darbojas: pastāstiet mums, cik daudz dibinātāju vēlaties apdāvināt, un mēs noorganizējam piegādi un viņu personīgos plānus. Jums bez maksas un viņiem bez maksas."
+   }
+  ],
+  "whyTitleLead": "Nulle izmaksu. Nulle pūļu.",
+  "whyTitleAccent": "Reāla vērtība.",
+  "why": [
+   {
+    "title": "Vairāk vērtības no pirmās dienas",
+    "body": "Jūsu biedri saņem reālu produktu un personīgo plānu, nevis atlaides kodu, kuru viņi aizmirsīs."
+   },
+   {
+    "title": "Jums nulle izmaksu",
+    "body": "Pirmais mēnesis ir no mums katram cilvēkam, kuru apdāvināt."
+   },
+   {
+    "title": "Jums nulle pūļu",
+    "body": "Mēs rūpējamies par piegādi, ievadīšanu un atbalstu. Jūs veicat vienu iepazīstināšanu."
+   },
+   {
+    "title": "Dāvana, kuru viņi patiešām izmantos",
+    "body": "Viens solis no rīta un vakarā. Tas atbilst dibinātāja grafikam, jo tas tika radīts tādam."
+   }
+  ],
+  "formulationTitle": "Tīra, pārdomāta formula.",
+  "formulationSub": "Serums ir ražots bez sastāvdaļām, par kurām jūsu biedri jautā visbiežāk:",
+  "stepsTitle": "Kā darbojas partnerība",
+  "steps": [
+   {
+    "title": "Sazinieties",
+    "body": "Pastāstiet mums par savu programmu un to, cik daudz cilvēku vēlaties apdāvināt."
+   },
+   {
+    "title": "Mēs noorganizējam dāvanu",
+    "body": "Mēs nosūtām serumu un izveidojam katra cilvēka personīgo plānu no ādas testa."
+   },
+   {
+    "title": "Jūs pasniedzat dāvanu",
+    "body": "Jūsu biedri saņem bezmaksas ikdienas kopšanas mēnesi, ar mūsu pateicību jums katrā kastē."
+   }
+  ],
+  "closingTitleLead": "Ieliksim bezmaksas mēnesi jūsu dibinātāju",
+  "closingTitleAccent": "rokās.",
+  "closingSegments": [
+   {
+    "text": "Rakstiet uz "
+   },
+   {
+    "text": "talia@tavalabs.app",
+    "href": "mailto:talia@tavalabs.app"
+   },
+   {
+    "text": " vai zvaniet "
+   },
+   {
+    "text": "909-906-1308",
+    "href": "tel:+19099061308"
+   },
+   {
+    "text": ", un mēs to izveidosim."
+   }
+  ]
+ },
+ "blog": {
+  "label": "The Tava Journal",
+  "titleLead": "Miega un stresa pētījumi",
+  "titleAccent": "dibinātājiem",
+  "sub": "Miega zinātne, stresa pētījumi un snieguma ieskati dibinātājiem.",
+  "readStory": "Lasīt stāstu"
+ },
+ "research": {
+  "pill": "Pētījumu sērija 001 · Dalībnieku rezultāti",
+  "h1Lead": "16 nedēļu skats uz izmērītām",
+  "h1Accent": "ādas izmaiņām.",
+  "heroSub": "Prospektīva, atklāta dalībnieku programma, kas apvieno personalizētu ādas kopšanas rutīnu, uztura bagātinātājus un dzīvesveida ieteikumus. Katrs skaitlis šajā lapā nāk no ziņojuma, izmērīts sākumā un 16. nedēļā.",
+  "chips": [
+   "Prospektīva un atklāta",
+   "Viena grupa",
+   "Medicīniski uzraudzīta",
+   "Klātienes klīnisko pētījumu vieta"
+  ],
+  "headlineLabel": "Galvenais rezultāts",
+  "headlineTitle": "Kopējie aknes bojājumi samazinājās no 16,8 līdz 6,2",
+  "slopeAria": "Slīpuma diagramma, kas rāda kopējos aknes bojājumus no 16,8 sākumā līdz 6,2 16. nedēļā",
+  "slopeBaseline": "Sākums 16,8",
+  "slopeWeek": "16. nedēļa · 6,2",
+  "slopeNote": "Taisna līnija tikai starp diviem izmērītajiem punktiem. Ziņojumā netika publicētas rezultātu vērtības 4., 8. vai 12. nedēļai.",
+  "badges": [
+   {
+    "big": "par 60 procentiem augstāka",
+    "small": "Ādas mitrināšana, no 29,4 AU līdz 47,1 AU"
+   },
+   {
+    "big": "par 52 procentiem zemāks",
+    "small": "Klīniskais tekstūras rādītājs, no 2,7 no 4 līdz 1,3 no 4"
+   }
+  ],
+  "statsLabels": [
+   "Nedēļas programmā",
+   "Pieteikušies pieaugušie",
+   "Cilvēki, kuri pabeidza visas vizītes",
+   "Pabeigšanas līmenis"
+  ],
+  "percentWord": "procenti",
+  "resultsBg": "Rezultāti",
+  "resultsLabel": "Vidējās izmaiņas · No sākuma līdz 16. nedēļai",
+  "resultsTitle": "Kas mainījās, vienkāršos skaitļos.",
+  "resultsSub": "Rezultāti 84 dalībniekiem, kuri pabeidza visas vizītes. Katra karte salīdzina divus laika punktus, kurus pētījums patiešām izmērīja.",
+  "baseline": "Sākums",
+  "week16": "16. nedēļa",
+  "slopeFoot": "No sākuma līdz 16. nedēļai",
+  "results": [
+   {
+    "title": "Kopējie aknes bojājumi",
+    "change": "par 63 procentiem zemāk",
+    "note": "Dermatologa saskaitītie bojājumi"
+   },
+   {
+    "title": "Ādas mitrināšana",
+    "change": "par 60 procentiem augstāka",
+    "note": "Korneometra mērījums AU"
+   },
+   {
+    "title": "Eritēmas un apsārtuma indekss",
+    "change": "par 30 procentiem zemāks",
+    "note": "Hromametra indekss"
+   },
+   {
+    "title": "Melanīna un pigmentācijas indekss",
+    "change": "par 25 procentiem zemāks",
+    "note": "Hromametra indekss"
+   },
+   {
+    "title": "Klīniskais tekstūras rādītājs",
+    "change": "par 52 procentiem zemāks",
+    "note": "Novērtēts skalā no 0 līdz 4"
+   }
+  ],
+  "peopleBg": "Cilvēki",
+  "participantsLabel": "Kas piedalījās",
+  "participantsTitle": "Cilvēki, kas stāv aiz vidējiem rādītājiem.",
+  "participantsSub": "Piecas vizītes visā programmā, no sākuma līdz 16. nedēļai.",
+  "ageLabel": "Vidējais vecums",
+  "ageSuffix": "Gadi · Diapazons no 20 līdz 48",
+  "visitTimeline": "Vizīšu laika grafiks",
+  "visits": [
+   {
+    "name": "Sākums",
+    "desc": "Skrīnings, mērījumi un fotografēšana"
+   },
+   {
+    "name": "4. nedēļa",
+    "desc": "Turpmākais novērtējums"
+   },
+   {
+    "name": "8. nedēļa",
+    "desc": "Turpmākais novērtējums"
+   },
+   {
+    "name": "12. nedēļa",
+    "desc": "Turpmākais novērtējums"
+   },
+   {
+    "name": "16. nedēļa",
+    "desc": "Galīgie mērījumi un fotografēšana"
+   }
+  ],
+  "genderTitle": "Dzimumu sadalījums",
+  "genderAria": "Dzimumu sadalījuma donut diagramma, 74 procenti sieviešu, 24 procenti vīriešu, 2 procenti nebināru",
+  "gender": [
+   {
+    "label": "Sievietes",
+    "pct": "74 procenti"
+   },
+   {
+    "label": "Vīrieši",
+    "pct": "24 procenti"
+   },
+   {
+    "label": "Nebināri",
+    "pct": "2 procenti"
+   }
+  ],
+  "donutNote": "Donut animējas līdz ziņotajam sadalījumam, kad tas ritinās skatā.",
+  "concernsTitle": "Sākuma ādas bažas",
+  "concerns": [
+   "Pēciekaisuma hiperpigmentācija",
+   "Nevienmērīga tekstūra un raupjums",
+   "Iekaisuma akne",
+   "Sejas apsārtums un jutīgums",
+   "Tumšie loki zem acīm",
+   "Sausums un bojāta barjera",
+   "Smalkās līnijas un agrīna foto novecošanās"
+  ],
+  "concernsNote": "Dalībnieki varēja ziņot par vairāk nekā vienu bažu, tāpēc šīs daļas nesummējas līdz 100 procentiem.",
+  "programBg": "Programma",
+  "programLabel": "Programma un protokols",
+  "programTitle": "16 nedēļu programma soli pa solim.",
+  "programSub": "Dalībnieki saņēma klātienes skrīningu, produktu izsniegšanu, lietošanas apmācību un turpmākus novērtējumus klīnisko pētījumu vietā.",
+  "morningTag": "Rīta rutīna",
+  "morningTitle": "Sākt dienu",
+  "amSteps": [
+   "Saudzīgs attīrīšanas līdzeklis",
+   "C vitamīna serums, 15 procenti",
+   "Ceramīdu mitrinātājs",
+   "Minerālu saules aizsargkrēms, SPF 50"
+  ],
+  "eveningTag": "Vakara rutīna",
+  "eveningTitle": "Noslēgt dienu",
+  "pmSteps": [
+   "Saudzīgs attīrīšanas līdzeklis",
+   "Niacinamide 5 procenti plus cinka serums",
+   "Peptīdu barjeras krēms",
+   "Retinol 0,3 procenti, ieviests 2. nedēļā un titrēts klīnicista vadībā"
+  ],
+  "routineNote": "Retinols tika lietots 3 līdz 5 naktis nedēļā pēc sākotnējā divu nedēļu palielināšanas perioda. Pēc vajadzības aktīviem bojājumiem tika lietota 2 procentu salicilskābe.",
+  "supplementLabel": "Uztura bagātinātāju rutīna",
+  "supplementTitle": "Tava Skin Complex",
+  "supplementSub": "Divas kapsulas dienā kopā ar brokastīm. Daudzumi parādīti uz divu kapsulu porciju.",
+  "supplements": [
+   "C vitamīns",
+   "Cinks",
+   "Niacinamide",
+   "Astaxanthin",
+   "Curcumin phytosome",
+   "Lactobacillus probiotiku maisījums"
+  ],
+  "supplementNote": "Izvēles papildinājums, Omega 3, viena mīkstā kapsula dienā.",
+  "nutritionTitle": "Uztura ieteikumi",
+  "nutritionItems": [
+   "Vismaz 2,5 L ūdens dienā",
+   "Dārzeņi, ogas un ar omega 3 bagāti pārtikas produkti",
+   "Ierobežojiet pievienoto cukuru un pārtiku ar augstu glikēmisko indeksu",
+   "Izvēles divu nedēļu atiestatīšana ar zemu piena un cukura saturu",
+   "Sākuma konsultācija ar reģistrētu dietologu"
+  ],
+  "lifestyleTitle": "Dzīvesveida mērķi",
+  "lifestyleItems": [
+   "7 līdz 9 stundas miega",
+   "Vismaz 150 minūtes mērenas aktivitātes nedēļā",
+   "Piecu minūšu ikdienas elpošanas vingrinājums",
+   "Miegs reģistrēts katru nedēļu",
+   "Mitrināšanas un saules aizsargkrēma paradumi pārskatīti vizītēs"
+  ],
+  "adherenceLabel": "Programmas izsekošana",
+  "adherenceTitle": "Cik cieši cilvēki palika pie plāna.",
+  "adherenceSub": "Ievērošana visās 16 nedēļās, kā reģistrēts ziņojumā.",
+  "adherence": [
+   "Kopējā ievērošana",
+   "Uztura bagātinātāju ievērošana",
+   "Lokālās lietošanas ievērošana"
+  ],
+  "adherenceAria": "{label}, {val} procenti",
+  "adherenceFoot": "Visā 16 nedēļu programmā",
+  "safetyBg": "Drošība",
+  "safetyLabel": "Ziņotās blakusparādības",
+  "safetyTitle": "Ko dalībnieki ziņoja.",
+  "safetySub": "Dalībnieku daļas, kas ziņoja par katru efektu programmas laikā.",
+  "sideEffectsTitle": "Blakusparādības",
+  "sideEffects": [
+   "Viegls sausums vai lobīšanās",
+   "Pagaidu aknes uzliesmojums",
+   "Viegls kuņģa un zarnu trakta diskomforts"
+  ],
+  "withdrawalsTitle": "Izstāšanās",
+  "withdrawalsSub": "8 dalībnieki izstājās no 92 pieteiktajiem.",
+  "withdrawals": [
+   {
+    "label": "Grafika konflikti",
+    "value": "5 cilvēki"
+   },
+   {
+    "label": "Vieglas blakusparādības",
+    "value": "2 cilvēki"
+   },
+   {
+    "label": "Zaudēti turpmākai uzraudzībai",
+    "value": "1 cilvēks"
+   }
+  ],
+  "alertTitle": "Nav ziņots par nopietniem nevēlamiem notikumiem.",
+  "alertBody": "Šī rinda ir norādīta ziņojumā blakus šajā lapā uzskaitītajiem vieglajiem efektiem. Tā ir iekļauta šeit tieši tā, kā ziņots.",
+  "photoLabel": "Vizuālā dokumentācija",
+  "photoTitle": "Dalībnieku foto salīdzinājumi.",
+  "photoSub": "Blakus fotogrāfijas no četru mēnešu programmas. Kreisais attēls katrā pārī rādīja sākumu un labais attēls rādīja 16. nedēļu. Šajā lapā netiek reproducētas nekādas dalībnieku fotogrāfijas.",
+  "participant": "Dalībnieks {initial}",
+  "docViews": [
+   "Sānu profila skats",
+   "Frontālais skats",
+   "Frontālais skats ar brillēm",
+   "Tuvplāna vaiga skats"
+  ],
+  "baselineAndWeek": "Sākums un 16. nedēļa",
+  "photoProtocolTitle": "Fotografēšanas protokols",
+  "photoProtocol": "Standartizēta uzņemšana sākumā un turpmākajā uzraudzībā, izmantojot fiksētu kameras iestatījumu, konsekventu redzamu un krusteniski polarizētu apgaismojumu, frontālos, 45 grādu un profila leņķus, kā arī krāsu kalibrētu fonu.",
+  "methodsLabel": "Kā tika veikti mērījumi",
+  "methodsTitle": "Klīniskie mērījumi",
+  "methods": [
+   "Dermatologs saskaitīja aknes bojājumus",
+   "Korneometra mitrināšana",
+   "Hromametra apsārtuma un melanīna indeksi",
+   "Tekstūras novērtēšana skalā no 0 līdz 4",
+   "Standartizēta fotografēšana"
+  ],
+  "factsLabel": "Pētījuma dizains",
+  "factsTitle": "Dizains vienā mirklī.",
+  "facts": [
+   {
+    "k": "Dizains",
+    "v": "Prospektīvs, atklāts, vienas grupas"
+   },
+   {
+    "k": "Vide",
+    "v": "Klātienē, medicīniski uzraudzīts"
+   },
+   {
+    "k": "Novērtējumi",
+    "v": "Sākums plus 4., 8., 12., 16. nedēļa"
+   },
+   {
+    "k": "Pabeidza",
+    "v": "84 no 92 pieteiktajiem · 91 procents"
+   }
+  ],
+  "source": "Avots, Tava Labs dalībnieku rezultāti, Pētījumu sērija 001, 16 nedēļu dalībnieku programma. Šī lapa parāda tikai ziņojuma skaitļus, ar sākumu un 16. nedēļu kā diviem izmērītajiem rezultātu punktiem."
+ },
+ "account": {
+  "signedInAs": "Pierakstījies kā",
+  "signOut": "Izrakstīties",
+  "loading": "Ielādē jūsu kontu…",
+  "failedTitle": "Mēs nevarējām ielādēt jūsu kontu",
+  "failedSegments": [
+   {
+    "text": "Pārbaudiet savu savienojumu un mēģiniet vēlreiz. Ja tas turpina notikt, rakstiet uz "
+   },
+   {
+    "text": "talia@tavalabs.app",
+    "href": "mailto:talia@tavalabs.app"
+   },
+   {
+    "text": " un mēs to atrisināsim."
+   }
+  ],
+  "tryAgain": "Mēģināt vēlreiz",
+  "tabs": {
+   "today": "Šodien",
+   "orders": "Pasūtījumi",
+   "shop": "Veikals",
+   "lab": "Laboratorija",
+   "support": "Atbalsts"
+  },
+  "greetings": {
+   "morning": "Labrīt",
+   "afternoon": "Labdien",
+   "evening": "Labvakar"
+  },
+  "weekInitials": [
+   "S",
+   "P",
+   "O",
+   "T",
+   "C",
+   "Pk",
+   "S"
+  ],
+  "streakLine": "{streak} dienu sērija · {day}. diena no 30{bottle}",
+  "dayLine": "{day}. diena no 30{bottle}. Pabeidziet šodienas rutīnu lietotnē, lai sāktu savu sēriju.",
+  "bottleSuffix": " · pudelē atlicis {days} dienas",
+  "progressLine": "{day}. diena no 30 · vēl {left} dienas līdz jūsu pirmajam pilnajam mēnesim",
+  "stepsToGo": "Šodien: vēl {n} no {total} rutīnas soļiem.",
+  "todayComplete": "Šodiena ir pabeigta. Jūsu nākamā diena jau ir gatava.",
+  "planEyebrow": "Jūsu plāns",
+  "planDefault": "Aizpildiet ādas testu, un jūsu personīgais plāns, kas veidots no jūsu atbildēm, dzīvos šeit un lietotnē.",
+  "retakeQuiz": "Atkārtot ādas testu",
+  "takeQuiz": "Aizpildīt ādas testu",
+  "chipLabels": {
+   "goal": "Mērķis",
+   "skinType": "Ādas tips",
+   "concern": "Bažas",
+   "routine": "Rutīna",
+   "plan": "Plāns",
+   "routineTimes": "Rutīnas laiki"
+  },
+  "labelMaps": {
+   "goal": {
+    "radiance": "Mirdzums",
+    "fine_lines": "Smalkās līnijas",
+    "hydration": "Mitrināšana",
+    "even_tone": "Vienmērīgs tonis"
+   },
+   "skinType": {
+    "dry": "Sausa",
+    "oily": "Taukaina",
+    "combination": "Kombinēta",
+    "sensitive": "Jutīga",
+    "not_sure": "Vēl nezinu"
+   },
+   "concern": {
+    "dullness": "Blāvums",
+    "fine_lines": "Smalkās līnijas",
+    "uneven_tone": "Nevienmērīgs tonis",
+    "texture": "Tekstūra",
+    "dryness": "Sausums"
+   },
+   "sensitivity": {
+    "often": "Bieži jutīga",
+    "sometimes": "Dažreiz jutīga",
+    "never": "Reti jutīga"
+   },
+   "routine": {
+    "cleanser_only": "Tikai attīrīšanas līdzeklis",
+    "few_products": "Daži produkti",
+    "full_routine": "Pilna rutīna"
+   },
+   "ramp": {
+    "gentle": "Saudzīga palielināšana",
+    "standard": "Standarta palielināšana",
+    "full": "Pilns stiprums"
+   }
+  },
+  "morningEyebrow": "Rīta rutīna",
+  "nightEyebrow": "Vakara rutīna",
+  "amTitle": "Rīts · 3 pilieni",
+  "pmTitle": "Vakars · 3 pilieni",
+  "amSteps": [
+   {
+    "title": "Attīrīt",
+    "detail": "Saudzīgs attīrīšanas līdzeklis, nosusināt ar viegliem pieskārieniem"
+   },
+   {
+    "title": "Uzklāt 3 pilienus seruma",
+    "detail": "Iespiediet sejā un kaklā"
+   },
+   {
+    "title": "Mitrināt + SPF",
+    "detail": "SPF 30 vai augstāks"
+   }
+  ],
+  "pmSteps": [
+   {
+    "title": "Dubultā attīrīšana",
+    "detail": "Noņemt SPF un kosmētiku"
+   },
+   {
+    "title": "Uzklāt 3 pilienus seruma",
+    "detail": "Pirms retinola vai procedūrām"
+   },
+   {
+    "title": "Nakts mitrinātājs",
+    "detail": "Noslēgt mitrināšanu"
+   }
+  ],
+  "stepsNote": "Jūs atzīmējat soļus mobilajā lietotnē. Šī lapa rāda šodienas rutīnu un to, ko lietotne līdz šim šodien ir reģistrējusi.",
+  "ordersEyebrow": "Pasūtījumi",
+  "ordersTitle": "Jūsu pasūtījumi",
+  "ordersEmpty": "Vēl nav pasūtījumu. Kad jūs pērkat, jūsu pasūtījumi un izsekošana parādīsies šeit un lietotnē.",
+  "paid": "Apmaksāts",
+  "paymentFailed": "Maksājums neizdevās",
+  "unpaid": "Neapmaksāts",
+  "statusLabels": [
+   "Pasūtīts",
+   "Nosūtīts",
+   "Ceļā piegādei",
+   "Piegādāts"
+  ],
+  "subscription": "Abonements",
+  "carrierFallback": "Pārvadātājs",
+  "trackPackage": "Izsekot sūtījumu",
+  "claimEyebrow": "Pieprasījuma kods",
+  "claimTitle": "Pirkuma savienošana ar lietotni",
+  "claimForOrder": "Jūsu pieprasījuma kods pasūtījumam {order}",
+  "claimYourCode": "Jūsu pieprasījuma kods",
+  "claimValidUntil": " (derīgs līdz {date})",
+  "claimEnter": ". Ievadiet to Tava lietotnē sadaļā Pasūtījumi, lai savienotu šo pirkumu ar jūsu lietotnes kontu:",
+  "claimWebNote": "Šeit tīmeklī jums kods nav vajadzīgs. Pierakstīšanās ar jūsu apmaksas e pastu jau parāda jūsu pasūtījumus un plānu iepriekš.",
+  "claimEmpty": "Pirkāt ar testa vai šīs vietnes starpniecību? Jūsu apstiprinājuma e pasts un lapa tūlīt pēc apmaksas parādīja pieprasījuma kodu. Atveriet Tava mobilo lietotni, pierakstieties un ievadiet kodu cilnē Pasūtījumi. Jūsu pirkums, plāns un testa atbildes pārvietojas jūsu lietotnes kontā. Šeit tīmeklī pierakstīšanās ar to pašu e pastu, ar kuru apmaksājāt, jau parāda visu iepriekš. Nekas cits nav jāievada.",
+  "shop": {
+   "eyebrow": "PDRN Brightening Serum",
+   "title": "Pievilcīgas veselības zinātne",
+   "body": "1 fl oz (30 ml). Samaziniet smalkās līnijas, dziļi mitriniet, atjaunojiet mirdzumu un stipriniet ādu. 2 līdz 4 sūkņa spiedieni no rīta un vakarā.",
+   "subscribeLine": "Abonēt, $39 mēnesī.",
+   "subscribeRest": " Svaiga pudele katru mēnesi, automātiski.",
+   "oneTimeLine": "Vienreizējs pirkums, $49.",
+   "oneTimeRest": " Viena pudele.",
+   "subscribeBtn": "Abonēt, $39 mēnesī",
+   "buyOnceBtn": "Pirkt vienreiz, $49",
+   "stripeNote": "Droša apmaksa ar Stripe. Jūs apstiprināsiet maksājumu Stripe lapā."
+  },
+  "labTab": {
+   "eyebrow": "Laboratorija",
+   "title": "Ziniet savus skaitļus.",
+   "sub": "Reāli asins paneļi, pasūtīti ar jūsu Tava kontu. Pārlūkojiet paneļus, skatiet katru marķieri pirms pasūtīšanas un saņemiet savus rezultātus tieši šeit."
+  },
+  "support": {
+   "eyebrow": "Atbalsts",
+   "title": "Mēs esam šeit, lai palīdzētu",
+   "segments": [
+    {
+     "text": "Rakstiet uz "
+    },
+    {
+     "text": "talia@tavalabs.app",
+     "href": "mailto:talia@tavalabs.app"
+    },
+    {
+     "text": " vai zvaniet "
+    },
+    {
+     "text": "909-906-1308",
+     "href": "tel:+19099061308"
+    },
+    {
+     "text": "."
+    }
+   ],
+   "links": {
+    "general": "Vispārīgi jautājumi",
+    "productSupport": "Produktu atbalsts",
+    "salesSupport": "Pasūtījumu un pārdošanas atbalsts",
+    "faqs": "Bieži uzdotie jautājumi",
+    "shipping": "Piegādes politika",
+    "returns": "Atgriešanas politika"
+   }
+  }
+ },
+ "lab": {
+  "ordersLabel": "Klīniskais pārskats",
+  "ordersTitle": "Jūsu laboratorijas pasūtījumi",
+  "loadingOrders": "Ielādē jūsu pasūtījumus…",
+  "ordersEmpty": "Šeit vēl nekā nav. Kad jūs pabeidzat paneli, katrs marķieris nonāk šeit ar savu vērtību, savu veselīgo diapazonu un to, kā tas mainās laika gaitā. Pasūtiet savu pirmo paneli zemāk, un šī vieta piepildīsies.",
+  "viewResults": "Skatīt rezultātus",
+  "howLabel": "Kā darbojas laboratorijas",
+  "howTitle": "Četri soļi, viena nodošana",
+  "steps": [
+   {
+    "title": "Izvēlēties paneli",
+    "body": "Izvēlieties paneli, kas atbilst tam, ko vēlaties zināt. Katrs tajā esošais marķieris ir uzskaitīts pirms pasūtīšanas."
+   },
+   {
+    "title": "Ārsta pārskats",
+    "body": "Licencēts ārsts pārskata un apstiprina katru pasūtījumu, tāpēc atsevišķa ārsta vizīte nav vajadzīga."
+   },
+   {
+    "title": "Ierodieties uz nodošanu",
+    "body": "Viena ātra asins nodošana savākšanas vietā netālu no jums. Lielākā daļa vizīšu aizņem apmēram piecpadsmit minūtes."
+   },
+   {
+    "title": "Rezultāti nonāk šeit",
+    "body": "Rezultāti tiek piegādāti digitāli šajā cilnē dažu dienu laikā, ar katru marķieri un tā diapazonu."
+   }
+  ],
+  "panelsLabel": "Paneļi",
+  "panelsTitle": "Četrpadsmit paneļi, veidoti ap to, ko jūs izsekojat",
+  "panelsSub": "Katrs panelis rāda savu cenu. Pasūtīšana atveras, tiklīdz apmaksa ir ieslēgta, un licencēts ārsts pārskata katru pasūtījumu, pirms jūsu rezultāti tiek piegādāti tieši šeit. Paneļus nevar pasūtīt adresēm Ņujorkā, Ņūdžersijā vai Rodailendā.",
+  "markersSuffix": "{n} marķieri",
+  "resultsInDays": "Rezultāti dažu dienu laikā",
+  "hideMarkers": "Slēpt marķierus",
+  "seeMarkers": "Skatīt marķierus",
+  "markersAria": "Marķieri panelī {name}",
+  "disclaimer": "Laboratorijas ieskati ir informācija par jūsu paša veselību un nav diagnoze. Runājiet ar savu ārstu par jebkuru rezultātu, kas jūs uztrauc, un ārkārtas gadījumā zvaniet 911.",
+  "panelsById": {
+   "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
+    "name": "Sportiskā snieguma panelis",
+    "description": "Treniņu gatavība un atjaunošanās: asins aina, metaboliskais panelis, dzelzs krājumi, D vitamīns, testosterons, iekaisums un muskuļu enzīmi.",
+    "collection": "Asins nodošana bez pieraksta"
+   },
+   "38c76039-05dc-4cd3-8475-7a675989fbf2": {
+    "name": "Pamata labsajūtas panelis",
+    "description": "Vesela ķermeņa sākuma punkts: asins aina, metaboliskā veselība, holesterīns, cukurs asinīs, D vitamīns un vairogdziedzeris.",
+    "collection": "Asins nodošana bez pieraksta"
+   },
+   "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
+    "name": "Enerģijas un noguruma panelis",
+    "description": "Parastie aizdomīgie zemas enerģijas iemesli: dzelzs krājumi un transports, B12, folāts, D vitamīns, vairogdziedzeris un asins aina.",
+    "collection": "Asins nodošana bez pieraksta"
+   },
+   "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
+    "name": "Sieviešu pamata panelis",
+    "description": "Mērķtiecīgs panelis ar 14 marķieriem, pilnībā uzskaitīts zemāk.",
+    "collection": "Asins nodošana bez pieraksta"
+   },
+   "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
+    "name": "GLP1 panelis",
+    "description": "Mērķtiecīgs panelis ar 10 marķieriem, pilnībā uzskaitīts zemāk.",
+    "collection": "Asins nodošana bez pieraksta"
+   },
+   "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
+    "name": "Sirds veselības panelis",
+    "description": "Kardiovaskulārais risks ārpus pamata holesterīna: lipīdi, ApoB, Lp(a), hs-CRP un homocisteīns.",
+    "collection": "Asins nodošana bez pieraksta"
+   },
+   "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
+    "name": "Ilgmūžības panelis",
+    "description": "Visaptveroša ikgadēja padziļināta izpēte metaboliskās, kardiovaskulārās, iekaisuma un hormonālās veselības marķieros.",
+    "collection": "Asins nodošana bez pieraksta"
+   },
+   "b909fb21-b264-483c-a915-4ce87713cfa9": {
+    "name": "Vīriešu pamata tests",
+    "description": "Mērķtiecīgs panelis ar 12 marķieriem, pilnībā uzskaitīts zemāk.",
+    "collection": "Asins nodošana bez pieraksta"
+   },
+   "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
+    "name": "Vīriešu TRT panelis",
+    "description": "Mērķtiecīgs panelis ar 16 marķieriem, pilnībā uzskaitīts zemāk.",
+    "collection": "Asins nodošana bez pieraksta"
+   },
+   "abfabb68-c777-4457-87c2-46bf5fe26d81": {
+    "name": "Vīriešu hormonu panelis",
+    "description": "Vīriešu hormonu statuss: kopējais testosterons, SHBG, estradiols, LH un FSH.",
+    "collection": "Asins nodošana bez pieraksta"
+   },
+   "f12fe316-367a-4c53-9735-8c0129c45506": {
+    "name": "Metaboliskās veselības panelis",
+    "description": "Cukura asinīs kontrole un metaboliskais risks: A1c, insulīns tukšā dūšā, holesterīns un pilns metaboliskais panelis.",
+    "collection": "Asins nodošana bez pieraksta"
+   },
+   "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
+    "name": "Stresa un atjaunošanās panelis",
+    "description": "Stresa slodze un atjaunošanās spēja: kortizols, DHEA-S, vairogdziedzeris un iekaisums.",
+    "collection": "Asins nodošana bez pieraksta"
+   },
+   "1760616d-44d3-4654-817d-440a969e5cdf": {
+    "name": "Pilns vairogdziedzera panelis",
+    "description": "Pilna vairogdziedzera izmeklēšana: TSH, brīvais T4, brīvais T3 un TPO antivielas.",
+    "collection": "Asins nodošana bez pieraksta"
+   },
+   "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
+    "name": "Sieviešu hormonu panelis",
+    "description": "Sieviešu hormonu statuss: estradiols, progesterons, FSH, LH, DHEA-S un testosterons.",
+    "collection": "Asins nodošana bez pieraksta"
+   }
+  },
+  "detail": {
+   "backToAccount": "Atpakaļ uz jūsu kontu",
+   "notFoundTitle": "Šis laboratorijas pasūtījums netika atrasts",
+   "notFoundBody": "Iespējams, tas pieder citam e pastam. Pierakstieties ar e pastu, ar kuru pasūtījāt, un mēģiniet vēlreiz.",
+   "clinicalReview": "KLĪNISKAIS PĀRSKATS",
+   "loadingResults": "Ielādē jūsu rezultātus…",
+   "yourPanel": "Jūsu panelis",
+   "markerFallback": "Marķieris",
+   "headlines": {
+    "loading": "Ielādē jūsu rezultātus",
+    "pending": "Jūsu rezultāti ir ceļā",
+    "allIn": "Visi jūsu rezultāti ir klāt.",
+    "in": "Jūsu rezultāti ir klāt."
+   },
+   "sublines": {
+    "loading": "Mirklīti, kamēr laboratorijas ziņojums ielādējas.",
+    "pending": "Tiklīdz laboratorija ziņos, šī lapa piepildīsies ar katru marķieri, tā vērtību un tā veselīgo diapazonu.",
+    "allIn": "Katrs marķieris ir diapazonā. Šeit ir pilnais attēls.",
+    "oneAttention": "Vienam marķierim nepieciešama tuvāka apskate. Iedziļināsimies.",
+    "manyAttention": "{n} marķieriem nepieciešama tuvāka apskate. Iedziļināsimies."
+   },
+   "orderedPrefix": "Pasūtīts",
+   "statusPrefix": "Statuss:",
+   "notInYetTitle": "Rezultāti vēl nav klāt",
+   "notInYetBody": "Lielākā daļa paneļu ziņo dažu dienu laikā pēc jūsu nodošanas. Kad jūsu rezultāti nonāks, šī lapa parādīs pilnu līdzsvara skatu ar katru marķieri un tā diapazonu.",
+   "markerBalance": "Jūsu marķieru līdzsvars",
+   "biomarkers": "BIOMARĶIERI",
+   "analyzedSuffix": "{pct}% analizēti",
+   "statusNames": {
+    "optimal": "Optimāls",
+    "inRange": "Diapazonā",
+    "attention": "Nepieciešama uzmanība"
+   },
+   "statusLabels": {
+    "optimal": "OPTIMĀLS",
+    "inRange": "DIAPAZONĀ",
+    "attention": "ATZĪMĒTS"
+   },
+   "basePrefix": "Bāze: {name}",
+   "updatedPrefix": "Atjaunināts {date}",
+   "updatedRecently": "Nesen atjaunināts",
+   "triageTitle": "Statusa šķirošana",
+   "tapToFilter": "Pieskarieties, lai filtrētu",
+   "triageSubs": {
+    "optimal": "Tieši tur, kur jūs tos vēlaties",
+    "inRange": "Veselīgā diapazona iekšpusē",
+    "attention": "Ir vērts parunāt ar savu ārstu"
+   },
+   "allFilter": "Visi ({n})",
+   "rangePrefix": "Diapazons {range}",
+   "disclaimer": "Laboratorijas rezultāti ir informācija par jūsu paša veselību un nav diagnoze. Runājiet ar savu ārstu par jebkuru rezultātu, kas jūs uztrauc, un ārkārtas gadījumā zvaniet 911."
+  }
+ },
+ "login": {
+  "brandHeadLead": "Laipni lūdzam",
+  "brandHeadAccent": "atpakaļ.",
+  "brandCopy": "Jūsu plāns, jūsu pasūtījumi un jūsu rutīna. Viens e pasts savieno lietotni un tīmekli kopā.",
+  "label": "Jūsu Tava konts",
+  "title": "Pierakstīties",
+  "intro": "Pierakstieties ar e pastu, kuru izmantojāt apmaksas laikā vai Tava mobilajā lietotnē. Jūsu plāns, pasūtījumi un rutīna ir saistīti ar šo e pastu, tāpēc viss šeit atbilst lietotnei. Parole nav vajadzīga. Mēs jums nosūtām pierakstīšanās saiti, un pieskaršanās tai ieved jūs jūsu kontā.",
+  "emailLabel": "E pasta adrese",
+  "invalidEmail": "Ievadiet derīgu e pasta adresi.",
+  "sendFailed": "Mēs nevarējām nosūtīt šo e pastu. Pārbaudiet adresi un mēģiniet vēlreiz.",
+  "sending": "Sūta…",
+  "sendButton": "Nosūtīt man pierakstīšanās saiti",
+  "sentNotice": "Pierakstīšanās saite nosūtīta uz {email}. Tās nonākšana var aizņemt minūti. Pārbaudiet savu surogātpasta mapi, ja jūs to neredzat.",
+  "sentBody": "Atveriet šo e pastu šajā ierīcē un pieskarieties saitei iekšpusē. Jūs nonāksiet savā kontā, jau pierakstījies. Saite darbojas vienu reizi un beidzas, tāpēc izmantojiet to drīz.",
+  "resend": "Nosūtīt e pastu vēlreiz",
+  "differentEmail": "Lietot citu e pastu",
+  "footNote": "Pirmo reizi šeit? Tā pati saite izveido jūsu kontu. Izmantojiet e pastu no sava pasūtījuma, un viss jau jūs gaida.",
+  "claimLabel": "Pirkāt tīmeklī, lietojat lietotni?",
+  "claimTitle": "Izmantojiet savu pieprasījuma kodu lietotnē",
+  "claimBody1": "Kad jūs pirkāt ar testa vai šīs vietnes starpniecību, jūsu pirkuma apstiprinājuma e pasts (un lapa tūlīt pēc apmaksas) parādīja pieprasījuma kodu. Atveriet Tava mobilo lietotni, pierakstieties un ievadiet šo kodu cilnē Pasūtījumi. Jūsu pirkums, plāns un testa atbildes pārvietojas jūsu lietotnes kontā, bez otrā pirkuma.",
+  "claimBody2": "Tīmeklī tas ir vēl vienkāršāk. Pierakstieties iepriekš ar to pašu e pastu, ar kuru apmaksājāt, un jūsu pasūtījumi un plāns jau ir šeit.",
+  "faqButton": "Jautājumi? Skatiet bieži uzdotos jautājumus"
+ },
+ "checkout": {
+  "title": "Apmaksa",
+  "closeAria": "Aizvērt apmaksu",
+  "planOneTime": "PDRN Brightening Serum · $49 · Vienreizējs pirkums",
+  "planSubscribe": "PDRN Brightening Serum · $39 mēnesī · Subscribe & Save 20%",
+  "email": "E pasts",
+  "firstName": "Vārds",
+  "lastName": "Uzvārds",
+  "streetAddress": "Ielas adrese",
+  "addressLine2": "Adreses 2. rinda (pēc izvēles)",
+  "city": "Pilsēta",
+  "state": "Štats",
+  "zip": "ZIP",
+  "country": "Valsts",
+  "phoneOptional": "Tālrunis (pēc izvēles)",
+  "missingIntro": "Gandrīz gatavs. Pievienojiet savu {fields}.",
+  "missingNames": {
+   "email": "derīgu e pastu",
+   "firstName": "vārdu",
+   "lastName": "uzvārdu",
+   "address1": "ielas adresi",
+   "city": "pilsētu",
+   "state": "štatu",
+   "zip": "ZIP kodu"
+  },
+  "creating": "Izveido jūsu apmaksu…",
+  "taking": "Ved jūs uz drošu apmaksu…",
+  "continueBtn": "Turpināt uz maksājumu",
+  "startError": "Apmaksa nevarēja sākties. Pārbaudiet savus datus un mēģiniet vēlreiz. Nekas netika iekasēts.",
+  "stripeNote": "Droša apmaksa ar Stripe. Jūs apstiprināsiet maksājumu Stripe lapā. Vēl nekas nav iekasēts."
+ },
+ "legal": {
+  "governsNote": "Šī lapa ir angļu oriģināla tulkojums. Ja formulējums kādreiz atšķiras, noteicošā ir angļu versija."
+ }
+}

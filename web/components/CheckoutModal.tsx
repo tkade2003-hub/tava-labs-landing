@@ -4,6 +4,8 @@ import { useState } from "react";
 import { X } from "lucide-react";
 import { FUNNEL_INTAKE_URL } from "@/lib/supabase";
 import { Button } from "@/components/ui/button";
+import { EN_DICT, type Dict } from "@/lib/i18n/dictionaries";
+import { fmt } from "@/lib/i18n/config";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 
@@ -14,10 +16,7 @@ import { Label } from "@/components/ui/label";
 // Stripe URL.
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { one_time: 49, subscribe: 39 } as const;
-const PLAN_LINES = {
-  one_time: "PDRN Brightening Serum · $49 · One time purchase",
-  subscribe: "PDRN Brightening Serum · $39 per month · Subscribe & Save 20%",
-} as const;
+
 
 export type BuyType = keyof typeof PRICES;
 
@@ -25,11 +24,15 @@ export function CheckoutModal({
   buyType,
   initialEmail,
   onClose,
+  dict = EN_DICT,
 }: {
   buyType: BuyType;
   initialEmail: string;
   onClose: () => void;
+  dict?: Dict;
 }) {
+  const t = dict.checkout;
+  const PLAN_LINES = { one_time: t.planOneTime, subscribe: t.planSubscribe };
   const [fields, setFields] = useState({
     email: initialEmail,
     first: "",
@@ -44,7 +47,7 @@ export function CheckoutModal({
   });
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
-  const [submitLabel, setSubmitLabel] = useState("Continue to Payment");
+  const [submitLabel, setSubmitLabel] = useState(t.continueBtn);
 
   const set = (k: keyof typeof fields) => (e: React.ChangeEvent<HTMLInputElement>) =>
     setFields((f) => ({ ...f, [k]: e.target.value }));
@@ -65,20 +68,20 @@ export function CheckoutModal({
     };
     const email = v(fields.email);
     const missing: string[] = [];
-    if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) missing.push("a valid email");
-    if (!shippingAddress.firstName) missing.push("first name");
-    if (!shippingAddress.lastName) missing.push("last name");
-    if (!shippingAddress.address1) missing.push("street address");
-    if (!shippingAddress.city) missing.push("city");
-    if (!shippingAddress.stateCode) missing.push("state");
-    if (!shippingAddress.zip) missing.push("ZIP code");
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) missing.push(t.missingNames.email);
+    if (!shippingAddress.firstName) missing.push(t.missingNames.firstName);
+    if (!shippingAddress.lastName) missing.push(t.missingNames.lastName);
+    if (!shippingAddress.address1) missing.push(t.missingNames.address1);
+    if (!shippingAddress.city) missing.push(t.missingNames.city);
+    if (!shippingAddress.stateCode) missing.push(t.missingNames.state);
+    if (!shippingAddress.zip) missing.push(t.missingNames.zip);
     if (missing.length) {
-      setError(`Almost there. Add your ${missing.join(", ")}.`);
+      setError(fmt(t.missingIntro, { fields: missing.join(", ") }));
       return;
     }
     setError("");
     setBusy(true);
-    setSubmitLabel("Creating your checkout…");
+    setSubmitLabel(t.creating);
 
     const payload = {
       email,
@@ -115,15 +118,15 @@ export function CheckoutModal({
       });
       const data = await res.json().catch(() => null);
       if (res.ok && data?.checkoutUrl) {
-        setSubmitLabel("Taking you to secure checkout…");
+        setSubmitLabel(t.taking);
         window.location.href = data.checkoutUrl;
         return;
       }
       throw new Error("no checkout url");
     } catch {
-      setError("Checkout could not start. Check your details and try again. Nothing was charged.");
+      setError(t.startError);
       setBusy(false);
-      setSubmitLabel("Continue to Payment");
+      setSubmitLabel(t.continueBtn);
     }
   }
 
@@ -146,18 +149,18 @@ export function CheckoutModal({
         <button
           className="absolute top-3 right-3.5 inline-flex size-9 items-center justify-center rounded-full text-ink transition-colors hover:bg-linen"
           type="button"
-          aria-label="Close checkout"
+          aria-label={t.closeAria}
           onClick={onClose}
         >
           <X className="size-5" />
         </button>
         <h3 id="coTitle" className="font-display text-2xl font-semibold text-forest-deep">
-          Checkout
+          {t.title}
         </h3>
         <p className="mt-1 mb-3.5 text-sm text-muted-foreground">{PLAN_LINES[buyType]}</p>
         <form onSubmit={submit} noValidate>
           <Label className={fieldLabel}>
-            Email
+            {t.email}
             <Input
               className={fieldInput}
               type="email"
@@ -170,7 +173,7 @@ export function CheckoutModal({
           </Label>
           <div className="mt-2.5 flex gap-2.5">
             <Label className={`${fieldLabel} flex-1`}>
-              First name
+              {t.firstName}
               <Input
                 className={fieldInput}
                 type="text"
@@ -181,7 +184,7 @@ export function CheckoutModal({
               />
             </Label>
             <Label className={`${fieldLabel} flex-1`}>
-              Last name
+              {t.lastName}
               <Input
                 className={fieldInput}
                 type="text"
@@ -193,7 +196,7 @@ export function CheckoutModal({
             </Label>
           </div>
           <Label className={`${fieldLabel} mt-2.5`}>
-            Street address
+            {t.streetAddress}
             <Input
               className={fieldInput}
               type="text"
@@ -204,7 +207,7 @@ export function CheckoutModal({
             />
           </Label>
           <Label className={`${fieldLabel} mt-2.5`}>
-            Address line 2 (optional)
+            {t.addressLine2}
             <Input
               className={fieldInput}
               type="text"
@@ -215,7 +218,7 @@ export function CheckoutModal({
           </Label>
           <div className="mt-2.5 flex gap-2.5">
             <Label className={`${fieldLabel} flex-1`}>
-              City
+              {t.city}
               <Input
                 className={fieldInput}
                 type="text"
@@ -226,7 +229,7 @@ export function CheckoutModal({
               />
             </Label>
             <Label className={`${fieldLabel} flex-1`}>
-              State
+              {t.state}
               <Input
                 className={fieldInput}
                 type="text"
@@ -239,7 +242,7 @@ export function CheckoutModal({
               />
             </Label>
             <Label className={`${fieldLabel} flex-1`}>
-              ZIP
+              {t.zip}
               <Input
                 className={fieldInput}
                 type="text"
@@ -252,7 +255,7 @@ export function CheckoutModal({
           </div>
           <div className="mt-2.5 flex gap-2.5">
             <Label className={`${fieldLabel} flex-1`}>
-              Country
+              {t.country}
               <Input
                 className={fieldInput}
                 type="text"
@@ -264,7 +267,7 @@ export function CheckoutModal({
               />
             </Label>
             <Label className={`${fieldLabel} flex-1`}>
-              Phone (optional)
+              {t.phoneOptional}
               <Input
                 className={fieldInput}
                 type="tel"
@@ -290,8 +293,7 @@ export function CheckoutModal({
             {submitLabel}
           </Button>
           <p className="mt-2.5 text-center text-xs text-muted-foreground">
-            Secure checkout by Stripe. You will confirm payment on Stripe&apos;s page. Nothing is
-            charged yet.
+            {t.stripeNote}
           </p>
         </form>
       </div>

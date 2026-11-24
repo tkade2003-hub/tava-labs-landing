@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Kopioitu ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Kopioi tämä:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Emme löytäneet kassaviitettäsi tältä sivulta. Lunastuskoodisi on myös vahvistussähköpostissasi. Säilytä se sähköposti ja käytä koodia, kun asennat sovelluksen."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Jo lunastettu sovellustilillesi. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Säilytä se ajankohtaan "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Kopioi lunastuskoodi"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Kopioi lunastuslinkki"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Tämä koodi yhdistää ostoksesi sovellustiliisi:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Tämä ostos on jo sovellustilillä, joten lunastettavaa koodia ei ole. Kirjaudu vain sovellukseen."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Vahvistetaan maksuasi. Lunastuskoodisi ilmestyy tänne muutamassa sekunnissa…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Maksusi on vahvistettu sähköpostilla. Lunastuskoodisi on myös siinä sähköpostissa. Säilytä se ja syötä se sovellukseen, kun asennat sen."
+  }
+ ]
+}

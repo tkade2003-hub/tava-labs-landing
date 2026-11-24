@@ -1,6 +1,9 @@
 import SiteShell from "./SiteShell";
 import RawHtml from "./RawHtml";
 import type { PageData } from "@/lib/pageData";
+import { rewriteHrefs } from "@/lib/i18n/rewriteHtml";
+import { getDictionary } from "@/lib/i18n/dictionaries";
+import type { Locale } from "@/lib/i18n/config";
 
 /**
  * Legal page in the new shell. The stored text stays byte verbatim; only
@@ -14,11 +17,21 @@ function stripChromePlaceholders(html: string): string {
     .replace(/<div data-component="footer"[^>]*><\/div>/g, "");
 }
 
-export default function LegalView({ data }: { data: PageData }) {
+export default function LegalView({
+  data,
+  locale = "en",
+}: {
+  data: PageData;
+  locale?: Locale;
+}) {
+  const dict = getDictionary(locale);
   return (
-    <SiteShell>
+    <SiteShell locale={locale}>
       <div className="tava-legal">
-        <RawHtml html={stripChromePlaceholders(data.contentHtml)} />
+        <RawHtml
+          html={rewriteHrefs(stripChromePlaceholders(data.contentHtml), locale)}
+        />
+        {locale !== "en" ? <p>{dict.legal.governsNote}</p> : null}
       </div>
     </SiteShell>
   );

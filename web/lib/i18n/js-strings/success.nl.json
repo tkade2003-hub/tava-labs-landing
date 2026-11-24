@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Gekopieerd ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Kopieer dit:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "We konden je afrekenreferentie op deze pagina niet vinden, je claimcode staat ook in je bevestigingsmail. Bewaar die mail en gebruik de code wanneer je de app installeert."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Al geclaimd in je appaccount. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Bewaar hem tot "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Kopieer claimcode"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Kopieer claimlink"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Deze code koppelt je aankoop aan je appaccount:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Deze aankoop woont al in een appaccount, dus er is geen code te claimen, log gewoon in de app in."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Je betaling bevestigen, je claimcode verschijnt hier over enkele seconden…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Je betaling is per e-mail bevestigd, je claimcode staat ook in die mail. Bewaar hem en voer hem in de app in wanneer je die installeert."
+  }
+ ]
+}

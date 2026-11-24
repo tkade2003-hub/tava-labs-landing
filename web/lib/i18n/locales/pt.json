@@ -1,0 +1,1939 @@
+{
+ "meta": {
+  "home": {
+   "title": "PDRN Brightening Serum para Empreendedores | Tava Labs",
+   "description": "Cuidados de pele para empreendedores. O PDRN Brightening Serum combina PDRN, péptidos e ácido hialurónico para uma pele radiante e hidratada. $49 numa compra única ou $39 por mês."
+  },
+  "product": {
+   "title": "PDRN Brightening Serum para Empreendedores | Tava Labs",
+   "description": "O PDRN Brightening Serum da Tava Labs combina PDRN, péptidos e hialuronato de sódio para uma pele radiante e hidratada num só passo diário, pensado para fundadores, operadores e criadores. $49 numa compra única ou $39 por mês."
+  },
+  "about": {
+   "title": "Sobre a Tava Labs | Cuidados de Pele para os Ambiciosos",
+   "description": "A Tava Labs cria cuidados de pele para os ambiciosos. Conheça a equipa por trás do PDRN Brightening Serum, a rotina diária feita para fundadores e profissionais."
+  },
+  "ingredients": {
+   "title": "Ingredientes do PDRN Brightening Serum | Tava Labs",
+   "description": "Cada ingrediente do PDRN Brightening Serum explicado, do PDRN e dos péptidos ao hialuronato de sódio e ao pantenol, mais a lista INCI completa e aquilo que deixamos de fora."
+  },
+  "faq": {
+   "title": "Perguntas Frequentes e Respostas sobre o PDRN Brightening Serum | Tava Labs",
+   "description": "Respostas sobre o PDRN Brightening Serum: preços, Subscribe and Save, prazos de envio, devoluções, o questionário da pele e como ligar a sua compra à aplicação Tava."
+  },
+  "contact": {
+   "title": "Contactar a Tava Labs | Apoio, Vendas e Parcerias",
+   "description": "Contacte a Tava Labs para apoio ao produto, ajuda com encomendas, vendas por grosso, parcerias e imprensa. Envie email para talia@tavalabs.app ou ligue 909-906-1308."
+  },
+  "partners": {
+   "title": "Seja Parceiro da Tava Labs | Sérum Grátis para o Seu Programa",
+   "description": "Aceleradoras, incubadoras, programas de negócios e investidores: ofereçam aos vossos fundadores um mês grátis do PDRN Brightening Serum. Seja parceiro da Tava Labs."
+  },
+  "research": {
+   "title": "Resultados da Investigação de 16 Semanas | Tava Labs",
+   "description": "Resultados medidos do programa de participantes de 16 semanas da Tava Labs. Alterações entre o início e a semana 16 nas lesões de acne, hidratação, vermelhidão, pigmentação e textura, com o protocolo completo do programa."
+  },
+  "blog": {
+   "title": "The Tava Journal | Pele, Sono e Stress para Fundadores",
+   "description": "Ciência do sono, investigação sobre o stress e saúde da pele para fundadores e profissionais, mais rotinas práticas para estar impecável no trabalho."
+  },
+  "quiz": {
+   "title": "Questionário da Pele | Crie o Seu Plano de Sérum Personalizado | Tava Labs",
+   "description": "Responda a algumas perguntas rápidas e crie o seu plano pessoal em torno do PDRN Brightening Serum. Um sérum, duas vezes por dia, ajustado à sua pele e aos seus objetivos."
+  },
+  "checkoutSuccess": {
+   "title": "Encomenda Confirmada | O Seu PDRN Brightening Serum | Tava Labs",
+   "description": "A sua encomenda do PDRN Brightening Serum da Tava Labs está confirmada. O seu código de ativação liga esta compra à aplicação, onde o seu plano, as suas respostas e a sua encomenda o acompanham."
+  },
+  "checkoutCancel": {
+   "title": "Pagamento Cancelado | Nenhum Valor Cobrado | Tava Labs",
+   "description": "Não foi cobrado qualquer valor. O seu plano e as suas respostas da Tava Labs estão guardados, para poder continuar exatamente onde ficou quando estiver pronto."
+  },
+  "login": {
+   "title": "Iniciar sessão | Tava Labs",
+   "description": "Inicie sessão na sua conta Tava Labs: o seu plano, encomendas, rotina e apoio, ligados ao mesmo email da aplicação móvel."
+  },
+  "account": {
+   "title": "A Sua Conta | Tava Labs",
+   "description": "A sua conta Tava Labs na web: o seu plano, encomendas, rotina e apoio, ligados ao mesmo email da aplicação móvel."
+  },
+  "terms": {
+   "title": "Termos e Condições | Tava Labs",
+   "description": "Os termos que regem a sua utilização de tavalabs.app e a sua compra do PDRN Brightening Serum à Tava Labs, LLC, incluindo a nossa política de vendas finais."
+  },
+  "privacy": {
+   "title": "Política de Privacidade | Tava Labs",
+   "description": "Como a Tava Labs recolhe, usa e protege a sua informação quando visita tavalabs.app, faz o questionário da pele ou encomenda o PDRN Brightening Serum."
+  },
+  "returns": {
+   "title": "Política de Devoluções e Reembolsos | Tava Labs",
+   "description": "A política de devoluções e reembolsos da Tava Labs para encomendas do PDRN Brightening Serum, incluindo os nossos termos de vendas finais e como contactar o apoio."
+  },
+  "cookies": {
+   "title": "Política de Cookies | Tava Labs",
+   "description": "Como o site da Tava Labs usa cookies e ferramentas semelhantes quando visita tavalabs.app, o que guardam e como os pode controlar."
+  },
+  "shipping": {
+   "title": "Política de Envio | Tava Labs",
+   "description": "A política de envio da Tava Labs para encomendas do PDRN Brightening Serum: prazos de processamento, estimativas de entrega, rastreio e zonas de entrega."
+  }
+ },
+ "chrome": {
+  "homeAria": "Página inicial da Tava Labs",
+  "primaryNavAria": "Principal",
+  "mobileNavAria": "Móvel",
+  "navSerum": "O Sérum",
+  "navAbout": "Sobre",
+  "navIngredients": "Ingredientes",
+  "navFaqs": "Perguntas Frequentes",
+  "navBlog": "Blog",
+  "navContact": "Contacto",
+  "login": "Iniciar sessão",
+  "addToRoutine": "Adicionar à rotina",
+  "openMenu": "Abrir menu",
+  "closeMenu": "Fechar menu",
+  "language": "Idioma",
+  "tagline": "The Science of Attractive Health",
+  "shopHeading": "Loja",
+  "contactHeading": "Contacte-nos",
+  "infoHeading": "Informação",
+  "legalHeading": "Legal",
+  "footerSerum": "PDRN Brightening Serum",
+  "footerIngredients": "Ingredientes",
+  "contactLinks": {
+   "general": "Geral",
+   "wholesale": "Vendas por grosso",
+   "salesSupport": "Apoio às Vendas",
+   "productSupport": "Apoio ao Produto",
+   "pr": "Relações Públicas"
+  },
+  "infoLinks": {
+   "about": "Sobre Nós",
+   "partners": "Parceiros",
+   "ingredients": "Ingredientes",
+   "faqs": "Perguntas Frequentes",
+   "blog": "Blog",
+   "research": "Investigação"
+  },
+  "newsletterHeading": "Mantenha-se a par de tudo o que é Tava",
+  "newsletter": {
+   "placeholder": "O seu email",
+   "subscribe": "Subscrever",
+   "sending": "A enviar...",
+   "done": "Já está dentro. Bem-vindo à lista do brilho.",
+   "error": "Algo correu mal, tente novamente."
+  },
+  "disclaimer1": "O PDRN Brightening Serum é um produto cosmético. Não se destina a diagnosticar, tratar, curar ou prevenir qualquer doença. Os resultados individuais podem variar.",
+  "disclaimer2": "Todas as vendas são finais. Consulte a nossa política de Devoluções antes de encomendar.",
+  "copyright": "© 2026 Tava Labs · The Science of Attractive Health",
+  "notFoundLabel": "Tava Labs",
+  "notFoundTitle": "Página não encontrada",
+  "notFoundBody": "Essa página não está aqui. Pode ter mudado de lugar ou o endereço pode estar incompleto.",
+  "notFoundHome": "Voltar à página inicial",
+  "notFoundShop": "Comprar o PDRN Brightening Serum",
+  "legalLinks": {
+   "terms": "Termos e Condições",
+   "privacy": "Política de Privacidade",
+   "returns": "Política de Devoluções",
+   "cookies": "Política de Cookies",
+   "shipping": "Política de Envio"
+  }
+ },
+ "hero": {
+  "ariaLabel": "PDRN Brightening Serum",
+  "pill": "Para quem está na linha da frente",
+  "line1": "Impecável antes",
+  "line2": "da primeira chamada.",
+  "sub": "Duas a quatro gotas de PDRN Brightening Serum, de manhã e à noite, para uma pele com aspeto luminoso, hidratado e suave, da primeira chamada à última.",
+  "cardAria": "PDRN Brightening Serum, a página do produto",
+  "onSetPill": "Em estúdio",
+  "onSetCaption": "Calma sob as luzes",
+  "onSetAlt": "Fundadora sentada num cenário de estúdio, de frente para a câmara",
+  "morningPill": "Ritual da manhã",
+  "morningCaption": "Ao espelho, logo de manhã",
+  "morningAlt": "Fundador a aplicar sérum ao espelho da casa de banho, à luz da manhã",
+  "widePill": "Dia e noite",
+  "wideHead": "Um frasco. Todos os dias.",
+  "priceLine": "$49 numa compra única ou $39 por mês",
+  "talia": {
+   "baseline": "Início",
+   "week16": "Semana 16",
+   "statBig": "63% menos",
+   "statCap": "Lesões de acne",
+   "statNote": "Alteração média no programa de participantes de 16 semanas",
+   "alt": "Talia Kade, investigadora na Tava Labs, com uma bata branca de laboratório",
+   "slopeAria": "Linha de tendência de 16.8 no início para 6.2 na semana 16"
+  }
+ },
+ "home": {
+  "introTitleLead": "Pele mais luminosa, hidratada,",
+  "introTitleAccent": "com aspeto saudável",
+  "introBody": "Os empreendedores vivem diante da câmara e dentro da sala. Apresenta investidores, fecha vendas em chamadas e grava o vídeo que vende o produto. O seu rosto faz parte da apresentação. O PDRN Brightening Serum é um passo leve e de absorção rápida, com PDRN, péptidos e ácido hialurónico. Ajuda a pele a parecer mais luminosa, profundamente hidratada e suave. Dois minutos, duas vezes por dia, e apresenta-se impecável, descansado e pronto.",
+  "marqueeTagline": "The Science of Attractive Health",
+  "marqueeSlogan": "Cuidados de pele para os ambiciosos",
+  "buildersTitle": "Feito para quem constrói",
+  "buildersTagline": "Construa o seu negócio. Não se descuide.",
+  "buildersBody": "Como empreendedor, está sempre a apresentar. Apresenta investidores pessoalmente, vende em videochamadas e grava conteúdo que tem de conquistar confiança em segundos. Parecer preparado e sereno não é vaidade. Faz parte da forma como apresenta o negócio. Uma rotina diária simples tem lugar no sistema de um fundador, ao lado de um bom guarda-roupa, de um portátil de qualidade e de um sistema em que pode confiar.",
+  "pitchAlt": "Fundador a apresentar a sua ideia a um investidor",
+  "pitchTitle": "Na apresentação",
+  "pitchBody": "Do outro lado da mesa de um investidor, a sala lê-o a si antes de ler a sua apresentação. Apareça com o aspeto de quem está por trás de uma empresa que vale a pena apoiar: descansado, impecável e pronto.",
+  "cameraAlt": "Fundador a falar diante de uma câmara",
+  "cameraTitle": "Diante da câmara",
+  "cameraBody": "Numa sessão, num podcast ou numa chamada de vendas, a lente mostra primeiro as noites mal dormidas. A confiança diante de uma câmara começa na forma como cuida de si antes de carregar em gravar.",
+  "maintenanceTitle": "A manutenção diária do empreendedor.",
+  "maintenanceBody": "Um sérum, de manhã e à noite. Pareça preparado. Sinta-se confiante. Apareça pronto.",
+  "motionTitle": "Tava em Movimento",
+  "motionBody": "Muitos criadores e empreendedores já nos adoram.",
+  "playVideo": "Reproduzir vídeo",
+  "videoPlayer": "Leitor de vídeo",
+  "closeVideo": "Fechar vídeo",
+  "freeFromTitleLead": "Ingredientes de qualidade, combinados",
+  "freeFromTitleAccent": "com cuidado.",
+  "freeFromSub": "Aquilo que deixamos de fora importa tanto como aquilo que colocamos.",
+  "freeFromItems": [
+   {
+    "name": "Sem Crueldade",
+    "blurb": "Nunca testado em animais."
+   },
+   {
+    "name": "Sem Fragrância",
+    "blurb": "Sem perfumes adicionados nem aromas sintéticos."
+   },
+   {
+    "name": "Sem Óleo Mineral",
+    "blurb": "Sem óleo mineral nem cargas derivadas do petróleo."
+   },
+   {
+    "name": "Sem Ftalatos",
+    "blurb": "Sem ftalatos na fórmula."
+   },
+   {
+    "name": "Sem Silicones",
+    "blurb": "Sem silicones a revestir a sua pele."
+   },
+   {
+    "name": "Sem Sulfatos",
+    "blurb": "Sem sulfatos agressivos. Suave para a pele."
+   },
+   {
+    "name": "Sem Alergénios",
+    "blurb": "Feito sem alergénios comuns."
+   },
+   {
+    "name": "Sem Álcool",
+    "blurb": "Sem álcoois que secam a pele."
+   }
+  ],
+  "founderLabel": "Uma Mensagem do Nosso Fundador",
+  "founderQuote": "“Uma pele saudável é a coisa mais atraente que pode vestir.”",
+  "founderBody1": "É essa a filosofia por trás da Tava Labs, The Science of Attractive Health. O PDRN Brightening Serum é o passo em torno do qual a rotina se constrói: dois minutos, duas vezes por dia, de manhã e à noite.",
+  "founderBody2": "Veja o filme para ouvir a ciência por trás dele, nas nossas próprias palavras.",
+  "founderPhilosophy": "A Filosofia Tava Labs",
+  "founderVideoAria": "O filme da Tava Labs, a ciência por trás do PDRN Brightening Serum",
+  "shopSerum": "Comprar o Sérum",
+  "journalTitle": "The Tava Journal",
+  "journalSub": "Sobre sono, stress e aparecer pronto.",
+  "readJournal": "Ler o Journal",
+  "readStory": "Ler a história"
+ },
+ "appTeaser": {
+  "label": "Em breve",
+  "lead": "A sua rotina, os seus laboratórios e as suas encomendas vão ter uma casa própria.",
+  "headlineLead": "Uma aplicação.",
+  "headlineTrail": "Todos os dias.",
+  "scroll": "Deslizar",
+  "caption": "A aplicação Tava Labs reúne o seu plano de sérum, a sua rotina diária, os seus painéis laboratoriais e resultados e as suas encomendas num só lugar, feita para iPhone.",
+  "features": [
+   {
+    "title": "Uma rotina diária",
+    "desc": "Sessões de manhã e à noite, marcadas passo a passo."
+   },
+   {
+    "title": "Sequências e progresso",
+    "desc": "A sua sequência e o que falta, visíveis num relance."
+   },
+   {
+    "title": "Painéis laboratoriais e resultados",
+    "desc": "Painéis, resultados e intervalos no seu bolso."
+   },
+   {
+    "title": "Encomendas e reposições",
+    "desc": "Encomendas e reposições sem ter de procurar."
+   }
+  ],
+  "phone": {
+   "today": "Hoje",
+   "goodMorning": "Bom dia",
+   "dayLine": "Dia 12 de 30 · Faltam 18 dias para o seu primeiro mês completo",
+   "stepsToGo": "Hoje: faltam 4 de 6 passos da rotina",
+   "morningRoutine": "Rotina da manhã",
+   "amDrops": "Manhã · 3 gotas",
+   "clinicalReview": "Revisão clínica",
+   "resultsIn": "Os seus resultados chegaram",
+   "optimal": "4 ótimos",
+   "inRange": "2 dentro do intervalo",
+   "toReview": "1 para rever",
+   "tabs": {
+    "today": "Hoje",
+    "shop": "Loja",
+    "lab": "Laboratório",
+    "orders": "Encomendas",
+    "profile": "Perfil"
+   },
+   "steps": [
+    {
+     "title": "Limpar",
+     "detail": "Produto de limpeza suave, secar com toques leves"
+    },
+    {
+     "title": "Aplicar 3 gotas de sérum",
+     "detail": "Pressionar no rosto e no pescoço"
+    },
+    {
+     "title": "Hidratar + FPS",
+     "detail": "FPS 30 ou superior"
+    }
+   ]
+  }
+ },
+ "categoryChrome": {
+  "readMore": "Ler mais +",
+  "showLess": "Mostrar menos −",
+  "prevProducts": "Produtos anteriores",
+  "nextProducts": "Produtos seguintes",
+  "goTo": "Ir para {title}",
+  "explore": "Explorar"
+ },
+ "categories": {
+  "skincare": {
+   "eyebrow": "CUIDADOS DE PELE",
+   "heroTitleLead": "A sua próxima reunião",
+   "heroTitleAccent": "começa consigo.",
+   "heroCopy": "Feito para empreendedores que apresentam, vendem e gravam diante da câmara. Um sérum diário, construído em torno do PDRN, para uma pele impecável e descansada na sala e na lente.",
+   "heroFinePrint": "Cuidados de pele cosméticos. Não se destina a diagnosticar, tratar, curar ou prevenir qualquer doença.",
+   "stamp": "CUIDADOS DE PELE PARA OS AMBICIOSOS",
+   "primaryCta": "Adicionar à rotina",
+   "secondaryCta": "Ver os ingredientes",
+   "optionsEyebrow": "A GAMA",
+   "optionsTitleLead": "Um sérum.",
+   "optionsTitleAccent": "Sem uma prateleira de dúvidas.",
+   "optionsCopy": "Comece pelo sérum. O resto da gama está a caminho.",
+   "products": [
+    {
+     "title": "PDRN Brightening Serum",
+     "subtitle": "PDRN, péptidos e hialuronato de sódio",
+     "unit": "compra única",
+     "imageAlt": "Frasco do PDRN Brightening Serum da Tava Labs",
+     "badges": [
+      "Mais vendido"
+     ],
+     "description": "O sérum diário para uma pele radiante, hidratada e com aspeto saudável. $39 por mês com Subscribe and Save.",
+     "linkLabel": "Ver o sérum"
+    },
+    {
+     "title": "Peptide Moisturizer",
+     "subtitle": "1.7 fl oz (50ml)",
+     "imageAlt": "Tubo branco do Peptide Moisturizer da Tava Labs com um salpico rosa",
+     "badges": [
+      "Em breve"
+     ],
+     "description": "Um hidratante com péptidos que atua sobre as rugas e hidrata, feito para uma pele que tem de parecer serena o dia inteiro."
+    },
+    {
+     "title": "Peptide Eye Cream",
+     "subtitle": "1 fl oz (30ml)",
+     "imageAlt": "Tubo branco do Peptide Eye Cream da Tava Labs com uma gota cor de champanhe",
+     "badges": [
+      "Em breve"
+     ],
+     "description": "Reduz o aspeto do inchaço dos olhos e atua sobre as rugas da zona dos olhos, para um olhar descansado diante da câmara."
+    },
+    {
+     "title": "Skin Firming Cream",
+     "subtitle": "2 oz (56g)",
+     "imageAlt": "Boião branco do Skin Firming Cream da Tava Labs com um fundo de onda dourada",
+     "badges": [
+      "Em breve"
+     ],
+     "description": "Ácido hialurónico e CoQ10 num creme rico que deixa a pele com aspeto firme e cuidada."
+    }
+   ],
+   "disclaimerLead": "Os produtos de cuidados de pele da Tava Labs são cosméticos. Não se destinam a diagnosticar, tratar, curar ou prevenir qualquer doença.",
+   "disclaimerMore": [
+    "Os resultados individuais variam. Use apenas conforme indicado: 2 a 4 gotas do PDRN Brightening Serum, duas vezes por dia, sobre a pele limpa.",
+    "Se ocorrer irritação, interrompa a utilização e consulte um profissional. Os preços nesta página estavam corretos à data da publicação e podem mudar."
+   ],
+   "protocolEyebrow": "A ROTINA",
+   "protocolTitleLead": "Dois minutos, duas vezes por dia.",
+   "protocolTitleAccent": "É essa a rotina inteira.",
+   "protocolCopy": "Uma rotina construída em torno de um sérum e de um horário de empreendedor, com chamadas cedo, noites tardias e tudo o resto.",
+   "protocolCta": "Adicionar à rotina",
+   "steps": [
+    {
+     "title": "Avaliar",
+     "lead": "com o questionário da pele",
+     "body": "Responda a algumas perguntas rápidas sobre a sua pele, o seu sono e o seu horário, para o seu plano partir de onde realmente está."
+    },
+    {
+     "title": "Aplicar",
+     "lead": "2 a 4 gotas, duas vezes por dia",
+     "body": "De manhã e à noite, sobre a pele limpa. Um sérum, um passo, sem uma rotina de dez passos para manter."
+    },
+    {
+     "title": "Acompanhar",
+     "lead": "o seu plano na aplicação",
+     "body": "A sua compra liga-se à aplicação Tava com um código de ativação, onde o seu plano, as suas encomendas e a sua rotina ficam num só lugar."
+    }
+   ],
+   "legalLines": [
+    "Apenas produtos cosméticos. Nada nesta página é aconselhamento médico."
+   ]
+  },
+  "biomarkers": {
+   "eyebrow": "BIOMARCADORES LABORATORIAIS",
+   "heroTitleLead": "Conheça os seus dados,",
+   "heroTitleAccent": "na Tava.",
+   "heroCopy": "Gere a sua empresa com números. Em breve poderá aplicar a mesma disciplina a si próprio: os seus biomarcadores chave, acompanhados ao longo do tempo, na aplicação Tava.",
+   "heroFinePrint": "Em breve na aplicação Tava. As informações servem apenas para fins informativos e não diagnosticam qualquer condição.",
+   "stamp": "OS SEUS DADOS NUM SÓ LUGAR",
+   "primaryCta": "Ver o que é acompanhado",
+   "secondaryCta": "Como vai funcionar",
+   "optionsEyebrow": "O QUE É ACOMPANHADO",
+   "optionsTitleLead": "Seis áreas.",
+   "optionsTitleAccent": "Um quadro claro.",
+   "optionsCopy": "As áreas de biomarcadores na Pré-visualização da aplicação Tava, em construção neste momento.",
+   "products": [
+    {
+     "title": "Cérebro",
+     "subtitle": "Foco e clareza",
+     "badges": [
+      "Em breve"
+     ],
+     "description": "Os marcadores por trás do foco, da clareza e do ritmo cognitivo, reunidos numa só vista."
+    },
+    {
+     "title": "Hormonas",
+     "subtitle": "Equilíbrio",
+     "badges": [
+      "Em breve"
+     ],
+     "description": "O seu quadro hormonal ao longo do tempo, para que as alterações sejam visíveis em vez de adivinhadas."
+    },
+    {
+     "title": "Coração",
+     "subtitle": "Marcadores cardiovasculares",
+     "badges": [
+      "Em breve"
+     ],
+     "description": "Os marcadores cardíacos que importam, acompanhados como uma tendência e não como uma leitura isolada."
+    },
+    {
+     "title": "Metabolismo",
+     "subtitle": "Energia e queima",
+     "badges": [
+      "Em breve"
+     ],
+     "description": "Como o seu corpo usa a energia, em números que consegue realmente seguir."
+    },
+    {
+     "title": "Intestino",
+     "subtitle": "Saúde digestiva",
+     "badges": [
+      "Em breve"
+     ],
+     "description": "Sinais de saúde intestinal que se ligam à energia, ao humor e à recuperação."
+    },
+    {
+     "title": "Longevidade",
+     "subtitle": "Idade biológica",
+     "badges": [
+      "Em breve"
+     ],
+     "description": "A visão de longo prazo: como os seus marcadores se somam num quadro de idade biológica."
+    }
+   ],
+   "disclaimerLead": "As informações sobre biomarcadores na aplicação Tava servem apenas para fins informativos. Não diagnosticam, tratam nem previnem qualquer condição.",
+   "disclaimerMore": [
+    "Fale com o seu próprio prestador de cuidados sobre qualquer resultado que o preocupe. Numa emergência, ligue 911."
+   ],
+   "protocolEyebrow": "COMO VAI FUNCIONAR",
+   "protocolTitleLead": "Testar, rever,",
+   "protocolTitleAccent": "acompanhar a tendência.",
+   "protocolCopy": "Um painel para a pessoa que gere o negócio, ao lado do seu plano de sérum na mesma aplicação.",
+   "steps": [
+    {
+     "title": "Testar",
+     "lead": "através de um parceiro laboratorial",
+     "body": "A sua amostra é recolhida e processada, e os resultados chegam à sua aplicação Tava."
+    },
+    {
+     "title": "Rever",
+     "lead": "área a área",
+     "body": "Cérebro, hormonas, coração, metabolismo, intestino e longevidade, cada um com a sua própria vista."
+    },
+    {
+     "title": "Acompanhar",
+     "lead": "a tendência ao longo do tempo",
+     "body": "Uma leitura é um retrato instantâneo. O valor está na tendência, e a aplicação guarda-a por si."
+    }
+   ],
+   "legalLines": [
+    "O acompanhamento de biomarcadores laboratoriais chega em breve e ainda não está aberto a encomendas."
+   ]
+  },
+  "mentalHealth": {
+   "eyebrow": "SAÚDE MENTAL",
+   "heroTitleLead": "Concentre-se melhor,",
+   "heroTitleAccent": "na Tava.",
+   "heroCopy": "Apoio para o foco e a atenção que começa com uma revisão clínica, e não com um botão de pagamento.",
+   "heroFinePrint": "Após revisão clínica. Este programa está em desenvolvimento e ainda não está aberto a inscrições.",
+   "stamp": "CUIDADOS COM REVISÃO CLÍNICA",
+   "primaryCta": "Ver como funciona",
+   "optionsEyebrow": "O PROGRAMA",
+   "optionsTitleLead": "Cuidados que começam",
+   "optionsTitleAccent": "com uma revisão.",
+   "optionsCopy": "",
+   "products": [],
+   "disclaimerLead": "O apoio à saúde mental na Tava começa com uma revisão clínica. Nada aqui é um diagnóstico nem uma recomendação de tratamento.",
+   "disclaimerMore": [
+    "Se estiver em crise ou a pensar em magoar-se, ligue ou envie mensagem para o 988 nos Estados Unidos. Numa emergência, ligue 911."
+   ],
+   "protocolEyebrow": "COMO FUNCIONA",
+   "protocolTitleLead": "Primeiro a revisão.",
+   "protocolTitleAccent": "Depois um plano.",
+   "protocolCopy": "Um caminho cuidadoso, transparente, ao seu ritmo.",
+   "steps": [
+    {
+     "title": "Revisão",
+     "lead": "com um clínico",
+     "body": "Partilhe o seu historial e aquilo com que está a lidar, e um clínico revê se o apoio aqui é adequado para si."
+    },
+    {
+     "title": "Plano",
+     "lead": "construído à sua volta",
+     "body": "Se for adequado, o seu plano é construído em torno dos seus objetivos e do seu horário."
+    },
+    {
+     "title": "Apoio",
+     "lead": "ao longo do caminho",
+     "body": "Os acompanhamentos mantêm o plano honesto à medida que as coisas mudam."
+    }
+   ],
+   "legalLines": [
+    "As ofertas de saúde mental na Tava estão em desenvolvimento e ainda não estão abertas a inscrições."
+   ]
+  },
+  "peptides": {
+   "eyebrow": "PROGRAMAS DE PÉPTIDOS",
+   "heroTitleLead": "Péptidos,",
+   "heroTitleAccent": "com um prestador ao seu lado.",
+   "heroCopy": "Treze programas de péptidos da Tava Labs, cada um a começar com uma consulta online e uma revisão por um prestador.",
+   "heroFinePrint": "É necessária receita médica. Um prestador licenciado decide a elegibilidade após a consulta.",
+   "stamp": "PROGRAMAS ORIENTADOS POR PRESTADORES",
+   "primaryCta": "Iniciar uma consulta",
+   "secondaryCta": "Como funciona",
+   "optionsEyebrow": "OS PROGRAMAS",
+   "optionsTitleLead": "Treze programas.",
+   "optionsTitleAccent": "Uma consulta inicia qualquer um deles.",
+   "optionsCopy": "Cada programa inclui uma consulta de $20. A maioria inclui análises laboratoriais. Os preços são os preços mensais dos programas.",
+   "unitPerMonth": "/mês",
+   "products": [
+    {
+     "subtitle": "Recuperação",
+     "imageAlt": "Arte do frasco do programa BPC-157",
+     "badges": [
+      "Recuperação",
+      "Saúde Intestinal",
+      "Análises laboratoriais incluídas"
+     ],
+     "description": "BPC-157 da Tava Labs. A revisão e o acompanhamento pelo prestador fazem parte do programa.",
+     "linkLabel": "Ver programa"
+    },
+    {
+     "subtitle": "Saúde Intestinal",
+     "imageAlt": "Arte do frasco do programa CJC-1295 + Ipamorelin",
+     "badges": [
+      "Saúde Intestinal",
+      "Sono",
+      "Recuperação",
+      "Longevidade",
+      "Análises laboratoriais incluídas"
+     ],
+     "description": "CJC-1295 + Ipamorelin da Tava Labs. A revisão e o acompanhamento pelo prestador fazem parte do programa.",
+     "linkLabel": "Ver programa"
+    },
+    {
+     "subtitle": "Longevidade",
+     "imageAlt": "Arte do frasco do programa GHK-Cu",
+     "badges": [
+      "Longevidade",
+      "Análises laboratoriais incluídas"
+     ],
+     "description": "GHK-Cu da Tava Labs. A revisão e o acompanhamento pelo prestador fazem parte do programa.",
+     "linkLabel": "Ver programa"
+    },
+    {
+     "subtitle": "Recuperação",
+     "imageAlt": "Arte do frasco do programa GLOW Injection",
+     "badges": [
+      "Recuperação",
+      "Análises laboratoriais incluídas"
+     ],
+     "description": "GLOW Injection da Tava Labs. A revisão e o acompanhamento pelo prestador fazem parte do programa.",
+     "linkLabel": "Ver programa"
+    },
+    {
+     "subtitle": "Perda de Peso",
+     "imageAlt": "Arte do frasco do programa MOTS-C",
+     "badges": [
+      "Perda de Peso",
+      "Energia",
+      "Desempenho",
+      "Análises laboratoriais incluídas"
+     ],
+     "description": "MOTS-C da Tava Labs. A revisão e o acompanhamento pelo prestador fazem parte do programa.",
+     "linkLabel": "Ver programa"
+    },
+    {
+     "subtitle": "Longevidade",
+     "imageAlt": "Arte do frasco do programa NAD+ Injectable",
+     "badges": [
+      "Longevidade",
+      "Energia",
+      "Recuperação",
+      "Foco"
+     ],
+     "description": "NAD+ Injectable da Tava Labs. A revisão e o acompanhamento pelo prestador fazem parte do programa.",
+     "linkLabel": "Ver programa"
+    },
+    {
+     "subtitle": "Saúde Sexual",
+     "imageAlt": "Arte do frasco do programa PT-141",
+     "badges": [
+      "Saúde Sexual",
+      "Análises laboratoriais incluídas"
+     ],
+     "description": "PT-141 da Tava Labs. A revisão e o acompanhamento pelo prestador fazem parte do programa.",
+     "linkLabel": "Ver programa"
+    },
+    {
+     "subtitle": "Perda de Peso",
+     "imageAlt": "Arte do frasco do programa Semaglutide + B12 (Cyanocobalamin)",
+     "badges": [
+      "Perda de Peso",
+      "Análises laboratoriais incluídas"
+     ],
+     "description": "Semaglutide + B12 (Cyanocobalamin) da Tava Labs. A revisão e o acompanhamento pelo prestador fazem parte do programa.",
+     "linkLabel": "Ver programa"
+    },
+    {
+     "subtitle": "Longevidade",
+     "imageAlt": "Arte do frasco do programa Sermorelin",
+     "badges": [
+      "Longevidade",
+      "Recuperação",
+      "Desempenho",
+      "Análises laboratoriais incluídas"
+     ],
+     "description": "Sermorelin da Tava Labs. A revisão e o acompanhamento pelo prestador fazem parte do programa.",
+     "linkLabel": "Ver programa"
+    },
+    {
+     "subtitle": "Desempenho",
+     "imageAlt": "Arte do frasco do programa TB-500",
+     "badges": [
+      "Desempenho",
+      "Recuperação",
+      "Análises laboratoriais incluídas"
+     ],
+     "description": "TB-500 da Tava Labs. A revisão e o acompanhamento pelo prestador fazem parte do programa.",
+     "linkLabel": "Ver programa"
+    },
+    {
+     "subtitle": "Longevidade",
+     "imageAlt": "Arte do frasco do programa Tesamorelin",
+     "badges": [
+      "Longevidade",
+      "Recuperação",
+      "Desempenho",
+      "Análises laboratoriais incluídas"
+     ],
+     "description": "Tesamorelin da Tava Labs. A revisão e o acompanhamento pelo prestador fazem parte do programa.",
+     "linkLabel": "Ver programa"
+    },
+    {
+     "subtitle": "Perda de Peso",
+     "imageAlt": "Arte do frasco do programa Tirzepatide + B12 (Cyanocobalamin)",
+     "badges": [
+      "Perda de Peso",
+      "Análises laboratoriais incluídas"
+     ],
+     "description": "Tirzepatide + B12 (Cyanocobalamin) da Tava Labs. A revisão e o acompanhamento pelo prestador fazem parte do programa.",
+     "linkLabel": "Ver programa"
+    },
+    {
+     "subtitle": "Recuperação",
+     "imageAlt": "Arte do frasco do programa Wolverine Injection",
+     "badges": [
+      "Recuperação",
+      "Análises laboratoriais incluídas"
+     ],
+     "description": "Wolverine Injection da Tava Labs. A revisão e o acompanhamento pelo prestador fazem parte do programa.",
+     "linkLabel": "Ver programa"
+    }
+   ],
+   "disclaimerLead": "Os medicamentos manipulados são preparados por farmácias licenciadas para pacientes individuais. Não são aprovados pela FDA, e a FDA não revê os medicamentos manipulados quanto a segurança, eficácia ou qualidade.",
+   "disclaimerMore": [
+    "Os cuidados médicos são prestados por prestadores independentes e licenciados. Os prestadores decidem de forma independente se um tratamento é adequado para si; a compra não garante uma receita.",
+    "Um prestador licenciado revê a sua informação e decide de forma independente se um tratamento é adequado para si. A compra não garante uma receita.",
+    "Para emergências, ligue 911."
+   ],
+   "protocolEyebrow": "COMO FUNCIONA",
+   "protocolTitleLead": "Consultar, rever,",
+   "protocolTitleAccent": "depois começar.",
+   "protocolCopy": "Cada programa passa por prestadores independentes e licenciados.",
+   "protocolCta": "Iniciar uma consulta",
+   "steps": [
+    {
+     "title": "Consultar",
+     "lead": "online, no seu horário",
+     "body": "Preencha a consulta online do programa que escolheu. A consulta custa $20."
+    },
+    {
+     "title": "Rever",
+     "lead": "por um prestador licenciado",
+     "body": "Um prestador revê a sua informação e as suas análises e decide de forma independente se o tratamento é adequado para si."
+    },
+    {
+     "title": "Começar",
+     "lead": "se for receitado",
+     "body": "A sua medicação é enviada por uma farmácia licenciada, e o seu prestador faz o acompanhamento à medida que o seu programa continua."
+    }
+   ],
+   "legalLines": [
+    "A nossa loja de péptidos está atualmente em modo de teste, por isso os programas são apresentados para revisão e ainda não estão abertos a encomendas reais.",
+    "Para emergências, ligue 911."
+   ]
+  }
+ },
+ "product": {
+  "breadcrumbHome": "Início",
+  "inStock": "Em Stock",
+  "cleanVegan": "Limpo e Vegano • PDRN Ativo",
+  "dermTested": "Testado dermatologicamente • Feito para todos os tipos de pele",
+  "titleLead": "PDRN Brightening",
+  "titleAccent": "Serum",
+  "pricePerUnit": "/ 30ml (1 fl oz)",
+  "subPrice": "ou $39 por mês com Subscribe and Save",
+  "bullets": [
+   "PDRN, Acetyl Hexapeptide-8 e ácido hialurónico, para apoiar uma pele com aspeto mais suave e radiante.",
+   "Hidratação profunda de glicerina, PCA de sódio e pantenol.",
+   "100% sem crueldade, sem fragrância, sem parabenos, sem sulfatos, sem óleo mineral, sem silicones e vegano."
+  ],
+  "viewFormulation": "Ver a formulação completa e os testes clínicos",
+  "details": [
+   {
+    "title": "Conheça o PDRN Brightening Serum",
+    "body": "Uma fórmula leve e hidratante para uma pele com aspeto mais suave e radiante. Absorve rapidamente, não deixa resíduos e mantém a pele confortável."
+   },
+   {
+    "title": "Ingredientes e Formulação",
+    "body": "Aqua, Glycerin, Propanediol, Panthenol, Sodium Hyaluronate, Sodium PCA, Polydeoxyribonucleotide (PDRN), Acetyl Hexapeptide-8, Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin."
+   },
+   {
+    "title": "Como Aplicar",
+    "body": "Aplique 2 a 4 gotas sobre a pele limpa e seca. Massaje suavemente no rosto e no pescoço até absorver. Use duas vezes por dia, de manhã e à noite. A seguir, aplique hidratante ou protetor solar."
+   },
+   {
+    "title": "Garantia de Cuidados de Pele Limpos",
+    "body": "Formulado segundo normas certificadas sem crueldade e feito sem fragrância, silicones, parabenos, óleo mineral, sulfatos, ftalatos nem alergénios comuns. Testado dermatologicamente em todos os tipos de pele."
+   }
+  ],
+  "innovation": {
+   "label": "Inovação Celular",
+   "titleLead": "Regeneração da Pele de",
+   "titleAccent": "Nova Geração",
+   "sub": "Ativos marinhos e hexapéptidos direcionados, num só sérum diário.",
+   "items": [
+    {
+     "label": "Renovação Celular",
+     "title": "Bioativos de PDRN",
+     "body": "O PDRN marinho acelera a renovação celular, revitalizando uma tez baça e suavizando a textura visível."
+    },
+    {
+     "label": "Complexo Biopeptídico",
+     "title": "Acetyl Hexapeptide-8",
+     "body": "Os péptidos sinalizadores aliviam a tensão superficial e apoiam a elasticidade natural do colagénio, para uma pele com aspeto mais firme e com mais vitalidade."
+    },
+    {
+     "label": "Hidratação Profunda",
+     "title": "Matriz de Hidratação",
+     "body": "O ácido hialurónico, o PCA de sódio e o pantenol trabalham em conjunto para reter a humidade na barreira da pele durante mais de 24 horas."
+    }
+   ],
+   "imgAlts": [
+    "Textura do sérum",
+    "Cristal e fórmula",
+    "Amostra de cristal"
+   ],
+   "footnote": "*Atividade biocelular avaliada através de avaliações clínicas in vitro e ex vivo. Os resultados podem variar consoante o estado individual da pele."
+  },
+  "ecosystem": {
+   "label": "O Plano Completo",
+   "title": "Receba apoio completo para a rotina",
+   "sub": "Juntamente com o seu sérum, cada plano Tava Labs inclui:",
+   "items": [
+    "Um diagnóstico de pele personalizado e um guia de regime a partir do seu questionário da pele",
+    "Um plano de tratamento que começa devagar e evolui com o tempo",
+    "Lembretes de aplicação que controla, de manhã e à noite",
+    "Apoio por mensagens dentro da própria aplicação",
+    "Entrega mensal com Subscribe and Save, pause ou cancele a qualquer momento"
+   ],
+   "note": "Pause, ajuste ou cancele o Subscribe and Save a qualquer momento. As compras únicas continuam disponíveis por $49."
+  },
+  "clinical": {
+   "label": "Eficácia Clínica",
+   "titleLead": "Cuide da saúde",
+   "titleAccent": "da sua pele",
+   "imgAlts": [
+    "Diagrama Promove o Brilho",
+    "Diagrama Apoia a Hidratação Profunda",
+    "Diagrama Melhora a Textura da Pele"
+   ],
+   "note": "Avaliações tópicas de bioativos baseadas em testes de perceção do consumidor durante 8 semanas e em testes instrumentais de hidratação. As barreiras cutâneas, a genética e o ambiente de cada pessoa influenciam os prazos e os resultados específicos."
+  },
+  "formulary": {
+   "label": "O Formulário",
+   "title": "Que tratamento de pele é o ideal para si?",
+   "sub": "Fórmulas direcionadas para diferentes objetivos, preocupações e rotinas de pele. Construa o regime que se ajusta a um horário de trabalho.",
+   "serumAlt": "PDRN Brightening Serum",
+   "serumPriceLine": "Subscribe and Save $39/mês",
+   "serumOneTime": "ou $49 numa compra única",
+   "primaryBenefit": "Benefício Principal",
+   "howToUse": "Como usar",
+   "activeIngredient": "Ingrediente ativo",
+   "serumBenefitValue": "Luminosidade e Firmeza",
+   "serumHowValue": "Manhã e noite",
+   "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
+   "selectSerum": "Selecionar Sérum",
+   "comingSoon": "Em Breve",
+   "status": "Estado",
+   "sizeLabel": "Tamanho",
+   "others": [
+    {
+     "rows": [
+      [
+       "Benefício Principal",
+       "Hidratação Diária"
+      ],
+      [
+       "Tamanho",
+       "1.7 fl oz (50ml)"
+      ]
+     ]
+    },
+    {
+     "rows": [
+      [
+       "Benefício Principal",
+       "Cuidado da Zona dos Olhos"
+      ],
+      [
+       "Tamanho",
+       "1 fl oz (30ml)"
+      ]
+     ]
+    },
+    {
+     "rows": [
+      [
+       "Benefício Principal",
+       "Firmeza e Hidratação"
+      ],
+      [
+       "Tamanho",
+       "2 oz (56g)"
+      ],
+      [
+       "Ingrediente ativo",
+       "Ácido Hialurónico e CoQ10"
+      ]
+     ]
+    },
+    {
+     "rows": [
+      [
+       "Benefício Principal",
+       "Cuidado do Couro Cabeludo e do Cabelo"
+      ],
+      [
+       "Tamanho",
+       "1 fl oz (30ml)"
+      ]
+     ]
+    }
+   ]
+  },
+  "protocol": {
+   "label": "Protocolo de Regime Diário",
+   "titleLead": "Uma rotina simples,",
+   "titleAccent": "duas vezes por dia",
+   "sub": "A consistência importa. Siga estes passos de manhã e à noite para que os péptidos e o PDRN possam fazer o seu trabalho, e termine selando a humidade.",
+   "progressionLabel": "Progressão Clínica",
+   "progressionTitle": "Cronologia de Resultados Visíveis",
+   "progressionBody": "Brilho e hidratação reforçados em 7 a 14 dias; elasticidade da pele e firmeza da barreira melhoradas entre a semana 4 e a 6.",
+   "timelineAlt": "Exemplo de cronologia de resultados, semanas 1 a 4 e além",
+   "steps": [
+    {
+     "title": "Limpar, com um produto suave",
+     "body": "Limpe com um produto suave e de pH equilibrado para remover impurezas e preparar a pele, sem lhe retirar os lípidos naturais."
+    },
+    {
+     "title": "Sérum PDRN, 2 a 4 gotas",
+     "body": "Aplique 2 a 4 gotas de Sérum PDRN sobre a pele húmida. Pressione e dê toques suaves no rosto e no pescoço até absorver por completo."
+    },
+    {
+     "title": "Hidratar",
+     "body": "Sele com hidratante para reter os péptidos e apoiar a barreira de ceramidas."
+    },
+    {
+     "title": "Proteger (só de manhã), FPS 30+",
+     "body": "Termine a rotina da manhã com FPS 30+ de largo espectro para proteger a pele dos raios UV e dos danos dos radicais livres."
+    },
+    {
+     "title": "O seu plano pessoal, incluído",
+     "body": "O seu questionário da pele constrói o seu plano, incluindo como começar devagar e quando intensificar."
+    }
+   ]
+  },
+  "faqSection": {
+   "label": "Respostas e Clareza",
+   "title": "Perguntas frequentes",
+   "viewAll": "Ver todas as perguntas frequentes",
+   "items": [
+    {
+     "q": "O que é o PDRN e como beneficia a pele?",
+     "a": "O PDRN (Polydeoxyribonucleotide) é feito de fragmentos de ADN biocompatíveis com as células da pele humana. Promove a regeneração celular natural, estimula a microcirculação e ajuda a reparar a barreira da pele, para um brilho e uma firmeza visíveis."
+    },
+    {
+     "q": "Como incorporo o PDRN Brightening Serum na minha rotina de cuidados de pele?",
+     "a": "Use o PDRN Brightening Serum duas vezes por dia, após a limpeza e o tónico. Coloque 2 a 4 gotas diretamente nas pontas dos dedos ou sobre a pele húmida, espalhando pelo rosto, pescoço e decote. A seguir, aplique o seu hidratante e o protetor solar da manhã."
+    },
+    {
+     "q": "Este sérum é adequado para pele sensível e com tendência para acne?",
+     "a": "Sim. A nossa formulação é não comedogénica, sem óleo, sem fragrância e enriquecida com Pantenol calmante. Acalma a sensibilidade ao mesmo tempo que hidrata em profundidade, sem obstruir os poros nem provocar irritação."
+    },
+    {
+     "q": "Posso combinar PDRN com retinol, vitamina C ou AHA/BHA?",
+     "a": "Sim. O PDRN funciona bem ao lado de tratamentos ativos como retinoides e vitamina C. A sua base hidratante ajuda a acalmar a descamação ou a vermelhidão que os esfoliantes químicos podem causar."
+    },
+    {
+     "q": "Quanto tempo dura normalmente um frasco de 30ml?",
+     "a": "Aplicado com 2 a 4 gotas duas vezes por dia, um frasco de 30ml (1 fl oz) dura normalmente 4 a 6 semanas. O Subscribe and Save envia o frasco seguinte antes de o seu acabar."
+    }
+   ]
+  },
+  "finalCta": {
+   "title": "O seu rosto está em cada apresentação. Mantenha-o pronto.",
+   "line": "PDRN Brightening Serum · $49.00 / 30ml · Limpo e Vegano · Hidratação Profunda · Cancele a qualquer momento"
+  },
+  "gallery": {
+   "view": "Ver {n}",
+   "alts": [
+    "Frasco do PDRN Brightening Serum",
+    "Vista 2 do frasco do sérum",
+    "Vista 3 do frasco do sérum",
+    "Vista 4 do frasco do sérum",
+    "Vista 5 do frasco do sérum"
+   ]
+  }
+ },
+ "about": {
+  "label": "Sobre Nós",
+  "titleLead": "Cuidados de pele para",
+  "titleAccent": "os ambiciosos.",
+  "tagline": "Construa o seu negócio. Não se descuide.",
+  "p1": "A Tava Labs é uma marca de manutenção pessoal para pessoas que estão a construir negócios. A sua aparência faz parte da sua presença profissional. A forma como aparece diante da câmara, na apresentação e na sala faz parte de como o seu trabalho é lido.",
+  "p2": "Fazemos uma coisa, e fazemo-la bem. Um sérum diário que mantém a sua pele com aspeto sereno, hidratado e pronto, sem uma rotina complicada.",
+  "p3": "A Tava Labs foi fundada para fundadores, criadores e profissionais que investem na pessoa por trás da empresa. Um passo, de manhã e à noite, antes das reuniões, das apresentações e do trabalho diante da câmara.",
+  "p4": "Isto são cuidados de pele como manutenção, e não vaidade. A mesma disciplina que traz para o seu negócio, aplicada a si próprio.",
+  "serumLabel": "O Sérum",
+  "serumTitle": "PDRN Brightening Serum",
+  "serumAlt": "PDRN Brightening Serum",
+  "serumBody": "Uma rotina diária para a tez, construída em torno do PDRN (Polydeoxyribonucleotide) e do Acetyl Hexapeptide-8, com Hialuronato de Sódio e Pantenol para hidratação e conforto. Limpo e sem fragrância, e feito sem nada da nossa lista de exclusões.",
+  "bullets": [
+   "PDRN para uma tez com aspeto mais luminoso e uniforme.",
+   "Acetyl Hexapeptide-8 para apoiar o aspeto de firmeza.",
+   "Hialuronato de Sódio e Pantenol para hidratação.",
+   "Use duas vezes por dia: 2 a 4 doses sobre a pele limpa e seca, de manhã e à noite."
+  ],
+  "priceLine": "$49 numa compra única, ou $39 por mês com Subscribe & Save.",
+  "philosophyLabel": "A Nossa Filosofia",
+  "quote": "“Uma pele saudável é a coisa mais atraente que pode vestir.”",
+  "philosophyCaption": "A Filosofia Tava Labs",
+  "philosophyP1": "Acreditamos em cuidar de si da mesma forma que cuida do seu trabalho: com consistência e sem dramas. Uma pequena manutenção diária vale mais do que remodelações ocasionais.",
+  "philosophyP2": "Não prometemos transformações. Fazemos um sérum diário bem formulado, dizemos-lhe exatamente o que contém e deixamos a rotina falar por si.",
+  "onlineTitle": "Apenas Online",
+  "onlineSegments": [
+   {
+    "text": "A Tava Labs é uma marca apenas online. Perguntas? Envie email para "
+   },
+   {
+    "text": "talia@tavalabs.app",
+    "href": "mailto:talia@tavalabs.app"
+   },
+   {
+    "text": "."
+   }
+  ],
+  "contactUs": "Contacte-nos"
+ },
+ "contact": {
+  "label": "Contacte-nos",
+  "title": "Adoraríamos ouvir de si.",
+  "sub": "Envie-nos um email e responderemos. Escolha o tema que se ajusta, ou escreva-nos diretamente.",
+  "emailLabel": "Email:",
+  "phoneLabel": "Telefone:",
+  "topics": {
+   "general": {
+    "title": "Geral",
+    "body": "Perguntas gerais sobre a Tava Labs e o sérum."
+   },
+   "wholesale": {
+    "title": "Vendas por Grosso",
+    "body": "Questões de vendas por grosso e retalho sobre o PDRN Brightening Serum."
+   },
+   "sales-support": {
+    "title": "Apoio às Vendas",
+    "body": "Perguntas sobre encomendas, Subscribe & Save e pagamento."
+   },
+   "product-support": {
+    "title": "Apoio ao Produto",
+    "body": "Ajuda para usar o sérum, rotinas e o seu plano pessoal."
+   },
+   "partnerships": {
+    "title": "Parcerias",
+    "body": "Parcerias com aceleradoras, universidades, investidores e comunidades."
+   },
+   "pr": {
+    "title": "Relações Públicas",
+    "body": "Questões de imprensa e meios de comunicação."
+   }
+  }
+ },
+ "faq": {
+  "label": "Perguntas Frequentes",
+  "titleLead": "Perguntas",
+  "titleAccent": "Frequentes",
+  "sub": "Respostas sobre o sérum, encomendas, envios e o seu plano pessoal.",
+  "items": [
+   {
+    "q": "O que é o PDRN Brightening Serum?",
+    "a": [
+     {
+      "text": "Um sérum diário construído em torno do PDRN (Polydeoxyribonucleotide) e do Acetyl Hexapeptide-8, com Hialuronato de Sódio e Pantenol. É uma rotina diária para a tez: aplique de manhã e à noite para apoiar uma tez com aspeto mais luminoso e uniforme e um visual sereno e pronto para a câmara."
+     }
+    ]
+   },
+   {
+    "q": "Como o uso?",
+    "a": [
+     {
+      "text": "Aplique 2 a 4 gotas sobre a pele limpa e seca, de manhã e à noite. A seguir, aplique hidratante. Se é novo nos cuidados de pele ativos, comece uma vez por dia durante a primeira semana e depois passe para duas vezes por dia."
+     }
+    ]
+   },
+   {
+    "q": "Como obtenho o meu plano pessoal?",
+    "a": [
+     {
+      "text": "Faça o "
+     },
+     {
+      "text": "Questionário da Pele",
+      "href": "/quiz"
+     },
+     {
+      "text": ". As suas respostas constroem um plano pessoal, incluindo como começar devagar e quando intensificar."
+     }
+    ]
+   },
+   {
+    "q": "Quanto custa?",
+    "a": [
+     {
+      "text": "$49 numa compra única, ou $39 por mês com Subscribe & Save (20% de desconto). O Subscribe & Save pode ser pausado, saltado ou cancelado a qualquer momento."
+     }
+    ]
+   },
+   {
+    "q": "Como funciona o envio?",
+    "a": [
+     {
+      "text": "As encomendas são processadas pelo nosso parceiro e enviadas para o endereço que indicar no pagamento. Consulte a "
+     },
+     {
+      "text": "Política de Envio",
+      "href": "/shipping"
+     },
+     {
+      "text": " para mais detalhes."
+     }
+    ]
+   },
+   {
+    "q": "Qual é a vossa política de devoluções?",
+    "a": [
+     {
+      "text": "Todas as vendas são finais. Leia a "
+     },
+     {
+      "text": "Política de Devoluções",
+      "href": "/returns"
+     },
+     {
+      "text": " antes de encomendar."
+     }
+    ]
+   },
+   {
+    "q": "Que ingredientes contém?",
+    "a": [
+     {
+      "text": "A lista completa de ingredientes está na "
+     },
+     {
+      "text": "página de Ingredientes",
+      "href": "/ingredients"
+     },
+     {
+      "text": ". O sérum não tem fragrância e é feito sem parabenos, sulfatos, silicones, óleo mineral, ftalatos nem alergénios comuns."
+     }
+    ]
+   },
+   {
+    "q": "É adequado para o meu tipo de pele?",
+    "a": [
+     {
+      "text": "O sérum é formulado para se adequar a todos os tipos de pele. Se tiver uma condição de pele ou preocupações, fale com o seu dermatologista antes de iniciar qualquer novo cuidado de pele."
+     }
+    ]
+   },
+   {
+    "q": "Como vos contacto?",
+    "a": [
+     {
+      "text": "Envie email para talia@tavalabs.app ou use a página "
+     },
+     {
+      "text": "Contacte-nos",
+      "href": "/contact"
+     },
+     {
+      "text": "."
+     }
+    ]
+   }
+  ]
+ },
+ "ingredients": {
+  "label": "Ingredientes",
+  "titleLead": "O que está dentro, e",
+  "titleAccent": "o que deixamos de fora.",
+  "intro": "Aqui está cada ingrediente do PDRN Brightening Serum, o que cada um faz e a lista completa exatamente como aparece no rótulo.",
+  "metaLine": "PDRN Brightening Serum · 1 fl oz (30 ml) · Feito nos EUA · Adequado para todos os tipos de pele.",
+  "keyTitle": "Ingredientes Chave",
+  "keyItems": [
+   {
+    "name": "PDRN (Polydeoxyribonucleotide)",
+    "body": "O ativo em destaque. Apoia uma tez com aspeto mais luminoso e uniforme e um visual sereno e pronto para a câmara."
+   },
+   {
+    "name": "Acetyl Hexapeptide-8",
+    "body": "Um péptido que apoia o aspeto de firmeza e suavidade."
+   },
+   {
+    "name": "Sodium Hyaluronate (Hyaluronic Acid)",
+    "body": "Atrai a humidade para uma pele hidratada e confortável."
+   },
+   {
+    "name": "Panthenol",
+    "body": "Acalma e apoia a barreira da pele."
+   },
+   {
+    "name": "Glycerin + Sodium PCA",
+    "body": "Humectantes que ajudam a pele a reter água ao longo do dia."
+   }
+  ],
+  "fullTitle": "Ingredientes Completos",
+  "howTitle": "Como Usar",
+  "howBody": "Aplique 2 a 4 doses sobre a pele limpa e seca, de manhã e à noite. A seguir, aplique hidratante. Comece uma vez por dia se é novo nos cuidados de pele ativos.",
+  "warningTitle": "Aviso",
+  "warningBody": "Apenas para uso externo. Evite o contacto direto com os olhos. Se ocorrer irritação, interrompa a utilização. Mantenha fora do alcance das crianças."
+ },
+ "partners": {
+  "label": "Seja Parceiro da Tava Labs",
+  "titleLead": "Ofereça aos seus fundadores um mês grátis de",
+  "titleAccent": "Tava Labs.",
+  "intro": "A Tava Labs faz parcerias com aceleradoras, universidades, investidores informais e comunidades de fundadores. Os seus membros recebem o primeiro mês do PDRN Brightening Serum grátis, para que as pessoas que constroem empresas possam cuidar da pessoa por trás da empresa.",
+  "tagline": "Um mês grátis, por nossa conta, sem compromissos.",
+  "becomePartner": "Tornar-se Parceiro",
+  "partnershipsContact": "Contacto para Parcerias",
+  "audiences": [
+   {
+    "alt": "Fundadores de startups numa sessão de aceleradora",
+    "title": "Para Aceleradoras",
+    "body": "Os seus fundadores estão a apresentar, a fazer demonstrações e a filmar conteúdo desde o primeiro dia. Ofereça-lhes um mês de manutenção diária que os ajuda a aparecer serenos e prontos para a câmara, e uma coisa a menos em que pensar durante o programa.",
+    "how": "Como funciona: enviamos a cada fundador da sua turma um frasco grátis, com um plano pessoal a partir do questionário da pele. Apresenta-nos uma vez; nós tratamos de tudo o resto."
+   },
+   {
+    "alt": "Estudantes universitários no campus",
+    "title": "Para Universidades",
+    "body": "Os estudantes de empreendedorismo constroem em público: concursos de apresentações, dias de demonstração, palestras de fundadores e primeiras reuniões com investidores. Um mês grátis de Tava Labs é uma oferta prática e memorável para os estudantes do seu programa.",
+    "how": "Como funciona: fornecemos frascos para a sua turma, aula ou evento, mais um folheto simples. Sem custo para a universidade e sem custo para os estudantes."
+   },
+   {
+    "alt": "Reunião de um investidor com um fundador",
+    "title": "Para Investidores Informais",
+    "body": "Apoia a pessoa tanto quanto a empresa. Um mês grátis de Tava Labs é uma oferta atenciosa para os fundadores da sua carteira, e apoia a rotina diária das pessoas em quem investiu.",
+    "how": "Como funciona: diga-nos quantos fundadores gostaria de presentear, e tratamos da entrega e dos planos pessoais deles. Sem custo para si e sem custo para eles."
+   }
+  ],
+  "whyTitleLead": "Custo zero. Esforço zero.",
+  "whyTitleAccent": "Valor real.",
+  "why": [
+   {
+    "title": "Mais valor desde o primeiro dia",
+    "body": "Os seus membros recebem um produto real e um plano pessoal, e não um código de desconto que vão esquecer."
+   },
+   {
+    "title": "Custo zero para si",
+    "body": "O primeiro mês é por nossa conta, para cada pessoa que presentear."
+   },
+   {
+    "title": "Esforço zero para si",
+    "body": "Tratamos do envio, da integração e do apoio. Faz uma única apresentação."
+   },
+   {
+    "title": "Uma oferta que vão realmente usar",
+    "body": "Um passo, de manhã e à noite. Ajusta-se a um horário de fundador porque foi desenhada para um."
+   }
+  ],
+  "formulationTitle": "Formulação limpa e ponderada.",
+  "formulationSub": "O sérum é feito sem os ingredientes sobre os quais os seus membros mais perguntam:",
+  "stepsTitle": "Como funciona uma parceria",
+  "steps": [
+   {
+    "title": "Entre em contacto",
+    "body": "Conte-nos sobre o seu programa e quantas pessoas gostaria de presentear."
+   },
+   {
+    "title": "Nós organizamos a oferta",
+    "body": "Enviamos o sérum e configuramos o plano pessoal de cada pessoa a partir do questionário da pele."
+   },
+   {
+    "title": "Você oferece",
+    "body": "Os seus membros recebem um mês grátis de manutenção diária, com o nosso agradecimento em cada caixa."
+   }
+  ],
+  "closingTitleLead": "Vamos colocar um mês grátis nas mãos dos seus",
+  "closingTitleAccent": "fundadores.",
+  "closingSegments": [
+   {
+    "text": "Envie email para "
+   },
+   {
+    "text": "talia@tavalabs.app",
+    "href": "mailto:talia@tavalabs.app"
+   },
+   {
+    "text": " ou ligue "
+   },
+   {
+    "text": "909-906-1308",
+    "href": "tel:+19099061308"
+   },
+   {
+    "text": ", e nós tratamos da configuração."
+   }
+  ]
+ },
+ "blog": {
+  "label": "The Tava Journal",
+  "titleLead": "Investigação sobre Sono e Stress",
+  "titleAccent": "para Fundadores",
+  "sub": "Ciência do sono, investigação sobre o stress e perspetivas de desempenho para fundadores.",
+  "readStory": "Ler a história"
+ },
+ "research": {
+  "pill": "Série de Investigação 001 · Resultados dos participantes",
+  "h1Lead": "Um olhar de 16 semanas sobre alterações",
+  "h1Accent": "medidas da pele.",
+  "heroSub": "Um programa prospetivo e aberto com participantes, combinando uma rotina de cuidados de pele personalizada, suplementos e orientação de estilo de vida. Cada número nesta página vem do relatório, medido no início e na semana 16.",
+  "chips": [
+   "Prospetivo e aberto",
+   "Braço único",
+   "Com supervisão médica",
+   "Centro de investigação clínica presencial"
+  ],
+  "headlineLabel": "Resultado em destaque",
+  "headlineTitle": "O total de lesões de acne caiu de 16.8 para 6.2",
+  "slopeAria": "Gráfico de inclinação que mostra o total de lesões de acne de 16.8 no início para 6.2 na semana 16",
+  "slopeBaseline": "Início 16.8",
+  "slopeWeek": "Semana 16 · 6.2",
+  "slopeNote": "Uma linha reta apenas entre os dois pontos medidos. O relatório não publicou valores de resultados para as semanas 4, 8 ou 12.",
+  "badges": [
+   {
+    "big": "60 por cento mais alta",
+    "small": "Hidratação da pele, 29.4 AU para 47.1 AU"
+   },
+   {
+    "big": "52 por cento mais baixa",
+    "small": "Pontuação clínica de textura, 2.7 de 4 para 1.3 de 4"
+   }
+  ],
+  "statsLabels": [
+   "Semanas no programa",
+   "Adultos inscritos",
+   "Pessoas que completaram todas as visitas",
+   "Taxa de conclusão"
+  ],
+  "percentWord": "por cento",
+  "resultsBg": "Resultados",
+  "resultsLabel": "Alteração média · Do início à semana 16",
+  "resultsTitle": "O que mudou, em números claros.",
+  "resultsSub": "Resultados dos 84 participantes que completaram todas as visitas. Cada cartão compara os dois momentos que o estudo mediu de facto.",
+  "baseline": "Início",
+  "week16": "Semana 16",
+  "slopeFoot": "Do início à semana 16",
+  "results": [
+   {
+    "title": "Total de lesões de acne",
+    "change": "63 por cento mais baixo",
+    "note": "Lesões contadas pelo dermatologista"
+   },
+   {
+    "title": "Hidratação da pele",
+    "change": "60 por cento mais alta",
+    "note": "Medição por corneómetro em AU"
+   },
+   {
+    "title": "Índice de eritema e vermelhidão",
+    "change": "30 por cento mais baixo",
+    "note": "Índice por cromâmetro"
+   },
+   {
+    "title": "Índice de melanina e pigmentação",
+    "change": "25 por cento mais baixo",
+    "note": "Índice por cromâmetro"
+   },
+   {
+    "title": "Pontuação clínica de textura",
+    "change": "52 por cento mais baixa",
+    "note": "Classificada numa escala de 0 a 4"
+   }
+  ],
+  "peopleBg": "Pessoas",
+  "participantsLabel": "Quem participou",
+  "participantsTitle": "As pessoas por trás das médias.",
+  "participantsSub": "Cinco visitas ao longo do programa, do início à semana 16.",
+  "ageLabel": "Idade média",
+  "ageSuffix": "Anos · Intervalo de 20 a 48",
+  "visitTimeline": "Cronologia das visitas",
+  "visits": [
+   {
+    "name": "Início",
+    "desc": "Rastreio, medições e fotografia"
+   },
+   {
+    "name": "Semana 4",
+    "desc": "Avaliação de acompanhamento"
+   },
+   {
+    "name": "Semana 8",
+    "desc": "Avaliação de acompanhamento"
+   },
+   {
+    "name": "Semana 12",
+    "desc": "Avaliação de acompanhamento"
+   },
+   {
+    "name": "Semana 16",
+    "desc": "Medições finais e fotografia"
+   }
+  ],
+  "genderTitle": "Distribuição por género",
+  "genderAria": "Gráfico circular da distribuição por género, 74 por cento feminino, 24 por cento masculino, 2 por cento não binário",
+  "gender": [
+   {
+    "label": "Feminino",
+    "pct": "74 por cento"
+   },
+   {
+    "label": "Masculino",
+    "pct": "24 por cento"
+   },
+   {
+    "label": "Não binário",
+    "pct": "2 por cento"
+   }
+  ],
+  "donutNote": "O gráfico anima até à distribuição indicada quando entra no ecrã.",
+  "concernsTitle": "Preocupações de pele no início",
+  "concerns": [
+   "Hiperpigmentação pós-inflamatória",
+   "Textura irregular e aspereza",
+   "Acne inflamatória",
+   "Vermelhidão e sensibilidade facial",
+   "Olheiras",
+   "Secura e barreira comprometida",
+   "Linhas finas e fotoenvelhecimento precoce"
+  ],
+  "concernsNote": "Os participantes podiam indicar mais do que uma preocupação, por isso estas proporções não somam 100 por cento.",
+  "programBg": "Programa",
+  "programLabel": "Programa e protocolo",
+  "programTitle": "O programa de 16 semanas, passo a passo.",
+  "programSub": "Os participantes receberam rastreio presencial, entrega do produto, orientação de aplicação e avaliações de acompanhamento num centro de investigação clínica.",
+  "morningTag": "Rotina da manhã",
+  "morningTitle": "Começar o dia",
+  "amSteps": [
+   "Produto de limpeza suave",
+   "Sérum de vitamina C, 15 por cento",
+   "Hidratante de ceramidas",
+   "Protetor solar mineral, SPF 50"
+  ],
+  "eveningTag": "Rotina da noite",
+  "eveningTitle": "Fechar o dia",
+  "pmSteps": [
+   "Produto de limpeza suave",
+   "Sérum de niacinamida a 5 por cento mais zinco",
+   "Creme de barreira com péptidos",
+   "Retinol a 0.3 por cento, introduzido na semana 2 e ajustado sob orientação clínica"
+  ],
+  "routineNote": "O retinol foi usado 3 a 5 noites por semana após o período inicial de adaptação de duas semanas. Quando necessário, foi usado ácido salicílico a 2 por cento nas lesões ativas.",
+  "supplementLabel": "Rotina de suplementos",
+  "supplementTitle": "Tava Skin Complex",
+  "supplementSub": "Duas cápsulas por dia ao pequeno-almoço. Quantidades indicadas por dose de duas cápsulas.",
+  "supplements": [
+   "Vitamina C",
+   "Zinco",
+   "Niacinamida",
+   "Astaxantina",
+   "Fitossoma de curcumina",
+   "Mistura probiótica de Lactobacillus"
+  ],
+  "supplementNote": "Adição opcional, Omega 3, uma cápsula mole por dia.",
+  "nutritionTitle": "Orientação nutricional",
+  "nutritionItems": [
+   "Pelo menos 2.5 L de água por dia",
+   "Vegetais, frutos vermelhos e alimentos ricos em omega 3",
+   "Limitar o açúcar adicionado e os alimentos de alto índice glicémico",
+   "Reinício opcional de duas semanas com poucos laticínios e pouco açúcar",
+   "Aconselhamento inicial com um nutricionista registado"
+  ],
+  "lifestyleTitle": "Objetivos de estilo de vida",
+  "lifestyleItems": [
+   "7 a 9 horas de sono",
+   "Pelo menos 150 minutos de atividade moderada por semana",
+   "Exercício de respiração diário de cinco minutos",
+   "Sono registado semanalmente",
+   "Hábitos de hidratação e de protetor solar revistos nas visitas"
+  ],
+  "adherenceLabel": "Acompanhamento do programa",
+  "adherenceTitle": "Até que ponto as pessoas cumpriram o plano.",
+  "adherenceSub": "Adesão ao longo das 16 semanas completas, conforme registado no relatório.",
+  "adherence": [
+   "Adesão global",
+   "Adesão aos suplementos",
+   "Adesão tópica"
+  ],
+  "adherenceAria": "{label}, {val} por cento",
+  "adherenceFoot": "Ao longo do programa de 16 semanas",
+  "safetyBg": "Segurança",
+  "safetyLabel": "Efeitos secundários relatados",
+  "safetyTitle": "O que os participantes relataram.",
+  "safetySub": "Proporções de participantes que relataram cada efeito durante o programa.",
+  "sideEffectsTitle": "Efeitos secundários",
+  "sideEffects": [
+   "Secura ou descamação ligeira",
+   "Surto temporário de acne",
+   "Desconforto gastrointestinal ligeiro"
+  ],
+  "withdrawalsTitle": "Desistências",
+  "withdrawalsSub": "8 participantes desistiram dos 92 inscritos.",
+  "withdrawals": [
+   {
+    "label": "Conflitos de agenda",
+    "value": "5 pessoas"
+   },
+   {
+    "label": "Efeitos secundários ligeiros",
+    "value": "2 pessoas"
+   },
+   {
+    "label": "Perda de acompanhamento",
+    "value": "1 pessoa"
+   }
+  ],
+  "alertTitle": "Não foram relatados eventos adversos graves.",
+  "alertBody": "Essa frase consta do relatório ao lado dos efeitos ligeiros listados nesta página. Está incluída aqui exatamente como foi relatada.",
+  "photoLabel": "Documentação visual",
+  "photoTitle": "Comparações fotográficas dos participantes.",
+  "photoSub": "Fotografias lado a lado do programa de quatro meses. A imagem da esquerda em cada par mostrava o início e a imagem da direita mostrava a semana 16. Não são reproduzidas fotografias de participantes nesta página.",
+  "participant": "Participante {initial}",
+  "docViews": [
+   "Vista de perfil lateral",
+   "Vista frontal",
+   "Vista frontal com óculos",
+   "Vista aproximada da bochecha"
+  ],
+  "baselineAndWeek": "Início e semana 16",
+  "photoProtocolTitle": "Protocolo fotográfico",
+  "photoProtocol": "Captação padronizada no início e no acompanhamento, com uma configuração de câmara fixa, iluminação visível e polarizada cruzada consistente, ângulos frontal, de 45 graus e de perfil, e um fundo calibrado por cor.",
+  "methodsLabel": "Como foram feitas as medições",
+  "methodsTitle": "Medições clínicas",
+  "methods": [
+   "Lesões de acne contadas pelo dermatologista",
+   "Hidratação por corneómetro",
+   "Índices de vermelhidão e melanina por cromâmetro",
+   "Classificação da textura numa escala de 0 a 4",
+   "Fotografia padronizada"
+  ],
+  "factsLabel": "Desenho do estudo",
+  "factsTitle": "O desenho num relance.",
+  "facts": [
+   {
+    "k": "Desenho",
+    "v": "Prospetivo, aberto, braço único"
+   },
+   {
+    "k": "Contexto",
+    "v": "Presencial, com supervisão médica"
+   },
+   {
+    "k": "Avaliações",
+    "v": "Início mais semanas 4, 8, 12, 16"
+   },
+   {
+    "k": "Concluíram",
+    "v": "84 de 92 inscritos · 91 por cento"
+   }
+  ],
+  "source": "Fonte, Tava Labs Participant Outcomes, Série de Investigação 001, programa de participantes de 16 semanas. Esta página apresenta apenas os números do relatório, com o início e a semana 16 como os dois pontos de resultado medidos."
+ },
+ "account": {
+  "signedInAs": "Sessão iniciada como",
+  "signOut": "Terminar sessão",
+  "loading": "A carregar a sua conta…",
+  "failedTitle": "Não conseguimos carregar a sua conta",
+  "failedSegments": [
+   {
+    "text": "Verifique a sua ligação e tente novamente. Se continuar a acontecer, envie email para "
+   },
+   {
+    "text": "talia@tavalabs.app",
+    "href": "mailto:talia@tavalabs.app"
+   },
+   {
+    "text": " e nós resolvemos."
+   }
+  ],
+  "tryAgain": "Tentar novamente",
+  "tabs": {
+   "today": "Hoje",
+   "orders": "Encomendas",
+   "shop": "Loja",
+   "lab": "Laboratório",
+   "support": "Apoio"
+  },
+  "greetings": {
+   "morning": "Bom dia",
+   "afternoon": "Boa tarde",
+   "evening": "Boa noite"
+  },
+  "weekInitials": [
+   "D",
+   "S",
+   "T",
+   "Q",
+   "Q",
+   "S",
+   "S"
+  ],
+  "streakLine": "Sequência de {streak} dias · Dia {day} de 30{bottle}",
+  "dayLine": "Dia {day} de 30{bottle}. Complete a rotina de hoje na aplicação para iniciar a sua sequência.",
+  "bottleSuffix": " · Faltam {days} dias no frasco",
+  "progressLine": "Dia {day} de 30 · Faltam {left} dias para o seu primeiro mês completo",
+  "stepsToGo": "Hoje: faltam {n} de {total} passos da rotina.",
+  "todayComplete": "Hoje está completo. O seu próximo dia já está a postos.",
+  "planEyebrow": "O seu plano",
+  "planDefault": "Faça o questionário da pele, e o seu plano pessoal, construído a partir das suas respostas, ficará aqui e na aplicação.",
+  "retakeQuiz": "Refazer o questionário da pele",
+  "takeQuiz": "Fazer o questionário da pele",
+  "chipLabels": {
+   "goal": "Objetivo",
+   "skinType": "Tipo de pele",
+   "concern": "Preocupação",
+   "routine": "Rotina",
+   "plan": "Plano",
+   "routineTimes": "Horários da rotina"
+  },
+  "labelMaps": {
+   "goal": {
+    "radiance": "Brilho",
+    "fine_lines": "Linhas finas",
+    "hydration": "Hidratação",
+    "even_tone": "Tom uniforme"
+   },
+   "skinType": {
+    "dry": "Seca",
+    "oily": "Oleosa",
+    "combination": "Mista",
+    "sensitive": "Sensível",
+    "not_sure": "Não tenho a certeza"
+   },
+   "concern": {
+    "dullness": "Aspeto baço",
+    "fine_lines": "Linhas finas",
+    "uneven_tone": "Tom irregular",
+    "texture": "Textura",
+    "dryness": "Secura"
+   },
+   "sensitivity": {
+    "often": "Muitas vezes sensível",
+    "sometimes": "Por vezes sensível",
+    "never": "Raramente sensível"
+   },
+   "routine": {
+    "cleanser_only": "Apenas produto de limpeza",
+    "few_products": "Alguns produtos",
+    "full_routine": "Rotina completa"
+   },
+   "ramp": {
+    "gentle": "Progressão suave",
+    "standard": "Progressão normal",
+    "full": "Intensidade total"
+   }
+  },
+  "morningEyebrow": "Rotina da manhã",
+  "nightEyebrow": "Rotina da noite",
+  "amTitle": "Manhã · 3 gotas",
+  "pmTitle": "Noite · 3 gotas",
+  "amSteps": [
+   {
+    "title": "Limpar",
+    "detail": "Produto de limpeza suave, secar com toques leves"
+   },
+   {
+    "title": "Aplicar 3 gotas de sérum",
+    "detail": "Pressionar no rosto e no pescoço"
+   },
+   {
+    "title": "Hidratar + FPS",
+    "detail": "FPS 30 ou superior"
+   }
+  ],
+  "pmSteps": [
+   {
+    "title": "Limpeza dupla",
+    "detail": "Remover o FPS e a maquilhagem"
+   },
+   {
+    "title": "Aplicar 3 gotas de sérum",
+    "detail": "Antes do retinol ou dos tratamentos"
+   },
+   {
+    "title": "Hidratante de noite",
+    "detail": "Selar a hidratação"
+   }
+  ],
+  "stepsNote": "Marca os passos na aplicação móvel. Esta página mostra a rotina de hoje e o que a aplicação já registou hoje.",
+  "ordersEyebrow": "Encomendas",
+  "ordersTitle": "As suas encomendas",
+  "ordersEmpty": "Ainda não há encomendas. Quando comprar, as suas encomendas e o rastreio aparecem aqui e na aplicação.",
+  "paid": "Pago",
+  "paymentFailed": "Pagamento falhou",
+  "unpaid": "Não pago",
+  "statusLabels": [
+   "Encomendado",
+   "Enviado",
+   "Em distribuição",
+   "Entregue"
+  ],
+  "subscription": "Subscrição",
+  "carrierFallback": "Transportadora",
+  "trackPackage": "Rastrear encomenda",
+  "claimEyebrow": "Código de ativação",
+  "claimTitle": "Ligar uma compra à aplicação",
+  "claimForOrder": "O seu código de ativação para a encomenda {order}",
+  "claimYourCode": "O seu código de ativação",
+  "claimValidUntil": " (válido até {date})",
+  "claimEnter": ". Introduza-o na aplicação Tava, em Encomendas, para ligar esta compra à sua conta da aplicação:",
+  "claimWebNote": "Aqui na web não precisa do código. Iniciar sessão com o seu email de pagamento já mostra acima as suas encomendas e o seu plano.",
+  "claimEmpty": "Comprou através do questionário ou deste site? O seu email de confirmação e a página logo após o pagamento mostraram um código de ativação. Abra a aplicação móvel Tava, inicie sessão e introduza o código no separador Encomendas. A sua compra, o seu plano e as suas respostas ao questionário passam para a sua conta da aplicação. Aqui na web, iniciar sessão com o mesmo email que usou no pagamento já mostra tudo acima. Não há mais nada a introduzir.",
+  "shop": {
+   "eyebrow": "PDRN Brightening Serum",
+   "title": "The Science of Attractive Health",
+   "body": "1 fl oz (30 ml). Reduza as linhas finas, hidrate em profundidade, restaure o brilho e fortaleça a pele. 2 a 4 doses, de manhã e à noite.",
+   "subscribeLine": "Subscrever, $39 por mês.",
+   "subscribeRest": " Um frasco novo todos os meses, automaticamente.",
+   "oneTimeLine": "Compra única, $49.",
+   "oneTimeRest": " Um único frasco.",
+   "subscribeBtn": "Subscrever, $39 por mês",
+   "buyOnceBtn": "Comprar uma vez, $49",
+   "stripeNote": "Pagamento seguro através da Stripe. Confirmará o pagamento na página da Stripe."
+  },
+  "labTab": {
+   "eyebrow": "Laboratório",
+   "title": "Conheça os seus números.",
+   "sub": "Painéis de sangue reais, encomendados na sua conta Tava. Explore os painéis, veja cada marcador antes de encomendar e receba os seus resultados entregues aqui mesmo."
+  },
+  "support": {
+   "eyebrow": "Apoio",
+   "title": "Estamos aqui para ajudar",
+   "segments": [
+    {
+     "text": "Envie email para "
+    },
+    {
+     "text": "talia@tavalabs.app",
+     "href": "mailto:talia@tavalabs.app"
+    },
+    {
+     "text": " ou ligue "
+    },
+    {
+     "text": "909-906-1308",
+     "href": "tel:+19099061308"
+    },
+    {
+     "text": "."
+    }
+   ],
+   "links": {
+    "general": "Perguntas gerais",
+    "productSupport": "Apoio ao produto",
+    "salesSupport": "Apoio a encomendas e vendas",
+    "faqs": "Perguntas Frequentes",
+    "shipping": "Política de envio",
+    "returns": "Política de devoluções"
+   }
+  }
+ },
+ "lab": {
+  "ordersLabel": "Revisão clínica",
+  "ordersTitle": "As suas encomendas de laboratório",
+  "loadingOrders": "A carregar as suas encomendas…",
+  "ordersEmpty": "Ainda não há nada aqui. Quando completar um painel, cada marcador chega aqui com o seu valor, o seu intervalo saudável e a forma como evolui ao longo do tempo. Encomende o seu primeiro painel abaixo e este espaço enche-se.",
+  "viewResults": "Ver resultados",
+  "howLabel": "Como funcionam os laboratórios",
+  "howTitle": "Quatro passos, uma colheita",
+  "steps": [
+   {
+    "title": "Escolher um painel",
+    "body": "Escolha o painel que corresponde ao que quer saber. Cada marcador nele está listado antes de encomendar."
+   },
+   {
+    "title": "Revisão médica",
+    "body": "Um médico licenciado revê e autoriza cada encomenda, por isso não é necessária uma visita separada ao médico."
+   },
+   {
+    "title": "Ir fazer a colheita",
+    "body": "Uma colheita de sangue rápida num centro de recolha perto de si. A maioria das visitas demora cerca de quinze minutos."
+   },
+   {
+    "title": "Os resultados chegam aqui",
+    "body": "Os resultados são entregues digitalmente neste separador em poucos dias, com cada marcador e o seu intervalo."
+   }
+  ],
+  "panelsLabel": "Os painéis",
+  "panelsTitle": "Catorze painéis, construídos em torno do que acompanha",
+  "panelsSub": "Cada painel mostra o seu preço. As encomendas abrem assim que o pagamento for ativado, e um médico licenciado revê cada encomenda antes de os seus resultados serem entregues aqui mesmo. Os painéis não podem ser encomendados para endereços em Nova Iorque, Nova Jérsia ou Rhode Island.",
+  "markersSuffix": "{n} marcadores",
+  "resultsInDays": "Resultados em dias",
+  "hideMarkers": "Ocultar os marcadores",
+  "seeMarkers": "Ver os marcadores",
+  "markersAria": "Marcadores em {name}",
+  "disclaimer": "As informações laboratoriais são informação sobre a sua própria saúde e não são um diagnóstico. Fale com o seu médico sobre qualquer resultado que o preocupe e ligue 911 numa emergência.",
+  "panelsById": {
+   "35f330ca-8a5b-4caf-9cfe-1827539303f0": {
+    "name": "Painel de Desempenho Atlético",
+    "description": "Prontidão para o treino e recuperação: hemograma, painel metabólico, reservas de ferro, vitamina D, testosterona, inflamação e enzimas musculares.",
+    "collection": "Colheita de sangue sem marcação"
+   },
+   "38c76039-05dc-4cd3-8475-7a675989fbf2": {
+    "name": "Painel de Bem-Estar Base",
+    "description": "Ponto de partida para o corpo inteiro: hemograma, saúde metabólica, colesterol, açúcar no sangue, vitamina D e tiroide.",
+    "collection": "Colheita de sangue sem marcação"
+   },
+   "07aae08c-fb68-4b2c-9a7f-d5dcaeec2960": {
+    "name": "Painel de Energia e Fadiga",
+    "description": "Os suspeitos habituais por trás da falta de energia: reservas e transporte de ferro, B12, folato, vitamina D, tiroide e hemograma.",
+    "collection": "Colheita de sangue sem marcação"
+   },
+   "9b31a524-40e9-4ae9-86a0-943c4c1234f3": {
+    "name": "Painel Base Feminino",
+    "description": "Um painel focado de 14 marcadores, listado na íntegra abaixo.",
+    "collection": "Colheita de sangue sem marcação"
+   },
+   "e7ab67c4-90fa-4952-98ca-e282a51e1540": {
+    "name": "Painel GLP1",
+    "description": "Um painel focado de 10 marcadores, listado na íntegra abaixo.",
+    "collection": "Colheita de sangue sem marcação"
+   },
+   "e6aa5d0c-2ace-4aab-a220-bcc673302e83": {
+    "name": "Painel de Saúde do Coração",
+    "description": "Risco cardiovascular para lá do colesterol básico: lípidos, ApoB, Lp(a), hs-CRP e homocisteína.",
+    "collection": "Colheita de sangue sem marcação"
+   },
+   "fc3295a1-3b0f-40ca-9a88-6f5aa9219656": {
+    "name": "Painel de Longevidade",
+    "description": "Análise anual abrangente e aprofundada de marcadores de saúde metabólica, cardiovascular, inflamatória e hormonal.",
+    "collection": "Colheita de sangue sem marcação"
+   },
+   "b909fb21-b264-483c-a915-4ce87713cfa9": {
+    "name": "Teste Base Masculino",
+    "description": "Um painel focado de 12 marcadores, listado na íntegra abaixo.",
+    "collection": "Colheita de sangue sem marcação"
+   },
+   "c1d6b276-e42a-48dd-81c4-ca9e87f2b979": {
+    "name": "Painel TRT Masculino",
+    "description": "Um painel focado de 16 marcadores, listado na íntegra abaixo.",
+    "collection": "Colheita de sangue sem marcação"
+   },
+   "abfabb68-c777-4457-87c2-46bf5fe26d81": {
+    "name": "Painel de Hormonas Masculinas",
+    "description": "Estado hormonal masculino: testosterona total, SHBG, estradiol, LH e FSH.",
+    "collection": "Colheita de sangue sem marcação"
+   },
+   "f12fe316-367a-4c53-9735-8c0129c45506": {
+    "name": "Painel de Saúde Metabólica",
+    "description": "Controlo do açúcar no sangue e risco metabólico: A1c, insulina em jejum, colesterol e um painel metabólico completo.",
+    "collection": "Colheita de sangue sem marcação"
+   },
+   "c06548bc-d5c3-42ed-904d-9dd3c935444a": {
+    "name": "Painel de Stress e Recuperação",
+    "description": "Carga de stress e capacidade de recuperação: cortisol, DHEA-S, tiroide e inflamação.",
+    "collection": "Colheita de sangue sem marcação"
+   },
+   "1760616d-44d3-4654-817d-440a969e5cdf": {
+    "name": "Painel Completo da Tiroide",
+    "description": "Avaliação completa da tiroide: TSH, T4 livre, T3 livre e anticorpos TPO.",
+    "collection": "Colheita de sangue sem marcação"
+   },
+   "8034d779-bafe-491f-ad95-7aa9c4cd0fb5": {
+    "name": "Painel de Hormonas Femininas",
+    "description": "Estado hormonal feminino: estradiol, progesterona, FSH, LH, DHEA-S e testosterona.",
+    "collection": "Colheita de sangue sem marcação"
+   }
+  },
+  "detail": {
+   "backToAccount": "Voltar à sua conta",
+   "notFoundTitle": "Essa encomenda de laboratório não foi encontrada",
+   "notFoundBody": "Pode pertencer a um email diferente. Inicie sessão com o email que usou na encomenda e tente novamente.",
+   "clinicalReview": "REVISÃO CLÍNICA",
+   "loadingResults": "A carregar os seus resultados…",
+   "yourPanel": "O seu painel",
+   "markerFallback": "Marcador",
+   "headlines": {
+    "loading": "A apresentar os seus resultados",
+    "pending": "Os seus resultados estão a caminho",
+    "allIn": "Todos os seus resultados chegaram.",
+    "in": "Os seus resultados chegaram."
+   },
+   "sublines": {
+    "loading": "Um momento enquanto o relatório laboratorial carrega.",
+    "pending": "Assim que o laboratório reportar, esta página enche-se com cada marcador, o seu valor e o seu intervalo saudável.",
+    "allIn": "Cada marcador está dentro do intervalo. Aqui está o quadro completo.",
+    "oneAttention": "Um marcador merece um olhar mais atento. Vamos analisar.",
+    "manyAttention": "{n} marcadores merecem um olhar mais atento. Vamos analisar."
+   },
+   "orderedPrefix": "Encomendado",
+   "statusPrefix": "Estado:",
+   "notInYetTitle": "Os resultados ainda não chegaram",
+   "notInYetBody": "A maioria dos painéis apresenta resultados poucos dias após a colheita. Quando o seu chegar, esta página mostra a vista completa de equilíbrio, com cada marcador e o seu intervalo.",
+   "markerBalance": "O equilíbrio dos seus marcadores",
+   "biomarkers": "BIOMARCADORES",
+   "analyzedSuffix": "{pct}% Analisado",
+   "statusNames": {
+    "optimal": "Ótimo",
+    "inRange": "Dentro do intervalo",
+    "attention": "Precisa de atenção"
+   },
+   "statusLabels": {
+    "optimal": "ÓTIMO",
+    "inRange": "DENTRO DO INTERVALO",
+    "attention": "ASSINALADO"
+   },
+   "basePrefix": "Base: {name}",
+   "updatedPrefix": "Atualizado {date}",
+   "updatedRecently": "Atualizado recentemente",
+   "triageTitle": "Triagem de Estado",
+   "tapToFilter": "Toque para filtrar",
+   "triageSubs": {
+    "optimal": "Exatamente onde os quer",
+    "inRange": "Dentro do intervalo saudável",
+    "attention": "Vale uma conversa com o seu médico"
+   },
+   "allFilter": "Todos ({n})",
+   "rangePrefix": "Intervalo {range}",
+   "disclaimer": "Os resultados laboratoriais são informação sobre a sua própria saúde e não são um diagnóstico. Fale com o seu médico sobre qualquer resultado que o preocupe e ligue 911 numa emergência."
+  }
+ },
+ "login": {
+  "brandHeadLead": "Bem-vindo",
+  "brandHeadAccent": "de volta.",
+  "brandCopy": "O seu plano, as suas encomendas e a sua rotina. Um email liga a aplicação e a web.",
+  "label": "A sua conta Tava",
+  "title": "Iniciar sessão",
+  "intro": "Inicie sessão com o email que usou no pagamento ou na aplicação móvel Tava. O seu plano, as suas encomendas e a sua rotina estão ligados a esse email, por isso tudo aqui corresponde à aplicação. Não é necessária palavra-passe. Enviamos-lhe por email um link de início de sessão, e tocar nele coloca-o na sua conta.",
+  "emailLabel": "Endereço de email",
+  "invalidEmail": "Introduza um endereço de email válido.",
+  "sendFailed": "Não conseguimos enviar esse email. Verifique o endereço e tente novamente.",
+  "sending": "A enviar…",
+  "sendButton": "Enviar-me um link de início de sessão",
+  "sentNotice": "Link de início de sessão enviado para {email}. Pode demorar um minuto a chegar. Verifique a sua pasta de spam se não o vir.",
+  "sentBody": "Abra esse email neste dispositivo e toque no link lá dentro. Chegará à sua conta, já com a sessão iniciada. O link funciona uma vez e expira, por isso use-o em breve.",
+  "resend": "Reenviar o email",
+  "differentEmail": "Usar um email diferente",
+  "footNote": "É a primeira vez aqui? O mesmo link cria a sua conta. Use o email da sua encomenda e está tudo à sua espera.",
+  "claimLabel": "Comprou na web e usa a aplicação?",
+  "claimTitle": "Use o seu código de ativação na aplicação",
+  "claimBody1": "Quando comprou através do questionário ou deste site, o seu email de confirmação de compra (e a página logo após o pagamento) mostrou um código de ativação. Abra a aplicação móvel Tava, inicie sessão e introduza esse código no separador Encomendas. A sua compra, o seu plano e as suas respostas ao questionário passam para a sua conta da aplicação, sem uma segunda compra.",
+  "claimBody2": "Na web é ainda mais simples. Inicie sessão acima com o mesmo email que usou no pagamento, e as suas encomendas e o seu plano já estão aqui.",
+  "faqButton": "Perguntas? Veja as Perguntas Frequentes"
+ },
+ "checkout": {
+  "title": "Pagamento",
+  "closeAria": "Fechar pagamento",
+  "planOneTime": "PDRN Brightening Serum · $49 · Compra única",
+  "planSubscribe": "PDRN Brightening Serum · $39 por mês · Subscribe & Save 20%",
+  "email": "Email",
+  "firstName": "Nome próprio",
+  "lastName": "Apelido",
+  "streetAddress": "Endereço",
+  "addressLine2": "Linha de endereço 2 (opcional)",
+  "city": "Cidade",
+  "state": "Estado",
+  "zip": "Código postal",
+  "country": "País",
+  "phoneOptional": "Telefone (opcional)",
+  "missingIntro": "Quase lá. Adicione {fields}.",
+  "missingNames": {
+   "email": "um email válido",
+   "firstName": "nome próprio",
+   "lastName": "apelido",
+   "address1": "endereço",
+   "city": "cidade",
+   "state": "estado",
+   "zip": "código postal"
+  },
+  "creating": "A criar o seu pagamento…",
+  "taking": "A levá-lo para o pagamento seguro…",
+  "continueBtn": "Continuar para o Pagamento",
+  "startError": "O pagamento não pôde começar. Verifique os seus dados e tente novamente. Não foi cobrado qualquer valor.",
+  "stripeNote": "Pagamento seguro através da Stripe. Confirmará o pagamento na página da Stripe. Ainda não foi cobrado qualquer valor."
+ },
+ "legal": {
+  "governsNote": "Esta página é uma tradução do original em inglês. Se alguma vez a redação diferir, prevalece a versão em inglês."
+ }
+}

@@ -1,0 +1,307 @@
+{
+ "file": "quiz-41.js",
+ "entries": [
+  {
+   "k": "goal.radiance",
+   "q": "dq",
+   "t": "hehku ja säteily"
+  },
+  {
+   "k": "goal.fine_lines",
+   "q": "dq",
+   "t": "hienot juonteet"
+  },
+  {
+   "k": "goal.hydration",
+   "q": "dq",
+   "t": "syvä kosteutus"
+  },
+  {
+   "k": "goal.even_tone",
+   "q": "dq",
+   "t": "tasainen sävy"
+  },
+  {
+   "k": "skin.dry",
+   "q": "dq",
+   "t": "Kuiva"
+  },
+  {
+   "k": "skin.oily",
+   "q": "dq",
+   "t": "Rasvainen"
+  },
+  {
+   "k": "skin.combination",
+   "q": "dq",
+   "t": "Sekaiho"
+  },
+  {
+   "k": "skin.sensitive",
+   "q": "dq",
+   "t": "Herkkä"
+  },
+  {
+   "k": "skin.not_sure",
+   "q": "dq",
+   "t": "Selvitän sitä vielä"
+  },
+  {
+   "k": "concern.dullness",
+   "q": "dq",
+   "t": "sameus"
+  },
+  {
+   "k": "concern.uneven_tone",
+   "q": "dq",
+   "t": "epätasainen sävy"
+  },
+  {
+   "k": "concern.texture",
+   "q": "dq",
+   "t": "karhea rakenne"
+  },
+  {
+   "k": "concern.dryness",
+   "q": "dq",
+   "t": "kuivuus"
+  },
+  {
+   "k": "notalone.radiance",
+   "q": "dq",
+   "t": "Perustajat ja sisällöntuottajat, jotka esiintyvät joka päivä, aloittavat aamunsa samalla tavalla. Samea ja väsyneen näköinen iho on yksi yleisimmistä syistä, miksi ihmiset aloittavat seerumirutiinin. PDRN Brightening Serum on rakennettu PDRN:n ja peptidien ympärille kevyessä koostumuksessa, joka on suunniteltu parantamaan sileän ja säteilevän ihon ilmettä ja saamaan ihon näyttämään täyteläiseltä, pehmeältä ja virkistyneeltä, aamuin ja illoin."
+  },
+  {
+   "k": "notalone.fine_lines",
+   "q": "dq",
+   "t": "Perustajat ja sisällöntuottajat, jotka esiintyvät joka päivä, aloittavat aamunsa samalla tavalla. Hienot juonteet ovat yleensä ensimmäinen asia, johon ihmiset haluavat seerumin. Tämä koostumus yhdistää Acetyl Hexapeptide-8:n ja PDRN:n, ainesosat, jotka on valittu tukemaan ihoa, joka näyttää sileämmältä ja säteilevämmältä, yhdessä vaiheessa, kahdesti päivässä. Kymmenen vaiheen rutiinia ei tarvita."
+  },
+  {
+   "k": "notalone.hydration",
+   "q": "dq",
+   "t": "Perustajat ja sisällöntuottajat, jotka esiintyvät joka päivä, aloittavat aamunsa samalla tavalla. Iho, joka tuntuu kireältä ja janoiselta keskipäivään mennessä, on juuri sitä, mihin tämä seerumi on tehty. Glyseriinin, natrium PCA:n ja natriumhyaluronaatin sekoitus tarjoaa syvää kosteutusta, ja pantenoli hoitaa ihoa, joten iho tuntuu miellyttävältä ja näyttää täyteläiseltä, ei rasvaiselta."
+  },
+  {
+   "k": "notalone.even_tone",
+   "q": "dq",
+   "t": "Perustajat ja sisällöntuottajat, jotka esiintyvät joka päivä, aloittavat aamunsa samalla tavalla. Epätasaisen näköinen iho on yleinen turhautumisen aihe. PDRN ja peptidit auttavat edistämään säteilevämpää ja elinvoimaisemman näköistä ihoa, ja kevyt koostumus imeytyy nopeasti ja helposti. Se on yksinkertainen vaihe kahdesti päivässä kohti tasaisempaa ilmettä."
+  },
+  {
+   "k": "ing.pdrn.name",
+   "q": "dq",
+   "t": "PDRN (polydeoxyribonucleotide)"
+  },
+  {
+   "k": "ing.pdrn.text",
+   "q": "dq",
+   "t": "Auttaa edistämään säteilevämpää ja elinvoimaisemman näköistä ihoa ja parantaa sileän ja säteilevän ihon ilmettä."
+  },
+  {
+   "k": "ing.peptide.name",
+   "q": "dq",
+   "t": "Acetyl hexapeptide-8"
+  },
+  {
+   "k": "ing.peptide.text",
+   "q": "dq",
+   "t": "Peptidi, joka toimii yhdessä PDRN:n kanssa tukemaan ihoa, joka näyttää sileämmältä ja tasaisemmalta."
+  },
+  {
+   "k": "ing.ha.name",
+   "q": "dq",
+   "t": "Hyaluronic acid, glycerin & sodium PCA"
+  },
+  {
+   "k": "ing.ha.text",
+   "q": "dq",
+   "t": "Kosteutussekoitus, joka vetää kosteutta puoleensa täyteläistä ja miellyttävää tunnetta sekä silkkisen sileää rakennetta varten."
+  },
+  {
+   "k": "ing.panthenol.name",
+   "q": "dq",
+   "t": "Panthenol"
+  },
+  {
+   "k": "ing.panthenol.text",
+   "q": "dq",
+   "t": "Hoitaa ihoa ja saa sen tuntumaan pehmeältä ja miellyttävältä. Se on ystävällinen pohja iholle, joka reagoi helposti."
+  },
+  {
+   "k": "ramp.often.1",
+   "q": "dq",
+   "t": "Viikko 1, vain iltaisin, joka toinen ilta"
+  },
+  {
+   "k": "ramp.often.2",
+   "q": "dq",
+   "t": "Viikko 2, joka ilta"
+  },
+  {
+   "k": "ramp.often.3",
+   "q": "dq",
+   "t": "Viikot 3–4, aamuin ja illoin"
+  },
+  {
+   "k": "ramp.sometimes.1",
+   "q": "dq",
+   "t": "Päivät 1–3, vain iltaisin"
+  },
+  {
+   "k": "ramp.sometimes.2",
+   "q": "dq",
+   "t": "Päivästä 4 eteenpäin, aamuin ja illoin"
+  },
+  {
+   "k": "ramp.never.1",
+   "q": "dq",
+   "t": "Päivästä 1 lähtien, aamuin ja illoin, kahdesti päivässä"
+  },
+  {
+   "k": "fit.cleanser_only",
+   "q": "dq",
+   "t": "Sopii heti puhdistuksen jälkeen, yksi lisätty vaihe, noin minuutti."
+  },
+  {
+   "k": "fit.few_products",
+   "q": "dq",
+   "t": "Levitetään puhdistuksen jälkeen, ennen kosteusvoidettasi."
+  },
+  {
+   "k": "fit.full_routine",
+   "q": "dq",
+   "t": "Kerrostuu puhdistuksen jälkeen ja ennen kosteusvoidetta ja SPF:ää, mistään ei tarvitse luopua."
+  },
+  {
+   "k": "notalone.titlePrefix",
+   "q": "dq",
+   "t": "Et ole yksin. "
+  },
+  {
+   "k": "notalone.titleSuffix",
+   "q": "dq",
+   "t": " on se, mistä useimmat ihmiset aloittavat."
+  },
+  {
+   "k": "match.topTag",
+   "q": "sq",
+   "t": "<span class=\"tag\">Your top match</span>"
+  },
+  {
+   "k": "plan.template",
+   "q": "tpl",
+   "t": "\n    <p class=\"mirrorline\">${SKIN_LABEL[a.skinType]} iho · painopiste: ${CONCERN_LABEL[a.concern]} · tavoite: ${GOAL_LABEL[a.goal]}</p>\n    <div class=\"planrow\"><span class=\"k\">Totuttelu</span><span class=\"v\">${plan.rampLines.join(\"<br>\")}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Aikasi</span><span class=\"v\">${fmtTime(a.amTime)} ja ${fmtTime(a.pmTime)}, muistutukset vain silloin</span></div>\n    <div class=\"planrow\"><span class=\"k\">Sopivuus rutiiniin</span><span class=\"v\">${ROUTINE_FIT[a.routine]}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Pullo</span><span class=\"v\">PDRN Brightening Serum, 1 fl oz (30 ml), mitoitettu kahdesti päivässä käyttöön</span></div>"
+  },
+  {
+   "k": "summary.template",
+   "q": "tpl",
+   "t": "30 päivän suunnitelma tavoitteelle ${GOAL_LABEL[a.goal]}: ${SKIN_LABEL[a.skinType]} iho, päähuolenaihe ${CONCERN_LABEL[a.concern]}. "
+  },
+  {
+   "k": "summary.ramp",
+   "q": "tpl",
+   "t": "Totuttelu: ${ramp.key} (${ramp.lines.join(\"; \")}). Levitä klo ${fmtTime(a.amTime)} ja ${fmtTime(a.pmTime)}. "
+  },
+  {
+   "k": "buy.subscribe",
+   "q": "dq",
+   "t": "Aloita tilaukseni"
+  },
+  {
+   "k": "buy.once",
+   "q": "dq",
+   "t": "Osta kerran"
+  },
+  {
+   "k": "paynote.subscribe",
+   "q": "dq",
+   "t": "Tilaus uusiutuu 30 päivän välein hintaan $39. Keskeytä tai peruuta milloin tahansa."
+  },
+  {
+   "k": "paynote.once",
+   "q": "dq",
+   "t": "Kertaostos hintaan $49. Ei tilausta."
+  },
+  {
+   "k": "missing.firstName",
+   "q": "dq",
+   "t": "etunimi",
+   "anchor": "missing.push(\"first name\")"
+  },
+  {
+   "k": "missing.lastName",
+   "q": "dq",
+   "t": "sukunimi",
+   "anchor": "missing.push(\"last name\")"
+  },
+  {
+   "k": "missing.address1",
+   "q": "dq",
+   "t": "katuosoite",
+   "anchor": "missing.push(\"street address\")"
+  },
+  {
+   "k": "missing.city",
+   "q": "dq",
+   "t": "kaupunki",
+   "anchor": "missing.push(\"city\")"
+  },
+  {
+   "k": "missing.state",
+   "q": "dq",
+   "t": "osavaltio",
+   "anchor": "missing.push(\"state\")"
+  },
+  {
+   "k": "missing.zip",
+   "q": "dq",
+   "t": "ZIP koodi",
+   "anchor": "missing.push(\"ZIP code\")"
+  },
+  {
+   "k": "missing.email",
+   "q": "dq",
+   "t": "sähköposti",
+   "anchor": "missing.push(\"email\")"
+  },
+  {
+   "k": "missing.intro",
+   "q": "dq",
+   "t": "Melkein valmista, lisää "
+  },
+  {
+   "k": "placing",
+   "q": "dq",
+   "t": "Tehdään tilaustasi…"
+  },
+  {
+   "k": "taking",
+   "q": "dq",
+   "t": "Viedään sinut turvalliseen kassaan…"
+  },
+  {
+   "k": "orderError",
+   "q": "dq",
+   "t": "Tilauksesi tekemisessä meni jotain pieleen. Tietosi ovat vielä täällä, yritä uudelleen. Jos se epäonnistuu edelleen, lähetä sähköpostia osoitteeseen talia@tavalabs.app, niin hoidamme asian."
+  },
+  {
+   "k": "thanks.template",
+   "q": "tpl",
+   "t": "\n    <h3>Tilauksen yhteenveto</h3>\n    <div class=\"planrow\"><span class=\"k\">Tuote</span><span class=\"v\">PDRN Brightening Serum · 1 fl oz (30 ml) · ×1</span></div>\n    <div class=\"planrow\"><span class=\"k\">${p.order.purchaseType === \"subscribe\" ? \"Subscription\" : \"One-time\"}</span><span class=\"v\">$${p.order.price}${p.order.purchaseType === \"subscribe\" ? \" every 30 days — pause or cancel anytime\" : \"\"}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Toimitusosoite</span><span class=\"v\">${s.firstName} ${s.lastName}, ${s.city}, ${s.stateCode} ${s.zip}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Suunnitelmasi</span><span class=\"v\">${plan.rampLines.join(\" · \")}<br>Muistutukset klo ${fmtTime(p.answers.amTime)} ja ${fmtTime(p.answers.pmTime)}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Suunnitelma lähetetty osoitteeseen</span><span class=\"v\">${p.email}</span></div>"
+  },
+  {
+   "k": "carry.template",
+   "q": "tpl",
+   "t": "Kirjaudu sovellukseen osoitteella ${p.email}, samalla sähköpostilla kuin täällä, ja vastauksesi, 30 päivän suunnitelmasi ja tämä tilaus ovat jo siellä. Mitään ei tarvitse kirjoittaa uudelleen."
+  },
+  {
+   "k": "time.pm",
+   "q": "dq",
+   "t": "PM"
+  },
+  {
+   "k": "time.am",
+   "q": "dq",
+   "t": "AM"
+  }
+ ]
+}

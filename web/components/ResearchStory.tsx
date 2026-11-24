@@ -1,6 +1,9 @@
 "use client";
 
 import { useEffect, useRef } from "react";
+import { fmt } from "@/lib/i18n/config";
+import type { Dict } from "@/lib/i18n/dictionaries";
+import { EN_DICT } from "@/lib/i18n/dictionaries";
 
 /* The 16 week participant research story, ported from the approved
    Research Series 001 design into the site system: Forest Luxe tokens,
@@ -9,62 +12,31 @@ import { useEffect, useRef } from "react";
    were measured at baseline and week 16 only, and the charts on this
    page show those two points and nothing between them. */
 
-const RESULTS = [
-  { title: "Total acne lesions", baseLabel: "16.8", weekLabel: "6.2", change: "63 percent lower", gold: false, baseW: 100, weekW: 37, note: "Dermatologist counted lesions" },
-  { title: "Skin hydration", baseLabel: "29.4 AU", weekLabel: "47.1 AU", change: "60 percent higher", gold: true, baseW: 62, weekW: 100, note: "Corneometer measurement in AU" },
-  { title: "Erythema and redness index", baseLabel: "258", weekLabel: "181", change: "30 percent lower", gold: false, baseW: 100, weekW: 70, note: "Chromameter index" },
-  { title: "Melanin and pigmentation index", baseLabel: "212", weekLabel: "158", change: "25 percent lower", gold: false, baseW: 100, weekW: 75, note: "Chromameter index" },
-  { title: "Clinical texture score", baseLabel: "2.7 of 4", weekLabel: "1.3 of 4", change: "52 percent lower", gold: false, baseW: 68, weekW: 33, note: "Graded on a 0 to 4 scale" },
+const RESULTS_NUM = [
+  { baseLabel: "16.8", weekLabel: "6.2", gold: false, baseW: 100, weekW: 37 },
+  { baseLabel: "29.4 AU", weekLabel: "47.1 AU", gold: true, baseW: 62, weekW: 100 },
+  { baseLabel: "258", weekLabel: "181", gold: false, baseW: 100, weekW: 70 },
+  { baseLabel: "212", weekLabel: "158", gold: false, baseW: 100, weekW: 75 },
+  { baseLabel: "2.7 of 4", weekLabel: "1.3 of 4", gold: false, baseW: 68, weekW: 33 },
 ];
 
-const CONCERNS: Array<[string, number]> = [
-  ["Post inflammatory hyperpigmentation", 46],
-  ["Uneven texture and roughness", 41],
-  ["Inflammatory acne", 38],
-  ["Facial redness and sensitivity", 33],
-  ["Under eye dark circles", 29],
-  ["Dryness and compromised barrier", 27],
-  ["Fine lines and early photoaging", 24],
-];
+const CONCERN_VALUES = [46, 41, 38, 33, 29, 27, 24];
 
-const SIDE_EFFECTS: Array<[string, number]> = [
-  ["Mild dryness or peeling", 22],
-  ["Temporary acne flare", 14],
-  ["Mild gastrointestinal discomfort", 7],
-];
+const SIDE_EFFECT_VALUES = [22, 14, 7];
 
-const ADHERENCE = [
-  { label: "Overall adherence", val: 86, gold: false },
-  { label: "Supplement adherence", val: 91, gold: true },
-  { label: "Topical adherence", val: 83, gold: false },
+const ADHERENCE_NUM = [
+  { val: 86, gold: false },
+  { val: 91, gold: true },
+  { val: 83, gold: false },
 ];
 
 const RING_CIRC = 2 * Math.PI * 62;
 
-const VISITS: Array<[string, string]> = [
-  ["Baseline", "Screening, measurements, and photography"],
-  ["Week 4", "Follow up assessment"],
-  ["Week 8", "Follow up assessment"],
-  ["Week 12", "Follow up assessment"],
-  ["Week 16", "Final measurements and photography"],
-];
 
-const SUPPLEMENTS: Array<[string, string]> = [
-  ["Vitamin C", "300 mg"],
-  ["Zinc", "20 mg"],
-  ["Niacinamide", "150 mg"],
-  ["Astaxanthin", "6 mg"],
-  ["Curcumin phytosome", "200 mg"],
-  ["Lactobacillus probiotic blend", "10 billion CFU"],
-];
 
-const METHODS = [
-  "Dermatologist counted acne lesions",
-  "Corneometer hydration",
-  "Chromameter redness and melanin indices",
-  "Texture grading on a 0 to 4 scale",
-  "Standardized photography",
-];
+const SUPPLEMENT_AMOUNTS = ["300 mg", "20 mg", "150 mg", "6 mg", "200 mg", "10 billion CFU"];
+
+
 
 const RESEARCH_CSS = `
 .rs-wrap{width:min(1200px,100% - 36px);margin-inline:auto}
@@ -130,7 +102,6 @@ const RESEARCH_CSS = `
 .rs-donut circle{fill:none;stroke-width:22}
 .rs-donut-seg{transition:stroke-dasharray 1.3s cubic-bezier(.22,1,.36,1)}
 .rs-legend{display:grid;gap:10px;font-size:.94rem}
-.rs-legend b{white-space:nowrap}
 .rs-legend div{display:flex;justify-content:space-between;gap:12px;border-bottom:1px solid rgb(18 16 12 / 0.14);padding-bottom:8px}
 .rs-dot{width:10px;height:10px;border-radius:50%;display:inline-block;margin-right:8px;vertical-align:middle}
 .rs-timeline{display:grid;gap:0;margin-top:8px}
@@ -171,15 +142,13 @@ const RESEARCH_CSS = `
 .rs-life ul{margin:0;padding-left:18px;display:grid;gap:6px}
 .rs-rings{display:grid;gap:18px}
 .rs-ring-card{background:#fff;border:1px solid rgb(18 16 12 / 0.14);border-radius:24px;padding:24px;text-align:center}
-.rs-ring-visual{position:relative;width:150px;margin:0 auto}
-.rs-ring-svg{width:150px;height:150px;transform:rotate(-90deg);display:block}
+.rs-ring-svg{width:150px;height:150px;transform:rotate(-90deg)}
 .rs-ring-svg circle{fill:none;stroke-width:13}
 .rs-ring-bg{stroke:#ECE7DC}
 .rs-ring-fg{stroke:#123B2C;stroke-linecap:round;transition:stroke-dashoffset 1.4s cubic-bezier(.22,1,.36,1)}
 .rs-ring-gold .rs-ring-fg{stroke:#B78B45}
-.rs-ring-num{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;color:#123B2C}
-.rs-ring-num .rs-ring-val{font-size:1.9rem;font-weight:800;line-height:1}
-.rs-ring-num small{font-size:.66rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#B78B45;margin-top:3px}
+.rs-ring-num{font-size:2rem;font-weight:800;margin-top:-102px;margin-bottom:62px;position:relative;color:#123B2C}
+.rs-ring-num small{font-size:.5em;color:#B78B45}
 .rs-ring-card p{margin:4px 0 0;color:#6F695C}
 .rs-ring-card h3{font-size:1rem;font-weight:700;margin:0}
 .rs-safety{background:#F3F0E9}
@@ -221,7 +190,8 @@ const RESEARCH_CSS = `
 }
 `;
 
-export default function ResearchStory() {
+export default function ResearchStory({ dict = EN_DICT }: { dict?: Dict }) {
+  const t = dict.research;
   const rootRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -354,54 +324,47 @@ export default function ResearchStory() {
         <div className="rs-wrap rs-hero-grid">
           <div>
             <div className="rs-pill">
-              <i aria-hidden="true" /> Research Series 001 · Participant outcomes
+              <i aria-hidden="true" /> {t.pill}
             </div>
             <h1 className="rs-h1">
-              A 16 week look at measured <em>skin changes.</em>
+              {t.h1Lead} <em>{t.h1Accent}</em>
             </h1>
             <p className="rs-hero-sub">
-              A prospective, open label participant program combining a
-              personalized skincare routine, supplements, and lifestyle
-              guidance. Every number on this page comes from the report,
-              measured at baseline and at week 16.
+              {t.heroSub}
             </p>
             <div className="rs-hero-meta">
-              <span className="rs-chip">Prospective and open label</span>
-              <span className="rs-chip">Single arm</span>
-              <span className="rs-chip">Medically supervised</span>
-              <span className="rs-chip">In person clinical research site</span>
+              {t.chips.map((chip, i) => (
+                <span key={i} className="rs-chip">{chip}</span>
+              ))}
             </div>
           </div>
           <div className="rs-hero-visual" data-speed="-0.06">
             <div className="rs-visual-card">
-              <p className="rs-label rs-label-light">Headline result</p>
-              <h3>Total acne lesions fell from 16.8 to 6.2</h3>
+              <p className="rs-label rs-label-light">{t.headlineLabel}</p>
+              <h3>{t.headlineTitle}</h3>
               <svg
                 className="rs-slope"
                 viewBox="0 0 520 190"
                 role="img"
-                aria-label="Slope chart showing total acne lesions from 16.8 at baseline to 6.2 at week 16"
+                aria-label={t.slopeAria}
               >
                 <line x1="52" y1="34" x2="468" y2="142" stroke="#D8C19A" strokeWidth="3" strokeLinecap="round" />
                 <circle cx="52" cy="34" r="10" fill="#B78B45" />
                 <circle cx="468" cy="142" r="10" fill="#FAFAF9" />
-                <text x="52" y="18" fill="#fff" fontSize="14" fontWeight="700">Baseline 16.8</text>
-                <text x="360" y="172" fill="#fff" fontSize="14" fontWeight="700">Week 16 · 6.2</text>
+                <text x="52" y="18" fill="#fff" fontSize="14" fontWeight="700">{t.slopeBaseline}</text>
+                <text x="360" y="172" fill="#fff" fontSize="14" fontWeight="700">{t.slopeWeek}</text>
               </svg>
               <p className="rs-slope-note">
-                A straight line between the two measured points only. The
-                report did not publish outcome values for weeks 4, 8, or 12.
+                {t.slopeNote}
               </p>
             </div>
             <div className="rs-badge-row">
-              <div className="rs-float-badge">
-                <b>60 percent higher</b>
-                <span>Skin hydration, 29.4 AU to 47.1 AU</span>
-              </div>
-              <div className="rs-float-badge">
-                <b>52 percent lower</b>
-                <span>Clinical texture score, 2.7 of 4 to 1.3 of 4</span>
-              </div>
+              {t.badges.map((b, i) => (
+                <div key={i} className="rs-float-badge">
+                  <b>{b.big}</b>
+                  <span>{b.small}</span>
+                </div>
+              ))}
             </div>
           </div>
         </div>
@@ -410,19 +373,19 @@ export default function ResearchStory() {
             <div className="rs-stats-grid">
               <div className="rs-stat rs-reveal">
                 <div className="rs-num"><span data-count="16">16</span></div>
-                <p>Weeks in the program</p>
+                <p>{t.statsLabels[0]}</p>
               </div>
               <div className="rs-stat rs-reveal">
                 <div className="rs-num"><span data-count="92">92</span></div>
-                <p>Adults enrolled</p>
+                <p>{t.statsLabels[1]}</p>
               </div>
               <div className="rs-stat rs-reveal">
                 <div className="rs-num"><span data-count="84">84</span></div>
-                <p>People completed all visits</p>
+                <p>{t.statsLabels[2]}</p>
               </div>
               <div className="rs-stat rs-reveal">
-                <div className="rs-num"><span data-count="91">91</span><small> percent</small></div>
-                <p>Completion rate</p>
+                <div className="rs-num"><span data-count="91">91</span><small> {t.percentWord}</small></div>
+                <p>{t.statsLabels[3]}</p>
               </div>
             </div>
           </div>
@@ -431,38 +394,35 @@ export default function ResearchStory() {
 
       {/* Results */}
       <section className="rs-section">
-        <div className="rs-bg-word" data-speed="0.10" style={{ right: "-10px", top: "18px" }} aria-hidden="true">Results</div>
+        <div className="rs-bg-word" data-speed="0.10" style={{ right: "-10px", top: "18px" }} aria-hidden="true">{t.resultsBg}</div>
         <div className="rs-wrap">
           <div className="rs-sec-head rs-reveal">
-            <p className="rs-label">Average change · Baseline to week 16</p>
-            <h2>What changed, in plain numbers.</h2>
-            <p>
-              Results for the 84 participants who completed all visits. Each
-              card compares the two time points the study actually measured.
-            </p>
+            <p className="rs-label">{t.resultsLabel}</p>
+            <h2>{t.resultsTitle}</h2>
+            <p>{t.resultsSub}</p>
           </div>
           <div className="rs-results-grid">
-            {RESULTS.map((r, i) => (
-              <article key={r.title} className={`rs-result-card rs-reveal${i === 0 ? " rs-result-first" : ""}`}>
+            {RESULTS_NUM.map((r, i) => (
+              <article key={i} className={`rs-result-card rs-reveal${i === 0 ? " rs-result-first" : ""}`}>
                 <div className="rs-result-top">
-                  <h3>{r.title}</h3>
-                  <div className={`rs-change${r.gold ? " rs-change-gold" : ""}`}>{r.change}</div>
+                  <h3>{t.results[i].title}</h3>
+                  <div className={`rs-change${r.gold ? " rs-change-gold" : ""}`}>{t.results[i].change}</div>
                 </div>
                 <div className="rs-bars">
                   <div className="rs-bar-row">
-                    <span className="rs-bl">Baseline</span>
+                    <span className="rs-bl">{t.baseline}</span>
                     <div className="rs-bar-track"><div className="rs-bar-fill" data-w={r.baseW} /></div>
                     <span className="rs-bar-val">{r.baseLabel}</span>
                   </div>
                   <div className="rs-bar-row">
-                    <span className="rs-bl">Week 16</span>
+                    <span className="rs-bl">{t.week16}</span>
                     <div className="rs-bar-track"><div className="rs-bar-fill rs-bar-fill-week" data-w={r.weekW} /></div>
                     <span className="rs-bar-val">{r.weekLabel}</span>
                   </div>
                 </div>
                 <div className="rs-slope-foot">
-                  <span>{r.note}</span>
-                  <span>Baseline to week 16</span>
+                  <span>{t.results[i].note}</span>
+                  <span>{t.slopeFoot}</span>
                 </div>
               </article>
             ))}
@@ -472,27 +432,27 @@ export default function ResearchStory() {
 
       {/* Participants */}
       <section className="rs-section" style={{ background: "#fff" }}>
-        <div className="rs-bg-word" data-speed="-0.08" style={{ left: "-8px", top: "10px" }} aria-hidden="true">People</div>
+        <div className="rs-bg-word" data-speed="-0.08" style={{ left: "-8px", top: "10px" }} aria-hidden="true">{t.peopleBg}</div>
         <div className="rs-wrap">
           <div className="rs-sec-head rs-reveal">
-            <p className="rs-label">Who participated</p>
-            <h2>The people behind the averages.</h2>
-            <p>Five visits across the program, from baseline through week 16.</p>
+            <p className="rs-label">{t.participantsLabel}</p>
+            <h2>{t.participantsTitle}</h2>
+            <p>{t.participantsSub}</p>
           </div>
           <div className="rs-part-grid">
             <div className="rs-panel rs-reveal">
-              <p className="rs-label">Average age</p>
+              <p className="rs-label">{t.ageLabel}</p>
               <div className="rs-age-num"><span data-count="32.7" data-dec="1">32.7</span></div>
-              <p className="rs-muted" style={{ margin: "6px 0 0" }}>Years old · Range 20 to 48</p>
+              <p className="rs-muted" style={{ margin: "6px 0 0" }}>{t.ageSuffix}</p>
               <div style={{ marginTop: "22px" }}>
-                <h3>Visit timeline</h3>
+                <h3>{t.visitTimeline}</h3>
                 <div className="rs-timeline">
-                  {VISITS.map(([name, desc]) => (
-                    <div key={name} className="rs-tstep">
+                  {t.visits.map((v, i) => (
+                    <div key={i} className="rs-tstep">
                       <div className="rs-tdot" />
                       <div>
-                        <b>{name}</b>
-                        <span>{desc}</span>
+                        <b>{v.name}</b>
+                        <span>{v.desc}</span>
                       </div>
                     </div>
                   ))}
@@ -501,13 +461,13 @@ export default function ResearchStory() {
             </div>
             <div style={{ display: "grid", gap: "18px" }}>
               <div className="rs-panel rs-reveal">
-                <h3>Gender split</h3>
+                <h3>{t.genderTitle}</h3>
                 <div className="rs-donut-wrap" style={{ marginTop: "14px" }}>
                   <svg
                     className="rs-donut"
                     viewBox="0 0 120 120"
                     role="img"
-                    aria-label="Gender split donut chart, 74 percent female, 24 percent male, 2 percent non binary"
+                    aria-label={t.genderAria}
                   >
                     <circle cx="60" cy="60" r="48" stroke="#ECE7DC" />
                     <circle className="rs-donut-seg" cx="60" cy="60" r="48" stroke="#123B2C" strokeDasharray="0 302" data-dash="223 79" />
@@ -515,28 +475,27 @@ export default function ResearchStory() {
                     <circle className="rs-donut-seg" cx="60" cy="60" r="48" stroke="#D8C19A" strokeDasharray="0 302" data-dash="6 296" strokeDashoffset="-295" />
                   </svg>
                   <div className="rs-legend">
-                    <div><span><span className="rs-dot" style={{ background: "#123B2C" }} />Female</span><b>74 percent</b></div>
-                    <div><span><span className="rs-dot" style={{ background: "#B78B45" }} />Male</span><b>24 percent</b></div>
-                    <div><span><span className="rs-dot" style={{ background: "#D8C19A" }} />Non binary</span><b>2 percent</b></div>
+                    {t.gender.map((g, i) => (
+                      <div key={i}><span><span className="rs-dot" style={{ background: ["#123B2C", "#B78B45", "#D8C19A"][i] }} />{g.label}</span><b>{g.pct}</b></div>
+                    ))}
                   </div>
                 </div>
                 <p className="rs-muted" style={{ fontSize: ".88rem", margin: "10px 0 0" }}>
-                  Donut animates to the reported split when it scrolls into view.
+                  {t.donutNote}
                 </p>
               </div>
               <div className="rs-panel rs-reveal">
-                <h3>Baseline skin concerns</h3>
+                <h3>{t.concernsTitle}</h3>
                 <div className="rs-hbars">
-                  {CONCERNS.map(([name, val]) => (
-                    <div key={name} className="rs-hbar">
-                      <div className="rs-hbar-head"><b>{name}</b><span>{val} percent</span></div>
+                  {CONCERN_VALUES.map((val, i) => (
+                    <div key={i} className="rs-hbar">
+                      <div className="rs-hbar-head"><b>{t.concerns[i]}</b><span>{val} {t.percentWord}</span></div>
                       <div className="rs-hbar-track"><div className="rs-hbar-fill" data-w={val} /></div>
                     </div>
                   ))}
                 </div>
                 <p className="rs-muted" style={{ fontSize: ".86rem", marginTop: "12px" }}>
-                  Participants could report more than one concern, so these
-                  shares do not add to 100 percent.
+                  {t.concernsNote}
                 </p>
               </div>
             </div>
@@ -546,80 +505,68 @@ export default function ResearchStory() {
 
       {/* Program */}
       <section className="rs-section rs-program">
-        <div className="rs-bg-word" data-speed="0.12" style={{ right: 0, top: "16px", color: "rgba(255,255,255,.06)" }} aria-hidden="true">Program</div>
+        <div className="rs-bg-word" data-speed="0.12" style={{ right: 0, top: "16px", color: "rgba(255,255,255,.06)" }} aria-hidden="true">{t.programBg}</div>
         <div className="rs-wrap">
           <div className="rs-sec-head rs-reveal">
-            <p className="rs-label rs-label-light">Program and protocol</p>
-            <h2>The 16 week program, step by step.</h2>
-            <p>
-              Participants received in person screening, product dispensing,
-              application coaching, and follow up assessments at a clinical
-              research site.
-            </p>
+            <p className="rs-label rs-label-light">{t.programLabel}</p>
+            <h2>{t.programTitle}</h2>
+            <p>{t.programSub}</p>
           </div>
           <div className="rs-routine-grid">
             <div className="rs-routine rs-reveal">
-              <p className="rs-label rs-label-light">Morning routine</p>
-              <h3>Start the day</h3>
+              <p className="rs-label rs-label-light">{t.morningTag}</p>
+              <h3>{t.morningTitle}</h3>
               <ol>
-                <li><span>Gentle cleanser</span></li>
-                <li><span>Vitamin C serum, 15 percent</span></li>
-                <li><span>Ceramide moisturizer</span></li>
-                <li><span>Mineral sunscreen, SPF 50</span></li>
+                {t.amSteps.map((step, i) => (
+                  <li key={i}><span>{step}</span></li>
+                ))}
               </ol>
             </div>
             <div className="rs-routine rs-reveal">
-              <p className="rs-label rs-label-light">Evening routine</p>
-              <h3>Close the day</h3>
+              <p className="rs-label rs-label-light">{t.eveningTag}</p>
+              <h3>{t.eveningTitle}</h3>
               <ol>
-                <li><span>Gentle cleanser</span></li>
-                <li><span>Niacinamide 5 percent plus zinc serum</span></li>
-                <li><span>Peptide barrier cream</span></li>
-                <li><span>Retinol 0.3 percent, introduced in week 2 and titrated under clinician guidance</span></li>
+                {t.pmSteps.map((step, i) => (
+                  <li key={i}><span>{step}</span></li>
+                ))}
               </ol>
               <p className="rs-note">
-                Retinol was used 3 to 5 nights weekly after the initial two
-                week ramp up period. As needed, 2 percent salicylic acid was
-                used for active lesions.
+                {t.routineNote}
               </p>
             </div>
           </div>
 
           <div className="rs-supp rs-reveal">
-            <p className="rs-label">Supplement routine</p>
-            <h3>Tava Skin Complex</h3>
+            <p className="rs-label">{t.supplementLabel}</p>
+            <h3>{t.supplementTitle}</h3>
             <p className="rs-muted" style={{ margin: "6px 0 0" }}>
-              Two capsules daily with breakfast. Amounts shown per two capsule serving.
+              {t.supplementSub}
             </p>
             <div className="rs-supp-grid">
-              {SUPPLEMENTS.map(([name, amt]) => (
-                <div key={name} className="rs-supp-row"><span>{name}</span><b>{amt}</b></div>
+              {SUPPLEMENT_AMOUNTS.map((amt, i) => (
+                <div key={i} className="rs-supp-row"><span>{t.supplements[i]}</span><b>{amt}</b></div>
               ))}
             </div>
             <p className="rs-muted" style={{ fontSize: ".9rem", marginTop: "12px" }}>
-              Optional addition, Omega 3, one softgel daily.
+              {t.supplementNote}
             </p>
           </div>
 
           <div className="rs-life-grid">
             <div className="rs-life rs-reveal">
-              <h4>Nutrition guidance</h4>
+              <h4>{t.nutritionTitle}</h4>
               <ul>
-                <li>At least 2.5 L of water daily</li>
-                <li>Vegetables, berries, and omega 3 rich foods</li>
-                <li>Limit added sugar and high glycemic foods</li>
-                <li>Optional two week low dairy, low sugar reset</li>
-                <li>Baseline counseling with a registered dietitian</li>
+                {t.nutritionItems.map((item, i) => (
+                  <li key={i}>{item}</li>
+                ))}
               </ul>
             </div>
             <div className="rs-life rs-reveal">
-              <h4>Lifestyle goals</h4>
+              <h4>{t.lifestyleTitle}</h4>
               <ul>
-                <li>7 to 9 hours of sleep</li>
-                <li>At least 150 minutes of moderate activity per week</li>
-                <li>Five minute daily breathing exercise</li>
-                <li>Sleep logged weekly</li>
-                <li>Hydration and sunscreen habits reviewed at visits</li>
+                {t.lifestyleItems.map((item, i) => (
+                  <li key={i}>{item}</li>
+                ))}
               </ul>
             </div>
           </div>
@@ -630,33 +577,30 @@ export default function ResearchStory() {
       <section className="rs-section">
         <div className="rs-wrap">
           <div className="rs-sec-head rs-reveal">
-            <p className="rs-label">Program tracking</p>
-            <h2>How closely people stayed on plan.</h2>
-            <p>Adherence across the full 16 weeks, as recorded in the report.</p>
+            <p className="rs-label">{t.adherenceLabel}</p>
+            <h2>{t.adherenceTitle}</h2>
+            <p>{t.adherenceSub}</p>
           </div>
           <div className="rs-rings">
-            {ADHERENCE.map((a) => (
-              <div key={a.label} className={`rs-ring-card rs-reveal${a.gold ? " rs-ring-gold" : ""}`}>
-                <div className="rs-ring-visual">
-                  <svg className="rs-ring-svg" viewBox="0 0 150 150" role="img" aria-label={`${a.label}, ${a.val} percent`}>
-                    <circle className="rs-ring-bg" cx="75" cy="75" r="62" />
-                    <circle
-                      className="rs-ring-fg"
-                      cx="75"
-                      cy="75"
-                      r="62"
-                      strokeDasharray={RING_CIRC}
-                      strokeDashoffset={RING_CIRC}
-                      data-offset={RING_CIRC * (1 - a.val / 100)}
-                    />
-                  </svg>
-                  <div className="rs-ring-num">
-                    <span className="rs-ring-val" data-count={a.val}>{a.val}</span>
-                    <small>percent</small>
-                  </div>
+            {ADHERENCE_NUM.map((a, i) => (
+              <div key={i} className={`rs-ring-card rs-reveal${a.gold ? " rs-ring-gold" : ""}`}>
+                <svg className="rs-ring-svg" viewBox="0 0 150 150" role="img" aria-label={fmt(t.adherenceAria, { label: t.adherence[i], val: a.val })}>
+                  <circle className="rs-ring-bg" cx="75" cy="75" r="62" />
+                  <circle
+                    className="rs-ring-fg"
+                    cx="75"
+                    cy="75"
+                    r="62"
+                    strokeDasharray={RING_CIRC}
+                    strokeDashoffset={RING_CIRC}
+                    data-offset={RING_CIRC * (1 - a.val / 100)}
+                  />
+                </svg>
+                <div className="rs-ring-num">
+                  <span data-count={a.val}>{a.val}</span><small> {t.percentWord}</small>
                 </div>
-                <h3 style={{ marginTop: "14px" }}>{a.label}</h3>
-                <p>Across the 16 week program</p>
+                <h3>{t.adherence[i]}</h3>
+                <p>{t.adherenceFoot}</p>
               </div>
             ))}
           </div>
@@ -665,20 +609,20 @@ export default function ResearchStory() {
 
       {/* Safety */}
       <section className="rs-section rs-safety">
-        <div className="rs-bg-word" data-speed="-0.07" style={{ left: 0, top: "8px" }} aria-hidden="true">Safety</div>
+        <div className="rs-bg-word" data-speed="-0.07" style={{ left: 0, top: "8px" }} aria-hidden="true">{t.safetyBg}</div>
         <div className="rs-wrap">
           <div className="rs-sec-head rs-reveal">
-            <p className="rs-label">Reported side effects</p>
-            <h2>What participants reported.</h2>
-            <p>Shares of participants reporting each effect during the program.</p>
+            <p className="rs-label">{t.safetyLabel}</p>
+            <h2>{t.safetyTitle}</h2>
+            <p>{t.safetySub}</p>
           </div>
           <div className="rs-part-grid">
             <div className="rs-panel rs-reveal">
-              <h3>Side effects</h3>
+              <h3>{t.sideEffectsTitle}</h3>
               <div className="rs-hbars">
-                {SIDE_EFFECTS.map(([name, val], i) => (
-                  <div key={name} className="rs-hbar">
-                    <div className="rs-hbar-head"><b>{name}</b><span>{val} percent</span></div>
+                {SIDE_EFFECT_VALUES.map((val, i) => (
+                  <div key={i} className="rs-hbar">
+                    <div className="rs-hbar-head"><b>{t.sideEffects[i]}</b><span>{val} {t.percentWord}</span></div>
                     <div className="rs-hbar-track"><div className={`rs-hbar-fill${i % 2 === 1 ? " rs-hbar-fill-gold" : ""}`} data-w={val} /></div>
                   </div>
                 ))}
@@ -686,20 +630,17 @@ export default function ResearchStory() {
             </div>
             <div>
               <div className="rs-panel rs-reveal">
-                <h3>Withdrawals</h3>
-                <p className="rs-muted" style={{ margin: "6px 0 0" }}>8 participants withdrew from the 92 enrolled.</p>
+                <h3>{t.withdrawalsTitle}</h3>
+                <p className="rs-muted" style={{ margin: "6px 0 0" }}>{t.withdrawalsSub}</p>
                 <div className="rs-withdraw">
-                  <div><span>Scheduling conflicts</span><b>5 people</b></div>
-                  <div><span>Mild side effects</span><b>2 people</b></div>
-                  <div><span>Lost to follow up</span><b>1 person</b></div>
+                  {t.withdrawals.map((w, i) => (
+                    <div key={i}><span>{w.label}</span><b>{w.value}</b></div>
+                  ))}
                 </div>
               </div>
               <div className="rs-alert rs-reveal">
-                <h3>No serious adverse events reported.</h3>
-                <p>
-                  That line is stated in the report alongside the mild effects
-                  listed on this page. It is included here exactly as reported.
-                </p>
+                <h3>{t.alertTitle}</h3>
+                <p>{t.alertBody}</p>
               </div>
             </div>
           </div>
@@ -710,44 +651,32 @@ export default function ResearchStory() {
       <section className="rs-section" style={{ background: "#fff" }}>
         <div className="rs-wrap">
           <div className="rs-sec-head rs-reveal">
-            <p className="rs-label">Visual documentation</p>
-            <h2>Participant photo comparisons.</h2>
-            <p>
-              Side by side photographs from the four month program. The left
-              image in each pair showed baseline and the right image showed
-              week 16. No participant photographs are reproduced on this page.
-            </p>
+            <p className="rs-label">{t.photoLabel}</p>
+            <h2>{t.photoTitle}</h2>
+            <p>{t.photoSub}</p>
           </div>
           <div className="rs-doc-grid">
-            {[
-              ["A", "Side profile view"],
-              ["B", "Frontal view"],
-              ["C", "Frontal view with glasses"],
-              ["D", "Close up cheek view"],
-            ].map(([initial, view]) => (
+            {(["A", "B", "C", "D"] as const).map((initial, i) => (
               <div key={initial} className="rs-doc-card rs-reveal">
                 <div className="rs-doc-initial">{initial}</div>
-                <h3>Participant {initial}</h3>
-                <p>{view}<br />Baseline and week 16</p>
+                <h3>{fmt(t.participant, { initial })}</h3>
+                <p>{t.docViews[i]}<br />{t.baselineAndWeek}</p>
               </div>
             ))}
           </div>
           <div className="rs-panel rs-reveal" style={{ marginTop: "18px" }}>
-            <h3>Photography protocol</h3>
+            <h3>{t.photoProtocolTitle}</h3>
             <p style={{ color: "#4C463C", margin: "8px 0 0", lineHeight: 1.6 }}>
-              Standardized capture at baseline and follow up using a fixed
-              camera setup, consistent visible and cross polarized lighting,
-              frontal, 45 degree, and profile angles, and a color calibrated
-              background.
+              {t.photoProtocol}
             </p>
           </div>
           <div className="rs-sec-head rs-reveal" style={{ marginTop: "36px", marginBottom: 0 }}>
-            <p className="rs-label">How measures were taken</p>
-            <h2 style={{ fontSize: "2rem" }}>Clinical measurements</h2>
+            <p className="rs-label">{t.methodsLabel}</p>
+            <h2 style={{ fontSize: "2rem" }}>{t.methodsTitle}</h2>
           </div>
           <div className="rs-methods">
-            {METHODS.map((m) => (
-              <div key={m}>{m}</div>
+            {t.methods.map((m, i) => (
+              <div key={i}>{m}</div>
             ))}
           </div>
         </div>
@@ -757,21 +686,17 @@ export default function ResearchStory() {
       <section className="rs-section" style={{ paddingTop: 0 }}>
         <div className="rs-wrap">
           <div className="rs-facts-panel rs-reveal">
-            <p className="rs-label rs-label-light">Study design</p>
+            <p className="rs-label rs-label-light">{t.factsLabel}</p>
             <h2 style={{ fontFamily: "var(--font-display), serif", fontWeight: 600, fontSize: "2rem", margin: "10px 0 0", lineHeight: 1.15 }}>
-              The design at a glance.
+              {t.factsTitle}
             </h2>
             <div className="rs-facts">
-              <div><span>Design</span><b>Prospective, open label, single arm</b></div>
-              <div><span>Setting</span><b>In person, medically supervised</b></div>
-              <div><span>Assessments</span><b>Baseline plus weeks 4, 8, 12, 16</b></div>
-              <div><span>Completed</span><b>84 of 92 enrolled · 91 percent</b></div>
+              {t.facts.map((f, i) => (
+                <div key={i}><span>{f.k}</span><b>{f.v}</b></div>
+              ))}
             </div>
             <p className="rs-source">
-              Source, Tava Labs Participant Outcomes, Research Series 001, 16
-              week participant program. This page presents the report numbers
-              only, with baseline and week 16 as the two measured outcome
-              points.
+              {t.source}
             </p>
           </div>
         </div>

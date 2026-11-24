@@ -5,6 +5,8 @@ import { ArrowRight } from "lucide-react";
 import { HERO_MORNING, HERO_ON_SET } from "../lib/heroImages";
 import TaliaFigure from "./TaliaFigure";
 import { Button } from "@/components/ui/button";
+import { localizeHref, type Locale } from "@/lib/i18n/config";
+import type { Dict } from "@/lib/i18n/dictionaries";
 
 /*
   Hero built 2026-11-23 from the reference Vashon supplied: a tinted
@@ -42,12 +44,12 @@ const heroCss = `
 .hr-fig-path{fill:none;stroke:#B78B45;stroke-width:3;vector-effect:non-scaling-stroke}
 .hr-dot{position:absolute;width:13px;height:13px;border-radius:50%;background:#B78B45;border:2.5px solid #FFFDF8;box-shadow:0 1px 5px rgba(8,37,29,.25);transform:translate(-50%,-50%)}
 .hr-dot-a{left:3.5%;top:20%}
-.hr-dot-b{left:93%;top:74%}
-.hr-tag{position:absolute;font-family:var(--font-kanit),Arial,sans-serif;color:#5C4A22;line-height:1.2;text-align:center;white-space:nowrap}
+.hr-dot-b{left:96.5%;top:74%}
+.hr-tag{position:absolute;font-family:var(--font-kanit),Arial,sans-serif;color:#5C4A22;line-height:1.2;text-align:center}
 .hr-tag b{display:block;font-size:13.5px;font-weight:600;letter-spacing:.08em;text-transform:uppercase}
 .hr-tag span{font-size:13px;font-weight:500}
 .hr-tag-a{left:3.5%;top:20%;transform:translate(-42%,-155%)}
-.hr-tag-b{left:93%;top:74%;transform:translate(-52%,125%)}
+.hr-tag-b{left:96.5%;top:74%;transform:translate(-58%,125%)}
 .hr-fig-img{position:absolute;top:-14px;bottom:-14px;left:8%;right:8%;z-index:2}
 .hr-fig-tags{position:absolute;inset:0;z-index:3;pointer-events:none}
 .hr-stat-pos{position:absolute;z-index:4;left:20px;bottom:22px;width:256px}
@@ -94,8 +96,8 @@ const heroCss = `
 .hr-stat-note{font-size:10.5px}
 .hr-tag b{font-size:11px}
 .hr-tag span{font-size:11px}
-.hr-tag-a{transform:translate(-4%,-155%)}
-.hr-tag-b{transform:translate(-92%,125%)}
+.hr-tag-a{transform:translate(-30%,-155%)}
+.hr-tag-b{transform:translate(-68%,125%)}
 .hr-cards{grid-template-columns:1fr;gap:18px;margin-top:18px}
 .hr-card-photo{aspect-ratio:4/3}
 .hr-wide{min-height:410px}
@@ -111,66 +113,70 @@ const heroCss = `
 }
 `;
 
-export default function Hero() {
+export default function Hero({
+  dict,
+  locale = "en",
+}: {
+  dict: Dict;
+  locale?: Locale;
+}) {
+  const t = dict.hero;
+  const lh = (href: string) => localizeHref(href, locale);
   return (
-    <section className="hr" aria-label="PDRN Brightening Serum">
+    <section className="hr" aria-label={t.ariaLabel}>
       <style>{heroCss}</style>
       <div className="hr-wrap">
         <div className="hr-panel">
           <div className="hr-copy">
-            <p className="hr-pill">For the person out front</p>
+            <p className="hr-pill">{t.pill}</p>
             <h1 className="hr-title">
-              <span className="hr-line">Polished before</span>
-              <span className="hr-line hr-line-2">the first call.</span>
+              <span className="hr-line">{t.line1}</span>
+              <span className="hr-line hr-line-2">{t.line2}</span>
             </h1>
-            <p className="hr-sub">
-              Two to four drops of PDRN Brightening Serum, morning and night,
-              for skin that looks bright, hydrated, and smooth from the first
-              call to the last.
-            </p>
+            <p className="hr-sub">{t.sub}</p>
           </div>
-          <TaliaFigure />
+          <TaliaFigure dict={dict} />
         </div>
 
         <div className="hr-cards">
           <Link
-            href="/glow-brightening-serum"
+            href={lh("/glow-brightening-serum")}
             className="hr-card hr-card-photo"
-            aria-label="PDRN Brightening Serum, the product page"
+            aria-label={t.cardAria}
           >
             <Image
               src={HERO_ON_SET}
-              alt="Founder seated on a studio set, facing the camera"
+              alt={t.onSetAlt}
               fill
               sizes="(min-width: 900px) 28vw, 100vw"
               style={{ objectPosition: "50% 25%" }}
             />
             <span className="hr-shade" aria-hidden="true" />
-            <span className="hr-card-pill">On set</span>
+            <span className="hr-card-pill">{t.onSetPill}</span>
             <span className="hr-arrow" aria-hidden="true">
               <ArrowRight size={18} strokeWidth={2} />
             </span>
-            <span className="hr-caption">Calm under the lights</span>
+            <span className="hr-caption">{t.onSetCaption}</span>
           </Link>
 
           <Link
-            href="/glow-brightening-serum"
+            href={lh("/glow-brightening-serum")}
             className="hr-card hr-card-photo hr-card-2"
-            aria-label="PDRN Brightening Serum, the product page"
+            aria-label={t.cardAria}
           >
             <Image
               src={HERO_MORNING}
-              alt="Founder applying serum at a bathroom mirror in morning light"
+              alt={t.morningAlt}
               fill
               sizes="(min-width: 900px) 28vw, 100vw"
               style={{ objectPosition: "50% 20%" }}
             />
             <span className="hr-shade" aria-hidden="true" />
-            <span className="hr-card-pill">Morning ritual</span>
+            <span className="hr-card-pill">{t.morningPill}</span>
             <span className="hr-arrow" aria-hidden="true">
               <ArrowRight size={18} strokeWidth={2} />
             </span>
-            <span className="hr-caption">At the mirror, first thing</span>
+            <span className="hr-caption">{t.morningCaption}</span>
           </Link>
 
           <div className="hr-card hr-wide hr-card-3">
@@ -182,16 +188,16 @@ export default function Hero() {
                 sizes="(min-width: 900px) 30vw, 50vw"
               />
             </div>
-            <span className="hr-card-pill">Day and night</span>
-            <p className="hr-wide-head">One bottle. Every day.</p>
+            <span className="hr-card-pill">{t.widePill}</span>
+            <p className="hr-wide-head">{t.wideHead}</p>
             <div className="hr-wide-action">
               <Button
-                render={<Link href="/glow-brightening-serum" />}
+                render={<Link href={lh("/glow-brightening-serum")} />}
                 size="lg"
               >
-                Add to routine
+                {dict.chrome.addToRoutine}
               </Button>
-              <span className="hr-price">$49 one time or $39 a month</span>
+              <span className="hr-price">{t.priceLine}</span>
             </div>
           </div>
         </div>

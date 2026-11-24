@@ -1,0 +1,307 @@
+{
+ "file": "quiz-41.js",
+ "entries": [
+  {
+   "k": "goal.radiance",
+   "q": "dq",
+   "t": "jas a žiarivosť"
+  },
+  {
+   "k": "goal.fine_lines",
+   "q": "dq",
+   "t": "jemné vrásky"
+  },
+  {
+   "k": "goal.hydration",
+   "q": "dq",
+   "t": "hlboká hydratácia"
+  },
+  {
+   "k": "goal.even_tone",
+   "q": "dq",
+   "t": "rovnomerný tón"
+  },
+  {
+   "k": "skin.dry",
+   "q": "dq",
+   "t": "Suchá"
+  },
+  {
+   "k": "skin.oily",
+   "q": "dq",
+   "t": "Mastná"
+  },
+  {
+   "k": "skin.combination",
+   "q": "dq",
+   "t": "Zmiešaná"
+  },
+  {
+   "k": "skin.sensitive",
+   "q": "dq",
+   "t": "Citlivá"
+  },
+  {
+   "k": "skin.not_sure",
+   "q": "dq",
+   "t": "Stále na to prichádzam"
+  },
+  {
+   "k": "concern.dullness",
+   "q": "dq",
+   "t": "mdlosť"
+  },
+  {
+   "k": "concern.uneven_tone",
+   "q": "dq",
+   "t": "nerovnomerný tón"
+  },
+  {
+   "k": "concern.texture",
+   "q": "dq",
+   "t": "drsná textúra"
+  },
+  {
+   "k": "concern.dryness",
+   "q": "dq",
+   "t": "suchosť"
+  },
+  {
+   "k": "notalone.radiance",
+   "q": "dq",
+   "t": "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Mdlá, unavene vyzerajúca pleť je jedným z najčastejších dôvodov, prečo ľudia začínajú rutinu so sérom. PDRN Brightening Serum je postavené okolo PDRN a peptidov, v ľahkej formule navrhnutej tak, aby zlepšila vzhľad hladkej a žiarivej pleti a zanechala ju plnú, jemnú a sviežu, ráno a večer."
+  },
+  {
+   "k": "notalone.fine_lines",
+   "q": "dq",
+   "t": "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Jemné vrásky sú zvyčajne prvá vec, pre ktorú ľudia chcú sérum. Táto formula spája Acetyl Hexapeptide-8 s PDRN, zložky vybrané na podporu pleti, ktorá vyzerá hladšie a žiarivejšie, v jednom kroku, dvakrát denne. Nie je potrebná žiadna desaťkroková rutina."
+  },
+  {
+   "k": "notalone.hydration",
+   "q": "dq",
+   "t": "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Pleť, ktorá je do poludnia napnutá a smädná, je presne to, na čo je toto sérum vyrobené. Zmes glycerínu, Sodium PCA a Sodium Hyaluronate poskytuje hlbokú hydratáciu, zatiaľ čo Panthenol ošetruje, takže pleť je príjemná a vyzerá plne, nie mastne."
+  },
+  {
+   "k": "notalone.even_tone",
+   "q": "dq",
+   "t": "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Nerovnomerne vyzerajúca pleť je častá frustrácia. PDRN a peptidy pomáhajú podporiť žiarivejšiu a živšie vyzerajúcu pleť a ľahká formula sa vstrebáva rýchlo a jednoducho, jednoduchý krok dvakrát denne smerom k rovnomernejšiemu vzhľadu."
+  },
+  {
+   "k": "ing.pdrn.name",
+   "q": "dq",
+   "t": "PDRN (polydeoxyribonucleotide)"
+  },
+  {
+   "k": "ing.pdrn.text",
+   "q": "dq",
+   "t": "Pomáha podporiť žiarivejšiu a živšie vyzerajúcu pleť a zlepšuje vzhľad hladkej a žiarivej pleti."
+  },
+  {
+   "k": "ing.peptide.name",
+   "q": "dq",
+   "t": "Acetyl hexapeptide-8"
+  },
+  {
+   "k": "ing.peptide.text",
+   "q": "dq",
+   "t": "Peptid, ktorý pracuje spolu s PDRN na podporu pleti, ktorá vyzerá hladšie a rovnomernejšie."
+  },
+  {
+   "k": "ing.ha.name",
+   "q": "dq",
+   "t": "Kyselina hyalurónová, glycerín a Sodium PCA"
+  },
+  {
+   "k": "ing.ha.text",
+   "q": "dq",
+   "t": "Hydratačná zmes, ktorá priťahuje vlhkosť pre plný a príjemný pocit a hodvábne hladkú textúru."
+  },
+  {
+   "k": "ing.panthenol.name",
+   "q": "dq",
+   "t": "Panthenol"
+  },
+  {
+   "k": "ing.panthenol.text",
+   "q": "dq",
+   "t": "Ošetruje pleť a zanecháva ju jemnú a príjemnú, šetrný základ pre pleť, ktorá ľahko reaguje."
+  },
+  {
+   "k": "ramp.often.1",
+   "q": "dq",
+   "t": "1. týždeň, iba večer, každú druhú noc"
+  },
+  {
+   "k": "ramp.often.2",
+   "q": "dq",
+   "t": "2. týždeň, každý večer"
+  },
+  {
+   "k": "ramp.often.3",
+   "q": "dq",
+   "t": "Týždne 3 až 4, ráno a večer"
+  },
+  {
+   "k": "ramp.sometimes.1",
+   "q": "dq",
+   "t": "Dni 1 až 3, iba večer"
+  },
+  {
+   "k": "ramp.sometimes.2",
+   "q": "dq",
+   "t": "Od 4. dňa, ráno a večer"
+  },
+  {
+   "k": "ramp.never.1",
+   "q": "dq",
+   "t": "Od 1. dňa, ráno a večer, dvakrát denne"
+  },
+  {
+   "k": "fit.cleanser_only",
+   "q": "dq",
+   "t": "Zaradí sa hneď po vyčistení, jeden pridaný krok, asi minúta."
+  },
+  {
+   "k": "fit.few_products",
+   "q": "dq",
+   "t": "Ide po vyčistení, pred vaším hydratačným krémom."
+  },
+  {
+   "k": "fit.full_routine",
+   "q": "dq",
+   "t": "Vrství sa po vyčistení a pred hydratačným krémom a SPF, ničoho sa netreba vzdať."
+  },
+  {
+   "k": "notalone.titlePrefix",
+   "q": "dq",
+   "t": "Nie ste v tom sami. "
+  },
+  {
+   "k": "notalone.titleSuffix",
+   "q": "dq",
+   "t": " je miesto, kde väčšina ľudí začína."
+  },
+  {
+   "k": "match.topTag",
+   "q": "sq",
+   "t": "<span class=\"tag\">Your top match</span>"
+  },
+  {
+   "k": "plan.template",
+   "q": "tpl",
+   "t": "\n    <p class=\"mirrorline\">${SKIN_LABEL[a.skinType]} pleť · zameranie na ${CONCERN_LABEL[a.concern]} · cieľ: ${GOAL_LABEL[a.goal]}</p>\n    <div class=\"planrow\"><span class=\"k\">Navykanie</span><span class=\"v\">${plan.rampLines.join(\"<br>\")}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Vaše časy</span><span class=\"v\">${fmtTime(a.amTime)} a ${fmtTime(a.pmTime)}, pripomienky iba vtedy</span></div>\n    <div class=\"planrow\"><span class=\"k\">Zaradenie do rutiny</span><span class=\"v\">${ROUTINE_FIT[a.routine]}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Fľaštička</span><span class=\"v\">PDRN Brightening Serum, 1 fl oz (30 ml), dimenzovaná na používanie dvakrát denne</span></div>"
+  },
+  {
+   "k": "summary.template",
+   "q": "tpl",
+   "t": "30-dňový plán pre ${GOAL_LABEL[a.goal]}: ${SKIN_LABEL[a.skinType]} pleť, hlavná obava ${CONCERN_LABEL[a.concern]}. "
+  },
+  {
+   "k": "summary.ramp",
+   "q": "tpl",
+   "t": "Navykanie: ${ramp.key} (${ramp.lines.join(\"; \")}). Nanášajte o ${fmtTime(a.amTime)} a ${fmtTime(a.pmTime)}. "
+  },
+  {
+   "k": "buy.subscribe",
+   "q": "dq",
+   "t": "Začať moje predplatné"
+  },
+  {
+   "k": "buy.once",
+   "q": "dq",
+   "t": "Kúpiť raz"
+  },
+  {
+   "k": "paynote.subscribe",
+   "q": "dq",
+   "t": "Predplatné sa obnovuje každých 30 dní za $39. Kedykoľvek pozastavte alebo zrušte."
+  },
+  {
+   "k": "paynote.once",
+   "q": "dq",
+   "t": "Jednorazový nákup za $49. Žiadne predplatné."
+  },
+  {
+   "k": "missing.firstName",
+   "q": "dq",
+   "t": "meno",
+   "anchor": "missing.push(\"first name\")"
+  },
+  {
+   "k": "missing.lastName",
+   "q": "dq",
+   "t": "priezvisko",
+   "anchor": "missing.push(\"last name\")"
+  },
+  {
+   "k": "missing.address1",
+   "q": "dq",
+   "t": "adresu ulice",
+   "anchor": "missing.push(\"street address\")"
+  },
+  {
+   "k": "missing.city",
+   "q": "dq",
+   "t": "mesto",
+   "anchor": "missing.push(\"city\")"
+  },
+  {
+   "k": "missing.state",
+   "q": "dq",
+   "t": "štát",
+   "anchor": "missing.push(\"state\")"
+  },
+  {
+   "k": "missing.zip",
+   "q": "dq",
+   "t": "PSČ",
+   "anchor": "missing.push(\"ZIP code\")"
+  },
+  {
+   "k": "missing.email",
+   "q": "dq",
+   "t": "email",
+   "anchor": "missing.push(\"email\")"
+  },
+  {
+   "k": "missing.intro",
+   "q": "dq",
+   "t": "Už skoro, pridajte svoje "
+  },
+  {
+   "k": "placing",
+   "q": "dq",
+   "t": "Odosiela sa vaša objednávka…"
+  },
+  {
+   "k": "taking",
+   "q": "dq",
+   "t": "Prechádzate do bezpečnej pokladne…"
+  },
+  {
+   "k": "orderError",
+   "q": "dq",
+   "t": "Pri odosielaní vašej objednávky sa niečo pokazilo, vaše údaje sú stále tu, skúste to prosím znova. Ak to naďalej zlyháva, napíšte na talia@tavalabs.app a my to vyriešime."
+  },
+  {
+   "k": "thanks.template",
+   "q": "tpl",
+   "t": "\n    <h3>Zhrnutie objednávky</h3>\n    <div class=\"planrow\"><span class=\"k\">Produkt</span><span class=\"v\">PDRN Brightening Serum · 1 fl oz (30 ml) · ×1</span></div>\n    <div class=\"planrow\"><span class=\"k\">${p.order.purchaseType === \"subscribe\" ? \"Subscription\" : \"One-time\"}</span><span class=\"v\">$${p.order.price}${p.order.purchaseType === \"subscribe\" ? \" every 30 days — pause or cancel anytime\" : \"\"}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Doručuje sa</span><span class=\"v\">${s.firstName} ${s.lastName}, ${s.city}, ${s.stateCode} ${s.zip}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Váš plán</span><span class=\"v\">${plan.rampLines.join(\" · \")}<br>Pripomienky o ${fmtTime(p.answers.amTime)} a ${fmtTime(p.answers.pmTime)}</span></div>\n    <div class=\"planrow\"><span class=\"k\">Plán odoslaný na</span><span class=\"v\">${p.email}</span></div>"
+  },
+  {
+   "k": "carry.template",
+   "q": "tpl",
+   "t": "Prihláste sa do aplikácie emailom ${p.email}, rovnakým emailom, aký ste použili tu, a vaše odpovede, váš 30-dňový plán a táto objednávka sú už tam. Nič netreba prepisovať."
+  },
+  {
+   "k": "time.pm",
+   "q": "dq",
+   "t": "PM"
+  },
+  {
+   "k": "time.am",
+   "q": "dq",
+   "t": "AM"
+  }
+ ]
+}

@@ -1,6 +1,11 @@
 "use client";
 
 import React, { useRef, useState } from "react";
+import { localizeHref, fmt, type Locale } from "@/lib/i18n/config";
+import type { Dict } from "@/lib/i18n/dictionaries";
+import { EN_DICT } from "@/lib/i18n/dictionaries";
+
+type CategoryChrome = Dict["categoryChrome"];
 
 /*
  * CategorySection: a reusable category landing section, generalized from
@@ -141,19 +146,21 @@ const categoryCss = `
 function CTA({
   cta,
   variant = "primary",
+  locale = "en",
 }: {
   cta: CategoryCta;
   variant?: "primary" | "outline";
+  locale?: Locale;
 }) {
   return (
-    <a className={`cat-cta cat-cta--${variant}`} href={cta.href}>
+    <a className={`cat-cta cat-cta--${variant}`} href={localizeHref(cta.href, locale)}>
       {cta.label}
       <span aria-hidden="true">→</span>
     </a>
   );
 }
 
-function Hero({ config }: { config: CategoryConfig }) {
+function Hero({ config, locale }: { config: CategoryConfig; locale: Locale }) {
   const rgb = config.theme?.heroRgb ?? "8, 37, 29";
   const heroImageStyle: React.CSSProperties = config.heroBackdrop
     ? {
@@ -192,8 +199,8 @@ function Hero({ config }: { config: CategoryConfig }) {
         </h1>
         <p className="cat-hero__copy">{config.heroCopy}</p>
         <div className="cat-hero__actions">
-          <CTA cta={config.primaryCta} />
-          {config.secondaryCta && <CTA cta={config.secondaryCta} variant="outline" />}
+          <CTA cta={config.primaryCta} locale={locale} />
+          {config.secondaryCta && <CTA cta={config.secondaryCta} variant="outline" locale={locale} />}
         </div>
         {config.heroFinePrint && <p className="cat-hero__fine">{config.heroFinePrint}</p>}
       </div>
@@ -204,7 +211,7 @@ function Hero({ config }: { config: CategoryConfig }) {
   );
 }
 
-function ProductCard({ item }: { item: CategoryProduct }) {
+function ProductCard({ item, chrome, locale }: { item: CategoryProduct; chrome: CategoryChrome; locale: Locale }) {
   return (
     <article className="cat-card">
       <div className="cat-card__top">
@@ -247,8 +254,8 @@ function ProductCard({ item }: { item: CategoryProduct }) {
       <div className="cat-card__bottom">
         <p>{item.description}</p>
         {item.href && (
-          <a href={item.href} className="cat-card__link">
-            {item.linkLabel ?? "Explore"} <span>→</span>
+          <a href={localizeHref(item.href, locale)} className="cat-card__link">
+            {item.linkLabel ?? chrome.explore} <span>→</span>
           </a>
         )}
       </div>
@@ -256,7 +263,7 @@ function ProductCard({ item }: { item: CategoryProduct }) {
   );
 }
 
-function Disclaimers({ config }: { config: CategoryConfig }) {
+function Disclaimers({ config, chrome }: { config: CategoryConfig; chrome: CategoryChrome }) {
   const [open, setOpen] = useState(false);
   const more = config.disclaimerMore ?? [];
   return (
@@ -272,7 +279,7 @@ function Disclaimers({ config }: { config: CategoryConfig }) {
             onClick={() => setOpen((v) => !v)}
             aria-expanded={open}
           >
-            {open ? "Show less −" : "Read more +"}
+            {open ? chrome.showLess : chrome.readMore}
           </button>
           {open && (
             <div className="cat-disclaimers__more">
@@ -287,7 +294,7 @@ function Disclaimers({ config }: { config: CategoryConfig }) {
   );
 }
 
-function ProductsSection({ config }: { config: CategoryConfig }) {
+function ProductsSection({ config, chrome, locale }: { config: CategoryConfig; chrome: CategoryChrome; locale: Locale }) {
   const trackRef = useRef<HTMLDivElement>(null);
   const [active, setActive] = useState(0);
   const count = config.products.length;
@@ -326,7 +333,7 @@ function ProductsSection({ config }: { config: CategoryConfig }) {
           <button
             type="button"
             className="cat-carousel__btn"
-            aria-label="Previous products"
+            aria-label={chrome.prevProducts}
             onClick={() => scrollToIndex(active - 1)}
             disabled={active <= 0}
           >
@@ -335,7 +342,7 @@ function ProductsSection({ config }: { config: CategoryConfig }) {
           <button
             type="button"
             className="cat-carousel__btn"
-            aria-label="Next products"
+            aria-label={chrome.nextProducts}
             onClick={() => scrollToIndex(active + 1)}
             disabled={active >= count - 1}
           >
@@ -344,7 +351,7 @@ function ProductsSection({ config }: { config: CategoryConfig }) {
         </div>
         <div className="cat-carousel__track" ref={trackRef} onScroll={onScroll}>
           {config.products.map((item) => (
-            <ProductCard key={item.title} item={item} />
+            <ProductCard key={item.title} item={item} chrome={chrome} locale={locale} />
           ))}
         </div>
         <div className="cat-carousel__dots">
@@ -353,18 +360,18 @@ function ProductsSection({ config }: { config: CategoryConfig }) {
               key={item.title}
               type="button"
               className={`cat-carousel__dot ${i === active ? "cat-carousel__dot--active" : ""}`}
-              aria-label={`Go to ${item.title}`}
+              aria-label={fmt(chrome.goTo, { title: item.title })}
               onClick={() => scrollToIndex(i)}
             />
           ))}
         </div>
       </div>
-      <Disclaimers config={config} />
+      <Disclaimers config={config} chrome={chrome} />
     </section>
   );
 }
 
-function Protocol({ config }: { config: CategoryConfig }) {
+function Protocol({ config, locale }: { config: CategoryConfig; locale: Locale }) {
   return (
     <section className="cat-protocol" id={`protocol-${config.slug}`}>
       <div className="cat-protocol__backdrop" />
@@ -376,7 +383,7 @@ function Protocol({ config }: { config: CategoryConfig }) {
           <em>{config.protocolTitleAccent}</em>
         </h2>
         <p>{config.protocolCopy}</p>
-        {config.protocolCta && <CTA cta={config.protocolCta} />}
+        {config.protocolCta && <CTA cta={config.protocolCta} locale={locale} />}
       </div>
       {config.protocolArt && (
         <div className="cat-protocol__art">
@@ -418,7 +425,15 @@ function Protocol({ config }: { config: CategoryConfig }) {
   );
 }
 
-export default function CategorySection({ config }: { config: CategoryConfig }) {
+export default function CategorySection({
+  config,
+  chrome = EN_DICT.categoryChrome,
+  locale = "en",
+}: {
+  config: CategoryConfig;
+  chrome?: CategoryChrome;
+  locale?: Locale;
+}) {
   const t = config.theme ?? {};
   const vars = {
     "--cat-page-bg": t.pageBg ?? "#F3F0E9",
@@ -434,15 +449,15 @@ export default function CategorySection({ config }: { config: CategoryConfig }) 
   return (
     <section className="cat-section" style={vars}>
       <style>{categoryCss}</style>
-      <Hero config={config} />
+      <Hero config={config} locale={locale} />
       {config.products.length > 0 ? (
-        <ProductsSection config={config} />
+        <ProductsSection config={config} chrome={chrome} locale={locale} />
       ) : (
         <div className="cat-disclaimers--standalone">
-          <Disclaimers config={config} />
+          <Disclaimers config={config} chrome={chrome} />
         </div>
       )}
-      <Protocol config={config} />
+      <Protocol config={config} locale={locale} />
     </section>
   );
 }

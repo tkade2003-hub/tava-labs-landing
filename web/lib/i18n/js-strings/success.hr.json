@@ -1,0 +1,60 @@
+{
+ "file": "checkout-success-42.js",
+ "entries": [
+  {
+   "k": "copied",
+   "q": "dq",
+   "t": "Kopirano ✓"
+  },
+  {
+   "k": "copyPrompt",
+   "q": "dq",
+   "t": "Kopirajte ovo:"
+  },
+  {
+   "k": "noRef",
+   "q": "dq",
+   "t": "Nismo mogli pronaći vašu referencu naplate na ovoj stranici, vaš kod za preuzimanje također je u vašoj e pošti s potvrdom. Zadržite tu e poštu i upotrijebite kod kada instalirate aplikaciju."
+  },
+  {
+   "k": "alreadyClaimed",
+   "q": "dq",
+   "t": "Već preuzeto u vaš račun u aplikaciji. "
+  },
+  {
+   "k": "keepUntil",
+   "q": "dq",
+   "t": "Zadržite ga do "
+  },
+  {
+   "k": "copyCode",
+   "q": "dq",
+   "t": "Kopirajte kod za preuzimanje"
+  },
+  {
+   "k": "copyLink",
+   "q": "dq",
+   "t": "Kopirajte poveznicu za preuzimanje"
+  },
+  {
+   "k": "codeConnects",
+   "q": "dq",
+   "t": "Ovaj kod povezuje vašu kupnju s vašim računom u aplikaciji:"
+  },
+  {
+   "k": "alreadyInApp",
+   "q": "dq",
+   "t": "Ova kupnja već živi u računu u aplikaciji, pa nema koda za preuzimanje, samo se prijavite u aplikaciju."
+  },
+  {
+   "k": "confirming",
+   "q": "dq",
+   "t": "Potvrđujemo vaše plaćanje, vaš kod za preuzimanje pojavit će se ovdje za nekoliko sekundi…"
+  },
+  {
+   "k": "confirmedByEmail",
+   "q": "dq",
+   "t": "Vaše plaćanje potvrđeno je e poštom, vaš kod za preuzimanje također je u toj e pošti. Zadržite ga i unesite ga u aplikaciju kada je instalirate."
+  }
+ ]
+}

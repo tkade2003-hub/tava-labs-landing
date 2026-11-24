@@ -3,13 +3,15 @@
 import { useState } from "react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
+import type { Dict } from "@/lib/i18n/dictionaries";
 
 // The footer newsletter signup. Submits to the HubSpot form that feeds
 // the Tava Labs list (portal 247896333).
 const HUBSPOT_SUBMIT_URL =
   "https://api.hsforms.com/submissions/v3/integration/submit/247896333/3fcc4d03-a5dd-47b9-803d-9984f57782f4";
 
-export default function NewsletterForm() {
+export default function NewsletterForm({ dict }: { dict: Dict }) {
+  const t = dict.chrome.newsletter;
   const [email, setEmail] = useState("");
   const [sending, setSending] = useState(false);
   const [done, setDone] = useState(false);
@@ -18,7 +20,7 @@ export default function NewsletterForm() {
   if (done) {
     return (
       <p className="gold-word text-sm">
-        You&rsquo;re in. Welcome to the glow list.
+        {t.done}
       </p>
     );
   }
@@ -66,8 +68,8 @@ export default function NewsletterForm() {
           required
           value={email}
           onChange={(e) => setEmail(e.target.value)}
-          placeholder="Your email"
-          aria-label="Your email"
+          placeholder={t.placeholder}
+          aria-label={t.placeholder}
           className="border-white/25 bg-white/10 text-[#fafaf9] placeholder:text-[#fafaf9]/50 focus-visible:ring-gold"
         />
         <Button
@@ -75,12 +77,12 @@ export default function NewsletterForm() {
           disabled={sending}
           className="bg-gold text-white hover:bg-gold/85"
         >
-          {sending ? "Sending..." : "Subscribe"}
+          {sending ? t.sending : t.subscribe}
         </Button>
       </form>
       {error && (
         <p className="mt-3 text-sm text-red-300" role="alert">
-          Something went wrong, please try again.
+          {t.error}
         </p>
       )}
     </div>
