@@ -2,7 +2,8 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
-import { HERO_MORNING, HERO_ON_SET, HERO_PITCH } from "../lib/heroImages";
+import { HERO_MORNING, HERO_ON_SET } from "../lib/heroImages";
+import TaliaFigure from "./TaliaFigure";
 import { Button } from "@/components/ui/button";
 
 /*
@@ -13,9 +14,16 @@ import { Button } from "@/components/ui/button";
   carries the single Add to routine action. Recorded in the design system
   MASTER.md section 8 the same day.
   Refreshed the same day at Vashon direction: every photograph and every
-  line of copy in the hero is new to the page. The panel, on set, and
-  morning mirror photographs were generated for this hero; the wide card
-  keeps the real bottle mockup.
+  line of copy in the hero is new to the page. The on set and morning
+  mirror photographs were generated for this hero; the wide card keeps
+  the real bottle mockup.
+  Panel figure changed the same day at Vashon direction: the pitch
+  photograph gave way to a treated photograph of Talia (her supplied
+  photo, wall removed, hem feathered) with a gold trend line behind her
+  plotting the measured acne lesion points of the 16 week participant
+  program and a frosted stat card at her side. The forest ribbon was
+  retired from the panel; the trend line and the card carry the graphic
+  movement now. Recorded in MASTER.md section 8.
 */
 
 const heroCss = `
@@ -28,14 +36,28 @@ const heroCss = `
 .hr-title .hr-line{display:block;animation:hr-rise .85s cubic-bezier(0.22,1,0.36,1) both}
 .hr-title .hr-line-2{animation-delay:.09s;color:#B78B45}
 .hr-sub{font-size:19px;line-height:1.55;color:#4C463C;max-width:470px;margin:24px 0 0;animation:hr-rise .85s cubic-bezier(0.22,1,0.36,1) .18s both}
-.hr-photo{position:relative;min-height:100%}
-.hr-photo img{object-position:65% 50%}
-.hr-ribbon{position:absolute;inset:0;width:100%;height:100%;z-index:3;pointer-events:none;animation:hr-fade 1.1s cubic-bezier(0.22,1,0.36,1) .3s both}
-.hr-ribbon-band{fill:none;stroke:#123B2C;stroke-width:64}
-.hr-ribbon-text{font-family:var(--font-kanit),Arial,sans-serif;font-size:20px;font-weight:600;letter-spacing:1.5px;fill:#D8C19A}
-.hr-ribbon-m{position:absolute;left:0;right:0;top:0;width:100%;height:100%;z-index:3;pointer-events:none;display:none}
-.hr-ribbon-m .hr-ribbon-band{stroke-width:56}
-.hr-ribbon-m .hr-ribbon-text{font-size:27px;letter-spacing:1px}
+.hr-fig{position:relative;height:100%;min-height:620px;animation:hr-fade 1.1s cubic-bezier(0.22,1,0.36,1) .15s both}
+.hr-fig-line{position:absolute;inset:0;z-index:1;pointer-events:none}
+.hr-fig-line svg{position:absolute;inset:0;width:100%;height:100%;display:block}
+.hr-fig-path{fill:none;stroke:#B78B45;stroke-width:3;vector-effect:non-scaling-stroke}
+.hr-dot{position:absolute;width:13px;height:13px;border-radius:50%;background:#B78B45;border:2.5px solid #FFFDF8;box-shadow:0 1px 5px rgba(8,37,29,.25);transform:translate(-50%,-50%)}
+.hr-dot-a{left:3.5%;top:20%}
+.hr-dot-b{left:93%;top:74%}
+.hr-tag{position:absolute;font-family:var(--font-kanit),Arial,sans-serif;color:#5C4A22;line-height:1.2;text-align:center;white-space:nowrap}
+.hr-tag b{display:block;font-size:13.5px;font-weight:600;letter-spacing:.08em;text-transform:uppercase}
+.hr-tag span{font-size:13px;font-weight:500}
+.hr-tag-a{left:3.5%;top:20%;transform:translate(-42%,-155%)}
+.hr-tag-b{left:93%;top:74%;transform:translate(-52%,125%)}
+.hr-fig-img{position:absolute;top:-14px;bottom:-14px;left:8%;right:8%;z-index:2}
+.hr-fig-tags{position:absolute;inset:0;z-index:3;pointer-events:none}
+.hr-stat-pos{position:absolute;z-index:4;left:20px;bottom:22px;width:256px}
+.hr-stat{background:rgba(255,255,255,.66);backdrop-filter:blur(14px) saturate(1.1);-webkit-backdrop-filter:blur(14px) saturate(1.1);border:1px solid rgba(255,255,255,.7);border-radius:20px;padding:16px 18px 14px;box-shadow:0 18px 36px rgba(8,37,29,.16);animation:hr-rise .85s cubic-bezier(0.22,1,0.36,1) .45s both}
+.hr-stat-top{display:flex;align-items:center;justify-content:space-between}
+.hr-stat-label{font-family:var(--font-kanit),Arial,sans-serif;font-size:12.5px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#4C463C}
+.hr-stat-icon{width:34px;height:34px;border-radius:50%;background:#F3E8D2;display:grid;place-items:center;box-shadow:0 2px 6px rgba(8,37,29,.14)}
+.hr-stat-big{font-family:'Futura font',sans-serif;font-weight:700;font-size:33px;line-height:1.05;color:#08251D;margin:10px 0 0}
+.hr-stat-cap{font-size:15.5px;font-weight:600;color:#12100C;margin:3px 0 0}
+.hr-stat-note{font-size:11.5px;line-height:1.45;color:#6B6353;margin:7px 0 0}
 .hr-cards{margin-top:22px;display:grid;grid-template-columns:1fr 1fr 1.55fr;gap:22px}
 .hr-card{position:relative;display:block;border-radius:24px;overflow:hidden;text-decoration:none;animation:hr-rise .85s cubic-bezier(0.22,1,0.36,1) both}
 .hr-card-2{animation-delay:.1s}
@@ -63,24 +85,31 @@ const heroCss = `
 .hr-copy{padding:40px 24px 38px}
 .hr-pill{letter-spacing:.12em;padding:8px 14px}
 .hr-sub{font-size:18px}
-.hr-photo{height:340px;min-height:340px}
-.hr-photo img{object-position:68% 30%}
-.hr-ribbon{display:none}
-.hr-ribbon-m{display:block}
+.hr-fig{height:440px;min-height:0}
+.hr-fig-img{left:6%;right:6%}
+.hr-stat-pos{left:12px;bottom:12px;width:214px}
+.hr-stat{padding:13px 15px 12px;border-radius:17px}
+.hr-stat-big{font-size:27px}
+.hr-stat-cap{font-size:14px}
+.hr-stat-note{font-size:10.5px}
+.hr-tag b{font-size:11px}
+.hr-tag span{font-size:11px}
+.hr-tag-a{transform:translate(-4%,-155%)}
+.hr-tag-b{transform:translate(-92%,125%)}
 .hr-cards{grid-template-columns:1fr;gap:18px;margin-top:18px}
 .hr-card-photo{aspect-ratio:4/3}
 .hr-wide{min-height:410px}
 .hr-wide-bottle img{transform:none}
 .hr-wide-head{font-size:26px;max-width:230px;bottom:164px}
 }
+@media (max-width:640px){
+.hr-fig-img{top:4px;bottom:auto;height:336px;left:4%;right:4%}
+}
 @media (prefers-reduced-motion: reduce){
-.hr-pill,.hr-title .hr-line,.hr-sub,.hr-card,.hr-ribbon{animation:none}
+.hr-pill,.hr-title .hr-line,.hr-sub,.hr-card,.hr-fig,.hr-stat{animation:none}
 .hr-card-photo img{transition:none}
 }
 `;
-
-const RIBBON_TEXT =
-  "For pitch mornings, long days, and every room you walk into.";
 
 export default function Hero() {
   return (
@@ -100,61 +129,7 @@ export default function Hero() {
               call to the last.
             </p>
           </div>
-          <div className="hr-photo">
-            <Image
-              src={HERO_PITCH}
-              alt="Founder pitching at a whiteboard in a bright meeting room"
-              fill
-              priority
-              sizes="(min-width: 900px) 55vw, 100vw"
-            />
-            <svg
-              className="hr-ribbon-m"
-              viewBox="0 0 800 340"
-              preserveAspectRatio="xMinYMid slice"
-              aria-hidden="true"
-            >
-              <defs>
-                <path
-                  id="hr-ribbon-path-m"
-                  d="M -10 70 C 90 150, 200 225, 320 285 C 380 312, 430 330, 470 338"
-                />
-              </defs>
-              <use href="#hr-ribbon-path-m" className="hr-ribbon-band" />
-              <text className="hr-ribbon-text">
-                <textPath
-                  href="#hr-ribbon-path-m"
-                  startOffset="40%"
-                  textAnchor="middle"
-                >
-                  Made for your mornings.
-                </textPath>
-              </text>
-            </svg>
-          </div>
-          <svg
-            className="hr-ribbon"
-            viewBox="0 0 1240 640"
-            preserveAspectRatio="xMidYMid slice"
-            aria-hidden="true"
-          >
-            <defs>
-              <path
-                id="hr-ribbon-path"
-                d="M 520 -40 C 590 130, 680 270, 830 365 C 980 455, 1140 490, 1290 465"
-              />
-            </defs>
-            <use href="#hr-ribbon-path" className="hr-ribbon-band" />
-            <text className="hr-ribbon-text">
-              <textPath
-                href="#hr-ribbon-path"
-                startOffset="50%"
-                textAnchor="middle"
-              >
-                {RIBBON_TEXT}
-              </textPath>
-            </text>
-          </svg>
+          <TaliaFigure />
         </div>
 
         <div className="hr-cards">
