@@ -2,15 +2,20 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
+import { HERO_MORNING, HERO_ON_SET, HERO_PITCH } from "../lib/heroImages";
 import { Button } from "@/components/ui/button";
 
 /*
-  Hero rebuilt 2026-11-23 from the reference Vashon supplied: a tinted
+  Hero built 2026-11-23 from the reference Vashon supplied: a tinted
   rounded panel with the copy at left and a founder photograph filling the
-  right, a forest ribbon with approved lines set along its curve sweeping
-  across the photo boundary, and a three card row under the panel whose
-  wide card carries the single Add to routine action. Recorded in the
-  design system MASTER.md section 8 the same day.
+  right, a forest ribbon with a line set along its curve sweeping across
+  the photo boundary, and a three card row under the panel whose wide card
+  carries the single Add to routine action. Recorded in the design system
+  MASTER.md section 8 the same day.
+  Refreshed the same day at Vashon direction: every photograph and every
+  line of copy in the hero is new to the page. The panel, on set, and
+  morning mirror photographs were generated for this hero; the wide card
+  keeps the real bottle mockup.
 */
 
 const heroCss = `
@@ -75,7 +80,7 @@ const heroCss = `
 `;
 
 const RIBBON_TEXT =
-  "Build your business. Do not neglect yourself. Your next meeting starts with you.";
+  "For pitch mornings, long days, and every room you walk into.";
 
 export default function Hero() {
   return (
@@ -84,21 +89,21 @@ export default function Hero() {
       <div className="hr-wrap">
         <div className="hr-panel">
           <div className="hr-copy">
-            <p className="hr-pill">Skincare for the ambitious</p>
+            <p className="hr-pill">For the person out front</p>
             <h1 className="hr-title">
-              <span className="hr-line">Your next meeting</span>
-              <span className="hr-line hr-line-2">starts with you.</span>
+              <span className="hr-line">Polished before</span>
+              <span className="hr-line hr-line-2">the first call.</span>
             </h1>
             <p className="hr-sub">
-              One daily complexion step before the meetings, pitches, and
-              camera work. Two to four drops of PDRN Brightening Serum,
-              morning and night.
+              Two to four drops of PDRN Brightening Serum, morning and night,
+              for skin that looks bright, hydrated, and smooth from the first
+              call to the last.
             </p>
           </div>
           <div className="hr-photo">
             <Image
-              src="/assets/home/IMG_3365.jpeg"
-              alt="Founder presenting his plan at a whiteboard"
+              src={HERO_PITCH}
+              alt="Founder pitching at a whiteboard in a bright meeting room"
               fill
               priority
               sizes="(min-width: 900px) 55vw, 100vw"
@@ -122,7 +127,7 @@ export default function Hero() {
                   startOffset="40%"
                   textAnchor="middle"
                 >
-                  Built for the builders.
+                  Made for your mornings.
                 </textPath>
               </text>
             </svg>
@@ -159,18 +164,18 @@ export default function Hero() {
             aria-label="PDRN Brightening Serum, the product page"
           >
             <Image
-              src="/assets/home/IMG_3363.jpeg"
-              alt="Founders recording a video in a bright studio"
+              src={HERO_ON_SET}
+              alt="Founder seated on a studio set, facing the camera"
               fill
               sizes="(min-width: 900px) 28vw, 100vw"
-              style={{ objectPosition: "82% 50%" }}
+              style={{ objectPosition: "50% 25%" }}
             />
             <span className="hr-shade" aria-hidden="true" />
-            <span className="hr-card-pill">On camera</span>
+            <span className="hr-card-pill">On set</span>
             <span className="hr-arrow" aria-hidden="true">
               <ArrowRight size={18} strokeWidth={2} />
             </span>
-            <span className="hr-caption">Composed on camera</span>
+            <span className="hr-caption">Calm under the lights</span>
           </Link>
 
           <Link
@@ -179,18 +184,18 @@ export default function Hero() {
             aria-label="PDRN Brightening Serum, the product page"
           >
             <Image
-              src="/assets/products/pdrn-bright-serum/serum-champagne-hero.webp"
-              alt="Tava Labs PDRN Brightening Serum bottle"
+              src={HERO_MORNING}
+              alt="Founder applying serum at a bathroom mirror in morning light"
               fill
               sizes="(min-width: 900px) 28vw, 100vw"
-              style={{ objectPosition: "50% 50%" }}
+              style={{ objectPosition: "50% 20%" }}
             />
             <span className="hr-shade" aria-hidden="true" />
-            <span className="hr-card-pill">The serum</span>
+            <span className="hr-card-pill">Morning ritual</span>
             <span className="hr-arrow" aria-hidden="true">
               <ArrowRight size={18} strokeWidth={2} />
             </span>
-            <span className="hr-caption">PDRN Brightening Serum</span>
+            <span className="hr-caption">At the mirror, first thing</span>
           </Link>
 
           <div className="hr-card hr-wide hr-card-3">
@@ -202,8 +207,8 @@ export default function Hero() {
                 sizes="(min-width: 900px) 30vw, 50vw"
               />
             </div>
-            <span className="hr-card-pill">The daily step</span>
-            <p className="hr-wide-head">One serum. Morning and night.</p>
+            <span className="hr-card-pill">Day and night</span>
+            <p className="hr-wide-head">One bottle. Every day.</p>
             <div className="hr-wide-action">
               <Button
                 render={<Link href="/glow-brightening-serum" />}
