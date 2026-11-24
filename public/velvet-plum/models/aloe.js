@@ -1,0 +1,1 @@
+/* Retired 2026-11-24: models now stream per model from the .b64 files beside this file. This stub replaces the old embedded base64 script so the batched fix commit also removes its weight from the repo. */
