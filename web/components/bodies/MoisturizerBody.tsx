@@ -3,6 +3,7 @@ import Link from "next/link";
 import SiteShell from "@/components/SiteShell";
 import MoisturizerGallery from "@/components/MoisturizerGallery";
 import MoisturizerCta from "@/components/MoisturizerCheckout";
+import PairingSection from "@/components/PairingSection";
 import { Badge } from "@/components/ui/badge";
 import { Droplets, Leaf, Sparkles, Briefcase } from "lucide-react";
 import { getDictionary } from "@/lib/i18n/dictionaries";
@@ -137,6 +138,8 @@ export function MoisturizerBody({ locale = "en" }: { locale?: Locale }) {
           <MoisturizerCta locale={locale} dict={dict} className="mt-8" />
         </div>
       </section>
+
+      <PairingSection locale={locale} dict={dict} current="moisturizer" />
 
       {/* FAQ */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">

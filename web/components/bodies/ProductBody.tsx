@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import SiteShell from "@/components/SiteShell";
 import ProductGallery from "@/components/ProductGallery";
+import PairingSection from "@/components/PairingSection";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Sparkles, Droplets, Leaf } from "lucide-react";
@@ -198,6 +199,8 @@ export function ProductBody({ locale = "en" }: { locale?: Locale }) {
           </div>
         </div>
       </section>
+
+      <PairingSection locale={locale} dict={dict} current="serum" />
 
       {/* Clinical efficacy */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:py-20">

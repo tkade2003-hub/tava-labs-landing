@@ -1060,6 +1060,22 @@
       ]
     }
   },
+  "pairing": {
+    "label": "Jedna rutina, dva kroky",
+    "serumStep": "Krok jeden",
+    "moisturizerStep": "Krok dva",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumBody": "Denné pleťové sérum s PDRN a peptidmi, pre pleť, ktorá vyzerá jasnejšie a hladšie. Naneste 2 až 4 kvapky na čistú pleť pred hydratačným krémom, ráno a večer. 1 fl oz (30 ml).",
+    "serumPriceLine": "$49 jednorazovo, alebo $39 mesačne",
+    "moisturizerTitle": "Peptide Moisturizer",
+    "moisturizerBody": "Pleťový hydratačný krém s peptidmi a extraktom z brusníc. Hydratuje pleť a cieli na vzhľad jemných liniek a vrások. Naneste množstvo vo veľkosti mince po sére, ráno a večer. 1.7 fl oz (50 ml).",
+    "moisturizerPriceLine": "$27.99 jednorazovo",
+    "addonSerumBlurb": "Prvý krok rutiny, pre pleť, ktorá vyzerá jasnejšie a hladšie. 1 fl oz (30 ml).",
+    "addonMoisturizerBlurb": "Druhý krok rutiny. Hydratuje pleť a cieli na vzhľad jemných liniek a vrások. 1.7 fl oz (50 ml).",
+    "routineTitle": "Rutina",
+    "routineBody": "Oba produkty spolu, používané v poradí. Najprv sérum, potom hydratačný krém, ráno a večer. Dve fľaštičky, jedna rutina.",
+    "routinePriceLine": "Spolu $76.99 jednorazovo, zľava 20 percent, zaplatíte $61.59"
+  },
   "about": {
     "bullets": [
       "PDRN pre jasnejšiu a rovnomernejšie vyzerajúcu pleť.",
@@ -1793,7 +1809,17 @@
       "oneTimeRest": " Jedna fľaštička.",
       "subscribeBtn": "Predplatiť, $39 mesačne",
       "buyOnceBtn": "Kúpiť raz, $49",
-      "stripeNote": "Bezpečná pokladňa cez Stripe. Platbu potvrdíte na stránke Stripe."
+      "stripeNote": "Bezpečná pokladňa cez Stripe. Platbu potvrdíte na stránke Stripe.",
+      "moisturizerEyebrow": "Peptide Moisturizer",
+      "moisturizerBody": "1.7 fl oz (50 ml). Hydratuje pleť a cieli na vzhľad jemných liniek a vrások. Množstvo vo veľkosti mince po sére, ráno a večer.",
+      "moisturizerLine": "Jednorazovo, $27.99.",
+      "moisturizerRest": " Jedna fľaštička.",
+      "moisturizerBtn": "Kúpiť raz, $27.99",
+      "routineEyebrow": "Rutina",
+      "routineBody": "Sérum a hydratačný krém spolu, používané v poradí, ráno a večer.",
+      "routineLine": "Jednorazovo, $76.99 za oba.",
+      "routineRest": " Zľava 20 percent spolu, zaplatíte $61.59.",
+      "routineBtn": "Kúpiť rutinu, $61.59"
     },
     "labTab": {
       "eyebrow": "Laboratórium",
@@ -2038,6 +2064,13 @@
     "phoneOptional": "Telefón (nepovinné)",
     "planOneTime": "PDRN Brightening Serum · $49 · Jednorazový nákup",
     "planSubscribe": "PDRN Brightening Serum · $39 mesačne · Subscribe & Save 20%",
+    "planMoisturizer": "Peptide Moisturizer · $27.99 · Jednorazový nákup",
+    "addOnLabel": "Pridajte toto k svojej objednávke",
+    "totalLabel": "Spolu",
+    "dueTodayLabel": "Splatné dnes",
+    "thenMonthlyNote": "potom $39 mesačne za sérum",
+    "togetherOffLabel": "20 percent zľava spolu",
+    "addOnTogetherLine": "Spolu získajú oba produkty zľavu 20 percent. Spolu {total}.",
     "startError": "Pokladňu sa nepodarilo spustiť. Skontrolujte svoje údaje a skúste to znova. Nič nebolo účtované.",
     "state": "Štát",
     "streetAddress": "Adresa ulice",

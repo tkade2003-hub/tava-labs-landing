@@ -1060,6 +1060,22 @@
       ]
     }
   },
+  "pairing": {
+    "label": "Rutina waħda, żewġ passi",
+    "serumStep": "L-ewwel pass",
+    "moisturizerStep": "It-tieni pass",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumBody": "Serum tal-wiċċ ta kuljum bil-PDRN u l-peptidi, għal ġilda li tidher isbaħ u aktar lixxa. Applika 2 sa 4 qtar fuq ġilda nadifa qabel il-moisturizer, filgħodu u billejl. 1 fl oz (30 ml).",
+    "serumPriceLine": "$49 darba waħda, jew $39 fix-xahar",
+    "moisturizerTitle": "Peptide Moisturizer",
+    "moisturizerBody": "Moisturizer tal-wiċċ bil-peptidi u l-estratt tal-cranberry. Jagħti idratazzjoni lill-ġilda u jimmira lejn id-dehra ta linji fini u tikmix. Applika ammont daqs munita wara s-serum, filgħodu u billejl. 1.7 fl oz (50 ml).",
+    "moisturizerPriceLine": "$27.99 darba waħda",
+    "addonSerumBlurb": "L-ewwel pass tar-rutina, għal ġilda li tidher isbaħ u aktar lixxa. 1 fl oz (30 ml).",
+    "addonMoisturizerBlurb": "It-tieni pass tar-rutina. Jagħti idratazzjoni lill-ġilda u jimmira lejn id-dehra ta linji fini u tikmix. 1.7 fl oz (50 ml).",
+    "routineTitle": "Ir-rutina",
+    "routineBody": "Iż-żewġ prodotti flimkien, użati f'ordni. Is-serum l-ewwel, imbagħad il-moisturizer, filgħodu u billejl. Żewġ fliexken, rutina waħda.",
+    "routinePriceLine": "Flimkien $76.99 darba waħda, skont ta 20 fil-mija, tħallas $61.59"
+  },
   "about": {
     "label": "Dwarna",
     "titleLead": "Serum tal wiċċ ta kuljum",
@@ -1793,7 +1809,17 @@
       "oneTimeRest": " Flixkun wieħed.",
       "subscribeBtn": "Abbona, $39 fix xahar",
       "buyOnceBtn": "Ixtri darba, $49",
-      "stripeNote": "Ħlas sigur minn Stripe. Se tikkonferma l ħlas fil paġna ta Stripe."
+      "stripeNote": "Ħlas sigur minn Stripe. Se tikkonferma l ħlas fil paġna ta Stripe.",
+      "moisturizerEyebrow": "Peptide Moisturizer",
+      "moisturizerBody": "1.7 fl oz (50 ml). Jagħti idratazzjoni lill-ġilda u jimmira lejn id-dehra ta linji fini u tikmix. Ammont daqs munita wara s-serum, filgħodu u billejl.",
+      "moisturizerLine": "Darba waħda, $27.99.",
+      "moisturizerRest": " Flixkun wieħed.",
+      "moisturizerBtn": "Ixtri darba, $27.99",
+      "routineEyebrow": "Ir-rutina",
+      "routineBody": "Is-serum u l-moisturizer flimkien, użati f'ordni, filgħodu u billejl.",
+      "routineLine": "Darba waħda, $76.99 għat-tnejn.",
+      "routineRest": " Skont ta 20 fil-mija flimkien, tħallas $61.59.",
+      "routineBtn": "Ixtri r-rutina, $61.59"
     },
     "labTab": {
       "eyebrow": "Laboratorju",
@@ -2020,6 +2046,13 @@
     "closeAria": "Agħlaq il ħlas",
     "planOneTime": "PDRN Brightening Serum · $49 · Xiri ta darba",
     "planSubscribe": "PDRN Brightening Serum · $39 fix xahar · Abbona u Ffranka 20%",
+    "planMoisturizer": "Peptide Moisturizer · $27.99 · Xiri ta darba waħda",
+    "addOnLabel": "Żid dan mal-ordni tiegħek",
+    "totalLabel": "Total",
+    "dueTodayLabel": "Dovut illum",
+    "thenMonthlyNote": "imbagħad $39 fix-xahar għas-serum",
+    "togetherOffLabel": "20 fil-mija skont flimkien",
+    "addOnTogetherLine": "Flimkien, iż-żewġ prodotti jiksbu skont ta 20 fil-mija. Total {total}.",
     "email": "Email",
     "firstName": "Isem",
     "lastName": "Kunjom",

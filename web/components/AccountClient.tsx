@@ -8,7 +8,12 @@ import SiteShell from "@/components/SiteShell";
 import LabPanels from "@/components/LabPanels";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { CheckoutModal, type BuyType } from "@/components/CheckoutModal";
+import {
+  CheckoutModal,
+  type AddOnConfig,
+  type BuyType,
+  type PriceSet,
+} from "@/components/CheckoutModal";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { fmt, localizeHref, type Locale } from "@/lib/i18n/config";
 
@@ -69,6 +74,16 @@ function Steps({ steps, doneIds }: { steps: StepItem[]; doneIds: string[] }) {
 
 type Tab = "today" | "orders" | "shop" | "lab" | "support";
 
+type ShopCheckout = {
+  buyType: BuyType;
+  productId?: string;
+  sku?: string;
+  prices?: PriceSet;
+  productName?: string;
+  addOn?: AddOnConfig | null;
+  bundleAddOn?: AddOnConfig | null;
+};
+
 const cardClass =
   "mb-5 rounded-2xl border border-linestone bg-white p-6 shadow-[0_10px_28px_rgba(8,37,29,0.07)] sm:p-7";
 const eyebrowClass = "tava-label";
@@ -88,7 +103,21 @@ export default function AccountClient({ locale = "en" }: { locale?: Locale }) {
   const [data, setData] = useState<WebAccountResponse | null>(null);
   const [failed, setFailed] = useState(false);
   const [tab, setTab] = useState<Tab>("today");
-  const [buyType, setBuyType] = useState<BuyType | null>(null);
+  const [checkout, setCheckout] = useState<ShopCheckout | null>(null);
+  const moisturizerAddOn: AddOnConfig = {
+    productId: "00bc6534-cd37-4015-a266-bedc75d69936",
+    sku: "VASHO-PM-E5B5",
+    name: "Peptide Moisturizer",
+    blurb: dict.pairing.addonMoisturizerBlurb,
+    price: 27.99,
+  };
+  const serumAddOn: AddOnConfig = {
+    productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18",
+    sku: "VASHO-PBS-8FB6",
+    name: "PDRN Brightening Serum",
+    blurb: dict.pairing.addonSerumBlurb,
+    price: 49,
+  };
   // Time-of-day greeting and today's date label, read on the client
   // after mount (Next prerendering forbids reading the clock in render).
   const [greeting, setGreeting] = useState("");
@@ -517,7 +546,7 @@ export default function AccountClient({ locale = "en" }: { locale?: Locale }) {
                     <Button
                       className="h-12 rounded-full px-6 text-[15px] font-semibold"
                       type="button"
-                      onClick={() => setBuyType("subscribe")}
+                      onClick={() => setCheckout({ buyType: "subscribe", addOn: moisturizerAddOn })}
                     >
                       {t.shop.subscribeBtn}
                     </Button>
@@ -525,7 +554,7 @@ export default function AccountClient({ locale = "en" }: { locale?: Locale }) {
                       variant="outline"
                       className="h-12 rounded-full border-forest px-6 text-[15px] font-semibold text-forest hover:bg-linen hover:text-forest"
                       type="button"
-                      onClick={() => setBuyType("one_time")}
+                      onClick={() => setCheckout({ buyType: "one_time", addOn: moisturizerAddOn })}
                     >
                       {t.shop.buyOnceBtn}
                     </Button>
@@ -533,6 +562,66 @@ export default function AccountClient({ locale = "en" }: { locale?: Locale }) {
                   <p className={`${mutedClass} mt-3.5`}>
                     {t.shop.stripeNote}
                   </p>
+                </div>
+
+                <div className={cardClass}>
+                  <p className={eyebrowClass}>{t.shop.moisturizerEyebrow}</p>
+                  <h2 className="mt-1.5 font-display text-[1.625rem] font-semibold text-forest-deep">
+                    Peptide Moisturizer
+                  </h2>
+                  <p className={`${subClass} mt-2`}>
+                    {t.shop.moisturizerBody}
+                  </p>
+                  <p className="mt-3.5">
+                    <b>{t.shop.moisturizerLine}</b>{t.shop.moisturizerRest}
+                  </p>
+                  <div className="mt-4 flex flex-wrap gap-2.5">
+                    <Button
+                      variant="outline"
+                      className="h-12 rounded-full border-forest px-6 text-[15px] font-semibold text-forest hover:bg-linen hover:text-forest"
+                      type="button"
+                      onClick={() =>
+                        setCheckout({
+                          buyType: "one_time",
+                          productId: moisturizerAddOn.productId,
+                          sku: moisturizerAddOn.sku,
+                          prices: { one_time: 27.99 },
+                          productName: "Peptide Moisturizer",
+                          addOn: serumAddOn,
+                        })
+                      }
+                    >
+                      {t.shop.moisturizerBtn}
+                    </Button>
+                  </div>
+                </div>
+
+                <div className={cardClass}>
+                  <p className={eyebrowClass}>{t.shop.routineEyebrow}</p>
+                  <h2 className="mt-1.5 font-display text-[1.625rem] font-semibold text-forest-deep">
+                    {dict.pairing.routineTitle}
+                  </h2>
+                  <p className={`${subClass} mt-2`}>
+                    {t.shop.routineBody}
+                  </p>
+                  <p className="mt-3.5">
+                    <b>{t.shop.routineLine}</b>{t.shop.routineRest}
+                  </p>
+                  <div className="mt-4 flex flex-wrap gap-2.5">
+                    <Button
+                      className="h-12 rounded-full px-6 text-[15px] font-semibold"
+                      type="button"
+                      onClick={() =>
+                        setCheckout({
+                          buyType: "one_time",
+                          productName: "PDRN Brightening Serum",
+                          bundleAddOn: moisturizerAddOn,
+                        })
+                      }
+                    >
+                      {t.shop.routineBtn}
+                    </Button>
+                  </div>
                 </div>
               </section>
             ) : null}
@@ -596,8 +685,19 @@ export default function AccountClient({ locale = "en" }: { locale?: Locale }) {
           </div>
         ) : null}
       </section>
-      {buyType ? (
-        <CheckoutModal buyType={buyType} initialEmail={email} onClose={() => setBuyType(null)} dict={dict} />
+      {checkout ? (
+        <CheckoutModal
+          buyType={checkout.buyType}
+          initialEmail={email}
+          onClose={() => setCheckout(null)}
+          dict={dict}
+          productId={checkout.productId}
+          sku={checkout.sku}
+          prices={checkout.prices}
+          productName={checkout.productName}
+          addOn={checkout.addOn}
+          bundleAddOn={checkout.bundleAddOn}
+        />
       ) : null}
     </SiteShell>
   );

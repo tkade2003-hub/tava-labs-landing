@@ -1060,6 +1060,22 @@
       ]
     }
   },
+  "pairing": {
+    "label": "Üks rutiin, kaks sammu",
+    "serumStep": "Esimene samm",
+    "moisturizerStep": "Teine samm",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumBody": "Igapäevane näoseerum PDRN-i ja peptiididega, säravama ja siledama väljanägemisega naha jaoks. Kandke 2 kuni 4 tilka puhtale nahale enne niisutajat, hommikul ja õhtul. 1 fl oz (30 ml).",
+    "serumPriceLine": "$49 ühekordne, või $39 kuus",
+    "moisturizerTitle": "Peptide Moisturizer",
+    "moisturizerBody": "Näo niisutaja peptiidide ja jõhvikaekstraktiga. See niisutab nahka ja suunab tähelepanu peente joonte ja kortsude välimusele. Kandke mündisuurune kogus pärast seerumit, hommikul ja õhtul. 1.7 fl oz (50 ml).",
+    "moisturizerPriceLine": "$27.99 ühekordne",
+    "addonSerumBlurb": "Rutiini esimene samm, säravama ja siledama väljanägemisega naha jaoks. 1 fl oz (30 ml).",
+    "addonMoisturizerBlurb": "Rutiini teine samm. See niisutab nahka ja suunab tähelepanu peente joonte ja kortsude välimusele. 1.7 fl oz (50 ml).",
+    "routineTitle": "Rutiin",
+    "routineBody": "Mõlemad tooted koos, kasutatuna järjekorras. Kõigepealt seerum, seejärel niisutaja, hommikul ja õhtul. Kaks pudelit, üks rutiin.",
+    "routinePriceLine": "Koos $76.99 ühekordne, 20 protsenti allahindlust, maksate $61.59"
+  },
   "about": {
     "label": "Meist",
     "titleLead": "Igapäevane näoseerum",
@@ -1793,7 +1809,17 @@
       "oneTimeRest": " Üks pudel.",
       "subscribeBtn": "Telli, $39 kuus",
       "buyOnceBtn": "Osta üks kord, $49",
-      "stripeNote": "Turvaline kassa Stripe'i kaudu. Sa kinnitad makse Stripe'i lehel."
+      "stripeNote": "Turvaline kassa Stripe'i kaudu. Sa kinnitad makse Stripe'i lehel.",
+      "moisturizerEyebrow": "Peptide Moisturizer",
+      "moisturizerBody": "1.7 fl oz (50 ml). See niisutab nahka ja suunab tähelepanu peente joonte ja kortsude välimusele. Mündisuurune kogus pärast seerumit, hommikul ja õhtul.",
+      "moisturizerLine": "Ühekordne, $27.99.",
+      "moisturizerRest": " Üks pudel.",
+      "moisturizerBtn": "Osta üks kord, $27.99",
+      "routineEyebrow": "Rutiin",
+      "routineBody": "Seerum ja niisutaja koos, kasutatuna järjekorras, hommikul ja õhtul.",
+      "routineLine": "Ühekordne, $76.99 mõlema eest.",
+      "routineRest": " Koos 20 protsenti allahindlust, maksate $61.59.",
+      "routineBtn": "Osta rutiin, $61.59"
     },
     "labTab": {
       "eyebrow": "Labor",
@@ -2020,6 +2046,13 @@
     "closeAria": "Sulge kassa",
     "planOneTime": "PDRN Brightening Serum · $49 · Ühekordne ost",
     "planSubscribe": "PDRN Brightening Serum · $39 kuus · Subscribe & Save 20%",
+    "planMoisturizer": "Peptide Moisturizer · $27.99 · Ühekordne ost",
+    "addOnLabel": "Lisage see oma tellimusele",
+    "totalLabel": "Kokku",
+    "dueTodayLabel": "Täna tasuda",
+    "thenMonthlyNote": "seejärel $39 kuus seerumi eest",
+    "togetherOffLabel": "Koos 20 protsenti soodsam",
+    "addOnTogetherLine": "Koos saavad mõlemad tooted 20 protsenti allahindlust. Kokku {total}.",
     "email": "E-post",
     "firstName": "Eesnimi",
     "lastName": "Perekonnanimi",

@@ -1060,6 +1060,22 @@
       ]
     }
   },
+  "pairing": {
+    "label": "Egy rutin, két lépés",
+    "serumStep": "Első lépés",
+    "moisturizerStep": "Második lépés",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumBody": "Napi arcszérum PDRN-nel és peptidekkel, a ragyogóbbnak és simábbnak tűnő bőrért. Vigyen fel 2-4 cseppet tiszta bőrre a hidratálókrém előtt, reggel és este. 1 fl oz (30 ml).",
+    "serumPriceLine": "$49 egyszeri, vagy $39 havonta",
+    "moisturizerTitle": "Peptide Moisturizer",
+    "moisturizerBody": "Arckrém peptidekkel és vörösáfonya kivonattal. Hidratálja a bőrt, és a finom vonalak és ráncok megjelenését célozza. Vigyen fel egy érme nagyságú mennyiséget a szérum után, reggel és este. 1.7 fl oz (50 ml).",
+    "moisturizerPriceLine": "$27.99 egyszeri",
+    "addonSerumBlurb": "A rutin első lépése, a ragyogóbbnak és simábbnak tűnő bőrért. 1 fl oz (30 ml).",
+    "addonMoisturizerBlurb": "A rutin második lépése. Hidratálja a bőrt, és a finom vonalak és ráncok megjelenését célozza. 1.7 fl oz (50 ml).",
+    "routineTitle": "A rutin",
+    "routineBody": "Mindkét termék együtt, sorrendben használva. Először a szérum, utána a hidratálókrém, reggel és este. Két üveg, egy rutin.",
+    "routinePriceLine": "Együtt $76.99 egyszeri, 20 százalék kedvezménnyel Ön $61.59-t fizet"
+  },
   "about": {
     "label": "Rólunk",
     "titleLead": "Napi arcszérum",
@@ -1793,7 +1809,17 @@
       "oneTimeRest": " Egyetlen üveg.",
       "subscribeBtn": "Előfizetés, $39 havonta",
       "buyOnceBtn": "Egyszeri vásárlás, $49",
-      "stripeNote": "Biztonságos fizetés a Stripe-on keresztül. A fizetést a Stripe oldalán erősíted meg."
+      "stripeNote": "Biztonságos fizetés a Stripe-on keresztül. A fizetést a Stripe oldalán erősíted meg.",
+      "moisturizerEyebrow": "Peptide Moisturizer",
+      "moisturizerBody": "1.7 fl oz (50 ml). Hidratálja a bőrt, és a finom vonalak és ráncok megjelenését célozza. Egy érme nagyságú mennyiség a szérum után, reggel és este.",
+      "moisturizerLine": "Egyszeri, $27.99.",
+      "moisturizerRest": " Egyetlen üveg.",
+      "moisturizerBtn": "Egyszeri vásárlás, $27.99",
+      "routineEyebrow": "A rutin",
+      "routineBody": "A szérum és a hidratálókrém együtt, sorrendben használva, reggel és este.",
+      "routineLine": "Egyszeri, $76.99 mindkettőért.",
+      "routineRest": " 20 százalék kedvezmény együtt, Ön $61.59-t fizet.",
+      "routineBtn": "Vásárolja meg a rutint, $61.59"
     },
     "labTab": {
       "eyebrow": "Labor",
@@ -2020,6 +2046,13 @@
     "closeAria": "Fizetés bezárása",
     "planOneTime": "PDRN Brightening Serum · $49 · Egyszeri vásárlás",
     "planSubscribe": "PDRN Brightening Serum · $39 havonta · Subscribe & Save 20%",
+    "planMoisturizer": "Peptide Moisturizer · $27.99 · Egyszeri vásárlás",
+    "addOnLabel": "Adja hozzá ezt a rendeléséhez",
+    "totalLabel": "Összesen",
+    "dueTodayLabel": "Ma fizetendő",
+    "thenMonthlyNote": "utána $39 havonta a szérumért",
+    "togetherOffLabel": "20 százalék kedvezmény együtt",
+    "addOnTogetherLine": "Együtt mindkét termék 20 százalék kedvezményt kap. Összesen {total}.",
     "email": "E-mail",
     "firstName": "Keresztnév",
     "lastName": "Vezetéknév",

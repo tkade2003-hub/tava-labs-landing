@@ -46,6 +46,16 @@ export function MoisturizerCheckout({
           productId={MOISTURIZER.productId}
           sku={MOISTURIZER.sku}
           prices={MOISTURIZER.prices}
+          productName="Peptide Moisturizer"
+          addOn={{
+            productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18",
+            sku: "VASHO-PBS-8FB6",
+            name: "PDRN Brightening Serum",
+            blurb:
+              dict?.pairing.addonSerumBlurb ??
+              "The first step of the routine, for brighter and smoother looking skin. 1 fl oz (30 ml).",
+            price: 49,
+          }}
         />
       ) : null}
     </>

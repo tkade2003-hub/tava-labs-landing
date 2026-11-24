@@ -1060,6 +1060,22 @@
       ]
     }
   },
+  "pairing": {
+    "label": "Viena rutīna, divi soļi",
+    "serumStep": "Pirmais solis",
+    "moisturizerStep": "Otrais solis",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumBody": "Ikdienas sejas serums ar PDRN un peptīdiem, lai āda izskatītos gaišāka un gludāka. Uzklājiet 2 līdz 4 pilienus uz tīras ādas pirms mitrinātāja, no rīta un vakarā. 1 fl oz (30 ml).",
+    "serumPriceLine": "$49 vienreiz, vai $39 mēnesī",
+    "moisturizerTitle": "Peptide Moisturizer",
+    "moisturizerBody": "Sejas mitrinātājs ar peptīdiem un dzērveņu ekstraktu. Tas mitrina ādu un iedarbojas uz smalko līniju un grumbu izskatu. Uzklājiet monētas lieluma daudzumu pēc seruma, no rīta un vakarā. 1.7 fl oz (50 ml).",
+    "moisturizerPriceLine": "$27.99 vienreiz",
+    "addonSerumBlurb": "Rutīnas pirmais solis, lai āda izskatītos gaišāka un gludāka. 1 fl oz (30 ml).",
+    "addonMoisturizerBlurb": "Rutīnas otrais solis. Tas mitrina ādu un iedarbojas uz smalko līniju un grumbu izskatu. 1.7 fl oz (50 ml).",
+    "routineTitle": "Rutīna",
+    "routineBody": "Abi produkti kopā, lietoti pēc kārtas. Vispirms serums, pēc tam mitrinātājs, no rīta un vakarā. Divas pudeles, viena rutīna.",
+    "routinePriceLine": "Kopā $76.99 vienreiz, 20 procentu atlaide, jūs maksājat $61.59"
+  },
   "about": {
     "label": "Par mums",
     "titleLead": "Ikdienas sejas serums",
@@ -1793,7 +1809,17 @@
       "oneTimeRest": " Viena pudele.",
       "subscribeBtn": "Abonēt, $39 mēnesī",
       "buyOnceBtn": "Pirkt vienreiz, $49",
-      "stripeNote": "Droša apmaksa ar Stripe. Jūs apstiprināsiet maksājumu Stripe lapā."
+      "stripeNote": "Droša apmaksa ar Stripe. Jūs apstiprināsiet maksājumu Stripe lapā.",
+      "moisturizerEyebrow": "Peptide Moisturizer",
+      "moisturizerBody": "1.7 fl oz (50 ml). Tas mitrina ādu un iedarbojas uz smalko līniju un grumbu izskatu. Monētas lieluma daudzums pēc seruma, no rīta un vakarā.",
+      "moisturizerLine": "Vienreizējs pirkums, $27.99.",
+      "moisturizerRest": " Viena pudele.",
+      "moisturizerBtn": "Pirkt vienreiz, $27.99",
+      "routineEyebrow": "Rutīna",
+      "routineBody": "Serums un mitrinātājs kopā, lietoti pēc kārtas, no rīta un vakarā.",
+      "routineLine": "Vienreizējs pirkums, $76.99 par abiem.",
+      "routineRest": " 20 procentu atlaide kopā, jūs maksājat $61.59.",
+      "routineBtn": "Pirkt rutīnu, $61.59"
     },
     "labTab": {
       "eyebrow": "Laboratorija",
@@ -2020,6 +2046,13 @@
     "closeAria": "Aizvērt apmaksu",
     "planOneTime": "PDRN Brightening Serum · $49 · Vienreizējs pirkums",
     "planSubscribe": "PDRN Brightening Serum · $39 mēnesī · Subscribe & Save 20%",
+    "planMoisturizer": "Peptide Moisturizer · $27.99 · Vienreizējs pirkums",
+    "addOnLabel": "Pievienojiet to savam pasūtījumam",
+    "totalLabel": "Kopā",
+    "dueTodayLabel": "Maksājams šodien",
+    "thenMonthlyNote": "pēc tam $39 mēnesī par serumu",
+    "togetherOffLabel": "20 procentu atlaide kopā",
+    "addOnTogetherLine": "Kopā abiem produktiem tiek piemērota 20 procentu atlaide. Kopā {total}.",
     "email": "E pasts",
     "firstName": "Vārds",
     "lastName": "Uzvārds",

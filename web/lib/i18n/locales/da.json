@@ -1060,6 +1060,22 @@
       ]
     }
   },
+  "pairing": {
+    "label": "Én rutine, to trin",
+    "serumStep": "Trin et",
+    "moisturizerStep": "Trin to",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumBody": "Et dagligt ansigtsserum med PDRN og peptider, til hud der ser lysere og glattere ud. Påfør 2 til 4 dråber på ren hud før fugtighedscremen, morgen og aften. 1 fl oz (30 ml).",
+    "serumPriceLine": "$49 som engangskøb, eller $39 om måneden",
+    "moisturizerTitle": "Peptide Moisturizer",
+    "moisturizerBody": "En ansigtscreme med peptider og tranebærekstrakt. Den fugter huden og målretter synlige fine linjer og rynker. Påfør en mængde på størrelse med en mønt efter serummet, morgen og aften. 1.7 fl oz (50 ml).",
+    "moisturizerPriceLine": "$27.99 som engangskøb",
+    "addonSerumBlurb": "Det første trin i rutinen, til hud der ser lysere og glattere ud. 1 fl oz (30 ml).",
+    "addonMoisturizerBlurb": "Det andet trin i rutinen. Den fugter huden og målretter synlige fine linjer og rynker. 1.7 fl oz (50 ml).",
+    "routineTitle": "Rutinen",
+    "routineBody": "Begge produkter sammen, brugt i rækkefølge. Serummet først, derefter fugtighedscremen, morgen og aften. To flasker, én rutine.",
+    "routinePriceLine": "Sammen $76.99 som engangskøb, 20 procent rabat, du betaler $61.59"
+  },
   "about": {
     "label": "Om os",
     "titleLead": "Et dagligt ansigtsserum",
@@ -1793,7 +1809,17 @@
       "oneTimeRest": " En enkelt flaske.",
       "subscribeBtn": "Abonnér, $39 om måneden",
       "buyOnceBtn": "Køb én gang, $49",
-      "stripeNote": "Sikker betaling via Stripe. Du bekræfter betalingen på Stripes side."
+      "stripeNote": "Sikker betaling via Stripe. Du bekræfter betalingen på Stripes side.",
+      "moisturizerEyebrow": "Peptide Moisturizer",
+      "moisturizerBody": "1.7 fl oz (50 ml). Den fugter huden og målretter synlige fine linjer og rynker. En mængde på størrelse med en mønt efter serummet, morgen og aften.",
+      "moisturizerLine": "Engangskøb, $27.99.",
+      "moisturizerRest": " En enkelt flaske.",
+      "moisturizerBtn": "Køb én gang, $27.99",
+      "routineEyebrow": "Rutinen",
+      "routineBody": "Serummet og fugtighedscremen sammen, brugt i rækkefølge, morgen og aften.",
+      "routineLine": "Engangskøb, $76.99 for begge.",
+      "routineRest": " 20 procent rabat sammen, du betaler $61.59.",
+      "routineBtn": "Køb rutinen, $61.59"
     },
     "labTab": {
       "eyebrow": "Laboratorie",
@@ -2020,6 +2046,13 @@
     "closeAria": "Luk betaling",
     "planOneTime": "PDRN Brightening Serum · $49 · Engangskøb",
     "planSubscribe": "PDRN Brightening Serum · $39 om måneden · Subscribe & Save 20%",
+    "planMoisturizer": "Peptide Moisturizer · $27.99 · Engangskøb",
+    "addOnLabel": "Føj dette til din ordre",
+    "totalLabel": "I alt",
+    "dueTodayLabel": "Til betaling i dag",
+    "thenMonthlyNote": "derefter $39 om måneden for serummet",
+    "togetherOffLabel": "20 procent rabat sammen",
+    "addOnTogetherLine": "Sammen får begge produkter 20 procent rabat. I alt {total}.",
     "email": "Email",
     "firstName": "Fornavn",
     "lastName": "Efternavn",

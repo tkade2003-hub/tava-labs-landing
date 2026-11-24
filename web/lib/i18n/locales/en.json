@@ -1060,6 +1060,22 @@
       ]
     }
   },
+  "pairing": {
+    "label": "One routine, two steps",
+    "serumStep": "Step one",
+    "moisturizerStep": "Step two",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumBody": "A daily face serum with PDRN and peptides, for brighter and smoother looking skin. Apply 2 to 4 drops to clean skin before moisturizer, morning and night. 1 fl oz (30 ml).",
+    "serumPriceLine": "$49 one time, or $39 per month",
+    "moisturizerTitle": "Peptide Moisturizer",
+    "moisturizerBody": "A face moisturizer with peptides and cranberry extract. It hydrates skin and targets the look of fine lines and wrinkles. Apply a dime sized amount after the serum, morning and night. 1.7 fl oz (50 ml).",
+    "moisturizerPriceLine": "$27.99 one time",
+    "addonSerumBlurb": "The first step of the routine, for brighter and smoother looking skin. 1 fl oz (30 ml).",
+    "addonMoisturizerBlurb": "The second step of the routine. It hydrates skin and targets the look of fine lines and wrinkles. 1.7 fl oz (50 ml).",
+    "routineTitle": "The Routine",
+    "routineBody": "Both products together, used in order. Serum first, then moisturizer, morning and night. Two bottles, one routine.",
+    "routinePriceLine": "Together $76.99 one time, 20 percent off, you pay $61.59"
+  },
   "about": {
     "label": "About Us",
     "titleLead": "A daily face serum",
@@ -1793,7 +1809,17 @@
       "oneTimeRest": " A single bottle.",
       "subscribeBtn": "Subscribe, $39 per month",
       "buyOnceBtn": "Buy once, $49",
-      "stripeNote": "Secure checkout by Stripe. You will confirm payment on Stripe's page."
+      "stripeNote": "Secure checkout by Stripe. You will confirm payment on Stripe's page.",
+      "moisturizerEyebrow": "Peptide Moisturizer",
+      "moisturizerBody": "1.7 fl oz (50 ml). It hydrates skin and targets the look of fine lines and wrinkles. A dime sized amount after the serum, morning and night.",
+      "moisturizerLine": "One time, $27.99.",
+      "moisturizerRest": " A single bottle.",
+      "moisturizerBtn": "Buy once, $27.99",
+      "routineEyebrow": "The Routine",
+      "routineBody": "The serum and the moisturizer together, used in order, morning and night.",
+      "routineLine": "One time, $76.99 for both.",
+      "routineRest": " 20 percent off together, you pay $61.59.",
+      "routineBtn": "Buy the routine, $61.59"
     },
     "labTab": {
       "eyebrow": "Lab",
@@ -2020,6 +2046,13 @@
     "closeAria": "Close checkout",
     "planOneTime": "PDRN Brightening Serum · $49 · One time purchase",
     "planSubscribe": "PDRN Brightening Serum · $39 per month · Subscribe & Save 20%",
+    "planMoisturizer": "Peptide Moisturizer · $27.99 · One time purchase",
+    "addOnLabel": "Add this to your order",
+    "totalLabel": "Total",
+    "dueTodayLabel": "Due today",
+    "thenMonthlyNote": "then $39 per month for the serum",
+    "togetherOffLabel": "20 percent off together",
+    "addOnTogetherLine": "Together, both products get 20 percent off. Total {total}.",
     "email": "Email",
     "firstName": "First name",
     "lastName": "Last name",

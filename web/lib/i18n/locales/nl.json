@@ -1060,6 +1060,22 @@
       ]
     }
   },
+  "pairing": {
+    "label": "Eén routine, twee stappen",
+    "serumStep": "Stap één",
+    "moisturizerStep": "Stap twee",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumBody": "Een dagelijks gezichtsserum met PDRN en peptiden, voor een stralendere en gladder uitziende huid. Breng 2 tot 4 druppels aan op een gereinigde huid vóór de moisturizer, in de ochtend en avond. 1 fl oz (30 ml).",
+    "serumPriceLine": "$49 eenmalig, of $39 per maand",
+    "moisturizerTitle": "Peptide Moisturizer",
+    "moisturizerBody": "Een gezichtsmoisturizer met peptiden en cranberry extract. De crème hydrateert de huid en richt zich op de zichtbaarheid van fijne lijntjes en rimpels. Breng in de ochtend en avond een hoeveelheid ter grootte van een munt aan na het serum. 1.7 fl oz (50 ml).",
+    "moisturizerPriceLine": "$27.99 eenmalig",
+    "addonSerumBlurb": "De eerste stap van de routine, voor een stralendere en gladder uitziende huid. 1 fl oz (30 ml).",
+    "addonMoisturizerBlurb": "De tweede stap van de routine. De crème hydrateert de huid en richt zich op de zichtbaarheid van fijne lijntjes en rimpels. 1.7 fl oz (50 ml).",
+    "routineTitle": "De routine",
+    "routineBody": "Beide producten samen, in volgorde gebruikt. Eerst het serum, daarna de moisturizer, in de ochtend en avond. Twee flessen, één routine.",
+    "routinePriceLine": "Samen $76.99 eenmalig, 20 procent korting, je betaalt $61.59"
+  },
   "about": {
     "label": "Over ons",
     "titleLead": "Een gezichtsserum voor elke dag",
@@ -1793,7 +1809,17 @@
       "oneTimeRest": " Eén fles.",
       "subscribeBtn": "Abonneer, $39 per maand",
       "buyOnceBtn": "Koop eenmalig, $49",
-      "stripeNote": "Veilig afrekenen via Stripe. Je bevestigt de betaling op de pagina van Stripe."
+      "stripeNote": "Veilig afrekenen via Stripe. Je bevestigt de betaling op de pagina van Stripe.",
+      "moisturizerEyebrow": "Peptide Moisturizer",
+      "moisturizerBody": "1.7 fl oz (50 ml). De crème hydrateert de huid en richt zich op de zichtbaarheid van fijne lijntjes en rimpels. Een hoeveelheid ter grootte van een munt na het serum, in de ochtend en avond.",
+      "moisturizerLine": "Eenmalig, $27.99.",
+      "moisturizerRest": " Eén fles.",
+      "moisturizerBtn": "Koop eenmalig, $27.99",
+      "routineEyebrow": "De routine",
+      "routineBody": "Het serum en de moisturizer samen, in volgorde gebruikt, in de ochtend en avond.",
+      "routineLine": "Eenmalig, $76.99 voor beide.",
+      "routineRest": " Samen 20 procent korting, je betaalt $61.59.",
+      "routineBtn": "Koop de routine, $61.59"
     },
     "labTab": {
       "eyebrow": "Lab",
@@ -2020,6 +2046,13 @@
     "closeAria": "Afrekenen sluiten",
     "planOneTime": "PDRN Brightening Serum · $49 · Eenmalige aankoop",
     "planSubscribe": "PDRN Brightening Serum · $39 per maand · Subscribe & Save 20%",
+    "planMoisturizer": "Peptide Moisturizer · $27.99 · Eenmalige aankoop",
+    "addOnLabel": "Voeg dit toe aan je bestelling",
+    "totalLabel": "Totaal",
+    "dueTodayLabel": "Vandaag te betalen",
+    "thenMonthlyNote": "daarna $39 per maand voor het serum",
+    "togetherOffLabel": "Samen 20 procent korting",
+    "addOnTogetherLine": "Samen krijgen beide producten 20 procent korting. Totaal {total}.",
     "email": "E-mail",
     "firstName": "Voornaam",
     "lastName": "Achternaam",

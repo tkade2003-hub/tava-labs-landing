@@ -1060,6 +1060,22 @@
       ]
     }
   },
+  "pairing": {
+    "label": "Yksi rutiini, kaksi vaihetta",
+    "serumStep": "Vaihe yksi",
+    "moisturizerStep": "Vaihe kaksi",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumBody": "Päivittäinen kasvoseerumi, jossa on PDRN ja peptidejä, kirkkaamman ja sileämmän näköiselle iholle. Levitä 2-4 tippaa puhtaalle iholle ennen kosteusvoidetta aamuin ja illoin. 1 fl oz (30 ml).",
+    "serumPriceLine": "$49 kertaostona, tai $39 kuukaudessa",
+    "moisturizerTitle": "Peptide Moisturizer",
+    "moisturizerBody": "Kasvovoide, jossa on peptidejä ja karpalouutetta. Se kosteuttaa ihoa ja kohdistuu hienojen juonteiden ja ryppyjen ulkonäköön. Levitä kolikon kokoinen määrä seerumin jälkeen aamuin ja illoin. 1.7 fl oz (50 ml).",
+    "moisturizerPriceLine": "$27.99 kertaostona",
+    "addonSerumBlurb": "Rutiinin ensimmäinen vaihe, kirkkaamman ja sileämmän näköiselle iholle. 1 fl oz (30 ml).",
+    "addonMoisturizerBlurb": "Rutiinin toinen vaihe. Se kosteuttaa ihoa ja kohdistuu hienojen juonteiden ja ryppyjen ulkonäköön. 1.7 fl oz (50 ml).",
+    "routineTitle": "Rutiini",
+    "routineBody": "Molemmat tuotteet yhdessä, käytettynä järjestyksessä. Ensin seerumi, sitten kosteusvoide, aamuin ja illoin. Kaksi pulloa, yksi rutiini.",
+    "routinePriceLine": "Yhdessä $76.99 kertaostona, 20 prosenttia alennusta, maksat $61.59"
+  },
   "about": {
     "label": "Tietoa meistä",
     "titleLead": "Päivittäinen kasvojen seerumi",
@@ -1793,7 +1809,17 @@
       "oneTimeRest": " Yksi pullo.",
       "subscribeBtn": "Tilaa, $39 kuukaudessa",
       "buyOnceBtn": "Osta kerran, $49",
-      "stripeNote": "Turvallinen kassa Stripen kautta. Vahvistat maksun Stripen sivulla."
+      "stripeNote": "Turvallinen kassa Stripen kautta. Vahvistat maksun Stripen sivulla.",
+      "moisturizerEyebrow": "Peptide Moisturizer",
+      "moisturizerBody": "1.7 fl oz (50 ml). Se kosteuttaa ihoa ja kohdistuu hienojen juonteiden ja ryppyjen ulkonäköön. Kolikon kokoinen määrä seerumin jälkeen aamuin ja illoin.",
+      "moisturizerLine": "Kertaosto, $27.99.",
+      "moisturizerRest": " Yksi pullo.",
+      "moisturizerBtn": "Osta kerran, $27.99",
+      "routineEyebrow": "Rutiini",
+      "routineBody": "Seerumi ja kosteusvoide yhdessä, käytettynä järjestyksessä, aamuin ja illoin.",
+      "routineLine": "Kertaosto, $76.99 molemmista.",
+      "routineRest": " 20 prosenttia alennusta yhdessä, maksat $61.59.",
+      "routineBtn": "Osta rutiini, $61.59"
     },
     "labTab": {
       "eyebrow": "Laboratorio",
@@ -2020,6 +2046,13 @@
     "closeAria": "Sulje kassa",
     "planOneTime": "PDRN Brightening Serum · $49 · Kertaostos",
     "planSubscribe": "PDRN Brightening Serum · $39 kuukaudessa · Tilaa ja säästä 20 %",
+    "planMoisturizer": "Peptide Moisturizer · $27.99 · Kertaosto",
+    "addOnLabel": "Lisää tämä tilaukseesi",
+    "totalLabel": "Yhteensä",
+    "dueTodayLabel": "Maksettava tänään",
+    "thenMonthlyNote": "sen jälkeen $39 kuukaudessa seerumista",
+    "togetherOffLabel": "20 prosenttia alennusta yhdessä",
+    "addOnTogetherLine": "Yhdessä molemmat tuotteet saavat 20 prosenttia alennusta. Yhteensä {total}.",
     "email": "Sähköposti",
     "firstName": "Etunimi",
     "lastName": "Sukunimi",

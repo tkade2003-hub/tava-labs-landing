@@ -1060,6 +1060,22 @@
       ]
     }
   },
+  "pairing": {
+    "label": "Una routine, due passaggi",
+    "serumStep": "Passaggio uno",
+    "moisturizerStep": "Passaggio due",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumBody": "Un siero viso quotidiano con PDRN e peptidi, per una pelle dall'aspetto più luminoso e levigato. Applica da 2 a 4 gocce sulla pelle pulita prima della crema idratante, mattina e sera. 1 fl oz (30 ml).",
+    "serumPriceLine": "$49 una tantum, oppure $39 al mese",
+    "moisturizerTitle": "Peptide Moisturizer",
+    "moisturizerBody": "Una crema idratante per il viso con peptidi ed estratto di mirtillo rosso. Idrata la pelle e agisce sull'aspetto di linee sottili e rughe. Applica una quantità grande quanto una moneta dopo il siero, mattina e sera. 1.7 fl oz (50 ml).",
+    "moisturizerPriceLine": "$27.99 una tantum",
+    "addonSerumBlurb": "Il primo passaggio della routine, per una pelle dall'aspetto più luminoso e levigato. 1 fl oz (30 ml).",
+    "addonMoisturizerBlurb": "Il secondo passaggio della routine. Idrata la pelle e agisce sull'aspetto di linee sottili e rughe. 1.7 fl oz (50 ml).",
+    "routineTitle": "La routine",
+    "routineBody": "Entrambi i prodotti insieme, usati in ordine. Prima il siero, poi la crema idratante, mattina e sera. Due flaconi, una routine.",
+    "routinePriceLine": "Insieme $76.99 una tantum, 20 per cento di sconto, paghi $61.59"
+  },
   "about": {
     "label": "Chi siamo",
     "titleLead": "Un siero viso quotidiano",
@@ -1793,7 +1809,17 @@
       "oneTimeRest": " Una singola bottiglia.",
       "subscribeBtn": "Abbonati, $39 al mese",
       "buyOnceBtn": "Acquista una volta, $49",
-      "stripeNote": "Pagamento sicuro tramite Stripe. Confermerai il pagamento sulla pagina di Stripe."
+      "stripeNote": "Pagamento sicuro tramite Stripe. Confermerai il pagamento sulla pagina di Stripe.",
+      "moisturizerEyebrow": "Peptide Moisturizer",
+      "moisturizerBody": "1.7 fl oz (50 ml). Idrata la pelle e agisce sull'aspetto di linee sottili e rughe. Una quantità grande quanto una moneta dopo il siero, mattina e sera.",
+      "moisturizerLine": "Una tantum, $27.99.",
+      "moisturizerRest": " Un solo flacone.",
+      "moisturizerBtn": "Acquista una volta, $27.99",
+      "routineEyebrow": "La routine",
+      "routineBody": "Il siero e la crema idratante insieme, usati in ordine, mattina e sera.",
+      "routineLine": "Una tantum, $76.99 per entrambi.",
+      "routineRest": " 20 per cento di sconto insieme, paghi $61.59.",
+      "routineBtn": "Acquista la routine, $61.59"
     },
     "labTab": {
       "eyebrow": "Analisi",
@@ -2020,6 +2046,13 @@
     "closeAria": "Chiudi il pagamento",
     "planOneTime": "PDRN Brightening Serum · $49 · Acquisto una tantum",
     "planSubscribe": "PDRN Brightening Serum · $39 al mese · Abbonati e Risparmia 20%",
+    "planMoisturizer": "Peptide Moisturizer · $27.99 · Acquisto unico",
+    "addOnLabel": "Aggiungi questo al tuo ordine",
+    "totalLabel": "Totale",
+    "dueTodayLabel": "Da pagare oggi",
+    "thenMonthlyNote": "poi $39 al mese per il siero",
+    "togetherOffLabel": "20 per cento di sconto insieme",
+    "addOnTogetherLine": "Insieme, entrambi i prodotti hanno il 20 per cento di sconto. Totale {total}.",
     "email": "Email",
     "firstName": "Nome",
     "lastName": "Cognome",

@@ -1060,6 +1060,22 @@
       ]
     }
   },
+  "pairing": {
+    "label": "Eine Routine, zwei Schritte",
+    "serumStep": "Schritt eins",
+    "moisturizerStep": "Schritt zwei",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumBody": "Ein tägliches Gesichtsserum mit PDRN und Peptiden, für ein strahlenderes und glatter aussehendes Hautbild. Morgens und abends 2 bis 4 Tropfen vor der Feuchtigkeitscreme auf die gereinigte Haut auftragen. 1 fl oz (30 ml).",
+    "serumPriceLine": "$49 einmalig, oder $39 pro Monat",
+    "moisturizerTitle": "Peptide Moisturizer",
+    "moisturizerBody": "Eine Feuchtigkeitscreme für das Gesicht mit Peptiden und Cranberry Extrakt. Sie versorgt die Haut mit Feuchtigkeit und zielt auf das Erscheinungsbild feiner Linien und Falten. Morgens und abends eine erbsengroße Menge nach dem Serum auftragen. 1.7 fl oz (50 ml).",
+    "moisturizerPriceLine": "$27.99 einmalig",
+    "addonSerumBlurb": "Der erste Schritt der Routine, für ein strahlenderes und glatter aussehendes Hautbild. 1 fl oz (30 ml).",
+    "addonMoisturizerBlurb": "Der zweite Schritt der Routine. Sie versorgt die Haut mit Feuchtigkeit und zielt auf das Erscheinungsbild feiner Linien und Falten. 1.7 fl oz (50 ml).",
+    "routineTitle": "Die Routine",
+    "routineBody": "Beide Produkte zusammen, in dieser Reihenfolge angewendet. Zuerst das Serum, dann die Feuchtigkeitscreme, morgens und abends. Zwei Flaschen, eine Routine.",
+    "routinePriceLine": "Zusammen $76.99 einmalig, 20 Prozent Rabatt, Sie zahlen $61.59"
+  },
   "about": {
     "label": "Über uns",
     "titleLead": "Ein Gesichtsserum für jeden Tag",
@@ -1793,7 +1809,17 @@
       "oneTimeRest": " Eine einzelne Flasche.",
       "subscribeBtn": "Abonnieren, $39 pro Monat",
       "buyOnceBtn": "Einmal kaufen, $49",
-      "stripeNote": "Sicherer Kaufabschluss durch Stripe. Sie bestätigen die Zahlung auf der Seite von Stripe."
+      "stripeNote": "Sicherer Kaufabschluss durch Stripe. Sie bestätigen die Zahlung auf der Seite von Stripe.",
+      "moisturizerEyebrow": "Peptide Moisturizer",
+      "moisturizerBody": "1.7 fl oz (50 ml). Sie versorgt die Haut mit Feuchtigkeit und zielt auf das Erscheinungsbild feiner Linien und Falten. Eine erbsengroße Menge nach dem Serum, morgens und abends.",
+      "moisturizerLine": "Einmalig, $27.99.",
+      "moisturizerRest": " Eine einzelne Flasche.",
+      "moisturizerBtn": "Einmal kaufen, $27.99",
+      "routineEyebrow": "Die Routine",
+      "routineBody": "Das Serum und die Feuchtigkeitscreme zusammen, in dieser Reihenfolge angewendet, morgens und abends.",
+      "routineLine": "Einmalig, $76.99 für beide.",
+      "routineRest": " Zusammen 20 Prozent Rabatt, Sie zahlen $61.59.",
+      "routineBtn": "Die Routine kaufen, $61.59"
     },
     "labTab": {
       "eyebrow": "Labor",
@@ -2020,6 +2046,13 @@
     "closeAria": "Kaufabschluss schließen",
     "planOneTime": "PDRN Brightening Serum · $49 · Einmalkauf",
     "planSubscribe": "PDRN Brightening Serum · $39 pro Monat · Subscribe & Save 20%",
+    "planMoisturizer": "Peptide Moisturizer · $27.99 · Einmalkauf",
+    "addOnLabel": "Fügen Sie dies zu Ihrer Bestellung hinzu",
+    "totalLabel": "Gesamt",
+    "dueTodayLabel": "Heute fällig",
+    "thenMonthlyNote": "danach $39 pro Monat für das Serum",
+    "togetherOffLabel": "Zusammen 20 Prozent Rabatt",
+    "addOnTogetherLine": "Zusammen erhalten beide Produkte 20 Prozent Rabatt. Gesamt {total}.",
     "email": "E-Mail",
     "firstName": "Vorname",
     "lastName": "Nachname",

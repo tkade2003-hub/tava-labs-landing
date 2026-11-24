@@ -1060,6 +1060,22 @@
       ]
     }
   },
+  "pairing": {
+    "label": "Viena rutina, du žingsniai",
+    "serumStep": "Pirmas žingsnis",
+    "moisturizerStep": "Antras žingsnis",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumBody": "Kasdienis veido serumas su PDRN ir peptidais, skaistesnei ir lygesnei atrodančiai odai. Tepkite 2 iki 4 lašus ant švarios odos prieš drėkiklį, ryte ir vakare. 1 fl oz (30 ml).",
+    "serumPriceLine": "$49 vieną kartą, arba $39 per mėnesį",
+    "moisturizerTitle": "Peptide Moisturizer",
+    "moisturizerBody": "Veido drėkiklis su peptidais ir spanguolių ekstraktu. Jis drėkina odą ir veikia smulkių linijų ir raukšlių išvaizdą. Tepkite monetos dydžio kiekį po serumo, ryte ir vakare. 1.7 fl oz (50 ml).",
+    "moisturizerPriceLine": "$27.99 vieną kartą",
+    "addonSerumBlurb": "Pirmas rutinos žingsnis, skaistesnei ir lygesnei atrodančiai odai. 1 fl oz (30 ml).",
+    "addonMoisturizerBlurb": "Antras rutinos žingsnis. Jis drėkina odą ir veikia smulkių linijų ir raukšlių išvaizdą. 1.7 fl oz (50 ml).",
+    "routineTitle": "Rutina",
+    "routineBody": "Abu produktai kartu, naudojami iš eilės. Pirmiausia serumas, tada drėkiklis, ryte ir vakare. Du buteliukai, viena rutina.",
+    "routinePriceLine": "Kartu $76.99 vieną kartą, 20 procentų nuolaida, mokate $61.59"
+  },
   "about": {
     "label": "Apie mus",
     "titleLead": "Kasdienis veido serumas",
@@ -1793,7 +1809,17 @@
       "oneTimeRest": " Vienas buteliukas.",
       "subscribeBtn": "Prenumeruoti, $39 per mėnesį",
       "buyOnceBtn": "Pirkti vieną kartą, $49",
-      "stripeNote": "Saugus atsiskaitymas per Stripe. Mokėjimą patvirtinsite Stripe puslapyje."
+      "stripeNote": "Saugus atsiskaitymas per Stripe. Mokėjimą patvirtinsite Stripe puslapyje.",
+      "moisturizerEyebrow": "Peptide Moisturizer",
+      "moisturizerBody": "1.7 fl oz (50 ml). Jis drėkina odą ir veikia smulkių linijų ir raukšlių išvaizdą. Monetos dydžio kiekis po serumo, ryte ir vakare.",
+      "moisturizerLine": "Vieną kartą, $27.99.",
+      "moisturizerRest": " Vienas buteliukas.",
+      "moisturizerBtn": "Pirkti vieną kartą, $27.99",
+      "routineEyebrow": "Rutina",
+      "routineBody": "Serumas ir drėkiklis kartu, naudojami iš eilės, ryte ir vakare.",
+      "routineLine": "Vieną kartą, $76.99 už abu.",
+      "routineRest": " 20 procentų nuolaida kartu, mokate $61.59.",
+      "routineBtn": "Pirkti rutiną, $61.59"
     },
     "labTab": {
       "eyebrow": "Tyrimai",
@@ -2020,6 +2046,13 @@
     "closeAria": "Uždaryti atsiskaitymą",
     "planOneTime": "PDRN Brightening Serum · $49 · Vienkartinis pirkimas",
     "planSubscribe": "PDRN Brightening Serum · $39 per mėnesį · Subscribe & Save 20%",
+    "planMoisturizer": "Peptide Moisturizer · $27.99 · Vienkartinis pirkimas",
+    "addOnLabel": "Pridėkite tai prie savo užsakymo",
+    "totalLabel": "Iš viso",
+    "dueTodayLabel": "Mokėtina šiandien",
+    "thenMonthlyNote": "tada $39 per mėnesį už serumą",
+    "togetherOffLabel": "20 procentų nuolaida kartu",
+    "addOnTogetherLine": "Kartu abiem produktams taikoma 20 procentų nuolaida. Iš viso {total}.",
     "email": "El. paštas",
     "firstName": "Vardas",
     "lastName": "Pavardė",

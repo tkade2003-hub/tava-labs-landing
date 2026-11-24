@@ -1060,6 +1060,22 @@
       ]
     }
   },
+  "pairing": {
+    "label": "Ena rutina, dva koraka",
+    "serumStep": "Prvi korak",
+    "moisturizerStep": "Drugi korak",
+    "serumTitle": "PDRN Brightening Serum",
+    "serumBody": "Dnevni serum za obraz s PDRN in peptidi, za kožo, ki je videti svetlejša in bolj gladka. Nanesite 2 do 4 kapljice na čisto kožo pred vlažilno kremo, zjutraj in zvečer. 1 fl oz (30 ml).",
+    "serumPriceLine": "$49 enkratno, ali $39 na mesec",
+    "moisturizerTitle": "Peptide Moisturizer",
+    "moisturizerBody": "Vlažilna krema za obraz s peptidi in izvlečkom brusnice. Kožo navlaži in cilja na videz drobnih linij in gub. Nanesite količino v velikosti kovanca po serumu, zjutraj in zvečer. 1.7 fl oz (50 ml).",
+    "moisturizerPriceLine": "$27.99 enkratno",
+    "addonSerumBlurb": "Prvi korak rutine, za kožo, ki je videti svetlejša in bolj gladka. 1 fl oz (30 ml).",
+    "addonMoisturizerBlurb": "Drugi korak rutine. Kožo navlaži in cilja na videz drobnih linij in gub. 1.7 fl oz (50 ml).",
+    "routineTitle": "Rutina",
+    "routineBody": "Oba izdelka skupaj, uporabljena po vrsti. Najprej serum, nato vlažilna krema, zjutraj in zvečer. Dve steklenički, ena rutina.",
+    "routinePriceLine": "Skupaj $76.99 enkratno, 20 odstotkov popusta, plačate $61.59"
+  },
   "about": {
     "label": "O nas",
     "titleLead": "Dnevni serum za obraz",
@@ -1793,7 +1809,17 @@
       "oneTimeRest": " Ena steklenička.",
       "subscribeBtn": "Naročite se, $39 na mesec",
       "buyOnceBtn": "Kupite enkrat, $49",
-      "stripeNote": "Varna blagajna Stripe. Plačilo boste potrdili na strani Stripe."
+      "stripeNote": "Varna blagajna Stripe. Plačilo boste potrdili na strani Stripe.",
+      "moisturizerEyebrow": "Peptide Moisturizer",
+      "moisturizerBody": "1.7 fl oz (50 ml). Kožo navlaži in cilja na videz drobnih linij in gub. Količina v velikosti kovanca po serumu, zjutraj in zvečer.",
+      "moisturizerLine": "Enkratno, $27.99.",
+      "moisturizerRest": " Ena steklenička.",
+      "moisturizerBtn": "Kupite enkrat, $27.99",
+      "routineEyebrow": "Rutina",
+      "routineBody": "Serum in vlažilna krema skupaj, uporabljena po vrsti, zjutraj in zvečer.",
+      "routineLine": "Enkratno, $76.99 za oba.",
+      "routineRest": " 20 odstotkov popusta skupaj, plačate $61.59.",
+      "routineBtn": "Kupite rutino, $61.59"
     },
     "labTab": {
       "eyebrow": "Laboratorij",
@@ -2020,6 +2046,13 @@
     "closeAria": "Zaprite blagajno",
     "planOneTime": "PDRN Brightening Serum · $49 · Enkratni nakup",
     "planSubscribe": "PDRN Brightening Serum · $39 na mesec · Subscribe & Save 20%",
+    "planMoisturizer": "Peptide Moisturizer · $27.99 · Enkratni nakup",
+    "addOnLabel": "Dodajte to svojemu naročilu",
+    "totalLabel": "Skupaj",
+    "dueTodayLabel": "Za plačilo danes",
+    "thenMonthlyNote": "nato $39 na mesec za serum",
+    "togetherOffLabel": "20 odstotkov popusta skupaj",
+    "addOnTogetherLine": "Skupaj oba izdelka prejmeta 20 odstotkov popusta. Skupaj {total}.",
     "email": "E-pošta",
     "firstName": "Ime",
     "lastName": "Priimek",

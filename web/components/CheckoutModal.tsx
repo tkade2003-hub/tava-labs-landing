@@ -23,6 +23,24 @@ export type BuyType = keyof typeof PRICES;
 /** Price set for a product: one_time is required, subscribe only where sold. */
 export type PriceSet = { one_time: number; subscribe?: number };
 
+export type AddOnConfig = {
+  productId: string;
+  sku: string;
+  name: string;
+  blurb: string;
+  price: number;
+};
+
+const MOISTURIZER_PRODUCT_ID = "00bc6534-cd37-4015-a266-bedc75d69936";
+
+function money(n: number): string {
+  return "$" + n.toFixed(2);
+}
+
+function togetherTotal(primary: number, addOnPrice: number): number {
+  return Math.round((primary + addOnPrice) * 80) / 100;
+}
+
 export function CheckoutModal({
   buyType,
   initialEmail,
@@ -31,6 +49,9 @@ export function CheckoutModal({
   productId = PRODUCT.productId,
   sku = PRODUCT.sku,
   prices = PRICES,
+  productName = "PDRN Brightening Serum",
+  addOn = null,
+  bundleAddOn = null,
 }: {
   buyType: BuyType;
   initialEmail: string;
@@ -39,9 +60,19 @@ export function CheckoutModal({
   productId?: string;
   sku?: string;
   prices?: PriceSet;
+  productName?: string;
+  addOn?: AddOnConfig | null;
+  bundleAddOn?: AddOnConfig | null;
 }) {
   const t = dict.checkout;
   const PLAN_LINES = { one_time: t.planOneTime, subscribe: t.planSubscribe };
+  const planLine =
+    productId === MOISTURIZER_PRODUCT_ID ? t.planMoisturizer : PLAN_LINES[buyType];
+  const [addOnChecked, setAddOnChecked] = useState(false);
+  const addOnActive: AddOnConfig | null =
+    bundleAddOn ?? (addOnChecked ? (addOn ?? null) : null);
+  const primaryPrice =
+    buyType === "subscribe" ? (prices.subscribe ?? prices.one_time) : prices.one_time;
   const [fields, setFields] = useState({
     email: initialEmail,
     first: "",
@@ -115,6 +146,9 @@ export function CheckoutModal({
         quantity: 1,
         purchaseType: buyType,
         price: buyType === "subscribe" ? (prices.subscribe ?? prices.one_time) : prices.one_time,
+        ...(addOnActive
+          ? { addOn: { productId: addOnActive.productId, sku: addOnActive.sku } }
+          : {}),
       },
       shippingAddress,
     };
@@ -166,7 +200,45 @@ export function CheckoutModal({
         <h3 id="coTitle" className="font-display text-2xl font-semibold text-forest-deep">
           {t.title}
         </h3>
-        <p className="mt-1 mb-3.5 text-sm text-muted-foreground">{PLAN_LINES[buyType]}</p>
+        <p className="mt-1 mb-3.5 text-sm text-muted-foreground">{planLine}</p>
+        {bundleAddOn ? (
+          <div className="mb-3.5 text-sm text-ink/80">
+            <div className="flex items-baseline justify-between gap-3">
+              <span>{productName}</span>
+              <span>{money(primaryPrice)}</span>
+            </div>
+            <div className="mt-1 flex items-baseline justify-between gap-3">
+              <span>{bundleAddOn.name}</span>
+              <span>{money(bundleAddOn.price)}</span>
+            </div>
+          </div>
+        ) : addOn ? (
+          <div className="mb-3.5 rounded-[12px] border border-linestone p-4">
+            <p className="text-[13px] font-semibold text-forest-deep">{t.addOnLabel}</p>
+            <label className="mt-2 flex cursor-pointer items-start gap-3">
+              <input
+                type="checkbox"
+                className="mt-1 size-4 shrink-0 accent-[#123B2C]"
+                checked={addOnChecked}
+                onChange={(e) => setAddOnChecked(e.target.checked)}
+              />
+              <span className="flex-1">
+                <span className="flex items-baseline justify-between gap-3 text-sm font-semibold text-forest-deep">
+                  <span>{addOn.name}</span>
+                  <span>{money(addOn.price)}</span>
+                </span>
+                <span className="mt-1 block text-sm leading-relaxed text-ink/75">
+                  {addOn.blurb}
+                </span>
+                <span className="mt-2 block text-sm font-semibold text-forest-deep">
+                  {fmt(t.addOnTogetherLine, {
+                    total: money(togetherTotal(primaryPrice, addOn.price)),
+                  })}
+                </span>
+              </span>
+            </label>
+          </div>
+        ) : null}
         <form onSubmit={submit} noValidate>
           <Label className={fieldLabel}>
             {t.email}
@@ -293,6 +365,42 @@ export function CheckoutModal({
             >
               {error}
             </p>
+          ) : null}
+          {addOnActive ? (
+            <div className="mt-3 rounded-[10px] bg-linen/60 px-3 py-2.5 text-sm text-ink/80">
+              <div className="flex items-baseline justify-between gap-3">
+                <span>{productName}</span>
+                <span>{money(primaryPrice)}</span>
+              </div>
+              <div className="mt-1 flex items-baseline justify-between gap-3">
+                <span>{addOnActive.name}</span>
+                <span>{money(addOnActive.price)}</span>
+              </div>
+              <div className="mt-1 flex items-baseline justify-between gap-3">
+                <span>{t.togetherOffLabel}</span>
+                <span>
+                  {"-" +
+                    money(
+                      primaryPrice +
+                        addOnActive.price -
+                        togetherTotal(primaryPrice, addOnActive.price),
+                    )}
+                </span>
+              </div>
+              <div className="mt-1.5 flex items-baseline justify-between gap-3 font-semibold text-forest-deep">
+                {buyType === "subscribe" ? (
+                  <span>
+                    {t.dueTodayLabel} {money(togetherTotal(primaryPrice, addOnActive.price))},{" "}
+                    {t.thenMonthlyNote}
+                  </span>
+                ) : (
+                  <>
+                    <span>{t.totalLabel}</span>
+                    <span>{money(togetherTotal(primaryPrice, addOnActive.price))}</span>
+                  </>
+                )}
+              </div>
+            </div>
           ) : null}
           <Button
             className="mt-2 h-12 w-full rounded-full text-[15px] font-semibold"
