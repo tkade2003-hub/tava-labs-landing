@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "säravus ja sära"
+   "t": "säravama välimusega nahk"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Tuhm, väsinud välimusega nahk on üks levinumaid põhjuseid, miks inimesed seerumirutiini alustavad. PDRN Brightening Serum on ehitatud PDRN-i ja peptiidide ümber kerges valemis, mis on loodud parandama sileda ja särava naha välimust, jättes selle täidlase, pehme ja värskena, hommikul ja õhtul."
+   "t": "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Tuhm, väsinud välimusega nahk on üks levinumaid põhjuseid, miks inimesed seerumirutiini alustavad. PDRN Brightening Serum on ehitatud PDRN-i ja peptiidide ümber kerges valemis, mis aitab nahal sile ja särav välja näha, hommikul ja õhtul."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Peened jooned on tavaliselt esimene asi, mille pärast inimesed seerumit soovivad. See valem ühendab acetyl hexapeptide-8 PDRN-iga, koostisosad, mis on valitud toetama nahka, mis näeb siledam ja säravam välja, ühes sammus, kaks korda päevas. Kümne sammu rutiini ei ole vaja."
+   "t": "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Peened jooned on tavaliselt esimene asi, mille pärast inimesed seerumit soovivad. See valem ühendab atsetüülheksapeptiid-8 PDRN-iga, kaks koostisosa, mis on valitud toetama nahka, mis näeb siledam ja säravam välja, ühes sammus, kaks korda päevas. Kümne sammu rutiini ei ole vaja."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Nahk, mis tundub keskpäevaks kiskuv ja janune, on täpselt see, mille jaoks see seerum on tehtud. Glütseriini, sodium PCA ja sodium hyaluronate segu pakub sügavat niisutust, samal ajal kui panthenol hooldab, nii et nahk tundub mugav ja näeb täidlane välja, mitte rasvane."
+   "t": "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Nahk, mis tundub keskpäevaks kiskuv ja kuiv, on täpselt see, mille jaoks see seerum on tehtud. Glütseriini, naatrium PCA ja naatriumhüaluronaadi segu pakub sügavat niisutust, samal ajal kui panthenool hooldab nahka, nii et see tundub mugav ja niisutatud, mitte rasvane."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Ebaühtlase välimusega jume on levinud frustratsioon. PDRN ja peptiidid aitavad edendada säravamat ja elavama välimusega jumet ning kerge valem imendub kiiresti ja lihtsalt, lihtne kaks korda päevas tehtav samm ühtlasema välimuse poole."
+   "t": "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Ebaühtlase välimusega jume on levinud frustratsioon. PDRN ja peptiidid aitavad nahal säravam ja ühtlasem välja näha ning kerge valem imendub kiiresti, lihtsas sammus, mida kasutatakse kaks korda päevas."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Aitab edendada säravamat ja elavama välimusega jumet ning parandab sileda ja särava naha välimust."
+   "t": "Aitab nahal säravam, ühtlasem ja sile välja näha."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "Niisutusegu, mis tõmbab niiskust ligi täidlase ja mugava tunde ning siidiselt sileda tekstuuri heaks."
+   "t": "Niisutusegu, mis tõmbab niiskust ligi, naha jaoks, mis tundub mugav ja sile."
   },
   {
    "k": "ing.panthenol.name",

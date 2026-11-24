@@ -12,22 +12,22 @@ const FUNNEL_INTAKE_URL = "https://vuzrpgkqytzvbbxwsvqr.supabase.co/functions/v1
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { subscribe: 39, one_time: 49 };
 
-const GOAL_LABEL = { radiance: "säravus ja sära", fine_lines: "peened jooned", hydration: "sügav niisutus", even_tone: "ühtlane toon" };
+const GOAL_LABEL = { radiance: "säravama välimusega nahk", fine_lines: "peened jooned", hydration: "sügav niisutus", even_tone: "ühtlane toon" };
 const SKIN_LABEL = { dry: "Kuiv", oily: "Rasune", combination: "Kombineeritud", sensitive: "Tundlik", not_sure: "Alles selgitan välja" };
 const CONCERN_LABEL = { dullness: "tuhmus", fine_lines: "peened jooned", uneven_tone: "ebaühtlane toon", texture: "kare tekstuur", dryness: "kuivus" };
 
 const NOT_ALONE = {
-  radiance: "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Tuhm, väsinud välimusega nahk on üks levinumaid põhjuseid, miks inimesed seerumirutiini alustavad. PDRN Brightening Serum on ehitatud PDRN-i ja peptiidide ümber kerges valemis, mis on loodud parandama sileda ja särava naha välimust, jättes selle täidlase, pehme ja värskena, hommikul ja õhtul.",
-  fine_lines: "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Peened jooned on tavaliselt esimene asi, mille pärast inimesed seerumit soovivad. See valem ühendab acetyl hexapeptide-8 PDRN-iga, koostisosad, mis on valitud toetama nahka, mis näeb siledam ja säravam välja, ühes sammus, kaks korda päevas. Kümne sammu rutiini ei ole vaja.",
-  hydration: "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Nahk, mis tundub keskpäevaks kiskuv ja janune, on täpselt see, mille jaoks see seerum on tehtud. Glütseriini, sodium PCA ja sodium hyaluronate segu pakub sügavat niisutust, samal ajal kui panthenol hooldab, nii et nahk tundub mugav ja näeb täidlane välja, mitte rasvane.",
-  even_tone: "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Ebaühtlase välimusega jume on levinud frustratsioon. PDRN ja peptiidid aitavad edendada säravamat ja elavama välimusega jumet ning kerge valem imendub kiiresti ja lihtsalt, lihtne kaks korda päevas tehtav samm ühtlasema välimuse poole."
+  radiance: "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Tuhm, väsinud välimusega nahk on üks levinumaid põhjuseid, miks inimesed seerumirutiini alustavad. PDRN Brightening Serum on ehitatud PDRN-i ja peptiidide ümber kerges valemis, mis aitab nahal sile ja särav välja näha, hommikul ja õhtul.",
+  fine_lines: "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Peened jooned on tavaliselt esimene asi, mille pärast inimesed seerumit soovivad. See valem ühendab atsetüülheksapeptiid-8 PDRN-iga, kaks koostisosa, mis on valitud toetama nahka, mis näeb siledam ja säravam välja, ühes sammus, kaks korda päevas. Kümne sammu rutiini ei ole vaja.",
+  hydration: "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Nahk, mis tundub keskpäevaks kiskuv ja kuiv, on täpselt see, mille jaoks see seerum on tehtud. Glütseriini, naatrium PCA ja naatriumhüaluronaadi segu pakub sügavat niisutust, samal ajal kui panthenool hooldab nahka, nii et see tundub mugav ja niisutatud, mitte rasvane.",
+  even_tone: "Asutajad ja loojad, kes end iga päev esitlevad, alustavad oma hommikut samamoodi. Ebaühtlase välimusega jume on levinud frustratsioon. PDRN ja peptiidid aitavad nahal säravam ja ühtlasem välja näha ning kerge valem imendub kiiresti, lihtsas sammus, mida kasutatakse kaks korda päevas."
 };
 
 /* Ingredient groups from the verified Supliful listing. Cosmetic language only. */
 const INGREDIENTS = [
-  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Aitab edendada säravamat ja elavama välimusega jumet ning parandab sileda ja särava naha välimust.", match: ["radiance", "tuhmus", "uneven_tone", "even_tone"] },
+  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Aitab nahal säravam, ühtlasem ja sile välja näha.", match: ["radiance", "tuhmus", "uneven_tone", "even_tone"] },
   { key: "peptide", name: "Acetyl hexapeptide-8", text: "Peptiid, mis töötab koos PDRN-iga, et toetada nahka, mis näeb siledam ja ühtlasem välja.", match: ["fine_lines", "texture"] },
-  { key: "ha", name: "Hyaluronic acid, glycerin & sodium PCA", text: "Niisutusegu, mis tõmbab niiskust ligi täidlase ja mugava tunde ning siidiselt sileda tekstuuri heaks.", match: ["hydration", "kuivus"] },
+  { key: "ha", name: "Hyaluronic acid, glycerin & sodium PCA", text: "Niisutusegu, mis tõmbab niiskust ligi, naha jaoks, mis tundub mugav ja sile.", match: ["hydration", "kuivus"] },
   { key: "panthenol", name: "Panthenol", text: "Hooldab nahka, jättes selle pehme ja mugava tundena, lahke põhi nahale, mis reageerib kergesti.", match: ["sensitive"] }
 ];
 

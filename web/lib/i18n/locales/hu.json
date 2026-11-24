@@ -2,15 +2,15 @@
  "meta": {
   "home": {
    "title": "PDRN Brightening Serum vállalkozóknak | Tava Labs",
-   "description": "Bőrápolás vállalkozóknak. A PDRN Brightening Serum PDRN-t, peptideket és hialuronsavat párosít a ragyogó, hidratált bőrért. $49 egyszeri áron vagy $39 havonta."
+   "description": "Napi arcszérum alapítóknak és cégtulajdonosoknak. PDRN Brightening Serum PDRN-nel, peptidekkel és hialuronsavval a ragyogóbb, hidratált megjelenésű bőrért. $49 egyszeri áron vagy $39 havonta."
   },
   "product": {
    "title": "PDRN Brightening Serum vállalkozóknak | Tava Labs",
-   "description": "A Tava Labs PDRN Brightening Serum PDRN-t, peptideket és Sodium Hyaluronate-ot párosít a ragyogó, hidratált bőrért egyetlen napi lépésben, alapítóknak, operátoroknak és alkotóknak. $49 egyszeri áron vagy $39 havonta."
+   "description": "A Tava Labs PDRN Brightening Serum egy napi arcszérum PDRN-nel, peptidekkel és nátrium-hialuronáttal a ragyogóbb, hidratált megjelenésű bőrért. Alapítóknak és cégtulajdonosoknak készült. $49 egyszeri áron vagy $39 havonta."
   },
   "about": {
-   "title": "A Tava Labsról | Bőrápolás az ambiciózusoknak",
-   "description": "A Tava Labs bőrápolást készít az ambiciózusoknak. Ismerd meg a csapatot a PDRN Brightening Serum mögött, a napi rutint, amelyet alapítóknak és szakembereknek terveztek."
+   "title": "A Tava Labsról | Arcszérum alapítóknak",
+   "description": "A Tava Labs egy terméket készít, a PDRN Brightening Serumot, egy napi arcszérumot alapítóknak és cégtulajdonosoknak. Olvassa el, kik vagyunk és miért készítettük."
   },
   "ingredients": {
    "title": "A PDRN Brightening Serum összetevői | Tava Labs",
@@ -34,7 +34,7 @@
   },
   "blog": {
    "title": "The Tava Journal | Bőr, alvás és stressz alapítóknak",
-   "description": "Alvástudomány, stresszkutatás és bőregészség alapítóknak és szakembereknek, plusz gyakorlati rutinok, hogy a munkában is élesen nézz ki."
+   "description": "Alvástudomány, stresszkutatás és bőr-egészség alapítóknak és cégtulajdonosoknak, plusz gyakorlati rutinok, hogy kipihentnek nézzen ki a munkában."
   },
   "quiz": {
    "title": "Bőrkvíz | Építsd fel a személyes szérumtervedet | Tava Labs",
@@ -42,11 +42,11 @@
   },
   "checkoutSuccess": {
    "title": "Rendelés visszaigazolva | A PDRN Brightening Serumod | Tava Labs",
-   "description": "A Tava Labs PDRN Brightening Serum rendelésedet visszaigazoltuk. Az igénylőkódod összekapcsolja ezt a vásárlást az alkalmazással, ahol a terved, a válaszaid és a rendelésed veled együtt mozog."
+   "description": "A Tava Labs PDRN Brightening Serum rendelése megerősítve. Az igénylési kódja összeköti ezt a vásárlást az alkalmazással, ahol láthatja a tervét, a kvíz válaszait és a rendelését."
   },
   "checkoutCancel": {
    "title": "Fizetés megszakítva | Nem történt terhelés | Tava Labs",
-   "description": "Nem történt terhelés. A Tava Labs terved és válaszaid mentve vannak, így pontosan ott folytathatod, ahol abbahagytad, amikor készen állsz."
+   "description": "Nem történt terhelés. A Tava Labs terve és válaszai mentve vannak, így később befejezheti a rendelését, amikor készen áll."
   },
   "login": {
    "title": "Bejelentkezés | Tava Labs",
@@ -92,7 +92,7 @@
   "openMenu": "Menü megnyitása",
   "closeMenu": "Menü bezárása",
   "language": "Nyelv",
-  "tagline": "The Science of Attractive Health",
+  "tagline": "PDRN Brightening Serum alapítóknak",
   "shopHeading": "Vásárlás",
   "contactHeading": "Kapcsolat",
   "infoHeading": "Információ",
@@ -114,17 +114,17 @@
    "blog": "Blog",
    "research": "Kutatás"
   },
-  "newsletterHeading": "Maradj naprakész minden Tava újdonsággal",
+  "newsletterHeading": "Kapjon Tava Labs frissítéseket e-mailben",
   "newsletter": {
    "placeholder": "Az e-mail címed",
    "subscribe": "Feliratkozás",
    "sending": "Küldés...",
-   "done": "Bent vagy. Üdvözlünk a ragyogáslistán.",
+   "done": "Feliratkozott. Köszönjük.",
    "error": "Valami hiba történt, próbáld újra."
   },
   "disclaimer1": "A PDRN Brightening Serum kozmetikai termék. Nem szolgál betegségek diagnosztizálására, kezelésére, gyógyítására vagy megelőzésére. Az egyéni eredmények eltérhetnek.",
   "disclaimer2": "Minden eladás végleges. Rendelés előtt olvasd el a Visszaküldési szabályzatunkat.",
-  "copyright": "© 2026 Tava Labs · The Science of Attractive Health",
+  "copyright": "© 2026 Tava Labs · PDRN Brightening Serum alapítóknak",
   "notFoundLabel": "Tava Labs",
   "notFoundTitle": "Az oldal nem található",
   "notFoundBody": "Ez az oldal nincs itt. Lehet, hogy átköltözött, vagy a cím hiányos.",
@@ -140,19 +140,19 @@
  },
  "hero": {
   "ariaLabel": "PDRN Brightening Serum",
-  "pill": "Annak, aki elöl áll",
-  "line1": "Ápoltan már",
-  "line2": "az első hívás előtt.",
-  "sub": "Két, négy csepp PDRN Brightening Serum reggel és este, hogy a bőröd ragyogónak, hidratáltnak és simának tűnjön az első hívástól az utolsóig.",
+  "pill": "Alapítóknak és cégtulajdonosoknak",
+  "line1": "Napi arcszérum a",
+  "line2": "ragyogóbb, simább bőrért.",
+  "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Vigyen fel két-négy cseppet reggel és este. $49 egyszeri áron vagy $39 havonta.",
   "cardAria": "PDRN Brightening Serum, a termékoldal",
-  "onSetPill": "Forgatáson",
-  "onSetCaption": "Nyugodtan a fények alatt",
+  "onSetPill": "Kamera előtt",
+  "onSetCaption": "Forgatáshoz és videóhívásokhoz",
   "onSetAlt": "Alapító egy stúdióforgatáson ülve, a kamerába nézve",
-  "morningPill": "Reggeli rituálé",
-  "morningCaption": "Reggel elsőként a tükör előtt",
+  "morningPill": "Reggeli rutin",
+  "morningCaption": "Vigye fel a tükör előtt minden reggel",
   "morningAlt": "Alapító szérumot visz fel egy fürdőszobai tükör előtt reggeli fényben",
   "widePill": "Nappal és éjszaka",
-  "wideHead": "Egy üveg. Minden nap.",
+  "wideHead": "Egy üveg, reggel és este használva.",
   "priceLine": "$49 egyszeri áron vagy $39 havonta",
   "talia": {
    "baseline": "Kiindulás",
@@ -167,27 +167,27 @@
  "home": {
   "introTitleLead": "Ragyogóbb, hidratált,",
   "introTitleAccent": "egészségesnek tűnő bőr",
-  "introBody": "A vállalkozók kamerán és személyesen is élnek. Befektetőknek pitchelsz, értékesítési hívásokon zársz, és felveszed a videót, amely eladja a terméket. Az arcod a pitch része. A PDRN Brightening Serum egyetlen könnyű, gyorsan beszívódó lépés PDRN-nel, peptidekkel és hialuronsavval. Segít, hogy a bőr ragyogóbbnak, mélyen hidratáltnak és simának tűnjön. Két perc, naponta kétszer, és élesen, kipihenten és készen jelensz meg.",
-  "marqueeTagline": "The Science of Attractive Health",
-  "marqueeSlogan": "Bőrápolás az ambiciózusoknak",
-  "buildersTitle": "Az építőknek készült",
+  "introBody": "Az alapítók és cégtulajdonosok a napjaikat megbeszéléseken, értékesítési hívásokon és rögzített videókban töltik. Az arca képernyőn és a szobában van mindezek során. A PDRN Brightening Serum egy könnyű lépés PDRN-nel, peptidekkel és hialuronsavval. Gyorsan beszívódik, és segít a bőrnek ragyogóbbnak, hidratáltnak és simának látszani. Két perc, naponta kétszer.",
+  "marqueeTagline": "Egy szérum, reggel és este",
+  "marqueeSlogan": "Alapítóknak és cégtulajdonosoknak készült",
+  "buildersTitle": "Alapítóknak és cégtulajdonosoknak készült",
   "buildersTagline": "Építsd a vállalkozásodat. Ne hanyagold el magad.",
-  "buildersBody": "Vállalkozóként mindig prezentálsz. Személyesen pitchelsz befektetőknek, videóhívásokon értékesítesz, és olyan tartalmat rögzítesz, amelynek másodpercek alatt kell bizalmat építenie. Az ápolt és összeszedett megjelenés nem hiúság. Része annak, ahogyan a vállalkozásodat bemutatod. Egy egyszerű napi rutin helyet kap egy alapító eszköztárában egy jó ruhatár, egy minőségi laptop és egy megbízható rendszer mellett.",
+  "buildersBody": "Az alapítók és cégtulajdonosok egész nap prezentálnak. Személyesen pitchelnek befektetőknek, videóhívásokon értékesítenek, és videókat rögzítenek ügyfeleknek. A tiszta és kipihent megjelenés része a vállalkozás jó bemutatásának. Egy rövid napi bőrápolási rutin egy jó ruhatár és egy megbízható laptop mellett áll alapvető karbantartásként. A PDRN Brightening Serum két percet vesz igénybe, reggel és este.",
   "pitchAlt": "Alapító az ötletét pitcheli egy befektetőnek",
   "pitchTitle": "A pitchben",
-  "pitchBody": "Egy befektetővel szemben, az asztal túloldalán a terem téged olvas le, mielőtt a prezentációdat olvasná. Érkezz úgy, mint az ember egy olyan cég mögött, amelyet érdemes támogatni: kipihenten, élesen és készen.",
+  "pitchBody": "Amikor személyesen pitchel befektetőknek, Önt látják, mielőtt a diáit látnák. Egy napi szérumrutin segít a bőrének ragyogónak, hidratáltnak és kipihentnek látszani aznap.",
   "cameraAlt": "Alapító egy kamera előtt beszél",
   "cameraTitle": "Kamerán",
-  "cameraBody": "Egy forgatáson, egy podcastban vagy egy értékesítési híváson a lencse először a késő éjszakákat mutatja meg. A kamera előtti magabiztosság azzal kezdődik, hogyan törődsz magaddal, jóval azelőtt, hogy megnyomnád a felvétel gombot.",
-  "maintenanceTitle": "A vállalkozó napi karbantartása.",
-  "maintenanceBody": "Egy szérum, reggel és este. Nézz ki felkészülten. Érezd magad magabiztosnak. Érkezz készen.",
-  "motionTitle": "Tava mozgásban",
-  "motionBody": "Sok alkotó és vállalkozó már szeret minket.",
+  "cameraBody": "Egy videóforgatáson, podcaston vagy értékesítési híváson a kamera közelről mutatja a fáradt bőrt. Egy kétperces rutin reggel és este segít a bőrének kipihentnek látszani, mielőtt rögzít.",
+  "maintenanceTitle": "Egy szérum az egész rutin.",
+  "maintenanceBody": "Vigyen fel két-négy csepp PDRN Brightening Serumot tiszta, száraz bőrre, reggel és este, majd kövesse hidratálókrémmel. Az egész rutin körülbelül két percet vesz igénybe naponta.",
+  "motionTitle": "Nézzen ügyfélvideókat",
+  "motionBody": "Alapítók és alkotók, akik a PDRN Brightening Serumot használják, videón rögzítve.",
   "playVideo": "Videó lejátszása",
   "videoPlayer": "Videólejátszó",
   "closeVideo": "Videó bezárása",
-  "freeFromTitleLead": "Minőségi összetevők, egyesítve",
-  "freeFromTitleAccent": "gondossággal.",
+  "freeFromTitleLead": "Ami nincs",
+  "freeFromTitleAccent": "a formulában.",
   "freeFromSub": "Az is számít, amit kihagyunk, nemcsak az, amit beleteszünk.",
   "freeFromItems": [
    {
@@ -224,22 +224,22 @@
    }
   ],
   "founderLabel": "Üzenet az alapítónktól",
-  "founderQuote": "“Az egészséges bőr a legvonzóbb dolog, amit viselhetsz.”",
-  "founderBody1": "Ez a filozófia áll a Tava Labs mögött, The Science of Attractive Health. A PDRN Brightening Serum az az egyetlen lépés, amely köré a rutin épül: két perc, naponta kétszer, reggel és este.",
-  "founderBody2": "Nézd meg a filmet, és hallgasd meg a mögötte álló tudományt a saját szavainkkal.",
+  "founderQuote": "„Egy szérum, két perc, reggel és este. Ez az egész rutin.”",
+  "founderBody1": "Ez a Tava Labs mögötti ötlet. A PDRN Brightening Serum az az egyetlen lépés, amely köré a rutin épül: két perc, naponta kétszer, reggel és este.",
+  "founderBody2": "Nézze meg a videót, hogy saját szavainkkal hallja, miért készítettük.",
   "founderPhilosophy": "A Tava Labs filozófiája",
-  "founderVideoAria": "A Tava Labs film, a PDRN Brightening Serum mögötti tudomány",
+  "founderVideoAria": "A Tava Labs videó, miért készítettük a PDRN Brightening Serumot",
   "shopSerum": "Vásárold meg a szérumot",
   "journalTitle": "The Tava Journal",
-  "journalSub": "Az alvásról, a stresszről és arról, hogyan érkezz készen.",
+  "journalSub": "Cikkek alvásról, stresszről és bőrről alapítóknak.",
   "readJournal": "Olvasd a The Tava Journalt",
   "readStory": "Olvasd el a történetet"
  },
  "appTeaser": {
   "label": "Hamarosan",
-  "lead": "A rutinod, a laborjaid és a rendeléseid saját otthont kapnak.",
-  "headlineLead": "Egy alkalmazás.",
-  "headlineTrail": "Minden nap.",
+  "lead": "A rutinja, a laboreredményei és a rendelései, mind a Tava Labs alkalmazásban.",
+  "headlineLead": "A széruma, laborjai és rendelései",
+  "headlineTrail": "egy alkalmazásban.",
   "scroll": "Görgetés",
   "caption": "A Tava Labs alkalmazás egy helyre hozza a szérumtervedet, a napi rutinodat, a laborpaneljeidet és eredményeidet, valamint a rendeléseidet, iPhone-ra tervezve.",
   "features": [
@@ -249,7 +249,7 @@
    },
    {
     "title": "Sorozatok és haladás",
-    "desc": "A sorozatod és az, ami még hátravan, egy pillantásra olvasható."
+    "desc": "Az aktuális sorozata és a tervéből hátralévő napok."
    },
    {
     "title": "Laborpanelek és eredmények",
@@ -257,7 +257,7 @@
    },
    {
     "title": "Rendelések és utánpótlás",
-    "desc": "Rendelések és utánpótlások keresgélés nélkül."
+    "desc": "Tekintse meg rendeléseit és utántöltési dátumait egy helyen."
    }
   ],
   "phone": {
@@ -308,9 +308,9 @@
    "eyebrow": "BŐRÁPOLÁS",
    "heroTitleLead": "A következő megbeszélésed",
    "heroTitleAccent": "veled kezdődik.",
-   "heroCopy": "Azoknak a vállalkozóknak készült, akik pitchelnek, értékesítenek és kamerára rögzítenek. Egy napi szérum, a PDRN köré építve, hogy a bőr élesnek és kipihentnek tűnjön a teremben és a lencsén is.",
+   "heroCopy": "Vállalkozóknak készült, akik pitchelnek, értékesítenek és kamera előtt rögzítenek. Egy napi szérum, a PDRN köré építve, olyan bőrért, amely ragyogónak és kipihentnek látszik a szobában és a kamerán.",
    "heroFinePrint": "Kozmetikai bőrápolás. Nem szolgál betegségek diagnosztizálására, kezelésére, gyógyítására vagy megelőzésére.",
-   "stamp": "BŐRÁPOLÁS AZ AMBICIÓZUSOKNAK",
+   "stamp": "BŐRÁPOLÁS ALAPÍTÓKNAK",
    "primaryCta": "Hozzáadás a rutinhoz",
    "secondaryCta": "Nézd meg az összetevőket",
    "optionsEyebrow": "A KÍNÁLAT",
@@ -326,7 +326,7 @@
      "badges": [
       "Bestseller"
      ],
-     "description": "A napi szérum a ragyogó, hidratált, egészségesnek tűnő bőrért. $39 havonta Subscribe and Save előfizetéssel.",
+     "description": "A napi szérum a ragyogóbb, hidratált, egészséges megjelenésű bőrért. $39 havonta Subscribe and Save előfizetéssel.",
      "linkLabel": "Nézd meg a szérumot"
     },
     {
@@ -725,7 +725,7 @@
   "pricePerUnit": "/ 30ml (1 fl oz)",
   "subPrice": "vagy $39 havonta Subscribe and Save előfizetéssel",
   "bullets": [
-   "PDRN, Acetyl Hexapeptide-8 és hialuronsav, hogy támogassa a simább, ragyogóbbnak tűnő bőrt.",
+   "PDRN, acetil-hexapeptid-8 és hialuronsav, a simább, ragyogóbb megjelenésű bőr támogatására.",
    "Mély hidratálás glicerinből, Sodium PCA-ból és Panthenolból.",
    "100% állatkísérlet mentes, illatanyag mentes, parabénmentes, szulfátmentes, ásványolaj mentes, szilikonmentes és vegán."
   ],
@@ -749,24 +749,24 @@
    }
   ],
   "innovation": {
-   "label": "Sejtes innováció",
-   "titleLead": "Új generációs bőr",
-   "titleAccent": "Regenerálódás",
-   "sub": "Tengeri aktívok és célzott hexapeptidek, egyetlen napi szérumban.",
+   "label": "Kulcsösszetevők",
+   "titleLead": "Mit tesznek a fő",
+   "titleAccent": "összetevők",
+   "sub": "Az alábbi három összetevő végzi a munka nagy részét ebben a szérumban.",
    "items": [
     {
-     "label": "Sejtmegújulás",
-     "title": "PDRN bioaktívok",
-     "body": "A tengeri PDRN felgyorsítja a sejtcserét, feléleszti a fakó arcszínt, és simítja a látható textúrát."
+     "label": "Bőr textúra",
+     "title": "PDRN",
+     "body": "A tengeri PDRN növeli a sejtmegújulást, ami ragyogóbbá teszi a fakó arcszínt és simítja a látható textúrát."
     },
     {
-     "label": "Bio peptid komplex",
+     "label": "Feszesség",
      "title": "Acetyl Hexapeptide-8",
-     "body": "A jelző peptidek enyhítik a felszíni feszültséget, és támogatják a természetes kollagén rugalmasságát, a feszesebbnek tűnő, rugalmasabb bőrért."
+     "body": "Ez a peptid támogatja a kollagén rugalmasságát, a feszesebb megjelenésű bőrért."
     },
     {
      "label": "Mély hidratálás",
-     "title": "Hidratáló mátrix",
+     "title": "Hialuronsav és pantenol",
      "body": "A hialuronsav, a Sodium PCA és a Panthenol együtt tartják a nedvességet a bőrgátban több mint 24 órán át."
     }
    ],
@@ -778,7 +778,7 @@
    "footnote": "*A biosejtes aktivitást in vitro és ex vivo klinikai értékelésekkel mérték. Az eredmények az egyéni bőr állapotától függően eltérhetnek."
   },
   "ecosystem": {
-   "label": "A teljes terv",
+   "label": "A terve",
    "title": "Teljes rutin támogatást kapsz",
    "sub": "A szérumod mellett minden Tava Labs terv tartalmazza:",
    "items": [
@@ -791,7 +791,7 @@
    "note": "A Subscribe and Save bármikor szüneteltethető, módosítható vagy lemondható. Az egyszeri vásárlások továbbra is elérhetők $49 áron."
   },
   "clinical": {
-   "label": "Klinikai hatékonyság",
+   "label": "Klinikai tesztek",
    "titleLead": "Vigyázz a",
    "titleAccent": "bőröd egészségére",
    "imgAlts": [
@@ -802,16 +802,16 @@
    "note": "Helyi bioaktív értékelések 8 hetes fogyasztói észlelési és műszeres hidratálási tesztek alapján. Az egyéni bőrgátak, a genetika és a környezet befolyásolják a konkrét időkereteket és eredményeket."
   },
   "formulary": {
-   "label": "A formulatár",
+   "label": "Formulák összehasonlítása",
    "title": "Melyik bőrápoló kezelés a megfelelő neked?",
-   "sub": "Célzott formulák különböző bőrcélokra, problémákra és rutinokra. Építsd fel azt a rendet, amely illik egy munkás napirendhez.",
+   "sub": "Formulák különböző bőrcélokhoz, problémákhoz és rutinokhoz. Válassza azt, amelyik illik a bőréhez és az időbeosztásához.",
    "serumAlt": "PDRN Brightening Serum",
    "serumPriceLine": "Subscribe and Save $39/hó",
    "serumOneTime": "vagy $49 egyszeri áron",
    "primaryBenefit": "Elsődleges előny",
    "howToUse": "Így használd",
    "activeIngredient": "Aktív összetevő",
-   "serumBenefitValue": "Ragyogás és feszesítés",
+   "serumBenefitValue": "Ragyogás és feszesség",
    "serumHowValue": "Reggel és este",
    "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
    "selectSerum": "Szérum kiválasztása",
@@ -874,13 +874,13 @@
    ]
   },
   "protocol": {
-   "label": "Napi rutin protokoll",
+   "label": "Hogyan használja",
    "titleLead": "Egy egyszerű rutin,",
    "titleAccent": "naponta kétszer",
-   "sub": "A következetesség számít. Kövesd ezeket a lépéseket reggel és este, hogy a peptidek és a PDRN elvégezhessék a munkájukat, és zárd a nedvesség bent tartásával.",
+   "sub": "A következetesség számít. Kövesse ezeket a lépéseket reggel és este, és fejezze be hidratálókrémmel, hogy bent tartsa a nedvességet.",
    "progressionLabel": "Klinikai haladás",
    "progressionTitle": "Látható eredmények idővonala",
-   "progressionBody": "Fokozott ragyogás és hidratáltság 7, 14 nap alatt; jobb bőrrugalmasság és gátfeszesség a 4, 6. hétre.",
+   "progressionBody": "Ragyogóbb, hidratáltabb bőr 7-14 nap alatt; javult bőrrugalmasság és barrier feszesség a 4-6. hétre.",
    "timelineAlt": "Példa eredmény idővonal, 1, 4. hét és azon túl",
    "steps": [
     {
@@ -893,7 +893,7 @@
     },
     {
      "title": "Hidratálás és nedvesség",
-     "body": "Zárd le hidratálóval, hogy bent tartsd a peptideket, és támogasd a ceramid gátat."
+     "body": "Vigyen fel hidratálókrémet, hogy bent tartsa a peptideket és támogassa a bőrbarriert."
     },
     {
      "title": "Védelem (csak reggel), SPF 30+",
@@ -906,13 +906,13 @@
    ]
   },
   "faqSection": {
-   "label": "Válaszok és tisztaság",
+   "label": "Kérdések és válaszok",
    "title": "Gyakran ismételt kérdések",
    "viewAll": "Összes GYIK megtekintése",
    "items": [
     {
      "q": "Mi a PDRN, és hogyan hasznos a bőrnek?",
-     "a": "A PDRN (Polydeoxyribonucleotide) emberi bőrsejtekkel biokompatibilis DNS töredékekből áll. Elősegíti a természetes sejtmegújulást, serkenti a mikrokeringést, és segít helyreállítani a bőrgátat, a látható ragyogásért és feszességért."
+     "a": "A PDRN (polidezoxiribonukleotid) DNS-töredékekből áll, amelyek biokompatibilisek az emberi bőrsejtekkel. Elősegíti a természetes sejtregenerációt, serkenti a mikrokeringést, és segít helyreállítani a bőrbarriert, a ragyogóbb, feszesebb megjelenésű bőrért."
     },
     {
      "q": "Hogyan illesszem be a PDRN Brightening Serumot a bőrápolási rutinomba?",
@@ -933,7 +933,7 @@
    ]
   },
   "finalCta": {
-   "title": "Az arcod minden pitchben ott van. Tartsd készen.",
+   "title": "Egy szérum a ragyogóbb, hidratált, simább megjelenésű bőrért.",
    "line": "PDRN Brightening Serum · $49.00 / 30ml · Tiszta és vegán · Mély hidratálás · Bármikor lemondható"
   },
   "gallery": {
@@ -949,13 +949,13 @@
  },
  "about": {
   "label": "Rólunk",
-  "titleLead": "Bőrápolás",
-  "titleAccent": "az ambiciózusoknak.",
+  "titleLead": "Napi arcszérum",
+  "titleAccent": "alapítóknak.",
   "tagline": "Építsd a vállalkozásodat. Ne hanyagold el magad.",
-  "p1": "A Tava Labs személyes karbantartó márka azoknak, akik vállalkozásokat építenek. A megjelenésed a szakmai jelenléted része. Ahogyan kamerán, a pitchben és a teremben megjelensz, része annak, ahogyan a munkádat olvassák.",
-  "p2": "Egy dolgot készítünk, és azt jól készítjük. Egy napi szérumot, amely összeszedettnek, hidratáltnak és késznek mutatja a bőrödet, bonyolult rutin nélkül.",
-  "p3": "A Tava Labs alapítóknak, alkotóknak és szakembereknek jött létre, akik befektetnek a cég mögötti emberbe. Egy lépés, reggel és este, a megbeszélések, a pitchek és a kamerás munka előtt.",
-  "p4": "Ez bőrápolás mint karbantartás, nem hiúság. Ugyanaz a fegyelem, amelyet a vállalkozásodba viszel, magadra alkalmazva.",
+  "p1": "A Tava Labs egy bőrápolási márka vállalkozásokat építő embereknek. A megjelenése a szakmai jelenléte része. Az emberek minden nap látják Önt kamerán, pitch megbeszéléseken és a munkában.",
+  "p2": "Egy dolgot készítünk, és jól készítjük. Egy napi szérum, amely hidratáltnak és kipihentnek tartja a bőrét, bonyolult rutin nélkül.",
+  "p3": "A Tava Labs alapítóknak és cégtulajdonosoknak alapult. Egy lépés, reggel és este, a megbeszélések, a pitchek és a kameramunka előtt.",
+  "p4": "Bőrápolás, alapvető karbantartásként kezelve. Ugyanaz a következetesség, amelyet a vállalkozásába visz, a saját rutinjára alkalmazva.",
   "serumLabel": "A szérum",
   "serumTitle": "PDRN Brightening Serum",
   "serumAlt": "PDRN Brightening Serum",
@@ -968,10 +968,10 @@
   ],
   "priceLine": "$49 egyszeri áron, vagy $39 havonta Subscribe & Save előfizetéssel.",
   "philosophyLabel": "A filozófiánk",
-  "quote": "“Az egészséges bőr a legvonzóbb dolog, amit viselhetsz.”",
+  "quote": "„Egy szérum, két perc, reggel és este. Ez az egész rutin.”",
   "philosophyCaption": "A Tava Labs filozófiája",
-  "philosophyP1": "Hiszünk abban, hogy úgy kell törődni magaddal, ahogyan a munkáddal törődsz: következetesen és dráma nélkül. A kis napi karbantartás többet ér, mint az alkalmi nagy átalakítások.",
-  "philosophyP2": "Nem ígérünk átalakulást. Egy jól megformulázott napi szérumot készítünk, pontosan elmondjuk, mi van benne, és hagyjuk, hogy a rutin magáért beszéljen.",
+  "philosophyP1": "Hiszünk abban, hogy úgy vigyázzon magára, ahogy a munkájára vigyáz, kis lépésekkel, amelyeket minden nap következetesen megtesz.",
+  "philosophyP2": "Nem ígérünk átalakulást. Egy jól formulázott napi szérumot készítünk, és pontosan elmondjuk, mi van benne.",
   "onlineTitle": "Csak online",
   "onlineSegments": [
    {
@@ -1030,7 +1030,7 @@
     "q": "Mi a PDRN Brightening Serum?",
     "a": [
      {
-      "text": "Napi szérum, amely a PDRN (Polydeoxyribonucleotide) és az Acetyl Hexapeptide-8 köré épül, Sodium Hyaluronate-tal és Panthenollal. Ez egy napi arcszín rutin: vidd fel reggel és este, hogy támogasd a ragyogóbb, egyenletesebbnek tűnő arcszínt és az összeszedett, kamerakész megjelenést."
+      "text": "Napi szérum, a PDRN (polidezoxiribonukleotid) és az acetil-hexapeptid-8 köré építve, nátrium-hialuronáttal és pantenollal. Vigye fel reggel és este a ragyogóbb, egyenletesebb megjelenésű arcszín támogatására."
      }
     ]
    },
@@ -1145,7 +1145,7 @@
   "keyItems": [
    {
     "name": "PDRN (Polydeoxyribonucleotide)",
-    "body": "A fő aktív összetevő. Támogatja a ragyogóbb, egyenletesebbnek tűnő arcszínt és az összeszedett, kamerakész megjelenést."
+    "body": "A fő aktív összetevőnk. Támogatja a ragyogóbb, egyenletesebb megjelenésű arcszínt."
    },
    {
     "name": "Acetyl Hexapeptide-8",
@@ -1174,15 +1174,15 @@
   "label": "Legyél a Tava Labs partnere",
   "titleLead": "Adj az alapítóidnak egy ingyenes hónapot:",
   "titleAccent": "Tava Labsot.",
-  "intro": "A Tava Labs akcelerátorokkal, egyetemekkel, angyalbefektetőkkel és alapítói közösségekkel működik együtt. A tagjaid az első hónap PDRN Brightening Serumot ingyen kapják, hogy a cégeket építő emberek törődhessenek a cég mögötti emberrel is.",
-  "tagline": "Egy ingyenes hónap, tőlünk, feltételek nélkül.",
+  "intro": "A Tava Labs gyorsítókkal, egyetemekkel, angyalbefektetőkkel és alapítói közösségekkel működik együtt. A tagjai az első hónap PDRN Brightening Serumot ingyen kapják.",
+  "tagline": "Egy ingyen hónap tőlünk, költség és kötelezettség nélkül.",
   "becomePartner": "Legyél partner",
   "partnershipsContact": "Partnerségi kapcsolat",
   "audiences": [
    {
     "alt": "Startup alapítók egy akcelerátor foglalkozáson",
     "title": "Akcelerátoroknak",
-    "body": "Az alapítóid az első naptól pitchelnek, demóznak és tartalmat forgatnak. Adj nekik egy hónap napi karbantartást, amely segít összeszedetten és kamerakészen megjelenniük, és egy dologgal kevesebbet, amin a program alatt gondolkodniuk kell.",
+    "body": "Az alapítói az első naptól pitchelnek, demóznak és tartalmat forgatnak. Adjon nekik egy hónap napi bőrápolást, amely napi két percet vesz igénybe a program alatt.",
     "how": "Így működik: a csoportod minden alapítójának ingyen küldünk egy üveget, a bőrkvízből készült személyes tervvel. Te egyszer bemutatsz minket; minden mást mi intézünk."
    },
    {
@@ -1194,7 +1194,7 @@
    {
     "alt": "Befektetői megbeszélés egy alapítóval",
     "title": "Angyalbefektetőknek",
-    "body": "Az embert is támogatod, nemcsak a céget. Egy ingyenes hónap Tava Labs figyelmes ajándék a portfóliód alapítóinak, és támogatja azok napi rutinját, akikbe befektettél.",
+    "body": "Egy ingyen hónap Tava Labs praktikus ajándék a portfóliójában lévő alapítóknak. Mi kezeljük a szállítást és a személyes terveiket.",
     "how": "Így működik: mondd el, hány alapítót szeretnél megajándékozni, és mi megszervezzük a kézbesítést és a személyes terveiket. Nincs költség neked, és nincs költség nekik."
    }
   ],
@@ -1218,7 +1218,7 @@
     "body": "Egy lépés, reggel és este. Azért illik egy alapító napirendjébe, mert arra tervezték."
    }
   ],
-  "formulationTitle": "Tiszta, átgondolt formula.",
+  "formulationTitle": "Ezen összetevők nélkül készült.",
   "formulationSub": "A szérum azok nélkül az összetevők nélkül készült, amelyekről a tagjaid a legtöbbet kérdeznek:",
   "stepsTitle": "Hogyan működik egy partnerség",
   "steps": [
@@ -1232,11 +1232,11 @@
    },
    {
     "title": "Te adod az ajándékot",
-    "body": "A tagjaid egy ingyenes hónap napi karbantartást kapnak, minden dobozban a köszönetünkkel neked."
+    "body": "A tagjai egy ingyen hónapot kapnak a szérumból, minden dobozban egy köszönő üzenettel tőlünk."
    }
   ],
-  "closingTitleLead": "Tegyünk egy ingyenes hónapot az alapítóid",
-  "closingTitleAccent": "kezébe.",
+  "closingTitleLead": "Adjon alapítóinak egy",
+  "closingTitleAccent": "ingyen hónapot.",
   "closingSegments": [
    {
     "text": "Írj nekünk: "
@@ -1261,7 +1261,7 @@
   "label": "The Tava Journal",
   "titleLead": "Alvás és stressz kutatás",
   "titleAccent": "alapítóknak",
-  "sub": "Alvástudomány, stresszkutatás és teljesítmény betekintések alapítóknak.",
+  "sub": "Cikkek alvástudományról, stresszkutatásról és bőr-egészségről alapítóknak és cégtulajdonosoknak.",
   "readStory": "Olvasd el a történetet"
  },
  "research": {
@@ -1334,7 +1334,7 @@
   ],
   "peopleBg": "Emberek",
   "participantsLabel": "Kik vettek részt",
-  "participantsTitle": "Az átlagok mögötti emberek.",
+  "participantsTitle": "Kik vettek részt a programban.",
   "participantsSub": "Öt vizit a program során, a kiindulástól a 16. hétig.",
   "ageLabel": "Átlagéletkor",
   "ageSuffix": "Éves · Tartomány: 20, 48",
@@ -1672,7 +1672,7 @@
   "claimEmpty": "A kvízen vagy ezen az oldalon keresztül vásároltál? A visszaigazoló e-mailed és a fizetés utáni oldal egy igénylőkódot mutatott. Nyisd meg a Tava mobilalkalmazást, jelentkezz be, és add meg a kódot a Rendelések fülön. A vásárlásod, a terved és a kvíz válaszaid átkerülnek az alkalmazás fiókodba. Itt a weben azzal az e-mail címmel bejelentkezve, amellyel fizettél, már minden fent megjelenik. Semmi mást nem kell megadnod.",
   "shop": {
    "eyebrow": "PDRN Brightening Serum",
-   "title": "The Science of Attractive Health",
+   "title": "Vásároljon a Tava Labsnál",
    "body": "1 fl oz (30 ml). Csökkentsd a finom vonalakat, hidratálj mélyen, állítsd vissza a ragyogást, és erősítsd a bőrt. Két, négy pumpálás, reggel és este.",
    "subscribeLine": "Előfizetés, $39 havonta.",
    "subscribeRest": " Minden hónapban friss üveg, automatikusan.",

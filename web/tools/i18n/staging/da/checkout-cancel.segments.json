@@ -1,0 +1,67 @@
+{
+ "slug": "checkout-cancel",
+ "title": "Betaling annulleret | Ingen betaling foretaget | Tava Labs",
+ "description": "Der blev ikke foretaget nogen betaling. Din plan og dine svar hos Tava Labs er gemt, så du kan færdiggøre din ordre senere, når du er klar.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "Betaling annulleret"
+  },
+  {
+   "id": 4,
+   "text": "Ingen betaling. "
+  },
+  {
+   "id": 5,
+   "text": "Intet er gået tabt."
+  },
+  {
+   "id": 6,
+   "text": "Du forlod betalingen, før du var færdig, så "
+  },
+  {
+   "id": 7,
+   "text": "dit kort blev ikke belastet"
+  },
+  {
+   "id": 8,
+   "text": ", ikke en eneste krone. Og dit arbejde er ikke spildt: De svar, du gav, og den plan på 30 dage, vi byggede ud fra dem, er gemt under den e-mail, du indtastede."
+  },
+  {
+   "id": 9,
+   "text": "Når du er klar, kan du fortsætte, hvor du slap. Svar på de hurtige spørgsmål igen med den samme e-mail, så bliver din plan genopbygget præcis, som den var, og afslut derefter ved sikker betaling."
+  },
+  {
+   "id": 10,
+   "text": "Tilbage til min plan på 30 dage"
+  },
+  {
+   "id": 11,
+   "text": "Har du ombestemt dig for altid? Det er helt i orden. Der blev ikke belastet noget, og der er intet at annullere. Spørgsmål? Skriv til "
+  },
+  {
+   "id": 12,
+   "text": "talia@tavalabs.app"
+  },
+  {
+   "id": 13,
+   "text": "."
+  },
+  {
+   "id": 14,
+   "text": "Tava Labs · PDRN Brightening Serum til stiftere · Spørgsmål? talia@tavalabs.app"
+  }
+ ]
+}

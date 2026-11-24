@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "éclat et luminosité"
+   "t": "une peau à l'aspect plus lumineux"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Les fondateurs et les créateurs qui se présentent chaque jour commencent leur matinée de la même façon. Une peau terne et à l'air fatigué est l'une des raisons les plus fréquentes de commencer une routine de sérum. Le PDRN Brightening Serum est construit autour du PDRN et des peptides, dans une formule légère conçue pour rehausser l'aspect d'une peau lisse et éclatante, la laissant paraître repulpée, douce et fraîche, matin et soir."
+   "t": "Les fondateurs et les créateurs qui se présentent chaque jour commencent leur matinée de la même façon. Une peau terne et à l'air fatigué est l'une des raisons les plus fréquentes de commencer une routine de sérum. Le PDRN Brightening Serum est construit autour du PDRN et des peptides, dans une formule légère qui aide la peau à paraître lisse et lumineuse, matin et soir."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Les fondateurs et les créateurs qui se présentent chaque jour commencent leur matinée de la même façon. Les ridules sont en général la première chose pour laquelle les gens veulent un sérum. Cette formule associe l'acetyl hexapeptide-8 au PDRN, des ingrédients choisis pour soutenir une peau à l'aspect plus lisse et plus lumineux, en un seul geste, deux fois par jour. Aucune routine en dix étapes requise."
+   "t": "Les fondateurs et les créateurs qui se présentent chaque jour commencent leur matinée de la même façon. Les ridules sont en général la première chose pour laquelle les gens veulent un sérum. Cette formule associe l'acetyl hexapeptide-8 au PDRN, deux ingrédients choisis pour soutenir une peau à l'aspect plus lisse et plus lumineux, en un seul geste, deux fois par jour. Aucune routine en dix étapes requise."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Les fondateurs et les créateurs qui se présentent chaque jour commencent leur matinée de la même façon. Une peau qui tiraille et qui a soif dès la mi journée est exactement ce pour quoi ce sérum est fait. Un mélange de glycérine, de sodium PCA et de hyaluronate de sodium apporte une hydratation profonde, tandis que le panthénol nourrit la peau, pour qu'elle se sente confortable et paraisse repulpée, sans être grasse."
+   "t": "Les fondateurs et les créateurs qui se présentent chaque jour commencent leur matinée de la même façon. Une peau qui tiraille et qui est sèche dès la mi-journée est exactement ce pour quoi ce sérum est fait. Un mélange de glycérine, de sodium PCA et de hyaluronate de sodium apporte une hydratation profonde, tandis que le panthénol nourrit la peau, pour qu'elle se sente confortable et hydratée, sans être grasse."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Les fondateurs et les créateurs qui se présentent chaque jour commencent leur matinée de la même façon. Un teint à l'aspect irrégulier est une frustration fréquente. Le PDRN et les peptides aident à favoriser un teint à l'aspect plus lumineux et plus vibrant, et la formule légère pénètre vite et facilement, un geste simple deux fois par jour vers un aspect plus uniforme."
+   "t": "Les fondateurs et les créateurs qui se présentent chaque jour commencent leur matinée de la même façon. Un teint à l'aspect irrégulier est une frustration fréquente. Le PDRN et les peptides aident la peau à paraître plus lumineuse et plus uniforme, et la formule légère pénètre vite, en un geste simple deux fois par jour."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Aide à favoriser un teint à l'aspect plus lumineux et plus vibrant et rehausse l'aspect d'une peau lisse et éclatante."
+   "t": "Aide la peau à paraître plus lumineuse, plus uniforme et lisse."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "Un mélange d'hydratation qui attire l'eau pour une sensation repulpée et confortable et une texture soyeuse et lisse."
+   "t": "Un mélange hydratant qui attire l'eau, pour une peau qui se sent confortable et lisse."
   },
   {
    "k": "ing.panthenol.name",
@@ -124,7 +124,7 @@
   {
    "k": "ing.panthenol.text",
    "q": "dq",
-   "t": "Nourrit la peau, la laissant douce et confortable, une base douce pour les peaux qui réagissent facilement."
+   "t": "Nourrit la peau et la laisse douce et confortable, une base douce pour les peaux qui réagissent facilement."
   },
   {
    "k": "ramp.often.1",

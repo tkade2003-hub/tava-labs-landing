@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "strălucire și luminozitate"
+   "t": "piele care arată mai luminoasă"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Pielea ternă, cu aspect obosit, este unul dintre cele mai frecvente motive pentru care oamenii încep o rutină cu serum. PDRN Brightening Serum este construit în jurul PDRN și al peptidelor, într-o formulă ușoară creată pentru a îmbunătăți aspectul pielii netede și luminoase, lăsând-o cu un aspect plin, moale și împrospătat, dimineața și seara."
+   "t": "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Pielea ternă, care arată obosită, este unul dintre cele mai frecvente motive pentru care oamenii încep o rutină cu ser. PDRN Brightening Serum este construit în jurul PDRN și peptidelor, într-o formulă ușoară care ajută pielea să arate netedă și luminoasă, dimineața și seara."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Liniile fine sunt de obicei primul lucru pentru care oamenii vor un serum. Această formulă combină Acetyl Hexapeptide-8 cu PDRN, ingrediente alese pentru a susține o piele care arată mai netedă și mai luminoasă, într-un singur pas, de două ori pe zi. Nu este nevoie de o rutină în zece pași."
+   "t": "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Liniile fine sunt de obicei primul lucru pentru care oamenii vor un ser. Această formulă combină acetil hexapeptida-8 cu PDRN, două ingrediente alese pentru a susține o piele care arată mai netedă și mai luminoasă, într-un singur pas, de două ori pe zi. Nu este nevoie de o rutină în zece pași."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Pielea care se simte strânsă și însetată până la prânz este exact pentru ce este făcut acest serum. Un amestec de glicerină, Sodium PCA și Sodium Hyaluronate oferă hidratare profundă, în timp ce Panthenol condiționează, așa că pielea se simte confortabilă și arată plină, nu grasă."
+   "t": "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Pielea care se simte strânsă și uscată până la prânz este exact pentru ce este creat acest ser. Un amestec de glicerină, sodium PCA și hialuronat de sodiu oferă hidratare profundă, în timp ce pantenolul îngrijește pielea, așa că se simte confortabilă și hidratată, nu grasă."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Un ten cu aspect neuniform este o frustrare frecventă. PDRN și peptidele ajută la promovarea unui ten cu aspect mai luminos și mai vibrant, iar formula ușoară se absoarbe rapid și ușor, un pas simplu de două ori pe zi către un aspect mai uniform."
+   "t": "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Un ten care arată neuniform este o frustrare frecventă. PDRN și peptidele ajută pielea să arate mai luminoasă și mai uniformă, iar formula ușoară se absoarbe rapid, într-un pas simplu folosit de două ori pe zi."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Ajută la promovarea unui ten cu aspect mai luminos și mai vibrant și îmbunătățește aspectul pielii netede și luminoase."
+   "t": "Ajută pielea să arate mai luminoasă, mai uniformă și netedă."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "Un amestec de hidratare care atrage umezeala pentru o senzație plină și confortabilă și o textură mătăsos de netedă."
+   "t": "Un amestec de hidratare care atrage umezeala, pentru o piele care se simte confortabilă și netedă."
   },
   {
    "k": "ing.panthenol.name",
@@ -124,7 +124,7 @@
   {
    "k": "ing.panthenol.text",
    "q": "dq",
-   "t": "Condiționează pielea, lăsând-o moale și confortabilă, o bază blândă pentru pielea care reacționează ușor."
+   "t": "Îngrijește pielea, lăsând-o să se simtă moale și confortabilă, o bază blândă pentru pielea care reacționează ușor."
   },
   {
    "k": "ramp.often.1",

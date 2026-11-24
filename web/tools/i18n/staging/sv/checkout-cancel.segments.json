@@ -1,0 +1,67 @@
+{
+ "slug": "checkout-cancel",
+ "title": "Kassan avbruten | Ingen debitering gjord | Tava Labs",
+ "description": "Ingen debitering gjordes. Din Tava Labs plan och dina svar är sparade, så att du kan slutföra din beställning senare när du är redo.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "Kassan avbruten"
+  },
+  {
+   "id": 4,
+   "text": "Ingen debitering. "
+  },
+  {
+   "id": 5,
+   "text": "Inget förlorat."
+  },
+  {
+   "id": 6,
+   "text": "Du lämnade kassan innan du var klar, så "
+  },
+  {
+   "id": 7,
+   "text": "ditt kort debiterades inte"
+  },
+  {
+   "id": 8,
+   "text": ", inte ett öre. Och ditt arbete är inte bortkastat: svaren du gav och den 30 dagars plan vi byggde utifrån dem är sparade till den mejladress du angav."
+  },
+  {
+   "id": 9,
+   "text": "När du är redo fortsätter du där du slutade. Svara på de snabba frågorna igen med samma mejladress så byggs din plan upp exakt som den var, och avsluta sedan i säker kassa."
+  },
+  {
+   "id": 10,
+   "text": "Tillbaka till min 30 dagars plan"
+  },
+  {
+   "id": 11,
+   "text": "Ändrat dig för gott? Det är helt okej, inget debiterades och det finns inget att avbryta. Frågor? Mejla "
+  },
+  {
+   "id": 12,
+   "text": "talia@tavalabs.app"
+  },
+  {
+   "id": 13,
+   "text": "."
+  },
+  {
+   "id": 14,
+   "text": "Tava Labs · PDRN Brightening Serum för grundare · Frågor? talia@tavalabs.app"
+  }
+ ]
+}

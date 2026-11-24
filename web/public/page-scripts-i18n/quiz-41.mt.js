@@ -12,23 +12,23 @@ const FUNNEL_INTAKE_URL = "https://vuzrpgkqytzvbbxwsvqr.supabase.co/functions/v1
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { subscribe: 39, one_time: 49 };
 
-const GOAL_LABEL = { radiance: "dawl u radjanza", fine_lines: "linji fini", hydration: "idratazzjoni fil fond", even_tone: "ton uniformi" };
+const GOAL_LABEL = { radiance: "ġilda li tidher aktar luminuża", fine_lines: "linji fini", hydration: "idratazzjoni fil fond", even_tone: "ton uniformi" };
 const SKIN_LABEL = { dry: "Nixfa", oily: "Żejtnija", combination: "Kombinazzjoni", sensitive: "Sensittiva", not_sure: "Għadni nifhem" };
 const CONCERN_LABEL = { dullness: "matt", fine_lines: "linji fini", uneven_tone: "ton mhux uniformi", texture: "nisġa ħarxa", dryness: "nixfa" };
 
 const NOT_ALONE = {
-  radiance: "Il fundaturi u l kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Ġilda matta u li tidher għajjiena hija waħda mill aktar raġunijiet komuni għaliex in nies jibdew rutina bis serum. Il PDRN Brightening Serum huwa mibni madwar il PDRN u l peptidi, f formula ħafifa mfassla biex ittejjeb id dehra ta ġilda lixxa u radjanti, u tħalliha tidher mimlija, ratba u friska, filgħodu u billejl.",
-  fine_lines: "Il fundaturi u l kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Il linji fini huma ġeneralment l ewwel ħaġa li n nies iridu serum għaliha. Din il formula tgħaqqad l acetyl hexapeptide-8 mal PDRN, ingredjenti magħżula biex jappoġġaw ġilda li tidher aktar lixxa u luminuża, f pass wieħed, darbtejn kuljum. L ebda rutina ta għaxar passi meħtieġa.",
-  hydration: "Il fundaturi u l kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Ġilda li tħossha ssikkata u għatxana sa nofsinhar hija eżatt dak li dan is serum huwa magħmul għalih. Taħlita ta glycerin, sodium PCA u sodium hyaluronate tipprovdi idratazzjoni fil fond, filwaqt li l panthenol jikkundizzjona, biex il ġilda tħossha komda u tidher mimlija, mhux żejtnija.",
-  even_tone: "Il fundaturi u l kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Karnaġġjon li jidher mhux uniformi huwa frustrazzjoni komuni. Il PDRN u l peptidi jgħinu biex jippromwovu karnaġġjon li jidher aktar luminuż u vibranti, u l formula ħafifa tiġi assorbita malajr u faċilment, pass sempliċi darbtejn kuljum lejn dehra aktar uniformi."
+  radiance: "Fundaturi u kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Ġilda matta u li tidher għajjiena hija waħda mill aktar raġunijiet komuni għaliex in nies jibdew rutina bis serum. Il PDRN Brightening Serum huwa mibni madwar PDRN u peptidi, f formula ħafifa li tgħin lill ġilda tidher lixxa u luminuża, filgħodu u billejl.",
+  fine_lines: "Fundaturi u kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Il linji fini huma ġeneralment l ewwel ħaġa li n nies iridu serum għaliha. Din il formula tgħaqqad acetyl hexapeptide-8 ma PDRN, żewġ ingredjenti magħżula biex jappoġġjaw ġilda li tidher aktar lixxa u luminuża, f pass wieħed, darbtejn kuljum. Ebda rutina ta għaxar passi meħtieġa.",
+  hydration: "Fundaturi u kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Ġilda li tħossha issikkata u niexfa sa nofsinhar hija eżattament dak li dan is serum huwa magħmul għalih. Taħlita ta glycerin, sodium PCA, u sodium hyaluronate tipprovdi idratazzjoni fil fond, filwaqt li l pantenol jikkundizzjona l ġilda, sabiex tħossha komda u idratata, mhux żejtnija.",
+  even_tone: "Fundaturi u kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Karnaġġjon li jidher mhux uniformi huwa frustrazzjoni komuni. PDRN u peptidi jgħinu lill ġilda tidher aktar luminuża u uniformi, u l formula ħafifa tiġi assorbita malajr, f pass sempliċi użat darbtejn kuljum."
 };
 
 /* Ingredient groups from the verified Supliful listing. Cosmetic language only. */
 const INGREDIENTS = [
-  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Jgħin biex jippromwovi karnaġġjon li jidher aktar luminuż u vibranti u jtejjeb id dehra ta ġilda lixxa u radjanti.", match: ["radiance", "matt", "uneven_tone", "even_tone"] },
+  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Jgħin lill ġilda tidher aktar luminuża, aktar uniformi u lixxa.", match: ["radiance", "matt", "uneven_tone", "even_tone"] },
   { key: "peptide", name: "Acetyl hexapeptide-8", text: "Peptide li jaħdem flimkien mal PDRN biex jappoġġa ġilda li tidher aktar lixxa u uniformi.", match: ["fine_lines", "texture"] },
-  { key: "ha", name: "Aċidu jaluroniku, glycerin u sodium PCA", text: "Taħlita ta idratazzjoni li tiġbed l umdità għal sensazzjoni mimlija u komda u nisġa lixxa bħall ħarir.", match: ["hydration", "nixfa"] },
-  { key: "panthenol", name: "Panthenol", text: "Jikkundizzjona l ġilda, u jħalliha ratba u komda, bażi ġentili għal ġilda li tirreaġixxi faċilment.", match: ["sensitive"] }
+  { key: "ha", name: "Aċidu jaluroniku, glycerin u sodium PCA", text: "Taħlita ta idratazzjoni li tiġbed l umdità, għal ġilda li tħossha komda u lixxa.", match: ["hydration", "nixfa"] },
+  { key: "panthenol", name: "Panthenol", text: "Tikkundizzjona l ġilda, u tħalliha tħossha ratba u komda, bażi ġentili għal ġilda li tirreaġixxi faċilment.", match: ["sensitive"] }
 ];
 
 const RAMPS = {

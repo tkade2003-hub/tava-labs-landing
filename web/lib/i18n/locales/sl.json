@@ -2,15 +2,15 @@
  "meta": {
   "home": {
    "title": "PDRN Brightening Serum za podjetnike | Tava Labs",
-   "description": "Nega kože za podjetnike. PDRN Brightening Serum združuje PDRN, peptide in hialuronsko kislino za sijočo in navlaženo kožo. $49 enkratno ali $39 na mesec."
+   "description": "Dnevni serum za obraz za ustanovitelje in lastnike podjetij. PDRN Brightening Serum s PDRN, peptidi in hialuronsko kislino za svetlejšo in navlaženo kožo na videz. $49 enkratno ali $39 na mesec."
   },
   "product": {
    "title": "PDRN Brightening Serum za podjetnike | Tava Labs",
-   "description": "PDRN Brightening Serum podjetja Tava Labs združuje PDRN, peptide in natrijev hialuronat za sijočo in navlaženo kožo v enem dnevnem koraku, ustvarjenem za ustanovitelje, vodje poslovanja in ustvarjalce. $49 enkratno ali $39 na mesec."
+   "description": "PDRN Brightening Serum Tava Labs je dnevni serum za obraz s PDRN, peptidi in natrijevim hialuronatom za svetlejšo in navlaženo kožo na videz. Izdelano za ustanovitelje in lastnike podjetij. $49 enkratno ali $39 na mesec."
   },
   "about": {
-   "title": "O podjetju Tava Labs | Nega kože za ambiciozne",
-   "description": "Tava Labs ustvarja nego kože za ambiciozne. Spoznajte ekipo, ki stoji za serumom PDRN Brightening Serum, dnevno rutino, narejeno za ustanovitelje in strokovnjake."
+   "title": "O Tava Labs | Serum za obraz za ustanovitelje",
+   "description": "Tava Labs izdeluje en izdelek, PDRN Brightening Serum, dnevni serum za obraz za ustanovitelje in lastnike podjetij. Preberite, kdo smo in zakaj smo ga izdelali."
   },
   "ingredients": {
    "title": "Sestavine seruma PDRN Brightening Serum | Tava Labs",
@@ -34,7 +34,7 @@
   },
   "blog": {
    "title": "The Tava Journal | Koža, spanje in stres za ustanovitelje",
-   "description": "Znanost o spanju, raziskave o stresu in zdravje kože za ustanovitelje in strokovnjake ter praktične rutine za urejen videz pri delu."
+   "description": "Znanost spanja, raziskave stresa in zdravje kože za ustanovitelje in lastnike podjetij, plus praktične rutine za spočit videz pri delu."
   },
   "quiz": {
    "title": "Kviz o koži | Sestavite svoj osebni načrt seruma | Tava Labs",
@@ -42,11 +42,11 @@
   },
   "checkoutSuccess": {
    "title": "Naročilo potrjeno | Vaš PDRN Brightening Serum | Tava Labs",
-   "description": "Vaše naročilo seruma PDRN Brightening Serum podjetja Tava Labs je potrjeno. Vaša koda za prevzem poveže ta nakup z aplikacijo, kjer vas spremljajo vaš načrt, odgovori in naročilo."
+   "description": "Vaše naročilo PDRN Brightening Serum Tava Labs je potrjeno. Vaša koda zahtevka povezuje ta nakup z aplikacijo, kjer lahko vidite svoj načrt, svoje odgovore na kviz in svoje naročilo."
   },
   "checkoutCancel": {
    "title": "Blagajna preklicana | Brez bremenitve | Tava Labs",
-   "description": "Bremenitve ni bilo. Vaš načrt Tava Labs in vaši odgovori so shranjeni, tako da lahko nadaljujete točno tam, kjer ste končali, ko boste pripravljeni."
+   "description": "Noben strošek ni bil zaračunan. Vaš načrt in odgovori Tava Labs so shranjeni, tako da lahko naročilo dokončate pozneje, ko boste pripravljeni."
   },
   "login": {
    "title": "Prijava | Tava Labs",
@@ -92,7 +92,7 @@
   "openMenu": "Odpri meni",
   "closeMenu": "Zapri meni",
   "language": "Jezik",
-  "tagline": "The Science of Attractive Health",
+  "tagline": "PDRN Brightening Serum za ustanovitelje",
   "shopHeading": "Trgovina",
   "contactHeading": "Pišite nam",
   "infoHeading": "Informacije",
@@ -114,17 +114,17 @@
    "blog": "Blog",
    "research": "Raziskave"
   },
-  "newsletterHeading": "Bodite na tekočem z vsem, kar prinaša Tava",
+  "newsletterHeading": "Prejemajte novosti Tava Labs po e-pošti",
   "newsletter": {
    "placeholder": "Vaš e-poštni naslov",
    "subscribe": "Naročite se",
    "sending": "Pošiljanje ...",
-   "done": "Vpisani ste. Dobrodošli na seznamu za sijaj.",
+   "done": "Naročeni ste. Hvala.",
    "error": "Nekaj je šlo narobe, poskusite znova."
   },
   "disclaimer1": "PDRN Brightening Serum je kozmetični izdelek. Ni namenjen diagnosticiranju, zdravljenju, ozdravitvi ali preprečevanju katere koli bolezni. Posamezni rezultati se lahko razlikujejo.",
   "disclaimer2": "Vse prodaje so dokončne. Pred naročilom si oglejte našo politiko vračil.",
-  "copyright": "© 2026 Tava Labs · The Science of Attractive Health",
+  "copyright": "© 2026 Tava Labs · PDRN Brightening Serum za ustanovitelje",
   "notFoundLabel": "Tava Labs",
   "notFoundTitle": "Stran ni najdena",
   "notFoundBody": "Te strani tukaj ni. Morda se je preselila ali pa je naslov nepopoln.",
@@ -140,19 +140,19 @@
  },
  "hero": {
   "ariaLabel": "PDRN Brightening Serum",
-  "pill": "Za osebo v ospredju",
-  "line1": "Urejeni že pred",
-  "line2": "prvim klicem.",
-  "sub": "Dve do štiri kapljice seruma PDRN Brightening Serum, zjutraj in zvečer, za kožo, ki je od prvega do zadnjega klica videti svetla, navlažena in gladka.",
+  "pill": "Za ustanovitelje in lastnike podjetij",
+  "line1": "Dnevni serum za obraz za",
+  "line2": "svetlejša, bolj gladka koža.",
+  "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Nanesite dve do štiri kapljice zjutraj in zvečer. $49 enkratno ali $39 na mesec.",
   "cardAria": "PDRN Brightening Serum, stran izdelka",
-  "onSetPill": "Na snemanju",
-  "onSetCaption": "Mirni pod reflektorji",
+  "onSetPill": "Pred kamero",
+  "onSetCaption": "Za snemanje in videoklice",
   "onSetAlt": "Ustanovitelj sedi na studijskem prizorišču in gleda v kamero",
-  "morningPill": "Jutranji ritual",
-  "morningCaption": "Pred ogledalom, takoj zjutraj",
+  "morningPill": "Jutranja rutina",
+  "morningCaption": "Vsako jutro nanesite pred ogledalom",
   "morningAlt": "Ustanovitelj si v jutranji svetlobi pred kopalniškim ogledalom nanaša serum",
   "widePill": "Dan in noč",
-  "wideHead": "Ena steklenička. Vsak dan.",
+  "wideHead": "Ena steklenička, ki se uporablja zjutraj in zvečer.",
   "priceLine": "$49 enkratno ali $39 na mesec",
   "talia": {
    "baseline": "Izhodišče",
@@ -167,27 +167,27 @@
  "home": {
   "introTitleLead": "Svetlejša, navlažena,",
   "introTitleAccent": "zdravo videti koža",
-  "introBody": "Podjetniki živite pred kamero in v prostoru. Vlagateljem predstavljate ideje, na prodajnih klicih sklepate posle in snemate video, ki prodaja izdelek. Vaš obraz je del predstavitve. PDRN Brightening Serum je en lahek korak, ki se hitro vpije, s PDRN, peptidi in hialuronsko kislino. Pomaga, da je koža videti svetlejša, globoko navlažena in gladka. Dve minuti, dvakrat na dan, in nastopite urejeni, spočiti in pripravljeni.",
-  "marqueeTagline": "The Science of Attractive Health",
-  "marqueeSlogan": "Nega kože za ambiciozne",
-  "buildersTitle": "Ustvarjeno za tiste, ki gradijo",
+  "introBody": "Ustanovitelji in lastniki podjetij dneve preživijo na srečanjih, prodajnih klicih in v posnetih videih. Vaš obraz je na zaslonu in v sobi pri vsem tem. PDRN Brightening Serum je en lahek korak s PDRN, peptidi in hialuronsko kislino. Hitro se vpije in pomaga koži videti svetlejšo, navlaženo in gladko. Dve minuti, dvakrat na dan.",
+  "marqueeTagline": "En serum, zjutraj in zvečer",
+  "marqueeSlogan": "Izdelano za ustanovitelje in lastnike podjetij",
+  "buildersTitle": "Izdelano za ustanovitelje in lastnike podjetij",
   "buildersTagline": "Gradite svoje podjetje. Ne zanemarjajte sebe.",
-  "buildersBody": "Kot podjetnik ves čas nastopate. Vlagateljem predstavljate osebno, prodajate prek videoklicev in snemate vsebine, ki morajo v nekaj sekundah pridobiti zaupanje. Urejen in zbran videz ni nečimrnost. Je del tega, kako predstavljate podjetje. Preprosta dnevna rutina sodi v operativni sistem ustanovitelja, ob dobro garderobo, kakovosten prenosnik in sistem, na katerega se lahko zanesete.",
+  "buildersBody": "Ustanovitelji in lastniki podjetij se predstavljajo ves dan. Vlagateljem predstavljate osebno, prodajate na videoklicih in snemate videe za stranke. Videti čist in spočit je del dobrega predstavljanja vašega podjetja. Kratka dnevna rutina nege kože sedi ob dobri garderobi in zanesljivem prenosniku kot osnovno vzdrževanje. PDRN Brightening Serum traja dve minuti, zjutraj in zvečer.",
   "pitchAlt": "Ustanovitelj vlagatelju predstavlja svojo idejo",
   "pitchTitle": "Med predstavitvijo",
-  "pitchBody": "Za mizo nasproti vlagatelja vas prostor prebere, preden prebere vašo predstavitev. Nastopite kot oseba, ki stoji za podjetjem, vrednim podpore: spočiti, urejeni in pripravljeni.",
+  "pitchBody": "Ko vlagateljem predstavljate osebno, vidijo vas, preden vidijo vaše diapozitive. Dnevna rutina s serumom pomaga vaši koži tisti dan videti svetlo, navlaženo in spočito.",
   "cameraAlt": "Ustanovitelj govori pred kamero",
   "cameraTitle": "Pred kamero",
-  "cameraBody": "Na snemanju, v podkastu ali na prodajnem klicu objektiv najprej pokaže pozne noči. Samozavest pred kamero se začne pri tem, kako skrbite zase, še preden sploh pritisnete snemanje.",
-  "maintenanceTitle": "Vsakodnevno vzdrževanje podjetnika.",
-  "maintenanceBody": "En serum, zjutraj in zvečer. Bodite urejeni. Počutite se samozavestno. Nastopite pripravljeni.",
-  "motionTitle": "Tava v gibanju",
-  "motionBody": "Številni ustvarjalci in podjetniki nas že obožujejo.",
+  "cameraBody": "Pri snemanju videa, podcastu ali prodajnem klicu kamera od blizu pokaže utrujeno kožo. Dvominutna rutina zjutraj in zvečer pomaga vaši koži videti spočito pred snemanjem.",
+  "maintenanceTitle": "En serum je celotna rutina.",
+  "maintenanceBody": "Nanesite dve do štiri kapljice PDRN Brightening Serum na čisto, suho kožo, zjutraj in zvečer, nato nadaljujte z vlažilno kremo. Celotna rutina traja približno dve minuti na dan.",
+  "motionTitle": "Oglejte si videe strank",
+  "motionBody": "Ustanovitelji in ustvarjalci, ki uporabljajo PDRN Brightening Serum, posneti na videu.",
   "playVideo": "Predvajaj video",
   "videoPlayer": "Predvajalnik videa",
   "closeVideo": "Zapri video",
-  "freeFromTitleLead": "Kakovostne sestavine, združene",
-  "freeFromTitleAccent": "s skrbnostjo.",
+  "freeFromTitleLead": "Kaj ni",
+  "freeFromTitleAccent": "v formuli.",
   "freeFromSub": "Kar izpuščamo, je enako pomembno kot to, kar vključimo.",
   "freeFromItems": [
    {
@@ -224,22 +224,22 @@
    }
   ],
   "founderLabel": "Sporočilo našega ustanovitelja",
-  "founderQuote": "“Zdrava koža je najprivlačnejša stvar, ki jo lahko nosite.”",
-  "founderBody1": "To je filozofija podjetja Tava Labs, The Science of Attractive Health. PDRN Brightening Serum je edini korak, okoli katerega je zgrajena rutina: dve minuti, dvakrat na dan, zjutraj in zvečer.",
-  "founderBody2": "Oglejte si film in slišite znanost, ki stoji za njim, v naših lastnih besedah.",
+  "founderQuote": "„En serum, dve minuti, zjutraj in zvečer. To je celotna rutina.“",
+  "founderBody1": "To je ideja za Tava Labs. PDRN Brightening Serum je en korak, okoli katerega je rutina zgrajena: dve minuti, dvakrat na dan, zjutraj in zvečer.",
+  "founderBody2": "Oglejte si video in poslušajte, zakaj smo ga izdelali, z našimi lastnimi besedami.",
   "founderPhilosophy": "Filozofija Tava Labs",
-  "founderVideoAria": "Film Tava Labs, znanost za serumom PDRN Brightening Serum",
+  "founderVideoAria": "Video Tava Labs, zakaj smo izdelali PDRN Brightening Serum",
   "shopSerum": "Kupite serum",
   "journalTitle": "The Tava Journal",
-  "journalSub": "O spanju, stresu in o tem, kako nastopiti pripravljeni.",
+  "journalSub": "Članki o spanju, stresu in koži za ustanovitelje.",
   "readJournal": "Preberite Journal",
   "readStory": "Preberite zgodbo"
  },
  "appTeaser": {
   "label": "Kmalu na voljo",
-  "lead": "Vaša rutina, vaši laboratorijski izvidi in vaša naročila dobivajo svoj dom.",
-  "headlineLead": "Ena aplikacija.",
-  "headlineTrail": "Vsak dan.",
+  "lead": "Vaša rutina, vaši laboratorijski izvidi in vaša naročila, vse v aplikaciji Tava Labs.",
+  "headlineLead": "Vaš serum, laboratorijski izvidi in naročila",
+  "headlineTrail": "v eni aplikaciji.",
   "scroll": "Pomaknite se",
   "caption": "Aplikacija Tava Labs na eno mesto združuje vaš načrt seruma, vašo dnevno rutino, vaše laboratorijske panele in izvide ter vaša naročila, narejena za iPhone.",
   "features": [
@@ -249,7 +249,7 @@
    },
    {
     "title": "Nizi in napredek",
-    "desc": "Vaš niz in kaj je še ostalo, berljivo na prvi pogled."
+    "desc": "Vaš trenutni niz in dnevi, ki so ostali v vašem načrtu."
    },
    {
     "title": "Laboratorijski paneli in izvidi",
@@ -257,7 +257,7 @@
    },
    {
     "title": "Naročila in obnove zalog",
-    "desc": "Naročila in obnove zalog brez iskanja."
+    "desc": "Svoja naročila in datume dopolnitve vidite na enem mestu."
    }
   ],
   "phone": {
@@ -308,9 +308,9 @@
    "eyebrow": "NEGA KOŽE",
    "heroTitleLead": "Vaš naslednji sestanek",
    "heroTitleAccent": "se začne pri vas.",
-   "heroCopy": "Ustvarjeno za podjetnike, ki predstavljajo, prodajajo in snemajo pred kamero. En dnevni serum, zgrajen okoli PDRN, za kožo, ki je v prostoru in pred objektivom videti urejena in spočita.",
+   "heroCopy": "Izdelano za podjetnike, ki predstavljajo, prodajajo in snemajo pred kamero. En dnevni serum, zgrajen okoli PDRN, za kožo, ki izgleda svetla in spočita v sobi in pred kamero.",
    "heroFinePrint": "Kozmetična nega kože. Ni namenjena diagnosticiranju, zdravljenju, ozdravitvi ali preprečevanju katere koli bolezni.",
-   "stamp": "NEGA KOŽE ZA AMBICIOZNE",
+   "stamp": "NEGA KOŽE ZA USTANOVITELJE",
    "primaryCta": "Dodaj v rutino",
    "secondaryCta": "Oglejte si sestavine",
    "optionsEyebrow": "PONUDBA",
@@ -326,7 +326,7 @@
      "badges": [
       "Najbolje prodajano"
      ],
-     "description": "Dnevni serum za sijočo, navlaženo in zdravo videti kožo. $39 na mesec z Subscribe and Save.",
+     "description": "Dnevni serum za svetlejšo, navlaženo in zdravo kožo na videz. $39 na mesec pri Subscribe and Save.",
      "linkLabel": "Oglejte si serum"
     },
     {
@@ -725,7 +725,7 @@
   "pricePerUnit": "/ 30 ml (1 fl oz)",
   "subPrice": "ali $39 na mesec z Subscribe and Save",
   "bullets": [
-   "PDRN, Acetyl Hexapeptide-8 in hialuronska kislina, za podporo gladkejši in bolj sijoči koži.",
+   "PDRN, acetil heksapeptid-8 in hialuronska kislina za podporo bolj gladke in svetlejše kože na videz.",
    "Globoko vlaženje z glicerinom, natrijevim PCA in pantenolom.",
    "100 % brez testiranja na živalih, brez dišav, brez parabenov, brez sulfatov, brez mineralnega olja, brez silikonov in vegansko."
   ],
@@ -749,24 +749,24 @@
    }
   ],
   "innovation": {
-   "label": "Celična inovacija",
-   "titleLead": "Koža naslednje generacije",
-   "titleAccent": "Regeneracija",
-   "sub": "Morske aktivne sestavine in ciljani heksapeptidi, v enem dnevnem serumu.",
+   "label": "Ključne sestavine",
+   "titleLead": "Kaj glavne",
+   "titleAccent": "sestavine naredijo",
+   "sub": "Tri sestavine spodaj opravijo večino dela v tem serumu.",
    "items": [
     {
-     "label": "Obnova celic",
-     "title": "Bioaktivne sestavine PDRN",
-     "body": "Morski PDRN pospešuje obnovo celic, oživlja dolgočasno polt in gladi vidno teksturo."
+     "label": "Tekstura kože",
+     "title": "PDRN",
+     "body": "Morski PDRN poveča obnovo celic, kar posvetli dolgočasno polt in zgladi vidno teksturo."
     },
     {
-     "label": "Kompleks biopeptidov",
+     "label": "Čvrstost",
      "title": "Acetyl Hexapeptide-8",
-     "body": "Signalni peptidi zmanjšujejo površinsko napetost in podpirajo naravno elastičnost kolagena, za čvrstejšo kožo z več prožnosti."
+     "body": "Ta peptid podpira elastičnost kolagena, za čvrstejšo kožo na videz."
     },
     {
      "label": "Globoko vlaženje",
-     "title": "Matrika vlaženja",
+     "title": "Hialuronska kislina in pantenol",
      "body": "Hialuronska kislina, natrijev PCA in pantenol skupaj zadržujejo vlago v kožni pregradi več kot 24 ur."
     }
    ],
@@ -778,7 +778,7 @@
    "footnote": "*Biocelična aktivnost, ocenjena z in vitro in ex vivo kliničnimi ocenami. Rezultati se lahko razlikujejo glede na stanje kože posameznika."
   },
   "ecosystem": {
-   "label": "Celoten načrt",
+   "label": "Vaš načrt",
    "title": "Pridobite popolno podporo za rutino",
    "sub": "Ob vašem serumu vsak načrt Tava Labs vključuje:",
    "items": [
@@ -791,7 +791,7 @@
    "note": "Subscribe and Save kadar koli prekinite, prilagodite ali prekličete. Enkratni nakupi ostanejo na voljo za $49."
   },
   "clinical": {
-   "label": "Klinična učinkovitost",
+   "label": "Klinični testi",
    "titleLead": "Poskrbite za svoje",
    "titleAccent": "zdravje kože",
    "imgAlts": [
@@ -802,16 +802,16 @@
    "note": "Ocena lokalnih bioaktivnih sestavin na podlagi 8-tedenskega zaznavanja potrošnikov in instrumentalnih testov vlaženja. Posamezne kožne pregrade, genetika in okolje vplivajo na konkretne časovnice in rezultate."
   },
   "formulary": {
-   "label": "Formularij",
+   "label": "Primerjajte formule",
    "title": "Katera nega kože je prava za vas?",
-   "sub": "Ciljane formule za različne cilje kože, težave in rutine. Sestavite režim, ki ustreza delovnemu urniku.",
+   "sub": "Formule za različne cilje, težave in rutine kože. Izberite tisto, ki ustreza vaši koži in vašemu urniku.",
    "serumAlt": "PDRN Brightening Serum",
    "serumPriceLine": "Subscribe and Save $39/mesec",
    "serumOneTime": "ali $49 enkratno",
    "primaryBenefit": "Glavna korist",
    "howToUse": "Kako uporabljati",
    "activeIngredient": "Aktivna sestavina",
-   "serumBenefitValue": "Sijaj in čvrstost",
+   "serumBenefitValue": "Svetlost in čvrstost",
    "serumHowValue": "Dopoldne in zvečer",
    "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
    "selectSerum": "Izberite serum",
@@ -874,13 +874,13 @@
    ]
   },
   "protocol": {
-   "label": "Protokol dnevnega režima",
+   "label": "Kako ga uporabljati",
    "titleLead": "Ena preprosta rutina,",
    "titleAccent": "dvakrat na dan",
-   "sub": "Doslednost je pomembna. Sledite tem korakom zjutraj in zvečer, da lahko peptidi in PDRN opravijo svoje delo, in zaključite z zadrževanjem vlage.",
+   "sub": "Doslednost je pomembna. Sledite tem korakom zjutraj in zvečer ter zaključite z vlažilno kremo, da zadržite vlago.",
    "progressionLabel": "Klinično napredovanje",
    "progressionTitle": "Časovnica vidnih rezultatov",
-   "progressionBody": "Izboljšan sijaj in vlaženje v 7 do 14 dneh; izboljšana elastičnost kože in čvrstost pregrade do 4. do 6. tedna.",
+   "progressionBody": "Svetlejša in bolj navlažena koža v 7 do 14 dneh; izboljšana elastičnost kože in čvrstost pregrade do 4. do 6. tedna.",
    "timelineAlt": "Primer časovnice rezultatov, 1. do 4. teden in naprej",
    "steps": [
     {
@@ -893,7 +893,7 @@
     },
     {
      "title": "Navlažite in hidrirajte",
-     "body": "Zapečatite z vlažilno kremo, da zadržite peptide in podprete ceramidno pregrado."
+     "body": "Nanesite vlažilno kremo, da zadržite peptide in podprete kožno pregrado."
     },
     {
      "title": "Zaščita (samo dopoldne), SPF 30+",
@@ -906,13 +906,13 @@
    ]
   },
   "faqSection": {
-   "label": "Odgovori in jasnost",
+   "label": "Vprašanja in odgovori",
    "title": "Pogosto zastavljena vprašanja",
    "viewAll": "Oglejte si vsa pogosta vprašanja",
    "items": [
     {
      "q": "Kaj je PDRN in kako koristi koži?",
-     "a": "PDRN (Polydeoxyribonucleotide) je sestavljen iz fragmentov DNK, ki so biološko združljivi s človeškimi kožnimi celicami. Spodbuja naravno obnovo celic, stimulira mikrocirkulacijo in pomaga popraviti kožno pregrado, za viden sijaj in čvrstost."
+     "a": "PDRN (polideoksiribonukleotid) je narejen iz fragmentov DNK, ki so biološko združljivi s človeškimi kožnimi celicami. Spodbuja naravno regeneracijo celic, stimulira mikrocirkulacijo in pomaga popravljati kožno pregrado, za svetlejšo in čvrstejšo kožo na videz."
     },
     {
      "q": "Kako serum PDRN Brightening Serum vključim v svojo rutino nege kože?",
@@ -933,7 +933,7 @@
    ]
   },
   "finalCta": {
-   "title": "Vaš obraz je v vsaki predstavitvi. Naj bo pripravljen.",
+   "title": "En serum za svetlejšo, navlaženo in bolj gladko kožo na videz.",
    "line": "PDRN Brightening Serum · $49.00 / 30ml · Čisto in vegansko · Globoko vlaženje · Prekličite kadar koli"
   },
   "gallery": {
@@ -949,13 +949,13 @@
  },
  "about": {
   "label": "O nas",
-  "titleLead": "Nega kože za",
-  "titleAccent": "ambiciozne.",
+  "titleLead": "Dnevni serum za obraz",
+  "titleAccent": "za ustanovitelje.",
   "tagline": "Gradite svoje podjetje. Ne zanemarjajte sebe.",
-  "p1": "Tava Labs je blagovna znamka osebnega vzdrževanja za ljudi, ki gradijo podjetja. Vaš videz je del vaše poklicne prisotnosti. Način, kako nastopite pred kamero, med predstavitvijo in v prostoru, je del tega, kako se bere vaše delo.",
-  "p2": "Izdelujemo eno stvar in jo izdelujemo dobro. Dnevni serum, po katerem je vaša koža videti zbrana, navlažena in pripravljena, brez zapletene rutine.",
-  "p3": "Tava Labs je bilo ustanovljeno za ustanovitelje, ustvarjalce in strokovnjake, ki vlagajo v osebo za podjetjem. En korak, zjutraj in zvečer, pred sestanki, predstavitvami in delom pred kamero.",
-  "p4": "To je nega kože kot vzdrževanje, ne nečimrnost. Ista disciplina, ki jo prinašate v svoje podjetje, uporabljena zase.",
+  "p1": "Tava Labs je blagovna znamka nege kože za ljudi, ki gradijo podjetja. Vaš videz je del vaše poklicne prisotnosti. Ljudje vas vidijo pred kamero, na predstavitvah in pri delu vsak dan.",
+  "p2": "Izdelujemo eno stvar in jo izdelujemo dobro. Dnevni serum, ki ohranja vašo kožo navlaženo in spočito na videz, brez zapletene rutine.",
+  "p3": "Tava Labs je bila ustanovljena za ustanovitelje in lastnike podjetij. En korak, zjutraj in zvečer, pred srečanji, predstavitvami in delom pred kamero.",
+  "p4": "Nega kože, obravnavana kot osnovno vzdrževanje. Ista doslednost, ki jo prinašate v svoje podjetje, uporabljena v vaši lastni rutini.",
   "serumLabel": "Serum",
   "serumTitle": "PDRN Brightening Serum",
   "serumAlt": "PDRN Brightening Serum",
@@ -968,10 +968,10 @@
   ],
   "priceLine": "$49 enkratno ali $39 na mesec z Subscribe & Save.",
   "philosophyLabel": "Naša filozofija",
-  "quote": "“Zdrava koža je najprivlačnejša stvar, ki jo lahko nosite.”",
+  "quote": "„En serum, dve minuti, zjutraj in zvečer. To je celotna rutina.“",
   "philosophyCaption": "Filozofija Tava Labs",
-  "philosophyP1": "Verjamemo, da je treba zase skrbeti tako, kot skrbite za svoje delo: dosledno in brez drame. Majhno dnevno vzdrževanje premaga občasne prenove.",
-  "philosophyP2": "Ne obljubljamo preobrazbe. Izdelamo dobro formuliran dnevni serum, vam povemo točno, kaj je v njem, in pustimo, da rutina govori sama zase.",
+  "philosophyP1": "Verjamemo v skrb zase tako, kot skrbite za svoje delo, z majhnimi koraki, ki se izvajajo dosledno vsak dan.",
+  "philosophyP2": "Ne obljubljamo preobrazbe. Izdelujemo dobro oblikovan dnevni serum in vam povemo točno, kaj je v njem.",
   "onlineTitle": "Samo na spletu",
   "onlineSegments": [
    {
@@ -1030,7 +1030,7 @@
     "q": "Kaj je PDRN Brightening Serum?",
     "a": [
      {
-      "text": "Dnevni serum, zgrajen okoli PDRN (Polydeoxyribonucleotide) in Acetyl Hexapeptide-8, z natrijevim hialuronatom in pantenolom. Je dnevna rutina za polt: nanašajte zjutraj in zvečer za podporo svetlejši in enakomernejši polti ter zbranemu videzu, pripravljenemu na kamero."
+      "text": "Dnevni serum, zgrajen okoli PDRN (polideoksiribonukleotid) in acetil heksapeptida-8, z natrijevim hialuronatom in pantenolom. Nanesite ga zjutraj in zvečer za podporo svetlejše in bolj enakomerne polti na videz."
      }
     ]
    },
@@ -1145,7 +1145,7 @@
   "keyItems": [
    {
     "name": "PDRN (Polydeoxyribonucleotide)",
-    "body": "Glavna aktivna sestavina. Podpira svetlejšo in enakomernejšo polt ter zbran videz, pripravljen na kamero."
+    "body": "Naša glavna aktivna sestavina. Podpira svetlejšo in bolj enakomerno polt na videz."
    },
    {
     "name": "Acetyl Hexapeptide-8",
@@ -1174,15 +1174,15 @@
   "label": "Postanite partner podjetja Tava Labs",
   "titleLead": "Podarite svojim ustanoviteljem brezplačen mesec",
   "titleAccent": "Tava Labs.",
-  "intro": "Tava Labs sodeluje s pospeševalniki, univerzami, angelskimi vlagatelji in skupnostmi ustanoviteljev. Vaši člani dobijo prvi mesec seruma PDRN Brightening Serum brezplačno, da lahko ljudje, ki gradijo podjetja, poskrbijo za osebo za podjetjem.",
-  "tagline": "Brezplačen mesec, na naš račun, brez obveznosti.",
+  "intro": "Tava Labs sodeluje s pospeševalniki, univerzami, angelskimi vlagatelji in skupnostmi ustanoviteljev. Vaši člani prejmejo prvi mesec PDRN Brightening Serum brezplačno.",
+  "tagline": "Brezplačen mesec od nas, brez stroškov in brez obveznosti.",
   "becomePartner": "Postanite partner",
   "partnershipsContact": "Kontakt za partnerstva",
   "audiences": [
    {
     "alt": "Ustanovitelji zagonskih podjetij na seji pospeševalnika",
     "title": "Za pospeševalnike",
-    "body": "Vaši ustanovitelji od prvega dne predstavljajo, demonstrirajo in snemajo vsebine. Podarite jim mesec dnevnega vzdrževanja, ki jim pomaga nastopiti zbrano in pripravljeno na kamero, ter eno skrb manj med programom.",
+    "body": "Vaši ustanovitelji predstavljajo, demonstrirajo in snemajo vsebine od prvega dne. Dajte jim mesec dnevne nege kože, ki med programom traja dve minuti na dan.",
     "how": "Kako deluje: vsakemu ustanovitelju v vaši skupini pošljemo eno brezplačno stekleničko, z osebnim načrtom iz kviza o koži. Vi nas enkrat predstavite; za vse ostalo poskrbimo mi."
    },
    {
@@ -1194,7 +1194,7 @@
    {
     "alt": "Sestanek vlagatelja z ustanoviteljem",
     "title": "Za angelske vlagatelje",
-    "body": "Podpirate osebo enako kot podjetje. Brezplačen mesec Tava Labs je pozorno darilo za ustanovitelje v vašem portfelju in podpira dnevno rutino ljudi, v katere ste vložili.",
+    "body": "Brezplačen mesec Tava Labs je praktično darilo za ustanovitelje v vašem portfelju. Mi poskrbimo za dostavo in njihove osebne načrte.",
     "how": "Kako deluje: povejte nam, koliko ustanoviteljev želite obdariti, in uredimo dostavo ter njihove osebne načrte. Brez stroškov za vas in brez stroškov zanje."
    }
   ],
@@ -1218,7 +1218,7 @@
     "body": "En korak, zjutraj in zvečer. Ustreza urniku ustanovitelja, ker je bilo zasnovano zanj."
    }
   ],
-  "formulationTitle": "Čista, premišljena formulacija.",
+  "formulationTitle": "Izdelano brez teh sestavin.",
   "formulationSub": "Serum je izdelan brez sestavin, o katerih vaši člani sprašujejo najpogosteje:",
   "stepsTitle": "Kako partnerstvo deluje",
   "steps": [
@@ -1232,11 +1232,11 @@
    },
    {
     "title": "Vi podarite darilo",
-    "body": "Vaši člani dobijo brezplačen mesec dnevnega vzdrževanja, z našo zahvalo vam v vsaki škatli."
+    "body": "Vaši člani prejmejo brezplačen mesec seruma, z zahvalno opombo od nas v vsaki škatli."
    }
   ],
-  "closingTitleLead": "Dajmo brezplačen mesec v roke vaših ustanoviteljev",
-  "closingTitleAccent": ".",
+  "closingTitleLead": "Dajte svojim ustanoviteljem",
+  "closingTitleAccent": "mesec brezplačno.",
   "closingSegments": [
    {
     "text": "Pišite na "
@@ -1261,7 +1261,7 @@
   "label": "The Tava Journal",
   "titleLead": "Raziskave o spanju in stresu",
   "titleAccent": "za ustanovitelje",
-  "sub": "Znanost o spanju, raziskave o stresu in vpogledi v delovanje za ustanovitelje.",
+  "sub": "Članki o znanosti spanja, raziskavah stresa in zdravju kože za ustanovitelje in lastnike podjetij.",
   "readStory": "Preberite zgodbo"
  },
  "research": {
@@ -1334,7 +1334,7 @@
   ],
   "peopleBg": "Ljudje",
   "participantsLabel": "Kdo je sodeloval",
-  "participantsTitle": "Ljudje za povprečji.",
+  "participantsTitle": "Kdo je sodeloval v programu.",
   "participantsSub": "Pet obiskov skozi program, od izhodišča do 16. tedna.",
   "ageLabel": "Povprečna starost",
   "ageSuffix": "Let starosti · Razpon 20 do 48",
@@ -1672,7 +1672,7 @@
   "claimEmpty": "Ste kupili prek kviza ali tega mesta? Vaše potrditveno e-poštno sporočilo in stran takoj po blagajni sta prikazala kodo za prevzem. Odprite mobilno aplikacijo Tava, se prijavite in vnesite kodo v zavihku Naročila. Vaš nakup, načrt in odgovori na kviz se preselijo v vaš račun v aplikaciji. Tukaj v spletu prijava z istim e-poštnim naslovom, ki ste ga uporabili na blagajni, že prikazuje vse zgoraj. Nič drugega ni treba vnesti.",
   "shop": {
    "eyebrow": "PDRN Brightening Serum",
-   "title": "The Science of Attractive Health",
+   "title": "Nakupujte Tava Labs",
    "body": "1 fl oz (30 ml). Zmanjšajte drobne gubice, globoko vlažite, povrnite sijaj in okrepite kožo. 2 do 4 pritiski, zjutraj in zvečer.",
    "subscribeLine": "Naročite se, $39 na mesec.",
    "subscribeRest": " Vsak mesec sveža steklenička, samodejno.",

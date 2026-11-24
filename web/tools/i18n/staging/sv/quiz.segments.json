@@ -1,0 +1,707 @@
+{
+ "slug": "quiz",
+ "title": "Hudquiz | Bygg din personliga serumplan | Tava Labs",
+ "description": "Svara på några snabba frågor och bygg din personliga plan kring PDRN Brightening Serum. Ett serum, två gånger om dagen, anpassat efter din hud och dina mål.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "&larr; Tillbaka"
+  },
+  {
+   "id": 4,
+   "text": "6 frågor till din plan"
+  },
+  {
+   "id": 5,
+   "text": "Tava Labs flaska med PDRN Brightening Serum"
+  },
+  {
+   "id": 6,
+   "text": "Bygg din personliga 30 dagars plan"
+  },
+  {
+   "id": 7,
+   "text": "Ett serum. Två gånger om dagen. "
+  },
+  {
+   "id": 8,
+   "text": "30 dagar."
+  },
+  {
+   "id": 9,
+   "text": "Svara på några snabba frågor så bygger vi din personliga 30 dagars plan kring PDRN Brightening Serum, ett steg på morgonen och ett steg på natten. Prenumeration, och du kan pausa eller avbryta när som helst."
+  },
+  {
+   "id": 10,
+   "text": "Bygg min plan"
+  },
+  {
+   "id": 11,
+   "text": "PDRN Brightening Serum · 1 fl oz (30 ml) · Gjord för användning två gånger om dagen"
+  },
+  {
+   "id": 12,
+   "text": "6 kvar"
+  },
+  {
+   "id": 13,
+   "text": "Vad vill du mest ha ut av de kommande 30 dagarna?"
+  },
+  {
+   "id": 14,
+   "text": "Hud som ser ljusare ut"
+  },
+  {
+   "id": 15,
+   "text": "Fina linjer"
+  },
+  {
+   "id": 16,
+   "text": "Djup återfuktning"
+  },
+  {
+   "id": 17,
+   "text": "Jämn hudton"
+  },
+  {
+   "id": 18,
+   "text": "Du är inte ensam"
+  },
+  {
+   "id": 19,
+   "text": "Du är inte ensam."
+  },
+  {
+   "id": 20,
+   "text": "Fortsätt"
+  },
+  {
+   "id": 21,
+   "text": "5 kvar"
+  },
+  {
+   "id": 22,
+   "text": "Hur känns din hud vanligtvis mitt på dagen?"
+  },
+  {
+   "id": 23,
+   "text": "Torr"
+  },
+  {
+   "id": 24,
+   "text": "Fet"
+  },
+  {
+   "id": 25,
+   "text": "Blandad"
+  },
+  {
+   "id": 26,
+   "text": "Känslig"
+  },
+  {
+   "id": 27,
+   "text": "Osäker"
+  },
+  {
+   "id": 28,
+   "text": "4 kvar"
+  },
+  {
+   "id": 29,
+   "text": "Och vad bekymrar dig mest just nu?"
+  },
+  {
+   "id": 30,
+   "text": "Glåmig hud"
+  },
+  {
+   "id": 31,
+   "text": "Fina linjer"
+  },
+  {
+   "id": 32,
+   "text": "Ojämn hudton"
+  },
+  {
+   "id": 33,
+   "text": "Grov struktur"
+  },
+  {
+   "id": 34,
+   "text": "Torrhet"
+  },
+  {
+   "id": 35,
+   "text": "Din formelmatchning"
+  },
+  {
+   "id": 36,
+   "text": "Inuti flaskan, matchat mot dina svar"
+  },
+  {
+   "id": 37,
+   "text": "En fast formel. Här är vilka ingredienser som matchar det du just berättade för oss."
+  },
+  {
+   "id": 38,
+   "text": "Fortsätt"
+  },
+  {
+   "id": 39,
+   "text": "3 kvar"
+  },
+  {
+   "id": 40,
+   "text": "Har din hud reagerat på starka produkter tidigare?"
+  },
+  {
+   "id": 41,
+   "text": "Ja, lätt"
+  },
+  {
+   "id": 42,
+   "text": "Ibland"
+  },
+  {
+   "id": 43,
+   "text": "Sällan"
+  },
+  {
+   "id": 44,
+   "text": "2 kvar"
+  },
+  {
+   "id": 45,
+   "text": "Hur ser din rutin ut i dag?"
+  },
+  {
+   "id": 46,
+   "text": "Bara rengöring"
+  },
+  {
+   "id": 47,
+   "text": "Några produkter"
+  },
+  {
+   "id": 48,
+   "text": "En full rutin"
+  },
+  {
+   "id": 49,
+   "text": "Sista frågan"
+  },
+  {
+   "id": 50,
+   "text": "När ska du applicera den?"
+  },
+  {
+   "id": 51,
+   "text": "Morgon"
+  },
+  {
+   "id": 52,
+   "text": "6:30 AM"
+  },
+  {
+   "id": 53,
+   "text": "7:30 AM"
+  },
+  {
+   "id": 54,
+   "text": "8:30 AM"
+  },
+  {
+   "id": 55,
+   "text": "Anpassad morgontid"
+  },
+  {
+   "id": 56,
+   "text": "Kväll"
+  },
+  {
+   "id": 57,
+   "text": "9:00 PM"
+  },
+  {
+   "id": 58,
+   "text": "10:00 PM"
+  },
+  {
+   "id": 59,
+   "text": "10:30 PM"
+  },
+  {
+   "id": 60,
+   "text": "Anpassad kvällstid"
+  },
+  {
+   "id": 61,
+   "text": "Fortsätt"
+  },
+  {
+   "id": 62,
+   "text": "Nästan klart"
+  },
+  {
+   "id": 63,
+   "text": "Vart ska vi skicka din 30 dagars plan?"
+  },
+  {
+   "id": 64,
+   "text": "Din plan går till din inkorg. Använd samma mejladress när du laddar ner appen, eftersom det är så appen kommer att känna igen dig, och dina svar, din plan och din beställning kommer att vänta där."
+  },
+  {
+   "id": 65,
+   "text": "Mejladress"
+  },
+  {
+   "id": 66,
+   "text": "you@example.com"
+  },
+  {
+   "id": 67,
+   "text": "Den mejladressen ser inte komplett ut. Kontrollera den och försök igen."
+  },
+  {
+   "id": 68,
+   "text": "Visa min plan"
+  },
+  {
+   "id": 69,
+   "text": "Din plan"
+  },
+  {
+   "id": 70,
+   "text": "Förhandsvisning av din behandling"
+  },
+  {
+   "id": 71,
+   "text": "Tava Labs"
+  },
+  {
+   "id": 72,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 73,
+   "text": "Flaska med PDRN Brightening Serum"
+  },
+  {
+   "id": 74,
+   "text": "Valt utifrån dina mål:"
+  },
+  {
+   "id": 75,
+   "text": "Planer från "
+  },
+  {
+   "id": 76,
+   "text": "$39/month*"
+  },
+  {
+   "id": 77,
+   "text": "*Betals månadsvis. Pausa eller avbryt när som helst."
+  },
+  {
+   "id": 78,
+   "text": "Flaska för engångsköp $49."
+  },
+  {
+   "id": 79,
+   "text": "DIN FÖRSTA VECKA"
+  },
+  {
+   "id": 80,
+   "text": "Dina svar har redan kartlagt din första vecka med rutinen. Fem dagar kvar efter de första två, och dag ett börjar i samma stund som ditt serum skickas."
+  },
+  {
+   "id": 81,
+   "text": "Dag 1"
+  },
+  {
+   "id": 82,
+   "text": "Dag 2"
+  },
+  {
+   "id": 83,
+   "text": "Dag 3"
+  },
+  {
+   "id": 84,
+   "text": "Dag 4"
+  },
+  {
+   "id": 85,
+   "text": "Dag 5"
+  },
+  {
+   "id": 86,
+   "text": "Dag 6"
+  },
+  {
+   "id": 87,
+   "text": "Dag 7"
+  },
+  {
+   "id": 88,
+   "text": "Serumdetaljer"
+  },
+  {
+   "id": 89,
+   "text": "Ett serum. Två gånger om dagen. 30 dagar."
+  },
+  {
+   "id": 90,
+   "text": "Typ"
+  },
+  {
+   "id": 91,
+   "text": "Lysterserum · 1 fl oz"
+  },
+  {
+   "id": 92,
+   "text": "Användning"
+  },
+  {
+   "id": 93,
+   "text": "Två gånger om dagen"
+  },
+  {
+   "id": 94,
+   "text": "Plan"
+  },
+  {
+   "id": 95,
+   "text": "30 dagar"
+  },
+  {
+   "id": 96,
+   "text": "Aktiva ingredienser"
+  },
+  {
+   "id": 97,
+   "text": "Aktiva ingredienser"
+  },
+  {
+   "id": 98,
+   "text": "PDRN"
+  },
+  {
+   "id": 99,
+   "text": "Polydeoxyribonucleotide"
+  },
+  {
+   "id": 100,
+   "text": "Textur av PDRN serum"
+  },
+  {
+   "id": 101,
+   "text": "För hud som ser ljusare ut"
+  },
+  {
+   "id": 102,
+   "text": "Acetyl Hexapeptide-8"
+  },
+  {
+   "id": 103,
+   "text": "Peptid"
+  },
+  {
+   "id": 104,
+   "text": "Textur av Acetyl Hexapeptide-8 serum"
+  },
+  {
+   "id": 105,
+   "text": "För hud som ser slätare ut"
+  },
+  {
+   "id": 106,
+   "text": "Sodium Hyaluronate"
+  },
+  {
+   "id": 107,
+   "text": "Hyaluronsyra"
+  },
+  {
+   "id": 108,
+   "text": "Textur av Sodium Hyaluronate serum"
+  },
+  {
+   "id": 109,
+   "text": "För djup återfuktning"
+  },
+  {
+   "id": 110,
+   "text": "Panthenol"
+  },
+  {
+   "id": 111,
+   "text": "Provitamin B5"
+  },
+  {
+   "id": 112,
+   "text": "För mjuk, behaglig hud"
+  },
+  {
+   "id": 113,
+   "text": "Kosmetiskt serum för utvärtes bruk. Endast för extern användning. Undvik ögonen. Avbryt vid irritation."
+  },
+  {
+   "id": 114,
+   "text": "Så använder du den"
+  },
+  {
+   "id": 115,
+   "text": "Applicera 2 till 4 pumpar på ren, torr hud, två gånger dagligen. Följ upp med fuktkräm eller solskydd på morgonen."
+  },
+  {
+   "id": 116,
+   "text": "Bra att veta"
+  },
+  {
+   "id": 117,
+   "text": "Endast för extern användning. Undvik ögonen. Avbryt vid irritation. Förvaras utom räckhåll för barn. Använd inte på skadad hud. Förvaras på en sval, torr plats."
+  },
+  {
+   "id": 118,
+   "text": "Möt ditt "
+  },
+  {
+   "id": 119,
+   "text": "serum"
+  },
+  {
+   "id": 120,
+   "text": "Flaska med PDRN Brightening Serum"
+  },
+  {
+   "id": 121,
+   "text": "Presentation och ljushet"
+  },
+  {
+   "id": 122,
+   "text": "Djup återfuktning"
+  },
+  {
+   "id": 123,
+   "text": "Fina linjer"
+  },
+  {
+   "id": 124,
+   "text": "Verkliga resultat"
+  },
+  {
+   "id": 125,
+   "text": "Före och efter med PDRN Brightening Serum"
+  },
+  {
+   "id": 126,
+   "text": "Före"
+  },
+  {
+   "id": 127,
+   "text": "Efter"
+  },
+  {
+   "id": 128,
+   "text": "Före och efter med PDRN Brightening Serum"
+  },
+  {
+   "id": 129,
+   "text": "Före"
+  },
+  {
+   "id": 130,
+   "text": "Efter"
+  },
+  {
+   "id": 131,
+   "text": "Före och efter med PDRN Brightening Serum"
+  },
+  {
+   "id": 132,
+   "text": "Före"
+  },
+  {
+   "id": 133,
+   "text": "Efter"
+  },
+  {
+   "id": 134,
+   "text": "Individuella resultat varierar."
+  },
+  {
+   "id": 135,
+   "text": "Fortsätt med denna plan"
+  },
+  {
+   "id": 136,
+   "text": "Se andra alternativ"
+  },
+  {
+   "id": 137,
+   "text": "Kassa"
+  },
+  {
+   "id": 138,
+   "text": "Starta dina 30 dagar"
+  },
+  {
+   "id": 139,
+   "text": "Demokassa. Ingen debitering."
+  },
+  {
+   "id": 140,
+   "text": " Denna sida är ännu inte kopplad till någon betalnings eller distributionsslutpunkt. Knappen nedan validerar dina uppgifter och sätter samman den exakta beställningsnyttolasten, så att du kan se precis vad som skulle skickas."
+  },
+  {
+   "id": 141,
+   "text": "$39"
+  },
+  {
+   "id": 142,
+   "text": "Prenumerera &amp; spara"
+  },
+  {
+   "id": 143,
+   "text": "$49"
+  },
+  {
+   "id": 144,
+   "text": "Engångsköp"
+  },
+  {
+   "id": 145,
+   "text": "Förnamn"
+  },
+  {
+   "id": 146,
+   "text": "Efternamn"
+  },
+  {
+   "id": 147,
+   "text": "Gatuadress"
+  },
+  {
+   "id": 148,
+   "text": "Lägenhet, svit osv. "
+  },
+  {
+   "id": 149,
+   "text": "(valfritt)"
+  },
+  {
+   "id": 150,
+   "text": "Stad"
+  },
+  {
+   "id": 151,
+   "text": "Delstat"
+  },
+  {
+   "id": 152,
+   "text": "CA"
+  },
+  {
+   "id": 153,
+   "text": "Postnummer"
+  },
+  {
+   "id": 154,
+   "text": "Land"
+  },
+  {
+   "id": 155,
+   "text": "Förenta staterna"
+  },
+  {
+   "id": 156,
+   "text": "Kanada"
+  },
+  {
+   "id": 157,
+   "text": "Storbritannien"
+  },
+  {
+   "id": 158,
+   "text": "Australien"
+  },
+  {
+   "id": 159,
+   "text": "Telefon "
+  },
+  {
+   "id": 160,
+   "text": "(valfritt, för leveransuppdateringar)"
+  },
+  {
+   "id": 161,
+   "text": "Starta min prenumeration, $39"
+  },
+  {
+   "id": 162,
+   "text": "Prenumerationen förnyas var 30:e dag för $39. Pausa eller avbryt när som helst."
+  },
+  {
+   "id": 163,
+   "text": "Tava Labs flaska med PDRN Brightening Serum"
+  },
+  {
+   "id": 164,
+   "text": "Beställning mottagen"
+  },
+  {
+   "id": 165,
+   "text": "Din plan"
+  },
+  {
+   "id": 166,
+   "text": "börjar nu."
+  },
+  {
+   "id": 167,
+   "text": "Demokassa. Ingen debitering gjordes."
+  },
+  {
+   "id": 168,
+   "text": " Din beställningsnyttolast sparades i denna webbläsare så att du kan inspektera exakt vad liveversionen kommer att skicka."
+  },
+  {
+   "id": 169,
+   "text": "Ditt köp syns i appen"
+  },
+  {
+   "id": 170,
+   "text": "Din plan finns i Tava appen, med dagliga avbockningar för morgon och kväll samt din svit och spårning av din försändelse. Appen finns ännu inte på App Store. Efter kassan ger din bekräftelsesida och ditt mejl dig en "
+  },
+  {
+   "id": 171,
+   "text": "anspråkskod"
+  },
+  {
+   "id": 172,
+   "text": ". När du installerar appen, logga in och ange den koden, så finns din plan, dina svar och din beställning redan där. Inget nytt köp."
+  },
+  {
+   "id": 173,
+   "text": "Se min anspråkskod efter kassan"
+  },
+  {
+   "id": 174,
+   "text": "Tava Labs · PDRN Brightening Serum för grundare · Frågor? talia@tavalabs.app"
+  }
+ ]
+}

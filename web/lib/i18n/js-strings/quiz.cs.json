@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "jas a zářivost"
+   "t": "jasnější vypadající pleť"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Zakladatelé a tvůrci, kteří se prezentují každý den, začínají své ráno stejně. Mdlá, unaveně vypadající pleť je jedním z nejčastějších důvodů, proč lidé začínají se sérovou rutinou. PDRN Brightening Serum je postavené kolem PDRN a peptidů, v lehkém složení navrženém tak, aby zlepšilo vzhled hladké a zářivé pleti a zanechalo ji plnou, jemnou a svěží, ráno i večer."
+   "t": "Zakladatelé a tvůrci, kteří se prezentují každý den, začínají své ráno stejným způsobem. Matná, unaveně vypadající pleť je jedním z nejčastějších důvodů, proč lidé začínají rutinu se sérem. PDRN Brightening Serum je postaveno na PDRN a peptidech, v lehkém složení, které pomáhá pleti vypadat hladká a jasná, ráno a večer."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Zakladatelé a tvůrci, kteří se prezentují každý den, začínají své ráno stejně. Jemné linky jsou obvykle to první, na co lidé sérum chtějí. Toto složení spojuje acetyl hexapeptide-8 s PDRN, složky vybrané na podporu pleti, která vypadá hladší a zářivější, v jediném kroku, dvakrát denně. Žádná desetistupňová rutina není potřeba."
+   "t": "Zakladatelé a tvůrci, kteří se prezentují každý den, začínají své ráno stejným způsobem. Jemné linky jsou obvykle první věcí, pro kterou lidé sérum chtějí. Toto složení spojuje acetyl hexapeptide-8 s PDRN, dvě složky vybrané pro podporu pleti, která vypadá hladší a jasnější, v jediném kroku, dvakrát denně. Není potřeba rutina o deseti krocích."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Zakladatelé a tvůrci, kteří se prezentují každý den, začínají své ráno stejně. Pleť, která je do poledne napjatá a žíznivá, je přesně to, pro co je toto sérum vyrobené. Směs glycerinu, sodium PCA a sodium hyaluronate poskytuje hloubkovou hydrataci, zatímco panthenol pleť ošetřuje, takže se pleť cítí pohodlně a vypadá plná, ne mastná."
+   "t": "Zakladatelé a tvůrci, kteří se prezentují každý den, začínají své ráno stejným způsobem. Pleť, která je v poledne napjatá a suchá, je přesně to, pro co je toto sérum vyrobeno. Směs glycerinu, sodium PCA a sodium hyaluronate poskytuje hlubokou hydrataci, zatímco panthenol pečuje o pleť, takže je příjemná a hydratovaná, ne mastná."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Zakladatelé a tvůrci, kteří se prezentují každý den, začínají své ráno stejně. Nerovnoměrně vypadající pleť je častá frustrace. PDRN a peptidy pomáhají podpořit zářivější a živěji vypadající pleť a lehké složení se vstřebává rychle a snadno, jednoduchý krok dvakrát denně k rovnoměrnějšímu vzhledu."
+   "t": "Zakladatelé a tvůrci, kteří se prezentují každý den, začínají své ráno stejným způsobem. Pleť s nerovnoměrným vzhledem je častou frustrací. PDRN a peptidy pomáhají pleti vypadat jasnější a rovnoměrnější a lehké složení se rychle vstřebává, v jednoduchém kroku používaném dvakrát denně."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Pomáhá podpořit zářivější a živěji vypadající pleť a zlepšuje vzhled hladké, zářivé pleti."
+   "t": "Pomáhá pleti vypadat jasnější, rovnoměrnější a hladší."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "Hydratační směs, která přitahuje vlhkost pro plný, pohodlný pocit a hedvábně hladkou texturu."
+   "t": "Hydratační směs, která přitahuje vlhkost, pro pleť, která je příjemná a hladká."
   },
   {
    "k": "ing.panthenol.name",
@@ -124,7 +124,7 @@
   {
    "k": "ing.panthenol.text",
    "q": "dq",
-   "t": "Ošetřuje pleť a zanechává ji jemnou a v pohodlí, šetrný základ pro pleť, která snadno reaguje."
+   "t": "Pečuje o pleť a zanechává ji jemnou a příjemnou, šetrný základ pro pleť, která snadno reaguje."
   },
   {
    "k": "ramp.often.1",

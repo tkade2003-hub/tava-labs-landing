@@ -1,0 +1,707 @@
+{
+ "slug": "quiz",
+ "title": "Test pentru piele | Construiește-ți planul personal cu ser | Tava Labs",
+ "description": "Răspunde la câteva întrebări rapide și construiește-ți planul personal în jurul PDRN Brightening Serum. Un singur ser, de două ori pe zi, adaptat pielii și obiectivelor tale.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "&larr; Înapoi"
+  },
+  {
+   "id": 4,
+   "text": "6 întrebări până la planul tău"
+  },
+  {
+   "id": 5,
+   "text": "Flacon Tava Labs PDRN Brightening Serum"
+  },
+  {
+   "id": 6,
+   "text": "Construiește-ți planul personal de 30 de zile"
+  },
+  {
+   "id": 7,
+   "text": "Un singur ser. De două ori pe zi. "
+  },
+  {
+   "id": 8,
+   "text": "30 de zile."
+  },
+  {
+   "id": 9,
+   "text": "Răspunde la câteva întrebări rapide și vom construi planul tău personal de 30 de zile în jurul PDRN Brightening Serum, un pas dimineața și un pas seara. Abonament și poți pune pauză sau anula oricând."
+  },
+  {
+   "id": 10,
+   "text": "Construiește-mi planul"
+  },
+  {
+   "id": 11,
+   "text": "PDRN Brightening Serum · 1 fl oz (30 ml) · Creat pentru utilizare de două ori pe zi"
+  },
+  {
+   "id": 12,
+   "text": "Mai sunt 6"
+  },
+  {
+   "id": 13,
+   "text": "Ce îți dorești cel mai mult de la următoarele 30 de zile?"
+  },
+  {
+   "id": 14,
+   "text": "Piele care arată mai luminoasă"
+  },
+  {
+   "id": 15,
+   "text": "Linii fine"
+  },
+  {
+   "id": 16,
+   "text": "Hidratare profundă"
+  },
+  {
+   "id": 17,
+   "text": "Ton uniform"
+  },
+  {
+   "id": 18,
+   "text": "Nu ești singur"
+  },
+  {
+   "id": 19,
+   "text": "Nu ești singur."
+  },
+  {
+   "id": 20,
+   "text": "Continuă"
+  },
+  {
+   "id": 21,
+   "text": "Mai sunt 5"
+  },
+  {
+   "id": 22,
+   "text": "Cum se simte de obicei pielea ta la prânz?"
+  },
+  {
+   "id": 23,
+   "text": "Uscată"
+  },
+  {
+   "id": 24,
+   "text": "Grasă"
+  },
+  {
+   "id": 25,
+   "text": "Mixtă"
+  },
+  {
+   "id": 26,
+   "text": "Sensibilă"
+  },
+  {
+   "id": 27,
+   "text": "Nu sunt sigur"
+  },
+  {
+   "id": 28,
+   "text": "Mai sunt 4"
+  },
+  {
+   "id": 29,
+   "text": "Și care este principala ta preocupare acum?"
+  },
+  {
+   "id": 30,
+   "text": "Lipsă de strălucire"
+  },
+  {
+   "id": 31,
+   "text": "Linii fine"
+  },
+  {
+   "id": 32,
+   "text": "Ton neuniform"
+  },
+  {
+   "id": 33,
+   "text": "Textură aspră"
+  },
+  {
+   "id": 34,
+   "text": "Uscăciune"
+  },
+  {
+   "id": 35,
+   "text": "Potrivirea formulei tale"
+  },
+  {
+   "id": 36,
+   "text": "În interiorul flaconului, adaptat răspunsurilor tale"
+  },
+  {
+   "id": 37,
+   "text": "O formulă fixă. Iată ce ingrediente se potrivesc cu ce ne-ai spus."
+  },
+  {
+   "id": 38,
+   "text": "Continuă"
+  },
+  {
+   "id": 39,
+   "text": "Mai sunt 3"
+  },
+  {
+   "id": 40,
+   "text": "A reacționat pielea ta la produse puternice înainte?"
+  },
+  {
+   "id": 41,
+   "text": "Da, ușor"
+  },
+  {
+   "id": 42,
+   "text": "Uneori"
+  },
+  {
+   "id": 43,
+   "text": "Rar"
+  },
+  {
+   "id": 44,
+   "text": "Mai sunt 2"
+  },
+  {
+   "id": 45,
+   "text": "Cum arată rutina ta astăzi?"
+  },
+  {
+   "id": 46,
+   "text": "Doar produs de curățare"
+  },
+  {
+   "id": 47,
+   "text": "Câteva produse"
+  },
+  {
+   "id": 48,
+   "text": "O rutină completă"
+  },
+  {
+   "id": 49,
+   "text": "Ultima întrebare"
+  },
+  {
+   "id": 50,
+   "text": "Când îl vei aplica?"
+  },
+  {
+   "id": 51,
+   "text": "Dimineața"
+  },
+  {
+   "id": 52,
+   "text": "6:30 AM"
+  },
+  {
+   "id": 53,
+   "text": "7:30 AM"
+  },
+  {
+   "id": 54,
+   "text": "8:30 AM"
+  },
+  {
+   "id": 55,
+   "text": "Oră personalizată de dimineață"
+  },
+  {
+   "id": 56,
+   "text": "Seara"
+  },
+  {
+   "id": 57,
+   "text": "9:00 PM"
+  },
+  {
+   "id": 58,
+   "text": "10:00 PM"
+  },
+  {
+   "id": 59,
+   "text": "10:30 PM"
+  },
+  {
+   "id": 60,
+   "text": "Oră personalizată de seară"
+  },
+  {
+   "id": 61,
+   "text": "Continuă"
+  },
+  {
+   "id": 62,
+   "text": "Aproape gata"
+  },
+  {
+   "id": 63,
+   "text": "Unde să trimitem planul tău de 30 de zile?"
+  },
+  {
+   "id": 64,
+   "text": "Planul tău merge în inboxul tău. Folosește același e-mail când descarci aplicația, pentru că așa te va cunoaște aplicația, iar răspunsurile, planul și comanda ta vor aștepta acolo."
+  },
+  {
+   "id": 65,
+   "text": "Adresă de email"
+  },
+  {
+   "id": 66,
+   "text": "you@example.com"
+  },
+  {
+   "id": 67,
+   "text": "Acel e-mail nu pare complet. Verifică-l și încearcă din nou."
+  },
+  {
+   "id": 68,
+   "text": "Arată-mi planul"
+  },
+  {
+   "id": 69,
+   "text": "Planul tău"
+  },
+  {
+   "id": 70,
+   "text": "Previzualizarea tratamentului tău"
+  },
+  {
+   "id": 71,
+   "text": "Tava Labs"
+  },
+  {
+   "id": 72,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 73,
+   "text": "PDRN Brightening Serum bottle"
+  },
+  {
+   "id": 74,
+   "text": "Selectat pe baza obiectivelor tale:"
+  },
+  {
+   "id": 75,
+   "text": "Planuri începând de la "
+  },
+  {
+   "id": 76,
+   "text": "$39/month*"
+  },
+  {
+   "id": 77,
+   "text": "*Plătit lunar. Întrerupe sau anulează oricând."
+  },
+  {
+   "id": 78,
+   "text": "Flacon unic $49."
+  },
+  {
+   "id": 79,
+   "text": "PRIMA TA SĂPTĂMÂNĂ"
+  },
+  {
+   "id": 80,
+   "text": "Răspunsurile tale au trasat deja prima ta săptămână din rutină. Cinci zile rămase după primele două, iar ziua întâi începe în momentul în care serul tău este expediat."
+  },
+  {
+   "id": 81,
+   "text": "Ziua 1"
+  },
+  {
+   "id": 82,
+   "text": "Ziua 2"
+  },
+  {
+   "id": 83,
+   "text": "Ziua 3"
+  },
+  {
+   "id": 84,
+   "text": "Ziua 4"
+  },
+  {
+   "id": 85,
+   "text": "Ziua 5"
+  },
+  {
+   "id": 86,
+   "text": "Ziua 6"
+  },
+  {
+   "id": 87,
+   "text": "Ziua 7"
+  },
+  {
+   "id": 88,
+   "text": "Detalii despre ser"
+  },
+  {
+   "id": 89,
+   "text": "Un singur ser. De două ori pe zi. 30 de zile."
+  },
+  {
+   "id": 90,
+   "text": "Tip"
+  },
+  {
+   "id": 91,
+   "text": "Ser iluminator · 1 fl oz"
+  },
+  {
+   "id": 92,
+   "text": "Utilizare"
+  },
+  {
+   "id": 93,
+   "text": "De două ori pe zi"
+  },
+  {
+   "id": 94,
+   "text": "Plan"
+  },
+  {
+   "id": 95,
+   "text": "30 de zile"
+  },
+  {
+   "id": 96,
+   "text": "Ingrediente active"
+  },
+  {
+   "id": 97,
+   "text": "Ingrediente active"
+  },
+  {
+   "id": 98,
+   "text": "PDRN"
+  },
+  {
+   "id": 99,
+   "text": "Polydeoxyribonucleotide"
+  },
+  {
+   "id": 100,
+   "text": "Textură de ser PDRN"
+  },
+  {
+   "id": 101,
+   "text": "Pentru o piele care arată mai luminoasă"
+  },
+  {
+   "id": 102,
+   "text": "Acetyl Hexapeptide-8"
+  },
+  {
+   "id": 103,
+   "text": "Peptidă"
+  },
+  {
+   "id": 104,
+   "text": "Textură de ser Acetyl Hexapeptide-8"
+  },
+  {
+   "id": 105,
+   "text": "Pentru o piele cu aspect mai neted"
+  },
+  {
+   "id": 106,
+   "text": "Sodium Hyaluronate"
+  },
+  {
+   "id": 107,
+   "text": "Acid hialuronic"
+  },
+  {
+   "id": 108,
+   "text": "Textură de ser Sodium Hyaluronate"
+  },
+  {
+   "id": 109,
+   "text": "Pentru hidratare profundă"
+  },
+  {
+   "id": 110,
+   "text": "Panthenol"
+  },
+  {
+   "id": 111,
+   "text": "Provitamina B5"
+  },
+  {
+   "id": 112,
+   "text": "Pentru o piele moale și confortabilă"
+  },
+  {
+   "id": 113,
+   "text": "Ser cosmetic pentru uz topic. Doar pentru uz extern. Evită ochii. Întrerupe utilizarea dacă apare iritație."
+  },
+  {
+   "id": 114,
+   "text": "Mod de utilizare"
+  },
+  {
+   "id": 115,
+   "text": "Aplică 2 până la 4 pompe pe pielea curată și uscată, de două ori pe zi. Urmează cu cremă hidratantă sau protecție solară dimineața."
+  },
+  {
+   "id": 116,
+   "text": "Bine de știut"
+  },
+  {
+   "id": 117,
+   "text": "Doar pentru uz extern. Evită ochii. Întrerupe utilizarea dacă apare iritație. A nu se lăsa la îndemâna copiilor. Nu folosi pe piele lezată. Păstrează într-un loc răcoros și uscat."
+  },
+  {
+   "id": 118,
+   "text": "Fă cunoștință cu "
+  },
+  {
+   "id": 119,
+   "text": "serul tău"
+  },
+  {
+   "id": 120,
+   "text": "Flacon PDRN Brightening Serum"
+  },
+  {
+   "id": 121,
+   "text": "Prezentare și luminozitate"
+  },
+  {
+   "id": 122,
+   "text": "Hidratare profundă"
+  },
+  {
+   "id": 123,
+   "text": "Linii fine"
+  },
+  {
+   "id": 124,
+   "text": "Rezultate reale"
+  },
+  {
+   "id": 125,
+   "text": "Înainte și după cu PDRN Brightening Serum"
+  },
+  {
+   "id": 126,
+   "text": "Înainte"
+  },
+  {
+   "id": 127,
+   "text": "După"
+  },
+  {
+   "id": 128,
+   "text": "Înainte și după cu PDRN Brightening Serum"
+  },
+  {
+   "id": 129,
+   "text": "Înainte"
+  },
+  {
+   "id": 130,
+   "text": "După"
+  },
+  {
+   "id": 131,
+   "text": "Înainte și după cu PDRN Brightening Serum"
+  },
+  {
+   "id": 132,
+   "text": "Înainte"
+  },
+  {
+   "id": 133,
+   "text": "După"
+  },
+  {
+   "id": 134,
+   "text": "Rezultatele individuale variază."
+  },
+  {
+   "id": 135,
+   "text": "Continuă cu acest plan"
+  },
+  {
+   "id": 136,
+   "text": "Vezi alte opțiuni"
+  },
+  {
+   "id": 137,
+   "text": "Finalizare comandă"
+  },
+  {
+   "id": 138,
+   "text": "Începe-ți cele 30 de zile"
+  },
+  {
+   "id": 139,
+   "text": "Finalizare demonstrativă. Fără taxare."
+  },
+  {
+   "id": 140,
+   "text": " Această pagină nu este încă conectată la un punct de plată sau de logistică. Butonul de mai jos validează datele tale și asamblează exact sarcina utilă a comenzii, pentru a putea vedea precis ce ar fi trimis."
+  },
+  {
+   "id": 141,
+   "text": "$39"
+  },
+  {
+   "id": 142,
+   "text": "Abonează-te &amp; economisește"
+  },
+  {
+   "id": 143,
+   "text": "$49"
+  },
+  {
+   "id": 144,
+   "text": "O singură dată"
+  },
+  {
+   "id": 145,
+   "text": "Prenume"
+  },
+  {
+   "id": 146,
+   "text": "Nume de familie"
+  },
+  {
+   "id": 147,
+   "text": "Adresă stradală"
+  },
+  {
+   "id": 148,
+   "text": "Apartament, suită etc. "
+  },
+  {
+   "id": 149,
+   "text": "(opțional)"
+  },
+  {
+   "id": 150,
+   "text": "Oraș"
+  },
+  {
+   "id": 151,
+   "text": "Stat"
+  },
+  {
+   "id": 152,
+   "text": "CA"
+  },
+  {
+   "id": 153,
+   "text": "Cod poștal (ZIP)"
+  },
+  {
+   "id": 154,
+   "text": "Țară"
+  },
+  {
+   "id": 155,
+   "text": "Statele Unite"
+  },
+  {
+   "id": 156,
+   "text": "Canada"
+  },
+  {
+   "id": 157,
+   "text": "Regatul Unit"
+  },
+  {
+   "id": 158,
+   "text": "Australia"
+  },
+  {
+   "id": 159,
+   "text": "Telefon "
+  },
+  {
+   "id": 160,
+   "text": "(opțional, pentru actualizări privind livrarea)"
+  },
+  {
+   "id": 161,
+   "text": "Începe abonamentul meu, $39"
+  },
+  {
+   "id": 162,
+   "text": "Abonamentul se reînnoiește la fiecare 30 de zile la $39. Întrerupe sau anulează oricând."
+  },
+  {
+   "id": 163,
+   "text": "Flacon Tava Labs PDRN Brightening Serum"
+  },
+  {
+   "id": 164,
+   "text": "Comandă primită"
+  },
+  {
+   "id": 165,
+   "text": "Planul tău"
+  },
+  {
+   "id": 166,
+   "text": "începe acum."
+  },
+  {
+   "id": 167,
+   "text": "Finalizare demonstrativă. Nu s-a făcut nicio taxare."
+  },
+  {
+   "id": 168,
+   "text": " Sarcina utilă a comenzii tale a fost salvată în acest browser, pentru a putea inspecta exact ce va trimite versiunea live."
+  },
+  {
+   "id": 169,
+   "text": "Achiziția ta apare în aplicație"
+  },
+  {
+   "id": 170,
+   "text": "Planul tău se află în aplicația Tava, cu bifări zilnice dimineața și seara, seria ta de zile consecutive și urmărirea expedierii tale. Aplicația nu este încă pe App Store. După finalizarea comenzii, pagina ta de confirmare și emailul îți oferă un "
+  },
+  {
+   "id": 171,
+   "text": "cod de revendicare"
+  },
+  {
+   "id": 172,
+   "text": ". Când instalezi aplicația, autentifică-te și introdu acel cod, iar planul, răspunsurile și comanda ta sunt deja acolo. Fără o nouă achiziție."
+  },
+  {
+   "id": 173,
+   "text": "Vezi codul meu de revendicare după finalizarea comenzii"
+  },
+  {
+   "id": 174,
+   "text": "Tava Labs · PDRN Brightening Serum pentru fondatori · Întrebări? talia@tavalabs.app"
+  }
+ ]
+}

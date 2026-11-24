@@ -1,0 +1,67 @@
+{
+ "slug": "checkout-cancel",
+ "title": "Pokladna zrušena | Nebyla provedena žádná platba | Tava Labs",
+ "description": "Nebyl účtován žádný poplatek. Váš plán a odpovědi Tava Labs jsou uloženy, takže objednávku můžete dokončit později, až budete připraveni.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "Pokladna zrušena"
+  },
+  {
+   "id": 4,
+   "text": "Žádná platba. "
+  },
+  {
+   "id": 5,
+   "text": "Nic není ztraceno."
+  },
+  {
+   "id": 6,
+   "text": "Pokladnu jste opustili před dokončením, takže "
+  },
+  {
+   "id": 7,
+   "text": "vaše karta nebyla zatížena"
+  },
+  {
+   "id": 8,
+   "text": " , ani o haléř. A vaše práce není ztracena: odpovědi, které jste uvedli, a třicetidenní plán, který jsme z nich sestavili, jsou uloženy k e-mailu, který jste zadali."
+  },
+  {
+   "id": 9,
+   "text": "Až budete připraveni, pokračujte tam, kde jste přestali. Odpovězte na rychlé otázky znovu se stejným e-mailem a váš plán bude znovu sestaven přesně tak, jak byl, a poté dokončete u bezpečné pokladny."
+  },
+  {
+   "id": 10,
+   "text": "Zpět k mému třicetidennímu plánu"
+  },
+  {
+   "id": 11,
+   "text": "Rozmysleli jste si to natrvalo? Nic se neděje. Nic nebylo účtováno a není co rušit. Dotazy? Napište na "
+  },
+  {
+   "id": 12,
+   "text": "talia@tavalabs.app"
+  },
+  {
+   "id": 13,
+   "text": "."
+  },
+  {
+   "id": 14,
+   "text": "Tava Labs · PDRN Brightening Serum pro zakladatele · Otázky? talia@tavalabs.app"
+  }
+ ]
+}

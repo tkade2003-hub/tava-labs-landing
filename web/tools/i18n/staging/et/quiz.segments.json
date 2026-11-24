@@ -1,0 +1,707 @@
+{
+ "slug": "quiz",
+ "title": "Nahaküsimustik | Koosta oma isiklik seerumiplaan | Tava Labs",
+ "description": "Vasta mõnele kiirele küsimusele ja koosta oma isiklik plaan PDRN Brightening Serum ümber. Üks seerum, kaks korda päevas, sinu naha ja eesmärkidega sobitatud.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "&larr; Tagasi"
+  },
+  {
+   "id": 4,
+   "text": "6 küsimust sinu plaanini"
+  },
+  {
+   "id": 5,
+   "text": "Tava Labsi PDRN Brightening Serum pudel"
+  },
+  {
+   "id": 6,
+   "text": "Koosta oma isiklik 30 päeva plaan"
+  },
+  {
+   "id": 7,
+   "text": "Üks seerum. Kaks korda päevas. "
+  },
+  {
+   "id": 8,
+   "text": "30 päeva."
+  },
+  {
+   "id": 9,
+   "text": "Vasta mõnele kiirele küsimusele ja me koostame sinu isikliku 30 päeva plaani PDRN Brightening Serum ümber, üks samm hommikul ja üks samm öösel. Tellimus ja sa saad igal ajal peatada või tühistada."
+  },
+  {
+   "id": 10,
+   "text": "Koosta minu plaan"
+  },
+  {
+   "id": 11,
+   "text": "PDRN Brightening Serum · 1 fl oz (30 ml) · Tehtud kaks korda päevas kasutamiseks"
+  },
+  {
+   "id": 12,
+   "text": "6 jäänud"
+  },
+  {
+   "id": 13,
+   "text": "Mida soovid järgmise 30 päeva jooksul kõige rohkem?"
+  },
+  {
+   "id": 14,
+   "text": "Säravama välimusega nahk"
+  },
+  {
+   "id": 15,
+   "text": "Peened jooned"
+  },
+  {
+   "id": 16,
+   "text": "Sügav niisutus"
+  },
+  {
+   "id": 17,
+   "text": "Ühtlane toon"
+  },
+  {
+   "id": 18,
+   "text": "Sa ei ole üksi"
+  },
+  {
+   "id": 19,
+   "text": "Sa ei ole üksi."
+  },
+  {
+   "id": 20,
+   "text": "Jätka"
+  },
+  {
+   "id": 21,
+   "text": "5 jäänud"
+  },
+  {
+   "id": 22,
+   "text": "Kuidas sinu nahk tavaliselt keskpäevaks tundub?"
+  },
+  {
+   "id": 23,
+   "text": "Kuiv"
+  },
+  {
+   "id": 24,
+   "text": "Rasune"
+  },
+  {
+   "id": 25,
+   "text": "Seganahk"
+  },
+  {
+   "id": 26,
+   "text": "Tundlik"
+  },
+  {
+   "id": 27,
+   "text": "Pole kindel"
+  },
+  {
+   "id": 28,
+   "text": "4 jäänud"
+  },
+  {
+   "id": 29,
+   "text": "Ja mis on praegu sinu peamine mure?"
+  },
+  {
+   "id": 30,
+   "text": "Tuimus"
+  },
+  {
+   "id": 31,
+   "text": "Peened jooned"
+  },
+  {
+   "id": 32,
+   "text": "Ebaühtlane toon"
+  },
+  {
+   "id": 33,
+   "text": "Kare tekstuur"
+  },
+  {
+   "id": 34,
+   "text": "Kuivus"
+  },
+  {
+   "id": 35,
+   "text": "Sinu valemivaste"
+  },
+  {
+   "id": 36,
+   "text": "Pudeli sees, sinu vastustega sobitatud"
+  },
+  {
+   "id": 37,
+   "text": "Üks kindel valem. Siin on, millised koostisosad vastavad sellele, mida sa meile just ütlesid."
+  },
+  {
+   "id": 38,
+   "text": "Jätka"
+  },
+  {
+   "id": 39,
+   "text": "3 jäänud"
+  },
+  {
+   "id": 40,
+   "text": "Kas sinu nahk on varem tugevatele toodetele reageerinud?"
+  },
+  {
+   "id": 41,
+   "text": "Jah, kergesti"
+  },
+  {
+   "id": 42,
+   "text": "Mõnikord"
+  },
+  {
+   "id": 43,
+   "text": "Harva"
+  },
+  {
+   "id": 44,
+   "text": "2 jäänud"
+  },
+  {
+   "id": 45,
+   "text": "Milline näeb sinu rutiin täna välja?"
+  },
+  {
+   "id": 46,
+   "text": "Ainult puhastusvahend"
+  },
+  {
+   "id": 47,
+   "text": "Mõned tooted"
+  },
+  {
+   "id": 48,
+   "text": "Täielik rutiin"
+  },
+  {
+   "id": 49,
+   "text": "Viimane küsimus"
+  },
+  {
+   "id": 50,
+   "text": "Millal sa seda kasutad?"
+  },
+  {
+   "id": 51,
+   "text": "Hommik"
+  },
+  {
+   "id": 52,
+   "text": "6:30 AM"
+  },
+  {
+   "id": 53,
+   "text": "7:30 AM"
+  },
+  {
+   "id": 54,
+   "text": "8:30 AM"
+  },
+  {
+   "id": 55,
+   "text": "Kohandatud hommikuaeg"
+  },
+  {
+   "id": 56,
+   "text": "Õhtu"
+  },
+  {
+   "id": 57,
+   "text": "9:00 PM"
+  },
+  {
+   "id": 58,
+   "text": "10:00 PM"
+  },
+  {
+   "id": 59,
+   "text": "10:30 PM"
+  },
+  {
+   "id": 60,
+   "text": "Kohandatud õhtuaeg"
+  },
+  {
+   "id": 61,
+   "text": "Jätka"
+  },
+  {
+   "id": 62,
+   "text": "Peaaegu valmis"
+  },
+  {
+   "id": 63,
+   "text": "Kuhu peaksime sinu 30 päeva plaani saatma?"
+  },
+  {
+   "id": 64,
+   "text": "Sinu plaan läheb sinu postkasti. Kasuta sama e-posti, kui sa rakenduse alla laadid, sest nii tunneb rakendus sind ära ning sinu vastused, plaan ja tellimus ootavad sind seal."
+  },
+  {
+   "id": 65,
+   "text": "E-posti aadress"
+  },
+  {
+   "id": 66,
+   "text": "you@example.com"
+  },
+  {
+   "id": 67,
+   "text": "See e-post ei paista täielik. Kontrolli seda ja proovi uuesti."
+  },
+  {
+   "id": 68,
+   "text": "Näita minu plaani"
+  },
+  {
+   "id": 69,
+   "text": "Sinu plaan"
+  },
+  {
+   "id": 70,
+   "text": "Sinu hoolduse eelvaade"
+  },
+  {
+   "id": 71,
+   "text": "Tava Labs"
+  },
+  {
+   "id": 72,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 73,
+   "text": "PDRN Brightening Serum pudel"
+  },
+  {
+   "id": 74,
+   "text": "Valitud sinu eesmärkide põhjal:"
+  },
+  {
+   "id": 75,
+   "text": "Plaanid alates "
+  },
+  {
+   "id": 76,
+   "text": "$39/month*"
+  },
+  {
+   "id": 77,
+   "text": "*Makstakse igakuiselt. Peata või tühista igal ajal."
+  },
+  {
+   "id": 78,
+   "text": "Ühekordne pudel $49."
+  },
+  {
+   "id": 79,
+   "text": "SINU ESIMENE NÄDAL"
+  },
+  {
+   "id": 80,
+   "text": "Sinu vastused kaardistasid juba sinu rutiini esimese nädala. Pärast kahte esimest päeva on jäänud viis päeva ja esimene päev algab hetkel, kui sinu seerum teele pannakse."
+  },
+  {
+   "id": 81,
+   "text": "1. päev"
+  },
+  {
+   "id": 82,
+   "text": "2. päev"
+  },
+  {
+   "id": 83,
+   "text": "3. päev"
+  },
+  {
+   "id": 84,
+   "text": "4. päev"
+  },
+  {
+   "id": 85,
+   "text": "5. päev"
+  },
+  {
+   "id": 86,
+   "text": "6. päev"
+  },
+  {
+   "id": 87,
+   "text": "7. päev"
+  },
+  {
+   "id": 88,
+   "text": "Seerumi üksikasjad"
+  },
+  {
+   "id": 89,
+   "text": "Üks seerum. Kaks korda päevas. 30 päeva."
+  },
+  {
+   "id": 90,
+   "text": "Liik"
+  },
+  {
+   "id": 91,
+   "text": "Helendav seerum · 1 fl oz"
+  },
+  {
+   "id": 92,
+   "text": "Kasutamine"
+  },
+  {
+   "id": 93,
+   "text": "Kaks korda päevas"
+  },
+  {
+   "id": 94,
+   "text": "Plaan"
+  },
+  {
+   "id": 95,
+   "text": "30 päeva"
+  },
+  {
+   "id": 96,
+   "text": "Aktiivsed koostisosad"
+  },
+  {
+   "id": 97,
+   "text": "Aktiivsed koostisosad"
+  },
+  {
+   "id": 98,
+   "text": "PDRN"
+  },
+  {
+   "id": 99,
+   "text": "Polydeoxyribonucleotide"
+  },
+  {
+   "id": 100,
+   "text": "PDRN seerumi tekstuur"
+  },
+  {
+   "id": 101,
+   "text": "Säravama välimusega naha jaoks"
+  },
+  {
+   "id": 102,
+   "text": "Acetyl Hexapeptide-8"
+  },
+  {
+   "id": 103,
+   "text": "Peptiid"
+  },
+  {
+   "id": 104,
+   "text": "Acetyl Hexapeptide-8 seerumi tekstuur"
+  },
+  {
+   "id": 105,
+   "text": "Siledama välimusega naha jaoks"
+  },
+  {
+   "id": 106,
+   "text": "Sodium Hyaluronate"
+  },
+  {
+   "id": 107,
+   "text": "Hüaluroonhape"
+  },
+  {
+   "id": 108,
+   "text": "Sodium Hyaluronate seerumi tekstuur"
+  },
+  {
+   "id": 109,
+   "text": "Sügava niisutuse jaoks"
+  },
+  {
+   "id": 110,
+   "text": "Panthenol"
+  },
+  {
+   "id": 111,
+   "text": "Pro-vitamiin B5"
+  },
+  {
+   "id": 112,
+   "text": "Pehme, mugava naha jaoks"
+  },
+  {
+   "id": 113,
+   "text": "Kosmeetiline seerum välispidiseks kasutamiseks. Ainult välispidiseks kasutamiseks. Väldi silmi. Ärrituse tekkimisel lõpeta kasutamine."
+  },
+  {
+   "id": 114,
+   "text": "Kuidas kasutada"
+  },
+  {
+   "id": 115,
+   "text": "Kanna 2 kuni 4 pumpa puhtale ja kuivale nahale, kaks korda päevas. Järgi hommikul niisutaja või päikesekaitsega."
+  },
+  {
+   "id": 116,
+   "text": "Hea teada"
+  },
+  {
+   "id": 117,
+   "text": "Ainult välispidiseks kasutamiseks. Väldi silmi. Ärrituse tekkimisel lõpeta kasutamine. Hoia lastele kättesaamatus kohas. Ära kasuta kahjustatud nahal. Hoia jahedas, kuivas kohas."
+  },
+  {
+   "id": 118,
+   "text": "Tutvu oma "
+  },
+  {
+   "id": 119,
+   "text": "seerumiga"
+  },
+  {
+   "id": 120,
+   "text": "PDRN Brightening Serum pudel"
+  },
+  {
+   "id": 121,
+   "text": "Esitlus ja heledus"
+  },
+  {
+   "id": 122,
+   "text": "Sügav niisutus"
+  },
+  {
+   "id": 123,
+   "text": "Peened jooned"
+  },
+  {
+   "id": 124,
+   "text": "Tegelikud tulemused"
+  },
+  {
+   "id": 125,
+   "text": "Enne ja pärast PDRN Brightening Serum kasutamist"
+  },
+  {
+   "id": 126,
+   "text": "Enne"
+  },
+  {
+   "id": 127,
+   "text": "Pärast"
+  },
+  {
+   "id": 128,
+   "text": "Enne ja pärast PDRN Brightening Serum kasutamist"
+  },
+  {
+   "id": 129,
+   "text": "Enne"
+  },
+  {
+   "id": 130,
+   "text": "Pärast"
+  },
+  {
+   "id": 131,
+   "text": "Enne ja pärast PDRN Brightening Serum kasutamist"
+  },
+  {
+   "id": 132,
+   "text": "Enne"
+  },
+  {
+   "id": 133,
+   "text": "Pärast"
+  },
+  {
+   "id": 134,
+   "text": "Tulemused on igaühel erinevad."
+  },
+  {
+   "id": 135,
+   "text": "Jätka selle plaaniga"
+  },
+  {
+   "id": 136,
+   "text": "Vaata teisi võimalusi"
+  },
+  {
+   "id": 137,
+   "text": "Ostu vormistamine"
+  },
+  {
+   "id": 138,
+   "text": "Alusta oma 30 päeva"
+  },
+  {
+   "id": 139,
+   "text": "Demokassa. Tasu ei võeta."
+  },
+  {
+   "id": 140,
+   "text": " See leht pole veel makse- ega täitmissüsteemiga ühendatud. Allolev nupp kontrollib sinu andmeid ja koostab täpse tellimuse kasuliku koormuse, et saaksid täpselt näha, mis saadetaks."
+  },
+  {
+   "id": 141,
+   "text": "$39"
+  },
+  {
+   "id": 142,
+   "text": "Telli ja säästa"
+  },
+  {
+   "id": 143,
+   "text": "$49"
+  },
+  {
+   "id": 144,
+   "text": "Ühekordne"
+  },
+  {
+   "id": 145,
+   "text": "Eesnimi"
+  },
+  {
+   "id": 146,
+   "text": "Perekonnanimi"
+  },
+  {
+   "id": 147,
+   "text": "Tänava aadress"
+  },
+  {
+   "id": 148,
+   "text": "Korter, sviit jne. "
+  },
+  {
+   "id": 149,
+   "text": "(valikuline)"
+  },
+  {
+   "id": 150,
+   "text": "Linn"
+  },
+  {
+   "id": 151,
+   "text": "Osariik"
+  },
+  {
+   "id": 152,
+   "text": "CA"
+  },
+  {
+   "id": 153,
+   "text": "Sihtnumber"
+  },
+  {
+   "id": 154,
+   "text": "Riik"
+  },
+  {
+   "id": 155,
+   "text": "Ameerika Ühendriigid"
+  },
+  {
+   "id": 156,
+   "text": "Kanada"
+  },
+  {
+   "id": 157,
+   "text": "Ühendkuningriik"
+  },
+  {
+   "id": 158,
+   "text": "Austraalia"
+  },
+  {
+   "id": 159,
+   "text": "Telefon "
+  },
+  {
+   "id": 160,
+   "text": "(valikuline, tarneuudiste jaoks)"
+  },
+  {
+   "id": 161,
+   "text": "Alusta minu tellimust, $39"
+  },
+  {
+   "id": 162,
+   "text": "Tellimus uueneb iga 30 päeva järel hinnaga $39. Peata või tühista igal ajal."
+  },
+  {
+   "id": 163,
+   "text": "Tava Labsi PDRN Brightening Serum pudel"
+  },
+  {
+   "id": 164,
+   "text": "Tellimus vastu võetud"
+  },
+  {
+   "id": 165,
+   "text": "Sinu plaan"
+  },
+  {
+   "id": 166,
+   "text": "algab nüüd."
+  },
+  {
+   "id": 167,
+   "text": "Demokassa. Makseid ei tehtud."
+  },
+  {
+   "id": 168,
+   "text": " Sinu tellimuse kasulik koormus salvestati sellesse brauserisse, et saaksid täpselt kontrollida, mida reaalne versioon saadab."
+  },
+  {
+   "id": 169,
+   "text": "Sinu ost kuvatakse rakenduses"
+  },
+  {
+   "id": 170,
+   "text": "Sinu plaan elab Tava rakenduses, igapäevaste hommiku- ja õhtumärgetega ning sinu seeria ja saadetise jälgimisega. Rakendus pole veel App Store'is. Pärast ostu vormistamist annavad sinu kinnitusleht ja e-kiri sulle "
+  },
+  {
+   "id": 171,
+   "text": "lunastuskoodi"
+  },
+  {
+   "id": 172,
+   "text": ". Kui rakenduse installid, logi sisse ja sisesta see kood ning sinu plaan, vastused ja tellimus on juba seal. Uuesti ostma ei pea."
+  },
+  {
+   "id": 173,
+   "text": "Vaata minu lunastuskoodi pärast ostu"
+  },
+  {
+   "id": 174,
+   "text": "Tava Labs · PDRN Brightening Serum asutajatele · Küsimused? talia@tavalabs.app"
+  }
+ ]
+}

@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "mirdzums un starojums"
+   "t": "gaišāka izskatīga āda"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Dibinātāji un satura veidotāji, kuri sevi prezentē katru dienu, savu rītu sāk vienādi. Blāva, nogurusi izskata āda ir viens no izplatītākajiem iemesliem, kāpēc cilvēki sāk seruma rutīnu. PDRN Brightening Serum ir veidots ap PDRN un peptīdiem vieglā formulā, kas radīta, lai uzlabotu gludas, mirdzošas ādas izskatu, liekot tai izskatīties kuplai, mīkstai un atsvaidzinātai no rīta un vakarā."
+   "t": "Dibinātāji un radītāji, kuri katru dienu sevi prezentē, sāk savu rītu tāpat. Blāva, nogurusi izskatīga āda ir viens no biežākajiem iemesliem, kāpēc cilvēki sāk seruma rutīnu. PDRN Brightening Serum ir veidots ap PDRN un peptīdiem vieglā formulā, kas palīdz ādai izskatīties gludai un gaišai, no rīta un vakarā."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Dibinātāji un satura veidotāji, kuri sevi prezentē katru dienu, savu rītu sāk vienādi. Smalkās līnijas parasti ir pirmā lieta, kuras dēļ cilvēki vēlas serumu. Šī formula apvieno Acetyl Hexapeptide-8 ar PDRN, sastāvdaļas, kas izvēlētas, lai atbalstītu ādu, kas izskatās gludāka un mirdzošāka, vienā solī divas reizes dienā. Nekāda desmit soļu rutīna nav vajadzīga."
+   "t": "Dibinātāji un radītāji, kuri katru dienu sevi prezentē, sāk savu rītu tāpat. Smalkas līnijas parasti ir pirmā lieta, kuras dēļ cilvēki vēlas serumu. Šī formula apvieno acetilheksapeptīdu-8 ar PDRN, divas sastāvdaļas, kas izvēlētas, lai atbalstītu ādu, kas izskatās gludāka un gaišāka, vienā solī, divas reizes dienā. Desmit soļu rutīna nav nepieciešama."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Dibinātāji un satura veidotāji, kuri sevi prezentē katru dienu, savu rītu sāk vienādi. Āda, kas līdz pusdienlaikam šķiet savilkta un izslāpusi, ir tieši tas, kam šis serums ir radīts. Glicerīna, Sodium PCA un Sodium Hyaluronate maisījums nodrošina dziļu mitrināšanu, bet Panthenol kopj, lai āda justos komfortabli un izskatītos kupla, nevis taukaina."
+   "t": "Dibinātāji un radītāji, kuri katru dienu sevi prezentē, sāk savu rītu tāpat. Āda, kas līdz pusdienlaikam jūtas savilkta un sausa, ir tieši tas, kam šis serums ir radīts. Glicerīna, nātrija PCA un nātrija hialuronāta maisījums nodrošina dziļu mitrināšanu, kamēr pantenols kondicionē ādu, lai tā justos ērti un mitrināta, nevis taukaina."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Dibinātāji un satura veidotāji, kuri sevi prezentē katru dienu, savu rītu sāk vienādi. Nevienmērīga izskata sejas krāsa ir izplatīta neapmierinātība. PDRN un peptīdi palīdz veicināt mirdzošāku, dzīvīgāka izskata sejas krāsu, un vieglā formula ātri un viegli iesūcas, vienkāršs solis divas reizes dienā ceļā uz vienmērīgāku izskatu."
+   "t": "Dibinātāji un radītāji, kuri katru dienu sevi prezentē, sāk savu rītu tāpat. Nevienmērīga sejas krāsa ir bieža vilšanās. PDRN un peptīdi palīdz ādai izskatīties gaišākai un vienmērīgākai, un vieglā formula ātri iesūcas vienkāršā solī, ko lieto divas reizes dienā."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Palīdz veicināt mirdzošāku, dzīvīgāka izskata sejas krāsu un uzlabo gludas, mirdzošas ādas izskatu."
+   "t": "Palīdz ādai izskatīties gaišākai, vienmērīgākai un gludai."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "Mitrināšanas maisījums, kas piesaista mitrumu kuplai, komfortablai sajūtai un zīdaini gludai tekstūrai."
+   "t": "Mitrināšanas maisījums, kas ievelk mitrumu, ādai, kas jūtas ērti un gluda."
   },
   {
    "k": "ing.panthenol.name",
@@ -124,7 +124,7 @@
   {
    "k": "ing.panthenol.text",
    "q": "dq",
-   "t": "Kopj ādu, liekot tai justies mīkstai un komfortablai, saudzīga bāze ādai, kas viegli reaģē."
+   "t": "Kondicionē ādu, atstājot to mīkstu un ērtu, maigs pamats ādai, kas viegli reaģē."
   },
   {
    "k": "ramp.often.1",

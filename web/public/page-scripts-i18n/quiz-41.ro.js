@@ -12,23 +12,23 @@ const FUNNEL_INTAKE_URL = "https://vuzrpgkqytzvbbxwsvqr.supabase.co/functions/v1
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { subscribe: 39, one_time: 49 };
 
-const GOAL_LABEL = { radiance: "strălucire și luminozitate", fine_lines: "linii fine", hydration: "hidratare profundă", even_tone: "un ton uniform" };
+const GOAL_LABEL = { radiance: "piele care arată mai luminoasă", fine_lines: "linii fine", hydration: "hidratare profundă", even_tone: "un ton uniform" };
 const SKIN_LABEL = { dry: "Uscată", oily: "Grasă", combination: "Mixtă", sensitive: "Sensibilă", not_sure: "Încă îmi dau seama" };
 const CONCERN_LABEL = { dullness: "ternitatea", fine_lines: "linii fine", uneven_tone: "tonul neuniform", texture: "textura aspră", dryness: "uscăciunea" };
 
 const NOT_ALONE = {
-  radiance: "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Pielea ternă, cu aspect obosit, este unul dintre cele mai frecvente motive pentru care oamenii încep o rutină cu serum. PDRN Brightening Serum este construit în jurul PDRN și al peptidelor, într-o formulă ușoară creată pentru a îmbunătăți aspectul pielii netede și luminoase, lăsând-o cu un aspect plin, moale și împrospătat, dimineața și seara.",
-  fine_lines: "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Liniile fine sunt de obicei primul lucru pentru care oamenii vor un serum. Această formulă combină Acetyl Hexapeptide-8 cu PDRN, ingrediente alese pentru a susține o piele care arată mai netedă și mai luminoasă, într-un singur pas, de două ori pe zi. Nu este nevoie de o rutină în zece pași.",
-  hydration: "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Pielea care se simte strânsă și însetată până la prânz este exact pentru ce este făcut acest serum. Un amestec de glicerină, Sodium PCA și Sodium Hyaluronate oferă hidratare profundă, în timp ce Panthenol condiționează, așa că pielea se simte confortabilă și arată plină, nu grasă.",
-  even_tone: "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Un ten cu aspect neuniform este o frustrare frecventă. PDRN și peptidele ajută la promovarea unui ten cu aspect mai luminos și mai vibrant, iar formula ușoară se absoarbe rapid și ușor, un pas simplu de două ori pe zi către un aspect mai uniform."
+  radiance: "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Pielea ternă, care arată obosită, este unul dintre cele mai frecvente motive pentru care oamenii încep o rutină cu ser. PDRN Brightening Serum este construit în jurul PDRN și peptidelor, într-o formulă ușoară care ajută pielea să arate netedă și luminoasă, dimineața și seara.",
+  fine_lines: "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Liniile fine sunt de obicei primul lucru pentru care oamenii vor un ser. Această formulă combină acetil hexapeptida-8 cu PDRN, două ingrediente alese pentru a susține o piele care arată mai netedă și mai luminoasă, într-un singur pas, de două ori pe zi. Nu este nevoie de o rutină în zece pași.",
+  hydration: "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Pielea care se simte strânsă și uscată până la prânz este exact pentru ce este creat acest ser. Un amestec de glicerină, sodium PCA și hialuronat de sodiu oferă hidratare profundă, în timp ce pantenolul îngrijește pielea, așa că se simte confortabilă și hidratată, nu grasă.",
+  even_tone: "Fondatorii și creatorii care se prezintă în fiecare zi își încep dimineața în același fel. Un ten care arată neuniform este o frustrare frecventă. PDRN și peptidele ajută pielea să arate mai luminoasă și mai uniformă, iar formula ușoară se absoarbe rapid, într-un pas simplu folosit de două ori pe zi."
 };
 
 /* Ingredient groups from the verified Supliful listing. Cosmetic language only. */
 const INGREDIENTS = [
-  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Ajută la promovarea unui ten cu aspect mai luminos și mai vibrant și îmbunătățește aspectul pielii netede și luminoase.", match: ["radiance", "ternitatea", "uneven_tone", "even_tone"] },
+  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Ajută pielea să arate mai luminoasă, mai uniformă și netedă.", match: ["radiance", "ternitatea", "uneven_tone", "even_tone"] },
   { key: "peptide", name: "Acetyl hexapeptide-8", text: "O peptidă care lucrează alături de PDRN pentru a susține o piele care arată mai netedă și mai uniformă.", match: ["fine_lines", "texture"] },
-  { key: "ha", name: "Acid hialuronic, glicerină și Sodium PCA", text: "Un amestec de hidratare care atrage umezeala pentru o senzație plină și confortabilă și o textură mătăsos de netedă.", match: ["hydration", "uscăciunea"] },
-  { key: "panthenol", name: "Panthenol", text: "Condiționează pielea, lăsând-o moale și confortabilă, o bază blândă pentru pielea care reacționează ușor.", match: ["sensitive"] }
+  { key: "ha", name: "Acid hialuronic, glicerină și Sodium PCA", text: "Un amestec de hidratare care atrage umezeala, pentru o piele care se simte confortabilă și netedă.", match: ["hydration", "uscăciunea"] },
+  { key: "panthenol", name: "Panthenol", text: "Îngrijește pielea, lăsând-o să se simtă moale și confortabilă, o bază blândă pentru pielea care reacționează ușor.", match: ["sensitive"] }
 ];
 
 const RAMPS = {

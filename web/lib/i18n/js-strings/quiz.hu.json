@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "ragyogás és kisugárzás"
+   "t": "ragyogóbb megjelenésű bőr"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Az alapítók és alkotók, akik minden nap bemutatkoznak, ugyanúgy kezdik a reggelüket. A fakó, fáradtnak tűnő bőr az egyik leggyakoribb ok, amiért az emberek szérumrutint kezdenek. A PDRN Brightening Serum a PDRN és a peptidek köré épül, könnyű formulában, amely a sima, ragyogó bőr látszatát hivatott javítani, és a bőrt teltnek, puhának és felfrissültnek mutatja, reggel és este."
+   "t": "Az alapítók és alkotók, akik minden nap bemutatják magukat, ugyanúgy kezdik a reggelüket. A fakó, fáradt megjelenésű bőr az egyik leggyakoribb ok, amiért az emberek szérumrutint kezdenek. A PDRN Brightening Serum a PDRN és peptidek köré épül, egy könnyű formulában, amely segít a bőrnek simának és ragyogónak látszani, reggel és este."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Az alapítók és alkotók, akik minden nap bemutatkoznak, ugyanúgy kezdik a reggelüket. A finom vonalak általában az első dolog, amiért az emberek szérumot szeretnének. Ez a formula az Acetyl Hexapeptide-8 összetevőt párosítja a PDRN-nel, olyan összetevőket, amelyeket azért választottak, hogy támogassák a simábbnak és ragyogóbbnak tűnő bőrt, egyetlen lépésben, naponta kétszer. Nincs szükség tízlépéses rutinra."
+   "t": "Az alapítók és alkotók, akik minden nap bemutatják magukat, ugyanúgy kezdik a reggelüket. A finom vonalak általában az első dolog, amiért az emberek szérumot akarnak. Ez a formula az acetil-hexapeptid-8-at PDRN-nel párosítja, két összetevőt, amelyeket a simább és ragyogóbb megjelenésű bőr támogatására választottak, egyetlen lépésben, naponta kétszer. Nincs szükség tízlépéses rutinra."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Az alapítók és alkotók, akik minden nap bemutatkoznak, ugyanúgy kezdik a reggelüket. A bőr, amely délre feszesnek és szomjasnak érzi magát, pontosan az, amire ez a szérum készült. A Glycerin, a Sodium PCA és a Sodium Hyaluronate keveréke mély hidratálást nyújt, miközben a Panthenol ápol, így a bőr kényelmesnek érzi magát, és teltnek tűnik, nem zsírosnak."
+   "t": "Az alapítók és alkotók, akik minden nap bemutatják magukat, ugyanúgy kezdik a reggelüket. A délre feszesnek és száraznak érződő bőr pontosan az, amire ez a szérum készült. Glicerin, nátrium PCA és nátrium-hialuronát keveréke mély hidratálást biztosít, miközben a pantenol kondicionálja a bőrt, így kényelmesnek és hidratáltnak érződik, nem zsírosnak."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Az alapítók és alkotók, akik minden nap bemutatkoznak, ugyanúgy kezdik a reggelüket. Az egyenetlennek tűnő arcszín gyakori frusztráció. A PDRN és a peptidek segítenek előmozdítani a ragyogóbb, élénkebbnek tűnő arcszínt, és a könnyű formula gyorsan és könnyen beszívódik, egyszerű lépés naponta kétszer az egyenletesebb megjelenés felé."
+   "t": "Az alapítók és alkotók, akik minden nap bemutatják magukat, ugyanúgy kezdik a reggelüket. Az egyenetlen megjelenésű arcszín gyakori frusztráció. A PDRN és a peptidek segítenek a bőrnek ragyogóbbnak és egyenletesebbnek látszani, és a könnyű formula gyorsan beszívódik, egy egyszerű lépésben, naponta kétszer használva."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Segít előmozdítani a ragyogóbb, élénkebbnek tűnő arcszínt, és javítja a sima, ragyogó bőr látszatát."
+   "t": "Segít a bőrnek ragyogóbbnak, egyenletesebbnek és simának látszani."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "Hidratáló keverék, amely magához vonzza a nedvességet a telt, kényelmes érzetért és a selymesen sima textúráért."
+   "t": "Hidratáló keverék, amely nedvességet von be, olyan bőrért, amely kényelmesnek és simának érződik."
   },
   {
    "k": "ing.panthenol.name",
@@ -124,7 +124,7 @@
   {
    "k": "ing.panthenol.text",
    "q": "dq",
-   "t": "Ápolja a bőrt, puhának és kényelmesnek hagyja, kíméletes alap a könnyen reagáló bőrnek."
+   "t": "Kondicionálja a bőrt, puhának és kényelmesnek hagyva azt, gyengéd alap könnyen reagáló bőrnek."
   },
   {
    "k": "ramp.often.1",

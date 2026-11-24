@@ -12,23 +12,23 @@ const FUNNEL_INTAKE_URL = "https://vuzrpgkqytzvbbxwsvqr.supabase.co/functions/v1
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { subscribe: 39, one_time: 49 };
 
-const GOAL_LABEL = { radiance: "hehku ja säteily", fine_lines: "hienot juonteet", hydration: "syvä kosteutus", even_tone: "tasainen sävy" };
+const GOAL_LABEL = { radiance: "kirkkaammalta näyttävä iho", fine_lines: "hienot juonteet", hydration: "syvä kosteutus", even_tone: "tasainen sävy" };
 const SKIN_LABEL = { dry: "Kuiva", oily: "Rasvainen", combination: "Sekaiho", sensitive: "Herkkä", not_sure: "Selvitän sitä vielä" };
 const CONCERN_LABEL = { dullness: "sameus", fine_lines: "hienot juonteet", uneven_tone: "epätasainen sävy", texture: "karhea rakenne", dryness: "kuivuus" };
 
 const NOT_ALONE = {
-  radiance: "Perustajat ja sisällöntuottajat, jotka esiintyvät joka päivä, aloittavat aamunsa samalla tavalla. Samea ja väsyneen näköinen iho on yksi yleisimmistä syistä, miksi ihmiset aloittavat seerumirutiinin. PDRN Brightening Serum on rakennettu PDRN:n ja peptidien ympärille kevyessä koostumuksessa, joka on suunniteltu parantamaan sileän ja säteilevän ihon ilmettä ja saamaan ihon näyttämään täyteläiseltä, pehmeältä ja virkistyneeltä, aamuin ja illoin.",
-  fine_lines: "Perustajat ja sisällöntuottajat, jotka esiintyvät joka päivä, aloittavat aamunsa samalla tavalla. Hienot juonteet ovat yleensä ensimmäinen asia, johon ihmiset haluavat seerumin. Tämä koostumus yhdistää Acetyl Hexapeptide-8:n ja PDRN:n, ainesosat, jotka on valittu tukemaan ihoa, joka näyttää sileämmältä ja säteilevämmältä, yhdessä vaiheessa, kahdesti päivässä. Kymmenen vaiheen rutiinia ei tarvita.",
-  hydration: "Perustajat ja sisällöntuottajat, jotka esiintyvät joka päivä, aloittavat aamunsa samalla tavalla. Iho, joka tuntuu kireältä ja janoiselta keskipäivään mennessä, on juuri sitä, mihin tämä seerumi on tehty. Glyseriinin, natrium PCA:n ja natriumhyaluronaatin sekoitus tarjoaa syvää kosteutusta, ja pantenoli hoitaa ihoa, joten iho tuntuu miellyttävältä ja näyttää täyteläiseltä, ei rasvaiselta.",
-  even_tone: "Perustajat ja sisällöntuottajat, jotka esiintyvät joka päivä, aloittavat aamunsa samalla tavalla. Epätasaisen näköinen iho on yleinen turhautumisen aihe. PDRN ja peptidit auttavat edistämään säteilevämpää ja elinvoimaisemman näköistä ihoa, ja kevyt koostumus imeytyy nopeasti ja helposti. Se on yksinkertainen vaihe kahdesti päivässä kohti tasaisempaa ilmettä."
+  radiance: "Perustajat ja sisällöntuottajat, jotka esittelevät itsensä joka päivä, aloittavat aamunsa samalla tavalla. Tylsältä ja väsyneeltä näyttävä iho on yksi yleisimmistä syistä, miksi ihmiset aloittavat seerumirutiinin. PDRN Brightening Serum on rakennettu PDRN:n ja peptidien ympärille, kevyeen koostumukseen, joka auttaa ihoa näyttämään sileältä ja kirkkaalta aamuin illoin.",
+  fine_lines: "Perustajat ja sisällöntuottajat, jotka esittelevät itsensä joka päivä, aloittavat aamunsa samalla tavalla. Juonteet ovat yleensä ensimmäinen asia, johon ihmiset haluavat seerumin. Tämä koostumus yhdistää asetyyliheksapeptidi-8:n PDRN:ään, kaksi ainesosaa, jotka on valittu tukemaan sileämmältä ja kirkkaammalta näyttävää ihoa, yhdessä vaiheessa kahdesti päivässä. Kymmenen vaiheen rutiinia ei tarvita.",
+  hydration: "Perustajat ja sisällöntuottajat, jotka esittelevät itsensä joka päivä, aloittavat aamunsa samalla tavalla. Iho, joka tuntuu kireältä ja kuivalta keskipäivään mennessä, on juuri sitä, mihin tämä seerumi on tehty. Glyseriinin, natrium-PCA:n ja natriumhyaluronaatin sekoitus tarjoaa syvää kosteutusta, kun taas pantenoli hoitaa ihoa, jotta se tuntuu mukavalta ja kosteutetulta, ei rasvaiselta.",
+  even_tone: "Perustajat ja sisällöntuottajat, jotka esittelevät itsensä joka päivä, aloittavat aamunsa samalla tavalla. Epätasaiselta näyttävä iho on yleinen turhautumisen aihe. PDRN ja peptidit auttavat ihoa näyttämään kirkkaammalta ja tasaisemmalta, ja kevyt koostumus imeytyy nopeasti, yksinkertaisessa vaiheessa, jota käytetään kahdesti päivässä."
 };
 
 /* Ingredient groups from the verified Supliful listing. Cosmetic language only. */
 const INGREDIENTS = [
-  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Auttaa edistämään säteilevämpää ja elinvoimaisemman näköistä ihoa ja parantaa sileän ja säteilevän ihon ilmettä.", match: ["radiance", "sameus", "uneven_tone", "even_tone"] },
+  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Auttaa ihoa näyttämään kirkkaammalta, tasaisemmalta ja sileältä.", match: ["radiance", "sameus", "uneven_tone", "even_tone"] },
   { key: "peptide", name: "Acetyl hexapeptide-8", text: "Peptidi, joka toimii yhdessä PDRN:n kanssa tukemaan ihoa, joka näyttää sileämmältä ja tasaisemmalta.", match: ["fine_lines", "texture"] },
-  { key: "ha", name: "Hyaluronic acid, glycerin & sodium PCA", text: "Kosteutussekoitus, joka vetää kosteutta puoleensa täyteläistä ja miellyttävää tunnetta sekä silkkisen sileää rakennetta varten.", match: ["hydration", "kuivuus"] },
-  { key: "panthenol", name: "Panthenol", text: "Hoitaa ihoa ja saa sen tuntumaan pehmeältä ja miellyttävältä. Se on ystävällinen pohja iholle, joka reagoi helposti.", match: ["sensitive"] }
+  { key: "ha", name: "Hyaluronic acid, glycerin & sodium PCA", text: "Kosteutussekoitus, joka vetää kosteutta puoleensa, iholle, joka tuntuu mukavalta ja sileältä.", match: ["hydration", "kuivuus"] },
+  { key: "panthenol", name: "Panthenol", text: "Hoitaa ihoa ja jättää sen pehmeäksi ja mukavaksi, hellävarainen pohja helposti reagoivalle iholle.", match: ["sensitive"] }
 ];
 
 const RAMPS = {

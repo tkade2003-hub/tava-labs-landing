@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "dawl u radjanza"
+   "t": "ġilda li tidher aktar luminuża"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Il fundaturi u l kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Ġilda matta u li tidher għajjiena hija waħda mill aktar raġunijiet komuni għaliex in nies jibdew rutina bis serum. Il PDRN Brightening Serum huwa mibni madwar il PDRN u l peptidi, f formula ħafifa mfassla biex ittejjeb id dehra ta ġilda lixxa u radjanti, u tħalliha tidher mimlija, ratba u friska, filgħodu u billejl."
+   "t": "Fundaturi u kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Ġilda matta u li tidher għajjiena hija waħda mill aktar raġunijiet komuni għaliex in nies jibdew rutina bis serum. Il PDRN Brightening Serum huwa mibni madwar PDRN u peptidi, f formula ħafifa li tgħin lill ġilda tidher lixxa u luminuża, filgħodu u billejl."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Il fundaturi u l kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Il linji fini huma ġeneralment l ewwel ħaġa li n nies iridu serum għaliha. Din il formula tgħaqqad l acetyl hexapeptide-8 mal PDRN, ingredjenti magħżula biex jappoġġaw ġilda li tidher aktar lixxa u luminuża, f pass wieħed, darbtejn kuljum. L ebda rutina ta għaxar passi meħtieġa."
+   "t": "Fundaturi u kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Il linji fini huma ġeneralment l ewwel ħaġa li n nies iridu serum għaliha. Din il formula tgħaqqad acetyl hexapeptide-8 ma PDRN, żewġ ingredjenti magħżula biex jappoġġjaw ġilda li tidher aktar lixxa u luminuża, f pass wieħed, darbtejn kuljum. Ebda rutina ta għaxar passi meħtieġa."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Il fundaturi u l kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Ġilda li tħossha ssikkata u għatxana sa nofsinhar hija eżatt dak li dan is serum huwa magħmul għalih. Taħlita ta glycerin, sodium PCA u sodium hyaluronate tipprovdi idratazzjoni fil fond, filwaqt li l panthenol jikkundizzjona, biex il ġilda tħossha komda u tidher mimlija, mhux żejtnija."
+   "t": "Fundaturi u kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Ġilda li tħossha issikkata u niexfa sa nofsinhar hija eżattament dak li dan is serum huwa magħmul għalih. Taħlita ta glycerin, sodium PCA, u sodium hyaluronate tipprovdi idratazzjoni fil fond, filwaqt li l pantenol jikkundizzjona l ġilda, sabiex tħossha komda u idratata, mhux żejtnija."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Il fundaturi u l kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Karnaġġjon li jidher mhux uniformi huwa frustrazzjoni komuni. Il PDRN u l peptidi jgħinu biex jippromwovu karnaġġjon li jidher aktar luminuż u vibranti, u l formula ħafifa tiġi assorbita malajr u faċilment, pass sempliċi darbtejn kuljum lejn dehra aktar uniformi."
+   "t": "Fundaturi u kreaturi li jippreżentaw lilhom infushom kuljum jibdew filgħodu tagħhom bl istess mod. Karnaġġjon li jidher mhux uniformi huwa frustrazzjoni komuni. PDRN u peptidi jgħinu lill ġilda tidher aktar luminuża u uniformi, u l formula ħafifa tiġi assorbita malajr, f pass sempliċi użat darbtejn kuljum."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Jgħin biex jippromwovi karnaġġjon li jidher aktar luminuż u vibranti u jtejjeb id dehra ta ġilda lixxa u radjanti."
+   "t": "Jgħin lill ġilda tidher aktar luminuża, aktar uniformi u lixxa."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "Taħlita ta idratazzjoni li tiġbed l umdità għal sensazzjoni mimlija u komda u nisġa lixxa bħall ħarir."
+   "t": "Taħlita ta idratazzjoni li tiġbed l umdità, għal ġilda li tħossha komda u lixxa."
   },
   {
    "k": "ing.panthenol.name",
@@ -124,7 +124,7 @@
   {
    "k": "ing.panthenol.text",
    "q": "dq",
-   "t": "Jikkundizzjona l ġilda, u jħalliha ratba u komda, bażi ġentili għal ġilda li tirreaġixxi faċilment."
+   "t": "Tikkundizzjona l ġilda, u tħalliha tħossha ratba u komda, bażi ġentili għal ġilda li tirreaġixxi faċilment."
   },
   {
    "k": "ramp.often.1",

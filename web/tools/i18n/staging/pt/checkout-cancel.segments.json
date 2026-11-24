@@ -1,0 +1,67 @@
+{
+ "slug": "checkout-cancel",
+ "title": "Finalização Cancelada | Nenhum Valor Cobrado | Tava Labs",
+ "description": "Não foi feito qualquer débito. O seu plano e as suas respostas da Tava Labs estão guardados, para poder concluir a sua encomenda mais tarde, quando estiver pronto.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "Finalização cancelada"
+  },
+  {
+   "id": 4,
+   "text": "Sem cobrança. "
+  },
+  {
+   "id": 5,
+   "text": "Nada se perdeu."
+  },
+  {
+   "id": 6,
+   "text": "Saiu da finalização antes de terminar, pelo que "
+  },
+  {
+   "id": 7,
+   "text": "o seu cartão não foi cobrado"
+  },
+  {
+   "id": 8,
+   "text": ", nem um cêntimo. E o seu trabalho não foi em vão: as respostas que deu e o plano de 30 dias que construímos a partir delas estão guardados no email que introduziu."
+  },
+  {
+   "id": 9,
+   "text": "Quando estiver pronto, continue de onde parou. Responda novamente às perguntas rápidas com o mesmo email e o seu plano será reconstruído exatamente como estava, depois termine na finalização segura."
+  },
+  {
+   "id": 10,
+   "text": "Voltar ao meu plano de 30 dias"
+  },
+  {
+   "id": 11,
+   "text": "Mudou de ideias de vez? Não há qualquer problema, nada foi cobrado e não há nada para cancelar. Questões? Envie email para "
+  },
+  {
+   "id": 12,
+   "text": "talia@tavalabs.app"
+  },
+  {
+   "id": 13,
+   "text": "."
+  },
+  {
+   "id": 14,
+   "text": "Tava Labs · PDRN Brightening Serum para fundadores · Questões? talia@tavalabs.app"
+  }
+ ]
+}

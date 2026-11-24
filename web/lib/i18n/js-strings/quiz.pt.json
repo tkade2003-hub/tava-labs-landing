@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "brilho e luminosidade"
+   "t": "pele com um aspeto mais luminoso"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Os fundadores e criadores que se apresentam todos os dias começam a manhã da mesma forma. Uma pele baça e com aspeto cansado é um dos motivos mais comuns para começar uma rotina de sérum. O PDRN Brightening Serum é construído em torno do PDRN e dos péptidos, numa fórmula leve pensada para melhorar o aspeto de uma pele suave e radiante, deixando-a com um aspeto cheio, macio e renovado, de manhã e à noite."
+   "t": "Fundadores e criadores que se apresentam todos os dias começam a manhã da mesma forma. Uma pele baça e com um aspeto cansado é uma das razões mais comuns para as pessoas começarem uma rotina com um sérum. O PDRN Brightening Serum é construído em torno do PDRN e de péptidos, numa fórmula leve que ajuda a pele a parecer suave e luminosa, de manhã e à noite."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Os fundadores e criadores que se apresentam todos os dias começam a manhã da mesma forma. As linhas finas são normalmente a primeira coisa para a qual as pessoas querem um sérum. Esta fórmula combina o acetyl hexapeptide-8 com o PDRN, ingredientes escolhidos para apoiar uma pele com aspeto mais suave e luminoso, num só passo, duas vezes por dia. Não é necessária uma rotina de dez passos."
+   "t": "Fundadores e criadores que se apresentam todos os dias começam a manhã da mesma forma. As linhas finas são normalmente a primeira coisa para a qual as pessoas procuram um sérum. Esta fórmula combina acetyl hexapeptide-8 com PDRN, dois ingredientes escolhidos para apoiar uma pele que parece mais suave e luminosa, num único passo, duas vezes por dia. Não é necessária nenhuma rotina de dez passos."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Os fundadores e criadores que se apresentam todos os dias começam a manhã da mesma forma. Uma pele que se sente repuxada e com sede a meio do dia é exatamente aquilo para que este sérum foi feito. Uma mistura de glicerina, PCA de sódio e hialuronato de sódio proporciona hidratação profunda, enquanto o pantenol condiciona, para que a pele se sinta confortável e pareça cheia, e não gordurosa."
+   "t": "Fundadores e criadores que se apresentam todos os dias começam a manhã da mesma forma. Uma pele que se sente repuxada e seca a meio do dia é exatamente aquilo para que este sérum foi feito. Uma mistura de glicerina, PCA de sódio e hialuronato de sódio proporciona uma hidratação profunda, enquanto o pantenol condiciona a pele, para que se sinta confortável e hidratada, não oleosa."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Os fundadores e criadores que se apresentam todos os dias começam a manhã da mesma forma. Uma tez com aspeto irregular é uma frustração comum. O PDRN e os péptidos ajudam a promover uma tez com aspeto mais luminoso e vibrante, e a fórmula leve absorve de forma rápida e fácil, um passo simples duas vezes por dia rumo a um aspeto mais uniforme."
+   "t": "Fundadores e criadores que se apresentam todos os dias começam a manhã da mesma forma. Uma tez com um aspeto irregular é uma frustração comum. O PDRN e os péptidos ajudam a pele a parecer mais luminosa e mais uniforme, e a fórmula leve absorve rapidamente, num passo simples usado duas vezes por dia."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Ajuda a promover uma tez com aspeto mais luminoso e vibrante e melhora o aspeto de uma pele suave e radiante."
+   "t": "Ajuda a pele a parecer mais luminosa, mais uniforme e suave."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "Uma mistura de hidratação que atrai a humidade para uma sensação cheia e confortável e uma textura sedosa e suave."
+   "t": "Uma mistura de hidratação que atrai a humidade, para uma pele que se sente confortável e suave."
   },
   {
    "k": "ing.panthenol.name",
@@ -124,7 +124,7 @@
   {
    "k": "ing.panthenol.text",
    "q": "dq",
-   "t": "Condiciona a pele, deixando-a macia e confortável, uma base delicada para peles que reagem facilmente."
+   "t": "Condiciona a pele, deixando-a suave e confortável, uma base suave para a pele que reage facilmente."
   },
   {
    "k": "ramp.often.1",

@@ -2,15 +2,15 @@
  "meta": {
   "home": {
    "title": "PDRN Brightening Serum pro podnikatele | Tava Labs",
-   "description": "Péče o pleť pro podnikatele. PDRN Brightening Serum spojuje PDRN, peptidy a kyselinu hyaluronovou pro zářivou a hydratovanou pleť. $49 jednorázově nebo $39 měsíčně."
+   "description": "Každodenní pleťové sérum pro zakladatele a majitele firem. PDRN Brightening Serum s PDRN, peptidy a kyselinou hyaluronovou pro pleť, která vypadá jasnější a hydratovaná. $49 jednorázově nebo $39 měsíčně."
   },
   "product": {
    "title": "PDRN Brightening Serum pro podnikatele | Tava Labs",
-   "description": "PDRN Brightening Serum od Tava Labs spojuje PDRN, peptidy a hyaluronát sodný pro zářivou a hydratovanou pleť v jediném každodenním kroku. Vytvořeno pro zakladatele, provozovatele i tvůrce. $49 jednorázově nebo $39 měsíčně."
+   "description": "PDRN Brightening Serum od Tava Labs je každodenní pleťové sérum s PDRN, peptidy a sodium hyaluronate pro pleť, která vypadá jasnější a hydratovaná. Vyrobeno pro zakladatele a majitele firem. $49 jednorázově nebo $39 měsíčně."
   },
   "about": {
-   "title": "O Tava Labs | Péče o pleť pro ambiciózní",
-   "description": "Tava Labs tvoří péči o pleť pro ambiciózní. Poznejte tým, který stojí za PDRN Brightening Serum, každodenní rutinou vytvořenou pro zakladatele a profesionály."
+   "title": "O Tava Labs | Pleťové sérum pro zakladatele",
+   "description": "Tava Labs vyrábí jeden produkt, PDRN Brightening Serum, každodenní pleťové sérum pro zakladatele a majitele firem. Přečtěte si, kdo jsme a proč jsme ho vyrobili."
   },
   "ingredients": {
    "title": "Složení PDRN Brightening Serum | Tava Labs",
@@ -34,7 +34,7 @@
   },
   "blog": {
    "title": "The Tava Journal | Pleť, spánek a stres pro zakladatele",
-   "description": "Věda o spánku, výzkum stresu a zdraví pleti pro zakladatele a profesionály, plus praktické rutiny, jak v práci vypadat upraveně."
+   "description": "Věda o spánku, výzkum stresu a zdraví pleti pro zakladatele a majitele firem, plus praktické rutiny pro odpočatý vzhled v práci."
   },
   "quiz": {
    "title": "Kožní kvíz | Sestavte si svůj osobní plán séra | Tava Labs",
@@ -42,11 +42,11 @@
   },
   "checkoutSuccess": {
    "title": "Objednávka potvrzena | Vaše PDRN Brightening Serum | Tava Labs",
-   "description": "Vaše objednávka PDRN Brightening Serum od Tava Labs je potvrzena. Váš propojovací kód spojí tento nákup s aplikací, kam se s vámi přesune váš plán, vaše odpovědi i objednávka."
+   "description": "Vaše objednávka PDRN Brightening Serum od Tava Labs je potvrzena. Váš kód pro uplatnění spojuje tento nákup s aplikací, kde můžete vidět svůj plán, své odpovědi na kvíz a svou objednávku."
   },
   "checkoutCancel": {
    "title": "Pokladna zrušena | Nebyla účtována žádná částka | Tava Labs",
-   "description": "Nebyla účtována žádná částka. Váš plán Tava Labs i vaše odpovědi jsou uložené, takže můžete pokračovat přesně tam, kde jste skončili, až budete připraveni."
+   "description": "Nebyl účtován žádný poplatek. Váš plán a odpovědi Tava Labs jsou uloženy, takže objednávku můžete dokončit později, až budete připraveni."
   },
   "login": {
    "title": "Přihlášení | Tava Labs",
@@ -92,7 +92,7 @@
   "openMenu": "Otevřít menu",
   "closeMenu": "Zavřít menu",
   "language": "Jazyk",
-  "tagline": "The Science of Attractive Health",
+  "tagline": "PDRN Brightening Serum pro zakladatele",
   "shopHeading": "Obchod",
   "contactHeading": "Kontaktujte nás",
   "infoHeading": "Informace",
@@ -114,17 +114,17 @@
    "blog": "Blog",
    "research": "Výzkum"
   },
-  "newsletterHeading": "Mějte přehled o všem kolem Tava",
+  "newsletterHeading": "Získejte aktualizace Tava Labs e-mailem",
   "newsletter": {
    "placeholder": "Váš e-mail",
    "subscribe": "Odebírat",
    "sending": "Odesílání...",
-   "done": "Jste v tom. Vítejte na seznamu pro zářivou pleť.",
+   "done": "Jste přihlášeni k odběru. Děkujeme.",
    "error": "Něco se pokazilo, zkuste to prosím znovu."
   },
   "disclaimer1": "PDRN Brightening Serum je kosmetický produkt. Není určen k diagnostice, léčbě, vyléčení ani prevenci jakékoli nemoci. Jednotlivé výsledky se mohou lišit.",
   "disclaimer2": "Všechny prodeje jsou konečné. Před objednáním si prosím přečtěte naše zásady vrácení zboží.",
-  "copyright": "© 2026 Tava Labs · The Science of Attractive Health",
+  "copyright": "© 2026 Tava Labs · PDRN Brightening Serum pro zakladatele",
   "notFoundLabel": "Tava Labs",
   "notFoundTitle": "Stránka nebyla nalezena",
   "notFoundBody": "Tato stránka tu není. Možná byla přesunuta nebo je adresa neúplná.",
@@ -140,19 +140,19 @@
  },
  "hero": {
   "ariaLabel": "PDRN Brightening Serum",
-  "pill": "Pro toho, kdo stojí v čele",
-  "line1": "Upravení ještě před",
-  "line2": "prvním hovorem.",
-  "sub": "Dvě až čtyři kapky PDRN Brightening Serum, ráno a večer, pro pleť, která vypadá jasná, hydratovaná a hladká od prvního hovoru po poslední.",
+  "pill": "Pro zakladatele a majitele firem",
+  "line1": "Každodenní pleťové sérum pro",
+  "line2": "jasnější, hladší pleť.",
+  "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Aplikujte dvě až čtyři kapky ráno a večer. $49 jednorázově nebo $39 měsíčně.",
   "cardAria": "PDRN Brightening Serum, stránka produktu",
-  "onSetPill": "Na place",
-  "onSetCaption": "Klid pod světly reflektorů",
+  "onSetPill": "Před kamerou",
+  "onSetCaption": "Pro natáčení a videohovory",
   "onSetAlt": "Zakladatel sedící ve studiu čelem ke kameře",
-  "morningPill": "Ranní rituál",
-  "morningCaption": "U zrcadla hned po ránu",
+  "morningPill": "Ranní rutina",
+  "morningCaption": "Aplikujte u zrcadla každé ráno",
   "morningAlt": "Zakladatel si nanáší sérum u koupelnového zrcadla v ranním světle",
   "widePill": "Ve dne i v noci",
-  "wideHead": "Jedna lahvička. Každý den.",
+  "wideHead": "Jedna lahvička, používaná ráno a večer.",
   "priceLine": "$49 jednorázově nebo $39 měsíčně",
   "talia": {
    "baseline": "Výchozí stav",
@@ -167,27 +167,27 @@
  "home": {
   "introTitleLead": "Jasnější, hydratovaná,",
   "introTitleAccent": "zdravě vypadající pleť",
-  "introBody": "Podnikatelé žijí před kamerou i v zasedačce. Prezentujete investorům, uzavíráte obchody na prodejních hovorech a natáčíte video, které prodává produkt. Vaše tvář je součástí prezentace. PDRN Brightening Serum je jeden lehký, rychle se vstřebávající krok s PDRN, peptidy a kyselinou hyaluronovou. Pomáhá pleti vypadat jasnější, hloubkově hydratovaná a hladká. Dvě minuty, dvakrát denně, a přicházíte upravení, odpočatí a připravení.",
-  "marqueeTagline": "The Science of Attractive Health",
-  "marqueeSlogan": "Péče o pleť pro ambiciózní",
-  "buildersTitle": "Vytvořeno pro ty, kdo budují",
+  "introBody": "Zakladatelé a majitelé firem tráví své dny na schůzkách, prodejních hovorech a v nahraných videích. Váš obličej je po celou dobu na obrazovce i v místnosti. PDRN Brightening Serum je jeden lehký krok s PDRN, peptidy a kyselinou hyaluronovou. Rychle se vstřebává a pomáhá pleti vypadat jasnější, hydratovaná a hladká. Dvě minuty, dvakrát denně.",
+  "marqueeTagline": "Jedno sérum, ráno a večer",
+  "marqueeSlogan": "Vyrobeno pro zakladatele a majitele firem",
+  "buildersTitle": "Vyrobeno pro zakladatele a majitele firem",
   "buildersTagline": "Budujte své podnikání. Nezanedbávejte sebe.",
-  "buildersBody": "Jako podnikatel neustále prezentujete. Představujete svůj projekt investorům osobně, prodáváte na videohovorech a natáčíte obsah, který si musí získat důvěru během pár sekund. Vypadat připraveně a klidně není marnivost. Je to součást toho, jak prezentujete svou firmu. Jednoduchá každodenní rutina patří do operačního systému zakladatele vedle dobrého šatníku, kvalitního notebooku a systému, na který se můžete spolehnout.",
+  "buildersBody": "Zakladatelé a majitelé firem prezentují celý den. Prezentujete investorům osobně, prodáváte při videohovorech a nahráváte videa pro zákazníky. Vypadat čistě a odpočatě je součástí dobré prezentace vaší firmy. Krátká každodenní rutina péče o pleť patří vedle dobrého šatníku a spolehlivého notebooku jako základní údržba. PDRN Brightening Serum trvá dvě minuty, ráno a večer.",
   "pitchAlt": "Zakladatel prezentuje svůj nápad investorovi",
   "pitchTitle": "Při prezentaci",
-  "pitchBody": "Naproti investorovi si místnost nejdřív přečte vás, teprve pak vaši prezentaci. Přijďte jako člověk, který stojí za firmou hodnou podpory: odpočatí, upravení a připravení.",
+  "pitchBody": "Když prezentujete investorům osobně, vidí vás dříve, než uvidí vaše slajdy. Každodenní rutina se sérem pomáhá vaší pleti vypadat v ten den jasně, hydratovaně a odpočatě.",
   "cameraAlt": "Zakladatel mluví před kamerou",
   "cameraTitle": "Před kamerou",
-  "cameraBody": "Při natáčení, v podcastu nebo na prodejním hovoru ukáže objektiv nejdřív probdělé noci. Sebejistota před kamerou začíná tím, jak o sebe pečujete ještě předtím, než stisknete nahrávání.",
-  "maintenanceTitle": "Každodenní údržba podnikatele.",
-  "maintenanceBody": "Jedno sérum, ráno a večer. Vypadejte připraveně. Cítíte se sebejistě. Přicházejte připravení.",
-  "motionTitle": "Tava v pohybu",
-  "motionBody": "Řada tvůrců a podnikatelů si nás už oblíbila.",
+  "cameraBody": "Při natáčení videa, podcastu nebo prodejním hovoru kamera ukazuje unavenou pleť zblízka. Dvouminutová rutina ráno a večer pomáhá vaší pleti vypadat odpočatě, než začnete nahrávat.",
+  "maintenanceTitle": "Jedno sérum je celá rutina.",
+  "maintenanceBody": "Aplikujte dvě až čtyři kapky PDRN Brightening Serum na čistou, suchou pleť ráno a večer a poté pokračujte hydratačním krémem. Celá rutina trvá asi dvě minuty denně.",
+  "motionTitle": "Sledujte videa zákazníků",
+  "motionBody": "Zakladatelé a tvůrci, kteří používají PDRN Brightening Serum, zaznamenaní na videu.",
   "playVideo": "Přehrát video",
   "videoPlayer": "Přehrávač videa",
   "closeVideo": "Zavřít video",
-  "freeFromTitleLead": "Kvalitní složky, zkombinované",
-  "freeFromTitleAccent": "s péčí.",
+  "freeFromTitleLead": "Co není",
+  "freeFromTitleAccent": "ve složení.",
   "freeFromSub": "To, co vynecháváme, je stejně důležité jako to, co přidáváme.",
   "freeFromItems": [
    {
@@ -224,22 +224,22 @@
    }
   ],
   "founderLabel": "Vzkaz od našeho zakladatele",
-  "founderQuote": "„Zdravá pleť je to nejpřitažlivější, co si můžete obléct.“",
-  "founderBody1": "To je filozofie, která stojí za Tava Labs, The Science of Attractive Health. PDRN Brightening Serum je ten jeden krok, kolem kterého je celá rutina postavená: dvě minuty, dvakrát denně, ráno a večer.",
-  "founderBody2": "Podívejte se na film a poslechněte si vědu, která za ním stojí, našimi vlastními slovy.",
+  "founderQuote": "„Jedno sérum, dvě minuty, ráno a večer. To je celá rutina.“",
+  "founderBody1": "To je myšlenka, která stojí za Tava Labs. PDRN Brightening Serum je jediný krok, na kterém je rutina postavena: dvě minuty, dvakrát denně, ráno a večer.",
+  "founderBody2": "Podívejte se na video a poslechněte si, proč jsme ho vyrobili, našimi vlastními slovy.",
   "founderPhilosophy": "Filozofie Tava Labs",
-  "founderVideoAria": "Film Tava Labs, věda za PDRN Brightening Serum",
+  "founderVideoAria": "Video Tava Labs, proč jsme vyrobili PDRN Brightening Serum",
   "shopSerum": "Koupit sérum",
   "journalTitle": "The Tava Journal",
-  "journalSub": "O spánku, stresu a o tom, jak přicházet připravení.",
+  "journalSub": "Články o spánku, stresu a pleti pro zakladatele.",
   "readJournal": "Číst Journal",
   "readStory": "Číst příběh"
  },
  "appTeaser": {
   "label": "Již brzy",
-  "lead": "Vaše rutina, vaše laboratorní testy i vaše objednávky dostanou vlastní domov.",
-  "headlineLead": "Jedna aplikace.",
-  "headlineTrail": "Každý den.",
+  "lead": "Vaše rutina, vaše laboratorní výsledky a vaše objednávky, vše v aplikaci Tava Labs.",
+  "headlineLead": "Vaše sérum, laboratoře a objednávky",
+  "headlineTrail": "v jedné aplikaci.",
   "scroll": "Posunout",
   "caption": "Aplikace Tava Labs spojuje váš plán séra, vaši každodenní rutinu, vaše laboratorní panely a výsledky i vaše objednávky na jedno místo. Vytvořeno pro iPhone.",
   "features": [
@@ -249,7 +249,7 @@
    },
    {
     "title": "Série a pokrok",
-    "desc": "Vaše série i to, co zbývá, přehledně na první pohled."
+    "desc": "Vaše aktuální série a dny zbývající ve vašem plánu."
    },
    {
     "title": "Laboratorní panely a výsledky",
@@ -257,7 +257,7 @@
    },
    {
     "title": "Objednávky a doplnění",
-    "desc": "Objednávky a doplnění bez hledání."
+    "desc": "Podívejte se na své objednávky a data doplnění na jednom místě."
    }
   ],
   "phone": {
@@ -308,9 +308,9 @@
    "eyebrow": "PÉČE O PLEŤ",
    "heroTitleLead": "Vaše příští schůzka",
    "heroTitleAccent": "začíná u vás.",
-   "heroCopy": "Vytvořeno pro podnikatele, kteří prezentují, prodávají a natáčejí před kamerou. Jedno každodenní sérum postavené kolem PDRN pro pleť, která vypadá upraveně a odpočatě v místnosti i před objektivem.",
+   "heroCopy": "Vytvořeno pro podnikatele, kteří prezentují, prodávají a nahrávají před kamerou. Jedno každodenní sérum, postavené na PDRN, pro pleť, která vypadá jasně a odpočatě v místnosti i před kamerou.",
    "heroFinePrint": "Kosmetická péče o pleť. Není určena k diagnostice, léčbě, vyléčení ani prevenci jakékoli nemoci.",
-   "stamp": "PÉČE O PLEŤ PRO AMBICIÓZNÍ",
+   "stamp": "PÉČE O PLEŤ PRO ZAKLADATELE",
    "primaryCta": "Přidat do rutiny",
    "secondaryCta": "Zobrazit složení",
    "optionsEyebrow": "NABÍDKA",
@@ -326,7 +326,7 @@
      "badges": [
       "Bestseller"
      ],
-     "description": "Každodenní sérum pro zářivou, hydratovanou a zdravě vypadající pleť. $39 měsíčně v programu Subscribe and Save.",
+     "description": "Každodenní sérum pro pleť, která vypadá jasnější, hydratovaná a zdravá. $39 měsíčně při Subscribe and Save.",
      "linkLabel": "Zobrazit sérum"
     },
     {
@@ -725,7 +725,7 @@
   "pricePerUnit": "/ 30ml (1 fl oz)",
   "subPrice": "nebo $39 měsíčně v programu Subscribe and Save",
   "bullets": [
-   "PDRN, Acetyl Hexapeptide-8 a kyselina hyaluronová na podporu hladší a zářivěji vypadající pleti.",
+   "PDRN, Acetyl Hexapeptide-8 a kyselina hyaluronová, pro podporu pleti, která vypadá hladší a jasnější.",
    "Hloubková hydratace díky glycerinu, sodium PCA a panthenolu.",
    "100% netestováno na zvířatech, bez parfemace, bez parabenů, bez sulfátů, bez minerálních olejů, bez silikonů a veganské."
   ],
@@ -749,24 +749,24 @@
    }
   ],
   "innovation": {
-   "label": "Buněčná inovace",
-   "titleLead": "Pleť nové generace",
-   "titleAccent": "Regenerace",
-   "sub": "Mořské aktivní látky a cílené hexapeptidy v jednom každodenním séru.",
+   "label": "Klíčové složky",
+   "titleLead": "Co hlavní",
+   "titleAccent": "složky dělají",
+   "sub": "Tři složky níže odvádějí většinu práce v tomto séru.",
    "items": [
     {
-     "label": "Buněčná obnova",
-     "title": "Bioaktivní látky PDRN",
-     "body": "Mořské PDRN urychluje obnovu buněk, oživuje mdlou pleť a vyhlazuje viditelnou texturu."
+     "label": "Textura pleti",
+     "title": "PDRN",
+     "body": "Mořské PDRN zvyšuje obrat buněk, což rozjasňuje matnou pleť a vyhlazuje viditelnou texturu."
     },
     {
-     "label": "Bio peptidový komplex",
+     "label": "Pevnost",
      "title": "Acetyl Hexapeptide-8",
-     "body": "Signální peptidy uvolňují povrchové napětí a podporují přirozenou pružnost kolagenu, pro pevněji vypadající pleť s větší elasticitou."
+     "body": "Tento peptid podporuje pružnost kolagenu, pro pleť, která vypadá pevnější."
     },
     {
      "label": "Hloubková hydratace",
-     "title": "Hydratační matrice",
+     "title": "Kyselina hyaluronová a Panthenol",
      "body": "Kyselina hyaluronová, sodium PCA a panthenol společně udržují vlhkost v kožní bariéře déle než 24 hodin."
     }
    ],
@@ -778,7 +778,7 @@
    "footnote": "*Biobuněčná aktivita hodnocená klinickými testy in vitro a ex vivo. Výsledky se mohou lišit podle individuálního stavu pleti."
   },
   "ecosystem": {
-   "label": "Kompletní plán",
+   "label": "Váš plán",
    "title": "Získejte kompletní podporu rutiny",
    "sub": "Spolu s vaším sérem zahrnuje každý plán Tava Labs:",
    "items": [
@@ -791,7 +791,7 @@
    "note": "Subscribe and Save můžete kdykoli pozastavit, upravit nebo zrušit. Jednorázové nákupy zůstávají dostupné za $49."
   },
   "clinical": {
-   "label": "Klinická účinnost",
+   "label": "Klinické testy",
    "titleLead": "Pečujte o své",
    "titleAccent": "zdraví pleti",
    "imgAlts": [
@@ -802,16 +802,16 @@
    "note": "Hodnocení lokálních bioaktivních látek na základě 8týdenního spotřebitelského vnímání a přístrojových testů hydratace. Jednotlivé kožní bariéry, genetika a prostředí ovlivňují konkrétní časové průběhy a výsledky."
   },
   "formulary": {
-   "label": "Formulář složení",
+   "label": "Porovnejte složení",
    "title": "Která péče o pleť je pro vás ta pravá?",
-   "sub": "Cílené formulace pro různé cíle pleti, potíže a rutiny. Sestavte si režim, který sedí pracovnímu rozvrhu.",
+   "sub": "Složení pro různé cíle pleti, obavy a rutiny. Vyberte si to, které vyhovuje vaší pleti a vašemu rozvrhu.",
    "serumAlt": "PDRN Brightening Serum",
    "serumPriceLine": "Subscribe and Save $39/měs.",
    "serumOneTime": "nebo $49 jednorázově",
    "primaryBenefit": "Hlavní přínos",
    "howToUse": "Jak používat",
    "activeIngredient": "Aktivní složka",
-   "serumBenefitValue": "Zářivost a zpevnění",
+   "serumBenefitValue": "Jas a pevnost",
    "serumHowValue": "Ráno a večer",
    "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
    "selectSerum": "Vybrat sérum",
@@ -874,13 +874,13 @@
    ]
   },
   "protocol": {
-   "label": "Protokol denního režimu",
+   "label": "Jak ho používat",
    "titleLead": "Jedna jednoduchá rutina,",
    "titleAccent": "dvakrát denně",
-   "sub": "Na pravidelnosti záleží. Dodržujte tyto kroky ráno a večer, aby peptidy a PDRN mohly odvést svou práci, a na závěr uzamkněte vlhkost.",
+   "sub": "Pravidelnost je důležitá. Postupujte podle těchto kroků ráno a večer a zakončete hydratačním krémem, abyste udrželi vlhkost uvnitř.",
    "progressionLabel": "Klinický průběh",
    "progressionTitle": "Časová osa viditelných výsledků",
-   "progressionBody": "Výraznější zářivost a hydratace za 7 až 14 dní; lepší pružnost pleti a pevnost bariéry do 4. až 6. týdne.",
+   "progressionBody": "Jasnější, hydratovanější pleť za 7 až 14 dní; zlepšená pružnost pleti a pevnost bariéry do 4. až 6. týdne.",
    "timelineAlt": "Příklad časové osy výsledků, týdny 1 až 4 a dále",
    "steps": [
     {
@@ -893,7 +893,7 @@
     },
     {
      "title": "Hydratujte a zvlhčete",
-     "body": "Uzavřete hydratačním krémem, aby peptidy zůstaly v pleti a podpořila se ceramidová bariéra."
+     "body": "Aplikujte hydratační krém, abyste udrželi peptidy a podpořili kožní bariéru."
     },
     {
      "title": "Ochrana (jen ráno), SPF 30+",
@@ -906,13 +906,13 @@
    ]
   },
   "faqSection": {
-   "label": "Odpovědi a jasno",
+   "label": "Otázky a odpovědi",
    "title": "Časté dotazy",
    "viewAll": "Zobrazit všechny časté dotazy",
    "items": [
     {
      "q": "Co je PDRN a jak prospívá pleti?",
-     "a": "PDRN (Polydeoxyribonucleotide) se skládá z fragmentů DNA, které jsou biokompatibilní s lidskými kožními buňkami. Podporuje přirozenou regeneraci buněk, stimuluje mikrocirkulaci a pomáhá opravovat kožní bariéru, pro viditelnou zářivost a pevnost."
+     "a": "PDRN (Polydeoxyribonucleotide) se skládá z fragmentů DNA, které jsou biokompatibilní s lidskými kožními buňkami. Podporuje přirozenou regeneraci buněk, stimuluje mikrocirkulaci a pomáhá opravovat kožní bariéru, pro pleť, která vypadá jasnější a pevnější."
     },
     {
      "q": "Jak zařadím PDRN Brightening Serum do své rutiny péče o pleť?",
@@ -933,7 +933,7 @@
    ]
   },
   "finalCta": {
-   "title": "Vaše tvář je v každé prezentaci. Udržujte ji připravenou.",
+   "title": "Jedno sérum pro pleť, která vypadá jasnější, hydratovaná a hladší.",
    "line": "PDRN Brightening Serum · $49.00 / 30 ml · Čisté a veganské · Hloubková hydratace · Kdykoli lze zrušit"
   },
   "gallery": {
@@ -949,13 +949,13 @@
  },
  "about": {
   "label": "O nás",
-  "titleLead": "Péče o pleť pro",
-  "titleAccent": "ambiciózní.",
+  "titleLead": "Každodenní pleťové sérum",
+  "titleAccent": "pro zakladatele.",
   "tagline": "Budujte své podnikání. Nezanedbávejte sebe.",
-  "p1": "Tava Labs je značka osobní údržby pro lidi, kteří budují firmy. Váš vzhled je součástí vaší profesní prezentace. To, jak působíte před kamerou, při prezentaci a v místnosti, je součástí toho, jak je vaše práce vnímána.",
-  "p2": "Děláme jednu věc a děláme ji dobře. Každodenní sérum, díky kterému vaše pleť vypadá klidně, hydratovaně a připraveně, bez složité rutiny.",
-  "p3": "Tava Labs vznikla pro zakladatele, tvůrce a profesionály, kteří investují do člověka, který stojí za firmou. Jeden krok, ráno a večer, před schůzkami, prezentacemi a prací před kamerou.",
-  "p4": "Tohle je péče o pleť jako údržba, ne marnivost. Stejná disciplína, jakou věnujete svému podnikání, jen uplatněná na vás samotné.",
+  "p1": "Tava Labs je značka péče o pleť pro lidi, kteří budují firmy. Váš vzhled je součástí vaší profesní přítomnosti. Lidé vás vidí před kamerou, na pitch schůzkách a v práci každý den.",
+  "p2": "Vyrábíme jednu věc a vyrábíme ji dobře. Každodenní sérum, které udržuje vaši pleť hydratovanou a odpočatě vypadající, bez složité rutiny.",
+  "p3": "Tava Labs byla založena pro zakladatele a majitele firem. Jeden krok, ráno a večer, před schůzkami, pitchi a prací před kamerou.",
+  "p4": "Péče o pleť, považovaná za základní údržbu. Stejná pravidelnost, kterou přinášíte do své firmy, aplikovaná na vaši vlastní rutinu.",
   "serumLabel": "Sérum",
   "serumTitle": "PDRN Brightening Serum",
   "serumAlt": "PDRN Brightening Serum",
@@ -968,10 +968,10 @@
   ],
   "priceLine": "$49 jednorázově, nebo $39 měsíčně se Subscribe & Save.",
   "philosophyLabel": "Naše filozofie",
-  "quote": "„Zdravá pleť je to nejpřitažlivější, co si můžete obléct.“",
+  "quote": "„Jedno sérum, dvě minuty, ráno a večer. To je celá rutina.“",
   "philosophyCaption": "Filozofie Tava Labs",
-  "philosophyP1": "Věříme, že o sebe máte pečovat stejně, jako pečujete o svou práci: důsledně a bez dramat. Malá každodenní údržba poráží občasné velké zásahy.",
-  "philosophyP2": "Neslibujeme proměnu. Vyrábíme dobře formulované každodenní sérum, říkáme vám přesně, co obsahuje, a necháváme rutinu mluvit samu za sebe.",
+  "philosophyP1": "Věříme v péči o sebe stejným způsobem, jakým pečujete o svou práci, malými kroky prováděnými důsledně každý den.",
+  "philosophyP2": "Neslibujeme proměnu. Vyrábíme dobře formulované každodenní sérum a říkáme vám přesně, co v něm je.",
   "onlineTitle": "Pouze online",
   "onlineSegments": [
    {
@@ -1030,7 +1030,7 @@
     "q": "Co je PDRN Brightening Serum?",
     "a": [
      {
-      "text": "Každodenní sérum postavené kolem PDRN (Polydeoxyribonucleotide) a Acetyl Hexapeptide-8, se Sodium Hyaluronate a Panthenol. Je to každodenní rutina pro pleť: aplikujte ráno a večer na podporu jasnější a rovnoměrněji vypadající pleti a klidného vzhledu připraveného na kameru."
+      "text": "Každodenní sérum postavené na PDRN (Polydeoxyribonucleotide) a Acetyl Hexapeptide-8, se Sodium Hyaluronate a Panthenolem. Aplikujte ho ráno a večer pro podporu pleti, která vypadá jasnější a rovnoměrnější."
      }
     ]
    },
@@ -1145,7 +1145,7 @@
   "keyItems": [
    {
     "name": "PDRN (Polydeoxyribonucleotide)",
-    "body": "Hlavní aktivní látka. Podporuje jasnější a rovnoměrněji vypadající pleť a klidný vzhled připravený na kameru."
+    "body": "Naše hlavní účinná složka. Podporuje pleť, která vypadá jasnější a rovnoměrnější."
    },
    {
     "name": "Acetyl Hexapeptide-8",
@@ -1174,15 +1174,15 @@
   "label": "Staňte se partnerem Tava Labs",
   "titleLead": "Darujte svým zakladatelům měsíc zdarma od",
   "titleAccent": "Tava Labs.",
-  "intro": "Tava Labs spolupracuje s akcelerátory, univerzitami, andělskými investory a komunitami zakladatelů. Vaši členové dostanou první měsíc PDRN Brightening Serum zdarma, aby se lidé, kteří budují firmy, mohli starat i o člověka, který za firmou stojí.",
-  "tagline": "Měsíc zdarma, na nás, bez jakýchkoli podmínek.",
+  "intro": "Tava Labs spolupracuje s akcelerátory, univerzitami, andělskými investory a komunitami zakladatelů. Vaši členové dostanou první měsíc PDRN Brightening Serum zdarma.",
+  "tagline": "Měsíc zdarma od nás, bez nákladů a bez závazků.",
   "becomePartner": "Stát se partnerem",
   "partnershipsContact": "Kontakt pro partnerství",
   "audiences": [
    {
     "alt": "Zakladatelé startupů na setkání akcelerátoru",
     "title": "Pro akcelerátory",
-    "body": "Vaši zakladatelé prezentují, předvádějí a natáčejí obsah od prvního dne. Darujte jim měsíc každodenní údržby, která jim pomůže působit klidně a připraveně na kameru, a o jednu starost méně během programu.",
+    "body": "Vaši zakladatelé prezentují, předvádějí a natáčejí obsah od prvního dne. Dejte jim měsíc každodenní péče o pleť, která během programu trvá dvě minuty denně.",
     "how": "Jak to funguje: každému zakladateli ve vaší skupině odešleme jednu lahvičku zdarma s osobním plánem z kožního kvízu. Vy nás jednou představíte; o všechno ostatní se postaráme my."
    },
    {
@@ -1194,7 +1194,7 @@
    {
     "alt": "Schůzka investora se zakladatelem",
     "title": "Pro andělské investory",
-    "body": "Podporujete člověka stejně jako firmu. Měsíc Tava Labs zdarma je pozorný dárek pro zakladatele ve vašem portfoliu a podporuje každodenní rutinu lidí, do kterých jste investovali.",
+    "body": "Měsíc Tava Labs zdarma je praktický dárek pro zakladatele ve vašem portfoliu. Zajišťujeme doručení i jejich osobní plány.",
     "how": "Jak to funguje: řekněte nám, kolik zakladatelů chcete obdarovat, a my zařídíme doručení i jejich osobní plány. Bez nákladů pro vás a bez nákladů pro ně."
    }
   ],
@@ -1218,7 +1218,7 @@
     "body": "Jeden krok, ráno a večer. Sedí do rozvrhu zakladatele, protože pro něj byl navržen."
    }
   ],
-  "formulationTitle": "Čistá a promyšlená formulace.",
+  "formulationTitle": "Vyrobeno bez těchto složek.",
   "formulationSub": "Sérum je vyrobeno bez složek, na které se vaši členové ptají nejčastěji:",
   "stepsTitle": "Jak partnerství funguje",
   "steps": [
@@ -1232,11 +1232,11 @@
    },
    {
     "title": "Vy dárek předáte",
-    "body": "Vaši členové dostanou měsíc každodenní údržby zdarma a v každé krabici i naše poděkování vám."
+    "body": "Vaši členové dostanou měsíc séra zdarma, s poděkováním od nás v každé krabici."
    }
   ],
-  "closingTitleLead": "Dejme vašim zakladatelům do rukou měsíc zdarma,",
-  "closingTitleAccent": "ať ho mají.",
+  "closingTitleLead": "Dejte svým zakladatelům",
+  "closingTitleAccent": "měsíc zdarma.",
   "closingSegments": [
    {
     "text": "E-mail "
@@ -1261,7 +1261,7 @@
   "label": "The Tava Journal",
   "titleLead": "Výzkum spánku a stresu",
   "titleAccent": "pro zakladatele",
-  "sub": "Věda o spánku, výzkum stresu a poznatky o výkonu pro zakladatele.",
+  "sub": "Články o vědě o spánku, výzkumu stresu a zdraví pleti pro zakladatele a majitele firem.",
   "readStory": "Číst příběh"
  },
  "research": {
@@ -1334,7 +1334,7 @@
   ],
   "peopleBg": "Lidé",
   "participantsLabel": "Kdo se účastnil",
-  "participantsTitle": "Lidé, kteří stojí za průměry.",
+  "participantsTitle": "Kdo se programu zúčastnil.",
   "participantsSub": "Pět návštěv napříč programem, od výchozího stavu po 16. týden.",
   "ageLabel": "Průměrný věk",
   "ageSuffix": "Let · Rozpětí 20 až 48",
@@ -1672,7 +1672,7 @@
   "claimEmpty": "Nakoupili jste přes kvíz nebo tento web? Váš potvrzovací e-mail a stránka hned po pokladně zobrazily propojovací kód. Otevřete mobilní aplikaci Tava, přihlaste se a zadejte kód v záložce Objednávky. Váš nákup, plán a odpovědi z kvízu se přesunou do vašeho účtu v aplikaci. Tady na webu vám přihlášení stejným e-mailem, jakým jste platili, už zobrazí všechno výše. Nic dalšího zadávat nemusíte.",
   "shop": {
    "eyebrow": "PDRN Brightening Serum",
-   "title": "The Science of Attractive Health",
+   "title": "Nakupujte Tava Labs",
    "body": "1 fl oz (30 ml). Omezte jemné linky, hloubkově hydratujte, obnovte zářivost a posilte pleť. 2 až 4 dávky z pumpičky, ráno a večer.",
    "subscribeLine": "Předplatné, $39 měsíčně.",
    "subscribeRest": " Každý měsíc automaticky nová lahvička.",

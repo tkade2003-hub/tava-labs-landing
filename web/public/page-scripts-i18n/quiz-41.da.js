@@ -12,23 +12,23 @@ const FUNNEL_INTAKE_URL = "https://vuzrpgkqytzvbbxwsvqr.supabase.co/functions/v1
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { subscribe: 39, one_time: 49 };
 
-const GOAL_LABEL = { radiance: "glød og stråling", fine_lines: "fine linjer", hydration: "dyb fugt", even_tone: "en ensartet tone" };
+const GOAL_LABEL = { radiance: "lysere udseende hud", fine_lines: "fine linjer", hydration: "dyb fugt", even_tone: "en ensartet tone" };
 const SKIN_LABEL = { dry: "Tør", oily: "Fedtet", combination: "Kombineret", sensitive: "Sensitiv", not_sure: "Jeg er stadig ved at finde ud af det" };
 const CONCERN_LABEL = { dullness: "mathed", fine_lines: "fine linjer", uneven_tone: "uensartet tone", texture: "ru tekstur", dryness: "tørhed" };
 
 const NOT_ALONE = {
-  radiance: "Stiftere og skabere, der præsenterer sig selv hver dag, starter deres morgen på samme måde. Mat, træt udseende hud er en af de mest almindelige grunde til, at folk starter en serumrutine. PDRN Brightening Serum er bygget omkring PDRN og peptider, i en let formel designet til at forbedre udseendet af glat, strålende hud og efterlade den fyldig, blød og frisk, morgen og aften.",
-  fine_lines: "Stiftere og skabere, der præsenterer sig selv hver dag, starter deres morgen på samme måde. Fine linjer er som regel det første, folk ønsker et serum til. Denne formel kombinerer Acetyl Hexapeptide-8 med PDRN, ingredienser valgt til at støtte hud, der ser glattere og mere lysende ud, i ét enkelt trin, to gange om dagen. Ingen rutine i ti trin nødvendig.",
-  hydration: "Stiftere og skabere, der præsenterer sig selv hver dag, starter deres morgen på samme måde. Hud, der føles stram og tørstig midt på dagen, er præcis det, dette serum er lavet til. En blanding af glycerin, Sodium PCA og Sodium Hyaluronate giver dyb fugt, mens Panthenol plejer, så huden føles behagelig og ser fyldig ud, ikke fedtet.",
-  even_tone: "Stiftere og skabere, der præsenterer sig selv hver dag, starter deres morgen på samme måde. En uensartet udseende teint er en almindelig frustration. PDRN og peptider hjælper med at fremme en mere lysende, levende udseende teint, og den lette formel absorberes hurtigt og nemt, et enkelt trin to gange dagligt mod et mere ensartet udseende."
+  radiance: "Stiftere og skabere, der præsenterer sig selv hver dag, starter deres morgen på samme måde. Mat, træt udseende hud er en af de mest almindelige grunde til, at folk starter en serumrutine. PDRN Brightening Serum er bygget op omkring PDRN og peptider, i en let formel, der hjælper huden med at se glat og lys ud, morgen og aften.",
+  fine_lines: "Stiftere og skabere, der præsenterer sig selv hver dag, starter deres morgen på samme måde. Fine linjer er som regel det første, folk ønsker et serum til. Denne formel kombinerer acetyl hexapeptide-8 med PDRN, to ingredienser valgt til at støtte hud, der ser glattere og lysere ud, i ét enkelt trin, to gange om dagen. Ingen rutine i ti trin nødvendig.",
+  hydration: "Stiftere og skabere, der præsenterer sig selv hver dag, starter deres morgen på samme måde. Hud, der føles stram og tør midt på dagen, er præcis det, dette serum er lavet til. En blanding af glycerin, sodium PCA og sodium hyaluronate giver dyb fugt, mens panthenol plejer huden, så den føles behagelig og fugtet, ikke fedtet.",
+  even_tone: "Stiftere og skabere, der præsenterer sig selv hver dag, starter deres morgen på samme måde. En teint, der ser uensartet ud, er en almindelig frustration. PDRN og peptider hjælper huden med at se lysere og mere ensartet ud, og den lette formel absorberes hurtigt, i et enkelt trin brugt to gange om dagen."
 };
 
 /* Ingredient groups from the verified Supliful listing. Cosmetic language only. */
 const INGREDIENTS = [
-  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Hjælper med at fremme en mere lysende, levende udseende teint og forbedrer udseendet af glat, strålende hud.", match: ["radiance", "mathed", "uneven_tone", "even_tone"] },
+  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Hjælper huden med at se lysere, mere ensartet og glat ud.", match: ["radiance", "mathed", "uneven_tone", "even_tone"] },
   { key: "peptide", name: "Acetyl hexapeptide-8", text: "Et peptid, der arbejder sammen med PDRN om at støtte hud, der ser glattere og mere ensartet ud.", match: ["fine_lines", "texture"] },
-  { key: "ha", name: "Hyaluronsyre, glycerin og Sodium PCA", text: "En fugtblanding, der trækker fugt ind for en fyldig, behagelig følelse og en silkeblød tekstur.", match: ["hydration", "tørhed"] },
-  { key: "panthenol", name: "Panthenol", text: "Plejer huden og efterlader den blød og behagelig, en mild base til hud, der reagerer let.", match: ["sensitive"] }
+  { key: "ha", name: "Hyaluronsyre, glycerin og Sodium PCA", text: "En fugtblanding, der trækker fugt ind, for hud, der føles behagelig og glat.", match: ["hydration", "tørhed"] },
+  { key: "panthenol", name: "Panthenol", text: "Plejer huden og efterlader den blød og behagelig, en mild base for hud, der reagerer let.", match: ["sensitive"] }
 ];
 
 const RAMPS = {

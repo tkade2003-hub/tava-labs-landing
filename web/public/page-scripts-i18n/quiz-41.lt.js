@@ -12,23 +12,23 @@ const FUNNEL_INTAKE_URL = "https://vuzrpgkqytzvbbxwsvqr.supabase.co/functions/v1
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { subscribe: 39, one_time: 49 };
 
-const GOAL_LABEL = { radiance: "spindesys ir skaistumas", fine_lines: "smulkios raukšlės", hydration: "gilus drėkinimas", even_tone: "tolygus tonas" };
+const GOAL_LABEL = { radiance: "skaistesnė atrodanti oda", fine_lines: "smulkios raukšlės", hydration: "gilus drėkinimas", even_tone: "tolygus tonas" };
 const SKIN_LABEL = { dry: "Sausa", oily: "Riebi", combination: "Mišri", sensitive: "Jautri", not_sure: "Dar aiškinuosi" };
 const CONCERN_LABEL = { dullness: "blankumas", fine_lines: "smulkios raukšlės", uneven_tone: "netolygus tonas", texture: "šiurkšti tekstūra", dryness: "sausumas" };
 
 const NOT_ALONE = {
-  radiance: "Įkūrėjai ir kūrėjai, kurie pristato save kiekvieną dieną, rytą pradeda taip pat. Blanki, pavargusi atrodanti oda yra viena dažniausių priežasčių, dėl kurių žmonės pradeda serumo rutiną. PDRN Brightening Serum sukurtas aplink PDRN ir peptidus, lengvoje formulėje, skirtoje pagerinti lygios, skaistesnės odos išvaizdą, kad ji atrodytų putli, švelni ir gaivi, ryte ir vakare.",
-  fine_lines: "Įkūrėjai ir kūrėjai, kurie pristato save kiekvieną dieną, rytą pradeda taip pat. Smulkios raukšlės paprastai yra pirmas dalykas, dėl kurio žmonės nori serumo. Ši formulė derina Acetyl Hexapeptide-8 su PDRN, sudedamąsias dalis, pasirinktas palaikyti odą, kuri atrodo lygesnė ir skaistesnė, viename žingsnyje, du kartus per dieną. Jokios dešimties žingsnių rutinos nereikia.",
-  hydration: "Įkūrėjai ir kūrėjai, kurie pristato save kiekvieną dieną, rytą pradeda taip pat. Oda, kuri iki vidurdienio jaučiasi įtempta ir ištroškusi, yra būtent tai, kam šis serumas sukurtas. Glicerino, Sodium PCA ir Sodium Hyaluronate mišinys suteikia gilų drėkinimą, o Panthenol rūpinasi oda, kad ji jaustųsi komfortiškai ir atrodytų putli, o ne riebi.",
-  even_tone: "Įkūrėjai ir kūrėjai, kurie pristato save kiekvieną dieną, rytą pradeda taip pat. Netolygiai atrodanti veido oda yra dažnas nusivylimas. PDRN ir peptidai padeda skatinti skaistesnę, gyvybingesnę atrodančią veido odą, o lengva formulė greitai ir lengvai susigeria, paprastas žingsnis du kartus per dieną link tolygesnės išvaizdos."
+  radiance: "Įkūrėjai ir kūrėjai, kurie save pristato kiekvieną dieną, rytą pradeda taip pat. Blanki, pavargusi atrodanti oda yra viena dažniausių priežasčių, dėl kurių žmonės pradeda serumo rutiną. PDRN Brightening Serum yra sukurtas aplink PDRN ir peptidus, lengvoje formulėje, kuri padeda odai atrodyti lygiai ir skaistčiai, ryte ir vakare.",
+  fine_lines: "Įkūrėjai ir kūrėjai, kurie save pristato kiekvieną dieną, rytą pradeda taip pat. Smulkios linijos paprastai yra pirmas dalykas, dėl kurio žmonės nori serumo. Ši formulė derina acetilheksapeptidą-8 su PDRN, dvi sudedamosias dalis, pasirinktas odai, kuri atrodo lygesnė ir skaistesnė, palaikyti, vienu žingsniu, du kartus per dieną. Dešimties žingsnių rutinos nereikia.",
+  hydration: "Įkūrėjai ir kūrėjai, kurie save pristato kiekvieną dieną, rytą pradeda taip pat. Oda, kuri iki vidurdienio jaučiasi įtempta ir sausa, yra būtent tai, kam šis serumas sukurtas. Glicerino, natrio PCA ir natrio hialuronato mišinys suteikia gilų drėkinimą, o pantenolis kondicionuoja odą, kad ji jaustųsi patogiai ir sudrėkinta, o ne riebi.",
+  even_tone: "Įkūrėjai ir kūrėjai, kurie save pristato kiekvieną dieną, rytą pradeda taip pat. Netolygi veido oda yra dažnas nusivylimas. PDRN ir peptidai padeda odai atrodyti skaistesnei ir lygesnei, o lengva formulė greitai įsigeria, paprastu žingsniu, naudojamu du kartus per dieną."
 };
 
 /* Ingredient groups from the verified Supliful listing. Cosmetic language only. */
 const INGREDIENTS = [
-  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Padeda skatinti skaistesnę, gyvybingesnę atrodančią veido odą ir gerina lygios, skaistesnės odos išvaizdą.", match: ["radiance", "blankumas", "uneven_tone", "even_tone"] },
+  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Padeda odai atrodyti skaistesnei, lygesnei ir lygiai.", match: ["radiance", "blankumas", "uneven_tone", "even_tone"] },
   { key: "peptide", name: "Acetyl Hexapeptide-8", text: "Peptidas, veikiantis kartu su PDRN, kad palaikytų odą, kuri atrodo lygesnė ir tolygesnė.", match: ["fine_lines", "texture"] },
-  { key: "ha", name: "Hialurono rūgštis, glicerinas ir Sodium PCA", text: "Drėkinimo mišinys, pritraukiantis drėgmę putliam, komfortiškam pojūčiui ir šilkinio lygumo tekstūrai.", match: ["hydration", "sausumas"] },
-  { key: "panthenol", name: "Panthenol", text: "Rūpinasi oda, kad ji jaustųsi švelni ir komfortiška, švelni bazė odai, kuri lengvai reaguoja.", match: ["sensitive"] }
+  { key: "ha", name: "Hialurono rūgštis, glicerinas ir Sodium PCA", text: "Drėkinimo mišinys, kuris traukia drėgmę, odai, kuri jaučiasi patogiai ir lygiai.", match: ["hydration", "sausumas"] },
+  { key: "panthenol", name: "Panthenol", text: "Kondicionuoja odą, palikdamas ją minkštą ir patogią, švelnus pagrindas odai, kuri lengvai reaguoja.", match: ["sensitive"] }
 ];
 
 const RAMPS = {

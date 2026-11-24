@@ -1,0 +1,123 @@
+{
+ "slug": "checkout-success",
+ "title": "Ordre bekræftet | Din PDRN Brightening Serum | Tava Labs",
+ "description": "Din ordre på PDRN Brightening Serum fra Tava Labs er bekræftet. Din indløsningskode forbinder dette køb med appen, hvor du kan se din plan, dine quizsvar og din ordre.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "&#10003;"
+  },
+  {
+   "id": 4,
+   "text": "Ordre bekræftet"
+  },
+  {
+   "id": 5,
+   "text": "Tak for din ordre."
+  },
+  {
+   "id": 6,
+   "text": "Velkommen til dine 30 dage."
+  },
+  {
+   "id": 7,
+   "text": "Din ordre på PDRN Brightening Serum er bekræftet og bliver gjort klar. Her er, hvad der sker nu:"
+  },
+  {
+   "id": 8,
+   "text": "E-mail"
+  },
+  {
+   "id": 9,
+   "text": "En bekræftelsesmail er på vej til den e-mail, du brugte ved kassen, gem den: den er din kvittering, og den indeholder den samme indløsningskode, som vises nedenfor."
+  },
+  {
+   "id": 10,
+   "text": "Forsendelse"
+  },
+  {
+   "id": 11,
+   "text": "Din flaske afsendes fra vores leveringspartner inden for de næste par hverdage. Sporing sendes til den samme e-mail, så snart den er på vej."
+  },
+  {
+   "id": 12,
+   "text": "Din plan"
+  },
+  {
+   "id": 13,
+   "text": "Din personlige plan på 30 dage, dine svar, din optrapningsplan, dine AM/PM tider, er gemt og venter i appen."
+  },
+  {
+   "id": 14,
+   "text": "Betalingsreference: "
+  },
+  {
+   "id": 15,
+   "text": "Dit køb vises i appen"
+  },
+  {
+   "id": 16,
+   "text": "Din plan bor i Tava appen, daglige AM/PM afkrydsninger, din stime og din forsendelsessporing. Appen er ikke på App Store endnu, så her er din "
+  },
+  {
+   "id": 17,
+   "text": "indløsningskode"
+  },
+  {
+   "id": 18,
+   "text": ": opbevar den et sikkert sted. Når du installerer appen, skal du logge ind og indtaste denne kode, så flytter din plan, dine svar og denne ordre med ind på din konto. Intet skal skrives igen, og du skal ikke købe igen."
+  },
+  {
+   "id": 19,
+   "text": "Din indløsningskode til appen"
+  },
+  {
+   "id": 20,
+   "text": "Finder din indløsningskode…"
+  },
+  {
+   "id": 21,
+   "text": "Kopiér indløsningskode"
+  },
+  {
+   "id": 22,
+   "text": "Kopiér indløsningslink"
+  },
+  {
+   "id": 23,
+   "text": "Åbn i appen, hvis den er installeret"
+  },
+  {
+   "id": 24,
+   "text": "Fik også koden på e-mail, samme kode, gem den, der er nemmest. Koden virker én gang, kun til din konto, og det er sådan, vi ved, at købet er dit (din e-mail alene er aldrig nok)."
+  },
+  {
+   "id": 25,
+   "text": "Har du spørgsmål om din ordre? Skriv til "
+  },
+  {
+   "id": 26,
+   "text": "talia@tavalabs.app"
+  },
+  {
+   "id": 27,
+   "text": ", så finder vi en løsning."
+  },
+  {
+   "id": 28,
+   "text": "Tava Labs · PDRN Brightening Serum til stiftere · Spørgsmål? talia@tavalabs.app"
+  }
+ ]
+}

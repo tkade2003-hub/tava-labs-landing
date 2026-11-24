@@ -1,0 +1,707 @@
+{
+ "slug": "quiz",
+ "title": "Ihokysely | Rakenna henkilökohtainen seerumisuunnitelmasi | Tava Labs",
+ "description": "Vastaa muutamaan nopeaan kysymykseen ja rakenna henkilökohtainen suunnitelmasi PDRN Brightening Serum -seerumin ympärille. Yksi seerumi, kahdesti päivässä, ihollesi ja tavoitteillesi sovitettuna.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "&larr; Takaisin"
+  },
+  {
+   "id": 4,
+   "text": "6 kysymystä suunnitelmaasi"
+  },
+  {
+   "id": 5,
+   "text": "Tava Labs PDRN Brightening Serum -pullo"
+  },
+  {
+   "id": 6,
+   "text": "Rakenna henkilökohtainen 30 päivän suunnitelmasi"
+  },
+  {
+   "id": 7,
+   "text": "Yksi seerumi. Kahdesti päivässä. "
+  },
+  {
+   "id": 8,
+   "text": "30 päivää."
+  },
+  {
+   "id": 9,
+   "text": "Vastaa muutamaan nopeaan kysymykseen, niin rakennamme henkilökohtaisen 30 päivän suunnitelmasi PDRN Brightening Serumin ympärille, yksi vaihe aamulla ja yksi vaihe illalla. Tilaus, ja voit keskeyttää tai peruuttaa milloin tahansa."
+  },
+  {
+   "id": 10,
+   "text": "Rakenna suunnitelmani"
+  },
+  {
+   "id": 11,
+   "text": "PDRN Brightening Serum · 1 fl oz (30 ml) · Kahdesti päivässä käytettäväksi"
+  },
+  {
+   "id": 12,
+   "text": "6 jäljellä"
+  },
+  {
+   "id": 13,
+   "text": "Mitä haluat eniten seuraavilta 30 päivältä?"
+  },
+  {
+   "id": 14,
+   "text": "Kirkkaammalta näyttävä iho"
+  },
+  {
+   "id": 15,
+   "text": "Juonteet"
+  },
+  {
+   "id": 16,
+   "text": "Syvä kosteutus"
+  },
+  {
+   "id": 17,
+   "text": "Tasainen sävy"
+  },
+  {
+   "id": 18,
+   "text": "Et ole yksin"
+  },
+  {
+   "id": 19,
+   "text": "Et ole yksin."
+  },
+  {
+   "id": 20,
+   "text": "Jatka"
+  },
+  {
+   "id": 21,
+   "text": "5 jäljellä"
+  },
+  {
+   "id": 22,
+   "text": "Miltä ihosi yleensä tuntuu keskipäivällä?"
+  },
+  {
+   "id": 23,
+   "text": "Kuiva"
+  },
+  {
+   "id": 24,
+   "text": "Rasvainen"
+  },
+  {
+   "id": 25,
+   "text": "Sekaiho"
+  },
+  {
+   "id": 26,
+   "text": "Herkkä"
+  },
+  {
+   "id": 27,
+   "text": "En ole varma"
+  },
+  {
+   "id": 28,
+   "text": "4 jäljellä"
+  },
+  {
+   "id": 29,
+   "text": "Entä suurin huolesi juuri nyt?"
+  },
+  {
+   "id": 30,
+   "text": "Sameus"
+  },
+  {
+   "id": 31,
+   "text": "Juonteet"
+  },
+  {
+   "id": 32,
+   "text": "Epätasainen sävy"
+  },
+  {
+   "id": 33,
+   "text": "Karhea rakenne"
+  },
+  {
+   "id": 34,
+   "text": "Kuivuus"
+  },
+  {
+   "id": 35,
+   "text": "Koostumuksesi"
+  },
+  {
+   "id": 36,
+   "text": "Pullon sisältö, vastauksiisi sovitettuna"
+  },
+  {
+   "id": 37,
+   "text": "Yksi kiinteä koostumus. Tässä ovat ainesosat, jotka vastaavat sitä, mitä juuri kerroit meille."
+  },
+  {
+   "id": 38,
+   "text": "Jatka"
+  },
+  {
+   "id": 39,
+   "text": "3 jäljellä"
+  },
+  {
+   "id": 40,
+   "text": "Onko ihosi reagoinut vahvoihin tuotteisiin aiemmin?"
+  },
+  {
+   "id": 41,
+   "text": "Kyllä, helposti"
+  },
+  {
+   "id": 42,
+   "text": "Joskus"
+  },
+  {
+   "id": 43,
+   "text": "Harvoin"
+  },
+  {
+   "id": 44,
+   "text": "2 jäljellä"
+  },
+  {
+   "id": 45,
+   "text": "Miltä rutiinisi näyttää tänään?"
+  },
+  {
+   "id": 46,
+   "text": "Vain puhdistusaine"
+  },
+  {
+   "id": 47,
+   "text": "Muutama tuote"
+  },
+  {
+   "id": 48,
+   "text": "Koko rutiini"
+  },
+  {
+   "id": 49,
+   "text": "Viimeinen kysymys"
+  },
+  {
+   "id": 50,
+   "text": "Milloin levität sitä?"
+  },
+  {
+   "id": 51,
+   "text": "Aamu"
+  },
+  {
+   "id": 52,
+   "text": "6.30"
+  },
+  {
+   "id": 53,
+   "text": "7.30"
+  },
+  {
+   "id": 54,
+   "text": "8.30"
+  },
+  {
+   "id": 55,
+   "text": "Oma aamuaika"
+  },
+  {
+   "id": 56,
+   "text": "Ilta"
+  },
+  {
+   "id": 57,
+   "text": "21.00"
+  },
+  {
+   "id": 58,
+   "text": "22.00"
+  },
+  {
+   "id": 59,
+   "text": "22.30"
+  },
+  {
+   "id": 60,
+   "text": "Oma ilta-aika"
+  },
+  {
+   "id": 61,
+   "text": "Jatka"
+  },
+  {
+   "id": 62,
+   "text": "Melkein valmista"
+  },
+  {
+   "id": 63,
+   "text": "Minne lähetämme 30 päivän suunnitelmasi?"
+  },
+  {
+   "id": 64,
+   "text": "Suunnitelmasi menee sähköpostiisi. Käytä samaa sähköpostia, kun lataat sovelluksen, koska sen avulla sovellus tunnistaa sinut, ja vastauksesi, suunnitelmasi ja tilauksesi odottavat sinua siellä."
+  },
+  {
+   "id": 65,
+   "text": "Sähköpostiosoite"
+  },
+  {
+   "id": 66,
+   "text": "you@example.com"
+  },
+  {
+   "id": 67,
+   "text": "Tuo sähköposti ei näytä täydelliseltä. Tarkista se ja yritä uudelleen."
+  },
+  {
+   "id": 68,
+   "text": "Näytä suunnitelmani"
+  },
+  {
+   "id": 69,
+   "text": "Suunnitelmasi"
+  },
+  {
+   "id": 70,
+   "text": "Hoitosi esikatselu"
+  },
+  {
+   "id": 71,
+   "text": "Tava Labs"
+  },
+  {
+   "id": 72,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 73,
+   "text": "PDRN Brightening Serum -pullo"
+  },
+  {
+   "id": 74,
+   "text": "Valittu tavoitteidesi perusteella:"
+  },
+  {
+   "id": 75,
+   "text": "Suunnitelmat alkaen "
+  },
+  {
+   "id": 76,
+   "text": "$39/month*"
+  },
+  {
+   "id": 77,
+   "text": "*Maksetaan kuukausittain. Keskeytä tai peruuta milloin tahansa."
+  },
+  {
+   "id": 78,
+   "text": "Kertapullo $49."
+  },
+  {
+   "id": 79,
+   "text": "ENSIMMÄINEN VIIKKOSI"
+  },
+  {
+   "id": 80,
+   "text": "Vastauksesi kartoittivat jo rutiinisi ensimmäisen viikon. Ensimmäisten kahden jälkeen on viisi päivää jäljellä, ja ensimmäinen päivä alkaa heti, kun seerumisi lähetetään."
+  },
+  {
+   "id": 81,
+   "text": "Päivä 1"
+  },
+  {
+   "id": 82,
+   "text": "Päivä 2"
+  },
+  {
+   "id": 83,
+   "text": "Päivä 3"
+  },
+  {
+   "id": 84,
+   "text": "Päivä 4"
+  },
+  {
+   "id": 85,
+   "text": "Päivä 5"
+  },
+  {
+   "id": 86,
+   "text": "Päivä 6"
+  },
+  {
+   "id": 87,
+   "text": "Päivä 7"
+  },
+  {
+   "id": 88,
+   "text": "Seerumin tiedot"
+  },
+  {
+   "id": 89,
+   "text": "Yksi seerumi. Kahdesti päivässä. 30 päivää."
+  },
+  {
+   "id": 90,
+   "text": "Tyyppi"
+  },
+  {
+   "id": 91,
+   "text": "Kirkastava seerumi · 1 fl oz"
+  },
+  {
+   "id": 92,
+   "text": "Käyttö"
+  },
+  {
+   "id": 93,
+   "text": "Kahdesti päivässä"
+  },
+  {
+   "id": 94,
+   "text": "Suunnitelma"
+  },
+  {
+   "id": 95,
+   "text": "30 päivää"
+  },
+  {
+   "id": 96,
+   "text": "Vaikuttavat aineet"
+  },
+  {
+   "id": 97,
+   "text": "Vaikuttavat aineet"
+  },
+  {
+   "id": 98,
+   "text": "PDRN"
+  },
+  {
+   "id": 99,
+   "text": "Polydeoksiribonukleotidi"
+  },
+  {
+   "id": 100,
+   "text": "PDRN-seerumin rakenne"
+  },
+  {
+   "id": 101,
+   "text": "Kirkkaammalta näyttävää ihoa varten"
+  },
+  {
+   "id": 102,
+   "text": "Acetyl Hexapeptide-8"
+  },
+  {
+   "id": 103,
+   "text": "Peptidi"
+  },
+  {
+   "id": 104,
+   "text": "Acetyl Hexapeptide-8 -seerumin rakenne"
+  },
+  {
+   "id": 105,
+   "text": "Sileämmän näköiselle iholle"
+  },
+  {
+   "id": 106,
+   "text": "Sodium Hyaluronate"
+  },
+  {
+   "id": 107,
+   "text": "Hyaluronihappo"
+  },
+  {
+   "id": 108,
+   "text": "Sodium Hyaluronate -seerumin rakenne"
+  },
+  {
+   "id": 109,
+   "text": "Syvää kosteutusta varten"
+  },
+  {
+   "id": 110,
+   "text": "Panthenol"
+  },
+  {
+   "id": 111,
+   "text": "Provitamiini B5"
+  },
+  {
+   "id": 112,
+   "text": "Pehmeälle, miellyttävälle iholle"
+  },
+  {
+   "id": 113,
+   "text": "Kosmeettinen seerumi ulkoiseen käyttöön. Vain ulkoiseen käyttöön. Vältä silmiä. Lopeta käyttö, jos ärsytystä ilmenee."
+  },
+  {
+   "id": 114,
+   "text": "Käyttöohje"
+  },
+  {
+   "id": 115,
+   "text": "Levitä 2–4 pumppausta puhtaalle, kuivalle iholle kahdesti päivässä. Käytä aamulla sen jälkeen kosteusvoidetta tai aurinkovoidetta."
+  },
+  {
+   "id": 116,
+   "text": "Hyvä tietää"
+  },
+  {
+   "id": 117,
+   "text": "Vain ulkoiseen käyttöön. Vältä silmiä. Lopeta käyttö, jos ärsytystä ilmenee. Säilytä lasten ulottumattomissa. Älä käytä rikkoutuneelle iholle. Säilytä viileässä ja kuivassa paikassa."
+  },
+  {
+   "id": 118,
+   "text": "Tutustu "
+  },
+  {
+   "id": 119,
+   "text": "seerumiisi"
+  },
+  {
+   "id": 120,
+   "text": "PDRN Brightening Serum -pullo"
+  },
+  {
+   "id": 121,
+   "text": "Esittäminen ja kirkkaus"
+  },
+  {
+   "id": 122,
+   "text": "Syvä kosteutus"
+  },
+  {
+   "id": 123,
+   "text": "Juonteet"
+  },
+  {
+   "id": 124,
+   "text": "Todelliset tulokset"
+  },
+  {
+   "id": 125,
+   "text": "Ennen ja jälkeen PDRN Brightening Serum -seerumilla"
+  },
+  {
+   "id": 126,
+   "text": "Ennen"
+  },
+  {
+   "id": 127,
+   "text": "Jälkeen"
+  },
+  {
+   "id": 128,
+   "text": "Ennen ja jälkeen PDRN Brightening Serum -seerumilla"
+  },
+  {
+   "id": 129,
+   "text": "Ennen"
+  },
+  {
+   "id": 130,
+   "text": "Jälkeen"
+  },
+  {
+   "id": 131,
+   "text": "Ennen ja jälkeen PDRN Brightening Serum -seerumilla"
+  },
+  {
+   "id": 132,
+   "text": "Ennen"
+  },
+  {
+   "id": 133,
+   "text": "Jälkeen"
+  },
+  {
+   "id": 134,
+   "text": "Yksilölliset tulokset vaihtelevat."
+  },
+  {
+   "id": 135,
+   "text": "Jatka tällä suunnitelmalla"
+  },
+  {
+   "id": 136,
+   "text": "Katso muut vaihtoehdot"
+  },
+  {
+   "id": 137,
+   "text": "Kassa"
+  },
+  {
+   "id": 138,
+   "text": "Aloita 30 päivääsi"
+  },
+  {
+   "id": 139,
+   "text": "Demokassa. Ei maksua."
+  },
+  {
+   "id": 140,
+   "text": " Tätä sivua ei ole vielä yhdistetty maksu- tai toimituspäätepisteeseen. Alla oleva painike tarkistaa tietosi ja kokoaa tarkan tilaustietosisällön, jotta näet täsmälleen, mitä lähetettäisiin."
+  },
+  {
+   "id": 141,
+   "text": "$39"
+  },
+  {
+   "id": 142,
+   "text": "Tilaa ja säästä"
+  },
+  {
+   "id": 143,
+   "text": "$49"
+  },
+  {
+   "id": 144,
+   "text": "Kertatilaus"
+  },
+  {
+   "id": 145,
+   "text": "Etunimi"
+  },
+  {
+   "id": 146,
+   "text": "Sukunimi"
+  },
+  {
+   "id": 147,
+   "text": "Katuosoite"
+  },
+  {
+   "id": 148,
+   "text": "Huoneisto, kerros jne. "
+  },
+  {
+   "id": 149,
+   "text": "(valinnainen)"
+  },
+  {
+   "id": 150,
+   "text": "Kaupunki"
+  },
+  {
+   "id": 151,
+   "text": "Osavaltio"
+  },
+  {
+   "id": 152,
+   "text": "CA"
+  },
+  {
+   "id": 153,
+   "text": "Postinumero"
+  },
+  {
+   "id": 154,
+   "text": "Maa"
+  },
+  {
+   "id": 155,
+   "text": "United States"
+  },
+  {
+   "id": 156,
+   "text": "Canada"
+  },
+  {
+   "id": 157,
+   "text": "United Kingdom"
+  },
+  {
+   "id": 158,
+   "text": "Australia"
+  },
+  {
+   "id": 159,
+   "text": "Puhelin "
+  },
+  {
+   "id": 160,
+   "text": "(valinnainen, toimituspäivityksiä varten)"
+  },
+  {
+   "id": 161,
+   "text": "Aloita tilaukseni, $39"
+  },
+  {
+   "id": 162,
+   "text": "Tilaus uusiutuu 30 päivän välein hintaan $39. Keskeytä tai peruuta milloin tahansa."
+  },
+  {
+   "id": 163,
+   "text": "Tava Labs PDRN Brightening Serum -pullo"
+  },
+  {
+   "id": 164,
+   "text": "Tilaus vastaanotettu"
+  },
+  {
+   "id": 165,
+   "text": "Suunnitelmasi"
+  },
+  {
+   "id": 166,
+   "text": "alkamisesi alkaa nyt."
+  },
+  {
+   "id": 167,
+   "text": "Demokassa. Maksua ei veloitettu."
+  },
+  {
+   "id": 168,
+   "text": " Tilaustietosisältösi tallennettiin tähän selaimeen, jotta voit tarkastella täsmälleen, mitä varsinainen versio lähettää."
+  },
+  {
+   "id": 169,
+   "text": "Ostoksesi näkyy sovelluksessa"
+  },
+  {
+   "id": 170,
+   "text": "Suunnitelmasi on Tava-sovelluksessa, jossa on päivittäiset aamu- ja iltamerkinnät, sarjasi ja lähetyksesi seuranta. Sovellus ei ole vielä App Storessa. Kassan jälkeen vahvistussivusi ja sähköpostisi antavat sinulle "
+  },
+  {
+   "id": 171,
+   "text": "lunastuskoodin"
+  },
+  {
+   "id": 172,
+   "text": ". Kun asennat sovelluksen, kirjaudu sisään ja syötä koodi, niin suunnitelmasi, vastauksesi ja tilauksesi ovat jo siellä. Ei uudelleenostamista."
+  },
+  {
+   "id": 173,
+   "text": "Katso lunastuskoodini kassan jälkeen"
+  },
+  {
+   "id": 174,
+   "text": "Tava Labs · PDRN Brightening Serum perustajille · Kysymyksiä? talia@tavalabs.app"
+  }
+ ]
+}

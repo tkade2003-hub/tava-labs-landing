@@ -12,22 +12,22 @@ const FUNNEL_INTAKE_URL = "https://vuzrpgkqytzvbbxwsvqr.supabase.co/functions/v1
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { subscribe: 39, one_time: 49 };
 
-const GOAL_LABEL = { radiance: "Glow und Strahlkraft", fine_lines: "feine Linien", hydration: "tiefe Feuchtigkeit", even_tone: "ein gleichmäßiger Teint" };
+const GOAL_LABEL = { radiance: "Haut, die heller aussieht", fine_lines: "feine Linien", hydration: "tiefe Feuchtigkeit", even_tone: "ein gleichmäßiger Teint" };
 const SKIN_LABEL = { dry: "Trocken", oily: "Fettig", combination: "Mischhaut", sensitive: "Empfindlich", not_sure: "Ich finde es noch heraus" };
 const CONCERN_LABEL = { dullness: "Fahlheit", fine_lines: "feine Linien", uneven_tone: "ungleichmäßiger Teint", texture: "raue Textur", dryness: "Trockenheit" };
 
 const NOT_ALONE = {
-  radiance: "Gründer und Kreative, die sich jeden Tag präsentieren, beginnen ihren Morgen auf dieselbe Weise. Fahle, müde aussehende Haut ist einer der häufigsten Gründe, warum Menschen eine Serumroutine beginnen. Das PDRN Brightening Serum ist um PDRN und Peptide aufgebaut, in einer leichten Formel, die das Erscheinungsbild glatter, strahlender Haut verbessern soll und sie prall, weich und erfrischt aussehen lässt, morgens und abends.",
-  fine_lines: "Gründer und Kreative, die sich jeden Tag präsentieren, beginnen ihren Morgen auf dieselbe Weise. Feine Linien sind meist das Erste, wofür Menschen ein Serum möchten. Diese Formel verbindet Acetyl Hexapeptide-8 mit PDRN, Inhaltsstoffe, die gewählt wurden, um Haut zu unterstützen, die glatter und leuchtender aussieht, in einem einzigen Schritt, zweimal täglich. Keine Zehn Schritte Routine nötig.",
-  hydration: "Gründer und Kreative, die sich jeden Tag präsentieren, beginnen ihren Morgen auf dieselbe Weise. Haut, die sich bis mittags straff und durstig anfühlt, ist genau das, wofür dieses Serum gemacht ist. Eine Mischung aus Glycerin, Sodium PCA und Sodium Hyaluronat spendet tiefe Feuchtigkeit, während Panthenol pflegt, sodass sich die Haut angenehm anfühlt und prall aussieht, nicht fettig.",
-  even_tone: "Gründer und Kreative, die sich jeden Tag präsentieren, beginnen ihren Morgen auf dieselbe Weise. Ein ungleichmäßig aussehender Teint ist eine häufige Frustration. PDRN und Peptide helfen, einen leuchtenderen, lebendiger aussehenden Teint zu fördern, und die leichte Formel zieht schnell und einfach ein, ein einfacher Schritt zweimal täglich zu einem gleichmäßigeren Look."
+  radiance: "Gründer und Kreative, die sich jeden Tag präsentieren, beginnen ihren Morgen auf dieselbe Weise. Haut, die fahl und müde aussieht, ist einer der häufigsten Gründe, eine Serumroutine zu beginnen. Das PDRN Brightening Serum ist um PDRN und Peptide aufgebaut, in einer leichten Formel, die der Haut hilft, morgens und abends glatt und hell auszusehen.",
+  fine_lines: "Gründer und Kreative, die sich jeden Tag präsentieren, beginnen ihren Morgen auf dieselbe Weise. Feine Linien sind meist das Erste, wofür Menschen ein Serum wollen. Diese Formel verbindet Acetyl Hexapeptide-8 mit PDRN, zwei Inhaltsstoffe, die gewählt wurden, um Haut zu unterstützen, die glatter und heller aussieht, in einem einzigen Schritt, zweimal am Tag. Keine Routine mit zehn Schritten nötig.",
+  hydration: "Gründer und Kreative, die sich jeden Tag präsentieren, beginnen ihren Morgen auf dieselbe Weise. Haut, die sich bis mittags gespannt und trocken anfühlt, ist genau das, wofür dieses Serum gemacht ist. Eine Mischung aus Glycerin, Sodium PCA und Natriumhyaluronat spendet tiefe Feuchtigkeit, während Panthenol die Haut pflegt, sodass sie sich angenehm und mit Feuchtigkeit versorgt anfühlt, nicht fettig.",
+  even_tone: "Gründer und Kreative, die sich jeden Tag präsentieren, beginnen ihren Morgen auf dieselbe Weise. Ein Teint, der ungleichmäßig aussieht, ist ein häufiges Ärgernis. PDRN und Peptide helfen der Haut, heller und gleichmäßiger auszusehen, und die leichte Formel zieht schnell ein, in einem einfachen Schritt zweimal am Tag."
 };
 
 /* Ingredient groups from the verified Supliful listing. Cosmetic language only. */
 const INGREDIENTS = [
-  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Hilft, einen leuchtenderen, lebendiger aussehenden Teint zu fördern und verbessert das Erscheinungsbild glatter, strahlender Haut.", match: ["radiance", "Fahlheit", "uneven_tone", "even_tone"] },
+  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Hilft der Haut, heller, gleichmäßiger und glatt auszusehen.", match: ["radiance", "Fahlheit", "uneven_tone", "even_tone"] },
   { key: "peptide", name: "Acetyl hexapeptide-8", text: "Ein Peptid, das zusammen mit PDRN Haut unterstützt, die glatter und gleichmäßiger aussieht.", match: ["fine_lines", "texture"] },
-  { key: "ha", name: "Hyaluronsäure, Glycerin und Sodium PCA", text: "Eine Feuchtigkeitsmischung, die Feuchtigkeit anzieht, für ein pralles, angenehmes Gefühl und eine seidig glatte Textur.", match: ["hydration", "Trockenheit"] },
+  { key: "ha", name: "Hyaluronsäure, Glycerin und Sodium PCA", text: "Eine feuchtigkeitsspendende Mischung, die Wasser anzieht, für Haut, die sich angenehm und glatt anfühlt.", match: ["hydration", "Trockenheit"] },
   { key: "panthenol", name: "Panthenol", text: "Pflegt die Haut und lässt sie sich weich und angenehm anfühlen, eine sanfte Basis für Haut, die leicht reagiert.", match: ["sensitive"] }
 ];
 

@@ -1,0 +1,67 @@
+{
+ "slug": "checkout-cancel",
+ "title": "Finalizacja zakupu anulowana | Nie pobrano żadnej opłaty | Tava Labs",
+ "description": "Nie pobrano żadnej opłaty. Twój plan i odpowiedzi w Tava Labs są zapisane, więc możesz dokończyć zamówienie później, gdy będziesz gotowy.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "Finalizacja zakupu anulowana"
+  },
+  {
+   "id": 4,
+   "text": "Brak opłaty. "
+  },
+  {
+   "id": 5,
+   "text": "Nic nie stracone."
+  },
+  {
+   "id": 6,
+   "text": "Opuściłeś finalizację zakupu przed jej ukończeniem, więc "
+  },
+  {
+   "id": 7,
+   "text": "Twoja karta nie została obciążona"
+  },
+  {
+   "id": 8,
+   "text": ", ani o cent. A Twoja praca nie poszła na marne: odpowiedzi, których udzieliłeś, oraz plan na 30 dni, który na ich podstawie przygotowaliśmy, zostały zapisane pod adresem e-mail, który podałeś."
+  },
+  {
+   "id": 9,
+   "text": "Gdy będziesz gotowy, kontynuuj od miejsca, w którym przestałeś. Odpowiedz ponownie na szybkie pytania tym samym e-mailem, a Twój plan zostanie odbudowany dokładnie tak, jak był, a potem zakończ przy bezpiecznej kasie."
+  },
+  {
+   "id": 10,
+   "text": "Wróć do mojego planu na 30 dni"
+  },
+  {
+   "id": 11,
+   "text": "Zmieniłeś zdanie na dobre? Bez żalu, nic nie zostało pobrane i nie ma nic do anulowania. Pytania? Napisz na adres "
+  },
+  {
+   "id": 12,
+   "text": "talia@tavalabs.app"
+  },
+  {
+   "id": 13,
+   "text": "."
+  },
+  {
+   "id": 14,
+   "text": "Tava Labs · PDRN Brightening Serum dla założycieli firm · Pytania? talia@tavalabs.app"
+  }
+ ]
+}

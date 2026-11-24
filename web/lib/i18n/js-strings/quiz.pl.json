@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "blask i promienność"
+   "t": "skóra o jaśniejszym wyglądzie"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Założyciele i twórcy, którzy prezentują się każdego dnia, zaczynają swój poranek w ten sam sposób. Matowa skóra o zmęczonym wyglądzie to jeden z najczęstszych powodów, dla których ludzie zaczynają rutynę z serum. PDRN Brightening Serum jest zbudowane wokół PDRN i peptydów, w lekkiej formule zaprojektowanej, aby poprawić wygląd gładkiej, promiennej skóry, sprawiając, że wygląda jędrnie, miękko i świeżo, rano i wieczorem."
+   "t": "Założyciele firm i twórcy, którzy prezentują się każdego dnia, zaczynają swój poranek w ten sam sposób. Matowa skóra o zmęczonym wyglądzie to jeden z najczęstszych powodów, dla których ludzie zaczynają rutynę z serum. PDRN Brightening Serum jest zbudowane wokół PDRN i peptydów, w lekkiej formule, która pomaga skórze wyglądać gładko i jasno, rano i wieczorem."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Założyciele i twórcy, którzy prezentują się każdego dnia, zaczynają swój poranek w ten sam sposób. Drobne linie to zwykle pierwsza rzecz, do której ludzie chcą serum. Ta formuła łączy Acetyl Hexapeptide-8 z PDRN, składniki wybrane, aby wspierać skórę, która wygląda gładsza i bardziej promienna, w jednym kroku, dwa razy dziennie. Nie potrzeba rutyny z dziesięciu kroków."
+   "t": "Założyciele firm i twórcy, którzy prezentują się każdego dnia, zaczynają swój poranek w ten sam sposób. Drobne linie to zwykle pierwsza rzecz, do której ludzie chcą serum. Ta formuła łączy acetyl hexapeptide-8 z PDRN, dwa składniki wybrane, aby wspierać skórę, która wygląda gładziej i jaśniej, w jednym kroku, dwa razy dziennie. Nie potrzeba rutyny z dziesięciu kroków."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Założyciele i twórcy, którzy prezentują się każdego dnia, zaczynają swój poranek w ten sam sposób. Skóra, która w południe czuje się napięta i spragniona, to dokładnie to, do czego stworzono to serum. Mieszanka gliceryny, Sodium PCA i Sodium Hyaluronate zapewnia głębokie nawilżenie, a Panthenol pielęgnuje, więc skóra czuje się komfortowo i wygląda jędrnie, a nie tłusto."
+   "t": "Założyciele firm i twórcy, którzy prezentują się każdego dnia, zaczynają swój poranek w ten sam sposób. Skóra, która w południe czuje się napięta i sucha, to dokładnie to, do czego stworzono to serum. Mieszanka gliceryny, sodium PCA i hialuronianu sodu zapewnia głębokie nawilżenie, a pantenol pielęgnuje skórę, więc czuje się komfortowo i nawilżona, a nie tłusta."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Założyciele i twórcy, którzy prezentują się każdego dnia, zaczynają swój poranek w ten sam sposób. Cera o nierównym wyglądzie to częsta frustracja. PDRN i peptydy pomagają wspierać cerę o bardziej promiennym i żywym wyglądzie, a lekka formuła wchłania się szybko i łatwo, prosty krok dwa razy dziennie w kierunku bardziej równego wyglądu."
+   "t": "Założyciele firm i twórcy, którzy prezentują się każdego dnia, zaczynają swój poranek w ten sam sposób. Cera o nierównym wyglądzie to częsta frustracja. PDRN i peptydy pomagają skórze wyglądać jaśniej i bardziej równo, a lekka formuła szybko się wchłania, w prostym kroku używanym dwa razy dziennie."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Pomaga wspierać cerę o bardziej promiennym i żywym wyglądzie oraz poprawia wygląd gładkiej, promiennej skóry."
+   "t": "Pomaga skórze wyglądać jaśniej, bardziej równo i gładko."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "Mieszanka nawilżająca, która przyciąga wilgoć, dla jędrnego, komfortowego uczucia i jedwabiście gładkiej tekstury."
+   "t": "Mieszanka nawilżająca, która przyciąga wilgoć, dla skóry, która czuje się komfortowo i gładko."
   },
   {
    "k": "ing.panthenol.name",
@@ -124,7 +124,7 @@
   {
    "k": "ing.panthenol.text",
    "q": "dq",
-   "t": "Pielęgnuje skórę, sprawiając, że czuje się miękka i komfortowa, łagodna baza dla skóry, która łatwo reaguje."
+   "t": "Pielęgnuje skórę, pozostawiając ją miękką i komfortową, łagodna baza dla skóry, która łatwo reaguje."
   },
   {
    "k": "ramp.often.1",

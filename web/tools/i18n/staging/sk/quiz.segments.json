@@ -1,0 +1,707 @@
+{
+ "slug": "quiz",
+ "title": "Kvíz o pleti | Vytvorte si osobný plán séra | Tava Labs",
+ "description": "Odpovedzte na niekoľko rýchlych otázok a vytvorte si osobný plán okolo produktu PDRN Brightening Serum. Jedno sérum, dvakrát denne, prispôsobené vašej pleti a vašim cieľom.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "&larr; Späť"
+  },
+  {
+   "id": 4,
+   "text": "6 otázok k vášmu plánu"
+  },
+  {
+   "id": 5,
+   "text": "Fľaša produktu PDRN Brightening Serum od Tava Labs"
+  },
+  {
+   "id": 6,
+   "text": "Vytvorte si osobný 30-dňový plán"
+  },
+  {
+   "id": 7,
+   "text": "Jedno sérum. Dvakrát denne. "
+  },
+  {
+   "id": 8,
+   "text": "30 dní."
+  },
+  {
+   "id": 9,
+   "text": "Zodpovedajte niekoľko rýchlych otázok a vytvoríme váš osobný 30-dňový plán okolo PDRN Brightening Serum, jeden krok ráno a jeden krok večer. Predplatné, ktoré môžete kedykoľvek pozastaviť alebo zrušiť."
+  },
+  {
+   "id": 10,
+   "text": "Vytvoriť môj plán"
+  },
+  {
+   "id": 11,
+   "text": "PDRN Brightening Serum · 1 fl oz (30 ml) · Vyrobené na používanie dvakrát denne"
+  },
+  {
+   "id": 12,
+   "text": "Zostáva 6"
+  },
+  {
+   "id": 13,
+   "text": "Čo si od nasledujúcich 30 dní želáte najviac?"
+  },
+  {
+   "id": 14,
+   "text": "Jasnejšia pleť na pohľad"
+  },
+  {
+   "id": 15,
+   "text": "Jemné linky"
+  },
+  {
+   "id": 16,
+   "text": "Hĺbková hydratácia"
+  },
+  {
+   "id": 17,
+   "text": "Jednotný tón"
+  },
+  {
+   "id": 18,
+   "text": "Nie ste v tom sami"
+  },
+  {
+   "id": 19,
+   "text": "Nie ste v tom sami."
+  },
+  {
+   "id": 20,
+   "text": "Pokračovať"
+  },
+  {
+   "id": 21,
+   "text": "Zostáva 5"
+  },
+  {
+   "id": 22,
+   "text": "Ako sa vaša pleť zvyčajne cíti na poludnie?"
+  },
+  {
+   "id": 23,
+   "text": "Suchá"
+  },
+  {
+   "id": 24,
+   "text": "Mastná"
+  },
+  {
+   "id": 25,
+   "text": "Zmiešaná"
+  },
+  {
+   "id": 26,
+   "text": "Citlivá"
+  },
+  {
+   "id": 27,
+   "text": "Nie som si istý/istá"
+  },
+  {
+   "id": 28,
+   "text": "Zostáva 4"
+  },
+  {
+   "id": 29,
+   "text": "A čo vás práve teraz trápi najviac?"
+  },
+  {
+   "id": 30,
+   "text": "Mdlosť"
+  },
+  {
+   "id": 31,
+   "text": "Jemné linky"
+  },
+  {
+   "id": 32,
+   "text": "Nerovnomerný tón"
+  },
+  {
+   "id": 33,
+   "text": "Drsná textúra"
+  },
+  {
+   "id": 34,
+   "text": "Suchosť"
+  },
+  {
+   "id": 35,
+   "text": "Vaša zhoda zloženia"
+  },
+  {
+   "id": 36,
+   "text": "Vo vnútri fľaše, prispôsobené vašim odpovediam"
+  },
+  {
+   "id": 37,
+   "text": "Jedna pevná formula. Tu je, ktoré zložky zodpovedajú tomu, čo ste nám práve povedali."
+  },
+  {
+   "id": 38,
+   "text": "Pokračovať"
+  },
+  {
+   "id": 39,
+   "text": "Zostáva 3"
+  },
+  {
+   "id": 40,
+   "text": "Reagovala vaša pleť už predtým na silné produkty?"
+  },
+  {
+   "id": 41,
+   "text": "Áno, ľahko"
+  },
+  {
+   "id": 42,
+   "text": "Niekedy"
+  },
+  {
+   "id": 43,
+   "text": "Zriedkavo"
+  },
+  {
+   "id": 44,
+   "text": "Zostáva 2"
+  },
+  {
+   "id": 45,
+   "text": "Ako vyzerá vaša rutina dnes?"
+  },
+  {
+   "id": 46,
+   "text": "Iba čistiaci prípravok"
+  },
+  {
+   "id": 47,
+   "text": "Niekoľko produktov"
+  },
+  {
+   "id": 48,
+   "text": "Kompletná rutina"
+  },
+  {
+   "id": 49,
+   "text": "Posledná otázka"
+  },
+  {
+   "id": 50,
+   "text": "Kedy ho budete nanášať?"
+  },
+  {
+   "id": 51,
+   "text": "Ráno"
+  },
+  {
+   "id": 52,
+   "text": "6:30 AM"
+  },
+  {
+   "id": 53,
+   "text": "7:30 AM"
+  },
+  {
+   "id": 54,
+   "text": "8:30 AM"
+  },
+  {
+   "id": 55,
+   "text": "Vlastný ranný čas"
+  },
+  {
+   "id": 56,
+   "text": "Večer"
+  },
+  {
+   "id": 57,
+   "text": "9:00 PM"
+  },
+  {
+   "id": 58,
+   "text": "10:00 PM"
+  },
+  {
+   "id": 59,
+   "text": "10:30 PM"
+  },
+  {
+   "id": 60,
+   "text": "Vlastný večerný čas"
+  },
+  {
+   "id": 61,
+   "text": "Pokračovať"
+  },
+  {
+   "id": 62,
+   "text": "Takmer hotovo"
+  },
+  {
+   "id": 63,
+   "text": "Kam máme poslať váš 30-dňový plán?"
+  },
+  {
+   "id": 64,
+   "text": "Váš plán ide do vašej schránky. Pri sťahovaní aplikácie použite rovnaký e-mail, pretože podľa neho vás aplikácia pozná, a vaše odpovede, plán a objednávka tam budú čakať."
+  },
+  {
+   "id": 65,
+   "text": "E-mailová adresa"
+  },
+  {
+   "id": 66,
+   "text": "you@example.com"
+  },
+  {
+   "id": 67,
+   "text": "Ten e-mail nevyzerá úplný. Skontrolujte ho a skúste to znova."
+  },
+  {
+   "id": 68,
+   "text": "Zobraziť môj plán"
+  },
+  {
+   "id": 69,
+   "text": "Váš plán"
+  },
+  {
+   "id": 70,
+   "text": "Ukážka vašej starostlivosti"
+  },
+  {
+   "id": 71,
+   "text": "Tava Labs"
+  },
+  {
+   "id": 72,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 73,
+   "text": "Fľaša produktu PDRN Brightening Serum"
+  },
+  {
+   "id": 74,
+   "text": "Vybrané na základe vašich cieľov:"
+  },
+  {
+   "id": 75,
+   "text": "Plány už od "
+  },
+  {
+   "id": 76,
+   "text": "$39/mesiac*"
+  },
+  {
+   "id": 77,
+   "text": "*Platí sa mesačne. Kedykoľvek pozastavte alebo zrušte."
+  },
+  {
+   "id": 78,
+   "text": "Jednorazová fľaša $49."
+  },
+  {
+   "id": 79,
+   "text": "VÁŠ PRVÝ TÝŽDEŇ"
+  },
+  {
+   "id": 80,
+   "text": "Vaše odpovede už zmapovali váš prvý týždeň rutiny. Po prvých dvoch dňoch zostáva päť dní a prvý deň sa začína v okamihu, keď sa vaše sérum odošle."
+  },
+  {
+   "id": 81,
+   "text": "1. deň"
+  },
+  {
+   "id": 82,
+   "text": "2. deň"
+  },
+  {
+   "id": 83,
+   "text": "3. deň"
+  },
+  {
+   "id": 84,
+   "text": "4. deň"
+  },
+  {
+   "id": 85,
+   "text": "5. deň"
+  },
+  {
+   "id": 86,
+   "text": "6. deň"
+  },
+  {
+   "id": 87,
+   "text": "7. deň"
+  },
+  {
+   "id": 88,
+   "text": "Podrobnosti o sére"
+  },
+  {
+   "id": 89,
+   "text": "Jedno sérum. Dvakrát denne. 30 dní."
+  },
+  {
+   "id": 90,
+   "text": "Typ"
+  },
+  {
+   "id": 91,
+   "text": "Rozjasňujúce sérum · 1 fl oz"
+  },
+  {
+   "id": 92,
+   "text": "Použitie"
+  },
+  {
+   "id": 93,
+   "text": "Dvakrát denne"
+  },
+  {
+   "id": 94,
+   "text": "Plán"
+  },
+  {
+   "id": 95,
+   "text": "30 dní"
+  },
+  {
+   "id": 96,
+   "text": "Aktívne zložky"
+  },
+  {
+   "id": 97,
+   "text": "Aktívne zložky"
+  },
+  {
+   "id": 98,
+   "text": "PDRN"
+  },
+  {
+   "id": 99,
+   "text": "Polydeoxyribonucleotide"
+  },
+  {
+   "id": 100,
+   "text": "Textúra séra PDRN"
+  },
+  {
+   "id": 101,
+   "text": "Pre jasnejšiu pleť na pohľad"
+  },
+  {
+   "id": 102,
+   "text": "Acetyl Hexapeptide-8"
+  },
+  {
+   "id": 103,
+   "text": "Peptid"
+  },
+  {
+   "id": 104,
+   "text": "Textúra séra Acetyl Hexapeptide-8"
+  },
+  {
+   "id": 105,
+   "text": "Pre hladšie vyzerajúcu pleť"
+  },
+  {
+   "id": 106,
+   "text": "Sodium Hyaluronate"
+  },
+  {
+   "id": 107,
+   "text": "Kyselina hyalurónová"
+  },
+  {
+   "id": 108,
+   "text": "Textúra séra Sodium Hyaluronate"
+  },
+  {
+   "id": 109,
+   "text": "Pre hĺbkovú hydratáciu"
+  },
+  {
+   "id": 110,
+   "text": "Panthenol"
+  },
+  {
+   "id": 111,
+   "text": "Provitamín B5"
+  },
+  {
+   "id": 112,
+   "text": "Pre jemnú, príjemnú pleť"
+  },
+  {
+   "id": 113,
+   "text": "Kozmetické sérum na lokálne použitie. Iba na vonkajšie použitie. Vyhnite sa očiam. Pri podráždení prestaňte používať."
+  },
+  {
+   "id": 114,
+   "text": "Ako používať"
+  },
+  {
+   "id": 115,
+   "text": "Naneste 2 až 4 pumpnutia na čistú, suchú pleť, dvakrát denne. Ráno pokračujte hydratačným krémom alebo opaľovacím krémom."
+  },
+  {
+   "id": 116,
+   "text": "Dobre vedieť"
+  },
+  {
+   "id": 117,
+   "text": "Iba na vonkajšie použitie. Vyhnite sa očiam. Pri podráždení prestaňte používať. Uchovávajte mimo dosahu detí. Nepoužívajte na porušenú pleť. Skladujte na chladnom a suchom mieste."
+  },
+  {
+   "id": 118,
+   "text": "Spoznajte svoje "
+  },
+  {
+   "id": 119,
+   "text": "sérum"
+  },
+  {
+   "id": 120,
+   "text": "Fľaša produktu PDRN Brightening Serum"
+  },
+  {
+   "id": 121,
+   "text": "Prezentácia a jas"
+  },
+  {
+   "id": 122,
+   "text": "Hĺbková hydratácia"
+  },
+  {
+   "id": 123,
+   "text": "Jemné linky"
+  },
+  {
+   "id": 124,
+   "text": "Skutočné výsledky"
+  },
+  {
+   "id": 125,
+   "text": "Pred a po s produktom PDRN Brightening Serum"
+  },
+  {
+   "id": 126,
+   "text": "Pred"
+  },
+  {
+   "id": 127,
+   "text": "Po"
+  },
+  {
+   "id": 128,
+   "text": "Pred a po s produktom PDRN Brightening Serum"
+  },
+  {
+   "id": 129,
+   "text": "Pred"
+  },
+  {
+   "id": 130,
+   "text": "Po"
+  },
+  {
+   "id": 131,
+   "text": "Pred a po s produktom PDRN Brightening Serum"
+  },
+  {
+   "id": 132,
+   "text": "Pred"
+  },
+  {
+   "id": 133,
+   "text": "Po"
+  },
+  {
+   "id": 134,
+   "text": "Jednotlivé výsledky sa líšia."
+  },
+  {
+   "id": 135,
+   "text": "Pokračovať s týmto plánom"
+  },
+  {
+   "id": 136,
+   "text": "Zobraziť ďalšie možnosti"
+  },
+  {
+   "id": 137,
+   "text": "Pokladňa"
+  },
+  {
+   "id": 138,
+   "text": "Začnite svojich 30 dní"
+  },
+  {
+   "id": 139,
+   "text": "Ukážková platba. Bez poplatku."
+  },
+  {
+   "id": 140,
+   "text": " Táto stránka zatiaľ nie je prepojená s koncovým bodom pre platby ani vybavovanie. Tlačidlo nižšie overí vaše údaje a zostaví presný obsah objednávky, aby ste videli presne, čo by sa odoslalo."
+  },
+  {
+   "id": 141,
+   "text": "$39"
+  },
+  {
+   "id": 142,
+   "text": "Predplatiť &amp; ušetriť"
+  },
+  {
+   "id": 143,
+   "text": "$49"
+  },
+  {
+   "id": 144,
+   "text": "Jednorazovo"
+  },
+  {
+   "id": 145,
+   "text": "Meno"
+  },
+  {
+   "id": 146,
+   "text": "Priezvisko"
+  },
+  {
+   "id": 147,
+   "text": "Ulica a číslo domu"
+  },
+  {
+   "id": 148,
+   "text": "Byt, apartmán a pod. "
+  },
+  {
+   "id": 149,
+   "text": "(nepovinné)"
+  },
+  {
+   "id": 150,
+   "text": "Mesto"
+  },
+  {
+   "id": 151,
+   "text": "Štát"
+  },
+  {
+   "id": 152,
+   "text": "CA"
+  },
+  {
+   "id": 153,
+   "text": "PSČ"
+  },
+  {
+   "id": 154,
+   "text": "Krajina"
+  },
+  {
+   "id": 155,
+   "text": "Spojené štáty"
+  },
+  {
+   "id": 156,
+   "text": "Kanada"
+  },
+  {
+   "id": 157,
+   "text": "Spojené kráľovstvo"
+  },
+  {
+   "id": 158,
+   "text": "Austrália"
+  },
+  {
+   "id": 159,
+   "text": "Telefón "
+  },
+  {
+   "id": 160,
+   "text": "(nepovinné, pre informácie o doručení)"
+  },
+  {
+   "id": 161,
+   "text": "Začať moje predplatné, $39"
+  },
+  {
+   "id": 162,
+   "text": "Predplatné sa obnovuje každých 30 dní za $39. Kedykoľvek pozastavte alebo zrušte."
+  },
+  {
+   "id": 163,
+   "text": "Fľaša produktu PDRN Brightening Serum od Tava Labs"
+  },
+  {
+   "id": 164,
+   "text": "Objednávka prijatá"
+  },
+  {
+   "id": 165,
+   "text": "Váš plán"
+  },
+  {
+   "id": 166,
+   "text": "sa začína teraz."
+  },
+  {
+   "id": 167,
+   "text": "Ukážková platba. Nebol účtovaný žiadny poplatok."
+  },
+  {
+   "id": 168,
+   "text": " Obsah vašej objednávky bol uložený v tomto prehliadači, aby ste si mohli skontrolovať presne to, čo bude odosielať živá verzia."
+  },
+  {
+   "id": 169,
+   "text": "Váš nákup sa zobrazí v aplikácii"
+  },
+  {
+   "id": 170,
+   "text": "Váš plán žije v aplikácii Tava s dennými rannými a večernými odškrtávaniami, vašou sériou a sledovaním vašej zásielky. Aplikácia zatiaľ nie je v App Store. Po pokladni vám potvrdzujúca stránka a e-mail poskytnú "
+  },
+  {
+   "id": 171,
+   "text": "kód na uplatnenie"
+  },
+  {
+   "id": 172,
+   "text": ". Keď si aplikáciu nainštalujete, prihláste sa a zadajte tento kód a váš plán, odpovede a objednávka tam už budú. Bez opätovného nákupu."
+  },
+  {
+   "id": 173,
+   "text": "Zobraziť môj kód na uplatnenie po pokladni"
+  },
+  {
+   "id": 174,
+   "text": "Tava Labs · PDRN Brightening Serum pre zakladateľov · Otázky? talia@tavalabs.app"
+  }
+ ]
+}

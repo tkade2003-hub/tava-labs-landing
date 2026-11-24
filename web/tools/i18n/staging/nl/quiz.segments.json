@@ -1,0 +1,707 @@
+{
+ "slug": "quiz",
+ "title": "Huidquiz | Stel uw persoonlijke serumplan samen | Tava Labs",
+ "description": "Beantwoord een paar korte vragen en stel uw persoonlijke plan samen rond de PDRN Brightening Serum. Eén serum, twee keer per dag, afgestemd op uw huid en uw doelen.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "&larr; Terug"
+  },
+  {
+   "id": 4,
+   "text": "6 vragen naar uw plan"
+  },
+  {
+   "id": 5,
+   "text": "Fles PDRN Brightening Serum van Tava Labs"
+  },
+  {
+   "id": 6,
+   "text": "Bouw je persoonlijke plan van 30 dagen"
+  },
+  {
+   "id": 7,
+   "text": "Eén serum. Twee keer per dag. "
+  },
+  {
+   "id": 8,
+   "text": "30 dagen."
+  },
+  {
+   "id": 9,
+   "text": "Beantwoord een paar korte vragen en wij bouwen je persoonlijke plan van 30 dagen rond het PDRN Brightening Serum, één stap in de ochtend en één stap in de avond. Abonnement, en je kunt het op elk moment pauzeren of opzeggen."
+  },
+  {
+   "id": 10,
+   "text": "Stel mijn plan samen"
+  },
+  {
+   "id": 11,
+   "text": "PDRN Brightening Serum · 1 fl oz (30 ml) · Gemaakt voor gebruik twee keer per dag"
+  },
+  {
+   "id": 12,
+   "text": "Nog 6 te gaan"
+  },
+  {
+   "id": 13,
+   "text": "Wat wilt u het meest bereiken in de komende 30 dagen?"
+  },
+  {
+   "id": 14,
+   "text": "Een huid die er helderder uitziet"
+  },
+  {
+   "id": 15,
+   "text": "Fijne lijntjes"
+  },
+  {
+   "id": 16,
+   "text": "Diepe hydratatie"
+  },
+  {
+   "id": 17,
+   "text": "Egale teint"
+  },
+  {
+   "id": 18,
+   "text": "U bent niet de enige"
+  },
+  {
+   "id": 19,
+   "text": "U bent niet de enige."
+  },
+  {
+   "id": 20,
+   "text": "Ga verder"
+  },
+  {
+   "id": 21,
+   "text": "Nog 5 te gaan"
+  },
+  {
+   "id": 22,
+   "text": "Hoe voelt uw huid meestal halverwege de dag?"
+  },
+  {
+   "id": 23,
+   "text": "Droog"
+  },
+  {
+   "id": 24,
+   "text": "Vettig"
+  },
+  {
+   "id": 25,
+   "text": "Gecombineerd"
+  },
+  {
+   "id": 26,
+   "text": "Gevoelig"
+  },
+  {
+   "id": 27,
+   "text": "Weet ik niet zeker"
+  },
+  {
+   "id": 28,
+   "text": "Nog 4 te gaan"
+  },
+  {
+   "id": 29,
+   "text": "En wat is op dit moment uw grootste aandachtspunt?"
+  },
+  {
+   "id": 30,
+   "text": "Dofheid"
+  },
+  {
+   "id": 31,
+   "text": "Fijne lijntjes"
+  },
+  {
+   "id": 32,
+   "text": "Ongelijke teint"
+  },
+  {
+   "id": 33,
+   "text": "Ruwe textuur"
+  },
+  {
+   "id": 34,
+   "text": "Droogheid"
+  },
+  {
+   "id": 35,
+   "text": "Uw formule match"
+  },
+  {
+   "id": 36,
+   "text": "In de fles, afgestemd op uw antwoorden"
+  },
+  {
+   "id": 37,
+   "text": "Eén vaste formule. Hier zie je welke ingrediënten passen bij wat je ons net hebt verteld."
+  },
+  {
+   "id": 38,
+   "text": "Ga verder"
+  },
+  {
+   "id": 39,
+   "text": "Nog 3 te gaan"
+  },
+  {
+   "id": 40,
+   "text": "Heeft uw huid eerder gereageerd op sterke producten?"
+  },
+  {
+   "id": 41,
+   "text": "Ja, snel"
+  },
+  {
+   "id": 42,
+   "text": "Soms"
+  },
+  {
+   "id": 43,
+   "text": "Zelden"
+  },
+  {
+   "id": 44,
+   "text": "Nog 2 te gaan"
+  },
+  {
+   "id": 45,
+   "text": "Hoe ziet uw routine er vandaag uit?"
+  },
+  {
+   "id": 46,
+   "text": "Alleen een reiniger"
+  },
+  {
+   "id": 47,
+   "text": "Een paar producten"
+  },
+  {
+   "id": 48,
+   "text": "Een volledige routine"
+  },
+  {
+   "id": 49,
+   "text": "Laatste vraag"
+  },
+  {
+   "id": 50,
+   "text": "Wanneer brengt u het aan?"
+  },
+  {
+   "id": 51,
+   "text": "Ochtend"
+  },
+  {
+   "id": 52,
+   "text": "6:30 AM"
+  },
+  {
+   "id": 53,
+   "text": "7:30 AM"
+  },
+  {
+   "id": 54,
+   "text": "8:30 AM"
+  },
+  {
+   "id": 55,
+   "text": "Aangepaste ochtendtijd"
+  },
+  {
+   "id": 56,
+   "text": "Avond"
+  },
+  {
+   "id": 57,
+   "text": "9:00 PM"
+  },
+  {
+   "id": 58,
+   "text": "10:00 PM"
+  },
+  {
+   "id": 59,
+   "text": "10:30 PM"
+  },
+  {
+   "id": 60,
+   "text": "Aangepaste avondtijd"
+  },
+  {
+   "id": 61,
+   "text": "Ga verder"
+  },
+  {
+   "id": 62,
+   "text": "Bijna klaar"
+  },
+  {
+   "id": 63,
+   "text": "Waar mogen wij uw plan van 30 dagen naartoe sturen?"
+  },
+  {
+   "id": 64,
+   "text": "Je plan gaat naar je inbox. Gebruik dezelfde e-mail als je de app downloadt, want zo herkent de app je, en je antwoorden, plan en bestelling wachten daar op je."
+  },
+  {
+   "id": 65,
+   "text": "E-mailadres"
+  },
+  {
+   "id": 66,
+   "text": "you@example.com"
+  },
+  {
+   "id": 67,
+   "text": "Die e-mail ziet er niet compleet uit. Controleer haar en probeer het opnieuw."
+  },
+  {
+   "id": 68,
+   "text": "Toon mijn plan"
+  },
+  {
+   "id": 69,
+   "text": "Uw plan"
+  },
+  {
+   "id": 70,
+   "text": "Voorbeeld van uw behandeling"
+  },
+  {
+   "id": 71,
+   "text": "Tava Labs"
+  },
+  {
+   "id": 72,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 73,
+   "text": "Fles PDRN Brightening Serum"
+  },
+  {
+   "id": 74,
+   "text": "Geselecteerd op basis van uw doelen:"
+  },
+  {
+   "id": 75,
+   "text": "Plannen vanaf "
+  },
+  {
+   "id": 76,
+   "text": "$39/month*"
+  },
+  {
+   "id": 77,
+   "text": "*Maandelijks betaald. Pauzeer of zeg op wanneer u wilt."
+  },
+  {
+   "id": 78,
+   "text": "Fles voor eenmalige aankoop $49."
+  },
+  {
+   "id": 79,
+   "text": "UW EERSTE WEEK"
+  },
+  {
+   "id": 80,
+   "text": "Uw antwoorden hebben uw eerste week van de routine al in kaart gebracht. Na de eerste twee dagen volgen er nog vijf, en dag één begint op het moment dat uw serum wordt verzonden."
+  },
+  {
+   "id": 81,
+   "text": "Dag 1"
+  },
+  {
+   "id": 82,
+   "text": "Dag 2"
+  },
+  {
+   "id": 83,
+   "text": "Dag 3"
+  },
+  {
+   "id": 84,
+   "text": "Dag 4"
+  },
+  {
+   "id": 85,
+   "text": "Dag 5"
+  },
+  {
+   "id": 86,
+   "text": "Dag 6"
+  },
+  {
+   "id": 87,
+   "text": "Dag 7"
+  },
+  {
+   "id": 88,
+   "text": "Serumdetails"
+  },
+  {
+   "id": 89,
+   "text": "Eén serum. Twee keer per dag. 30 dagen."
+  },
+  {
+   "id": 90,
+   "text": "Type"
+  },
+  {
+   "id": 91,
+   "text": "Verhelderend serum · 1 fl oz"
+  },
+  {
+   "id": 92,
+   "text": "Gebruik"
+  },
+  {
+   "id": 93,
+   "text": "Twee keer per dag"
+  },
+  {
+   "id": 94,
+   "text": "Plan"
+  },
+  {
+   "id": 95,
+   "text": "30 dagen"
+  },
+  {
+   "id": 96,
+   "text": "Actieve ingrediënten"
+  },
+  {
+   "id": 97,
+   "text": "Actieve ingrediënten"
+  },
+  {
+   "id": 98,
+   "text": "PDRN"
+  },
+  {
+   "id": 99,
+   "text": "Polydeoxyribonucleotide"
+  },
+  {
+   "id": 100,
+   "text": "Textuur van het PDRN serum"
+  },
+  {
+   "id": 101,
+   "text": "Voor een huid die er helderder uitziet"
+  },
+  {
+   "id": 102,
+   "text": "Acetyl Hexapeptide-8"
+  },
+  {
+   "id": 103,
+   "text": "Peptide"
+  },
+  {
+   "id": 104,
+   "text": "Textuur van het Acetyl Hexapeptide-8 serum"
+  },
+  {
+   "id": 105,
+   "text": "Voor een huid die er gladder uitziet"
+  },
+  {
+   "id": 106,
+   "text": "Sodium Hyaluronate"
+  },
+  {
+   "id": 107,
+   "text": "Hyaluronzuur"
+  },
+  {
+   "id": 108,
+   "text": "Textuur van het Sodium Hyaluronate serum"
+  },
+  {
+   "id": 109,
+   "text": "Voor diepe hydratatie"
+  },
+  {
+   "id": 110,
+   "text": "Panthenol"
+  },
+  {
+   "id": 111,
+   "text": "Provitamine B5"
+  },
+  {
+   "id": 112,
+   "text": "Voor een zachte, comfortabele huid"
+  },
+  {
+   "id": 113,
+   "text": "Cosmetisch serum voor uitwendig gebruik. Alleen voor uitwendig gebruik. Vermijd de ogen. Stop met het gebruik als er irritatie optreedt."
+  },
+  {
+   "id": 114,
+   "text": "Gebruiksaanwijzing"
+  },
+  {
+   "id": 115,
+   "text": "Breng twee keer per dag 2 tot 4 pompjes aan op een schone, droge huid. Breng 's ochtends daarna vochtinbrengende crème of zonnebescherming aan."
+  },
+  {
+   "id": 116,
+   "text": "Goed om te weten"
+  },
+  {
+   "id": 117,
+   "text": "Alleen voor uitwendig gebruik. Vermijd de ogen. Stop met het gebruik als er irritatie optreedt. Buiten bereik van kinderen bewaren. Niet gebruiken op beschadigde huid. Bewaren op een koele, droge plaats."
+  },
+  {
+   "id": 118,
+   "text": "Maak kennis met uw "
+  },
+  {
+   "id": 119,
+   "text": "serum"
+  },
+  {
+   "id": 120,
+   "text": "Fles PDRN Brightening Serum"
+  },
+  {
+   "id": 121,
+   "text": "Presentatie en helderheid"
+  },
+  {
+   "id": 122,
+   "text": "Diepe hydratatie"
+  },
+  {
+   "id": 123,
+   "text": "Fijne lijntjes"
+  },
+  {
+   "id": 124,
+   "text": "Echte resultaten"
+  },
+  {
+   "id": 125,
+   "text": "Voor en na met de PDRN Brightening Serum"
+  },
+  {
+   "id": 126,
+   "text": "Voor"
+  },
+  {
+   "id": 127,
+   "text": "Na"
+  },
+  {
+   "id": 128,
+   "text": "Voor en na met de PDRN Brightening Serum"
+  },
+  {
+   "id": 129,
+   "text": "Voor"
+  },
+  {
+   "id": 130,
+   "text": "Na"
+  },
+  {
+   "id": 131,
+   "text": "Voor en na met de PDRN Brightening Serum"
+  },
+  {
+   "id": 132,
+   "text": "Voor"
+  },
+  {
+   "id": 133,
+   "text": "Na"
+  },
+  {
+   "id": 134,
+   "text": "Resultaten verschillen per persoon."
+  },
+  {
+   "id": 135,
+   "text": "Ga verder met dit plan"
+  },
+  {
+   "id": 136,
+   "text": "Bekijk andere opties"
+  },
+  {
+   "id": 137,
+   "text": "Afrekenen"
+  },
+  {
+   "id": 138,
+   "text": "Start uw 30 dagen"
+  },
+  {
+   "id": 139,
+   "text": "Demo-afrekening. Geen afschrijving."
+  },
+  {
+   "id": 140,
+   "text": " Deze pagina is nog niet gekoppeld aan een betaal of fulfilmenteindpunt. De knop hieronder controleert uw gegevens en stelt de exacte bestellading samen, zodat u precies kunt zien wat er zou worden verzonden."
+  },
+  {
+   "id": 141,
+   "text": "$39"
+  },
+  {
+   "id": 142,
+   "text": "Abonneren &amp; besparen"
+  },
+  {
+   "id": 143,
+   "text": "$49"
+  },
+  {
+   "id": 144,
+   "text": "Eenmalig"
+  },
+  {
+   "id": 145,
+   "text": "Voornaam"
+  },
+  {
+   "id": 146,
+   "text": "Achternaam"
+  },
+  {
+   "id": 147,
+   "text": "Straatadres"
+  },
+  {
+   "id": 148,
+   "text": "Appartement, suite, enz. "
+  },
+  {
+   "id": 149,
+   "text": "(optioneel)"
+  },
+  {
+   "id": 150,
+   "text": "Plaats"
+  },
+  {
+   "id": 151,
+   "text": "Staat"
+  },
+  {
+   "id": 152,
+   "text": "CA"
+  },
+  {
+   "id": 153,
+   "text": "Postcode"
+  },
+  {
+   "id": 154,
+   "text": "Land"
+  },
+  {
+   "id": 155,
+   "text": "Verenigde Staten"
+  },
+  {
+   "id": 156,
+   "text": "Canada"
+  },
+  {
+   "id": 157,
+   "text": "Verenigd Koninkrijk"
+  },
+  {
+   "id": 158,
+   "text": "Australië"
+  },
+  {
+   "id": 159,
+   "text": "Telefoon "
+  },
+  {
+   "id": 160,
+   "text": "(optioneel, voor updates over de levering)"
+  },
+  {
+   "id": 161,
+   "text": "Start mijn abonnement, $39"
+  },
+  {
+   "id": 162,
+   "text": "Het abonnement wordt elke 30 dagen verlengd voor $39. Pauzeer of zeg op wanneer u wilt."
+  },
+  {
+   "id": 163,
+   "text": "Fles PDRN Brightening Serum van Tava Labs"
+  },
+  {
+   "id": 164,
+   "text": "Bestelling ontvangen"
+  },
+  {
+   "id": 165,
+   "text": "Je plan"
+  },
+  {
+   "id": 166,
+   "text": "begint nu."
+  },
+  {
+   "id": 167,
+   "text": "Demo-afrekening. Er is niets afgeschreven."
+  },
+  {
+   "id": 168,
+   "text": " Uw bestellading is in deze browser bewaard, zodat u precies kunt controleren wat de live versie zal verzenden."
+  },
+  {
+   "id": 169,
+   "text": "Je aankoop verschijnt in de app"
+  },
+  {
+   "id": 170,
+   "text": "Uw plan staat in de Tava app, met dagelijkse afvinkmomenten voor ochtend en avond, uw reeks en uw zendingstracking. De app staat nog niet in de App Store. Na het afrekenen geven uw bevestigingspagina en e-mail u een "
+  },
+  {
+   "id": 171,
+   "text": "claimcode"
+  },
+  {
+   "id": 172,
+   "text": ". Wanneer u de app installeert, meldt u zich aan en voert u die code in, en uw plan, antwoorden en bestelling staan daar al voor u klaar. Niets opnieuw kopen."
+  },
+  {
+   "id": 173,
+   "text": "Bekijk mijn claimcode na het afrekenen"
+  },
+  {
+   "id": 174,
+   "text": "Tava Labs · PDRN Brightening Serum voor oprichters · Vragen? talia@tavalabs.app"
+  }
+ ]
+}

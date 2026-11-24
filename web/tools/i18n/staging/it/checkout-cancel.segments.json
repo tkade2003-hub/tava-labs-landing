@@ -1,0 +1,67 @@
+{
+ "slug": "checkout-cancel",
+ "title": "Pagamento annullato | Nessun addebito effettuato | Tava Labs",
+ "description": "Non è stato effettuato alcun addebito. Il tuo piano Tava Labs e le tue risposte sono salvati, così potrai completare l'ordine più tardi, quando sarai pronto.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "Pagamento annullato"
+  },
+  {
+   "id": 4,
+   "text": "Nessun addebito. "
+  },
+  {
+   "id": 5,
+   "text": "Niente è andato perduto."
+  },
+  {
+   "id": 6,
+   "text": "Hai lasciato il pagamento prima di completarlo, quindi "
+  },
+  {
+   "id": 7,
+   "text": "la tua carta non è stata addebitata"
+  },
+  {
+   "id": 8,
+   "text": ", nemmeno un centesimo. E il tuo lavoro non è andato sprecato: le risposte che hai fornito e il piano di 30 giorni che abbiamo creato a partire da esse sono salvati e associati alla email che hai inserito."
+  },
+  {
+   "id": 9,
+   "text": "Quando sarai pronto, riprendi da dove ti eri fermato. Rispondi di nuovo alle rapide domande con la stessa email e il tuo piano verrà ricostruito esattamente com'era, poi concludi al pagamento sicuro."
+  },
+  {
+   "id": 10,
+   "text": "Torna al mio piano di 30 giorni"
+  },
+  {
+   "id": 11,
+   "text": "Hai cambiato idea definitivamente? Nessun problema: non è stato addebitato nulla e non c'è nulla da annullare. Domande? Scrivici a "
+  },
+  {
+   "id": 12,
+   "text": "talia@tavalabs.app"
+  },
+  {
+   "id": 13,
+   "text": "."
+  },
+  {
+   "id": 14,
+   "text": "Tava Labs · PDRN Brightening Serum per fondatori · Domande? talia@tavalabs.app"
+  }
+ ]
+}

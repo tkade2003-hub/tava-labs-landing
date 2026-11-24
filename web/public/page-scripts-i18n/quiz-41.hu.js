@@ -12,23 +12,23 @@ const FUNNEL_INTAKE_URL = "https://vuzrpgkqytzvbbxwsvqr.supabase.co/functions/v1
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { subscribe: 39, one_time: 49 };
 
-const GOAL_LABEL = { radiance: "ragyogás és kisugárzás", fine_lines: "finom vonalak", hydration: "mély hidratálás", even_tone: "egyenletes tónus" };
+const GOAL_LABEL = { radiance: "ragyogóbb megjelenésű bőr", fine_lines: "finom vonalak", hydration: "mély hidratálás", even_tone: "egyenletes tónus" };
 const SKIN_LABEL = { dry: "Száraz", oily: "Zsíros", combination: "Kombinált", sensitive: "Érzékeny", not_sure: "Még nem tudom biztosan" };
 const CONCERN_LABEL = { dullness: "fakóság", fine_lines: "finom vonalak", uneven_tone: "egyenetlen tónus", texture: "durva textúra", dryness: "szárazság" };
 
 const NOT_ALONE = {
-  radiance: "Az alapítók és alkotók, akik minden nap bemutatkoznak, ugyanúgy kezdik a reggelüket. A fakó, fáradtnak tűnő bőr az egyik leggyakoribb ok, amiért az emberek szérumrutint kezdenek. A PDRN Brightening Serum a PDRN és a peptidek köré épül, könnyű formulában, amely a sima, ragyogó bőr látszatát hivatott javítani, és a bőrt teltnek, puhának és felfrissültnek mutatja, reggel és este.",
-  fine_lines: "Az alapítók és alkotók, akik minden nap bemutatkoznak, ugyanúgy kezdik a reggelüket. A finom vonalak általában az első dolog, amiért az emberek szérumot szeretnének. Ez a formula az Acetyl Hexapeptide-8 összetevőt párosítja a PDRN-nel, olyan összetevőket, amelyeket azért választottak, hogy támogassák a simábbnak és ragyogóbbnak tűnő bőrt, egyetlen lépésben, naponta kétszer. Nincs szükség tízlépéses rutinra.",
-  hydration: "Az alapítók és alkotók, akik minden nap bemutatkoznak, ugyanúgy kezdik a reggelüket. A bőr, amely délre feszesnek és szomjasnak érzi magát, pontosan az, amire ez a szérum készült. A Glycerin, a Sodium PCA és a Sodium Hyaluronate keveréke mély hidratálást nyújt, miközben a Panthenol ápol, így a bőr kényelmesnek érzi magát, és teltnek tűnik, nem zsírosnak.",
-  even_tone: "Az alapítók és alkotók, akik minden nap bemutatkoznak, ugyanúgy kezdik a reggelüket. Az egyenetlennek tűnő arcszín gyakori frusztráció. A PDRN és a peptidek segítenek előmozdítani a ragyogóbb, élénkebbnek tűnő arcszínt, és a könnyű formula gyorsan és könnyen beszívódik, egyszerű lépés naponta kétszer az egyenletesebb megjelenés felé."
+  radiance: "Az alapítók és alkotók, akik minden nap bemutatják magukat, ugyanúgy kezdik a reggelüket. A fakó, fáradt megjelenésű bőr az egyik leggyakoribb ok, amiért az emberek szérumrutint kezdenek. A PDRN Brightening Serum a PDRN és peptidek köré épül, egy könnyű formulában, amely segít a bőrnek simának és ragyogónak látszani, reggel és este.",
+  fine_lines: "Az alapítók és alkotók, akik minden nap bemutatják magukat, ugyanúgy kezdik a reggelüket. A finom vonalak általában az első dolog, amiért az emberek szérumot akarnak. Ez a formula az acetil-hexapeptid-8-at PDRN-nel párosítja, két összetevőt, amelyeket a simább és ragyogóbb megjelenésű bőr támogatására választottak, egyetlen lépésben, naponta kétszer. Nincs szükség tízlépéses rutinra.",
+  hydration: "Az alapítók és alkotók, akik minden nap bemutatják magukat, ugyanúgy kezdik a reggelüket. A délre feszesnek és száraznak érződő bőr pontosan az, amire ez a szérum készült. Glicerin, nátrium PCA és nátrium-hialuronát keveréke mély hidratálást biztosít, miközben a pantenol kondicionálja a bőrt, így kényelmesnek és hidratáltnak érződik, nem zsírosnak.",
+  even_tone: "Az alapítók és alkotók, akik minden nap bemutatják magukat, ugyanúgy kezdik a reggelüket. Az egyenetlen megjelenésű arcszín gyakori frusztráció. A PDRN és a peptidek segítenek a bőrnek ragyogóbbnak és egyenletesebbnek látszani, és a könnyű formula gyorsan beszívódik, egy egyszerű lépésben, naponta kétszer használva."
 };
 
 /* Ingredient groups from the verified Supliful listing. Cosmetic language only. */
 const INGREDIENTS = [
-  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Segít előmozdítani a ragyogóbb, élénkebbnek tűnő arcszínt, és javítja a sima, ragyogó bőr látszatát.", match: ["radiance", "fakóság", "uneven_tone", "even_tone"] },
+  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Segít a bőrnek ragyogóbbnak, egyenletesebbnek és simának látszani.", match: ["radiance", "fakóság", "uneven_tone", "even_tone"] },
   { key: "peptide", name: "Acetyl hexapeptide-8", text: "Peptid, amely a PDRN mellett dolgozik, hogy támogassa a simábbnak és egyenletesebbnek tűnő bőrt.", match: ["fine_lines", "texture"] },
-  { key: "ha", name: "Hialuronsav, Glycerin és Sodium PCA", text: "Hidratáló keverék, amely magához vonzza a nedvességet a telt, kényelmes érzetért és a selymesen sima textúráért.", match: ["hydration", "szárazság"] },
-  { key: "panthenol", name: "Panthenol", text: "Ápolja a bőrt, puhának és kényelmesnek hagyja, kíméletes alap a könnyen reagáló bőrnek.", match: ["sensitive"] }
+  { key: "ha", name: "Hialuronsav, Glycerin és Sodium PCA", text: "Hidratáló keverék, amely nedvességet von be, olyan bőrért, amely kényelmesnek és simának érződik.", match: ["hydration", "szárazság"] },
+  { key: "panthenol", name: "Panthenol", text: "Kondicionálja a bőrt, puhának és kényelmesnek hagyva azt, gyengéd alap könnyen reagáló bőrnek.", match: ["sensitive"] }
 ];
 
 const RAMPS = {

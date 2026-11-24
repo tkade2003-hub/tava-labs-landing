@@ -12,22 +12,22 @@ const FUNNEL_INTAKE_URL = "https://vuzrpgkqytzvbbxwsvqr.supabase.co/functions/v1
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { subscribe: 39, one_time: 49 };
 
-const GOAL_LABEL = { radiance: "luminosità e splendore", fine_lines: "linee sottili", hydration: "idratazione profonda", even_tone: "un colorito uniforme" };
+const GOAL_LABEL = { radiance: "pelle dall'aspetto più luminoso", fine_lines: "linee sottili", hydration: "idratazione profonda", even_tone: "un colorito uniforme" };
 const SKIN_LABEL = { dry: "Secca", oily: "Grassa", combination: "Mista", sensitive: "Sensibile", not_sure: "Lo sto ancora capendo" };
 const CONCERN_LABEL = { dullness: "opacità", fine_lines: "linee sottili", uneven_tone: "colorito irregolare", texture: "texture ruvida", dryness: "secchezza" };
 
 const NOT_ALONE = {
-  radiance: "Fondatori e creatori che si presentano ogni giorno iniziano la mattina allo stesso modo. Una pelle spenta e dall'aspetto stanco è uno dei motivi più comuni per iniziare una routine con un siero. Il PDRN Brightening Serum è costruito intorno a PDRN e peptidi, in una formula leggera pensata per migliorare l'aspetto di una pelle liscia e luminosa, lasciandola dall'aspetto rimpolpato, morbido e fresco, mattina e sera.",
-  fine_lines: "Fondatori e creatori che si presentano ogni giorno iniziano la mattina allo stesso modo. Le linee sottili sono di solito la prima cosa per cui le persone cercano un siero. Questa formula unisce acetyl hexapeptide-8 e PDRN, ingredienti scelti per sostenere una pelle dall'aspetto più liscio e luminoso, in un unico gesto, due volte al giorno. Nessuna routine in dieci passi necessaria.",
-  hydration: "Fondatori e creatori che si presentano ogni giorno iniziano la mattina allo stesso modo. Una pelle che tira e ha sete già a metà giornata è esattamente ciò per cui è fatto questo siero. Una miscela di glicerina, sodio PCA e ialuronato di sodio offre un'idratazione profonda, mentre il pantenolo condiziona, così la pelle si sente confortevole e appare rimpolpata, non unta.",
-  even_tone: "Fondatori e creatori che si presentano ogni giorno iniziano la mattina allo stesso modo. Un colorito dall'aspetto irregolare è una frustrazione comune. PDRN e peptidi aiutano a favorire un colorito dall'aspetto più luminoso e vibrante, e la formula leggera si assorbe rapidamente e facilmente, un semplice gesto due volte al giorno verso un aspetto più uniforme."
+  radiance: "Fondatori e creatori che si presentano ogni giorno iniziano la mattina allo stesso modo. Una pelle spenta e dall'aspetto stanco è uno dei motivi più comuni per iniziare una routine con un siero. Il PDRN Brightening Serum è costruito intorno a PDRN e peptidi, in una formula leggera che aiuta la pelle ad apparire liscia e luminosa, mattina e sera.",
+  fine_lines: "Fondatori e creatori che si presentano ogni giorno iniziano la mattina allo stesso modo. Le linee sottili sono di solito la prima cosa per cui le persone cercano un siero. Questa formula unisce acetil esapeptide-8 e PDRN, due ingredienti scelti per sostenere una pelle dall'aspetto più liscio e luminoso, in un unico passaggio, due volte al giorno. Nessuna routine in dieci passaggi necessaria.",
+  hydration: "Fondatori e creatori che si presentano ogni giorno iniziano la mattina allo stesso modo. Una pelle che si sente tesa e secca entro metà giornata è esattamente ciò per cui è fatto questo siero. Una miscela di glicerina, PCA sodico e ialuronato di sodio fornisce un'idratazione profonda, mentre il pantenolo condiziona la pelle, così si sente confortevole e idratata, non unta.",
+  even_tone: "Fondatori e creatori che si presentano ogni giorno iniziano la mattina allo stesso modo. Un colorito dall'aspetto irregolare è una frustrazione comune. PDRN e peptidi aiutano la pelle ad apparire più luminosa e più uniforme, e la formula leggera si assorbe rapidamente, in un semplice passaggio usato due volte al giorno."
 };
 
 /* Ingredient groups from the verified Supliful listing. Cosmetic language only. */
 const INGREDIENTS = [
-  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Aiuta a favorire un colorito dall'aspetto più luminoso e vibrante e migliora l'aspetto di una pelle liscia e radiosa.", match: ["radiance", "opacità", "uneven_tone", "even_tone"] },
+  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Aiuta la pelle ad apparire più luminosa, più uniforme e liscia.", match: ["radiance", "opacità", "uneven_tone", "even_tone"] },
   { key: "peptide", name: "Acetyl hexapeptide-8", text: "Un peptide che lavora insieme al PDRN per sostenere una pelle dall'aspetto più liscio e uniforme.", match: ["fine_lines", "texture"] },
-  { key: "ha", name: "Acido ialuronico, glicerina e sodio PCA", text: "Una miscela idratante che attira l'acqua per una sensazione rimpolpata e confortevole e una texture setosa e liscia.", match: ["hydration", "secchezza"] },
+  { key: "ha", name: "Acido ialuronico, glicerina e sodio PCA", text: "Una miscela idratante che attira l'idratazione, per una pelle che si sente confortevole e liscia.", match: ["hydration", "secchezza"] },
   { key: "panthenol", name: "Pantenolo", text: "Condiziona la pelle, lasciandola morbida e confortevole, una base gentile per la pelle che reagisce facilmente.", match: ["sensitive"] }
 ];
 

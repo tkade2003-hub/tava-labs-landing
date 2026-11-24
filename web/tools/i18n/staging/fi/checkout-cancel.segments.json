@@ -1,0 +1,67 @@
+{
+ "slug": "checkout-cancel",
+ "title": "Kassa peruutettu | Veloitusta ei tehty | Tava Labs",
+ "description": "Maksua ei veloitettu. Tava Labs -suunnitelmasi ja vastauksesi on tallennettu, joten voit viimeistellä tilauksesi myöhemmin, kun olet valmis.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "Kassa peruutettu"
+  },
+  {
+   "id": 4,
+   "text": "Ei veloitusta. "
+  },
+  {
+   "id": 5,
+   "text": "Mitään ei menetetty."
+  },
+  {
+   "id": 6,
+   "text": "Poistuit kassalta ennen viimeistelyä, joten "
+  },
+  {
+   "id": 7,
+   "text": "korttiasi ei veloitettu"
+  },
+  {
+   "id": 8,
+   "text": ", ei senttiäkään. Eikä työsi mennyt hukkaan: antamasi vastaukset ja niiden pohjalta rakentamamme 30 päivän suunnitelma on tallennettu antamaasi sähköpostiin."
+  },
+  {
+   "id": 9,
+   "text": "Kun olet valmis, jatka siitä, mihin jäit. Vastaa nopeisiin kysymyksiin uudelleen samalla sähköpostilla, niin suunnitelmasi rakennetaan uudelleen täsmälleen sellaisena kuin se oli, ja viimeistele sitten turvallisessa kassassa."
+  },
+  {
+   "id": 10,
+   "text": "Takaisin 30 päivän suunnitelmaani"
+  },
+  {
+   "id": 11,
+   "text": "Muutit mielesi lopullisesti? Ei haittaa. Mitään ei veloitettu eikä mitään tarvitse peruuttaa. Kysyttävää? Lähetä sähköpostia osoitteeseen "
+  },
+  {
+   "id": 12,
+   "text": "talia@tavalabs.app"
+  },
+  {
+   "id": 13,
+   "text": "."
+  },
+  {
+   "id": 14,
+   "text": "Tava Labs · PDRN Brightening Serum perustajille · Kysymyksiä? talia@tavalabs.app"
+  }
+ ]
+}

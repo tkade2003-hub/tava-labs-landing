@@ -2,15 +2,15 @@
  "meta": {
   "home": {
    "title": "PDRN Brightening Serum för entreprenörer | Tava Labs",
-   "description": "Hudvård för entreprenörer. PDRN Brightening Serum kombinerar PDRN, peptider och hyaluronsyra för strålande, återfuktad hud. $49 som engångsköp eller $39 per månad."
+   "description": "Ett dagligt ansiktsserum för grundare och företagare. PDRN Brightening Serum med PDRN, peptider och hyaluronsyra för hud som ser ljusare och återfuktad ut. $49 som engångsköp eller $39 per månad."
   },
   "product": {
    "title": "PDRN Brightening Serum för entreprenörer | Tava Labs",
-   "description": "Tava Labs PDRN Brightening Serum kombinerar PDRN, peptider och natriumhyaluronat för strålande, återfuktad hud i ett enda dagligt steg, skapat för grundare, operatörer och kreatörer. $49 som engångsköp eller $39 per månad."
+   "description": "Tava Labs PDRN Brightening Serum är ett dagligt ansiktsserum med PDRN, peptider och natriumhyaluronat för hud som ser ljusare och återfuktad ut. Gjort för grundare och företagare. $49 som engångsköp eller $39 per månad."
   },
   "about": {
-   "title": "Om Tava Labs | Hudvård för de ambitiösa",
-   "description": "Tava Labs skapar hudvård för de ambitiösa. Möt teamet bakom PDRN Brightening Serum, den dagliga rutinen gjord för grundare och yrkesverksamma."
+   "title": "Om Tava Labs | Ansiktsserum för grundare",
+   "description": "Tava Labs gör en enda produkt, PDRN Brightening Serum, ett dagligt ansiktsserum för grundare och företagare. Läs vilka vi är och varför vi gjorde det."
   },
   "ingredients": {
    "title": "PDRN Brightening Serum ingredienser | Tava Labs",
@@ -34,7 +34,7 @@
   },
   "blog": {
    "title": "The Tava Journal | Hud, sömn och stress för grundare",
-   "description": "Sömnforskning, stressforskning och hudhälsa för grundare och yrkesverksamma, plus praktiska rutiner för att se skarp ut på jobbet."
+   "description": "Sömnforskning, stressforskning och hudhälsa för grundare och företagare, plus praktiska rutiner för att se utvilad ut på jobbet."
   },
   "quiz": {
    "title": "Hudtest | Bygg din personliga serumplan | Tava Labs",
@@ -42,11 +42,11 @@
   },
   "checkoutSuccess": {
    "title": "Beställning bekräftad | Ditt PDRN Brightening Serum | Tava Labs",
-   "description": "Din beställning av Tava Labs PDRN Brightening Serum är bekräftad. Din anspråkskod kopplar köpet till appen, där din plan, dina svar och din beställning följer med dig."
+   "description": "Din beställning av Tava Labs PDRN Brightening Serum är bekräftad. Din anspråkskod kopplar köpet till appen, där du kan se din plan, dina quizsvar och din beställning."
   },
   "checkoutCancel": {
    "title": "Kassan avbruten | Ingen debitering gjord | Tava Labs",
-   "description": "Ingen debitering gjordes. Din Tava Labs plan och dina svar är sparade, så du kan fortsätta precis där du slutade när du är redo."
+   "description": "Ingen debitering gjordes. Din Tava Labs plan och dina svar är sparade, så att du kan slutföra din beställning senare när du är redo."
   },
   "login": {
    "title": "Logga in | Tava Labs",
@@ -92,7 +92,7 @@
   "openMenu": "Öppna menyn",
   "closeMenu": "Stäng menyn",
   "language": "Språk",
-  "tagline": "The Science of Attractive Health",
+  "tagline": "PDRN Brightening Serum för grundare",
   "shopHeading": "Handla",
   "contactHeading": "Kontakta oss",
   "infoHeading": "Info",
@@ -114,17 +114,17 @@
    "blog": "Blogg",
    "research": "Forskning"
   },
-  "newsletterHeading": "Håll dig uppdaterad om allt som rör Tava",
+  "newsletterHeading": "Få uppdateringar från Tava Labs via mejl",
   "newsletter": {
    "placeholder": "Din mejladress",
    "subscribe": "Prenumerera",
    "sending": "Skickar...",
-   "done": "Du är med. Välkommen till lysterlistan.",
+   "done": "Du prenumererar nu. Tack.",
    "error": "Något gick fel, försök igen."
   },
   "disclaimer1": "PDRN Brightening Serum är en kosmetisk produkt. Den är inte avsedd att diagnostisera, behandla, bota eller förebygga någon sjukdom. Individuella resultat kan variera.",
   "disclaimer2": "All försäljning är slutgiltig. Läs vår returpolicy innan du beställer.",
-  "copyright": "© 2026 Tava Labs · The Science of Attractive Health",
+  "copyright": "© 2026 Tava Labs · PDRN Brightening Serum för grundare",
   "notFoundLabel": "Tava Labs",
   "notFoundTitle": "Sidan hittades inte",
   "notFoundBody": "Den sidan finns inte här. Den kan ha flyttats, eller så är adressen ofullständig.",
@@ -140,19 +140,19 @@
  },
  "hero": {
   "ariaLabel": "PDRN Brightening Serum",
-  "pill": "För personen längst fram",
-  "line1": "Välvårdad innan",
-  "line2": "första samtalet.",
-  "sub": "Två till fyra droppar PDRN Brightening Serum, morgon och kväll, för hud som ser ljus, återfuktad och slät ut från första till sista samtalet.",
+  "pill": "För grundare och företagare",
+  "line1": "Ett dagligt ansiktsserum för",
+  "line2": "ljusare, slätare hud.",
+  "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Applicera två till fyra droppar morgon och kväll. $49 som engångsköp eller $39 per månad.",
   "cardAria": "PDRN Brightening Serum, produktsidan",
-  "onSetPill": "På inspelning",
-  "onSetCaption": "Lugn under strålkastarna",
+  "onSetPill": "Framför kameran",
+  "onSetCaption": "För filminspelning och videosamtal",
   "onSetAlt": "Grundare som sitter i en studio och tittar in i kameran",
-  "morningPill": "Morgonritual",
-  "morningCaption": "Vid spegeln, det första du gör",
+  "morningPill": "Morgonrutin",
+  "morningCaption": "Applicera vid spegeln varje morgon",
   "morningAlt": "Grundare som applicerar serum vid en badrumsspegel i morgonljus",
   "widePill": "Dag och natt",
-  "wideHead": "En flaska. Varje dag.",
+  "wideHead": "En flaska, använd morgon och kväll.",
   "priceLine": "$49 som engångsköp eller $39 i månaden",
   "talia": {
    "baseline": "Startvärde",
@@ -167,27 +167,27 @@
  "home": {
   "introTitleLead": "Ljusare, återfuktad,",
   "introTitleAccent": "friskt utseende hud",
-  "introBody": "Entreprenörer lever framför kameran och i rummet. Du pitchar investerare, stänger affärer på säljsamtal och spelar in videon som säljer produkten. Ditt ansikte är en del av pitchen. PDRN Brightening Serum är ett lätt steg som absorberas snabbt, med PDRN, peptider och hyaluronsyra. Det hjälper huden att se ljusare, djupt återfuktad och slät ut. Två minuter, två gånger om dagen, och du dyker upp skarp, utvilad och redo.",
-  "marqueeTagline": "The Science of Attractive Health",
-  "marqueeSlogan": "Hudvård för de ambitiösa",
-  "buildersTitle": "Byggt för byggarna",
+  "introBody": "Grundare och företagare tillbringar dagarna i möten, på säljsamtal och i inspelade videor. Ditt ansikte syns på skärmen och i rummet under allt detta. PDRN Brightening Serum är ett enda lätt steg med PDRN, peptider och hyaluronsyra. Det absorberas snabbt och hjälper huden att se ljusare, återfuktad och slät ut. Två minuter, två gånger om dagen.",
+  "marqueeTagline": "Ett serum, morgon och kväll",
+  "marqueeSlogan": "Gjort för grundare och företagare",
+  "buildersTitle": "Gjort för grundare och företagare",
   "buildersTagline": "Bygg ditt företag. Försumma inte dig själv.",
-  "buildersBody": "Som entreprenör presenterar du ständigt. Du pitchar investerare ansikte mot ansikte, säljer på videosamtal och spelar in innehåll som måste vinna förtroende på några sekunder. Att se förberedd och samlad ut är inte fåfänga. Det är en del av hur du presenterar företaget. En enkel daglig rutin hör hemma i en grundares system, bredvid en bra garderob, en kvalitetsdator och ett system du kan lita på.",
+  "buildersBody": "Grundare och företagare presenterar hela dagen. Du pitchar investerare personligen, säljer på videosamtal och spelar in videor för kunder. Att se ren och utvilad ut är en del av att presentera ditt företag bra. En kort daglig hudvårdsrutin hör hemma bredvid en bra garderob och en pålitlig bärbar dator som grundläggande underhåll. PDRN Brightening Serum tar två minuter, morgon och kväll.",
   "pitchAlt": "Grundare som pitchar sin idé för en investerare",
   "pitchTitle": "I pitchen",
-  "pitchBody": "Tvärs över bordet från en investerare läser rummet av dig innan det läser din presentation. Dyk upp och se ut som personen bakom ett företag värt att satsa på: utvilad, skarp och redo.",
+  "pitchBody": "När du pitchar investerare personligen ser de dig innan de ser dina bilder. En daglig serumrutin hjälper din hud att se ljus, återfuktad och utvilad ut den dagen.",
   "cameraAlt": "Grundare som talar framför en kamera",
   "cameraTitle": "Framför kameran",
-  "cameraBody": "Vid en inspelning, en podd eller ett säljsamtal visar linsen de sena kvällarna först. Självförtroende framför kameran börjar med hur du tar hand om dig själv innan du någonsin trycker på inspelning.",
-  "maintenanceTitle": "Entreprenörens dagliga underhåll.",
-  "maintenanceBody": "Ett serum, morgon och kväll. Se förberedd ut. Känn dig trygg. Dyk upp redo.",
-  "motionTitle": "Tava i rörelse",
-  "motionBody": "Många kreatörer och entreprenörer älskar oss redan.",
+  "cameraBody": "Vid en videoinspelning, en podd eller ett säljsamtal visar kameran trött hud på nära håll. En rutin på två minuter morgon och kväll hjälper din hud att se utvilad ut innan du spelar in.",
+  "maintenanceTitle": "Ett serum är hela rutinen.",
+  "maintenanceBody": "Applicera två till fyra droppar PDRN Brightening Serum på ren, torr hud, morgon och kväll, och följ upp med fuktkräm. Hela rutinen tar ungefär två minuter om dagen.",
+  "motionTitle": "Se kundvideor",
+  "motionBody": "Grundare och kreatörer som använder PDRN Brightening Serum, inspelade på video.",
   "playVideo": "Spela upp video",
   "videoPlayer": "Videospelare",
   "closeVideo": "Stäng video",
-  "freeFromTitleLead": "Kvalitetsingredienser, kombinerade",
-  "freeFromTitleAccent": "med omsorg.",
+  "freeFromTitleLead": "Vad som inte finns",
+  "freeFromTitleAccent": "i formulan.",
   "freeFromSub": "Det vi utelämnar betyder lika mycket som det vi tillsätter.",
   "freeFromItems": [
    {
@@ -224,22 +224,22 @@
    }
   ],
   "founderLabel": "Ett meddelande från vår grundare",
-  "founderQuote": "”Hälsosam hud är det mest attraktiva du kan bära.”",
-  "founderBody1": "Det är filosofin bakom Tava Labs, The Science of Attractive Health. PDRN Brightening Serum är det enda steg som rutinen bygger kring: två minuter, två gånger om dagen, morgon och kväll.",
-  "founderBody2": "Se filmen och hör vetenskapen bakom det, med våra egna ord.",
+  "founderQuote": "“Ett serum, två minuter, morgon och kväll. Det är hela rutinen.”",
+  "founderBody1": "Det är idén bakom Tava Labs. PDRN Brightening Serum är det enda steg som rutinen bygger på: två minuter, två gånger om dagen, morgon och kväll.",
+  "founderBody2": "Se videon för att höra varför vi gjorde det, med våra egna ord.",
   "founderPhilosophy": "Tava Labs filosofi",
-  "founderVideoAria": "Tava Labs filmen, vetenskapen bakom PDRN Brightening Serum",
+  "founderVideoAria": "Tava Labs videon, varför vi gjorde PDRN Brightening Serum",
   "shopSerum": "Handla serumet",
   "journalTitle": "The Tava Journal",
-  "journalSub": "Om sömn, stress och att dyka upp redo.",
+  "journalSub": "Artiklar om sömn, stress och hud för grundare.",
   "readJournal": "Läs Journal",
   "readStory": "Läs berättelsen"
  },
  "appTeaser": {
   "label": "Kommer snart",
-  "lead": "Din rutin, dina prover och dina beställningar får ett eget hem.",
-  "headlineLead": "En app.",
-  "headlineTrail": "Varje dag.",
+  "lead": "Din rutin, dina provresultat och dina beställningar, allt i Tava Labs appen.",
+  "headlineLead": "Ditt serum, dina prover och dina beställningar",
+  "headlineTrail": "i en enda app.",
   "scroll": "Skrolla",
   "caption": "Tava Labs appen samlar din serumplan, din dagliga rutin, dina labbpaneler och resultat samt dina beställningar på ett ställe, byggd för iPhone.",
   "features": [
@@ -249,7 +249,7 @@
    },
    {
     "title": "Serier och framsteg",
-    "desc": "Din serie och vad som återstår, läsbart med en blick."
+    "desc": "Din nuvarande svit och dagarna som återstår i din plan."
    },
    {
     "title": "Labbpaneler och resultat",
@@ -257,7 +257,7 @@
    },
    {
     "title": "Beställningar och påfyllning",
-    "desc": "Beställningar och påfyllning utan letande."
+    "desc": "Se dina beställningar och påfyllningsdatum på ett ställe."
    }
   ],
   "phone": {
@@ -308,9 +308,9 @@
    "eyebrow": "HUDVÅRD",
    "heroTitleLead": "Ditt nästa möte",
    "heroTitleAccent": "börjar med dig.",
-   "heroCopy": "Byggt för entreprenörer som pitchar, säljer och spelar in framför kameran. Ett dagligt serum, byggt kring PDRN, för hud som ser skarp och utvilad ut i rummet och genom linsen.",
+   "heroCopy": "Byggt för entreprenörer som pitchar, säljer och spelar in framför kameran. Ett dagligt serum, byggt kring PDRN, för hud som ser ljus och utvilad ut i rummet och framför kameran.",
    "heroFinePrint": "Kosmetisk hudvård. Inte avsett att diagnostisera, behandla, bota eller förebygga någon sjukdom.",
-   "stamp": "HUDVÅRD FÖR DE AMBITIÖSA",
+   "stamp": "HUDVÅRD FÖR GRUNDARE",
    "primaryCta": "Lägg till i rutinen",
    "secondaryCta": "Se ingredienserna",
    "optionsEyebrow": "SORTIMENTET",
@@ -326,7 +326,7 @@
      "badges": [
       "Bästsäljare"
      ],
-     "description": "Det dagliga serumet för strålande, återfuktad hud som ser frisk ut. $39 per månad med Subscribe and Save.",
+     "description": "Det dagliga serumet för ljusare, återfuktad och frisk hud. $39 per månad med Subscribe and Save.",
      "linkLabel": "Se serumet"
     },
     {
@@ -725,7 +725,7 @@
   "pricePerUnit": "/ 30ml (1 fl oz)",
   "subPrice": "eller $39 per månad med Subscribe and Save",
   "bullets": [
-   "PDRN, Acetyl Hexapeptide-8 och hyaluronsyra, för att stödja slätare hud som ser mer strålande ut.",
+   "PDRN, Acetyl Hexapeptide-8 och hyaluronsyra, för att stödja hud som ser slätare och ljusare ut.",
    "Djup återfuktning från glycerin, sodium PCA och panthenol.",
    "100% cruelty free, parfymfri, parabenfri, sulfatfri, fri från mineralolja, silikonfri och vegansk."
   ],
@@ -749,24 +749,24 @@
    }
   ],
   "innovation": {
-   "label": "Cellulär innovation",
-   "titleLead": "Nästa generations hud",
-   "titleAccent": "Regenerering",
-   "sub": "Marina aktiva ämnen och riktade hexapeptider, i ett dagligt serum.",
+   "label": "Nyckelingredienser",
+   "titleLead": "Vad de viktigaste",
+   "titleAccent": "ingredienserna gör",
+   "sub": "De tre ingredienserna nedan gör det mesta av arbetet i detta serum.",
    "items": [
     {
-     "label": "Cellförnyelse",
-     "title": "PDRN bioaktiva ämnen",
-     "body": "Marint PDRN påskyndar cellomsättningen, väcker en matt hy och jämnar ut synlig textur."
+     "label": "Hudtextur",
+     "title": "PDRN",
+     "body": "Marint PDRN ökar cellomsättningen, vilket gör en matt hudton ljusare och jämnar ut synlig textur."
     },
     {
-     "label": "Biopeptidkomplex",
+     "label": "Fasthet",
      "title": "Acetyl Hexapeptide-8",
-     "body": "Signalpeptider lättar på ytspänningen och stödjer kollagenets naturliga elasticitet, för hud som ser fastare ut och har mer spänst."
+     "body": "Denna peptid stödjer kollagenets elasticitet, för hud som ser fastare ut."
     },
     {
      "label": "Djup återfuktning",
-     "title": "Återfuktningsmatris",
+     "title": "Hyaluronsyra och Panthenol",
      "body": "Hyaluronsyra, sodium PCA och panthenol arbetar tillsammans för att hålla fukten i hudbarriären i över 24 timmar."
     }
    ],
@@ -778,7 +778,7 @@
    "footnote": "*Biocellulär aktivitet bedömd via kliniska utvärderingar in vitro och ex vivo. Resultaten kan variera beroende på individuellt hudtillstånd."
   },
   "ecosystem": {
-   "label": "Hela planen",
+   "label": "Din plan",
    "title": "Få fullständigt rutinstöd",
    "sub": "Tillsammans med ditt serum inkluderar varje Tava Labs plan:",
    "items": [
@@ -791,7 +791,7 @@
    "note": "Pausa, justera eller avbryt Subscribe and Save när som helst. Engångsköp finns kvar för $49."
   },
   "clinical": {
-   "label": "Klinisk effekt",
+   "label": "Kliniska tester",
    "titleLead": "Ta hand om din",
    "titleAccent": "hudhälsa",
    "imgAlts": [
@@ -802,16 +802,16 @@
    "note": "Utvärderingar av topiska bioaktiva ämnen baserade på 8 veckors konsumentuppfattning och instrumentella återfuktningstester. Individuella hudbarriärer, genetik och miljö påverkar specifika tidslinjer och resultat."
   },
   "formulary": {
-   "label": "Formulariet",
+   "label": "Jämför formuleringar",
    "title": "Vilken hudvårdsbehandling passar dig?",
-   "sub": "Riktade formler för olika hudmål, bekymmer och rutiner. Bygg regimen som passar ett arbetsschema.",
+   "sub": "Formuleringar för olika hudmål, bekymmer och rutiner. Välj den som passar din hud och ditt schema.",
    "serumAlt": "PDRN Brightening Serum",
    "serumPriceLine": "Subscribe and Save $39/mån",
    "serumOneTime": "eller $49 som engångsköp",
    "primaryBenefit": "Främsta fördel",
    "howToUse": "Så använder du",
    "activeIngredient": "Aktiv ingrediens",
-   "serumBenefitValue": "Lyster och fasthet",
+   "serumBenefitValue": "Ljushet och fasthet",
    "serumHowValue": "Morgon och kväll",
    "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
    "selectSerum": "Välj serum",
@@ -874,13 +874,13 @@
    ]
   },
   "protocol": {
-   "label": "Protokoll för daglig rutin",
+   "label": "Så använder du den",
    "titleLead": "En enkel rutin,",
    "titleAccent": "två gånger om dagen",
-   "sub": "Konsekvens betyder något. Följ dessa steg morgon och kväll så att peptiderna och PDRN kan göra sitt arbete, och avsluta med att låsa in fukten.",
+   "sub": "Konsekvens är viktigt. Följ dessa steg morgon och kväll, och avsluta med fuktkräm för att hålla fukten kvar.",
    "progressionLabel": "Klinisk progression",
    "progressionTitle": "Tidslinje för synliga resultat",
-   "progressionBody": "Förbättrad lyster och återfuktning på 7 till 14 dagar; förbättrad hudelasticitet och barriärfasthet vid vecka 4 till 6.",
+   "progressionBody": "Ljusare, mer återfuktad hud på 7 till 14 dagar; förbättrad hudelasticitet och barriärfasthet vid vecka 4 till 6.",
    "timelineAlt": "Exempel på tidslinje för resultat, vecka 1 till 4 och därefter",
    "steps": [
     {
@@ -893,7 +893,7 @@
     },
     {
      "title": "Återfukta och fukta",
-     "body": "Försegla med fuktkräm för att hålla kvar peptiderna och stödja ceramidbarriären."
+     "body": "Applicera fuktkräm för att hålla kvar peptiderna och stödja hudbarriären."
     },
     {
      "title": "Skydda (endast morgon), SPF 30+",
@@ -906,13 +906,13 @@
    ]
   },
   "faqSection": {
-   "label": "Svar och klarhet",
+   "label": "Frågor och svar",
    "title": "Vanliga frågor",
    "viewAll": "Se alla vanliga frågor",
    "items": [
     {
      "q": "Vad är PDRN och hur gynnar det huden?",
-     "a": "PDRN (Polydeoxyribonucleotide) består av DNA fragment som är biokompatibla med mänskliga hudceller. Det främjar naturlig cellregenerering, stimulerar mikrocirkulationen och hjälper till att reparera hudbarriären, för synlig lyster och fasthet."
+     "a": "PDRN (Polydeoxyribonukleotid) består av DNA fragment som är biokompatibla med mänskliga hudceller. Det främjar naturlig cellförnyelse, stimulerar mikrocirkulationen och hjälper till att reparera hudbarriären, för hud som ser ljusare och fastare ut."
     },
     {
      "q": "Hur införlivar jag PDRN Brightening Serum i min hudvårdsrutin?",
@@ -933,7 +933,7 @@
    ]
   },
   "finalCta": {
-   "title": "Ditt ansikte finns i varje pitch. Håll det redo.",
+   "title": "Ett serum för hud som ser ljusare, återfuktad och slätare ut.",
    "line": "PDRN Brightening Serum · $49.00 / 30ml · Ren och vegansk · Djup återfuktning · Avbryt när som helst"
   },
   "gallery": {
@@ -949,13 +949,13 @@
  },
  "about": {
   "label": "Om oss",
-  "titleLead": "Hudvård för",
-  "titleAccent": "de ambitiösa.",
+  "titleLead": "Ett dagligt ansiktsserum",
+  "titleAccent": "för grundare.",
   "tagline": "Bygg ditt företag. Försumma inte dig själv.",
-  "p1": "Tava Labs är ett varumärke för personligt underhåll för människor som bygger företag. Ditt utseende är en del av din professionella närvaro. Hur du dyker upp framför kameran, i pitchen och i rummet är en del av hur ditt arbete läses.",
-  "p2": "Vi gör en sak, och vi gör den väl. Ett dagligt serum som håller din hud samlad, återfuktad och redo, utan någon komplicerad rutin.",
-  "p3": "Tava Labs grundades för grundare, kreatörer och yrkesverksamma som investerar i personen bakom företaget. Ett steg, morgon och kväll, före mötena, pitcherna och kameraarbetet.",
-  "p4": "Detta är hudvård som underhåll, inte fåfänga. Samma disciplin som du tar med till ditt företag, tillämpad på dig själv.",
+  "p1": "Tava Labs är ett hudvårdsmärke för människor som bygger företag. Ditt utseende är en del av din professionella närvaro. Människor ser dig framför kameran, i pitchmöten och på jobbet varje dag.",
+  "p2": "Vi gör en sak, och vi gör den bra. Ett dagligt serum som håller din hud återfuktad och utvilad, utan en komplicerad rutin.",
+  "p3": "Tava Labs grundades för grundare och företagare. Ett steg, morgon och kväll, före mötena, pitcherna och kameraarbetet.",
+  "p4": "Hudvård, behandlad som grundläggande underhåll. Samma konsekvens som du tar med till ditt företag, tillämpad på din egen rutin.",
   "serumLabel": "Serumet",
   "serumTitle": "PDRN Brightening Serum",
   "serumAlt": "PDRN Brightening Serum",
@@ -968,10 +968,10 @@
   ],
   "priceLine": "$49 som engångsköp, eller $39 i månaden med Subscribe & Save.",
   "philosophyLabel": "Vår filosofi",
-  "quote": "”Hälsosam hud är det mest attraktiva du kan bära.”",
+  "quote": "“Ett serum, två minuter, morgon och kväll. Det är hela rutinen.”",
   "philosophyCaption": "Tava Labs filosofi",
-  "philosophyP1": "Vi tror på att ta hand om dig själv på samma sätt som du tar hand om ditt arbete: konsekvent och utan drama. Litet dagligt underhåll slår tillfälliga totalrenoveringar.",
-  "philosophyP2": "Vi lovar ingen förvandling. Vi gör ett välformulerat dagligt serum, berättar exakt vad det innehåller och låter rutinen tala för sig själv.",
+  "philosophyP1": "Vi tror på att ta hand om dig själv på samma sätt som du tar hand om ditt arbete, med små steg som görs konsekvent varje dag.",
+  "philosophyP2": "Vi lovar ingen förvandling. Vi gör ett välformulerat dagligt serum och berättar exakt vad som finns i det.",
   "onlineTitle": "Endast online",
   "onlineSegments": [
    {
@@ -1030,7 +1030,7 @@
     "q": "Vad är PDRN Brightening Serum?",
     "a": [
      {
-      "text": "Ett dagligt serum byggt kring PDRN (Polydeoxyribonucleotide) och Acetyl Hexapeptide-8, med Sodium Hyaluronate och Panthenol. Det är en daglig hyrutin: applicera morgon och kväll för att stödja en ljusare hy som ser jämnare ut och en samlad look som är redo för kameran."
+      "text": "Ett dagligt serum byggt kring PDRN (Polydeoxyribonukleotid) och Acetyl Hexapeptide-8, med Natriumhyaluronat och Panthenol. Applicera det morgon och kväll för att stödja en hudton som ser ljusare och jämnare ut."
      }
     ]
    },
@@ -1145,7 +1145,7 @@
   "keyItems": [
    {
     "name": "PDRN (Polydeoxyribonucleotide)",
-    "body": "Den främsta aktiva ingrediensen. Stödjer en ljusare hy som ser jämnare ut och en samlad look som är redo för kameran."
+    "body": "Vår huvudsakliga aktiva ingrediens. Stödjer en hudton som ser ljusare och jämnare ut."
    },
    {
     "name": "Acetyl Hexapeptide-8",
@@ -1174,15 +1174,15 @@
   "label": "Samarbeta med Tava Labs",
   "titleLead": "Ge dina grundare en gratis månad med",
   "titleAccent": "Tava Labs.",
-  "intro": "Tava Labs samarbetar med acceleratorer, universitet, ängelinvesterare och grundargemenskaper. Dina medlemmar får sin första månad med PDRN Brightening Serum gratis, så att människorna som bygger företag kan ta hand om personen bakom företaget.",
-  "tagline": "En gratis månad, på oss, helt utan förpliktelser.",
+  "intro": "Tava Labs samarbetar med acceleratorer, universitet, ängelinvesterare och grundargemenskaper. Dina medlemmar får sin första månad av PDRN Brightening Serum gratis.",
+  "tagline": "En gratis månad från oss, utan kostnad och utan förpliktelser.",
   "becomePartner": "Bli partner",
   "partnershipsContact": "Kontakt för partnerskap",
   "audiences": [
    {
     "alt": "Startupgrundare på en acceleratorsession",
     "title": "För acceleratorer",
-    "body": "Dina grundare pitchar, demonstrerar och filmar innehåll från dag ett. Ge dem en månad av dagligt underhåll som hjälper dem att dyka upp samlade och redo för kameran, och en sak mindre att tänka på under programmet.",
+    "body": "Dina grundare pitchar, demonstrerar och filmar innehåll från dag ett. Ge dem en månad av daglig hudvård som tar två minuter om dagen under programmet.",
     "how": "Så fungerar det: vi skickar varje grundare i din kohort en gratis flaska, med en personlig plan från hudtestet. Du introducerar oss en gång; vi sköter allt annat."
    },
    {
@@ -1194,7 +1194,7 @@
    {
     "alt": "Investerarmöte med en grundare",
     "title": "För ängelinvesterare",
-    "body": "Du satsar på personen lika mycket som på företaget. En gratis månad med Tava Labs är en omtänksam gåva till grundarna i din portfölj, och den stödjer den dagliga rutinen hos människorna du har investerat i.",
+    "body": "En gratis månad av Tava Labs är en praktisk gåva till grundarna i din portfölj. Vi sköter leveransen och deras personliga planer.",
     "how": "Så fungerar det: berätta hur många grundare du vill ge en gåva till, så ordnar vi leveransen och deras personliga planer. Ingen kostnad för dig och ingen kostnad för dem."
    }
   ],
@@ -1218,7 +1218,7 @@
     "body": "Ett steg, morgon och kväll. Det passar ett grundarschema eftersom det designades för ett."
    }
   ],
-  "formulationTitle": "Ren, genomtänkt formulering.",
+  "formulationTitle": "Gjord utan dessa ingredienser.",
   "formulationSub": "Serumet är gjort utan de ingredienser dina medlemmar frågar om mest:",
   "stepsTitle": "Så fungerar ett partnerskap",
   "steps": [
@@ -1232,11 +1232,11 @@
    },
    {
     "title": "Du ger gåvan",
-    "body": "Dina medlemmar får en gratis månad av dagligt underhåll, med vårt tack till dig i varje låda."
+    "body": "Dina medlemmar får en gratis månad av serumet, med ett tackkort från oss i varje låda."
    }
   ],
-  "closingTitleLead": "Låt oss lägga en gratis månad i dina grundares",
-  "closingTitleAccent": "händer.",
+  "closingTitleLead": "Ge dina grundare en",
+  "closingTitleAccent": "gratis månad.",
   "closingSegments": [
    {
     "text": "Mejla "
@@ -1261,7 +1261,7 @@
   "label": "The Tava Journal",
   "titleLead": "Forskning om sömn och stress",
   "titleAccent": "för grundare",
-  "sub": "Sömnforskning, stressforskning och prestationsinsikter för grundare.",
+  "sub": "Artiklar om sömnforskning, stressforskning och hudhälsa för grundare och företagare.",
   "readStory": "Läs berättelsen"
  },
  "research": {
@@ -1334,7 +1334,7 @@
   ],
   "peopleBg": "Människor",
   "participantsLabel": "Vilka som deltog",
-  "participantsTitle": "Människorna bakom genomsnittet.",
+  "participantsTitle": "Vilka som deltog i programmet.",
   "participantsSub": "Fem besök under programmet, från start till vecka 16.",
   "ageLabel": "Genomsnittsålder",
   "ageSuffix": "År · Intervall 20 till 48",
@@ -1672,7 +1672,7 @@
   "claimEmpty": "Köpte du via testet eller denna sida? Ditt bekräftelsemejl och sidan direkt efter kassan visade en anspråkskod. Öppna Tava mobilappen, logga in och ange koden under fliken Beställningar. Ditt köp, din plan och dina testsvar flyttar in i ditt appkonto. Här på webben visar inloggning med samma mejladress som du använde i kassan redan allt ovan. Inget annat att ange.",
   "shop": {
    "eyebrow": "PDRN Brightening Serum",
-   "title": "The Science of Attractive Health",
+   "title": "Handla Tava Labs",
    "body": "1 fl oz (30 ml). Minska fina linjer, återfukta på djupet, återställ lyster och stärk huden. 2 till 4 pumpningar, morgon och kväll.",
    "subscribeLine": "Prenumerera, $39 per månad.",
    "subscribeRest": " En ny flaska varje månad, automatiskt.",

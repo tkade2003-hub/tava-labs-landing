@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "luminosità e splendore"
+   "t": "pelle dall'aspetto più luminoso"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Fondatori e creatori che si presentano ogni giorno iniziano la mattina allo stesso modo. Una pelle spenta e dall'aspetto stanco è uno dei motivi più comuni per iniziare una routine con un siero. Il PDRN Brightening Serum è costruito intorno a PDRN e peptidi, in una formula leggera pensata per migliorare l'aspetto di una pelle liscia e luminosa, lasciandola dall'aspetto rimpolpato, morbido e fresco, mattina e sera."
+   "t": "Fondatori e creatori che si presentano ogni giorno iniziano la mattina allo stesso modo. Una pelle spenta e dall'aspetto stanco è uno dei motivi più comuni per iniziare una routine con un siero. Il PDRN Brightening Serum è costruito intorno a PDRN e peptidi, in una formula leggera che aiuta la pelle ad apparire liscia e luminosa, mattina e sera."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Fondatori e creatori che si presentano ogni giorno iniziano la mattina allo stesso modo. Le linee sottili sono di solito la prima cosa per cui le persone cercano un siero. Questa formula unisce acetyl hexapeptide-8 e PDRN, ingredienti scelti per sostenere una pelle dall'aspetto più liscio e luminoso, in un unico gesto, due volte al giorno. Nessuna routine in dieci passi necessaria."
+   "t": "Fondatori e creatori che si presentano ogni giorno iniziano la mattina allo stesso modo. Le linee sottili sono di solito la prima cosa per cui le persone cercano un siero. Questa formula unisce acetil esapeptide-8 e PDRN, due ingredienti scelti per sostenere una pelle dall'aspetto più liscio e luminoso, in un unico passaggio, due volte al giorno. Nessuna routine in dieci passaggi necessaria."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Fondatori e creatori che si presentano ogni giorno iniziano la mattina allo stesso modo. Una pelle che tira e ha sete già a metà giornata è esattamente ciò per cui è fatto questo siero. Una miscela di glicerina, sodio PCA e ialuronato di sodio offre un'idratazione profonda, mentre il pantenolo condiziona, così la pelle si sente confortevole e appare rimpolpata, non unta."
+   "t": "Fondatori e creatori che si presentano ogni giorno iniziano la mattina allo stesso modo. Una pelle che si sente tesa e secca entro metà giornata è esattamente ciò per cui è fatto questo siero. Una miscela di glicerina, PCA sodico e ialuronato di sodio fornisce un'idratazione profonda, mentre il pantenolo condiziona la pelle, così si sente confortevole e idratata, non unta."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Fondatori e creatori che si presentano ogni giorno iniziano la mattina allo stesso modo. Un colorito dall'aspetto irregolare è una frustrazione comune. PDRN e peptidi aiutano a favorire un colorito dall'aspetto più luminoso e vibrante, e la formula leggera si assorbe rapidamente e facilmente, un semplice gesto due volte al giorno verso un aspetto più uniforme."
+   "t": "Fondatori e creatori che si presentano ogni giorno iniziano la mattina allo stesso modo. Un colorito dall'aspetto irregolare è una frustrazione comune. PDRN e peptidi aiutano la pelle ad apparire più luminosa e più uniforme, e la formula leggera si assorbe rapidamente, in un semplice passaggio usato due volte al giorno."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Aiuta a favorire un colorito dall'aspetto più luminoso e vibrante e migliora l'aspetto di una pelle liscia e radiosa."
+   "t": "Aiuta la pelle ad apparire più luminosa, più uniforme e liscia."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "Una miscela idratante che attira l'acqua per una sensazione rimpolpata e confortevole e una texture setosa e liscia."
+   "t": "Una miscela idratante che attira l'idratazione, per una pelle che si sente confortevole e liscia."
   },
   {
    "k": "ing.panthenol.name",

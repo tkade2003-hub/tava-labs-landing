@@ -1,0 +1,707 @@
+{
+ "slug": "quiz",
+ "title": "Bőrkvíz | Állítsa össze személyes szérumtervét | Tava Labs",
+ "description": "Válaszoljon néhány gyors kérdésre, és állítsa össze személyes tervét a PDRN Brightening Serum köré. Egy szérum, naponta kétszer, az Ön bőréhez és céljaihoz igazítva.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "&larr; Vissza"
+  },
+  {
+   "id": 4,
+   "text": "6 kérdés a tervéig"
+  },
+  {
+   "id": 5,
+   "text": "Tava Labs PDRN Brightening Serum üveg"
+  },
+  {
+   "id": 6,
+   "text": "Építse fel személyes 30 napos tervét"
+  },
+  {
+   "id": 7,
+   "text": "Egy szérum. Naponta kétszer. "
+  },
+  {
+   "id": 8,
+   "text": "30 nap."
+  },
+  {
+   "id": 9,
+   "text": "Válaszoljon néhány gyors kérdésre, és felépítjük személyes 30 napos tervét a PDRN Brightening Serum köré, egy lépéssel reggel és egy lépéssel este. Előfizetés, és bármikor szüneteltetheti vagy lemondhatja."
+  },
+  {
+   "id": 10,
+   "text": "Összeállítom a tervemet"
+  },
+  {
+   "id": 11,
+   "text": "PDRN Brightening Serum · 1 fl oz (30 ml) · Naponta kétszeri használatra készült"
+  },
+  {
+   "id": 12,
+   "text": "Még 6 van hátra"
+  },
+  {
+   "id": 13,
+   "text": "Mit szeretne leginkább a következő 30 naptól?"
+  },
+  {
+   "id": 14,
+   "text": "Ragyogóbb megjelenésű bőr"
+  },
+  {
+   "id": 15,
+   "text": "Finom ráncok"
+  },
+  {
+   "id": 16,
+   "text": "Mély hidratálás"
+  },
+  {
+   "id": 17,
+   "text": "Egyenletes tónus"
+  },
+  {
+   "id": 18,
+   "text": "Nincs egyedül"
+  },
+  {
+   "id": 19,
+   "text": "Nincs egyedül."
+  },
+  {
+   "id": 20,
+   "text": "Folytassa"
+  },
+  {
+   "id": 21,
+   "text": "Még 5 van hátra"
+  },
+  {
+   "id": 22,
+   "text": "Hogyan érzi általában a bőrét délre?"
+  },
+  {
+   "id": 23,
+   "text": "Száraz"
+  },
+  {
+   "id": 24,
+   "text": "Zsíros"
+  },
+  {
+   "id": 25,
+   "text": "Kombinált"
+  },
+  {
+   "id": 26,
+   "text": "Érzékeny"
+  },
+  {
+   "id": 27,
+   "text": "Nem biztos benne"
+  },
+  {
+   "id": 28,
+   "text": "Még 4 van hátra"
+  },
+  {
+   "id": 29,
+   "text": "És mi most a legfőbb problémája?"
+  },
+  {
+   "id": 30,
+   "text": "Fakóság"
+  },
+  {
+   "id": 31,
+   "text": "Finom ráncok"
+  },
+  {
+   "id": 32,
+   "text": "Egyenetlen tónus"
+  },
+  {
+   "id": 33,
+   "text": "Érdes textúra"
+  },
+  {
+   "id": 34,
+   "text": "Szárazság"
+  },
+  {
+   "id": 35,
+   "text": "Az Ön formulatalálata"
+  },
+  {
+   "id": 36,
+   "text": "Az üveg belsejében, az Ön válaszaihoz igazítva"
+  },
+  {
+   "id": 37,
+   "text": "Egy rögzített formula. Íme, mely összetevők illenek ahhoz, amit éppen elmondott nekünk."
+  },
+  {
+   "id": 38,
+   "text": "Folytatás"
+  },
+  {
+   "id": 39,
+   "text": "Még 3 van hátra"
+  },
+  {
+   "id": 40,
+   "text": "Reagált már a bőre korábban erős termékekre?"
+  },
+  {
+   "id": 41,
+   "text": "Igen, könnyen"
+  },
+  {
+   "id": 42,
+   "text": "Néha"
+  },
+  {
+   "id": 43,
+   "text": "Ritkán"
+  },
+  {
+   "id": 44,
+   "text": "Még 2 van hátra"
+  },
+  {
+   "id": 45,
+   "text": "Hogyan néz ki ma a rutinja?"
+  },
+  {
+   "id": 46,
+   "text": "Csak arctisztító"
+  },
+  {
+   "id": 47,
+   "text": "Néhány termék"
+  },
+  {
+   "id": 48,
+   "text": "Teljes rutin"
+  },
+  {
+   "id": 49,
+   "text": "Utolsó kérdés"
+  },
+  {
+   "id": 50,
+   "text": "Mikor fogja felvinni?"
+  },
+  {
+   "id": 51,
+   "text": "Reggel"
+  },
+  {
+   "id": 52,
+   "text": "6:30 AM"
+  },
+  {
+   "id": 53,
+   "text": "7:30 AM"
+  },
+  {
+   "id": 54,
+   "text": "8:30 AM"
+  },
+  {
+   "id": 55,
+   "text": "Egyéni reggeli időpont"
+  },
+  {
+   "id": 56,
+   "text": "Este"
+  },
+  {
+   "id": 57,
+   "text": "9:00 PM"
+  },
+  {
+   "id": 58,
+   "text": "10:00 PM"
+  },
+  {
+   "id": 59,
+   "text": "10:30 PM"
+  },
+  {
+   "id": 60,
+   "text": "Egyéni esti időpont"
+  },
+  {
+   "id": 61,
+   "text": "Folytatás"
+  },
+  {
+   "id": 62,
+   "text": "Majdnem kész"
+  },
+  {
+   "id": 63,
+   "text": "Hová küldjük a 30 napos tervét?"
+  },
+  {
+   "id": 64,
+   "text": "A terve a postaládájába megy. Használja ugyanazt az e-mailt, amikor letölti az alkalmazást, mert így ismeri fel Önt az alkalmazás, és a válaszai, a terve és a rendelése ott várják majd."
+  },
+  {
+   "id": 65,
+   "text": "E-mail cím"
+  },
+  {
+   "id": 66,
+   "text": "you@example.com"
+  },
+  {
+   "id": 67,
+   "text": "Ez az e-mail nem tűnik teljesnek. Ellenőrizze, és próbálja újra."
+  },
+  {
+   "id": 68,
+   "text": "Mutassa a tervemet"
+  },
+  {
+   "id": 69,
+   "text": "Az Ön terve"
+  },
+  {
+   "id": 70,
+   "text": "A kezelési előnézete"
+  },
+  {
+   "id": 71,
+   "text": "Tava Labs"
+  },
+  {
+   "id": 72,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 73,
+   "text": "PDRN Brightening Serum üveg"
+  },
+  {
+   "id": 74,
+   "text": "Az Ön céljai alapján kiválasztva:"
+  },
+  {
+   "id": 75,
+   "text": "Tervek már "
+  },
+  {
+   "id": 76,
+   "text": "$39/month*"
+  },
+  {
+   "id": 77,
+   "text": "*Havonta fizetve. Bármikor szüneteltetheti vagy lemondhatja."
+  },
+  {
+   "id": 78,
+   "text": "Egyszeri üveg $49."
+  },
+  {
+   "id": 79,
+   "text": "AZ ELSŐ HETE"
+  },
+  {
+   "id": 80,
+   "text": "Válaszai már feltérképezték rutinja első hetét. Az első kettő után még öt nap van hátra, és az első nap abban a pillanatban kezdődik, amikor a szérumát feladjuk."
+  },
+  {
+   "id": 81,
+   "text": "1. nap"
+  },
+  {
+   "id": 82,
+   "text": "2. nap"
+  },
+  {
+   "id": 83,
+   "text": "3. nap"
+  },
+  {
+   "id": 84,
+   "text": "4. nap"
+  },
+  {
+   "id": 85,
+   "text": "5. nap"
+  },
+  {
+   "id": 86,
+   "text": "6. nap"
+  },
+  {
+   "id": 87,
+   "text": "7. nap"
+  },
+  {
+   "id": 88,
+   "text": "A szérum részletei"
+  },
+  {
+   "id": 89,
+   "text": "Egy szérum. Naponta kétszer. 30 nap."
+  },
+  {
+   "id": 90,
+   "text": "Típus"
+  },
+  {
+   "id": 91,
+   "text": "Világosító szérum · 1 fl oz"
+  },
+  {
+   "id": 92,
+   "text": "Használat"
+  },
+  {
+   "id": 93,
+   "text": "Naponta kétszer"
+  },
+  {
+   "id": 94,
+   "text": "Terv"
+  },
+  {
+   "id": 95,
+   "text": "30 nap"
+  },
+  {
+   "id": 96,
+   "text": "Aktív összetevők"
+  },
+  {
+   "id": 97,
+   "text": "Aktív összetevők"
+  },
+  {
+   "id": 98,
+   "text": "PDRN"
+  },
+  {
+   "id": 99,
+   "text": "Polydeoxyribonucleotide"
+  },
+  {
+   "id": 100,
+   "text": "PDRN szérum textúra"
+  },
+  {
+   "id": 101,
+   "text": "Ragyogóbb megjelenésű bőrért"
+  },
+  {
+   "id": 102,
+   "text": "Acetyl Hexapeptide-8"
+  },
+  {
+   "id": 103,
+   "text": "Peptid"
+  },
+  {
+   "id": 104,
+   "text": "Acetyl Hexapeptide-8 szérum textúra"
+  },
+  {
+   "id": 105,
+   "text": "A simább megjelenésű bőrért"
+  },
+  {
+   "id": 106,
+   "text": "Sodium Hyaluronate"
+  },
+  {
+   "id": 107,
+   "text": "Hialuronsav"
+  },
+  {
+   "id": 108,
+   "text": "Sodium Hyaluronate szérum textúra"
+  },
+  {
+   "id": 109,
+   "text": "Mély hidratálásért"
+  },
+  {
+   "id": 110,
+   "text": "Panthenol"
+  },
+  {
+   "id": 111,
+   "text": "B5-provitamin"
+  },
+  {
+   "id": 112,
+   "text": "A puha, komfortos bőrért"
+  },
+  {
+   "id": 113,
+   "text": "Kozmetikai szérum külsőleges használatra. Csak külsőleg. Kerülje a szemmel való érintkezést. Irritáció esetén hagyja abba a használatát."
+  },
+  {
+   "id": 114,
+   "text": "Használati útmutató"
+  },
+  {
+   "id": 115,
+   "text": "Vigyen fel 2-4 pumpát tiszta, száraz bőrre, naponta kétszer. Kövesse reggel hidratálókrémmel vagy naptejjel."
+  },
+  {
+   "id": 116,
+   "text": "Jó tudni"
+  },
+  {
+   "id": 117,
+   "text": "Csak külsőleg. Kerülje a szemmel való érintkezést. Irritáció esetén hagyja abba a használatát. Tartsa gyermekektől elzárva. Ne használja sérült bőrön. Hűvös, száraz helyen tárolja."
+  },
+  {
+   "id": 118,
+   "text": "Ismerje meg a "
+  },
+  {
+   "id": 119,
+   "text": "szérumát"
+  },
+  {
+   "id": 120,
+   "text": "PDRN Brightening Serum üveg"
+  },
+  {
+   "id": 121,
+   "text": "Prezentáció és ragyogás"
+  },
+  {
+   "id": 122,
+   "text": "Mély hidratálás"
+  },
+  {
+   "id": 123,
+   "text": "Finom ráncok"
+  },
+  {
+   "id": 124,
+   "text": "Valódi eredmények"
+  },
+  {
+   "id": 125,
+   "text": "Előtte és utána a PDRN Brightening Serum használatával"
+  },
+  {
+   "id": 126,
+   "text": "Előtte"
+  },
+  {
+   "id": 127,
+   "text": "Utána"
+  },
+  {
+   "id": 128,
+   "text": "Előtte és utána a PDRN Brightening Serum használatával"
+  },
+  {
+   "id": 129,
+   "text": "Előtte"
+  },
+  {
+   "id": 130,
+   "text": "Utána"
+  },
+  {
+   "id": 131,
+   "text": "Előtte és utána a PDRN Brightening Serum használatával"
+  },
+  {
+   "id": 132,
+   "text": "Előtte"
+  },
+  {
+   "id": 133,
+   "text": "Utána"
+  },
+  {
+   "id": 134,
+   "text": "Az egyéni eredmények eltérhetnek."
+  },
+  {
+   "id": 135,
+   "text": "Folytatás ezzel a tervvel"
+  },
+  {
+   "id": 136,
+   "text": "Más lehetőségek megtekintése"
+  },
+  {
+   "id": 137,
+   "text": "Fizetés"
+  },
+  {
+   "id": 138,
+   "text": "Kezdje el a 30 napját"
+  },
+  {
+   "id": 139,
+   "text": "Demó fizetés. Nincs terhelés."
+  },
+  {
+   "id": 140,
+   "text": " Ez az oldal még nincs összekapcsolva fizetési vagy teljesítési végponttal. Az alábbi gomb ellenőrzi az adatait, és összeállítja a pontos rendelési adatcsomagot, így pontosan láthatja, mi kerülne elküldésre."
+  },
+  {
+   "id": 141,
+   "text": "$39"
+  },
+  {
+   "id": 142,
+   "text": "Előfizetés &amp; megtakarítás"
+  },
+  {
+   "id": 143,
+   "text": "$49"
+  },
+  {
+   "id": 144,
+   "text": "Egyszeri"
+  },
+  {
+   "id": 145,
+   "text": "Keresztnév"
+  },
+  {
+   "id": 146,
+   "text": "Vezetéknév"
+  },
+  {
+   "id": 147,
+   "text": "Utca és házszám"
+  },
+  {
+   "id": 148,
+   "text": "Lakás, emelet stb. "
+  },
+  {
+   "id": 149,
+   "text": "(nem kötelező)"
+  },
+  {
+   "id": 150,
+   "text": "Város"
+  },
+  {
+   "id": 151,
+   "text": "Állam"
+  },
+  {
+   "id": 152,
+   "text": "CA"
+  },
+  {
+   "id": 153,
+   "text": "Irányítószám"
+  },
+  {
+   "id": 154,
+   "text": "Ország"
+  },
+  {
+   "id": 155,
+   "text": "Egyesült Államok"
+  },
+  {
+   "id": 156,
+   "text": "Kanada"
+  },
+  {
+   "id": 157,
+   "text": "Egyesült Királyság"
+  },
+  {
+   "id": 158,
+   "text": "Ausztrália"
+  },
+  {
+   "id": 159,
+   "text": "Telefon "
+  },
+  {
+   "id": 160,
+   "text": "(nem kötelező, a kézbesítési frissítésekhez)"
+  },
+  {
+   "id": 161,
+   "text": "Indítsa el az előfizetésemet, $39"
+  },
+  {
+   "id": 162,
+   "text": "Az előfizetés 30 naponta megújul $39 áron. Bármikor szüneteltetheti vagy lemondhatja."
+  },
+  {
+   "id": 163,
+   "text": "Tava Labs PDRN Brightening Serum üveg"
+  },
+  {
+   "id": 164,
+   "text": "Rendelés beérkezett"
+  },
+  {
+   "id": 165,
+   "text": "A terve"
+  },
+  {
+   "id": 166,
+   "text": "most kezdődik."
+  },
+  {
+   "id": 167,
+   "text": "Demó fizetés. Nem történt terhelés."
+  },
+  {
+   "id": 168,
+   "text": " A rendelési adatcsomagja elmentésre került ebben a böngészőben, így pontosan megvizsgálhatja, mit fog küldeni az élő változat."
+  },
+  {
+   "id": 169,
+   "text": "A vásárlása megjelenik az alkalmazásban"
+  },
+  {
+   "id": 170,
+   "text": "A terve a Tava alkalmazásban él, napi reggeli és esti kipipálásokkal, a sorozatával és a küldemény nyomon követésével. Az alkalmazás még nincs fent az App Store-ban. A fizetés után a visszaigazoló oldala és e-mailje "
+  },
+  {
+   "id": 171,
+   "text": "igénylési kódot"
+  },
+  {
+   "id": 172,
+   "text": " ad Önnek. Amikor telepíti az alkalmazást, jelentkezzen be, és adja meg azt a kódot, és a terve, válaszai és rendelése már ott lesznek. Nem kell újra vásárolnia."
+  },
+  {
+   "id": 173,
+   "text": "Igénylési kódom megtekintése a fizetés után"
+  },
+  {
+   "id": 174,
+   "text": "Tava Labs · PDRN Brightening Serum alapítóknak · Kérdések? talia@tavalabs.app"
+  }
+ ]
+}

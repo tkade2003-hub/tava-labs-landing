@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "sijaj in svetlost"
+   "t": "svetlejša koža na videz"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Ustanovitelji in ustvarjalci, ki se vsak dan predstavljajo, začnejo svoje jutro na enak način. Pusta in utrujena koža je eden najpogostejših razlogov, da ljudje začnejo rutino s serumom. PDRN Brightening Serum je zgrajen okoli PDRN in peptidov, v lahki formuli, zasnovani za izboljšanje videza gladke in sijoče kože, da je videti napeta, mehka in osvežena, zjutraj in zvečer."
+   "t": "Ustanovitelji in ustvarjalci, ki se predstavljajo vsak dan, jutro začnejo enako. Dolgočasna, utrujena koža na videz je eden najpogostejših razlogov, zakaj ljudje začnejo rutino s serumom. PDRN Brightening Serum je zgrajen okoli PDRN in peptidov, v lahki formuli, ki pomaga koži videti gladko in svetlo, zjutraj in zvečer."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Ustanovitelji in ustvarjalci, ki se vsak dan predstavljajo, začnejo svoje jutro na enak način. Drobne gubice so običajno prva stvar, zaradi katere ljudje želijo serum. Ta formula združuje Acetyl Hexapeptide-8 s PDRN, sestavini, izbrani za podporo koži, ki je videti gladkejša in svetlejša, v enem samem koraku, dvakrat na dan. Rutina v desetih korakih ni potrebna."
+   "t": "Ustanovitelji in ustvarjalci, ki se predstavljajo vsak dan, jutro začnejo enako. Fine linije so običajno prva stvar, za katero ljudje želijo serum. Ta formula združuje acetil heksapeptid-8 s PDRN, dve sestavini, izbrani za podporo kože, ki izgleda bolj gladka in svetlejša, v enem koraku, dvakrat na dan. Rutina z desetimi koraki ni potrebna."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Ustanovitelji in ustvarjalci, ki se vsak dan predstavljajo, začnejo svoje jutro na enak način. Koža, ki je do poldneva napeta in žejna, je točno tisto, za kar je ta serum narejen. Mešanica glicerina, natrijevega PCA in natrijevega hialuronata zagotavlja globoko vlaženje, pantenol pa neguje, da se koža počuti udobno in je videti napeta, ne mastna."
+   "t": "Ustanovitelji in ustvarjalci, ki se predstavljajo vsak dan, jutro začnejo enako. Koža, ki se do poldneva počuti zategnjena in suha, je točno tisto, za kar je ta serum narejen. Mešanica glicerina, natrijevega PCA in natrijevega hialuronata zagotavlja globoko hidracijo, pantenol pa kožo kondicionira, tako da je na otip prijetna in navlažena, ne mastna."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Ustanovitelji in ustvarjalci, ki se vsak dan predstavljajo, začnejo svoje jutro na enak način. Neenakomerna polt je pogosta frustracija. PDRN in peptidi pomagajo spodbujati svetlejšo in živahnejšo polt, lahka formula pa se hitro in enostavno vpije, preprost korak dvakrat na dan k enakomernejšemu videzu."
+   "t": "Ustanovitelji in ustvarjalci, ki se predstavljajo vsak dan, jutro začnejo enako. Neenakomerna polt na videz je pogosta frustracija. PDRN in peptidi pomagajo koži videti svetlejšo in bolj enakomerno, lahka formula pa se hitro vpije, v preprostem koraku, ki se uporablja dvakrat na dan."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Pomaga spodbujati svetlejšo in živahnejšo polt ter izboljšuje videz gladke in sijoče kože."
+   "t": "Pomaga koži videti svetlejšo, bolj enakomerno in gladko."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "Mešanica za vlaženje, ki privlači vlago za napet in udoben občutek ter svilnato gladko teksturo."
+   "t": "Hidratantna mešanica, ki privlači vlago, za kožo, ki je na otip prijetna in gladka."
   },
   {
    "k": "ing.panthenol.name",
@@ -124,7 +124,7 @@
   {
    "k": "ing.panthenol.text",
    "q": "dq",
-   "t": "Neguje kožo in jo pusti mehko in udobno, prijazna osnova za kožo, ki zlahka reagira."
+   "t": "Kondicionira kožo in jo pusti mehko in prijetno na otip, nežen temelj za kožo, ki zlahka reagira."
   },
   {
    "k": "ramp.often.1",

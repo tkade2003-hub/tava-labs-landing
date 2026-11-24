@@ -1,23 +1,23 @@
 {
  "meta": {
   "about": {
-   "description": "Tava Labs creează îngrijire a pielii pentru cei ambițioși. Cunoaște echipa din spatele PDRN Brightening Serum, rutina zilnică făcută pentru fondatori și profesioniști.",
-   "title": "Despre Tava Labs | Îngrijire a pielii pentru cei ambițioși"
+   "description": "Tava Labs face un singur produs, PDRN Brightening Serum, un ser facial zilnic pentru fondatori și proprietari de afaceri. Citește cine suntem și de ce l-am creat.",
+   "title": "Despre Tava Labs | Ser facial pentru fondatori"
   },
   "account": {
    "description": "Contul tău Tava Labs pe web: planul, comenzile, rutina și asistența ta, legate de același email ca aplicația mobilă.",
    "title": "Contul tău | Tava Labs"
   },
   "blog": {
-   "description": "Știința somnului, cercetarea stresului și sănătatea pielii pentru fondatori și profesioniști, plus rutine practice pentru un aspect îngrijit la muncă.",
+   "description": "Știința somnului, cercetarea stresului și sănătatea pielii pentru fondatori și proprietari de afaceri, plus rutine practice pentru a arăta odihnit la muncă.",
    "title": "The Tava Journal | Piele, somn și stres pentru fondatori"
   },
   "checkoutCancel": {
-   "description": "Nu s-a făcut nicio debitare. Planul și răspunsurile tale Tava Labs sunt salvate, așa că poți continua exact de unde ai rămas, când ești gata.",
+   "description": "Nu s-a făcut nicio taxare. Planul și răspunsurile tale Tava Labs sunt salvate, așa că poți finaliza comanda mai târziu, când ești gata.",
    "title": "Finalizare anulată | Nu s-a făcut nicio debitare | Tava Labs"
   },
   "checkoutSuccess": {
-   "description": "Comanda ta Tava Labs pentru PDRN Brightening Serum este confirmată. Codul tău de revendicare conectează această achiziție la aplicație, unde planul, răspunsurile și comanda te însoțesc.",
+   "description": "Comanda ta PDRN Brightening Serum de la Tava Labs este confirmată. Codul tău de revendicare conectează această achiziție la aplicație, unde poți vedea planul tău, răspunsurile tale la chestionar și comanda ta.",
    "title": "Comandă confirmată | PDRN Brightening Serum al tău | Tava Labs"
   },
   "contact": {
@@ -33,7 +33,7 @@
    "title": "Întrebări frecvente și răspunsuri despre PDRN Brightening Serum | Tava Labs"
   },
   "home": {
-   "description": "Îngrijire a pielii pentru antreprenori. PDRN Brightening Serum combină PDRN, peptide și acid hialuronic pentru o piele luminoasă și hidratată. $49 o singură dată sau $39 pe lună.",
+   "description": "Un ser facial zilnic pentru fondatori și proprietari de afaceri. PDRN Brightening Serum cu PDRN, peptide și acid hialuronic pentru o piele care arată mai luminoasă și mai hidratată. $49 o singură dată sau $39 pe lună.",
    "title": "PDRN Brightening Serum pentru antreprenori | Tava Labs"
   },
   "ingredients": {
@@ -53,7 +53,7 @@
    "title": "Politica de confidențialitate | Tava Labs"
   },
   "product": {
-   "description": "PDRN Brightening Serum de la Tava Labs combină PDRN, peptide și Sodium Hyaluronate pentru o piele luminoasă și hidratată, într-un singur pas zilnic, creat pentru fondatori, operatori și creatori. $49 o singură dată sau $39 pe lună.",
+   "description": "PDRN Brightening Serum de la Tava Labs este un ser facial zilnic cu PDRN, peptide și hialuronat de sodiu pentru o piele care arată mai luminoasă și mai hidratată. Creat pentru fondatori și proprietari de afaceri. $49 o singură dată sau $39 pe lună.",
    "title": "PDRN Brightening Serum pentru antreprenori | Tava Labs"
   },
   "quiz": {
@@ -88,7 +88,7 @@
    "salesSupport": "Asistență vânzări",
    "wholesale": "En gros"
   },
-  "copyright": "© 2026 Tava Labs · The Science of Attractive Health",
+  "copyright": "© 2026 Tava Labs · PDRN Brightening Serum pentru fondatori",
   "disclaimer1": "PDRN Brightening Serum este un produs cosmetic. Nu este destinat diagnosticării, tratării, vindecării sau prevenirii vreunei boli. Rezultatele individuale pot varia.",
   "disclaimer2": "Toate vânzările sunt finale. Te rugăm să consulți politica noastră de returnări înainte de a comanda.",
   "footerIngredients": "Ingrediente",
@@ -121,13 +121,13 @@
   "navIngredients": "Ingrediente",
   "navSerum": "Serumul",
   "newsletter": {
-   "done": "Ai intrat. Bun venit pe lista pentru strălucire.",
+   "done": "Ești abonat. Mulțumim.",
    "error": "Ceva nu a mers bine, te rugăm să încerci din nou.",
    "placeholder": "Emailul tău",
    "sending": "Se trimite...",
    "subscribe": "Abonează-te"
   },
-  "newsletterHeading": "Fii la curent cu tot ce înseamnă Tava",
+  "newsletterHeading": "Primește actualizări Tava Labs prin e-mail",
   "notFoundBody": "Pagina aceea nu este aici. Este posibil să se fi mutat sau adresa să fie incompletă.",
   "notFoundHome": "Înapoi la pagina principală",
   "notFoundLabel": "Tava Labs",
@@ -136,22 +136,22 @@
   "openMenu": "Deschide meniul",
   "primaryNavAria": "Principală",
   "shopHeading": "Magazin",
-  "tagline": "The Science of Attractive Health"
+  "tagline": "PDRN Brightening Serum pentru fondatori"
  },
  "hero": {
   "ariaLabel": "PDRN Brightening Serum",
   "cardAria": "PDRN Brightening Serum, pagina produsului",
-  "line1": "Impecabil înainte",
-  "line2": "de primul apel.",
+  "line1": "Un ser facial zilnic pentru",
+  "line2": "o piele mai luminoasă, mai netedă.",
   "morningAlt": "Fondator care aplică serum la o oglindă de baie, în lumina dimineții",
-  "morningCaption": "La oglindă, primul lucru",
-  "morningPill": "Ritual de dimineață",
+  "morningCaption": "Aplică la oglindă în fiecare dimineață",
+  "morningPill": "Rutină de dimineață",
   "onSetAlt": "Fondator așezat pe un platou de studio, cu fața la cameră",
-  "onSetCaption": "Calm sub reflectoare",
-  "onSetPill": "Pe platou",
-  "pill": "Pentru persoana din față",
+  "onSetCaption": "Pentru filmări și apeluri video",
+  "onSetPill": "Pe cameră",
+  "pill": "Pentru fondatori și proprietari de afaceri",
   "priceLine": "$49 o singură dată sau $39 pe lună",
-  "sub": "Două până la patru picături de PDRN Brightening Serum, dimineața și seara, pentru o piele care arată luminoasă, hidratată și netedă, de la primul apel până la ultimul.",
+  "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Aplică două până la patru picături dimineața și seara. $49 o singură dată sau $39 pe lună.",
   "talia": {
    "alt": "Talia Kade, cercetătoare la Tava Labs, purtând un halat alb de laborator",
    "baseline": "Moment inițial",
@@ -161,23 +161,23 @@
    "statNote": "Schimbare medie în programul cu participanți, pe 16 săptămâni",
    "week16": "Săptămâna 16"
   },
-  "wideHead": "O sticlă. În fiecare zi.",
+  "wideHead": "O sticlă, folosită dimineața și seara.",
   "widePill": "Zi și noapte"
  },
  "home": {
-  "buildersBody": "Ca antreprenor, prezinți mereu. Prezinți investitorilor în persoană, vinzi în apeluri video și înregistrezi conținut care trebuie să câștige încredere în câteva secunde. A arăta pregătit și stăpân pe tine nu este vanitate. Face parte din felul în care îți prezinți afacerea. O rutină zilnică simplă își are locul într-un sistem de operare al fondatorului, lângă o garderobă bună, un laptop de calitate și un sistem pe care te poți baza.",
+  "buildersBody": "Fondatorii și proprietarii de afaceri prezintă toată ziua. Prezinți investitorilor în persoană, vinzi în apeluri video și înregistrezi videoclipuri pentru clienți. A arăta curat și odihnit face parte din a-ți prezenta bine afacerea. O rutină zilnică scurtă de îngrijire a pielii stă lângă o garderobă bună și un laptop de încredere ca îngrijire de bază. PDRN Brightening Serum durează două minute, dimineața și seara.",
   "buildersTagline": "Construiește-ți afacerea. Nu te neglija pe tine.",
-  "buildersTitle": "Creat pentru cei care construiesc",
+  "buildersTitle": "Creat pentru fondatori și proprietari de afaceri",
   "cameraAlt": "Fondator care vorbește în fața unei camere",
-  "cameraBody": "La o filmare, un podcast sau un apel de vânzări, obiectivul arată mai întâi nopțile târzii. Încrederea în fața camerei începe cu felul în care ai grijă de tine înainte să apeși vreodată pe înregistrare.",
+  "cameraBody": "La o filmare video, un podcast sau un apel de vânzări, camera arată pielea obosită de aproape. O rutină de două minute dimineața și seara ajută pielea ta să arate odihnită înainte să înregistrezi.",
   "cameraTitle": "În fața camerei",
   "closeVideo": "Închide videoclipul",
-  "founderBody1": "Aceasta este filozofia din spatele Tava Labs, The Science of Attractive Health. PDRN Brightening Serum este singurul pas în jurul căruia este construită rutina: două minute, de două ori pe zi, dimineața și seara.",
-  "founderBody2": "Urmărește filmul ca să auzi știința din spatele lui, în cuvintele noastre.",
+  "founderBody1": "Aceasta este ideea din spatele Tava Labs. PDRN Brightening Serum este singurul pas în jurul căruia este construită rutina: două minute, de două ori pe zi, dimineața și seara.",
+  "founderBody2": "Urmărește videoclipul ca să auzi de ce l-am creat, în propriile noastre cuvinte.",
   "founderLabel": "Un mesaj de la fondatorul nostru",
   "founderPhilosophy": "Filozofia Tava Labs",
-  "founderQuote": "„Pielea sănătoasă este cel mai atrăgător lucru pe care îl poți purta.”",
-  "founderVideoAria": "Filmul Tava Labs, știința din spatele PDRN Brightening Serum",
+  "founderQuote": "„Un ser, două minute, dimineața și seara. Asta este întreaga rutină.”",
+  "founderVideoAria": "Videoclipul Tava Labs, de ce am creat PDRN Brightening Serum",
   "freeFromItems": [
    {
     "blurb": "Nu a fost testat niciodată pe animale.",
@@ -213,21 +213,21 @@
    }
   ],
   "freeFromSub": "Ce lăsăm pe dinafară contează la fel de mult ca ce punem înăuntru.",
-  "freeFromTitleAccent": "cu grijă.",
-  "freeFromTitleLead": "Ingrediente de calitate, combinate",
-  "introBody": "Antreprenorii trăiesc în fața camerei și în încăpere. Prezinți investitorilor, închei vânzări în apeluri și înregistrezi videoclipul care vinde produsul. Fața ta face parte din prezentare. PDRN Brightening Serum este un singur pas ușor, cu absorbție rapidă, cu PDRN, peptide și acid hialuronic. Ajută pielea să arate mai luminoasă, profund hidratată și netedă. Două minute, de două ori pe zi, și te prezinți îngrijit, odihnit și gata.",
+  "freeFromTitleAccent": "în formulă.",
+  "freeFromTitleLead": "Ce nu este",
+  "introBody": "Fondatorii și proprietarii de afaceri își petrec zilele în întâlniri, apeluri de vânzări și videoclipuri înregistrate. Fața ta este pe ecran și în cameră pentru toate acestea. PDRN Brightening Serum este un pas ușor cu PDRN, peptide și acid hialuronic. Se absoarbe rapid și ajută pielea să arate mai luminoasă, hidratată și netedă. Două minute, de două ori pe zi.",
   "introTitleAccent": "cu aspect sănătos",
   "introTitleLead": "Piele mai luminoasă, hidratată,",
-  "journalSub": "Despre somn, stres și a te prezenta gata.",
+  "journalSub": "Articole despre somn, stres și piele pentru fondatori.",
   "journalTitle": "The Tava Journal",
-  "maintenanceBody": "Un singur serum, dimineața și seara. Arată pregătit. Simte-te încrezător. Prezintă-te gata.",
-  "maintenanceTitle": "Întreținerea zilnică a antreprenorului.",
-  "marqueeSlogan": "Îngrijire a pielii pentru cei ambițioși",
-  "marqueeTagline": "The Science of Attractive Health",
-  "motionBody": "Mulți creatori și antreprenori ne iubesc deja.",
-  "motionTitle": "Tava în mișcare",
+  "maintenanceBody": "Aplică două până la patru picături de PDRN Brightening Serum pe pielea curată și uscată, dimineața și seara, apoi urmează cu cremă hidratantă. Întreaga rutină durează aproximativ două minute pe zi.",
+  "maintenanceTitle": "Un ser este întreaga rutină.",
+  "marqueeSlogan": "Creat pentru fondatori și proprietari de afaceri",
+  "marqueeTagline": "Un ser, dimineața și seara",
+  "motionBody": "Fondatori și creatori care folosesc PDRN Brightening Serum, înregistrați pe video.",
+  "motionTitle": "Urmărește videoclipurile clienților",
   "pitchAlt": "Fondator care își prezintă ideea unui investitor",
-  "pitchBody": "Peste masă de un investitor, sala te citește pe tine înainte să îți citească prezentarea. Prezintă-te ca persoana din spatele unei companii care merită susținută: odihnit, îngrijit și gata.",
+  "pitchBody": "Când prezinți investitorilor în persoană, ei te văd pe tine înainte să îți vadă slide-urile. O rutină zilnică cu ser ajută pielea ta să arate luminoasă, hidratată și odihnită în acea zi.",
   "pitchTitle": "În prezentare",
   "playVideo": "Redă videoclipul",
   "readJournal": "Citește jurnalul",
@@ -243,7 +243,7 @@
     "title": "O rutină zilnică"
    },
    {
-    "desc": "Seria ta și ce a mai rămas, vizibile dintr-o privire.",
+    "desc": "Seria ta actuală și zilele rămase în planul tău.",
     "title": "Serii și progres"
    },
    {
@@ -251,14 +251,14 @@
     "title": "Panouri de laborator și rezultate"
    },
    {
-    "desc": "Comenzi și reaprovizionări, fără căutări.",
+    "desc": "Vezi comenzile și datele de reaprovizionare într-un singur loc.",
     "title": "Comenzi și reaprovizionări"
    }
   ],
-  "headlineLead": "O singură aplicație.",
-  "headlineTrail": "În fiecare zi.",
+  "headlineLead": "Serul tău, analizele și comenzile tale",
+  "headlineTrail": "într-o singură aplicație.",
   "label": "În curând",
-  "lead": "Rutina, analizele și comenzile tale își primesc un loc al lor.",
+  "lead": "Rutina ta, rezultatele tale de laborator și comenzile tale, toate în aplicația Tava Labs.",
   "phone": {
    "amDrops": "Dimineața · 3 picături",
    "clinicalReview": "Revizuire clinică",
@@ -308,9 +308,9 @@
    "eyebrow": "ÎNGRIJIRE A PIELII",
    "heroTitleLead": "Următoarea ta întâlnire",
    "heroTitleAccent": "începe cu tine.",
-   "heroCopy": "Creat pentru antreprenori care prezintă, vând și înregistrează în fața camerei. Un singur serum zilnic, construit în jurul PDRN, pentru o piele care arată îngrijită și odihnită în încăpere și în fața obiectivului.",
+   "heroCopy": "Creat pentru antreprenori care prezintă, vând și înregistrează pe cameră. Un ser zilnic, construit în jurul PDRN, pentru o piele care arată luminoasă și odihnită în cameră și pe cameră.",
    "heroFinePrint": "Îngrijire cosmetică a pielii. Nu este destinată diagnosticării, tratării, vindecării sau prevenirii vreunei boli.",
-   "stamp": "ÎNGRIJIRE A PIELII PENTRU CEI AMBIȚIOȘI",
+   "stamp": "ÎNGRIJIREA PIELII PENTRU FONDATORI",
    "primaryCta": "Adaugă la rutină",
    "secondaryCta": "Vezi ingredientele",
    "optionsEyebrow": "GAMA",
@@ -326,7 +326,7 @@
      "badges": [
       "Cel mai vândut"
      ],
-     "description": "Serumul zilnic pentru o piele luminoasă, hidratată și cu aspect sănătos. $39 pe lună cu Subscribe and Save.",
+     "description": "Serul zilnic pentru o piele mai luminoasă, hidratată și cu aspect sănătos. $39 pe lună la Abonează-te și economisește.",
      "linkLabel": "Vezi serumul"
     },
     {
@@ -718,7 +718,7 @@
  "product": {
   "breadcrumbHome": "Acasă",
   "bullets": [
-   "PDRN, Acetyl Hexapeptide-8 și acid hialuronic, pentru a susține o piele cu aspect mai neted și mai luminos.",
+   "PDRN, Acetil Hexapeptidă-8 și acid hialuronic, pentru a susține o piele mai netedă și mai luminoasă.",
    "Hidratare profundă din glicerină, Sodium PCA și Panthenol.",
    "100% fără cruzime, fără parfum, fără parabeni, fără sulfați, fără ulei mineral, fără siliconi și vegan."
   ],
@@ -729,7 +729,7 @@
     "Diagramă Susține hidratarea profundă",
     "Diagramă Îmbunătățește textura pielii"
    ],
-   "label": "Eficacitate clinică",
+   "label": "Teste clinice",
    "note": "Evaluări ale activelor bio topice bazate pe percepția consumatorilor pe 8 săptămâni și teste instrumentale de hidratare. Barierele individuale ale pielii, genetica și mediul influențează calendarele și rezultatele specifice.",
    "titleAccent": "sănătății pielii tale",
    "titleLead": "Ai grijă de"
@@ -761,7 +761,7 @@
     "Asistență prin mesaje chiar în aplicație",
     "Livrare Subscribe and Save în fiecare lună, pune pe pauză sau anulează oricând"
    ],
-   "label": "Planul complet",
+   "label": "Planul tău",
    "note": "Pune pe pauză, ajustează sau anulează Subscribe and Save oricând. Achizițiile unice rămân disponibile la $49.",
    "sub": "Alături de serumul tău, fiecare plan Tava Labs include:",
    "title": "Primește sprijin complet pentru rutină"
@@ -769,7 +769,7 @@
   "faqSection": {
    "items": [
     {
-     "a": "PDRN (Polydeoxyribonucleotide) este făcut din fragmente de ADN care sunt biocompatibile cu celulele pielii umane. Promovează regenerarea celulară naturală, stimulează microcirculația și ajută la repararea barierei pielii, pentru luminozitate și fermitate vizibile.",
+     "a": "PDRN (Polydeoxyribonucleotide) este format din fragmente de ADN care sunt biocompatibile cu celulele pielii umane. Promovează regenerarea naturală a celulelor, stimulează microcirculația și ajută la repararea barierei pielii, pentru o piele care arată mai luminoasă și mai fermă.",
      "q": "Ce este PDRN și cum beneficiază pielea?"
     },
     {
@@ -789,19 +789,19 @@
      "q": "Cât durează de obicei o sticlă de 30ml?"
     }
    ],
-   "label": "Răspunsuri și claritate",
+   "label": "Întrebări și răspunsuri",
    "title": "Întrebări frecvente",
    "viewAll": "Vezi toate întrebările frecvente"
   },
   "finalCta": {
    "line": "PDRN Brightening Serum · $49.00 / 30ml · Curat și vegan · Hidratare profundă · Anulează oricând",
-   "title": "Fața ta este în fiecare prezentare. Ține-o gata."
+   "title": "Un ser pentru o piele care arată mai luminoasă, hidratată și mai netedă."
   },
   "formulary": {
    "activeIngredient": "Ingredient activ",
    "comingSoon": "În curând",
    "howToUse": "Cum se folosește",
-   "label": "Formularul",
+   "label": "Compară formulele",
    "others": [
     {
      "rows": [
@@ -866,7 +866,7 @@
    "serumPriceLine": "Subscribe and Save $39/lună",
    "sizeLabel": "Mărime",
    "status": "Stare",
-   "sub": "Formule țintite pentru obiective, preocupări și rutine diferite ale pielii. Construiește regimul care se potrivește unui program de lucru.",
+   "sub": "Formule pentru obiective, preocupări și rutine diferite ale pielii. Alege-o pe cea care se potrivește pielii tale și programului tău.",
    "title": "Ce tratament de îngrijire a pielii este potrivit pentru tine?"
   },
   "gallery": {
@@ -889,30 +889,30 @@
    ],
    "items": [
     {
-     "body": "PDRN marin accelerează reînnoirea celulară, reîmprospătând un ten tern și netezind textura vizibilă.",
-     "label": "Reînnoire celulară",
-     "title": "Active bio PDRN"
+     "body": "PDRN marin crește reînnoirea celulară, ceea ce luminează un ten tern și netezește textura vizibilă.",
+     "label": "Textura pielii",
+     "title": "PDRN"
     },
     {
-     "body": "Peptidele de semnal reduc tensiunea de suprafață și susțin elasticitatea naturală a colagenului, pentru o piele cu aspect mai ferm și mai multă suplețe.",
-     "label": "Complex bio peptidic",
+     "body": "Această peptidă susține elasticitatea colagenului, pentru o piele care arată mai fermă.",
+     "label": "Fermitate",
      "title": "Acetyl Hexapeptide-8"
     },
     {
      "body": "Acidul hialuronic, Sodium PCA și Panthenol lucrează împreună pentru a reține umezeala în bariera pielii pentru peste 24 de ore.",
      "label": "Hidratare profundă",
-     "title": "Matrice de hidratare"
+     "title": "Acid hialuronic și pantenol"
     }
    ],
-   "label": "Inovație celulară",
-   "sub": "Active marine și hexapeptide țintite, într-un singur serum zilnic.",
-   "titleAccent": "Regenerare",
-   "titleLead": "Piele de nouă generație"
+   "label": "Ingrediente cheie",
+   "sub": "Cele trei ingrediente de mai jos fac cea mai mare parte a muncii în acest ser.",
+   "titleAccent": "ingrediente",
+   "titleLead": "Ce fac principalele"
   },
   "pricePerUnit": "/ 30ml (1 fl oz)",
   "protocol": {
-   "label": "Protocolul regimului zilnic",
-   "progressionBody": "Strălucire și hidratare îmbunătățite în 7 până la 14 zile; elasticitate a pielii și fermitate a barierei îmbunătățite până în săptămâna 4 până la 6.",
+   "label": "Cum să îl folosești",
+   "progressionBody": "Piele mai luminoasă, mai hidratată în 7 până la 14 zile; elasticitate îmbunătățită a pielii și fermitate a barierei până în săptămâna 4 până la 6.",
    "progressionLabel": "Progresie clinică",
    "progressionTitle": "Calendarul rezultatelor vizibile",
    "steps": [
@@ -925,7 +925,7 @@
      "title": "Serum PDRN, 2 până la 4 picături"
     },
     {
-     "body": "Sigilează cu cremă hidratantă pentru a reține peptidele și a susține bariera de ceramide.",
+     "body": "Aplică cremă hidratantă pentru a păstra peptidele și a susține bariera pielii.",
      "title": "Hidratează și menține umezeala"
     },
     {
@@ -937,7 +937,7 @@
      "title": "Planul tău personal, inclus"
     }
    ],
-   "sub": "Consecvența contează. Urmează acești pași dimineața și seara, pentru ca peptidele și PDRN să își poată face treaba, și termină prin a sigila umezeala.",
+   "sub": "Consecvența contează. Urmează acești pași dimineața și seara și termină cu cremă hidratantă pentru a păstra hidratarea.",
    "timelineAlt": "Exemplu de calendar al rezultatelor, săptămânile 1 până la 4 și mai departe",
    "titleAccent": "de două ori pe zi",
    "titleLead": "O rutină simplă,"
@@ -969,23 +969,23 @@
    }
   ],
   "onlineTitle": "Exclusiv online",
-  "p1": "Tava Labs este un brand de întreținere personală pentru oamenii care construiesc afaceri. Aspectul tău face parte din prezența ta profesională. Felul în care te prezinți în fața camerei, în prezentare și în încăpere face parte din felul în care este citită munca ta.",
-  "p2": "Facem un singur lucru și îl facem bine. Un serum zilnic care îți menține pielea cu un aspect stăpân, hidratat și gata, fără o rutină complicată.",
-  "p3": "Tava Labs a fost fondat pentru fondatori, creatori și profesioniști care investesc în persoana din spatele companiei. Un singur pas, dimineața și seara, înainte de întâlniri, prezentări și munca în fața camerei.",
-  "p4": "Aceasta este îngrijire a pielii ca întreținere, nu vanitate. Aceeași disciplină pe care o aduci afacerii tale, aplicată asupra ta.",
+  "p1": "Tava Labs este un brand de îngrijire a pielii pentru persoanele care construiesc afaceri. Aspectul tău face parte din prezența ta profesională. Oamenii te văd pe cameră, în întâlniri de prezentare și la muncă în fiecare zi.",
+  "p2": "Facem un singur lucru și îl facem bine. Un ser zilnic care menține pielea ta arătând hidratată și odihnită, fără o rutină complicată.",
+  "p3": "Tava Labs a fost fondată pentru fondatori și proprietari de afaceri. Un pas, dimineața și seara, înainte de întâlniri, prezentări și munca pe cameră.",
+  "p4": "Îngrijirea pielii, tratată ca îngrijire de bază. Aceeași consecvență pe care o aduci afacerii tale, aplicată rutinei tale proprii.",
   "philosophyCaption": "Filozofia Tava Labs",
   "philosophyLabel": "Filozofia noastră",
-  "philosophyP1": "Credem în a avea grijă de tine așa cum ai grijă de munca ta: consecvent și fără dramă. Întreținerea zilnică mică învinge reviziile ocazionale ample.",
-  "philosophyP2": "Nu promitem transformare. Facem un serum zilnic bine formulat, îți spunem exact ce conține și lăsăm rutina să vorbească de la sine.",
+  "philosophyP1": "Credem în a avea grijă de tine așa cum ai grijă de munca ta, cu pași mici făcuți consecvent în fiecare zi.",
+  "philosophyP2": "Nu promitem transformare. Facem un ser zilnic bine formulat și îți spunem exact ce conține.",
   "priceLine": "$49 o singură dată sau $39 pe lună cu Subscribe & Save.",
-  "quote": "„Pielea sănătoasă este cel mai atrăgător lucru pe care îl poți purta.”",
+  "quote": "„Un ser, două minute, dimineața și seara. Asta este întreaga rutină.”",
   "serumAlt": "PDRN Brightening Serum",
   "serumBody": "O rutină zilnică pentru ten, construită în jurul PDRN (Polydeoxyribonucleotide) și Acetyl Hexapeptide-8, cu Sodium Hyaluronate și Panthenol pentru hidratare și confort. Curată și fără parfum și făcută fără nimic de pe lista noastră de ingrediente excluse.",
   "serumLabel": "Serumul",
   "serumTitle": "PDRN Brightening Serum",
   "tagline": "Construiește-ți afacerea. Nu te neglija pe tine.",
-  "titleAccent": "cei ambițioși.",
-  "titleLead": "Îngrijire a pielii pentru"
+  "titleAccent": "pentru fondatori.",
+  "titleLead": "Un ser facial zilnic"
  },
  "contact": {
   "emailLabel": "Email:",
@@ -1025,7 +1025,7 @@
    {
     "a": [
      {
-      "text": "Un serum zilnic construit în jurul PDRN (Polydeoxyribonucleotide) și Acetyl Hexapeptide-8, cu Sodium Hyaluronate și Panthenol. Este o rutină zilnică pentru ten: aplică dimineața și seara pentru a susține un ten cu aspect mai luminos și mai uniform și un aspect stăpân, gata pentru cameră."
+      "text": "Un ser zilnic construit în jurul PDRN (Polydeoxyribonucleotide) și Acetil Hexapeptidei-8, cu Hialuronat de sodiu și Pantenol. Aplică-l dimineața și seara pentru a susține un ten care arată mai luminos și mai uniform."
      }
     ],
     "q": "Ce este PDRN Brightening Serum?"
@@ -1142,7 +1142,7 @@
   "intro": "Iată fiecare ingredient din PDRN Brightening Serum, ce face fiecare și lista completă exact așa cum apare pe etichetă.",
   "keyItems": [
    {
-    "body": "Activul principal. Susține un ten cu aspect mai luminos și mai uniform și un aspect stăpân, gata pentru cameră.",
+    "body": "Principalul nostru ingredient activ. Susține un ten care arată mai luminos și mai uniform.",
     "name": "PDRN (Polydeoxyribonucleotide)"
    },
    {
@@ -1174,7 +1174,7 @@
   "audiences": [
    {
     "alt": "Fondatori de startup la o sesiune de accelerator",
-    "body": "Fondatorii tăi prezintă, fac demonstrații și filmează conținut din prima zi. Oferă-le o lună de întreținere zilnică ce îi ajută să se prezinte stăpâni și gata pentru cameră și un lucru mai puțin la care să se gândească în timpul programului.",
+    "body": "Fondatorii tăi prezintă, fac demonstrații și filmează conținut din prima zi. Oferă-le o lună de îngrijire zilnică a pielii care durează două minute pe zi în timpul programului.",
     "how": "Cum funcționează: livrăm fiecărui fondator din cohorta ta o sticlă gratuită, cu un plan personal din testul pentru piele. Ne prezinți o singură dată; noi ne ocupăm de tot restul.",
     "title": "Pentru acceleratoare"
    },
@@ -1186,7 +1186,7 @@
    },
    {
     "alt": "Întâlnire a unui investitor cu un fondator",
-    "body": "Susții persoana la fel de mult ca firma. O lună gratuită de Tava Labs este un cadou atent pentru fondatorii din portofoliul tău și susține rutina zilnică a oamenilor în care ai investit.",
+    "body": "O lună gratuită de Tava Labs este un cadou practic pentru fondatorii din portofoliul tău. Ne ocupăm noi de livrare și de planurile lor personale.",
     "how": "Cum funcționează: spune-ne câți fondatori ai vrea să primească un cadou și aranjăm livrarea și planurile lor personale. Fără cost pentru tine și fără cost pentru ei.",
     "title": "Pentru investitori providențiali"
    }
@@ -1211,11 +1211,11 @@
     "text": ", și aranjăm totul."
    }
   ],
-  "closingTitleAccent": "fondatorilor tăi.",
-  "closingTitleLead": "Hai să punem o lună gratuită în mâinile",
+  "closingTitleAccent": "lună gratuită.",
+  "closingTitleLead": "Oferă fondatorilor tăi o",
   "formulationSub": "Serumul este făcut fără ingredientele despre care membrii tăi întreabă cel mai des:",
-  "formulationTitle": "Formulare curată și atent gândită.",
-  "intro": "Tava Labs colaborează cu acceleratoare, universități, investitori providențiali și comunități de fondatori. Membrii tăi primesc gratuit prima lună de PDRN Brightening Serum, pentru ca oamenii care construiesc companii să poată avea grijă de persoana din spatele companiei.",
+  "formulationTitle": "Creat fără aceste ingrediente.",
+  "intro": "Tava Labs colaborează cu acceleratoare, universități, investitori înger și comunități de fondatori. Membrii tăi primesc prima lună de PDRN Brightening Serum gratuit.",
   "label": "Devino partener Tava Labs",
   "partnershipsContact": "Contact pentru parteneriate",
   "steps": [
@@ -1228,12 +1228,12 @@
     "title": "Aranjăm cadoul"
    },
    {
-    "body": "Membrii tăi primesc o lună gratuită de întreținere zilnică, cu mulțumirile noastre pentru tine în fiecare cutie.",
+    "body": "Membrii tăi primesc o lună gratuită de ser, cu o notă de mulțumire de la noi în fiecare cutie.",
     "title": "Tu oferi cadoul"
    }
   ],
   "stepsTitle": "Cum funcționează un parteneriat",
-  "tagline": "O lună gratuită, din partea noastră, fără obligații.",
+  "tagline": "O lună gratuită de la noi, fără cost și fără obligație.",
   "titleAccent": "Tava Labs.",
   "titleLead": "Oferă fondatorilor tăi o lună gratuită de",
   "why": [
@@ -1260,7 +1260,7 @@
  "blog": {
   "label": "The Tava Journal",
   "readStory": "Citește povestea",
-  "sub": "Știința somnului, cercetarea stresului și perspective asupra performanței pentru fondatori.",
+  "sub": "Articole despre știința somnului, cercetarea stresului și sănătatea pielii pentru fondatori și proprietari de afaceri.",
   "titleAccent": "pentru fondatori",
   "titleLead": "Cercetarea somnului și a stresului"
  },
@@ -1394,7 +1394,7 @@
   "participant": "Participant {initial}",
   "participantsLabel": "Cine a participat",
   "participantsSub": "Cinci vizite pe parcursul programului, de la momentul inițial până în săptămâna 16.",
-  "participantsTitle": "Oamenii din spatele mediilor.",
+  "participantsTitle": "Cine a luat parte la program.",
   "peopleBg": "Oameni",
   "percentWord": "la sută",
   "photoLabel": "Documentare vizuală",
@@ -1652,7 +1652,7 @@
    "subscribeBtn": "Abonează-te, $39 pe lună",
    "subscribeLine": "Abonează-te, $39 pe lună.",
    "subscribeRest": " O sticlă proaspătă în fiecare lună, automat.",
-   "title": "The Science of Attractive Health"
+   "title": "Magazin Tava Labs"
   },
   "signOut": "Deconectează-te",
   "signedInAs": "Autentificat ca",

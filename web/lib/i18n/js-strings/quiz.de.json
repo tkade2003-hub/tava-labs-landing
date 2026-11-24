@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "Glow und Strahlkraft"
+   "t": "Haut, die heller aussieht"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Gründer und Kreative, die sich jeden Tag präsentieren, beginnen ihren Morgen auf dieselbe Weise. Fahle, müde aussehende Haut ist einer der häufigsten Gründe, warum Menschen eine Serumroutine beginnen. Das PDRN Brightening Serum ist um PDRN und Peptide aufgebaut, in einer leichten Formel, die das Erscheinungsbild glatter, strahlender Haut verbessern soll und sie prall, weich und erfrischt aussehen lässt, morgens und abends."
+   "t": "Gründer und Kreative, die sich jeden Tag präsentieren, beginnen ihren Morgen auf dieselbe Weise. Haut, die fahl und müde aussieht, ist einer der häufigsten Gründe, eine Serumroutine zu beginnen. Das PDRN Brightening Serum ist um PDRN und Peptide aufgebaut, in einer leichten Formel, die der Haut hilft, morgens und abends glatt und hell auszusehen."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Gründer und Kreative, die sich jeden Tag präsentieren, beginnen ihren Morgen auf dieselbe Weise. Feine Linien sind meist das Erste, wofür Menschen ein Serum möchten. Diese Formel verbindet Acetyl Hexapeptide-8 mit PDRN, Inhaltsstoffe, die gewählt wurden, um Haut zu unterstützen, die glatter und leuchtender aussieht, in einem einzigen Schritt, zweimal täglich. Keine Zehn Schritte Routine nötig."
+   "t": "Gründer und Kreative, die sich jeden Tag präsentieren, beginnen ihren Morgen auf dieselbe Weise. Feine Linien sind meist das Erste, wofür Menschen ein Serum wollen. Diese Formel verbindet Acetyl Hexapeptide-8 mit PDRN, zwei Inhaltsstoffe, die gewählt wurden, um Haut zu unterstützen, die glatter und heller aussieht, in einem einzigen Schritt, zweimal am Tag. Keine Routine mit zehn Schritten nötig."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Gründer und Kreative, die sich jeden Tag präsentieren, beginnen ihren Morgen auf dieselbe Weise. Haut, die sich bis mittags straff und durstig anfühlt, ist genau das, wofür dieses Serum gemacht ist. Eine Mischung aus Glycerin, Sodium PCA und Sodium Hyaluronat spendet tiefe Feuchtigkeit, während Panthenol pflegt, sodass sich die Haut angenehm anfühlt und prall aussieht, nicht fettig."
+   "t": "Gründer und Kreative, die sich jeden Tag präsentieren, beginnen ihren Morgen auf dieselbe Weise. Haut, die sich bis mittags gespannt und trocken anfühlt, ist genau das, wofür dieses Serum gemacht ist. Eine Mischung aus Glycerin, Sodium PCA und Natriumhyaluronat spendet tiefe Feuchtigkeit, während Panthenol die Haut pflegt, sodass sie sich angenehm und mit Feuchtigkeit versorgt anfühlt, nicht fettig."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Gründer und Kreative, die sich jeden Tag präsentieren, beginnen ihren Morgen auf dieselbe Weise. Ein ungleichmäßig aussehender Teint ist eine häufige Frustration. PDRN und Peptide helfen, einen leuchtenderen, lebendiger aussehenden Teint zu fördern, und die leichte Formel zieht schnell und einfach ein, ein einfacher Schritt zweimal täglich zu einem gleichmäßigeren Look."
+   "t": "Gründer und Kreative, die sich jeden Tag präsentieren, beginnen ihren Morgen auf dieselbe Weise. Ein Teint, der ungleichmäßig aussieht, ist ein häufiges Ärgernis. PDRN und Peptide helfen der Haut, heller und gleichmäßiger auszusehen, und die leichte Formel zieht schnell ein, in einem einfachen Schritt zweimal am Tag."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Hilft, einen leuchtenderen, lebendiger aussehenden Teint zu fördern und verbessert das Erscheinungsbild glatter, strahlender Haut."
+   "t": "Hilft der Haut, heller, gleichmäßiger und glatt auszusehen."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "Eine Feuchtigkeitsmischung, die Feuchtigkeit anzieht, für ein pralles, angenehmes Gefühl und eine seidig glatte Textur."
+   "t": "Eine feuchtigkeitsspendende Mischung, die Wasser anzieht, für Haut, die sich angenehm und glatt anfühlt."
   },
   {
    "k": "ing.panthenol.name",

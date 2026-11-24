@@ -12,23 +12,23 @@ const FUNNEL_INTAKE_URL = "https://vuzrpgkqytzvbbxwsvqr.supabase.co/functions/v1
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { subscribe: 39, one_time: 49 };
 
-const GOAL_LABEL = { radiance: "glow en uitstraling", fine_lines: "fijne lijntjes", hydration: "diepe hydratatie", even_tone: "een egale teint" };
+const GOAL_LABEL = { radiance: "een huid die er helderder uitziet", fine_lines: "fijne lijntjes", hydration: "diepe hydratatie", even_tone: "een egale teint" };
 const SKIN_LABEL = { dry: "Droog", oily: "Vettig", combination: "Gecombineerd", sensitive: "Gevoelig", not_sure: "Ik ben er nog achter aan het komen" };
 const CONCERN_LABEL = { dullness: "dofheid", fine_lines: "fijne lijntjes", uneven_tone: "ongelijke teint", texture: "ruwe textuur", dryness: "droogheid" };
 
 const NOT_ALONE = {
-  radiance: "Oprichters en makers die zichzelf elke dag presenteren, beginnen hun ochtend op dezelfde manier. Een doffe, vermoeid ogende huid is een van de meest voorkomende redenen waarom mensen een serumroutine beginnen. Het PDRN Brightening Serum is gebouwd rond PDRN en peptiden, in een lichte formule die is ontworpen om een glad, stralend ogende huid te versterken, zodat ze er vol, zacht en verfrist uitziet, ochtend en avond.",
-  fine_lines: "Oprichters en makers die zichzelf elke dag presenteren, beginnen hun ochtend op dezelfde manier. Fijne lijntjes zijn meestal het eerste waarvoor mensen een serum willen. Deze formule combineert acetyl hexapeptide-8 met PDRN, ingrediënten gekozen om een huid te ondersteunen die er gladder en stralender uitziet, in één stap, twee keer per dag. Geen routine van tien stappen nodig.",
-  hydration: "Oprichters en makers die zichzelf elke dag presenteren, beginnen hun ochtend op dezelfde manier. Een huid die tegen de middag strak en dorstig aanvoelt, is precies waarvoor dit serum is gemaakt. Een mix van glycerine, natrium PCA en natriumhyaluronaat zorgt voor diepe hydratatie, terwijl panthenol verzorgt, zodat de huid comfortabel aanvoelt en er vol uitziet, niet vettig.",
-  even_tone: "Oprichters en makers die zichzelf elke dag presenteren, beginnen hun ochtend op dezelfde manier. Een ongelijk ogende teint is een veelvoorkomende frustratie. PDRN en peptiden helpen een stralender, levendiger ogende teint te bevorderen, en de lichte formule absorbeert snel en gemakkelijk, een eenvoudige stap twee keer per dag naar een egalere blik."
+  radiance: "Oprichters en makers die zichzelf elke dag presenteren, beginnen hun ochtend op dezelfde manier. Een doffe, vermoeid ogende huid is een van de meest voorkomende redenen waarom mensen met een serumroutine beginnen. Het PDRN Brightening Serum is opgebouwd rond PDRN en peptiden, in een lichte formule die de huid er glad en helder uit helpt zien, 's ochtends en 's avonds.",
+  fine_lines: "Oprichters en makers die zichzelf elke dag presenteren, beginnen hun ochtend op dezelfde manier. Fijne lijntjes zijn meestal het eerste waar mensen een serum voor willen. Deze formule combineert acetyl hexapeptide-8 met PDRN, twee ingrediënten gekozen om een huid te ondersteunen die er gladder en helderder uitziet, in één enkele stap, twee keer per dag. Geen routine van tien stappen nodig.",
+  hydration: "Oprichters en makers die zichzelf elke dag presenteren, beginnen hun ochtend op dezelfde manier. Een huid die tegen het middaguur strak en droog aanvoelt, is precies waar dit serum voor is gemaakt. Een mix van glycerine, sodium PCA en natriumhyaluronaat zorgt voor diepe hydratatie, terwijl panthenol de huid verzorgt, zodat ze comfortabel en gehydrateerd aanvoelt, niet vet.",
+  even_tone: "Oprichters en makers die zichzelf elke dag presenteren, beginnen hun ochtend op dezelfde manier. Een teint die er ongelijk uitziet, is een veelvoorkomende frustratie. PDRN en peptiden helpen de huid er helderder en egaler uit te zien, en de lichte formule trekt snel in, in één eenvoudige stap twee keer per dag."
 };
 
 /* Ingredient groups from the verified Supliful listing. Cosmetic language only. */
 const INGREDIENTS = [
-  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Helpt een stralender, levendiger ogende teint te bevorderen en versterkt een glad, stralend ogende huid.", match: ["radiance", "dofheid", "uneven_tone", "even_tone"] },
+  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Helpt de huid er helderder, egaler en glad uit te zien.", match: ["radiance", "dofheid", "uneven_tone", "even_tone"] },
   { key: "peptide", name: "Acetyl hexapeptide-8", text: "Een peptide dat samen met PDRN werkt om een huid te ondersteunen die er gladder en egaler uitziet.", match: ["fine_lines", "texture"] },
-  { key: "ha", name: "Hyaluronzuur, glycerine en natrium PCA", text: "Een hydratatiemix die vocht aantrekt voor een vol, comfortabel gevoel en een zijdezachte textuur.", match: ["hydration", "droogheid"] },
-  { key: "panthenol", name: "Panthenol", text: "Verzorgt de huid en laat haar zacht en comfortabel aanvoelen, een vriendelijke basis voor een huid die snel reageert.", match: ["sensitive"] }
+  { key: "ha", name: "Hyaluronzuur, glycerine en natrium PCA", text: "Een hydraterende mix die vocht aantrekt, voor een huid die comfortabel en glad aanvoelt.", match: ["hydration", "droogheid"] },
+  { key: "panthenol", name: "Panthenol", text: "Verzorgt de huid en laat haar zacht en comfortabel aanvoelen, een milde basis voor een huid die snel reageert.", match: ["sensitive"] }
 ];
 
 const RAMPS = {

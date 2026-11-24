@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "glød og stråling"
+   "t": "lysere udseende hud"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Stiftere og skabere, der præsenterer sig selv hver dag, starter deres morgen på samme måde. Mat, træt udseende hud er en af de mest almindelige grunde til, at folk starter en serumrutine. PDRN Brightening Serum er bygget omkring PDRN og peptider, i en let formel designet til at forbedre udseendet af glat, strålende hud og efterlade den fyldig, blød og frisk, morgen og aften."
+   "t": "Stiftere og skabere, der præsenterer sig selv hver dag, starter deres morgen på samme måde. Mat, træt udseende hud er en af de mest almindelige grunde til, at folk starter en serumrutine. PDRN Brightening Serum er bygget op omkring PDRN og peptider, i en let formel, der hjælper huden med at se glat og lys ud, morgen og aften."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Stiftere og skabere, der præsenterer sig selv hver dag, starter deres morgen på samme måde. Fine linjer er som regel det første, folk ønsker et serum til. Denne formel kombinerer Acetyl Hexapeptide-8 med PDRN, ingredienser valgt til at støtte hud, der ser glattere og mere lysende ud, i ét enkelt trin, to gange om dagen. Ingen rutine i ti trin nødvendig."
+   "t": "Stiftere og skabere, der præsenterer sig selv hver dag, starter deres morgen på samme måde. Fine linjer er som regel det første, folk ønsker et serum til. Denne formel kombinerer acetyl hexapeptide-8 med PDRN, to ingredienser valgt til at støtte hud, der ser glattere og lysere ud, i ét enkelt trin, to gange om dagen. Ingen rutine i ti trin nødvendig."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Stiftere og skabere, der præsenterer sig selv hver dag, starter deres morgen på samme måde. Hud, der føles stram og tørstig midt på dagen, er præcis det, dette serum er lavet til. En blanding af glycerin, Sodium PCA og Sodium Hyaluronate giver dyb fugt, mens Panthenol plejer, så huden føles behagelig og ser fyldig ud, ikke fedtet."
+   "t": "Stiftere og skabere, der præsenterer sig selv hver dag, starter deres morgen på samme måde. Hud, der føles stram og tør midt på dagen, er præcis det, dette serum er lavet til. En blanding af glycerin, sodium PCA og sodium hyaluronate giver dyb fugt, mens panthenol plejer huden, så den føles behagelig og fugtet, ikke fedtet."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Stiftere og skabere, der præsenterer sig selv hver dag, starter deres morgen på samme måde. En uensartet udseende teint er en almindelig frustration. PDRN og peptider hjælper med at fremme en mere lysende, levende udseende teint, og den lette formel absorberes hurtigt og nemt, et enkelt trin to gange dagligt mod et mere ensartet udseende."
+   "t": "Stiftere og skabere, der præsenterer sig selv hver dag, starter deres morgen på samme måde. En teint, der ser uensartet ud, er en almindelig frustration. PDRN og peptider hjælper huden med at se lysere og mere ensartet ud, og den lette formel absorberes hurtigt, i et enkelt trin brugt to gange om dagen."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Hjælper med at fremme en mere lysende, levende udseende teint og forbedrer udseendet af glat, strålende hud."
+   "t": "Hjælper huden med at se lysere, mere ensartet og glat ud."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "En fugtblanding, der trækker fugt ind for en fyldig, behagelig følelse og en silkeblød tekstur."
+   "t": "En fugtblanding, der trækker fugt ind, for hud, der føles behagelig og glat."
   },
   {
    "k": "ing.panthenol.name",
@@ -124,7 +124,7 @@
   {
    "k": "ing.panthenol.text",
    "q": "dq",
-   "t": "Plejer huden og efterlader den blød og behagelig, en mild base til hud, der reagerer let."
+   "t": "Plejer huden og efterlader den blød og behagelig, en mild base for hud, der reagerer let."
   },
   {
    "k": "ramp.often.1",

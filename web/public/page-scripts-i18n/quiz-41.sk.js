@@ -12,23 +12,23 @@ const FUNNEL_INTAKE_URL = "https://vuzrpgkqytzvbbxwsvqr.supabase.co/functions/v1
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { subscribe: 39, one_time: 49 };
 
-const GOAL_LABEL = { radiance: "jas a žiarivosť", fine_lines: "jemné vrásky", hydration: "hlboká hydratácia", even_tone: "rovnomerný tón" };
+const GOAL_LABEL = { radiance: "jasnejšia pleť na pohľad", fine_lines: "jemné vrásky", hydration: "hlboká hydratácia", even_tone: "rovnomerný tón" };
 const SKIN_LABEL = { dry: "Suchá", oily: "Mastná", combination: "Zmiešaná", sensitive: "Citlivá", not_sure: "Stále na to prichádzam" };
 const CONCERN_LABEL = { dullness: "mdlosť", fine_lines: "jemné vrásky", uneven_tone: "nerovnomerný tón", texture: "drsná textúra", dryness: "suchosť" };
 
 const NOT_ALONE = {
-  radiance: "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Mdlá, unavene vyzerajúca pleť je jedným z najčastejších dôvodov, prečo ľudia začínajú rutinu so sérom. PDRN Brightening Serum je postavené okolo PDRN a peptidov, v ľahkej formule navrhnutej tak, aby zlepšila vzhľad hladkej a žiarivej pleti a zanechala ju plnú, jemnú a sviežu, ráno a večer.",
-  fine_lines: "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Jemné vrásky sú zvyčajne prvá vec, pre ktorú ľudia chcú sérum. Táto formula spája Acetyl Hexapeptide-8 s PDRN, zložky vybrané na podporu pleti, ktorá vyzerá hladšie a žiarivejšie, v jednom kroku, dvakrát denne. Nie je potrebná žiadna desaťkroková rutina.",
-  hydration: "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Pleť, ktorá je do poludnia napnutá a smädná, je presne to, na čo je toto sérum vyrobené. Zmes glycerínu, Sodium PCA a Sodium Hyaluronate poskytuje hlbokú hydratáciu, zatiaľ čo Panthenol ošetruje, takže pleť je príjemná a vyzerá plne, nie mastne.",
-  even_tone: "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Nerovnomerne vyzerajúca pleť je častá frustrácia. PDRN a peptidy pomáhajú podporiť žiarivejšiu a živšie vyzerajúcu pleť a ľahká formula sa vstrebáva rýchlo a jednoducho, jednoduchý krok dvakrát denne smerom k rovnomernejšiemu vzhľadu."
+  radiance: "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Matná, unavená pleť na pohľad je jedným z najbežnejších dôvodov, prečo ľudia začínajú rutinu so sérom. PDRN Brightening Serum je postavený okolo PDRN a peptidov, v ľahkej formule, ktorá pomáha pleti vyzerať hladko a jasne, ráno a večer.",
+  fine_lines: "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Jemné vrásky sú zvyčajne prvá vec, na ktorú ľudia chcú sérum. Táto formula spája acetyl hexapeptid-8 s PDRN, dve zložky vybrané na podporu pleti, ktorá vyzerá hladšie a jasnejšie, v jednom kroku, dvakrát denne. Nie je potrebná rutina o desiatich krokoch.",
+  hydration: "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Pleť, ktorá je do poludnia napnutá a suchá na pocit, je presne to, na čo je toto sérum vyrobené. Zmes glycerínu, sodium PCA a sodium hyaluronátu poskytuje hĺbkovú hydratáciu, zatiaľ čo pantenol pleť kondicionuje, takže je príjemná a hydratovaná na pocit, nie mastná.",
+  even_tone: "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Nerovnomerná pleť na pohľad je bežná frustrácia. PDRN a peptidy pomáhajú pleti vyzerať jasnejšie a rovnomernejšie a ľahká formula sa rýchlo vstrebáva, v jednoduchom kroku používanom dvakrát denne."
 };
 
 /* Ingredient groups from the verified Supliful listing. Cosmetic language only. */
 const INGREDIENTS = [
-  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Pomáha podporiť žiarivejšiu a živšie vyzerajúcu pleť a zlepšuje vzhľad hladkej a žiarivej pleti.", match: ["radiance", "mdlosť", "uneven_tone", "even_tone"] },
+  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Pomáha pleti vyzerať jasnejšie, rovnomernejšie a hladšie.", match: ["radiance", "mdlosť", "uneven_tone", "even_tone"] },
   { key: "peptide", name: "Acetyl hexapeptide-8", text: "Peptid, ktorý pracuje spolu s PDRN na podporu pleti, ktorá vyzerá hladšie a rovnomernejšie.", match: ["fine_lines", "texture"] },
-  { key: "ha", name: "Kyselina hyalurónová, glycerín a Sodium PCA", text: "Hydratačná zmes, ktorá priťahuje vlhkosť pre plný a príjemný pocit a hodvábne hladkú textúru.", match: ["hydration", "suchosť"] },
-  { key: "panthenol", name: "Panthenol", text: "Ošetruje pleť a zanecháva ju jemnú a príjemnú, šetrný základ pre pleť, ktorá ľahko reaguje.", match: ["sensitive"] }
+  { key: "ha", name: "Kyselina hyalurónová, glycerín a Sodium PCA", text: "Hydratačná zmes, ktorá priťahuje vlhkosť, pre pleť, ktorá je príjemná a hladká na pocit.", match: ["hydration", "suchosť"] },
+  { key: "panthenol", name: "Panthenol", text: "Kondicionuje pleť a zanecháva ju jemnú a príjemnú na pocit, jemný základ pre pleť, ktorá ľahko reaguje.", match: ["sensitive"] }
 ];
 
 const RAMPS = {

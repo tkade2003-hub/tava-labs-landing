@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "jas a žiarivosť"
+   "t": "jasnejšia pleť na pohľad"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Mdlá, unavene vyzerajúca pleť je jedným z najčastejších dôvodov, prečo ľudia začínajú rutinu so sérom. PDRN Brightening Serum je postavené okolo PDRN a peptidov, v ľahkej formule navrhnutej tak, aby zlepšila vzhľad hladkej a žiarivej pleti a zanechala ju plnú, jemnú a sviežu, ráno a večer."
+   "t": "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Matná, unavená pleť na pohľad je jedným z najbežnejších dôvodov, prečo ľudia začínajú rutinu so sérom. PDRN Brightening Serum je postavený okolo PDRN a peptidov, v ľahkej formule, ktorá pomáha pleti vyzerať hladko a jasne, ráno a večer."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Jemné vrásky sú zvyčajne prvá vec, pre ktorú ľudia chcú sérum. Táto formula spája Acetyl Hexapeptide-8 s PDRN, zložky vybrané na podporu pleti, ktorá vyzerá hladšie a žiarivejšie, v jednom kroku, dvakrát denne. Nie je potrebná žiadna desaťkroková rutina."
+   "t": "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Jemné vrásky sú zvyčajne prvá vec, na ktorú ľudia chcú sérum. Táto formula spája acetyl hexapeptid-8 s PDRN, dve zložky vybrané na podporu pleti, ktorá vyzerá hladšie a jasnejšie, v jednom kroku, dvakrát denne. Nie je potrebná rutina o desiatich krokoch."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Pleť, ktorá je do poludnia napnutá a smädná, je presne to, na čo je toto sérum vyrobené. Zmes glycerínu, Sodium PCA a Sodium Hyaluronate poskytuje hlbokú hydratáciu, zatiaľ čo Panthenol ošetruje, takže pleť je príjemná a vyzerá plne, nie mastne."
+   "t": "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Pleť, ktorá je do poludnia napnutá a suchá na pocit, je presne to, na čo je toto sérum vyrobené. Zmes glycerínu, sodium PCA a sodium hyaluronátu poskytuje hĺbkovú hydratáciu, zatiaľ čo pantenol pleť kondicionuje, takže je príjemná a hydratovaná na pocit, nie mastná."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Nerovnomerne vyzerajúca pleť je častá frustrácia. PDRN a peptidy pomáhajú podporiť žiarivejšiu a živšie vyzerajúcu pleť a ľahká formula sa vstrebáva rýchlo a jednoducho, jednoduchý krok dvakrát denne smerom k rovnomernejšiemu vzhľadu."
+   "t": "Zakladatelia a tvorcovia, ktorí sa prezentujú každý deň, začínajú svoje ráno rovnako. Nerovnomerná pleť na pohľad je bežná frustrácia. PDRN a peptidy pomáhajú pleti vyzerať jasnejšie a rovnomernejšie a ľahká formula sa rýchlo vstrebáva, v jednoduchom kroku používanom dvakrát denne."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Pomáha podporiť žiarivejšiu a živšie vyzerajúcu pleť a zlepšuje vzhľad hladkej a žiarivej pleti."
+   "t": "Pomáha pleti vyzerať jasnejšie, rovnomernejšie a hladšie."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "Hydratačná zmes, ktorá priťahuje vlhkosť pre plný a príjemný pocit a hodvábne hladkú textúru."
+   "t": "Hydratačná zmes, ktorá priťahuje vlhkosť, pre pleť, ktorá je príjemná a hladká na pocit."
   },
   {
    "k": "ing.panthenol.name",
@@ -124,7 +124,7 @@
   {
    "k": "ing.panthenol.text",
    "q": "dq",
-   "t": "Ošetruje pleť a zanecháva ju jemnú a príjemnú, šetrný základ pre pleť, ktorá ľahko reaguje."
+   "t": "Kondicionuje pleť a zanecháva ju jemnú a príjemnú na pocit, jemný základ pre pleť, ktorá ľahko reaguje."
   },
   {
    "k": "ramp.often.1",

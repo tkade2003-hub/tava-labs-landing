@@ -1,0 +1,123 @@
+{
+ "slug": "checkout-success",
+ "title": "Beställning bekräftad | Din PDRN Brightening Serum | Tava Labs",
+ "description": "Din beställning av Tava Labs PDRN Brightening Serum är bekräftad. Din anspråkskod kopplar köpet till appen, där du kan se din plan, dina quizsvar och din beställning.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "&#10003;"
+  },
+  {
+   "id": 4,
+   "text": "Beställning bekräftad"
+  },
+  {
+   "id": 5,
+   "text": "Tack för din beställning."
+  },
+  {
+   "id": 6,
+   "text": "Välkommen till dina 30 dagar."
+  },
+  {
+   "id": 7,
+   "text": "Din beställning av PDRN Brightening Serum är bekräftad och förbereds. Här är vad som händer härnäst:"
+  },
+  {
+   "id": 8,
+   "text": "Mejl"
+  },
+  {
+   "id": 9,
+   "text": "Ett bekräftelsemejl är på väg till den mejladress du använde i kassan. Behåll det: det är ditt kvitto och det innehåller samma anspråkskod som visas nedan."
+  },
+  {
+   "id": 10,
+   "text": "Frakt"
+  },
+  {
+   "id": 11,
+   "text": "Din flaska skickas från vår distributionspartner inom de närmaste arbetsdagarna. Spårningen går till samma mejladress i samma stund som den är på väg."
+  },
+  {
+   "id": 12,
+   "text": "Din plan"
+  },
+  {
+   "id": 13,
+   "text": "Din personliga 30 dagars plan, dina svar, ditt upptrappningsschema, dina tider för morgon och kväll, är sparad och väntar i appen."
+  },
+  {
+   "id": 14,
+   "text": "Kassareferens: "
+  },
+  {
+   "id": 15,
+   "text": "Ditt köp syns i appen"
+  },
+  {
+   "id": 16,
+   "text": "Din plan finns i Tava appen, med dagliga avbockningar för morgon och kväll, din svit och din leveransspårning. Appen finns inte på App Store ännu, så här är din "
+  },
+  {
+   "id": 17,
+   "text": "anspråkskod"
+  },
+  {
+   "id": 18,
+   "text": ": förvara den på ett säkert ställe. När du installerar appen, logga in och ange denna kod, så flyttar din plan, dina svar och denna beställning in i ditt konto med den. Inget att skriva om, och inget nytt köp."
+  },
+  {
+   "id": 19,
+   "text": "Din anspråkskod för appen"
+  },
+  {
+   "id": 20,
+   "text": "Hämtar din anspråkskod…"
+  },
+  {
+   "id": 21,
+   "text": "Kopiera anspråkskod"
+  },
+  {
+   "id": 22,
+   "text": "Kopiera anspråkslänk"
+  },
+  {
+   "id": 23,
+   "text": "Öppna i appen, om den är installerad"
+  },
+  {
+   "id": 24,
+   "text": "Du fick koden via mejl också, samma kod, behåll den som är enklast. Koden fungerar en gång, bara för ditt konto, och det är så vi vet att köpet är ditt (din mejladress ensam räcker aldrig)."
+  },
+  {
+   "id": 25,
+   "text": "Frågor om din beställning? Mejla "
+  },
+  {
+   "id": 26,
+   "text": "talia@tavalabs.app"
+  },
+  {
+   "id": 27,
+   "text": " så ordnar vi det."
+  },
+  {
+   "id": 28,
+   "text": "Tava Labs · PDRN Brightening Serum för grundare · Frågor? talia@tavalabs.app"
+  }
+ ]
+}

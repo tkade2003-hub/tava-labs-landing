@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "lyster och strålglans"
+   "t": "hud som ser ljusare ut"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Grundare och kreatörer som presenterar sig varje dag börjar sin morgon på samma sätt. Matt hud som ser trött ut är en av de vanligaste anledningarna till att människor börjar med en serumrutin. PDRN Brightening Serum är byggt kring PDRN och peptider, i en lätt formula utformad för att förbättra utseendet av slät, strålande hud och lämna den fyllig, mjuk och uppfriskad, morgon och kväll."
+   "t": "Grundare och kreatörer som presenterar sig varje dag börjar sin morgon på samma sätt. Matt, trött hud är en av de vanligaste anledningarna till att människor börjar en serumrutin. PDRN Brightening Serum är byggt kring PDRN och peptider, i en lätt formel som hjälper huden att se slät och ljus ut, morgon och kväll."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Grundare och kreatörer som presenterar sig varje dag börjar sin morgon på samma sätt. Fina linjer är oftast det första människor vill ha ett serum för. Denna formula kombinerar acetyl hexapeptide-8 med PDRN, ingredienser valda för att stödja hud som ser slätare och mer lysande ut, i ett enda steg, två gånger om dagen. Ingen tiodstegsrutin krävs."
+   "t": "Grundare och kreatörer som presenterar sig varje dag börjar sin morgon på samma sätt. Fina linjer är vanligtvis det första människor vill ha ett serum för. Denna formel kombinerar acetyl hexapeptide-8 med PDRN, två ingredienser valda för att stödja hud som ser slätare och ljusare ut, i ett enda steg, två gånger om dagen. Ingen rutin i tio steg krävs."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Grundare och kreatörer som presenterar sig varje dag börjar sin morgon på samma sätt. Hud som känns stram och törstig vid middagstid är precis vad detta serum är gjort för. En blandning av glycerin, sodium PCA och sodium hyaluronate ger djup återfuktning, medan panthenol vårdar, så att huden känns bekväm och ser fyllig ut, inte fet."
+   "t": "Grundare och kreatörer som presenterar sig varje dag börjar sin morgon på samma sätt. Hud som känns stram och torr vid middagstid är precis vad detta serum är gjort för. En blandning av glycerin, natrium PCA och natriumhyaluronat ger djup återfuktning, medan panthenol vårdar huden, så att den känns bekväm och återfuktad, inte fet."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Grundare och kreatörer som presenterar sig varje dag börjar sin morgon på samma sätt. En hy som ser ojämn ut är en vanlig frustration. PDRN och peptider hjälper till att främja en mer lysande hy som ser livfull ut, och den lätta formulan absorberas snabbt och enkelt, ett enkelt steg två gånger dagligen mot en jämnare look."
+   "t": "Grundare och kreatörer som presenterar sig varje dag börjar sin morgon på samma sätt. En ojämn hudton är en vanlig frustration. PDRN och peptider hjälper huden att se ljusare och jämnare ut, och den lätta formeln absorberas snabbt, i ett enkelt steg som används två gånger om dagen."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Hjälper till att främja en mer lysande hy som ser livfull ut och förbättrar utseendet av slät, strålande hud."
+   "t": "Hjälper huden att se ljusare, jämnare och slät ut."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "En återfuktningsblandning som drar till sig fukt för en fyllig, bekväm känsla och en silkeslen textur."
+   "t": "En återfuktningsblandning som drar in fukt, för hud som känns bekväm och slät."
   },
   {
    "k": "ing.panthenol.name",
@@ -124,7 +124,7 @@
   {
    "k": "ing.panthenol.text",
    "q": "dq",
-   "t": "Vårdar huden och lämnar den mjuk och bekväm, en snäll bas för hud som reagerar lätt."
+   "t": "Vårdar huden och lämnar den mjuk och bekväm, en skonsam bas för hud som reagerar lätt."
   },
   {
    "k": "ramp.often.1",

@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "hehku ja säteily"
+   "t": "kirkkaammalta näyttävä iho"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Perustajat ja sisällöntuottajat, jotka esiintyvät joka päivä, aloittavat aamunsa samalla tavalla. Samea ja väsyneen näköinen iho on yksi yleisimmistä syistä, miksi ihmiset aloittavat seerumirutiinin. PDRN Brightening Serum on rakennettu PDRN:n ja peptidien ympärille kevyessä koostumuksessa, joka on suunniteltu parantamaan sileän ja säteilevän ihon ilmettä ja saamaan ihon näyttämään täyteläiseltä, pehmeältä ja virkistyneeltä, aamuin ja illoin."
+   "t": "Perustajat ja sisällöntuottajat, jotka esittelevät itsensä joka päivä, aloittavat aamunsa samalla tavalla. Tylsältä ja väsyneeltä näyttävä iho on yksi yleisimmistä syistä, miksi ihmiset aloittavat seerumirutiinin. PDRN Brightening Serum on rakennettu PDRN:n ja peptidien ympärille, kevyeen koostumukseen, joka auttaa ihoa näyttämään sileältä ja kirkkaalta aamuin illoin."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Perustajat ja sisällöntuottajat, jotka esiintyvät joka päivä, aloittavat aamunsa samalla tavalla. Hienot juonteet ovat yleensä ensimmäinen asia, johon ihmiset haluavat seerumin. Tämä koostumus yhdistää Acetyl Hexapeptide-8:n ja PDRN:n, ainesosat, jotka on valittu tukemaan ihoa, joka näyttää sileämmältä ja säteilevämmältä, yhdessä vaiheessa, kahdesti päivässä. Kymmenen vaiheen rutiinia ei tarvita."
+   "t": "Perustajat ja sisällöntuottajat, jotka esittelevät itsensä joka päivä, aloittavat aamunsa samalla tavalla. Juonteet ovat yleensä ensimmäinen asia, johon ihmiset haluavat seerumin. Tämä koostumus yhdistää asetyyliheksapeptidi-8:n PDRN:ään, kaksi ainesosaa, jotka on valittu tukemaan sileämmältä ja kirkkaammalta näyttävää ihoa, yhdessä vaiheessa kahdesti päivässä. Kymmenen vaiheen rutiinia ei tarvita."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Perustajat ja sisällöntuottajat, jotka esiintyvät joka päivä, aloittavat aamunsa samalla tavalla. Iho, joka tuntuu kireältä ja janoiselta keskipäivään mennessä, on juuri sitä, mihin tämä seerumi on tehty. Glyseriinin, natrium PCA:n ja natriumhyaluronaatin sekoitus tarjoaa syvää kosteutusta, ja pantenoli hoitaa ihoa, joten iho tuntuu miellyttävältä ja näyttää täyteläiseltä, ei rasvaiselta."
+   "t": "Perustajat ja sisällöntuottajat, jotka esittelevät itsensä joka päivä, aloittavat aamunsa samalla tavalla. Iho, joka tuntuu kireältä ja kuivalta keskipäivään mennessä, on juuri sitä, mihin tämä seerumi on tehty. Glyseriinin, natrium-PCA:n ja natriumhyaluronaatin sekoitus tarjoaa syvää kosteutusta, kun taas pantenoli hoitaa ihoa, jotta se tuntuu mukavalta ja kosteutetulta, ei rasvaiselta."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Perustajat ja sisällöntuottajat, jotka esiintyvät joka päivä, aloittavat aamunsa samalla tavalla. Epätasaisen näköinen iho on yleinen turhautumisen aihe. PDRN ja peptidit auttavat edistämään säteilevämpää ja elinvoimaisemman näköistä ihoa, ja kevyt koostumus imeytyy nopeasti ja helposti. Se on yksinkertainen vaihe kahdesti päivässä kohti tasaisempaa ilmettä."
+   "t": "Perustajat ja sisällöntuottajat, jotka esittelevät itsensä joka päivä, aloittavat aamunsa samalla tavalla. Epätasaiselta näyttävä iho on yleinen turhautumisen aihe. PDRN ja peptidit auttavat ihoa näyttämään kirkkaammalta ja tasaisemmalta, ja kevyt koostumus imeytyy nopeasti, yksinkertaisessa vaiheessa, jota käytetään kahdesti päivässä."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Auttaa edistämään säteilevämpää ja elinvoimaisemman näköistä ihoa ja parantaa sileän ja säteilevän ihon ilmettä."
+   "t": "Auttaa ihoa näyttämään kirkkaammalta, tasaisemmalta ja sileältä."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "Kosteutussekoitus, joka vetää kosteutta puoleensa täyteläistä ja miellyttävää tunnetta sekä silkkisen sileää rakennetta varten."
+   "t": "Kosteutussekoitus, joka vetää kosteutta puoleensa, iholle, joka tuntuu mukavalta ja sileältä."
   },
   {
    "k": "ing.panthenol.name",
@@ -124,7 +124,7 @@
   {
    "k": "ing.panthenol.text",
    "q": "dq",
-   "t": "Hoitaa ihoa ja saa sen tuntumaan pehmeältä ja miellyttävältä. Se on ystävällinen pohja iholle, joka reagoi helposti."
+   "t": "Hoitaa ihoa ja jättää sen pehmeäksi ja mukavaksi, hellävarainen pohja helposti reagoivalle iholle."
   },
   {
    "k": "ramp.often.1",

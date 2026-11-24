@@ -12,23 +12,23 @@ const FUNNEL_INTAKE_URL = "https://vuzrpgkqytzvbbxwsvqr.supabase.co/functions/v1
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { subscribe: 39, one_time: 49 };
 
-const GOAL_LABEL = { radiance: "brilho e luminosidade", fine_lines: "linhas finas", hydration: "hidratação profunda", even_tone: "um tom uniforme" };
+const GOAL_LABEL = { radiance: "pele com um aspeto mais luminoso", fine_lines: "linhas finas", hydration: "hidratação profunda", even_tone: "um tom uniforme" };
 const SKIN_LABEL = { dry: "Seca", oily: "Oleosa", combination: "Mista", sensitive: "Sensível", not_sure: "Ainda estou a descobrir" };
 const CONCERN_LABEL = { dullness: "aspeto baço", fine_lines: "linhas finas", uneven_tone: "tom irregular", texture: "textura áspera", dryness: "secura" };
 
 const NOT_ALONE = {
-  radiance: "Os fundadores e criadores que se apresentam todos os dias começam a manhã da mesma forma. Uma pele baça e com aspeto cansado é um dos motivos mais comuns para começar uma rotina de sérum. O PDRN Brightening Serum é construído em torno do PDRN e dos péptidos, numa fórmula leve pensada para melhorar o aspeto de uma pele suave e radiante, deixando-a com um aspeto cheio, macio e renovado, de manhã e à noite.",
-  fine_lines: "Os fundadores e criadores que se apresentam todos os dias começam a manhã da mesma forma. As linhas finas são normalmente a primeira coisa para a qual as pessoas querem um sérum. Esta fórmula combina o acetyl hexapeptide-8 com o PDRN, ingredientes escolhidos para apoiar uma pele com aspeto mais suave e luminoso, num só passo, duas vezes por dia. Não é necessária uma rotina de dez passos.",
-  hydration: "Os fundadores e criadores que se apresentam todos os dias começam a manhã da mesma forma. Uma pele que se sente repuxada e com sede a meio do dia é exatamente aquilo para que este sérum foi feito. Uma mistura de glicerina, PCA de sódio e hialuronato de sódio proporciona hidratação profunda, enquanto o pantenol condiciona, para que a pele se sinta confortável e pareça cheia, e não gordurosa.",
-  even_tone: "Os fundadores e criadores que se apresentam todos os dias começam a manhã da mesma forma. Uma tez com aspeto irregular é uma frustração comum. O PDRN e os péptidos ajudam a promover uma tez com aspeto mais luminoso e vibrante, e a fórmula leve absorve de forma rápida e fácil, um passo simples duas vezes por dia rumo a um aspeto mais uniforme."
+  radiance: "Fundadores e criadores que se apresentam todos os dias começam a manhã da mesma forma. Uma pele baça e com um aspeto cansado é uma das razões mais comuns para as pessoas começarem uma rotina com um sérum. O PDRN Brightening Serum é construído em torno do PDRN e de péptidos, numa fórmula leve que ajuda a pele a parecer suave e luminosa, de manhã e à noite.",
+  fine_lines: "Fundadores e criadores que se apresentam todos os dias começam a manhã da mesma forma. As linhas finas são normalmente a primeira coisa para a qual as pessoas procuram um sérum. Esta fórmula combina acetyl hexapeptide-8 com PDRN, dois ingredientes escolhidos para apoiar uma pele que parece mais suave e luminosa, num único passo, duas vezes por dia. Não é necessária nenhuma rotina de dez passos.",
+  hydration: "Fundadores e criadores que se apresentam todos os dias começam a manhã da mesma forma. Uma pele que se sente repuxada e seca a meio do dia é exatamente aquilo para que este sérum foi feito. Uma mistura de glicerina, PCA de sódio e hialuronato de sódio proporciona uma hidratação profunda, enquanto o pantenol condiciona a pele, para que se sinta confortável e hidratada, não oleosa.",
+  even_tone: "Fundadores e criadores que se apresentam todos os dias começam a manhã da mesma forma. Uma tez com um aspeto irregular é uma frustração comum. O PDRN e os péptidos ajudam a pele a parecer mais luminosa e mais uniforme, e a fórmula leve absorve rapidamente, num passo simples usado duas vezes por dia."
 };
 
 /* Ingredient groups from the verified Supliful listing. Cosmetic language only. */
 const INGREDIENTS = [
-  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Ajuda a promover uma tez com aspeto mais luminoso e vibrante e melhora o aspeto de uma pele suave e radiante.", match: ["radiance", "aspeto baço", "uneven_tone", "even_tone"] },
+  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Ajuda a pele a parecer mais luminosa, mais uniforme e suave.", match: ["radiance", "aspeto baço", "uneven_tone", "even_tone"] },
   { key: "peptide", name: "Acetyl hexapeptide-8", text: "Um péptido que trabalha ao lado do PDRN para apoiar uma pele com aspeto mais suave e uniforme.", match: ["fine_lines", "texture"] },
-  { key: "ha", name: "Ácido hialurónico, glicerina e PCA de sódio", text: "Uma mistura de hidratação que atrai a humidade para uma sensação cheia e confortável e uma textura sedosa e suave.", match: ["hydration", "secura"] },
-  { key: "panthenol", name: "Panthenol", text: "Condiciona a pele, deixando-a macia e confortável, uma base delicada para peles que reagem facilmente.", match: ["sensitive"] }
+  { key: "ha", name: "Ácido hialurónico, glicerina e PCA de sódio", text: "Uma mistura de hidratação que atrai a humidade, para uma pele que se sente confortável e suave.", match: ["hydration", "secura"] },
+  { key: "panthenol", name: "Panthenol", text: "Condiciona a pele, deixando-a suave e confortável, uma base suave para a pele que reage facilmente.", match: ["sensitive"] }
 ];
 
 const RAMPS = {

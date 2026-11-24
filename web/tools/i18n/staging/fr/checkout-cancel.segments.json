@@ -1,0 +1,67 @@
+{
+ "slug": "checkout-cancel",
+ "title": "Paiement annulé | Aucun frais prélevé | Tava Labs",
+ "description": "Aucun débit n'a été effectué. Votre programme et vos réponses Tava Labs sont enregistrés, vous pourrez donc terminer votre commande plus tard, quand vous serez prêt.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "Paiement annulé"
+  },
+  {
+   "id": 4,
+   "text": "Aucun frais. "
+  },
+  {
+   "id": 5,
+   "text": "Rien n’est perdu."
+  },
+  {
+   "id": 6,
+   "text": "Vous avez quitté le paiement avant de terminer, donc "
+  },
+  {
+   "id": 7,
+   "text": "votre carte n’a pas été débitée"
+  },
+  {
+   "id": 8,
+   "text": ", pas un centime. Et votre travail n’est pas perdu : les réponses que vous avez données et le programme de 30 jours que nous avons élaboré à partir de celles-ci sont enregistrés sous l’adresse e-mail que vous avez saisie."
+  },
+  {
+   "id": 9,
+   "text": "Quand vous serez prêt, reprenez là où vous vous étiez arrêté. Répondez à nouveau aux questions rapides avec le même e-mail et votre programme sera reconstruit exactement comme il était, puis terminez au paiement sécurisé."
+  },
+  {
+   "id": 10,
+   "text": "Retour à mon programme de 30 jours"
+  },
+  {
+   "id": 11,
+   "text": "Vous avez définitivement changé d’avis ? Aucun souci, rien n’a été prélevé et il n’y a rien à annuler. Des questions ? Écrivez à "
+  },
+  {
+   "id": 12,
+   "text": "talia@tavalabs.app"
+  },
+  {
+   "id": 13,
+   "text": "."
+  },
+  {
+   "id": 14,
+   "text": "Tava Labs · PDRN Brightening Serum pour les fondateurs · Des questions ? talia@tavalabs.app"
+  }
+ ]
+}

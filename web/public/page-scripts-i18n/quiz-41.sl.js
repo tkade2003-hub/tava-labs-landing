@@ -12,23 +12,23 @@ const FUNNEL_INTAKE_URL = "https://vuzrpgkqytzvbbxwsvqr.supabase.co/functions/v1
 const PRODUCT = { productId: "cbbc7de1-994e-45be-94d8-ac4be3b8cc18", sku: "VASHO-PBS-8FB6" };
 const PRICES = { subscribe: 39, one_time: 49 };
 
-const GOAL_LABEL = { radiance: "sijaj in svetlost", fine_lines: "drobne gubice", hydration: "globoko vlaženje", even_tone: "enakomeren ton" };
+const GOAL_LABEL = { radiance: "svetlejša koža na videz", fine_lines: "drobne gubice", hydration: "globoko vlaženje", even_tone: "enakomeren ton" };
 const SKIN_LABEL = { dry: "Suha", oily: "Mastna", combination: "Mešana", sensitive: "Občutljiva", not_sure: "Še ugotavljam" };
 const CONCERN_LABEL = { dullness: "pustost", fine_lines: "drobne gubice", uneven_tone: "neenakomeren ton", texture: "groba tekstura", dryness: "suhost" };
 
 const NOT_ALONE = {
-  radiance: "Ustanovitelji in ustvarjalci, ki se vsak dan predstavljajo, začnejo svoje jutro na enak način. Pusta in utrujena koža je eden najpogostejših razlogov, da ljudje začnejo rutino s serumom. PDRN Brightening Serum je zgrajen okoli PDRN in peptidov, v lahki formuli, zasnovani za izboljšanje videza gladke in sijoče kože, da je videti napeta, mehka in osvežena, zjutraj in zvečer.",
-  fine_lines: "Ustanovitelji in ustvarjalci, ki se vsak dan predstavljajo, začnejo svoje jutro na enak način. Drobne gubice so običajno prva stvar, zaradi katere ljudje želijo serum. Ta formula združuje Acetyl Hexapeptide-8 s PDRN, sestavini, izbrani za podporo koži, ki je videti gladkejša in svetlejša, v enem samem koraku, dvakrat na dan. Rutina v desetih korakih ni potrebna.",
-  hydration: "Ustanovitelji in ustvarjalci, ki se vsak dan predstavljajo, začnejo svoje jutro na enak način. Koža, ki je do poldneva napeta in žejna, je točno tisto, za kar je ta serum narejen. Mešanica glicerina, natrijevega PCA in natrijevega hialuronata zagotavlja globoko vlaženje, pantenol pa neguje, da se koža počuti udobno in je videti napeta, ne mastna.",
-  even_tone: "Ustanovitelji in ustvarjalci, ki se vsak dan predstavljajo, začnejo svoje jutro na enak način. Neenakomerna polt je pogosta frustracija. PDRN in peptidi pomagajo spodbujati svetlejšo in živahnejšo polt, lahka formula pa se hitro in enostavno vpije, preprost korak dvakrat na dan k enakomernejšemu videzu."
+  radiance: "Ustanovitelji in ustvarjalci, ki se predstavljajo vsak dan, jutro začnejo enako. Dolgočasna, utrujena koža na videz je eden najpogostejših razlogov, zakaj ljudje začnejo rutino s serumom. PDRN Brightening Serum je zgrajen okoli PDRN in peptidov, v lahki formuli, ki pomaga koži videti gladko in svetlo, zjutraj in zvečer.",
+  fine_lines: "Ustanovitelji in ustvarjalci, ki se predstavljajo vsak dan, jutro začnejo enako. Fine linije so običajno prva stvar, za katero ljudje želijo serum. Ta formula združuje acetil heksapeptid-8 s PDRN, dve sestavini, izbrani za podporo kože, ki izgleda bolj gladka in svetlejša, v enem koraku, dvakrat na dan. Rutina z desetimi koraki ni potrebna.",
+  hydration: "Ustanovitelji in ustvarjalci, ki se predstavljajo vsak dan, jutro začnejo enako. Koža, ki se do poldneva počuti zategnjena in suha, je točno tisto, za kar je ta serum narejen. Mešanica glicerina, natrijevega PCA in natrijevega hialuronata zagotavlja globoko hidracijo, pantenol pa kožo kondicionira, tako da je na otip prijetna in navlažena, ne mastna.",
+  even_tone: "Ustanovitelji in ustvarjalci, ki se predstavljajo vsak dan, jutro začnejo enako. Neenakomerna polt na videz je pogosta frustracija. PDRN in peptidi pomagajo koži videti svetlejšo in bolj enakomerno, lahka formula pa se hitro vpije, v preprostem koraku, ki se uporablja dvakrat na dan."
 };
 
 /* Ingredient groups from the verified Supliful listing. Cosmetic language only. */
 const INGREDIENTS = [
-  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Pomaga spodbujati svetlejšo in živahnejšo polt ter izboljšuje videz gladke in sijoče kože.", match: ["radiance", "pustost", "uneven_tone", "even_tone"] },
+  { key: "pdrn", name: "PDRN (polydeoxyribonucleotide)", text: "Pomaga koži videti svetlejšo, bolj enakomerno in gladko.", match: ["radiance", "pustost", "uneven_tone", "even_tone"] },
   { key: "peptide", name: "Acetyl hexapeptide-8", text: "Peptid, ki skupaj s PDRN podpira kožo, ki je videti gladkejša in enakomernejša.", match: ["fine_lines", "texture"] },
-  { key: "ha", name: "Hyaluronic acid, glycerin & sodium PCA", text: "Mešanica za vlaženje, ki privlači vlago za napet in udoben občutek ter svilnato gladko teksturo.", match: ["hydration", "suhost"] },
-  { key: "panthenol", name: "Panthenol", text: "Neguje kožo in jo pusti mehko in udobno, prijazna osnova za kožo, ki zlahka reagira.", match: ["sensitive"] }
+  { key: "ha", name: "Hyaluronic acid, glycerin & sodium PCA", text: "Hidratantna mešanica, ki privlači vlago, za kožo, ki je na otip prijetna in gladka.", match: ["hydration", "suhost"] },
+  { key: "panthenol", name: "Panthenol", text: "Kondicionira kožo in jo pusti mehko in prijetno na otip, nežen temelj za kožo, ki zlahka reagira.", match: ["sensitive"] }
 ];
 
 const RAMPS = {

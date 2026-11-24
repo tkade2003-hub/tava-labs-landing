@@ -2,15 +2,15 @@
  "meta": {
   "home": {
    "title": "PDRN Brightening Serum dla przedsiębiorców | Tava Labs",
-   "description": "Pielęgnacja skóry dla przedsiębiorców. PDRN Brightening Serum łączy PDRN, peptydy i kwas hialuronowy, aby skóra wyglądała promiennie i była dobrze nawilżona. $49 jednorazowo lub $39 miesięcznie."
+   "description": "Codzienne serum do twarzy dla założycieli firm i właścicieli biznesów. PDRN Brightening Serum z PDRN, peptydami i kwasem hialuronowym dla skóry, która wygląda jaśniej i jest lepiej nawilżona. $49 jednorazowo lub $39 miesięcznie."
   },
   "product": {
    "title": "PDRN Brightening Serum dla przedsiębiorców | Tava Labs",
-   "description": "PDRN Brightening Serum od Tava Labs łączy PDRN, peptydy i Sodium Hyaluronate, aby skóra wyglądała promiennie i była nawilżona, w jednym codziennym kroku stworzonym dla założycieli firm, operatorów i twórców. $49 jednorazowo lub $39 miesięcznie."
+   "description": "PDRN Brightening Serum od Tava Labs to codzienne serum do twarzy z PDRN, peptydami i hialuronianem sodu dla skóry, która wygląda jaśniej i jest lepiej nawilżona. Stworzone dla założycieli firm i właścicieli biznesów. $49 jednorazowo lub $39 miesięcznie."
   },
   "about": {
-   "title": "O Tava Labs | Pielęgnacja skóry dla ambitnych",
-   "description": "Tava Labs tworzy pielęgnację skóry dla ambitnych. Poznaj zespół stojący za PDRN Brightening Serum, codzienną rutyną stworzoną dla założycieli firm i profesjonalistów."
+   "title": "O Tava Labs | Serum do twarzy dla założycieli firm",
+   "description": "Tava Labs tworzy jeden produkt, PDRN Brightening Serum, codzienne serum do twarzy dla założycieli firm i właścicieli biznesów. Przeczytaj, kim jesteśmy i dlaczego je stworzyliśmy."
   },
   "ingredients": {
    "title": "Składniki PDRN Brightening Serum | Tava Labs",
@@ -34,7 +34,7 @@
   },
   "blog": {
    "title": "The Tava Journal | Skóra, sen i stres dla założycieli firm",
-   "description": "Nauka o śnie, badania nad stresem i zdrowie skóry dla założycieli firm i profesjonalistów, a także praktyczne rutyny, dzięki którym dobrze wyglądasz w pracy."
+   "description": "Nauka o śnie, badania nad stresem i zdrowie skóry dla założycieli firm i właścicieli biznesów, a także praktyczne rutyny, dzięki którym wyglądasz na wypoczętego w pracy."
   },
   "quiz": {
    "title": "Quiz o skórze | Zbuduj swój osobisty plan serum | Tava Labs",
@@ -42,11 +42,11 @@
   },
   "checkoutSuccess": {
    "title": "Zamówienie potwierdzone | Twoje PDRN Brightening Serum | Tava Labs",
-   "description": "Twoje zamówienie PDRN Brightening Serum od Tava Labs zostało potwierdzone. Twój kod odbioru łączy ten zakup z aplikacją, w której Twój plan, odpowiedzi i zamówienie są zawsze przy Tobie."
+   "description": "Twoje zamówienie PDRN Brightening Serum od Tava Labs zostało potwierdzone. Twój kod odbioru łączy ten zakup z aplikacją, w której możesz zobaczyć swój plan, odpowiedzi z quizu i zamówienie."
   },
   "checkoutCancel": {
    "title": "Finalizacja zakupu anulowana | Nie pobrano opłaty | Tava Labs",
-   "description": "Nie pobrano żadnej opłaty. Twój plan i odpowiedzi w Tava Labs są zapisane, więc możesz wrócić dokładnie w to samo miejsce, gdy będziesz gotowy."
+   "description": "Nie pobrano żadnej opłaty. Twój plan i odpowiedzi w Tava Labs są zapisane, więc możesz dokończyć zamówienie później, gdy będziesz gotowy."
   },
   "login": {
    "title": "Zaloguj się | Tava Labs",
@@ -92,7 +92,7 @@
   "openMenu": "Otwórz menu",
   "closeMenu": "Zamknij menu",
   "language": "Język",
-  "tagline": "The Science of Attractive Health",
+  "tagline": "PDRN Brightening Serum dla założycieli firm",
   "shopHeading": "Sklep",
   "contactHeading": "Kontakt",
   "infoHeading": "Informacje",
@@ -114,17 +114,17 @@
    "blog": "Blog",
    "research": "Badania"
   },
-  "newsletterHeading": "Bądź na bieżąco ze wszystkim, co dotyczy Tava",
+  "newsletterHeading": "Otrzymuj aktualizacje Tava Labs przez e-mail",
   "newsletter": {
    "placeholder": "Twój adres email",
    "subscribe": "Zapisz się",
    "sending": "Wysyłanie...",
-   "done": "Jesteś na liście. Witaj wśród osób, które dbają o promienny wygląd.",
+   "done": "Jesteś zapisany. Dziękujemy.",
    "error": "Coś poszło nie tak, spróbuj ponownie."
   },
   "disclaimer1": "PDRN Brightening Serum to produkt kosmetyczny. Nie jest przeznaczony do diagnozowania, leczenia ani zapobiegania żadnej chorobie. Indywidualne rezultaty mogą się różnić.",
   "disclaimer2": "Każda sprzedaż jest ostateczna. Przed złożeniem zamówienia zapoznaj się z naszą Polityką zwrotów.",
-  "copyright": "© 2026 Tava Labs · The Science of Attractive Health",
+  "copyright": "© 2026 Tava Labs · PDRN Brightening Serum dla założycieli firm",
   "notFoundLabel": "Tava Labs",
   "notFoundTitle": "Nie znaleziono strony",
   "notFoundBody": "Tej strony tutaj nie ma. Mogła zostać przeniesiona albo adres jest niepełny.",
@@ -140,19 +140,19 @@
  },
  "hero": {
   "ariaLabel": "PDRN Brightening Serum",
-  "pill": "Dla osoby, która występuje na pierwszym planie",
-  "line1": "Dopracowany wygląd przed",
-  "line2": "pierwszą rozmową.",
-  "sub": "Dwie do czterech kropli PDRN Brightening Serum, rano i wieczorem, dla skóry, która wygląda jasno, jest nawilżona i gładka, od pierwszej rozmowy do ostatniej.",
+  "pill": "Dla założycieli firm i właścicieli biznesów",
+  "line1": "Codzienne serum do twarzy dla",
+  "line2": "jaśniejszej, gładszej skóry.",
+  "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Nakładaj dwie do czterech kropli rano i wieczorem. $49 jednorazowo lub $39 miesięcznie.",
   "cardAria": "PDRN Brightening Serum, strona produktu",
-  "onSetPill": "Na planie",
-  "onSetCaption": "Spokój w świetle reflektorów",
+  "onSetPill": "Przed kamerą",
+  "onSetCaption": "Do nagrywania i rozmów wideo",
   "onSetAlt": "Założyciel firmy siedzący na planie studia, zwrócony do kamery",
-  "morningPill": "Poranny rytuał",
-  "morningCaption": "Przy lustrze, od razu po przebudzeniu",
+  "morningPill": "Poranna rutyna",
+  "morningCaption": "Nakładaj przy lustrze każdego ranka",
   "morningAlt": "Założyciel firmy nakładający serum przy lustrze w łazience w porannym świetle",
   "widePill": "Dzień i noc",
-  "wideHead": "Jedna butelka. Każdego dnia.",
+  "wideHead": "Jedna butelka, używana rano i wieczorem.",
   "priceLine": "$49 jednorazowo lub $39 miesięcznie",
   "talia": {
    "baseline": "Punkt wyjścia",
@@ -167,27 +167,27 @@
  "home": {
   "introTitleLead": "Jaśniejsza, nawilżona,",
   "introTitleAccent": "skóra o zdrowym wyglądzie",
-  "introBody": "Przedsiębiorcy żyją przed kamerą i w sali spotkań. Prezentujesz pomysł inwestorom, zamykasz sprzedaż podczas rozmów i nagrywasz wideo, które sprzedaje produkt. Twoja twarz jest częścią tej prezentacji. PDRN Brightening Serum to jeden lekki, szybko wchłaniający się krok z PDRN, peptydami i kwasem hialuronowym. Pomaga skórze wyglądać jaśniej, być głęboko nawilżona i gładka. Dwie minuty, dwa razy dziennie, i pojawiasz się w formie, wypoczęty i gotowy.",
-  "marqueeTagline": "The Science of Attractive Health",
-  "marqueeSlogan": "Pielęgnacja skóry dla ambitnych",
-  "buildersTitle": "Stworzone dla tych, którzy budują",
+  "introBody": "Założyciele firm i właściciele biznesów spędzają dni na spotkaniach, rozmowach sprzedażowych i nagraniach wideo. Twoja twarz jest na ekranie i w pomieszczeniu przez cały ten czas. PDRN Brightening Serum to jeden lekki krok z PDRN, peptydami i kwasem hialuronowym. Szybko się wchłania i pomaga skórze wyglądać jaśniej, nawilżonej i gładko. Dwie minuty, dwa razy dziennie.",
+  "marqueeTagline": "Jedno serum, rano i wieczorem",
+  "marqueeSlogan": "Stworzone dla założycieli firm i właścicieli biznesów",
+  "buildersTitle": "Stworzone dla założycieli firm i właścicieli biznesów",
   "buildersTagline": "Buduj swoją firmę. Nie zaniedbuj siebie.",
-  "buildersBody": "Jako przedsiębiorca ciągle występujesz przed innymi. Prezentujesz pomysł inwestorom osobiście, sprzedajesz podczas rozmów wideo i nagrywasz treści, które w kilka sekund muszą zdobyć zaufanie. Zadbanie o przygotowany i opanowany wygląd to nie próżność. To część tego, jak prezentujesz swoją firmę. Prosta codzienna rutyna należy do systemu pracy założyciela, obok dobrego stroju, solidnego laptopa i systemu, na którym możesz polegać.",
+  "buildersBody": "Założyciele firm i właściciele biznesów prezentują się przez cały dzień. Prezentujesz inwestorom osobiście, sprzedajesz na rozmowach wideo i nagrywasz filmy dla klientów. Czysty i wypoczęty wygląd jest częścią dobrego prezentowania swojej firmy. Krótka codzienna rutyna pielęgnacyjna stoi obok dobrego ubioru i niezawodnego laptopa jako podstawowa dbałość o siebie. PDRN Brightening Serum zajmuje dwie minuty, rano i wieczorem.",
   "pitchAlt": "Założyciel firmy prezentujący swój pomysł inwestorowi",
   "pitchTitle": "Podczas prezentacji",
-  "pitchBody": "Po drugiej stronie stołu od inwestora sala najpierw ocenia Ciebie, a dopiero potem Twoją prezentację. Pojaw się jak osoba stojąca za firmą wartą wsparcia: wypoczęty, w formie i gotowy.",
+  "pitchBody": "Gdy prezentujesz inwestorom osobiście, widzą najpierw Ciebie, a dopiero potem Twoje slajdy. Codzienna rutyna z serum pomaga Twojej skórze wyglądać jasno, nawilżonej i wypoczętej tego dnia.",
   "cameraAlt": "Założyciel firmy mówiący przed kamerą",
   "cameraTitle": "Przed kamerą",
-  "cameraBody": "Na planie zdjęciowym, podczas podcastu albo rozmowy sprzedażowej obiektyw najpierw pokazuje nieprzespane noce. Pewność siebie przed kamerą zaczyna się od tego, jak dbasz o siebie, zanim w ogóle naciśniesz nagrywanie.",
-  "maintenanceTitle": "Codzienna pielęgnacja przedsiębiorcy.",
-  "maintenanceBody": "Jedno serum, rano i wieczorem. Wyglądaj na przygotowanego. Czuj się pewnie. Pojawiaj się gotowy.",
-  "motionTitle": "Tava w ruchu",
-  "motionBody": "Wielu twórców i przedsiębiorców już nas polubiło.",
+  "cameraBody": "Na nagraniu wideo, podcaście lub rozmowie sprzedażowej kamera pokazuje zmęczoną skórę z bliska. Dwuminutowa rutyna rano i wieczorem pomaga Twojej skórze wyglądać na wypoczętą, zanim zaczniesz nagrywać.",
+  "maintenanceTitle": "Jedno serum to cała rutyna.",
+  "maintenanceBody": "Nakładaj dwie do czterech kropli PDRN Brightening Serum na czystą, suchą skórę, rano i wieczorem, a potem nałóż krem nawilżający. Cała rutyna zajmuje około dwóch minut dziennie.",
+  "motionTitle": "Obejrzyj filmy klientów",
+  "motionBody": "Założyciele firm i twórcy, którzy używają PDRN Brightening Serum, nagrani na wideo.",
   "playVideo": "Odtwórz wideo",
   "videoPlayer": "Odtwarzacz wideo",
   "closeVideo": "Zamknij wideo",
-  "freeFromTitleLead": "Składniki wysokiej jakości, połączone",
-  "freeFromTitleAccent": "ze starannością.",
+  "freeFromTitleLead": "Czego nie ma",
+  "freeFromTitleAccent": "w formule.",
   "freeFromSub": "To, czego nie dodajemy, liczy się tak samo jak to, co dodajemy.",
   "freeFromItems": [
    {
@@ -224,22 +224,22 @@
    }
   ],
   "founderLabel": "Wiadomość od naszego założyciela",
-  "founderQuote": "„Zdrowa skóra to najbardziej atrakcyjna rzecz, jaką możesz nosić.”",
-  "founderBody1": "To filozofia stojąca za Tava Labs, The Science of Attractive Health. PDRN Brightening Serum to ten jeden krok, wokół którego zbudowana jest cała rutyna: dwie minuty, dwa razy dziennie, rano i wieczorem.",
-  "founderBody2": "Obejrzyj film, aby usłyszeć o nauce, która za tym stoi, naszymi własnymi słowami.",
+  "founderQuote": "„Jedno serum, dwie minuty, rano i wieczorem. To cała rutyna.”",
+  "founderBody1": "Na tym opiera się Tava Labs. PDRN Brightening Serum to jeden krok, wokół którego zbudowana jest rutyna: dwie minuty, dwa razy dziennie, rano i wieczorem.",
+  "founderBody2": "Obejrzyj film, aby usłyszeć, dlaczego je stworzyliśmy, naszymi własnymi słowami.",
   "founderPhilosophy": "Filozofia Tava Labs",
-  "founderVideoAria": "Film Tava Labs, nauka stojąca za PDRN Brightening Serum",
+  "founderVideoAria": "Film Tava Labs, dlaczego stworzyliśmy PDRN Brightening Serum",
   "shopSerum": "Kup serum",
   "journalTitle": "The Tava Journal",
-  "journalSub": "O śnie, stresie i pojawianiu się w gotowości.",
+  "journalSub": "Artykuły o śnie, stresie i skórze dla założycieli firm.",
   "readJournal": "Czytaj The Tava Journal",
   "readStory": "Czytaj historię"
  },
  "appTeaser": {
   "label": "Wkrótce dostępne",
-  "lead": "Twoja rutyna, Twoje badania i Twoje zamówienia zyskują własne miejsce.",
-  "headlineLead": "Jedna aplikacja.",
-  "headlineTrail": "Każdego dnia.",
+  "lead": "Twoja rutyna, wyniki badań laboratoryjnych i zamówienia, wszystko w aplikacji Tava Labs.",
+  "headlineLead": "Twoje serum, badania i zamówienia",
+  "headlineTrail": "w jednej aplikacji.",
   "scroll": "Przewiń",
   "caption": "Aplikacja Tava Labs łączy Twój plan serum, codzienną rutynę, panele badań laboratoryjnych i wyniki oraz zamówienia w jednym miejscu, stworzonym dla iPhone.",
   "features": [
@@ -249,7 +249,7 @@
    },
    {
     "title": "Serie i postępy",
-    "desc": "Twoja seria i to, ile zostało, czytelne na pierwszy rzut oka."
+    "desc": "Twoja aktualna seria i dni pozostałe w Twoim planie."
    },
    {
     "title": "Panele badań i wyniki",
@@ -257,7 +257,7 @@
    },
    {
     "title": "Zamówienia i uzupełnienia",
-    "desc": "Zamówienia i uzupełnienia bez szukania."
+    "desc": "Zobacz swoje zamówienia i daty uzupełnień w jednym miejscu."
    }
   ],
   "phone": {
@@ -308,9 +308,9 @@
    "eyebrow": "PIELĘGNACJA SKÓRY",
    "heroTitleLead": "Twoje następne spotkanie",
    "heroTitleAccent": "zaczyna się od Ciebie.",
-   "heroCopy": "Stworzone dla przedsiębiorców, którzy prezentują, sprzedają i nagrywają przed kamerą. Jedno codzienne serum, zbudowane wokół PDRN, dla skóry, która wygląda na zadbaną i wypoczętą w sali i w obiektywie.",
+   "heroCopy": "Stworzone dla przedsiębiorców, którzy prezentują, sprzedają i nagrywają przed kamerą. Jedno codzienne serum, zbudowane wokół PDRN, dla skóry, która wygląda jasno i wypoczęcie w pomieszczeniu i przed kamerą.",
    "heroFinePrint": "Kosmetyczna pielęgnacja skóry. Nie jest przeznaczona do diagnozowania, leczenia ani zapobiegania żadnej chorobie.",
-   "stamp": "PIELĘGNACJA SKÓRY DLA AMBITNYCH",
+   "stamp": "PIELĘGNACJA SKÓRY DLA ZAŁOŻYCIELI FIRM",
    "primaryCta": "Dodaj do rutyny",
    "secondaryCta": "Zobacz składniki",
    "optionsEyebrow": "OFERTA",
@@ -326,7 +326,7 @@
      "badges": [
       "Bestseller"
      ],
-     "description": "Codzienne serum dla promiennej, nawilżonej skóry o zdrowym wyglądzie. $39 miesięcznie w Subscribe and Save.",
+     "description": "Codzienne serum dla jaśniejszej, nawilżonej skóry o zdrowym wyglądzie. $39 miesięcznie w opcji Subskrybuj i oszczędzaj.",
      "linkLabel": "Zobacz serum"
     },
     {
@@ -725,7 +725,7 @@
   "pricePerUnit": "/ 30ml (1 fl oz)",
   "subPrice": "lub $39 miesięcznie w Subscribe and Save",
   "bullets": [
-   "PDRN, Acetyl Hexapeptide-8 i kwas hialuronowy, aby wspierać gładszą skórę o bardziej promiennym wyglądzie.",
+   "PDRN, Acetyl Hexapeptide-8 i kwas hialuronowy, aby wspierać gładszą skórę o jaśniejszym wyglądzie.",
    "Głębokie nawilżenie dzięki glicerynie, Sodium PCA i Panthenol.",
    "W 100% bez okrucieństwa wobec zwierząt, bez substancji zapachowych, bez parabenów, bez siarczanów, bez oleju mineralnego, bez silikonów i wegańskie."
   ],
@@ -749,24 +749,24 @@
    }
   ],
   "innovation": {
-   "label": "Innowacja komórkowa",
-   "titleLead": "Skóra nowej generacji",
-   "titleAccent": "Regeneracja",
-   "sub": "Morskie składniki aktywne i ukierunkowane heksapeptydy, w jednym codziennym serum.",
+   "label": "Kluczowe składniki",
+   "titleLead": "Co robią główne",
+   "titleAccent": "składniki",
+   "sub": "Trzy składniki poniżej wykonują większość pracy w tym serum.",
    "items": [
     {
-     "label": "Odnowa komórkowa",
-     "title": "PDRN Bio Actives",
-     "body": "Morski PDRN przyspiesza odnowę komórek, ożywiając matową cerę i wygładzając widoczną teksturę."
+     "label": "Tekstura skóry",
+     "title": "PDRN",
+     "body": "Morski PDRN zwiększa odnowę komórek, co rozjaśnia matową cerę i wygładza widoczną teksturę."
     },
     {
-     "label": "Bio Peptide Complex",
+     "label": "Jędrność",
      "title": "Acetyl Hexapeptide-8",
-     "body": "Peptydy sygnałowe łagodzą napięcie powierzchniowe i wspierają naturalną elastyczność kolagenu, dla skóry o jędrniejszym wyglądzie i większej sprężystości."
+     "body": "Ten peptyd wspiera elastyczność kolagenu, dla skóry o jędrniejszym wyglądzie."
     },
     {
      "label": "Głębokie nawilżenie",
-     "title": "Hydration Matrix",
+     "title": "Kwas hialuronowy i pantenol",
      "body": "Kwas hialuronowy, Sodium PCA i Panthenol współpracują, aby utrzymać wilgoć w barierze skórnej przez ponad 24 godziny."
     }
    ],
@@ -778,7 +778,7 @@
    "footnote": "*Aktywność biokomórkowa oceniana w badaniach klinicznych in vitro i ex vivo. Rezultaty mogą się różnić w zależności od indywidualnego stanu skóry."
   },
   "ecosystem": {
-   "label": "Pełny plan",
+   "label": "Twój plan",
    "title": "Zyskaj pełne wsparcie rutyny",
    "sub": "Wraz z Twoim serum każdy plan Tava Labs obejmuje:",
    "items": [
@@ -791,7 +791,7 @@
    "note": "Wstrzymaj, dostosuj lub anuluj Subscribe and Save w każdej chwili. Zakupy jednorazowe pozostają dostępne za $49."
   },
   "clinical": {
-   "label": "Skuteczność kliniczna",
+   "label": "Badania kliniczne",
    "titleLead": "Zadbaj o swoje",
    "titleAccent": "zdrowie skóry",
    "imgAlts": [
@@ -802,16 +802,16 @@
    "note": "Oceny miejscowych składników bioaktywnych oparte na 8 tygodniowych testach percepcji konsumenckiej i instrumentalnych testach nawilżenia. Indywidualne bariery skórne, genetyka i środowisko wpływają na konkretne terminy i rezultaty."
   },
   "formulary": {
-   "label": "Formularz",
+   "label": "Porównaj formuły",
    "title": "Który zabieg pielęgnacyjny jest dla Ciebie odpowiedni?",
-   "sub": "Ukierunkowane formuły dla różnych celów skóry, problemów i rutyn. Zbuduj schemat, który pasuje do grafiku pracy.",
+   "sub": "Formuły dla różnych celów skóry, problemów i rutyn. Wybierz tę, która pasuje do Twojej skóry i Twojego harmonogramu.",
    "serumAlt": "PDRN Brightening Serum",
    "serumPriceLine": "Subscribe and Save $39/mo",
    "serumOneTime": "lub $49 jednorazowo",
    "primaryBenefit": "Główna korzyść",
    "howToUse": "Jak używać",
    "activeIngredient": "Składnik aktywny",
-   "serumBenefitValue": "Promienność i ujędrnienie",
+   "serumBenefitValue": "Jasność i jędrność",
    "serumHowValue": "Rano i wieczorem",
    "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
    "selectSerum": "Wybierz serum",
@@ -874,13 +874,13 @@
    ]
   },
   "protocol": {
-   "label": "Protokół codziennego schematu",
+   "label": "Jak go używać",
    "titleLead": "Jedna prosta rutyna,",
    "titleAccent": "dwa razy dziennie",
-   "sub": "Konsekwencja ma znaczenie. Wykonuj te kroki rano i wieczorem, aby peptydy i PDRN mogły wykonać swoją pracę, a na koniec zatrzymaj wilgoć.",
+   "sub": "Regularność ma znaczenie. Wykonuj te kroki rano i wieczorem, a na końcu nałóż krem nawilżający, aby zatrzymać wilgoć.",
    "progressionLabel": "Postęp kliniczny",
    "progressionTitle": "Oś czasu widocznych rezultatów",
-   "progressionBody": "Lepszy blask i nawilżenie w 7 do 14 dni; lepsza elastyczność skóry i jędrność bariery do 4. do 6. tygodnia.",
+   "progressionBody": "Jaśniejsza, lepiej nawilżona skóra w 7 do 14 dni; poprawa elastyczności skóry i jędrności bariery do tygodnia 4 do 6.",
    "timelineAlt": "Przykładowy harmonogram rezultatów, tygodnie 1 do 4 i dalej",
    "steps": [
     {
@@ -893,7 +893,7 @@
     },
     {
      "title": "Nawilżenie i nawodnienie",
-     "body": "Zabezpiecz kremem nawilżającym, aby zatrzymać peptydy i wspierać barierę ceramidową."
+     "body": "Nałóż krem nawilżający, aby zatrzymać peptydy i wspierać barierę skórną."
     },
     {
      "title": "Ochrona (tylko rano), SPF 30+",
@@ -906,13 +906,13 @@
    ]
   },
   "faqSection": {
-   "label": "Odpowiedzi i jasność",
+   "label": "Pytania i odpowiedzi",
    "title": "Najczęściej zadawane pytania",
    "viewAll": "Zobacz wszystkie najczęstsze pytania",
    "items": [
     {
      "q": "Czym jest PDRN i jak korzystnie wpływa na skórę?",
-     "a": "PDRN (Polydeoxyribonucleotide) składa się z fragmentów DNA, które są biokompatybilne z komórkami ludzkiej skóry. Wspiera naturalną regenerację komórek, pobudza mikrokrążenie i pomaga odbudować barierę skórną, dla widocznej promienności i jędrności."
+     "a": "PDRN (Polydeoxyribonucleotide) składa się z fragmentów DNA, które są biokompatybilne z ludzkimi komórkami skóry. Wspiera naturalną regenerację komórek, pobudza mikrokrążenie i pomaga naprawiać barierę skórną, dla skóry o jaśniejszym i jędrniejszym wyglądzie."
     },
     {
      "q": "Jak włączyć PDRN Brightening Serum do mojej rutyny pielęgnacyjnej?",
@@ -933,7 +933,7 @@
    ]
   },
   "finalCta": {
-   "title": "Twoja twarz jest w każdej prezentacji. Utrzymuj ją w gotowości.",
+   "title": "Jedno serum dla skóry o jaśniejszym, nawilżonym i gładszym wyglądzie.",
    "line": "PDRN Brightening Serum · $49.00 / 30ml · Czyste i wegańskie · Głębokie nawilżenie · Anuluj w każdej chwili"
   },
   "gallery": {
@@ -949,13 +949,13 @@
  },
  "about": {
   "label": "O nas",
-  "titleLead": "Pielęgnacja skóry dla",
-  "titleAccent": "ambitnych.",
+  "titleLead": "Codzienne serum do twarzy",
+  "titleAccent": "dla założycieli firm.",
   "tagline": "Buduj swoją firmę. Nie zaniedbuj siebie.",
-  "p1": "Tava Labs to marka osobistej pielęgnacji dla osób budujących firmy. Twój wygląd jest częścią Twojej zawodowej obecności. Sposób, w jaki pojawiasz się przed kamerą, podczas prezentacji i w sali, jest częścią tego, jak odbierana jest Twoja praca.",
-  "p2": "Tworzymy jedną rzecz i tworzymy ją dobrze. Codzienne serum, dzięki któremu Twoja skóra wygląda na opanowaną, nawilżoną i gotową, bez skomplikowanej rutyny.",
-  "p3": "Tava Labs powstało dla założycieli firm, twórców i profesjonalistów, którzy inwestują w osobę stojącą za firmą. Jeden krok, rano i wieczorem, przed spotkaniami, prezentacjami i pracą przed kamerą.",
-  "p4": "To pielęgnacja skóry jako konserwacja, a nie próżność. Ta sama dyscyplina, którą wnosisz do swojej firmy, zastosowana wobec siebie.",
+  "p1": "Tava Labs to marka pielęgnacji skóry dla osób budujących biznesy. Twój wygląd jest częścią Twojej obecności zawodowej. Ludzie widzą Cię przed kamerą, na spotkaniach z prezentacjami i w pracy każdego dnia.",
+  "p2": "Tworzymy jedną rzecz i tworzymy ją dobrze. Codzienne serum, które sprawia, że Twoja skóra wygląda na nawilżoną i wypoczętą, bez skomplikowanej rutyny.",
+  "p3": "Tava Labs powstało dla założycieli firm i właścicieli biznesów. Jeden krok, rano i wieczorem, przed spotkaniami, prezentacjami i pracą przed kamerą.",
+  "p4": "Pielęgnacja skóry traktowana jako podstawowa dbałość o siebie. Ta sama regularność, którą wnosisz do swojego biznesu, zastosowana do Twojej własnej rutyny.",
   "serumLabel": "Serum",
   "serumTitle": "PDRN Brightening Serum",
   "serumAlt": "PDRN Brightening Serum",
@@ -968,10 +968,10 @@
   ],
   "priceLine": "$49 jednorazowo lub $39 miesięcznie z Subscribe & Save.",
   "philosophyLabel": "Nasza filozofia",
-  "quote": "„Zdrowa skóra to najbardziej atrakcyjna rzecz, jaką możesz nosić.”",
+  "quote": "„Jedno serum, dwie minuty, rano i wieczorem. To cała rutyna.”",
   "philosophyCaption": "Filozofia Tava Labs",
-  "philosophyP1": "Wierzymy, że warto dbać o siebie tak, jak dbasz o swoją pracę: konsekwentnie i bez zbędnego dramatyzmu. Mała codzienna pielęgnacja wygrywa z okazjonalnymi wielkimi zmianami.",
-  "philosophyP2": "Nie obiecujemy transformacji. Tworzymy dobrze opracowane codzienne serum, mówimy dokładnie, co zawiera, i pozwalamy, aby rutyna mówiła sama za siebie.",
+  "philosophyP1": "Wierzymy, że należy dbać o siebie tak, jak dbasz o swoją pracę, małymi krokami wykonywanymi regularnie każdego dnia.",
+  "philosophyP2": "Nie obiecujemy przemiany. Tworzymy dobrze sformułowane codzienne serum i mówimy dokładnie, co zawiera.",
   "onlineTitle": "Wyłącznie online",
   "onlineSegments": [
    {
@@ -1030,7 +1030,7 @@
     "q": "Czym jest PDRN Brightening Serum?",
     "a": [
      {
-      "text": "Codzienne serum zbudowane wokół PDRN (Polydeoxyribonucleotide) i Acetyl Hexapeptide-8, z Sodium Hyaluronate i Panthenol. To codzienna rutyna dla cery: nakładaj rano i wieczorem, aby wspierać jaśniejszą cerę o bardziej równym wyglądzie oraz opanowany wygląd gotowy przed kamerę."
+      "text": "Codzienne serum zbudowane wokół PDRN (Polydeoxyribonucleotide) i Acetyl Hexapeptide-8, z hialuronianem sodu i pantenolem. Nakładaj rano i wieczorem, aby wspierać cerę o jaśniejszym i bardziej równym wyglądzie."
      }
     ]
    },
@@ -1145,7 +1145,7 @@
   "keyItems": [
    {
     "name": "PDRN (Polydeoxyribonucleotide)",
-    "body": "Główny składnik aktywny. Wspiera jaśniejszą cerę o bardziej równym wyglądzie oraz opanowany wygląd gotowy przed kamerę."
+    "body": "Nasz główny składnik aktywny. Wspiera cerę o jaśniejszym i bardziej równym wyglądzie."
    },
    {
     "name": "Acetyl Hexapeptide-8",
@@ -1174,15 +1174,15 @@
   "label": "Współpracuj z Tava Labs",
   "titleLead": "Daj swoim założycielom darmowy miesiąc",
   "titleAccent": "Tava Labs.",
-  "intro": "Tava Labs współpracuje z akceleratorami, uczelniami, inwestorami aniołami biznesu i społecznościami założycieli. Twoi członkowie otrzymują pierwszy miesiąc PDRN Brightening Serum za darmo, aby osoby budujące firmy mogły zadbać o osobę stojącą za firmą.",
-  "tagline": "Darmowy miesiąc, od nas, bez żadnych zobowiązań.",
+  "intro": "Tava Labs współpracuje z akceleratorami, uniwersytetami, aniołami biznesu i społecznościami założycieli firm. Twoi członkowie otrzymują pierwszy miesiąc PDRN Brightening Serum za darmo.",
+  "tagline": "Darmowy miesiąc od nas, bez kosztów i bez zobowiązań.",
   "becomePartner": "Zostań partnerem",
   "partnershipsContact": "Kontakt w sprawie współpracy",
   "audiences": [
    {
     "alt": "Założyciele startupów podczas sesji akceleratora",
     "title": "Dla akceleratorów",
-    "body": "Twoi założyciele prezentują, demonstrują i nagrywają treści od pierwszego dnia. Daj im miesiąc codziennej pielęgnacji, która pomaga im pojawiać się opanowanym i gotowym przed kamerę, oraz jedną rzecz mniej do myślenia podczas programu.",
+    "body": "Twoi założyciele firm prezentują, demonstrują i nagrywają treści od pierwszego dnia. Daj im miesiąc codziennej pielęgnacji skóry, która zajmuje dwie minuty dziennie podczas programu.",
     "how": "Jak to działa: wysyłamy każdemu założycielowi z Twojej grupy jedną darmową butelkę wraz z osobistym planem z quizu o skórze. Ty przedstawiasz nas raz, my zajmujemy się całą resztą."
    },
    {
@@ -1194,7 +1194,7 @@
    {
     "alt": "Spotkanie inwestora z założycielem",
     "title": "Dla inwestorów aniołów biznesu",
-    "body": "Wspierasz osobę tak samo jak firmę. Darmowy miesiąc Tava Labs to przemyślany prezent dla założycieli z Twojego portfela i wspiera codzienną rutynę osób, w które zainwestowałeś.",
+    "body": "Darmowy miesiąc Tava Labs to praktyczny prezent dla założycieli firm w Twoim portfolio. Zajmujemy się dostawą i ich osobistymi planami.",
     "how": "Jak to działa: powiedz nam, ilu założycielom chcesz podarować prezent, a my zorganizujemy dostawę i ich osobiste plany. Bez kosztów dla Ciebie i bez kosztów dla nich."
    }
   ],
@@ -1218,7 +1218,7 @@
     "body": "Jeden krok, rano i wieczorem. Pasuje do grafiku założyciela, ponieważ zostało zaprojektowane właśnie dla takiego grafiku."
    }
   ],
-  "formulationTitle": "Czysta, przemyślana formuła.",
+  "formulationTitle": "Wyprodukowane bez tych składników.",
   "formulationSub": "Serum jest wykonane bez składników, o które Twoi członkowie pytają najczęściej:",
   "stepsTitle": "Jak działa współpraca",
   "steps": [
@@ -1232,11 +1232,11 @@
    },
    {
     "title": "Ty wręczasz prezent",
-    "body": "Twoi członkowie otrzymują darmowy miesiąc codziennej pielęgnacji, z naszymi podziękowaniami dla Ciebie w każdym pudełku."
+    "body": "Twoi członkowie otrzymują darmowy miesiąc serum, z podziękowaniem od nas w każdym pudełku."
    }
   ],
-  "closingTitleLead": "Włóżmy darmowy miesiąc w Twoich założycieli",
-  "closingTitleAccent": "ręce.",
+  "closingTitleLead": "Daj swoim założycielom firm",
+  "closingTitleAccent": "darmowy miesiąc.",
   "closingSegments": [
    {
     "text": "Napisz na "
@@ -1261,7 +1261,7 @@
   "label": "The Tava Journal",
   "titleLead": "Badania nad snem i stresem",
   "titleAccent": "dla założycieli firm",
-  "sub": "Nauka o śnie, badania nad stresem i wiedza o wynikach dla założycieli firm.",
+  "sub": "Artykuły o nauce o śnie, badaniach nad stresem i zdrowiu skóry dla założycieli firm i właścicieli biznesów.",
   "readStory": "Czytaj historię"
  },
  "research": {
@@ -1334,7 +1334,7 @@
   ],
   "peopleBg": "Ludzie",
   "participantsLabel": "Kto uczestniczył",
-  "participantsTitle": "Ludzie stojący za średnimi.",
+  "participantsTitle": "Kto wziął udział w programie.",
   "participantsSub": "Pięć wizyt w całym programie, od punktu wyjścia do 16. tygodnia.",
   "ageLabel": "Średni wiek",
   "ageSuffix": "Lat · Zakres 20 do 48",
@@ -1672,7 +1672,7 @@
   "claimEmpty": "Kupiłeś przez quiz lub tę stronę? Twój email z potwierdzeniem i strona tuż po finalizacji zakupu pokazywały kod odbioru. Otwórz aplikację mobilną Tava, zaloguj się i wpisz kod w zakładce Zamówienia. Twój zakup, plan i odpowiedzi z quizu przenoszą się na Twoje konto w aplikacji. Tutaj w sieci zalogowanie się tym samym adresem email, którego użyłeś przy finalizacji zakupu, już pokazuje wszystko powyżej. Nie trzeba nic więcej wpisywać.",
   "shop": {
    "eyebrow": "PDRN Brightening Serum",
-   "title": "The Science of Attractive Health",
+   "title": "Sklep Tava Labs",
    "body": "1 fl oz (30 ml). Zmniejsz drobne linie, głęboko nawilżaj, przywracaj promienność i wzmacniaj skórę. 2 do 4 pompek, rano i wieczorem.",
    "subscribeLine": "Subskrybuj, $39 miesięcznie.",
    "subscribeRest": " Świeża butelka co miesiąc, automatycznie.",

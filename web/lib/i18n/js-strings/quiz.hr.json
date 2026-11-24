@@ -4,7 +4,7 @@
   {
    "k": "goal.radiance",
    "q": "dq",
-   "t": "sjaj i blistavost"
+   "t": "koža svjetlijeg izgleda"
   },
   {
    "k": "goal.fine_lines",
@@ -69,22 +69,22 @@
   {
    "k": "notalone.radiance",
    "q": "dq",
-   "t": "Osnivači i kreatori koji se svakodnevno predstavljaju jutro započinju na isti način. Beživotna koža umornog izgleda jedan je od najčešćih razloga zašto ljudi započinju rutinu sa serumom. PDRN Brightening Serum izgrađen je oko PDRN i peptida, u laganoj formuli osmišljenoj da poboljša izgled glatke i blistave kože, ostavljajući je punijeg izgleda, meku i osvježenu, ujutro i navečer."
+   "t": "Osnivači i kreatori koji se predstavljaju svaki dan započinju jutro na isti način. Beživotna koža umornog izgleda jedan je od najčešćih razloga zašto ljudi započinju rutinu seruma. PDRN Brightening Serum izgrađen je oko PDRN-a i peptida, u laganoj formuli koja pomaže koži da izgleda glatko i svijetlo, ujutro i navečer."
   },
   {
    "k": "notalone.fine_lines",
    "q": "dq",
-   "t": "Osnivači i kreatori koji se svakodnevno predstavljaju jutro započinju na isti način. Fine linije obično su prva stvar za koju ljudi žele serum. Ova formula spaja Acetyl Hexapeptide-8 s PDRN, sastojke odabrane da podrže kožu glađeg i blistavijeg izgleda, u jednom koraku, dvaput dnevno. Nije potrebna rutina od deset koraka."
+   "t": "Osnivači i kreatori koji se predstavljaju svaki dan započinju jutro na isti način. Fine linije obično su prva stvar za koju ljudi žele serum. Ova formula spaja acetil heksapeptid-8 s PDRN-om, dva sastojka odabrana za potporu koži koja izgleda glađe i svjetlije, u jednom koraku, dvaput dnevno. Nije potrebna rutina od deset koraka."
   },
   {
    "k": "notalone.hydration",
    "q": "dq",
-   "t": "Osnivači i kreatori koji se svakodnevno predstavljaju jutro započinju na isti način. Koža koja se do sredine dana osjeća zategnuto i žedno upravo je ono za što je ovaj serum izrađen. Mješavina glicerina, sodium PCA i Sodium Hyaluronate pruža dubinsku hidrataciju, dok Panthenol njeguje, pa se koža osjeća ugodno i izgleda puno, a ne masno."
+   "t": "Osnivači i kreatori koji se predstavljaju svaki dan započinju jutro na isti način. Koža koja se do podneva osjeća zategnuto i suho upravo je ono za što je ovaj serum napravljen. Mješavina glicerina, natrijevog PCA i natrijevog hijaluronata pruža duboku hidrataciju, dok pantenol njeguje kožu, pa se osjeća ugodno i hidratizirano, a ne masno."
   },
   {
    "k": "notalone.even_tone",
    "q": "dq",
-   "t": "Osnivači i kreatori koji se svakodnevno predstavljaju jutro započinju na isti način. Ten neujednačenog izgleda česta je frustracija. PDRN i peptidi pomažu promicati blistaviji ten živahnijeg izgleda, a lagana formula brzo se i lako upija, jednostavan korak dvaput dnevno prema ujednačenijem izgledu."
+   "t": "Osnivači i kreatori koji se predstavljaju svaki dan započinju jutro na isti način. Ten neujednačenog izgleda česta je frustracija. PDRN i peptidi pomažu koži da izgleda svjetlije i ujednačenije, a lagana formula brzo se upija, u jednostavnom koraku koji se koristi dvaput dnevno."
   },
   {
    "k": "ing.pdrn.name",
@@ -94,7 +94,7 @@
   {
    "k": "ing.pdrn.text",
    "q": "dq",
-   "t": "Pomaže promicati blistaviji ten živahnijeg izgleda i poboljšava izgled glatke i blistave kože."
+   "t": "Pomaže koži da izgleda svjetlije, ujednačenije i glatko."
   },
   {
    "k": "ing.peptide.name",
@@ -114,7 +114,7 @@
   {
    "k": "ing.ha.text",
    "q": "dq",
-   "t": "Hidratantna mješavina koja privlači vlagu za pun i ugodan osjećaj te svilenkasto glatku teksturu."
+   "t": "Mješavina za hidrataciju koja privlači vlagu, za kožu koja se osjeća ugodno i glatko."
   },
   {
    "k": "ing.panthenol.name",

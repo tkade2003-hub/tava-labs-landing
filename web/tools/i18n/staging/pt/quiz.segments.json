@@ -1,0 +1,707 @@
+{
+ "slug": "quiz",
+ "title": "Questionário de Pele | Crie o Seu Plano Pessoal de Sérum | Tava Labs",
+ "description": "Responda a algumas perguntas rápidas e crie o seu plano pessoal em torno do PDRN Brightening Serum. Um sérum, duas vezes por dia, adaptado à sua pele e aos seus objetivos.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "&larr; Voltar"
+  },
+  {
+   "id": 4,
+   "text": "6 perguntas até ao seu plano"
+  },
+  {
+   "id": 5,
+   "text": "Embalagem do PDRN Brightening Serum da Tava Labs"
+  },
+  {
+   "id": 6,
+   "text": "Crie o seu plano pessoal de 30 dias"
+  },
+  {
+   "id": 7,
+   "text": "Um sérum. Duas vezes por dia. "
+  },
+  {
+   "id": 8,
+   "text": "30 dias."
+  },
+  {
+   "id": 9,
+   "text": "Responda a algumas perguntas rápidas e criaremos o seu plano pessoal de 30 dias em torno do PDRN Brightening Serum, um passo de manhã e um passo à noite. Subscrição, e pode pausar ou cancelar a qualquer momento."
+  },
+  {
+   "id": 10,
+   "text": "Criar o meu plano"
+  },
+  {
+   "id": 11,
+   "text": "PDRN Brightening Serum · 1 fl oz (30 ml) · Feito para utilização duas vezes por dia"
+  },
+  {
+   "id": 12,
+   "text": "Faltam 6"
+  },
+  {
+   "id": 13,
+   "text": "O que mais pretende nos próximos 30 dias?"
+  },
+  {
+   "id": 14,
+   "text": "Pele com um aspeto mais luminoso"
+  },
+  {
+   "id": 15,
+   "text": "Linhas finas"
+  },
+  {
+   "id": 16,
+   "text": "Hidratação profunda"
+  },
+  {
+   "id": 17,
+   "text": "Tom uniforme"
+  },
+  {
+   "id": 18,
+   "text": "Não está sozinho"
+  },
+  {
+   "id": 19,
+   "text": "Não está sozinho."
+  },
+  {
+   "id": 20,
+   "text": "Continuar"
+  },
+  {
+   "id": 21,
+   "text": "Faltam 5"
+  },
+  {
+   "id": 22,
+   "text": "Como costuma sentir a sua pele a meio do dia?"
+  },
+  {
+   "id": 23,
+   "text": "Seca"
+  },
+  {
+   "id": 24,
+   "text": "Oleosa"
+  },
+  {
+   "id": 25,
+   "text": "Mista"
+  },
+  {
+   "id": 26,
+   "text": "Sensível"
+  },
+  {
+   "id": 27,
+   "text": "Não tenho a certeza"
+  },
+  {
+   "id": 28,
+   "text": "Faltam 4"
+  },
+  {
+   "id": 29,
+   "text": "E qual é a sua principal preocupação neste momento?"
+  },
+  {
+   "id": 30,
+   "text": "Aspeto baço"
+  },
+  {
+   "id": 31,
+   "text": "Linhas finas"
+  },
+  {
+   "id": 32,
+   "text": "Tom irregular"
+  },
+  {
+   "id": 33,
+   "text": "Textura áspera"
+  },
+  {
+   "id": 34,
+   "text": "Secura"
+  },
+  {
+   "id": 35,
+   "text": "A sua fórmula ideal"
+  },
+  {
+   "id": 36,
+   "text": "Dentro da embalagem, adaptado às suas respostas"
+  },
+  {
+   "id": 37,
+   "text": "Uma fórmula única e fixa. Aqui está quais os ingredientes que correspondem ao que acabou de nos dizer."
+  },
+  {
+   "id": 38,
+   "text": "Continuar"
+  },
+  {
+   "id": 39,
+   "text": "Faltam 3"
+  },
+  {
+   "id": 40,
+   "text": "A sua pele já reagiu a produtos fortes antes?"
+  },
+  {
+   "id": 41,
+   "text": "Sim, facilmente"
+  },
+  {
+   "id": 42,
+   "text": "Por vezes"
+  },
+  {
+   "id": 43,
+   "text": "Raramente"
+  },
+  {
+   "id": 44,
+   "text": "Faltam 2"
+  },
+  {
+   "id": 45,
+   "text": "Como é a sua rotina hoje?"
+  },
+  {
+   "id": 46,
+   "text": "Apenas produto de limpeza"
+  },
+  {
+   "id": 47,
+   "text": "Alguns produtos"
+  },
+  {
+   "id": 48,
+   "text": "Uma rotina completa"
+  },
+  {
+   "id": 49,
+   "text": "Última pergunta"
+  },
+  {
+   "id": 50,
+   "text": "Quando o vai aplicar?"
+  },
+  {
+   "id": 51,
+   "text": "Manhã"
+  },
+  {
+   "id": 52,
+   "text": "6:30 AM"
+  },
+  {
+   "id": 53,
+   "text": "7:30 AM"
+  },
+  {
+   "id": 54,
+   "text": "8:30 AM"
+  },
+  {
+   "id": 55,
+   "text": "Hora personalizada de manhã"
+  },
+  {
+   "id": 56,
+   "text": "Noite"
+  },
+  {
+   "id": 57,
+   "text": "9:00 PM"
+  },
+  {
+   "id": 58,
+   "text": "10:00 PM"
+  },
+  {
+   "id": 59,
+   "text": "10:30 PM"
+  },
+  {
+   "id": 60,
+   "text": "Hora personalizada à noite"
+  },
+  {
+   "id": 61,
+   "text": "Continuar"
+  },
+  {
+   "id": 62,
+   "text": "Quase lá"
+  },
+  {
+   "id": 63,
+   "text": "Para onde devemos enviar o seu plano de 30 dias?"
+  },
+  {
+   "id": 64,
+   "text": "O seu plano vai para a sua caixa de entrada. Use este mesmo email quando descarregar a aplicação, porque é assim que a aplicação o conhecerá, e as suas respostas, o seu plano e a sua encomenda estarão lá à sua espera."
+  },
+  {
+   "id": 65,
+   "text": "Endereço de email"
+  },
+  {
+   "id": 66,
+   "text": "you@example.com"
+  },
+  {
+   "id": 67,
+   "text": "Esse email não parece completo. Verifique-o e tente novamente."
+  },
+  {
+   "id": 68,
+   "text": "Mostrar o meu plano"
+  },
+  {
+   "id": 69,
+   "text": "O seu plano"
+  },
+  {
+   "id": 70,
+   "text": "A pré-visualização do seu tratamento"
+  },
+  {
+   "id": 71,
+   "text": "Tava Labs"
+  },
+  {
+   "id": 72,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 73,
+   "text": "Embalagem do PDRN Brightening Serum"
+  },
+  {
+   "id": 74,
+   "text": "Selecionado com base nos seus objetivos:"
+  },
+  {
+   "id": 75,
+   "text": "Planos a partir de "
+  },
+  {
+   "id": 76,
+   "text": "$39/month*"
+  },
+  {
+   "id": 77,
+   "text": "*Pagamento mensal. Pause ou cancele a qualquer momento."
+  },
+  {
+   "id": 78,
+   "text": "Embalagem única $49."
+  },
+  {
+   "id": 79,
+   "text": "A SUA PRIMEIRA SEMANA"
+  },
+  {
+   "id": 80,
+   "text": "As suas respostas já definiram a sua primeira semana de rotina. Faltam cinco dias após os dois primeiros, e o primeiro dia começa assim que o seu sérum for enviado."
+  },
+  {
+   "id": 81,
+   "text": "Dia 1"
+  },
+  {
+   "id": 82,
+   "text": "Dia 2"
+  },
+  {
+   "id": 83,
+   "text": "Dia 3"
+  },
+  {
+   "id": 84,
+   "text": "Dia 4"
+  },
+  {
+   "id": 85,
+   "text": "Dia 5"
+  },
+  {
+   "id": 86,
+   "text": "Dia 6"
+  },
+  {
+   "id": 87,
+   "text": "Dia 7"
+  },
+  {
+   "id": 88,
+   "text": "Detalhes do sérum"
+  },
+  {
+   "id": 89,
+   "text": "Um sérum. Duas vezes por dia. 30 dias."
+  },
+  {
+   "id": 90,
+   "text": "Tipo"
+  },
+  {
+   "id": 91,
+   "text": "Sérum iluminador · 1 fl oz"
+  },
+  {
+   "id": 92,
+   "text": "Utilização"
+  },
+  {
+   "id": 93,
+   "text": "Duas vezes por dia"
+  },
+  {
+   "id": 94,
+   "text": "Plano"
+  },
+  {
+   "id": 95,
+   "text": "30 dias"
+  },
+  {
+   "id": 96,
+   "text": "Ingredientes ativos"
+  },
+  {
+   "id": 97,
+   "text": "Ingredientes ativos"
+  },
+  {
+   "id": 98,
+   "text": "PDRN"
+  },
+  {
+   "id": 99,
+   "text": "Polydeoxyribonucleotide"
+  },
+  {
+   "id": 100,
+   "text": "Textura do sérum de PDRN"
+  },
+  {
+   "id": 101,
+   "text": "Para uma pele com um aspeto mais luminoso"
+  },
+  {
+   "id": 102,
+   "text": "Acetyl Hexapeptide-8"
+  },
+  {
+   "id": 103,
+   "text": "Péptido"
+  },
+  {
+   "id": 104,
+   "text": "Textura do sérum de Acetyl Hexapeptide-8"
+  },
+  {
+   "id": 105,
+   "text": "Para uma pele com aspeto mais suave"
+  },
+  {
+   "id": 106,
+   "text": "Sodium Hyaluronate"
+  },
+  {
+   "id": 107,
+   "text": "Ácido hialurónico"
+  },
+  {
+   "id": 108,
+   "text": "Textura do sérum de Sodium Hyaluronate"
+  },
+  {
+   "id": 109,
+   "text": "Para uma hidratação profunda"
+  },
+  {
+   "id": 110,
+   "text": "Panthenol"
+  },
+  {
+   "id": 111,
+   "text": "Provitamina B5"
+  },
+  {
+   "id": 112,
+   "text": "Para uma pele suave e confortável"
+  },
+  {
+   "id": 113,
+   "text": "Sérum cosmético para uso tópico. Apenas para uso externo. Evitar os olhos. Interromper a utilização em caso de irritação."
+  },
+  {
+   "id": 114,
+   "text": "Como utilizar"
+  },
+  {
+   "id": 115,
+   "text": "Aplique 2 a 4 doses na pele limpa e seca, duas vezes por dia. Depois aplique creme hidratante ou protetor solar de manhã."
+  },
+  {
+   "id": 116,
+   "text": "Informação útil"
+  },
+  {
+   "id": 117,
+   "text": "Apenas para uso externo. Evitar os olhos. Interromper a utilização em caso de irritação. Manter fora do alcance das crianças. Não utilizar em pele lesionada. Conservar em local fresco e seco."
+  },
+  {
+   "id": 118,
+   "text": "Conheça o seu "
+  },
+  {
+   "id": 119,
+   "text": "sérum"
+  },
+  {
+   "id": 120,
+   "text": "Embalagem do PDRN Brightening Serum"
+  },
+  {
+   "id": 121,
+   "text": "Apresentação e luminosidade"
+  },
+  {
+   "id": 122,
+   "text": "Hidratação profunda"
+  },
+  {
+   "id": 123,
+   "text": "Linhas finas"
+  },
+  {
+   "id": 124,
+   "text": "Resultados reais"
+  },
+  {
+   "id": 125,
+   "text": "Antes e depois com o PDRN Brightening Serum"
+  },
+  {
+   "id": 126,
+   "text": "Antes"
+  },
+  {
+   "id": 127,
+   "text": "Depois"
+  },
+  {
+   "id": 128,
+   "text": "Antes e depois com o PDRN Brightening Serum"
+  },
+  {
+   "id": 129,
+   "text": "Antes"
+  },
+  {
+   "id": 130,
+   "text": "Depois"
+  },
+  {
+   "id": 131,
+   "text": "Antes e depois com o PDRN Brightening Serum"
+  },
+  {
+   "id": 132,
+   "text": "Antes"
+  },
+  {
+   "id": 133,
+   "text": "Depois"
+  },
+  {
+   "id": 134,
+   "text": "Os resultados individuais variam."
+  },
+  {
+   "id": 135,
+   "text": "Continuar com este plano"
+  },
+  {
+   "id": 136,
+   "text": "Ver outras opções"
+  },
+  {
+   "id": 137,
+   "text": "Finalização"
+  },
+  {
+   "id": 138,
+   "text": "Comece os seus 30 dias"
+  },
+  {
+   "id": 139,
+   "text": "Finalização de demonstração. Sem débito."
+  },
+  {
+   "id": 140,
+   "text": " Esta página ainda não está ligada a um terminal de pagamento ou de logística. O botão abaixo valida os seus dados e reúne exatamente os dados da encomenda, para que possa ver com precisão o que seria enviado."
+  },
+  {
+   "id": 141,
+   "text": "$39"
+  },
+  {
+   "id": 142,
+   "text": "Subscrever &amp; poupar"
+  },
+  {
+   "id": 143,
+   "text": "$49"
+  },
+  {
+   "id": 144,
+   "text": "Compra única"
+  },
+  {
+   "id": 145,
+   "text": "Nome"
+  },
+  {
+   "id": 146,
+   "text": "Apelido"
+  },
+  {
+   "id": 147,
+   "text": "Endereço"
+  },
+  {
+   "id": 148,
+   "text": "Apartamento, andar, etc. "
+  },
+  {
+   "id": 149,
+   "text": "(opcional)"
+  },
+  {
+   "id": 150,
+   "text": "Cidade"
+  },
+  {
+   "id": 151,
+   "text": "Estado"
+  },
+  {
+   "id": 152,
+   "text": "CA"
+  },
+  {
+   "id": 153,
+   "text": "Código postal"
+  },
+  {
+   "id": 154,
+   "text": "País"
+  },
+  {
+   "id": 155,
+   "text": "Estados Unidos"
+  },
+  {
+   "id": 156,
+   "text": "Canadá"
+  },
+  {
+   "id": 157,
+   "text": "Reino Unido"
+  },
+  {
+   "id": 158,
+   "text": "Austrália"
+  },
+  {
+   "id": 159,
+   "text": "Telefone "
+  },
+  {
+   "id": 160,
+   "text": "(opcional, para atualizações de entrega)"
+  },
+  {
+   "id": 161,
+   "text": "Iniciar a minha subscrição, $39"
+  },
+  {
+   "id": 162,
+   "text": "A subscrição renova a cada 30 dias por $39. Pause ou cancele a qualquer momento."
+  },
+  {
+   "id": 163,
+   "text": "Embalagem do PDRN Brightening Serum da Tava Labs"
+  },
+  {
+   "id": 164,
+   "text": "Encomenda recebida"
+  },
+  {
+   "id": 165,
+   "text": "O seu plano"
+  },
+  {
+   "id": 166,
+   "text": "começa agora."
+  },
+  {
+   "id": 167,
+   "text": "Finalização de demonstração. Não foi feito qualquer débito."
+  },
+  {
+   "id": 168,
+   "text": " Os dados da sua encomenda foram guardados neste navegador, para que possa inspecionar exatamente o que a versão final enviará."
+  },
+  {
+   "id": 169,
+   "text": "A sua compra aparece na aplicação"
+  },
+  {
+   "id": 170,
+   "text": "O seu plano está na aplicação Tava, com registos diários de manhã e à noite, a sua sequência e o seguimento da sua encomenda. A aplicação ainda não está na App Store. Após a finalização, a página de confirmação e o email fornecem-lhe um "
+  },
+  {
+   "id": 171,
+   "text": "código de ativação"
+  },
+  {
+   "id": 172,
+   "text": ". Quando instalar a aplicação, inicie sessão e introduza esse código, e o seu plano, as suas respostas e a sua encomenda já lá estarão. Sem comprar novamente."
+  },
+  {
+   "id": 173,
+   "text": "Ver o meu código de ativação após a finalização"
+  },
+  {
+   "id": 174,
+   "text": "Tava Labs · PDRN Brightening Serum para fundadores · Questões? talia@tavalabs.app"
+  }
+ ]
+}

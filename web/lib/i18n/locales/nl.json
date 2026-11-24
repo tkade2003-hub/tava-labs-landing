@@ -2,15 +2,15 @@
  "meta": {
   "home": {
    "title": "PDRN Brightening Serum voor ondernemers | Tava Labs",
-   "description": "Huidverzorging voor ondernemers. Het PDRN Brightening Serum combineert PDRN, peptiden en hyaluronzuur voor een stralende, gehydrateerde huid. $49 eenmalig of $39 per maand."
+   "description": "Een gezichtsserum voor elke dag voor oprichters en ondernemers. PDRN Brightening Serum met PDRN, peptiden en hyaluronzuur voor een huid die er helderder en gehydrateerd uitziet. $49 eenmalig of $39 per maand."
   },
   "product": {
    "title": "PDRN Brightening Serum voor ondernemers | Tava Labs",
-   "description": "Het Tava Labs PDRN Brightening Serum combineert PDRN, peptiden en natriumhyaluronaat voor een stralende, gehydrateerde huid in één dagelijkse stap, gemaakt voor oprichters, operators en makers. $49 eenmalig of $39 per maand."
+   "description": "Het Tava Labs PDRN Brightening Serum is een gezichtsserum voor elke dag met PDRN, peptiden en natriumhyaluronaat voor een huid die er helderder en gehydrateerd uitziet. Gemaakt voor oprichters en ondernemers. $49 eenmalig of $39 per maand."
   },
   "about": {
-   "title": "Over Tava Labs | Huidverzorging voor de ambitieuzen",
-   "description": "Tava Labs maakt huidverzorging voor de ambitieuzen. Maak kennis met het team achter het PDRN Brightening Serum, de dagelijkse routine voor oprichters en professionals."
+   "title": "Over Tava Labs | Gezichtsserum voor oprichters",
+   "description": "Tava Labs maakt één product, het PDRN Brightening Serum, een gezichtsserum voor elke dag voor oprichters en ondernemers. Lees wie we zijn en waarom we het hebben gemaakt."
   },
   "ingredients": {
    "title": "Ingrediënten van het PDRN Brightening Serum | Tava Labs",
@@ -34,7 +34,7 @@
   },
   "blog": {
    "title": "The Tava Journal | Huid, slaap en stress voor oprichters",
-   "description": "Slaapwetenschap, stressonderzoek en huidgezondheid voor oprichters en professionals, plus praktische routines om er scherp uit te zien op het werk."
+   "description": "Slaapwetenschap, stressonderzoek en huidgezondheid voor oprichters en ondernemers, plus praktische routines om er uitgerust uit te zien op het werk."
   },
   "quiz": {
    "title": "Huidquiz | Stel je persoonlijke serumplan samen | Tava Labs",
@@ -42,11 +42,11 @@
   },
   "checkoutSuccess": {
    "title": "Bestelling bevestigd | Jouw PDRN Brightening Serum | Tava Labs",
-   "description": "Je bestelling van het Tava Labs PDRN Brightening Serum is bevestigd. Je claimcode koppelt deze aankoop aan de app, waar je plan, antwoorden en bestelling met je meebewegen."
+   "description": "Je Tava Labs bestelling van het PDRN Brightening Serum is bevestigd. Je claimcode verbindt deze aankoop met de app, waar je je plan, je quizantwoorden en je bestelling kunt zien."
   },
   "checkoutCancel": {
    "title": "Afrekenen geannuleerd | Niets afgeschreven | Tava Labs",
-   "description": "Er is niets afgeschreven. Je Tava Labs plan en antwoorden zijn bewaard, zodat je verder kunt gaan waar je was gebleven zodra je er klaar voor bent."
+   "description": "Er is niets afgeschreven. Je Tava Labs plan en je antwoorden zijn opgeslagen, zodat je je bestelling later kunt afronden als je er klaar voor bent."
   },
   "login": {
    "title": "Inloggen | Tava Labs",
@@ -92,7 +92,7 @@
   "openMenu": "Menu openen",
   "closeMenu": "Menu sluiten",
   "language": "Taal",
-  "tagline": "The Science of Attractive Health",
+  "tagline": "PDRN Brightening Serum voor oprichters",
   "shopHeading": "Shop",
   "contactHeading": "Neem contact op",
   "infoHeading": "Info",
@@ -114,17 +114,17 @@
    "blog": "Blog",
    "research": "Onderzoek"
   },
-  "newsletterHeading": "Blijf op de hoogte van alles rond Tava",
+  "newsletterHeading": "Ontvang Tava Labs updates per e-mail",
   "newsletter": {
    "placeholder": "Je e-mailadres",
    "subscribe": "Abonneer",
    "sending": "Verzenden...",
-   "done": "Je staat erop. Welkom op de glowlijst.",
+   "done": "Je bent ingeschreven. Bedankt.",
    "error": "Er ging iets mis, probeer het opnieuw."
   },
   "disclaimer1": "Het PDRN Brightening Serum is een cosmetisch product. Het is niet bedoeld om een ziekte te diagnosticeren, behandelen, genezen of voorkomen. Individuele resultaten kunnen verschillen.",
   "disclaimer2": "Alle verkopen zijn definitief. Lees ons retourbeleid voordat je bestelt.",
-  "copyright": "© 2026 Tava Labs · The Science of Attractive Health",
+  "copyright": "© 2026 Tava Labs · PDRN Brightening Serum voor oprichters",
   "notFoundLabel": "Tava Labs",
   "notFoundTitle": "Pagina niet gevonden",
   "notFoundBody": "Die pagina is hier niet. Ze is misschien verplaatst, of het adres is onvolledig.",
@@ -140,19 +140,19 @@
  },
  "hero": {
   "ariaLabel": "PDRN Brightening Serum",
-  "pill": "Voor wie vooraan staat",
-  "line1": "Verzorgd vóór",
-  "line2": "het eerste gesprek.",
-  "sub": "Twee tot vier druppels PDRN Brightening Serum, ochtend en avond, voor een huid die er helder, gehydrateerd en glad uitziet, van het eerste tot het laatste gesprek.",
+  "pill": "Voor oprichters en ondernemers",
+  "line1": "Een gezichtsserum voor elke dag voor",
+  "line2": "een helderdere, gladdere huid.",
+  "sub": "PDRN Brightening Serum, 1 fl oz (30 ml). Breng 's ochtends en 's avonds twee tot vier druppels aan. $49 eenmalig of $39 per maand.",
   "cardAria": "PDRN Brightening Serum, de productpagina",
-  "onSetPill": "Op de set",
-  "onSetCaption": "Kalm onder de lampen",
+  "onSetPill": "Op camera",
+  "onSetCaption": "Voor opnames en videogesprekken",
   "onSetAlt": "Oprichter zittend op een studioset, kijkend in de camera",
-  "morningPill": "Ochtendritueel",
-  "morningCaption": "Bij de spiegel, als eerste",
+  "morningPill": "Ochtendroutine",
+  "morningCaption": "Elke ochtend bij de spiegel aanbrengen",
   "morningAlt": "Oprichter die serum aanbrengt bij een badkamerspiegel in ochtendlicht",
   "widePill": "Dag en nacht",
-  "wideHead": "Eén fles. Elke dag.",
+  "wideHead": "Eén fles, 's ochtends en 's avonds gebruikt.",
   "priceLine": "$49 eenmalig of $39 per maand",
   "talia": {
    "baseline": "Baseline",
@@ -167,27 +167,27 @@
  "home": {
   "introTitleLead": "Helderder, gehydrateerd,",
   "introTitleAccent": "gezond ogende huid",
-  "introBody": "Ondernemers leven op camera en in de kamer. Je pitcht investeerders, sluit deals in verkoopgesprekken en neemt de video op die het product verkoopt. Je gezicht is deel van de pitch. Het PDRN Brightening Serum is één lichte, snel absorberende stap met PDRN, peptiden en hyaluronzuur. Het helpt de huid er helderder, diep gehydrateerd en glad uit te zien. Twee minuten, twee keer per dag, en je verschijnt scherp, uitgerust en klaar.",
-  "marqueeTagline": "The Science of Attractive Health",
-  "marqueeSlogan": "Huidverzorging voor de ambitieuzen",
-  "buildersTitle": "Gemaakt voor de bouwers",
+  "introBody": "Oprichters en ondernemers brengen hun dagen door in vergaderingen, verkoopgesprekken en opgenomen video's. Je gezicht is bij alles in beeld en in de kamer. Het PDRN Brightening Serum is één lichte stap met PDRN, peptiden en hyaluronzuur. Het trekt snel in en helpt de huid er helderder, gehydrateerd en glad uit te zien. Twee minuten, twee keer per dag.",
+  "marqueeTagline": "Eén serum, 's ochtends en 's avonds",
+  "marqueeSlogan": "Gemaakt voor oprichters en ondernemers",
+  "buildersTitle": "Gemaakt voor oprichters en ondernemers",
   "buildersTagline": "Bouw je bedrijf. Verwaarloos jezelf niet.",
-  "buildersBody": "Als ondernemer presenteer je voortdurend. Je pitcht investeerders in persoon, verkoopt via videogesprekken en neemt content op die binnen enkele seconden vertrouwen moet winnen. Er voorbereid en beheerst uitzien is geen ijdelheid. Het is deel van hoe je het bedrijf presenteert. Een eenvoudige dagelijkse routine hoort in het systeem van een oprichter, naast een goede garderobe, een degelijke laptop en een systeem waarop je kunt vertrouwen.",
+  "buildersBody": "Oprichters en ondernemers presenteren de hele dag. Je pitcht investeerders persoonlijk, verkoopt in videogesprekken en neemt video's op voor klanten. Er verzorgd en uitgerust uitzien hoort bij het goed presenteren van je bedrijf. Een korte dagelijkse huidverzorgingsroutine staat naast een goede garderobe en een betrouwbare laptop als basisverzorging. Het PDRN Brightening Serum duurt twee minuten, 's ochtends en 's avonds.",
   "pitchAlt": "Oprichter die zijn idee pitcht aan een investeerder",
   "pitchTitle": "In de pitch",
-  "pitchBody": "Tegenover een investeerder leest de kamer jou voordat ze je deck leest. Verschijn als de persoon achter een bedrijf dat steun verdient: uitgerust, scherp en klaar.",
+  "pitchBody": "Als je investeerders persoonlijk pitcht, zien ze jou voordat ze je dia's zien. Een dagelijkse serumroutine helpt je huid er op die dag helder, gehydrateerd en uitgerust uit te zien.",
   "cameraAlt": "Oprichter die voor een camera spreekt",
   "cameraTitle": "Op camera",
-  "cameraBody": "Op een shoot, een podcast of een verkoopgesprek toont de lens eerst de late nachten. Vertrouwen voor een camera begint bij hoe je jezelf onderhoudt voordat je ooit op opnemen drukt.",
-  "maintenanceTitle": "Het dagelijkse onderhoud van de ondernemer.",
-  "maintenanceBody": "Eén serum, ochtend en avond. Zie er voorbereid uit. Voel je zelfverzekerd. Verschijn klaar.",
-  "motionTitle": "Tava in beweging",
-  "motionBody": "Veel makers en ondernemers zijn al fan van ons.",
+  "cameraBody": "Bij een video-opname, een podcast of een verkoopgesprek laat de camera vermoeide huid van dichtbij zien. Een routine van twee minuten 's ochtends en 's avonds helpt je huid er uitgerust uit te zien voordat je opneemt.",
+  "maintenanceTitle": "Eén serum is de hele routine.",
+  "maintenanceBody": "Breng 's ochtends en 's avonds twee tot vier druppels PDRN Brightening Serum aan op een schone, droge huid en daarna vochtinbrengende crème. De hele routine duurt ongeveer twee minuten per dag.",
+  "motionTitle": "Bekijk klantvideo's",
+  "motionBody": "Oprichters en makers die het PDRN Brightening Serum gebruiken, opgenomen op video.",
   "playVideo": "Video afspelen",
   "videoPlayer": "Videospeler",
   "closeVideo": "Video sluiten",
-  "freeFromTitleLead": "Kwaliteitsingrediënten, zorgvuldig",
-  "freeFromTitleAccent": "gecombineerd.",
+  "freeFromTitleLead": "Wat er niet in zit",
+  "freeFromTitleAccent": "in de formule.",
   "freeFromSub": "Wat wij weglaten is net zo belangrijk als wat wij erin stoppen.",
   "freeFromItems": [
    {
@@ -224,22 +224,22 @@
    }
   ],
   "founderLabel": "Een boodschap van onze oprichter",
-  "founderQuote": "“Een gezonde huid is het aantrekkelijkste wat je kunt dragen.”",
-  "founderBody1": "Dat is de filosofie achter Tava Labs, The Science of Attractive Health. Het PDRN Brightening Serum is de ene stap waar de routine omheen is gebouwd: twee minuten, twee keer per dag, ochtend en avond.",
-  "founderBody2": "Bekijk de film en hoor de wetenschap erachter, in onze eigen woorden.",
+  "founderQuote": "“Eén serum, twee minuten, 's ochtends en 's avonds. Dat is de hele routine.”",
+  "founderBody1": "Dat is het idee achter Tava Labs. Het PDRN Brightening Serum is de ene stap waar de routine omheen is gebouwd: twee minuten, twee keer per dag, 's ochtends en 's avonds.",
+  "founderBody2": "Bekijk de video om in onze eigen woorden te horen waarom we het hebben gemaakt.",
   "founderPhilosophy": "De filosofie van Tava Labs",
-  "founderVideoAria": "De Tava Labs film, de wetenschap achter het PDRN Brightening Serum",
+  "founderVideoAria": "De Tava Labs video, waarom we het PDRN Brightening Serum hebben gemaakt",
   "shopSerum": "Shop het serum",
   "journalTitle": "The Tava Journal",
-  "journalSub": "Over slaap, stress en klaar verschijnen.",
+  "journalSub": "Artikelen over slaap, stress en huid voor oprichters.",
   "readJournal": "Lees het journal",
   "readStory": "Lees het verhaal"
  },
  "appTeaser": {
   "label": "Binnenkort",
-  "lead": "Je routine, je labs en je bestellingen krijgen een eigen thuis.",
-  "headlineLead": "Eén app.",
-  "headlineTrail": "Elke dag.",
+  "lead": "Je routine, je labresultaten en je bestellingen, allemaal in de Tava Labs app.",
+  "headlineLead": "Je serum, labs en bestellingen",
+  "headlineTrail": "in één app.",
   "scroll": "Scroll",
   "caption": "De Tava Labs app brengt je serumplan, je dagelijkse routine, je labpanels en resultaten en je bestellingen samen op één plek, gemaakt voor iPhone.",
   "features": [
@@ -249,7 +249,7 @@
    },
    {
     "title": "Reeksen en voortgang",
-    "desc": "Je reeks en wat er nog rest, in één oogopslag leesbaar."
+    "desc": "Je huidige reeks en de resterende dagen in je plan."
    },
    {
     "title": "Labpanels en resultaten",
@@ -257,7 +257,7 @@
    },
    {
     "title": "Bestellingen en bijvullingen",
-    "desc": "Bestellingen en bijvullingen zonder zoeken."
+    "desc": "Bekijk je bestellingen en navuldatums op één plek."
    }
   ],
   "phone": {
@@ -308,9 +308,9 @@
    "eyebrow": "HUIDVERZORGING",
    "heroTitleLead": "Je volgende vergadering",
    "heroTitleAccent": "begint bij jou.",
-   "heroCopy": "Gemaakt voor ondernemers die pitchen, verkopen en opnemen op camera. Eén dagelijks serum, gebouwd rond PDRN, voor een huid die er scherp en uitgerust uitziet in de kamer en op de lens.",
+   "heroCopy": "Gemaakt voor ondernemers die pitchen, verkopen en opnemen voor de camera. Eén serum voor elke dag, opgebouwd rond PDRN, voor een huid die er in de kamer en op camera helder en uitgerust uitziet.",
    "heroFinePrint": "Cosmetische huidverzorging. Niet bedoeld om een ziekte te diagnosticeren, behandelen, genezen of voorkomen.",
-   "stamp": "HUIDVERZORGING VOOR DE AMBITIEUZEN",
+   "stamp": "HUIDVERZORGING VOOR OPRICHTERS",
    "primaryCta": "Voeg toe aan routine",
    "secondaryCta": "Bekijk de ingrediënten",
    "optionsEyebrow": "HET ASSORTIMENT",
@@ -326,7 +326,7 @@
      "badges": [
       "Bestseller"
      ],
-     "description": "Het dagelijkse serum voor een stralende, gehydrateerde, gezond ogende huid. $39 per maand met Subscribe and Save.",
+     "description": "Het serum voor elke dag voor een huid die er helderder, gehydrateerd en gezond uitziet. $39 per maand met Subscribe and Save.",
      "linkLabel": "Bekijk het serum"
     },
     {
@@ -725,7 +725,7 @@
   "pricePerUnit": "/ 30ml (1 fl oz)",
   "subPrice": "of $39 per maand met Subscribe and Save",
   "bullets": [
-   "PDRN, Acetyl Hexapeptide-8 en hyaluronzuur, ter ondersteuning van een gladder, stralender ogende huid.",
+   "PDRN, Acetyl Hexapeptide-8 en hyaluronzuur, om een huid te ondersteunen die er gladder en helderder uitziet.",
    "Diepe hydratatie van glycerine, natrium PCA en panthenol.",
    "100% dierproefvrij, geurvrij, parabenenvrij, sulfaatvrij, vrij van minerale olie, vrij van siliconen en vegan."
   ],
@@ -749,24 +749,24 @@
    }
   ],
   "innovation": {
-   "label": "Cellulaire innovatie",
-   "titleLead": "Next Gen huid",
-   "titleAccent": "Regeneratie",
-   "sub": "Mariene werkstoffen en gerichte hexapeptiden, in één dagelijks serum.",
+   "label": "Belangrijkste ingrediënten",
+   "titleLead": "Wat de belangrijkste",
+   "titleAccent": "ingrediënten doen",
+   "sub": "De drie ingrediënten hieronder doen het meeste werk in dit serum.",
    "items": [
     {
-     "label": "Cellulaire vernieuwing",
-     "title": "PDRN bio werkstoffen",
-     "body": "Mariene PDRN versnelt de celvernieuwing, doet een doffe teint herleven en verzacht zichtbare textuur."
+     "label": "Huidtextuur",
+     "title": "PDRN",
+     "body": "Mariene PDRN verhoogt de celvernieuwing, wat een doffe teint verheldert en zichtbare textuur gladder maakt."
     },
     {
-     "label": "Bio peptidecomplex",
+     "label": "Stevigheid",
      "title": "Acetyl Hexapeptide-8",
-     "body": "Signaalpeptiden verminderen oppervlaktespanning en ondersteunen de natuurlijke collageenelasticiteit, voor een steviger ogende huid met meer veerkracht."
+     "body": "Dit peptide ondersteunt de elasticiteit van collageen, voor een huid die er steviger uitziet."
     },
     {
      "label": "Diepe hydratatie",
-     "title": "Hydratatiematrix",
+     "title": "Hyaluronzuur en panthenol",
      "body": "Hyaluronzuur, natrium PCA en panthenol werken samen om vocht meer dan 24 uur in de huidbarrière vast te houden."
     }
    ],
@@ -778,7 +778,7 @@
    "footnote": "*Bio cellulaire activiteit beoordeeld via in vitro en ex vivo klinische evaluaties. Resultaten kunnen verschillen per individuele huidtoestand."
   },
   "ecosystem": {
-   "label": "Het volledige plan",
+   "label": "Je plan",
    "title": "Krijg volledige routineondersteuning",
    "sub": "Samen met je serum omvat elk Tava Labs plan:",
    "items": [
@@ -791,7 +791,7 @@
    "note": "Pauzeer, pas aan of annuleer Subscribe and Save wanneer je wilt. Eenmalige aankopen blijven beschikbaar voor $49."
   },
   "clinical": {
-   "label": "Klinische werkzaamheid",
+   "label": "Klinische tests",
    "titleLead": "Zorg voor je",
    "titleAccent": "huidgezondheid",
    "imgAlts": [
@@ -802,16 +802,16 @@
    "note": "Topische bio actieve evaluaties op basis van 8 weken consumentenperceptie en instrumentele hydratatietests. Individuele huidbarrières, genetica en omgeving beïnvloeden specifieke tijdlijnen en uitkomsten."
   },
   "formulary": {
-   "label": "Het formularium",
+   "label": "Formules vergelijken",
    "title": "Welke huidverzorgingsbehandeling past bij jou?",
-   "sub": "Gerichte formules voor verschillende huiddoelen, zorgen en routines. Bouw het regime dat past bij een werkschema.",
+   "sub": "Formules voor verschillende huiddoelen, zorgen en routines. Kies de formule die bij je huid en je schema past.",
    "serumAlt": "PDRN Brightening Serum",
    "serumPriceLine": "Subscribe and Save $39/mnd",
    "serumOneTime": "of $49 eenmalig",
    "primaryBenefit": "Belangrijkste voordeel",
    "howToUse": "Hoe te gebruiken",
    "activeIngredient": "Werkzaam ingrediënt",
-   "serumBenefitValue": "Luminositeit en stevigheid",
+   "serumBenefitValue": "Helderheid en stevigheid",
    "serumHowValue": "AM en PM",
    "serumActiveValue": "PDRN + Acetyl Hexapeptide-8",
    "selectSerum": "Selecteer serum",
@@ -874,13 +874,13 @@
    ]
   },
   "protocol": {
-   "label": "Protocol voor het dagelijkse regime",
+   "label": "Zo gebruik je het",
    "titleLead": "Eén eenvoudige routine,",
    "titleAccent": "twee keer per dag",
-   "sub": "Consistentie telt. Volg deze stappen ochtend en avond zodat de peptiden en PDRN hun werk kunnen doen, en eindig met het insluiten van vocht.",
+   "sub": "Regelmaat telt. Volg deze stappen 's ochtends en 's avonds en sluit af met vochtinbrengende crème om het vocht vast te houden.",
    "progressionLabel": "Klinische progressie",
    "progressionTitle": "Tijdlijn van zichtbare resultaten",
-   "progressionBody": "Meer glow en hydratatie in 7 tot 14 dagen; betere huidelasticiteit en barrièrestevigheid tegen week 4 tot 6.",
+   "progressionBody": "Een huid die er in 7 tot 14 dagen helderder en beter gehydrateerd uitziet; verbeterde huidelasticiteit en stevigheid van de barrière in week 4 tot 6.",
    "timelineAlt": "Voorbeeld van een resultatentijdlijn, week 1 tot 4 en daarna",
    "steps": [
     {
@@ -893,7 +893,7 @@
     },
     {
      "title": "Hydrateer en voed",
-     "body": "Sluit af met moisturizer om de peptiden in te sluiten en de ceramidebarrière te ondersteunen."
+     "body": "Breng daarna vochtinbrengende crème aan om de peptiden vast te houden en de huidbarrière te ondersteunen."
     },
     {
      "title": "Bescherm (alleen AM), SPF 30+",
@@ -906,13 +906,13 @@
    ]
   },
   "faqSection": {
-   "label": "Antwoorden en helderheid",
+   "label": "Vragen en antwoorden",
    "title": "Veelgestelde vragen",
    "viewAll": "Bekijk alle veelgestelde vragen",
    "items": [
     {
      "q": "Wat is PDRN en hoe helpt het de huid?",
-     "a": "PDRN (Polydeoxyribonucleotide) bestaat uit DNA fragmenten die bio compatibel zijn met menselijke huidcellen. Het bevordert natuurlijke celregeneratie, stimuleert microcirculatie en helpt de huidbarrière herstellen, voor zichtbare uitstraling en stevigheid."
+     "a": "PDRN (Polydeoxyribonucleotide) bestaat uit DNA-fragmenten die biocompatibel zijn met menselijke huidcellen. Het bevordert natuurlijke celvernieuwing, stimuleert de microcirculatie en helpt de huidbarrière te herstellen, voor een huid die er helderder en steviger uitziet."
     },
     {
      "q": "Hoe neem ik het PDRN Brightening Serum op in mijn huidverzorgingsroutine?",
@@ -933,7 +933,7 @@
    ]
   },
   "finalCta": {
-   "title": "Je gezicht zit in elke pitch. Houd het klaar.",
+   "title": "Eén serum voor een huid die er helderder, gehydrateerd en gladder uitziet.",
    "line": "PDRN Brightening Serum · $49.00 / 30ml · Clean en vegan · Diepe hydratatie · Annuleer wanneer je wilt"
   },
   "gallery": {
@@ -949,13 +949,13 @@
  },
  "about": {
   "label": "Over ons",
-  "titleLead": "Huidverzorging voor",
-  "titleAccent": "de ambitieuzen.",
+  "titleLead": "Een gezichtsserum voor elke dag",
+  "titleAccent": "voor oprichters.",
   "tagline": "Bouw je bedrijf. Verwaarloos jezelf niet.",
-  "p1": "Tava Labs is een merk voor persoonlijk onderhoud voor mensen die bedrijven bouwen. Je uiterlijk is deel van je professionele aanwezigheid. Hoe je verschijnt op camera, in de pitch en in de kamer is deel van hoe je werk wordt gelezen.",
-  "p2": "Wij maken één ding, en wij maken het goed. Een dagelijks serum dat je huid er beheerst, gehydrateerd en klaar laat uitzien, zonder ingewikkelde routine.",
-  "p3": "Tava Labs is opgericht voor oprichters, makers en professionals die investeren in de persoon achter het bedrijf. Eén stap, ochtend en avond, vóór de vergaderingen, de pitches en het camerawerk.",
-  "p4": "Dit is huidverzorging als onderhoud, niet als ijdelheid. Dezelfde discipline die je aan je bedrijf geeft, toegepast op jezelf.",
+  "p1": "Tava Labs is een huidverzorgingsmerk voor mensen die bedrijven bouwen. Je uiterlijk is deel van je professionele aanwezigheid. Mensen zien je elke dag op camera, in pitchvergaderingen en op het werk.",
+  "p2": "Wij maken één ding, en we maken het goed. Een serum voor elke dag dat je huid er gehydrateerd en uitgerust uit laat zien, zonder ingewikkelde routine.",
+  "p3": "Tava Labs is opgericht voor oprichters en ondernemers. Eén stap, 's ochtends en 's avonds, vóór de vergaderingen, de pitches en het camerawerk.",
+  "p4": "Huidverzorging, behandeld als basisverzorging. Dezelfde regelmaat die je in je bedrijf brengt, toegepast op je eigen routine.",
   "serumLabel": "Het serum",
   "serumTitle": "PDRN Brightening Serum",
   "serumAlt": "PDRN Brightening Serum",
@@ -968,10 +968,10 @@
   ],
   "priceLine": "$49 eenmalig, of $39 per maand met Subscribe & Save.",
   "philosophyLabel": "Onze filosofie",
-  "quote": "“Een gezonde huid is het aantrekkelijkste wat je kunt dragen.”",
+  "quote": "“Eén serum, twee minuten, 's ochtends en 's avonds. Dat is de hele routine.”",
   "philosophyCaption": "De filosofie van Tava Labs",
-  "philosophyP1": "Wij geloven dat je voor jezelf moet zorgen zoals je voor je werk zorgt: consequent en zonder drama. Klein dagelijks onderhoud wint het van af en toe een grote ingreep.",
-  "philosophyP2": "Wij beloven geen transformatie. Wij maken een goed geformuleerd dagelijks serum, vertellen je precies wat erin zit en laten de routine voor zichzelf spreken.",
+  "philosophyP1": "Wij geloven dat je voor jezelf moet zorgen zoals je voor je werk zorgt, met kleine stappen die je elke dag consequent doet.",
+  "philosophyP2": "Wij beloven geen transformatie. Wij maken een goed geformuleerd serum voor elke dag en vertellen je precies wat erin zit.",
   "onlineTitle": "Alleen online",
   "onlineSegments": [
    {
@@ -1030,7 +1030,7 @@
     "q": "Wat is het PDRN Brightening Serum?",
     "a": [
      {
-      "text": "Een dagelijks serum gebouwd rond PDRN (Polydeoxyribonucleotide) en Acetyl Hexapeptide-8, met natriumhyaluronaat en panthenol. Het is een dagelijkse routine voor de teint: breng ochtend en avond aan ter ondersteuning van een helderder, egaler ogende teint en een beheerste, cameraklare blik."
+      "text": "Een serum voor elke dag, opgebouwd rond PDRN (Polydeoxyribonucleotide) en Acetyl Hexapeptide-8, met natriumhyaluronaat en panthenol. Breng het 's ochtends en 's avonds aan om een teint te ondersteunen die er helderder en egaler uitziet."
      }
     ]
    },
@@ -1145,7 +1145,7 @@
   "keyItems": [
    {
     "name": "PDRN (Polydeoxyribonucleotide)",
-    "body": "De belangrijkste werkstof. Ondersteunt een helderder, egaler ogende teint en een beheerste, cameraklare blik."
+    "body": "Ons belangrijkste actieve ingrediënt. Ondersteunt een teint die er helderder en egaler uitziet."
    },
    {
     "name": "Acetyl Hexapeptide-8",
@@ -1174,15 +1174,15 @@
   "label": "Word partner van Tava Labs",
   "titleLead": "Geef je oprichters een gratis maand",
   "titleAccent": "Tava Labs.",
-  "intro": "Tava Labs werkt samen met accelerators, universiteiten, angel investeerders en oprichtercommunities. Je leden krijgen hun eerste maand van het PDRN Brightening Serum gratis, zodat de mensen die bedrijven bouwen kunnen zorgen voor de persoon achter het bedrijf.",
-  "tagline": "Een gratis maand, van ons, zonder kleine lettertjes.",
+  "intro": "Tava Labs werkt samen met accelerators, universiteiten, angel-investeerders en oprichtergemeenschappen. Je leden krijgen hun eerste maand van het PDRN Brightening Serum gratis.",
+  "tagline": "Een gratis maand van ons, zonder kosten en zonder verplichting.",
   "becomePartner": "Word partner",
   "partnershipsContact": "Contact voor partnerschappen",
   "audiences": [
    {
     "alt": "Startoprichters tijdens een acceleratorsessie",
     "title": "Voor accelerators",
-    "body": "Je oprichters pitchen, demoën en filmen content vanaf dag één. Geef ze een maand dagelijks onderhoud dat ze helpt beheerst en cameraklaar te verschijnen, en één ding minder om over na te denken tijdens het programma.",
+    "body": "Je oprichters pitchen, demonstreren en filmen content vanaf dag één. Geef ze een maand dagelijkse huidverzorging die tijdens het programma twee minuten per dag duurt.",
     "how": "Zo werkt het: wij verzenden naar elke oprichter in je cohort één gratis fles, met een persoonlijk plan uit de huidquiz. Jij stelt ons één keer voor; wij regelen al het andere."
    },
    {
@@ -1194,7 +1194,7 @@
    {
     "alt": "Investeerdersgesprek met een oprichter",
     "title": "Voor angel investeerders",
-    "body": "Je steunt de persoon net zozeer als het bedrijf. Een gratis maand Tava Labs is een attent cadeau voor de oprichters in je portfolio, en het ondersteunt de dagelijkse routine van de mensen in wie je hebt geïnvesteerd.",
+    "body": "Een gratis maand Tava Labs is een praktisch cadeau voor de oprichters in je portfolio. Wij regelen de levering en hun persoonlijke plannen.",
     "how": "Zo werkt het: vertel ons hoeveel oprichters je wilt verrassen, en wij regelen de levering en hun persoonlijke plannen. Geen kosten voor jou en geen kosten voor hen."
    }
   ],
@@ -1218,7 +1218,7 @@
     "body": "Eén stap, ochtend en avond. Het past bij het schema van een oprichter omdat het daarvoor is ontworpen."
    }
   ],
-  "formulationTitle": "Schone, doordachte formulering.",
+  "formulationTitle": "Gemaakt zonder deze ingrediënten.",
   "formulationSub": "Het serum is gemaakt zonder de ingrediënten waar je leden het meest naar vragen:",
   "stepsTitle": "Hoe een partnerschap werkt",
   "steps": [
@@ -1232,11 +1232,11 @@
    },
    {
     "title": "Jij geeft het cadeau",
-    "body": "Je leden krijgen een gratis maand dagelijks onderhoud, met onze dank aan jou in elke doos."
+    "body": "Je leden krijgen een gratis maand van het serum, met een bedankbriefje van ons in elke doos."
    }
   ],
-  "closingTitleLead": "Laten we een gratis maand in handen van je oprichters",
-  "closingTitleAccent": "leggen.",
+  "closingTitleLead": "Geef je oprichters een",
+  "closingTitleAccent": "gratis maand.",
   "closingSegments": [
    {
     "text": "Mail naar "
@@ -1261,7 +1261,7 @@
   "label": "The Tava Journal",
   "titleLead": "Slaap en stressonderzoek",
   "titleAccent": "voor oprichters",
-  "sub": "Slaapwetenschap, stressonderzoek en prestatieinzicht voor oprichters.",
+  "sub": "Artikelen over slaapwetenschap, stressonderzoek en huidgezondheid voor oprichters en ondernemers.",
   "readStory": "Lees het verhaal"
  },
  "research": {
@@ -1334,7 +1334,7 @@
   ],
   "peopleBg": "Mensen",
   "participantsLabel": "Wie deelnam",
-  "participantsTitle": "De mensen achter de gemiddelden.",
+  "participantsTitle": "Wie aan het programma heeft deelgenomen.",
   "participantsSub": "Vijf bezoeken tijdens het programma, van baseline tot en met week 16.",
   "ageLabel": "Gemiddelde leeftijd",
   "ageSuffix": "Jaar oud · Bereik 20 tot 48",
@@ -1672,7 +1672,7 @@
   "claimEmpty": "Gekocht via de quiz of deze site? Je bevestigingsmail en de pagina direct na het afrekenen toonden een claimcode. Open de Tava mobiele app, log in en voer de code in op het tabblad Bestellingen. Je aankoop, plan en quizantwoorden bewegen mee naar je appaccount. Hier op het web toont inloggen met hetzelfde e-mailadres waarmee je afrekende al alles hierboven. Verder niets in te voeren.",
   "shop": {
    "eyebrow": "PDRN Brightening Serum",
-   "title": "The Science of Attractive Health",
+   "title": "Shop Tava Labs",
    "body": "1 fl oz (30 ml). Verminder fijne lijntjes, hydrateer diep, herstel uitstraling en versterk de huid. 2 tot 4 pompjes, ochtend en avond.",
    "subscribeLine": "Abonneer, $39 per maand.",
    "subscribeRest": " Elke maand automatisch een verse fles.",

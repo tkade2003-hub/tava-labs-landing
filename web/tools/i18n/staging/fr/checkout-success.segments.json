@@ -1,0 +1,123 @@
+{
+ "slug": "checkout-success",
+ "title": "Commande confirmée | Votre PDRN Brightening Serum | Tava Labs",
+ "description": "Votre commande de PDRN Brightening Serum Tava Labs est confirmée. Votre code de réclamation relie cet achat à l'application, où vous pouvez voir votre programme, vos réponses au questionnaire et votre commande.",
+ "segments": [
+  {
+   "id": 0,
+   "text": "TAVA"
+  },
+  {
+   "id": 1,
+   "text": "LABS"
+  },
+  {
+   "id": 2,
+   "text": "PDRN Brightening Serum"
+  },
+  {
+   "id": 3,
+   "text": "&#10003;"
+  },
+  {
+   "id": 4,
+   "text": "Commande confirmée"
+  },
+  {
+   "id": 5,
+   "text": "Merci pour votre commande."
+  },
+  {
+   "id": 6,
+   "text": "Bienvenue dans vos 30 jours."
+  },
+  {
+   "id": 7,
+   "text": "Votre commande du PDRN Brightening Serum est confirmée et en cours de préparation. Voici la suite :"
+  },
+  {
+   "id": 8,
+   "text": "E-mail"
+  },
+  {
+   "id": 9,
+   "text": "Un e-mail de confirmation est en route vers l'adresse utilisée lors du paiement, gardez-le : c'est votre reçu et il contient le même code de réclamation que celui affiché ci-dessous."
+  },
+  {
+   "id": 10,
+   "text": "Livraison"
+  },
+  {
+   "id": 11,
+   "text": "Votre flacon sera expédié par notre partenaire logistique dans les prochains jours ouvrables. Le suivi sera envoyé à la même adresse e-mail dès qu’il sera en route."
+  },
+  {
+   "id": 12,
+   "text": "Votre programme"
+  },
+  {
+   "id": 13,
+   "text": "Votre programme personnalisé de 30 jours, vos réponses, votre calendrier de montée en puissance et vos horaires matin et soir sont enregistrés et vous attendent dans l'application."
+  },
+  {
+   "id": 14,
+   "text": "Référence de paiement : "
+  },
+  {
+   "id": 15,
+   "text": "Votre achat apparaît dans l'application"
+  },
+  {
+   "id": 16,
+   "text": "Votre programme vit dans l'application Tava, avec les validations quotidiennes matin et soir, votre série et le suivi de votre envoi. L'application n'est pas encore sur l'App Store, voici donc votre "
+  },
+  {
+   "id": 17,
+   "text": "code de réclamation"
+  },
+  {
+   "id": 18,
+   "text": ": gardez-le en lieu sûr. Quand vous installerez l'application, connectez-vous et saisissez ce code, et votre programme, vos réponses et cette commande rejoindront votre compte avec lui. Rien à retaper, et rien à racheter."
+  },
+  {
+   "id": 19,
+   "text": "Votre code de réclamation pour l’application"
+  },
+  {
+   "id": 20,
+   "text": "Recherche de votre code de réclamation…"
+  },
+  {
+   "id": 21,
+   "text": "Copier le code de réclamation"
+  },
+  {
+   "id": 22,
+   "text": "Copier le lien de réclamation"
+  },
+  {
+   "id": 23,
+   "text": "Ouvrir dans l'application, si elle est installée"
+  },
+  {
+   "id": 24,
+   "text": "Vous avez aussi reçu le code par e-mail, le même code, gardez celui qui vous convient le mieux. Le code fonctionne une seule fois, uniquement pour votre compte, et c'est ainsi que nous savons que l'achat est le vôtre (votre e-mail seul ne suffit jamais)."
+  },
+  {
+   "id": 25,
+   "text": "Des questions sur votre commande ? Écrivez à "
+  },
+  {
+   "id": 26,
+   "text": "talia@tavalabs.app"
+  },
+  {
+   "id": 27,
+   "text": " et nous réglerons cela."
+  },
+  {
+   "id": 28,
+   "text": "Tava Labs · PDRN Brightening Serum pour les fondateurs · Des questions ? talia@tavalabs.app"
+  }
+ ]
+}
