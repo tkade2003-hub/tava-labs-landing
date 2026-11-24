@@ -96,7 +96,7 @@
     "openMenu": "Open menu",
     "closeMenu": "Close menu",
     "language": "Language",
-    "tagline": "PDRN Brightening Serum for founders",
+    "tagline": "Skincare for entrepreneurs",
     "shopHeading": "Shop",
     "contactHeading": "Contact us",
     "infoHeading": "Info",
@@ -133,7 +133,7 @@
     },
     "disclaimer1": "PDRN Brightening Serum is a cosmetic product. It is not intended to diagnose, treat, cure, or prevent any disease. Individual results may vary.",
     "disclaimer2": "All sales are final. Please see our Returns policy before ordering.",
-    "copyright": "© 2026 Tava Labs · PDRN Brightening Serum for founders",
+    "copyright": "© 2026 Tava Labs · Skincare for entrepreneurs",
     "notFoundLabel": "Tava Labs",
     "notFoundTitle": "Page not found",
     "notFoundBody": "That page is not here. It may have moved, or the address may be incomplete.",
@@ -176,18 +176,18 @@
   "home": {
     "introTitleLead": "Brighter, hydrated,",
     "introTitleAccent": "healthy looking skin",
-    "introBody": "Founders and business owners spend their days in meetings, on sales calls, and in recorded videos. Your face is on screen and in the room for all of it. The PDRN Brightening Serum is one lightweight step with PDRN, peptides, and hyaluronic acid. It absorbs quickly and helps skin look brighter, hydrated, and smooth. Two minutes, twice a day.",
+    "introBody": "Founders and business owners are on camera and in meetings all day, and your face is part of every pitch. One step with PDRN, peptides, and hyaluronic acid keeps skin looking brighter, hydrated, and smooth, in two minutes, twice a day.",
     "marqueeTagline": "One serum, morning and night",
     "marqueeSlogan": "Made for founders and business owners",
     "buildersTitle": "Made for founders and business owners",
     "buildersTagline": "Build your business. Do not neglect yourself.",
-    "buildersBody": "Founders and business owners present all day. You pitch investors in person, sell on video calls, and record videos for customers. Looking clean and rested is part of presenting your business well. A short daily skincare routine sits next to a good wardrobe and a reliable laptop as basic upkeep. The PDRN Brightening Serum takes two minutes, morning and night.",
+    "buildersBody": "Founders and business owners present all day: investor pitches, sales calls, and recorded videos. A two minute serum routine, morning and night, is basic upkeep, next to a good wardrobe and a reliable laptop.",
     "pitchAlt": "Founder pitching his idea to an investor",
     "pitchTitle": "In the pitch",
-    "pitchBody": "When you pitch investors in person, they see you before they see your slides. A daily serum routine helps your skin look bright, hydrated, and rested on the day.",
+    "pitchBody": "Investors see you before they see your slides. A daily serum helps your skin look bright, hydrated, and rested.",
     "cameraAlt": "Founder speaking in front of a camera",
     "cameraTitle": "On camera",
-    "cameraBody": "On a video shoot, a podcast, or a sales call, the camera shows tired skin up close. A two minute routine morning and night helps your skin look rested before you record.",
+    "cameraBody": "The camera shows tired skin up close. A two minute routine, morning and night, helps your skin look rested before you record.",
     "maintenanceTitle": "One serum is the whole routine.",
     "maintenanceBody": "Apply two to four drops of PDRN Brightening Serum to clean, dry skin, morning and night, then follow with moisturizer. The whole routine takes about two minutes a day.",
     "motionTitle": "Watch customer videos",
@@ -234,7 +234,7 @@
     ],
     "founderLabel": "A Message From Our Founder",
     "founderQuote": "“One serum, two minutes, morning and night. That is the whole routine.”",
-    "founderBody1": "That is the idea behind Tava Labs. The PDRN Brightening Serum is the one step the routine is built around: two minutes, twice a day, morning and night.",
+    "founderBody1": "The PDRN Brightening Serum is the one step the routine is built around. Two minutes, twice a day, morning and night.",
     "founderBody2": "Watch the video to hear why we made it, in our own words.",
     "founderPhilosophy": "The Tava Labs Philosophy",
     "founderVideoAria": "The Tava Labs video, why we made the PDRN Brightening Serum",
@@ -742,7 +742,7 @@
     "details": [
       {
         "title": "Meet PDRN Brightening Serum",
-        "body": "A lightweight, hydrating formula for smoother, more radiant looking skin. It absorbs quickly, leaves no residue, and keeps skin comfortable."
+        "body": "A lightweight formula for smoother, brighter looking skin. It absorbs quickly and leaves no residue."
       },
       {
         "title": "Ingredients and Formulation",
@@ -754,7 +754,7 @@
       },
       {
         "title": "Clean Skincare Guarantee",
-        "body": "Formulated to certified cruelty free standards, and made without fragrance, silicones, parabens, mineral oil, sulfates, phthalates, or common allergens. Dermatologist tested on all skin types."
+        "body": "Certified cruelty free, and made without fragrance, silicones, parabens, mineral oil, sulfates, phthalates, or common allergens. Dermatologist tested on all skin types."
       }
     ],
     "innovation": {
@@ -808,12 +808,12 @@
         "Supports Deep Hydration diagram",
         "Enhances Skin Texture diagram"
       ],
-      "note": "Topical bio active evaluations based on 8 week consumer perception and instrumental hydration tests. Individual skin barriers, genetics, and environment influence specific timelines and outcomes."
+      "note": "Based on 8 week consumer perception and instrumental hydration tests. Individual results vary with skin barrier, genetics, and environment."
     },
     "formulary": {
       "label": "Compare formulas",
       "title": "Which skincare treatment is right for you?",
-      "sub": "Formulas for different skin goals, concerns, and routines. Choose the one that fits your skin and your schedule.",
+      "sub": "Choose the formula that fits your skin and your schedule.",
       "serumAlt": "PDRN Brightening Serum",
       "serumPriceLine": "Subscribe and Save $39/mo",
       "serumOneTime": "or $49 one time",
@@ -886,7 +886,7 @@
       "label": "How to use it",
       "titleLead": "One simple routine,",
       "titleAccent": "twice a day",
-      "sub": "Consistency matters. Follow these steps morning and evening, and finish with moisturizer to hold the moisture in.",
+      "sub": "Follow these steps morning and evening, and finish with moisturizer.",
       "progressionLabel": "Clinical Progression",
       "progressionTitle": "Visible Results Timeline",
       "progressionBody": "Brighter, more hydrated skin in 7 to 14 days; improved skin elasticity and barrier firmness by week 4 to 6.",
@@ -894,7 +894,7 @@
       "steps": [
         {
           "title": "Cleanse, with a gentle wash",
-          "body": "Cleanse with a gentle, pH balanced wash to clear debris and prepare the skin, without stripping its natural lipids."
+          "body": "Cleanse with a gentle, pH balanced wash. It clears debris without stripping natural lipids."
         },
         {
           "title": "PDRN Serum, 2 to 4 drops",
@@ -921,7 +921,7 @@
       "items": [
         {
           "q": "What is PDRN and how does it benefit the skin?",
-          "a": "PDRN (Polydeoxyribonucleotide) is made of DNA fragments that are bio compatible with human skin cells. It promotes natural cell regeneration, stimulates microcirculation, and helps repair the skin barrier, for brighter, firmer looking skin."
+          "a": "PDRN (Polydeoxyribonucleotide) is made of DNA fragments that are bio compatible with human skin cells. It supports cell regeneration and microcirculation, and helps repair the skin barrier, for brighter, firmer looking skin."
         },
         {
           "q": "How do I incorporate PDRN Brightening Serum into my skincare routine?",
@@ -993,19 +993,19 @@
       "items": [
         {
           "title": "Copper peptide",
-          "body": "Copper peptide, listed on the label as Copper Lysinate/Prolinate, is the peptide in this formula. It is included to target the look of fine lines and wrinkles."
+          "body": "Copper peptide, listed on the label as Copper Lysinate/Prolinate, targets the look of fine lines and wrinkles."
         },
         {
           "title": "Cranberry fruit extract",
-          "body": "Cranberry fruit extract comes from the cranberry fruit. It is included as a plant extract in the daily moisturizer formula."
+          "body": "Cranberry fruit extract comes from the cranberry fruit and is a plant extract in this formula."
         },
         {
           "title": "Aloe vera and witch hazel",
-          "body": "Aloe vera leaf juice and witch hazel water are plant ingredients in the formula. They sit alongside glycerin, which helps skin hold moisture."
+          "body": "Aloe vera leaf juice and witch hazel water are plant ingredients in the formula. Glycerin helps skin hold moisture."
         },
         {
           "title": "Moringa and neem",
-          "body": "Moringa seed extract and neem leaf extract are plant extracts in the formula. Vitamin E, listed as Tocopheryl Acetate, is also included."
+          "body": "Moringa and neem are plant extracts in the formula. Vitamin E is also included."
         }
       ]
     },
@@ -1065,15 +1065,15 @@
     "serumStep": "Step one",
     "moisturizerStep": "Step two",
     "serumTitle": "PDRN Brightening Serum",
-    "serumBody": "A daily face serum with PDRN and peptides, for brighter and smoother looking skin. Apply 2 to 4 drops to clean skin before moisturizer, morning and night. 1 fl oz (30 ml).",
+    "serumBody": "A daily face serum with PDRN and peptides for brighter, smoother looking skin. Apply 2 to 4 drops to clean skin before moisturizer, morning and night. 1 fl oz (30 ml).",
     "serumPriceLine": "$49 one time, or $39 per month",
     "moisturizerTitle": "Peptide Moisturizer",
-    "moisturizerBody": "A face moisturizer with peptides and cranberry extract. It hydrates skin and targets the look of fine lines and wrinkles. Apply a dime sized amount after the serum, morning and night. 1.7 fl oz (50 ml).",
+    "moisturizerBody": "A face moisturizer with peptides and cranberry extract, for hydration and the look of fine lines and wrinkles. Apply a dime sized amount after the serum, morning and night. 1.7 fl oz (50 ml).",
     "moisturizerPriceLine": "$27.99 one time",
     "addonSerumBlurb": "The first step of the routine, for brighter and smoother looking skin. 1 fl oz (30 ml).",
     "addonMoisturizerBlurb": "The second step of the routine. It hydrates skin and targets the look of fine lines and wrinkles. 1.7 fl oz (50 ml).",
     "routineTitle": "The Routine",
-    "routineBody": "Both products together, used in order. Serum first, then moisturizer, morning and night. Two bottles, one routine.",
+    "routineBody": "Serum first, then moisturizer, morning and night. Two bottles, one routine.",
     "routinePriceLine": "Together $76.99 one time, 20 percent off, you pay $61.59"
   },
   "about": {
@@ -1081,19 +1081,19 @@
     "titleLead": "A daily face serum",
     "titleAccent": "for founders.",
     "tagline": "Build your business. Do not neglect yourself.",
-    "p1": "Tava Labs is a skincare brand for people building businesses. Your appearance is part of your professional presence. People see you on camera, in pitch meetings, and at work every day.",
+    "p1": "Tava Labs is a skincare brand for people building businesses. Your appearance is part of your professional presence, on camera, in pitch meetings, and at work every day.",
     "p2": "We make one thing, and we make it well. A daily serum that keeps your skin looking hydrated and rested, with no complicated routine.",
     "p3": "Tava Labs was founded for founders and business owners. One step, morning and night, before the meetings, the pitches, and the camera work.",
     "p4": "Skincare, treated as basic upkeep. The same consistency you bring to your business, applied to your own routine.",
     "serumLabel": "The Serum",
     "serumTitle": "PDRN Brightening Serum",
     "serumAlt": "PDRN Brightening Serum",
-    "serumBody": "A daily complexion routine built around PDRN (Polydeoxyribonucleotide) and Acetyl Hexapeptide-8, with Sodium Hyaluronate and Panthenol for hydration and comfort. Clean and fragrance free, and made without anything on our free from list.",
+    "serumBody": "A daily routine built around PDRN and Acetyl Hexapeptide-8, with Sodium Hyaluronate and Panthenol for hydration. Clean, fragrance free, and made without anything on our free from list.",
     "bullets": [
       "PDRN for a brighter, more even looking complexion.",
       "Acetyl Hexapeptide-8 to support the look of firmness.",
       "Sodium Hyaluronate and Panthenol for hydration.",
-      "Use twice daily: 2 to 4 pumps on clean, dry skin, morning and night."
+      "Use twice daily: 2 to 4 drops on clean, dry skin, morning and night."
     ],
     "priceLine": "$49 one time, or $39 a month with Subscribe & Save.",
     "philosophyLabel": "Our Philosophy",
