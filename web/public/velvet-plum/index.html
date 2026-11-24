@@ -121,8 +121,10 @@
   #loading{
     position:fixed;inset:0;z-index:6;display:flex;align-items:center;justify-content:center;
     font-size:13px;letter-spacing:.22em;text-transform:uppercase;font-weight:700;color:var(--plum);
-    pointer-events:none;transition:opacity .6s;
+    pointer-events:none;transition:opacity .6s;text-align:center;
   }
+  #loading span{max-width:88vw;}
+  #loading.error{pointer-events:auto;cursor:pointer;}
   /* ---------- reduced motion fallback ---------- */
   body.reduced #spacer{display:none;}
   body.reduced .panel{position:relative;opacity:1 !important;transform:none !important;padding:56px 22px 8px;}
@@ -183,7 +185,7 @@
 </section>
 
 <div id="hint">Scroll<span class="arrow">&#8595;</span></div>
-<div id="loading">Loading the ingredients</div>
+<div id="loading"><span id="loadingText">Loading the ingredients</span></div>
 <div id="spacer"></div>
 
 <script>
@@ -270,11 +272,6 @@
   }
 })();
 </script>
-<script src="models/cranberry.js"></script>
-<script src="models/aloe.js"></script>
-<script src="models/moringa.js"></script>
-<script src="models/jar-a.js"></script>
-<script src="models/jar-b.js"></script>
 <script type="importmap">
 {
   "imports": {
@@ -359,39 +356,126 @@ const world = new THREE.Group();
 scene.add(world);
 const models = {};
 let loadedCount = 0;
-/* models ship embedded as base64 in models/*.js because the repo push route
-   carries text only; decode each one to a blob URL the loader can fetch */
-function modelURL(name) {
-  let b64 = (window.VP_MODELS || {})[name];
-  if (!b64 && name === 'jar' && window.VP_JAR_A) b64 = window.VP_JAR_A + (window.VP_JAR_B || '');
-  if (!b64) return null;
-  const bin = atob(b64);
-  const bytes = new Uint8Array(bin.length);
-  for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
-  return URL.createObjectURL(new Blob([bytes], { type: 'model/gltf-binary' }));
-}
-const wanted = [
-  ['cranberry', modelURL('cranberry'), 2.1],
-  ['aloe',      modelURL('aloe'),      2.3],
-  ['moringa',   modelURL('moringa'),   2.3],
-  ['jar',       modelURL('jar'),       3.6],
+/* Models stream in as per model text files (models/*.b64) fetched in
+   parallel: nothing blocks the page, progress is real bytes received, each
+   model is decoded in chunks and parsed on its own, the loading note clears
+   as soon as the first model is ready, and a failed or stalled model never
+   blocks the scene. */
+const MODEL_DEFS = [
+  ['cranberry', 'models/cranberry.b64', 4025824, 2.1],
+  ['aloe',      'models/aloe.b64',      1784272, 2.3],
+  ['moringa',   'models/moringa.b64',   4408092, 2.3],
+  ['jar',       ['models/jar-1.b64', 'models/jar-2.b64'], 5782424, 3.6],
 ];
-for (const [name, url, size] of wanted) {
-  if (!url) { console.warn('model data missing', name); loadedCount++; continue; }
-  loader.load(url, gltf => {
+const TOTAL_B64 = MODEL_DEFS.reduce((s, d) => s + d[2], 0);
+const loadingEl = document.getElementById('loading');
+const loadingText = document.getElementById('loadingText');
+let receivedTotal = 0, settledCount = 0, failedCount = 0;
+let firstReady = false, retryShown = false;
+let lastProgressAt = performance.now();
+const controllers = {};
+
+function setProgressText() {
+  if (retryShown || firstReady) return;
+  const pct = Math.min(99, Math.floor(receivedTotal / TOTAL_B64 * 100));
+  loadingText.textContent = 'Loading the ingredients · ' + pct + '%';
+}
+function hideLoading() { loadingEl.style.opacity = '0'; }
+function showRetry() {
+  retryShown = true;
+  loadingText.textContent = 'The ingredients could not load. Tap to try again.';
+  loadingEl.style.opacity = '1';
+  loadingEl.classList.add('error');
+}
+loadingEl.addEventListener('click', () => { if (retryShown) location.reload(); });
+
+function onSettled(ok) {
+  settledCount++;
+  lastProgressAt = performance.now();
+  if (ok) {
+    loadedCount++;
+    if (!firstReady) { firstReady = true; hideLoading(); }
+  } else {
+    failedCount++;
+  }
+  if (settledCount === MODEL_DEFS.length) {
+    if (loadedCount === 0) {
+      showRetry();
+    } else if (failedCount > 0 && !retryShown) {
+      loadingText.textContent = 'One ingredient could not load.';
+      loadingEl.style.opacity = '1';
+      setTimeout(hideLoading, 5000);
+    }
+  }
+}
+
+/* stall watchdog: if no bytes and no settled model for 45 seconds, abort
+   whatever is still pending so the retry message can surface */
+const watchdog = setInterval(() => {
+  if (settledCount === MODEL_DEFS.length) { clearInterval(watchdog); return; }
+  if (performance.now() - lastProgressAt > 45000) {
+    for (const k in controllers) controllers[k].abort();
+    clearInterval(watchdog);
+  }
+}, 5000);
+
+async function fetchModelText(urls, ctrl) {
+  /* a model may ship as ordered parts; fetch them in order and join */
+  let out = '';
+  for (const url of [].concat(urls)) {
+    const res = await fetch(url, { signal: ctrl.signal });
+    if (!res.ok) throw new Error('http ' + res.status);
+    const reader = res.body.getReader();
+    const dec = new TextDecoder();
+    for (;;) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      receivedTotal += value.byteLength;
+      lastProgressAt = performance.now();
+      setProgressText();
+      out += dec.decode(value, { stream: true });
+    }
+    out += dec.decode();
+  }
+  return out;
+}
+
+async function decodeB64(text) {
+  const CH = 32768; /* multiple of 4 so slices stay aligned */
+  const parts = [];
+  let total = 0, n = 0;
+  for (let i = 0; i < text.length; i += CH) {
+    const bin = atob(text.slice(i, i + CH));
+    const u8 = new Uint8Array(bin.length);
+    for (let j = 0; j < bin.length; j++) u8[j] = bin.charCodeAt(j);
+    parts.push(u8); total += u8.length;
+    if (++n % 8 === 0) await new Promise(r => setTimeout(r, 0));
+  }
+  const buf = new Uint8Array(total);
+  let off = 0;
+  for (const p of parts) { buf.set(p, off); off += p.length; }
+  return buf.buffer;
+}
+
+async function loadModel([name, file, , size]) {
+  const ctrl = new AbortController();
+  controllers[name] = ctrl;
+  try {
+    const text = await fetchModelText(file, ctrl);
+    const buf = await decodeB64(text);
+    const gltf = await loader.parseAsync(buf, '');
     const g = normalize(gltf.scene, size);
     g.visible = false;
     world.add(g);
     models[name] = g;
     if (reduced && name === 'jar') fitReduced();
-    loadedCount++;
-    if (loadedCount >= 2) document.getElementById('loading').style.opacity = '0';
-  }, undefined, err => {
+    onSettled(true);
+  } catch (err) {
     console.warn('model failed', name, err);
-    loadedCount++;
-    if (loadedCount >= 2) document.getElementById('loading').style.opacity = '0';
-  });
+    onSettled(false);
+  }
 }
+for (const def of MODEL_DEFS) loadModel(def);
 
 /* ---------- golden peptide spheres and droplets ---------- */
 const goldMat = new THREE.MeshPhysicalMaterial({ color: 0xE8B558, metalness: 1.0, roughness: 0.18, clearcoat: 0.6, envMapIntensity: 1.5 });
