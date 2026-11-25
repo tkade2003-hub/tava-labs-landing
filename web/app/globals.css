@@ -103,6 +103,12 @@
 @import "tw-animate-css";
 @import "shadcn/tailwind.css";
 
+/* The Velvet Plum model data files are megabytes of base64 text. Keep them
+   out of the Tailwind source scan: reading them as class candidates is what
+   stalls the CSS loader during the production build. */
+@source not "../public/velvet-plum";
+@source not "../../public/velvet-plum";
+
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
