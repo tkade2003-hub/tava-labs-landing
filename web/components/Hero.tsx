@@ -1,116 +1,60 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowRight } from "lucide-react";
-import { HERO_MORNING, HERO_ON_SET } from "../lib/heroImages";
-import TaliaFigure from "./TaliaFigure";
+import { HERO_BOTTLE } from "../lib/heroImages";
 import { Button } from "@/components/ui/button";
 import { localizeHref, type Locale } from "@/lib/i18n/config";
 import type { Dict } from "@/lib/i18n/dictionaries";
 
 /*
-  Hero built 2026-11-23 from the reference Vashon supplied: a tinted
-  rounded panel with the copy at left and a founder photograph filling the
-  right, a forest ribbon with a line set along its curve sweeping across
-  the photo boundary, and a three card row under the panel whose wide card
-  carries the single Add to routine action. Recorded in the design system
-  MASTER.md section 8 the same day.
-  Refreshed the same day at Vashon direction: every photograph and every
-  line of copy in the hero is new to the page. The on set and morning
-  mirror photographs were generated for this hero; the wide card keeps
-  the real bottle mockup.
-  Panel figure changed the same day at Vashon direction: the pitch
-  photograph gave way to a treated photograph of Talia (her supplied
-  photo, wall removed, hem feathered) with a gold trend line behind her
-  plotting the measured acne lesion points of the 16 week participant
-  program and a frosted stat card at her side. The forest ribbon was
-  retired from the panel; the trend line and the card carry the graphic
-  movement now. Recorded in MASTER.md section 8.
+  Hero rebuilt 2026-11-25 at Vashon direction from the editorial design
+  audit reel he sent: the panel, the Talia figure with its trend line and
+  stat card, the eyebrow pill, and the three card row are retired. What
+  remains is a monumental upright headline set edge to edge on the paper
+  ground, the real bottle as a true alpha cutout floating dead center
+  over the headline with a soft studio shadow under it, quiet spec
+  labels pinned to the corners of a Swiss grid, and one frosted glass
+  dock at the bottom center holding the two real prices and the single
+  Add to routine action. The only motion is the slow float of the
+  bottle, and reduced motion turns it off. Recorded in the design
+  system MASTER.md section 8 the same day.
 */
 
 const heroCss = `
-.hr{position:relative;background:#FAFAF9;overflow:hidden}
-.hr-wrap{position:relative;max-width:1280px;margin:0 auto;padding:36px 24px 64px}
-.hr-panel{position:relative;border-radius:28px;overflow:hidden;background:#F6EEDF;display:grid;grid-template-columns:1fr 1.05fr;min-height:620px;box-shadow:0 24px 48px rgba(8,37,29,.10)}
-.hr-copy{position:relative;z-index:2;align-self:center;padding:64px 20px 64px 64px;min-width:0}
-.hr-pill{display:inline-flex;align-items:center;border:1px solid rgba(18,16,12,.30);border-radius:999px;padding:8px 16px;font-family:var(--font-kanit),Arial,sans-serif;font-size:12.5px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:#12100C;animation:hr-rise .8s cubic-bezier(0.22,1,0.36,1) both}
-.hr-pill-dot{width:7px;height:7px;border-radius:50%;background:var(--accent-pop);margin-right:10px;flex:none}
-.hr-title{font-family:'Futura extra font','Futura',sans-serif;font-style:italic;font-weight:900;font-size:clamp(40px,5vw,72px);line-height:1.02;letter-spacing:-.01em;color:#12100C;margin:26px 0 0;width:100%;text-wrap:balance}
-.hr-title .hr-line{display:block;animation:hr-rise .85s cubic-bezier(0.22,1,0.36,1) both}
-.hr-title .hr-line-2{animation-delay:.09s;color:#B78B45}
-.hr-sub{font-size:19px;line-height:1.55;color:#4C463C;max-width:470px;margin:24px 0 0;animation:hr-rise .85s cubic-bezier(0.22,1,0.36,1) .18s both}
-.hr-fig{position:relative;height:100%;min-height:620px;animation:hr-fade 1.1s cubic-bezier(0.22,1,0.36,1) .15s both}
-.hr-fig-line{position:absolute;inset:0;z-index:1;pointer-events:none}
-.hr-fig-line svg{position:absolute;inset:0;width:100%;height:100%;display:block}
-.hr-fig-path{fill:none;stroke:var(--accent-pop);stroke-width:3;vector-effect:non-scaling-stroke}
-.hr-dot{position:absolute;width:13px;height:13px;border-radius:50%;background:var(--accent-pop);border:2.5px solid #FFFDF8;box-shadow:0 1px 5px rgba(8,37,29,.25);transform:translate(-50%,-50%)}
-.hr-dot-a{left:3.5%;top:20%}
-.hr-dot-b{left:96.5%;top:74%}
-.hr-tag{position:absolute;font-family:var(--font-kanit),Arial,sans-serif;color:#5C4A22;line-height:1.2;text-align:center}
-.hr-tag b{display:block;font-size:13.5px;font-weight:600;letter-spacing:.08em;text-transform:uppercase}
-.hr-tag span{font-size:13px;font-weight:500}
-.hr-tag-a{left:3.5%;top:20%;transform:translate(-42%,-155%)}
-.hr-tag-b{left:96.5%;top:74%;transform:translate(-58%,125%)}
-.hr-fig-img{position:absolute;top:-14px;bottom:-14px;left:8%;right:8%;z-index:2}
-.hr-fig-tags{position:absolute;inset:0;z-index:3;pointer-events:none}
-.hr-stat-pos{position:absolute;z-index:4;left:20px;bottom:22px;width:256px}
-.hr-stat{background:rgba(255,255,255,.66);backdrop-filter:blur(14px) saturate(1.1);-webkit-backdrop-filter:blur(14px) saturate(1.1);border:1px solid rgba(255,255,255,.7);border-radius:20px;padding:16px 18px 14px;box-shadow:0 18px 36px rgba(8,37,29,.16);animation:hr-rise .85s cubic-bezier(0.22,1,0.36,1) .45s both}
-.hr-stat-top{display:flex;align-items:center;justify-content:space-between}
-.hr-stat-label{font-family:var(--font-kanit),Arial,sans-serif;font-size:12.5px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#4C463C}
-.hr-stat-icon{width:34px;height:34px;border-radius:50%;background:var(--accent-pop);display:grid;place-items:center;box-shadow:0 2px 6px rgba(8,37,29,.14)}
-.hr-stat-big{font-family:'Futura font',sans-serif;font-weight:700;font-size:33px;line-height:1.05;color:var(--accent-pop);margin:10px 0 0}
-.hr-stat-cap{font-size:15.5px;font-weight:600;color:#12100C;margin:3px 0 0}
-.hr-stat-note{font-size:11.5px;line-height:1.45;color:#6B6353;margin:7px 0 0}
-.hr-cards{margin-top:22px;display:grid;grid-template-columns:1fr 1fr 1.55fr;gap:22px}
-.hr-card{position:relative;display:block;border-radius:24px;overflow:hidden;text-decoration:none;animation:hr-rise .85s cubic-bezier(0.22,1,0.36,1) both}
-.hr-card-2{animation-delay:.1s}
-.hr-card-3{animation-delay:.2s}
-.hr-card:focus-visible{outline:2px solid #B78B45;outline-offset:3px}
-.hr-card-photo{aspect-ratio:3/3.4;background:#E7E2D9}
-.hr-card-photo img{transition:transform .7s cubic-bezier(0.22,1,0.36,1)}
-.hr-card:hover .hr-card-photo img{transform:scale(1.035)}
-.hr-shade{position:absolute;inset:0;background:linear-gradient(to top in oklch,rgba(8,37,29,.80) 0%,rgba(8,37,29,.28) 30%,rgba(8,37,29,0) 52%);pointer-events:none}
-.hr-card-pill{position:absolute;top:16px;left:16px;z-index:2;background:rgba(255,255,255,.88);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-radius:999px;padding:8px 14px;font-family:var(--font-kanit),Arial,sans-serif;font-size:12px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#12100C}
-.hr-arrow{position:absolute;top:16px;right:16px;z-index:2;width:40px;height:40px;border-radius:50%;background:var(--accent-pop);display:grid;place-items:center;color:#fff;transition:background .25s cubic-bezier(0.22,1,0.36,1)}
-.hr-card:hover .hr-arrow{background:var(--accent-pop)}
-.hr-caption{position:absolute;left:20px;bottom:18px;z-index:2;color:#fff;font-family:'Futura font',sans-serif;font-weight:700;font-size:21px;line-height:1.2;max-width:86%}
-.hr-wide{background:#F3E8D2;border:1px solid rgb(18 16 12 / 0.08);min-height:100%}
-.hr-wide-bottle{position:absolute;top:0;right:0;bottom:0;width:52%;-webkit-mask-image:linear-gradient(to right,transparent,black 22%);mask-image:linear-gradient(to right,transparent,black 22%)}
-.hr-wide-bottle img{mix-blend-mode:multiply;object-position:50% 50%;transform:scale(1.3)}
-.hr-wide-head{position:absolute;left:24px;bottom:84px;z-index:2;font-family:'Futura font',sans-serif;font-weight:700;font-size:28px;line-height:1.15;color:#12100C;max-width:250px}
-.hr-wide-action{position:absolute;left:24px;bottom:20px;z-index:2;display:flex;align-items:center;gap:18px;flex-wrap:wrap}
-.hr-price{font-size:15px;color:#4C463C}
-@keyframes hr-rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
-@keyframes hr-fade{from{opacity:0}to{opacity:1}}
+.he{position:relative;background:#FAFAF9;overflow:hidden}
+.he-stage{position:relative;max-width:1440px;margin:0 auto;min-height:clamp(660px,calc(100svh - 84px),880px);padding:0 24px}
+.he-head{position:relative;z-index:1;text-align:center;padding-top:clamp(52px,9vh,104px)}
+.he-title{font-family:'Futura extra font','Futura',sans-serif;font-weight:900;font-style:normal;font-size:clamp(40px,8vw,116px);line-height:1.0;letter-spacing:-.015em;color:#12100C;margin:0;text-wrap:balance}
+.he-title .he-line{display:block}
+.he-title .he-line-2{color:#B78B45}
+.he-bottle{position:absolute;left:50%;top:51%;transform:translate(-50%,-50%);z-index:2}
+.he-float{display:block;animation:he-float 8s ease-in-out infinite}
+.he-bottle img{display:block;height:clamp(340px,52vh,540px);width:auto}
+.he-shadow{position:absolute;left:50%;bottom:-30px;transform:translateX(-50%);width:72%;height:46px;background:radial-gradient(ellipse at center,rgba(8,37,29,.30) 0%,rgba(8,37,29,0) 68%);filter:blur(9px);animation:he-shadow 8s ease-in-out infinite}
+@keyframes he-float{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
+@keyframes he-shadow{0%,100%{transform:translateX(-50%) scaleX(1);opacity:.85}50%{transform:translateX(-50%) scaleX(.9);opacity:.6}}
+.he-corner{position:absolute;z-index:1;font-family:var(--font-kanit),Arial,sans-serif;font-size:12px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:#6F695C}
+.he-corner-tl{top:30px;left:30px}
+.he-corner-tr{top:30px;right:30px;text-align:right}
+.he-corner-bl{bottom:36px;left:30px}
+.he-corner-br{bottom:36px;right:30px;text-align:right}
+.he-dock{position:absolute;left:50%;bottom:30px;transform:translateX(-50%);z-index:3;display:flex;align-items:center;gap:22px;background:rgba(255,255,255,.7);backdrop-filter:blur(18px) saturate(1.25);-webkit-backdrop-filter:blur(18px) saturate(1.25);border:1px solid rgba(255,255,255,.85);outline:1px solid rgb(18 16 12 / 0.06);border-radius:999px;padding:10px 10px 10px 26px;box-shadow:0 24px 48px rgba(8,37,29,.16),0 4px 14px rgba(0,0,0,.08)}
+.he-price{font-size:15px;font-weight:600;color:#12100C;white-space:nowrap}
 @media (max-width:900px){
-.hr-wrap{padding:24px 18px 48px}
-.hr-panel{grid-template-columns:1fr;min-height:0}
-.hr-copy{padding:40px 24px 38px}
-.hr-pill{letter-spacing:.12em;padding:8px 14px}
-.hr-sub{font-size:18px}
-.hr-fig{height:440px;min-height:0}
-.hr-fig-img{left:6%;right:6%}
-.hr-stat-pos{left:12px;bottom:12px;width:214px}
-.hr-stat{padding:13px 15px 12px;border-radius:17px}
-.hr-stat-big{font-size:27px}
-.hr-stat-cap{font-size:14px}
-.hr-stat-note{font-size:10.5px}
-.hr-tag b{font-size:11px}
-.hr-tag span{font-size:11px}
-.hr-tag-a{transform:translate(-30%,-155%)}
-.hr-tag-b{transform:translate(-68%,125%)}
-.hr-cards{grid-template-columns:1fr;gap:18px;margin-top:18px}
-.hr-card-photo{aspect-ratio:4/3}
-.hr-wide{min-height:410px}
-.hr-wide-bottle img{transform:none}
-.hr-wide-head{font-size:26px;max-width:230px;bottom:164px}
+.he-corner-bl,.he-corner-br{display:none}
+.he-bottle{top:49%}
 }
 @media (max-width:640px){
-.hr-fig-img{top:4px;bottom:auto;height:336px;left:4%;right:4%}
+.he-stage{padding:0 18px}
+.he-corner{font-size:10.5px;letter-spacing:.1em}
+.he-corner-tl{top:20px;left:18px}
+.he-corner-tr{top:20px;right:18px}
+.he-bottle img{height:330px}
+.he-dock{flex-direction:column;gap:9px;padding:14px 22px 12px;bottom:20px;border-radius:28px;max-width:calc(100vw - 32px)}
+.he-price{font-size:14px}
 }
 @media (prefers-reduced-motion: reduce){
-.hr-pill,.hr-title .hr-line,.hr-sub,.hr-card,.hr-fig,.hr-stat{animation:none}
-.hr-card-photo img{transition:none}
+.he-float,.he-shadow{animation:none}
 }
 `;
 
@@ -124,84 +68,43 @@ export default function Hero({
   const t = dict.hero;
   const lh = (href: string) => localizeHref(href, locale);
   return (
-    <section className="hr" aria-label={t.ariaLabel}>
+    <section className="he" aria-label={t.ariaLabel}>
       <style>{heroCss}</style>
-      <div className="hr-wrap">
-        <div className="hr-panel">
-          <div className="hr-copy">
-            <p className="hr-pill"><span className="hr-pill-dot" aria-hidden="true" />{t.pill}</p>
-            <h1 className="hr-title">
-              <span className="hr-line">{t.line1}</span>
-              <span className="hr-line hr-line-2">{t.line2}</span>
-            </h1>
-            <p className="hr-sub">{t.sub}</p>
-          </div>
-          <TaliaFigure dict={dict} />
+      <div className="he-stage">
+        <span className="he-corner he-corner-tl">{t.ariaLabel}</span>
+        <span className="he-corner he-corner-tr">1 fl oz (30 ml)</span>
+        <span className="he-corner he-corner-bl">{t.pill}</span>
+        <span className="he-corner he-corner-br">{dict.chrome.tagline}</span>
+
+        <div className="he-head">
+          <h1 className="he-title">
+            <span className="he-line">{t.line1}</span>
+            <span className="he-line he-line-2">{t.line2}</span>
+          </h1>
         </div>
 
-        <div className="hr-cards">
-          <Link
-            href={lh("/glow-brightening-serum")}
-            className="hr-card hr-card-photo"
-            aria-label={t.cardAria}
-          >
+        <div className="he-bottle">
+          <span className="he-float">
             <Image
-              src={HERO_ON_SET}
-              alt={t.onSetAlt}
-              fill
-              sizes="(min-width: 900px) 28vw, 100vw"
-              style={{ objectPosition: "50% 25%" }}
+              src={HERO_BOTTLE}
+              alt={t.ariaLabel}
+              width={395}
+              height={1200}
+              priority
             />
-            <span className="hr-shade" aria-hidden="true" />
-            <span className="hr-card-pill">{t.onSetPill}</span>
-            <span className="hr-arrow" aria-hidden="true">
-              <ArrowRight size={18} strokeWidth={2} />
-            </span>
-            <span className="hr-caption">{t.onSetCaption}</span>
-          </Link>
+          </span>
+          <span className="he-shadow" aria-hidden="true" />
+        </div>
 
-          <Link
-            href={lh("/glow-brightening-serum")}
-            className="hr-card hr-card-photo hr-card-2"
-            aria-label={t.cardAria}
+        <div className="he-dock">
+          <span className="he-price">{t.priceLine}</span>
+          <Button
+            render={<Link href={lh("/glow-brightening-serum")} />}
+            size="lg"
+            className="accent-btn"
           >
-            <Image
-              src={HERO_MORNING}
-              alt={t.morningAlt}
-              fill
-              sizes="(min-width: 900px) 28vw, 100vw"
-              style={{ objectPosition: "50% 20%" }}
-            />
-            <span className="hr-shade" aria-hidden="true" />
-            <span className="hr-card-pill">{t.morningPill}</span>
-            <span className="hr-arrow" aria-hidden="true">
-              <ArrowRight size={18} strokeWidth={2} />
-            </span>
-            <span className="hr-caption">{t.morningCaption}</span>
-          </Link>
-
-          <div className="hr-card hr-wide hr-card-3">
-            <div className="hr-wide-bottle" aria-hidden="true">
-              <Image
-                src="/assets/products/pdrn-bright-serum/view-1-mockup.jpg"
-                alt=""
-                fill
-                sizes="(min-width: 900px) 30vw, 50vw"
-              />
-            </div>
-            <span className="hr-card-pill">{t.widePill}</span>
-            <p className="hr-wide-head">{t.wideHead}</p>
-            <div className="hr-wide-action">
-              <Button
-                render={<Link href={lh("/glow-brightening-serum")} />}
-                size="lg"
-                className="accent-btn"
-              >
-                {dict.chrome.addToRoutine}
-              </Button>
-              <span className="hr-price">{t.priceLine}</span>
-            </div>
-          </div>
+            {dict.chrome.addToRoutine}
+          </Button>
         </div>
       </div>
     </section>
